@@ -1,0 +1,255 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-07T23:18:46+08:00",
+  "items": [
+    {
+      "name": "strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "summary": "mirage 提供 AI Agent 统一虚拟文件系统，值得关注是因为它面向 Agent 沙箱和工具访问场景。",
+      "stars": 679,
+      "language": "TypeScript",
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ]
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "summary": "tokenspeed 是 LLM 推理引擎，值得关注是因为它聚焦模型推理速度和主流开源模型支持。",
+      "stars": 566,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ]
+    },
+    {
+      "name": "zarazhangrui/beautiful-html-templates",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "summary": "beautiful-html-templates 为 Coding Agent 提供 HTML 幻灯片模板，值得关注是因为它服务自动化内容生成流程。",
+      "stars": 345,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "joshawome/chainreason",
+      "url": "https://github.com/joshawome/chainreason",
+      "summary": "chainreason 评测 LLM 在 Ethereum 和 DeFi 任务中的推理能力，值得关注是因为它覆盖垂直推理基准。",
+      "stars": 285,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "butthtio/solidity-cot-auditor",
+      "url": "https://github.com/butthtio/solidity-cot-auditor",
+      "summary": "solidity-cot-auditor 用多角色 LLM 流水线审计 Solidity，值得关注是因为它结合 Slither 输出做安全分析。",
+      "stars": 261,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "TQ-trade-agent/tq-trading-agent",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "summary": "tq-trading-agent 编排 AI 股票研究和交易策略，值得关注是因为它结合 LangGraph 与 OpenAI 兼容 API。",
+      "stars": 236,
+      "language": "Vue",
+      "topics": [
+        "algorithmic-trading",
+        "financial-analysis",
+        "langchain",
+        "langgraph",
+        "openai",
+        "stock-research",
+        "trading-agent",
+        "trading-bot",
+        "typescript"
+      ]
+    },
+    {
+      "name": "bestpracticaI/kalshi-ai-trading-bot",
+      "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
+      "summary": "kalshi-ai-trading-bot 是预测市场交易机器人，值得关注是因为它把 LLM 接入量化交易自动化流程。",
+      "stars": 217,
+      "language": "TypeScript",
+      "topics": [
+        "algorithmic-trading",
+        "automated-trading",
+        "cli",
+        "event-contracts",
+        "exchange-api",
+        "fintech",
+        "kalshi",
+        "kalshi-api",
+        "kalshi-trading",
+        "llm",
+        "market-making",
+        "nodejs",
+        "nodejs-bot",
+        "npm",
+        "openrouter",
+        "prediction-markets",
+        "quantitative-finance",
+        "rest-api",
+        "trading-bot",
+        "typescript"
+      ]
+    },
+    {
+      "name": "jmerelnyc/Photo-agents",
+      "url": "https://github.com/jmerelnyc/Photo-agents",
+      "summary": "Photo-agents 构建具备视觉记忆和自写技能的自主 Agent，值得关注是因为它面向 computer-use 场景。",
+      "stars": 184,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "autonomous-agents",
+        "computer-use",
+        "llm",
+        "photo-agents",
+        "photographic-memory",
+        "python",
+        "self-evolving-agents",
+        "vision-agents"
+      ]
+    },
+    {
+      "name": "nostrband/ServiceGraph",
+      "url": "https://github.com/nostrband/ServiceGraph",
+      "summary": "ServiceGraph 提供专业服务公司目录的 AI Agent skills，值得关注是因为它结合 MCP 与 B2B 数据发现。",
+      "stars": 163,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "b2b-data",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-code-skills",
+        "claude-plugins",
+        "claude-skills",
+        "mcp-server",
+        "openapi",
+        "professional-services",
+        "vendor-discovery"
+      ]
+    },
+    {
+      "name": "NirDiamant/Agent_Memory_Techniques",
+      "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "summary": "Agent_Memory_Techniques 汇总可运行 Agent 记忆 Notebook，值得关注是因为它覆盖向量库、知识图谱和生产模式。",
+      "stars": 141,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "anthropic",
+        "cognitive-architecture",
+        "cookbook",
+        "episodic-memory",
+        "graphiti",
+        "jupyter-notebook",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm-agents",
+        "llm-memory",
+        "mem0",
+        "memgpt",
+        "openai",
+        "rag",
+        "tutorial",
+        "vector-database",
+        "zep"
+      ]
+    },
+    {
+      "name": "darkrishabh/agent-skills-eval",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "summary": "agent-skills-eval 是 AI Agent skills 测试运行器，值得关注是因为它面向技能评测和 JSONL 自动化。",
+      "stars": 129,
+      "language": "TypeScript",
+      "topics": [
+        "agent-evals",
+        "agent-skills",
+        "agentskills",
+        "ai-agents",
+        "cli",
+        "jsonl",
+        "llm-evals",
+        "llm-evaluation",
+        "openai-compatible",
+        "typescript",
+        "yaml"
+      ]
+    },
+    {
+      "name": "liangdabiao/Fashion-AI",
+      "url": "https://github.com/liangdabiao/Fashion-AI",
+      "summary": "Fashion-AI 自动生成电商宣传图，值得关注是因为它把检索、风格分析和 AI 生图串成业务流水线。",
+      "stars": 119,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "alvinunreal/openpets",
+      "url": "https://github.com/alvinunreal/openpets",
+      "summary": "openpets 为 AI 编码 Agent 提供桌面宠物状态展示，值得关注是因为它通过 MCP 连接 Claude Code。",
+      "stars": 85,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "bun",
+        "claude-code",
+        "coding-agents",
+        "desktop-pet",
+        "electron",
+        "mcp",
+        "opencode",
+        "openpets",
+        "pixel-art"
+      ]
+    },
+    {
+      "name": "imkunal007219/claude-coworker-model",
+      "url": "https://github.com/imkunal007219/claude-coworker-model",
+      "summary": "claude-coworker-model 将批量 I/O 委派给低成本 LLM，值得关注是因为它针对 Claude Code 成本优化。",
+      "stars": 75,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "enmanuelmag/agent-harness-kit",
+      "url": "https://github.com/enmanuelmag/agent-harness-kit",
+      "summary": "agent-harness-kit 提供多 Agent 工作流脚手架，值得关注是因为它强调模型无关的结构化运行框架。",
+      "stars": 60,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "llm"
+      ]
+    }
+  ]
+}

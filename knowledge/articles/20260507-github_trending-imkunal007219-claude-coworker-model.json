@@ -1,0 +1,22 @@
+{
+  "id": "20260507-github_trending-imkunal007219-claude-coworker-model",
+  "title": "imkunal007219/claude-coworker-model",
+  "source": "github_trending",
+  "source_url": "https://github.com/imkunal007219/claude-coworker-model",
+  "summary": "降低 Claude Code 批量 I/O 成本。",
+  "highlights": [
+    "仓库描述为把批量 I/O 委派给低成本 LLM。",
+    "提到 Kimi、DeepSeek、Ollama 等替代模型。",
+    "Python 实现，当前 75 stars。"
+  ],
+  "score": 6,
+  "score_reason": "成本优化问题真实存在，但原始信息涉及节省比例等主张，需验证后才能提高评分。",
+  "tags": ["Claude Code", "LLM", "Cost Optimization", "Coding Agent", "Python"],
+  "status": "draft",
+  "collected_at": "2026-05-07T23:18:46+08:00",
+  "language": "Python",
+  "metadata": {
+    "stars": 75,
+    "distribution_channels": []
+  }
+}

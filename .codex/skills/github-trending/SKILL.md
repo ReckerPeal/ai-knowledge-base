@@ -14,7 +14,7 @@ allowed-tools: Read, Grep, Glob, WebFetch
 
 1. 搜索热门仓库：优先使用 GitHub API 查询热门或近期高增长仓库，按 stars、created、pushed、topics、关键词等条件组合筛选。
 2. 提取信息：为每个候选仓库提取 `name`、`url`、`description`、`stars`、`language`、`topics` 等公开可见信息。
-3. 过滤候选：只纳入 AI、LLM、Agent 相关项目；排除 Awesome 列表、纯资源导航、无明确项目实现的集合类仓库。
+3. 过滤候选：纳入 AI、LLM、Agent 相关项目；排除 Awesome 列表、纯资源导航、无明确项目实现的集合类仓库。
 4. 去重：按仓库 URL、owner/name、项目名和主题相似度去重，保留来源最清晰、热度最高的一条。
 5. 撰写中文摘要：按“项目名 + 做什么 + 为什么值得关注”的公式生成摘要，避免编造未验证能力。
 6. 排序取 Top15：按热度、增长趋势、AI/LLM/Agent 相关性和工程价值综合排序，保留 Top15。
