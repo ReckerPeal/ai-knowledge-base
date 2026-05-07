@@ -50,7 +50,9 @@ temp/
 *~
 
 # OpenCode local state
-.codex/
+.codex/cache/
+.codex/tmp/
+.codex/logs/
 .opencode/cache/
 .opencode/tmp/
 .opencode/logs/
