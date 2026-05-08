@@ -8,6 +8,7 @@ import json
 import time
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any
 
 try:
@@ -18,6 +19,8 @@ except ModuleNotFoundError:
 
 LOGGER = logging.getLogger(__name__)
 
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ENV_FILE_PATH = PROJECT_ROOT / ".env"
 DEFAULT_PROVIDER = "deepseek"
 DEFAULT_TIMEOUT_SECONDS = 60.0
 DEFAULT_MAX_RETRIES = 3
@@ -332,6 +335,7 @@ def get_provider(provider_name: str | None = None) -> LLMProvider:
         ValueError: If the provider is unknown.
         RuntimeError: If the required API key is missing.
     """
+    load_env_file()
     provider = (provider_name or os.getenv("LLM_PROVIDER") or DEFAULT_PROVIDER).lower()
     config = PROVIDER_CONFIGS.get(provider)
     if config is None:
@@ -352,6 +356,36 @@ def get_provider(provider_name: str | None = None) -> LLMProvider:
         api_key=api_key,
         model=model,
     )
+
+
+def load_env_file(env_path: Path | None = None) -> None:
+    """Load simple ``KEY=VALUE`` pairs from a local environment file.
+
+    Existing process environment variables take precedence and are not
+    overwritten.
+
+    Args:
+        env_path: Path to the environment file.
+    """
+    resolved_path = env_path or ENV_FILE_PATH
+    if not resolved_path.exists():
+        return
+
+    try:
+        lines = resolved_path.read_text(encoding="utf-8").splitlines()
+    except OSError:
+        LOGGER.exception("Failed to read env file %s", resolved_path)
+        return
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or "=" not in stripped:
+            continue
+
+        key, value = stripped.split("=", 1)
+        key = key.strip()
+        if key and key not in os.environ:
+            os.environ[key] = value.strip().strip('"').strip("'")
 
 
 def create_provider(provider_name: str | None = None) -> LLMProvider:

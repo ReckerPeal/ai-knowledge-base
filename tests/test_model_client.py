@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import unittest
+from pathlib import Path
+from tempfile import TemporaryDirectory
 
 
 class CostTrackerTest(unittest.TestCase):
@@ -124,6 +126,29 @@ class CostTrackerTest(unittest.TestCase):
             self.assertEqual({}, usage)
         finally:
             model_client.chat = original_chat
+
+    def test_get_provider_loads_local_env_file(self) -> None:
+        """Provider config loads API keys from a local env file."""
+        from workflows import model_client
+
+        original_env_path = model_client.ENV_FILE_PATH
+        original_api_key = model_client.os.environ.pop("DEEPSEEK_API_KEY", None)
+
+        try:
+            with TemporaryDirectory() as temp_dir:
+                env_path = Path(temp_dir) / ".env"
+                env_path.write_text("DEEPSEEK_API_KEY=local-test-key\n", encoding="utf-8")
+                model_client.ENV_FILE_PATH = env_path
+
+                provider = model_client.get_provider("deepseek")
+
+            self.assertIsInstance(provider, model_client.OpenAICompatibleProvider)
+            self.assertTrue(provider.api_key == "local-test-key")
+        finally:
+            model_client.ENV_FILE_PATH = original_env_path
+            model_client.os.environ.pop("DEEPSEEK_API_KEY", None)
+            if original_api_key is not None:
+                model_client.os.environ["DEEPSEEK_API_KEY"] = original_api_key
 
 
 if __name__ == "__main__":

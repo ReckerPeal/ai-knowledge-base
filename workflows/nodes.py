@@ -26,7 +26,7 @@ GITHUB_QUERY = "AI LLM agent language:python"
 GITHUB_RESULT_LIMIT = 10
 REQUEST_TIMEOUT_SECONDS = 20
 REQUEST_MAX_RETRIES = 3
-MIN_ARTICLE_SCORE = 0.6
+MIN_ARTICLE_SCORE = 6.0
 FORCE_PASS_ITERATION = 2
 CHINA_TZ = timezone(timedelta(hours=8))
 
@@ -106,7 +106,7 @@ def analyze_node(state: KBState) -> dict[str, Any]:
         prompt = (
             "请基于以下 GitHub 仓库摘要生成中文结构化分析。\n"
             "输出 JSON 字段：summary(str)、content(str)、tags(list[str])、"
-            "score(float, 0-1)、language(str)。\n"
+            "score(float, 1-10)、language(str)。\n"
             f"来源摘要：{json.dumps(source, ensure_ascii=False)}"
         )
         analysis, usage = model_client.chat_json(prompt, system=system)
@@ -287,7 +287,7 @@ def _normalize_analysis(
         "summary": str(analysis.get("summary") or source.get("summary") or ""),
         "content": str(analysis.get("content") or analysis.get("summary") or ""),
         "tags": _normalize_tags(analysis.get("tags")),
-        "score": _as_float(analysis.get("score")),
+        "score": _normalize_score(analysis.get("score")),
         "published_at": source.get("published_at"),
         "collected_at": source.get("collected_at") or _now_iso(),
         "language": str(analysis.get("language") or source.get("language") or "unknown"),
@@ -313,7 +313,7 @@ def _revise_with_feedback(
     system = "你是知识库编辑，按审核反馈定向修改条目，输出必须是 JSON 对象。"
     prompt = (
         "请根据审核反馈修正以下知识条目，保持 source_url 不变。\n"
-        "输出 JSON：{\"articles\": [ ... ]}。\n"
+        "输出 JSON：{\"articles\": [ ... ]}，score 必须为 1-10。\n"
         f"审核反馈：{feedback}\n"
         f"条目：{json.dumps(analyses, ensure_ascii=False)}"
     )
@@ -414,8 +414,8 @@ def _validate_article(article: dict[str, Any]) -> None:
         raise ValueError(f"article missing required fields: {missing_fields}")
     if not isinstance(article["tags"], list):
         raise ValueError("article tags must be a list")
-    if not 0 <= _as_float(article["score"]) <= 1:
-        raise ValueError("article score must be between 0 and 1")
+    if not 1 <= _as_float(article["score"]) <= 10:
+        raise ValueError("article score must be between 1 and 10")
 
 
 def _normalize_tags(value: Any) -> list[str]:
@@ -445,6 +445,21 @@ def _as_float(value: Any) -> float:
         return float(value)
     except (TypeError, ValueError):
         return 0.0
+
+
+def _normalize_score(value: Any) -> float:
+    """Normalize model scores to the article schema's 1-10 scale.
+
+    Args:
+        value: Raw model score. Legacy 0-1 scores are accepted.
+
+    Returns:
+        Score clamped to the 1-10 range.
+    """
+    score = _as_float(value)
+    if 0 < score <= 1:
+        score *= 10
+    return min(max(score, 1.0), 10.0)
 
 
 def _article_id(collected_at: str, source_url: str) -> str:

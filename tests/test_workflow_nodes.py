@@ -81,6 +81,7 @@ class WorkflowNodesTest(unittest.TestCase):
             result = nodes.analyze_node(state)
 
         self.assertEqual(1, len(result["analyses"]))
+        self.assertEqual(8.0, result["analyses"][0]["score"])
         self.assertEqual(15, result["cost_tracker"]["total_tokens"])
 
     def test_organize_node_filters_deduplicates_and_revises_with_feedback(self) -> None:
@@ -96,7 +97,7 @@ class WorkflowNodesTest(unittest.TestCase):
                     "summary": "old",
                     "content": "old content",
                     "tags": ["AI"],
-                    "score": 0.9,
+                    "score": 9.0,
                 },
                 {
                     "title": "A duplicate",
@@ -104,7 +105,7 @@ class WorkflowNodesTest(unittest.TestCase):
                     "source_url": "https://example.com/a",
                     "summary": "duplicate",
                     "tags": ["AI"],
-                    "score": 0.8,
+                    "score": 8.0,
                 },
                 {
                     "title": "Low",
@@ -112,7 +113,7 @@ class WorkflowNodesTest(unittest.TestCase):
                     "source_url": "https://example.com/low",
                     "summary": "low",
                     "tags": ["AI"],
-                    "score": 0.5,
+                    "score": 5.0,
                 },
             ],
             "iteration": 1,
@@ -133,7 +134,7 @@ class WorkflowNodesTest(unittest.TestCase):
                             "summary": "revised",
                             "content": "revised content",
                             "tags": ["AI"],
-                            "score": 0.9,
+                            "score": 9.0,
                         }
                     ]
                 },
@@ -173,7 +174,7 @@ class WorkflowNodesTest(unittest.TestCase):
             "published_at": None,
             "collected_at": "2026-05-08T12:00:00+08:00",
             "language": "en",
-            "score": 0.8,
+            "score": 8.0,
             "metadata": {},
         }
 
