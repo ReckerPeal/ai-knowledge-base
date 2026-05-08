@@ -1,0 +1,25 @@
+{
+  "id": "20260508-rss-anil-recoil-org-notes-opam-ai-disclosure-8ad8108f",
+  "title": "A Proposal for Voluntary AI Disclosure in OCaml Code",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/opam-ai-disclosure",
+  "summary": "A proposal for voluntary AI disclosure in OCaml code metadata to enhance transparency and reproducibility.",
+  "content": "背景：该提案由Anil Madhavapeddy提出，旨在为OCaml生态系统的包管理器OPAM引入自愿性AI披露机制，以应对AI生成代码日益增多带来的透明度和可追溯性问题。亮点：提案建议在OPAM包的元数据中添加一个可选字段，用于声明代码是否由AI工具（如大型语言模型）生成或辅助生成，从而帮助开发者评估代码来源和潜在风险。限制：该机制为自愿性质，无法强制所有包维护者遵守，且AI生成代码的定义可能模糊，导致披露不一致。适用场景：适用于OCaml社区中需要明确代码来源的包管理流程，尤其适合对代码审计、合规性要求较高的项目，以及希望促进开放科学和可重复性研究的场景。",
+  "tags": [
+    "OCaml",
+    "AI disclosure",
+    "OPAM",
+    "transparency",
+    "reproducibility",
+    "voluntary metadata"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-03T16:56:30-05:00",
+  "collected_at": "2026-05-08T07:13:08.112264+00:00",
+  "language": "en",
+  "score": 7.0,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术"
+  }
+}
