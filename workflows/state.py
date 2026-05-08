@@ -34,6 +34,12 @@ class KBState(TypedDict):
     # 审核节点的布尔结论；True 表示当前 articles 已达到发布或归档质量门槛。
     review_passed: bool
 
+    # True 表示自动审核循环已超过上限，需要人工判断并已进入 pending_review。
+    needs_human_review: bool
+
+    # HumanFlag 节点写入的 pending_review 文件路径列表。
+    pending_review_paths: list[str]
+
     # 当前审核循环次数；从 0 或 1 开始由工作流维护，最多执行 3 次。
     iteration: int
 

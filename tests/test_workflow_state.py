@@ -23,6 +23,8 @@ class WorkflowStateTest(unittest.TestCase):
                 "articles",
                 "review_feedback",
                 "review_passed",
+                "needs_human_review",
+                "pending_review_paths",
                 "iteration",
                 "cost_tracker",
             },
@@ -34,6 +36,8 @@ class WorkflowStateTest(unittest.TestCase):
         self.assertEqual(list[dict], hints["articles"])
         self.assertEqual(str, hints["review_feedback"])
         self.assertEqual(bool, hints["review_passed"])
+        self.assertEqual(bool, hints["needs_human_review"])
+        self.assertEqual(list[str], hints["pending_review_paths"])
         self.assertEqual(int, hints["iteration"])
         self.assertEqual(dict, hints["cost_tracker"])
 

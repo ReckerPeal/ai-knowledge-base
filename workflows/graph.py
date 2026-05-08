@@ -13,6 +13,7 @@ if __package__ in {None, ""}:
 
 from langgraph.graph import END, StateGraph
 
+from workflows.human_flag import human_flag_node
 from workflows.nodes import (
     analyze_node,
     collect_node,
@@ -20,6 +21,7 @@ from workflows.nodes import (
     save_node,
 )
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
 from workflows.state import KBState
 
 
@@ -38,37 +40,45 @@ def build_graph() -> Any:
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
-    graph.add_edge("organize", "review")
+    graph.add_edge("analyze", "review")
     graph.add_conditional_edges(
         "review",
-        _route_after_review,
+        route_after_review,
         {
-            "save": "save",
             "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
+    graph.add_edge("organize", "save")
+    graph.add_edge("revise", "review")
+    graph.add_edge("human_flag", END)
     graph.add_edge("save", END)
     graph.set_entry_point("collect")
 
     return graph.compile()
 
 
-def _route_after_review(state: KBState) -> str:
-    """Route after the review node based on ``review_passed``.
+def route_after_review(state: KBState) -> str:
+    """Route to organize, revise, or human review after automated review.
 
     Args:
         state: Shared workflow state.
 
     Returns:
-        ``save`` when review passed, otherwise ``organize``.
+        ``organize`` when review passed, ``revise`` while the retry budget
+        remains, otherwise ``human_flag``.
     """
     if state.get("review_passed"):
-        return "save"
-    return "organize"
+        return "organize"
+    if int(state.get("iteration") or 0) >= 3:
+        return "human_flag"
+    return "revise"
 
 
 def main() -> None:
@@ -85,6 +95,8 @@ def main() -> None:
         "articles": [],
         "review_feedback": "",
         "review_passed": False,
+        "needs_human_review": False,
+        "pending_review_paths": [],
         "iteration": 0,
         "cost_tracker": {},
     }

@@ -93,15 +93,33 @@ class WorkflowGraphTest(unittest.TestCase):
         self.assertIsNotNone(fake_graph)
         self.assertEqual("collect", fake_graph.entry_point)
         self.assertEqual(
-            {"collect", "analyze", "organize", "review", "save"},
+            {
+                "collect",
+                "analyze",
+                "review",
+                "revise",
+                "human_flag",
+                "organize",
+                "save",
+            },
             set(fake_graph.nodes),
         )
         self.assertIn(("collect", "analyze"), fake_graph.edges)
-        self.assertIn(("analyze", "organize"), fake_graph.edges)
-        self.assertIn(("organize", "review"), fake_graph.edges)
+        self.assertIn(("analyze", "review"), fake_graph.edges)
+        self.assertIn(("revise", "review"), fake_graph.edges)
+        self.assertIn(("organize", "save"), fake_graph.edges)
+        self.assertIn(("human_flag", "__end__"), fake_graph.edges)
         self.assertIn(("save", "__end__"), fake_graph.edges)
         self.assertEqual(
-            ("review", graph_module._route_after_review, {"save": "save", "organize": "organize"}),
+            (
+                "review",
+                graph_module.route_after_review,
+                {
+                    "organize": "organize",
+                    "revise": "revise",
+                    "human_flag": "human_flag",
+                },
+            ),
             fake_graph.conditional_edges[0],
         )
 
@@ -109,8 +127,15 @@ class WorkflowGraphTest(unittest.TestCase):
         """Review router maps pass/fail state to branch keys."""
         graph_module = importlib.import_module("workflows.graph")
 
-        self.assertEqual("save", graph_module._route_after_review({"review_passed": True}))
-        self.assertEqual("organize", graph_module._route_after_review({"review_passed": False}))
+        self.assertEqual("organize", graph_module.route_after_review({"review_passed": True}))
+        self.assertEqual(
+            "revise",
+            graph_module.route_after_review({"review_passed": False, "iteration": 2}),
+        )
+        self.assertEqual(
+            "human_flag",
+            graph_module.route_after_review({"review_passed": False, "iteration": 3}),
+        )
 
     def test_main_logs_stream_events(self) -> None:
         """CLI smoke path logs key output from stream events."""
