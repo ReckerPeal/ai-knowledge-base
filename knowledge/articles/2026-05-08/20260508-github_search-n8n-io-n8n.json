@@ -1,0 +1,30 @@
+{
+  "id": "20260508-github_search-n8n-io-n8n",
+  "title": "n8n-io/n8n",
+  "source": "github_search",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "summary": "n8n 是一个公平代码的工作流自动化平台，支持可视化构建、自定义代码和原生 AI 能力，提供 400 多种集成。",
+  "content": "背景：n8n 由 n8n-io 开发，旨在提供一个灵活、可扩展的工作流自动化解决方案，弥补传统低代码平台在自定义和自托管方面的不足。亮点：拥有 187k+ 星标和 57k+ 分支，社区活跃；支持可视化拖拽构建与 JavaScript/Python 自定义代码混合使用；原生集成 AI 节点（如 OpenAI、Hugging Face），可构建智能工作流；支持自托管（Docker、Kubernetes）和云服务；400+ 预构建集成覆盖常见 SaaS 和数据库。限制：自托管需要一定运维能力；复杂工作流可能面临性能瓶颈；部分高级功能（如 SSO、审计日志）仅在付费云版本中提供。适用场景：企业内部流程自动化（如审批、数据同步）、AI 驱动的自动化（如内容生成、客服机器人）、开发者快速原型验证、中小团队的低代码工作流搭建。",
+  "tags": [
+    "workflow automation",
+    "low-code",
+    "AI",
+    "self-hosted",
+    "open source",
+    "n8n",
+    "integration",
+    "visual builder"
+  ],
+  "status": "draft",
+  "published_at": "2019-06-22T09:24:21Z",
+  "collected_at": "2026-05-08T07:13:06.654157+00:00",
+  "language": "typescript",
+  "score": 9.0,
+  "metadata": {
+    "author": "n8n-io",
+    "stars": 187038,
+    "forks": 57448,
+    "open_issues": 1441,
+    "updated_at": "2026-05-08T07:11:25Z"
+  }
+}

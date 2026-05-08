@@ -1,0 +1,28 @@
+{
+  "id": "20260508-github_search-public-apis-public-apis",
+  "title": "public-apis/public-apis",
+  "source": "github_search",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "summary": "public-apis/public-apis 是一个收集了大量免费公开 API 的 GitHub 仓库，旨在为开发者提供便捷的 API 资源索引。",
+  "content": "背景：该项目由社区维护，旨在整理和分享各种领域的免费公开 API，方便开发者快速查找和使用。亮点：拥有超过 43 万星标和 4.7 万分支，涵盖动物、艺术、商业、天气、金融等数十个类别，每个 API 都附有描述、认证方式、HTTPS 支持和 CORS 支持等详细信息。限制：部分 API 可能已失效或不再维护，且仓库更新频率依赖于社区贡献，存在信息滞后风险；此外，API 的质量和稳定性参差不齐，需要开发者自行验证。适用场景：适合原型开发、学习测试、个人项目或需要快速集成免费数据源的场景，但不建议直接用于生产环境，除非经过充分测试和评估。",
+  "tags": [
+    "API",
+    "免费",
+    "公开",
+    "开发者工具",
+    "资源列表",
+    "GitHub"
+  ],
+  "status": "draft",
+  "published_at": "2016-03-20T23:49:42Z",
+  "collected_at": "2026-05-08T07:13:06.654157+00:00",
+  "language": "python",
+  "score": 9.0,
+  "metadata": {
+    "author": "public-apis",
+    "stars": 433170,
+    "forks": 47380,
+    "open_issues": 1317,
+    "updated_at": "2026-05-08T07:11:35Z"
+  }
+}
