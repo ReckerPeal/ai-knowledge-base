@@ -33,9 +33,13 @@ class SupervisorTest(unittest.TestCase):
             "chat",
             side_effect=responses,
             create=True,
-        ):
+        ) as chat_mock:
             result = supervisor_module.supervisor("Analyze a repo")
 
+        worker_prompt = chat_mock.call_args_list[0].args[0]
+        supervisor_prompt = chat_mock.call_args_list[1].args[0]
+        self.assertIn("严谨的技术分析师", worker_prompt)
+        self.assertIn("资深质量审核负责人", supervisor_prompt)
         self.assertEqual({"summary": "Accurate analysis", "findings": []}, result["output"])
         self.assertEqual(1, result["attempts"])
         self.assertEqual(8, result["final_score"])

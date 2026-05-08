@@ -14,6 +14,16 @@ LOGGER = logging.getLogger(__name__)
 
 PASSING_SCORE = 7
 DEFAULT_MAX_RETRIES = 3
+WORKER_ROLE = (
+    "你是 Worker Agent，一名严谨的技术分析师。你的职责是基于任务要求"
+    "产出结构化分析报告，优先保证事实准确、推理清晰、结论可追溯；"
+    "不负责评价自己的输出质量。"
+)
+SUPERVISOR_ROLE = (
+    "你是 Supervisor Agent，一名资深质量审核负责人。你的职责是独立审核"
+    "Worker 的分析报告，按照准确性、深度和格式三个维度严格评分，"
+    "发现问题时给出可执行的改进反馈。"
+)
 
 
 def supervisor(task: str, max_retries: int = DEFAULT_MAX_RETRIES) -> dict[str, Any]:
@@ -87,7 +97,8 @@ def _run_worker(task: str, feedback: str | None) -> str:
         Raw Worker Agent response text.
     """
     prompt = (
-        "你是 Worker Agent。请完成用户任务，并只输出 JSON 格式的分析报告。\n"
+        f"{WORKER_ROLE}\n"
+        "请完成用户任务，并只输出 JSON 格式的分析报告。\n"
         "JSON 可包含 summary、findings、risks、recommendations 等字段；"
         "不要输出 Markdown 代码块或额外解释。\n"
         f"任务：{task}"
@@ -109,7 +120,8 @@ def _run_supervisor_review(task: str, worker_output: dict[str, Any]) -> dict[str
         Validated review JSON with ``passed``, ``score``, and ``feedback``.
     """
     prompt = (
-        "你是 Supervisor Agent。请审核 Worker Agent 的 JSON 分析报告质量。\n"
+        f"{SUPERVISOR_ROLE}\n"
+        "请审核 Worker Agent 的 JSON 分析报告质量。\n"
         "评分维度：准确性(1-10)、深度(1-10)、格式(1-10)。\n"
         "请综合三个维度给出整数总分 score，score >= 7 才能 passed=true。\n"
         "只输出 JSON，格式必须为："
