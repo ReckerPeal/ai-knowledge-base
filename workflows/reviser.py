@@ -43,11 +43,16 @@ def revise_node(state: KBState) -> dict[str, Any]:
         f"修订输入：{json.dumps(prompt_payload, ensure_ascii=False)}"
     )
 
-    revised, usage = chat_json(
-        prompt,
-        system=system,
-        temperature=REVISE_TEMPERATURE,
-    )
+    try:
+        revised, usage = chat_json(
+            prompt,
+            system=system,
+            temperature=REVISE_TEMPERATURE,
+        )
+    except Exception as exc:
+        LOGGER.warning("[ReviseNode] LLM revision failed; keeping current analyses: %s", exc)
+        return {}
+
     improved = revised.get("analyses")
     if not isinstance(improved, list):
         LOGGER.warning("[ReviseNode] revision response missing analyses list")

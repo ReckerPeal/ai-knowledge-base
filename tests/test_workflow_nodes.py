@@ -84,8 +84,8 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertEqual(8.0, result["analyses"][0]["score"])
         self.assertEqual(15, result["cost_tracker"]["total_tokens"])
 
-    def test_organize_node_filters_deduplicates_and_revises_with_feedback(self) -> None:
-        """Organize node filters low scores, deduplicates URLs, and applies feedback."""
+    def test_organize_node_filters_and_deduplicates_without_llm_revision(self) -> None:
+        """Organize node filters low scores and deduplicates URLs without LLM calls."""
         from workflows import nodes
 
         state = {
@@ -121,31 +121,13 @@ class WorkflowNodesTest(unittest.TestCase):
             "cost_tracker": {},
         }
 
-        with mock.patch.object(
-            nodes.model_client,
-            "chat_json",
-            return_value=(
-                {
-                    "articles": [
-                        {
-                            "title": "A",
-                            "source": "github_search",
-                            "source_url": "https://example.com/a",
-                            "summary": "revised",
-                            "content": "revised content",
-                            "tags": ["AI"],
-                            "score": 9.0,
-                        }
-                    ]
-                },
-                {"total_tokens": 3},
-            ),
-        ):
+        with mock.patch.object(nodes.model_client, "chat_json") as chat_json_mock:
             result = nodes.organize_node(state)
 
+        chat_json_mock.assert_not_called()
         self.assertEqual(1, len(result["articles"]))
-        self.assertEqual("revised", result["articles"][0]["summary"])
-        self.assertEqual(3, result["cost_tracker"]["total_tokens"])
+        self.assertEqual("old", result["articles"][0]["summary"])
+        self.assertEqual({}, result["cost_tracker"])
 
     def test_review_node_forces_pass_when_iteration_limit_reached(self) -> None:
         """Review node does not call LLM after the forced-pass iteration."""

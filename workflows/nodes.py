@@ -117,7 +117,7 @@ def analyze_node(state: KBState) -> dict[str, Any]:
 
 
 def organize_node(state: KBState) -> dict[str, Any]:
-    """Filter, deduplicate, and optionally revise analyzed articles.
+    """Filter, deduplicate, and format analyzed articles.
 
     Args:
         state: Shared workflow state containing ``analyses`` and review fields.
@@ -128,13 +128,6 @@ def organize_node(state: KBState) -> dict[str, Any]:
     LOGGER.info("[OrganizeNode] organizing analyzed articles")
     cost_tracker = dict(state.get("cost_tracker") or {})
     analyses = list(state.get("analyses", []))
-
-    if state.get("iteration", 0) > 0 and state.get("review_feedback"):
-        analyses, cost_tracker = _revise_with_feedback(
-            analyses,
-            str(state.get("review_feedback") or ""),
-            cost_tracker,
-        )
 
     articles: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
@@ -293,39 +286,6 @@ def _normalize_analysis(
         "language": str(analysis.get("language") or source.get("language") or "unknown"),
         "metadata": dict(source.get("metadata") or {}),
     }
-
-
-def _revise_with_feedback(
-    analyses: list[dict[str, Any]],
-    feedback: str,
-    cost_tracker: dict[str, Any],
-) -> tuple[list[dict[str, Any]], dict[str, Any]]:
-    """Revise analyses according to review feedback.
-
-    Args:
-        analyses: Current analysis list.
-        feedback: Review feedback text.
-        cost_tracker: Existing token usage summary.
-
-    Returns:
-        Revised analyses and updated token usage summary.
-    """
-    system = "你是知识库编辑，按审核反馈定向修改条目，输出必须是 JSON 对象。"
-    prompt = (
-        "请根据审核反馈修正以下知识条目，保持 source_url 不变。\n"
-        "输出 JSON：{\"articles\": [ ... ]}，score 必须为 1-10。\n"
-        f"审核反馈：{feedback}\n"
-        f"条目：{json.dumps(analyses, ensure_ascii=False)}"
-    )
-    revised, usage = model_client.chat_json(prompt, system=system)
-    updated_tracker = model_client.accumulate_usage(cost_tracker, usage)
-    articles = revised.get("articles")
-    if not isinstance(articles, list):
-        LOGGER.warning("[OrganizeNode] revision response missing articles list")
-        return analyses, updated_tracker
-
-    revised_analyses = [item for item in articles if isinstance(item, dict)]
-    return revised_analyses, updated_tracker
 
 
 def _format_article(analysis: dict[str, Any], score: float) -> dict[str, Any]:

@@ -98,6 +98,26 @@ class WorkflowReviserTest(unittest.TestCase):
 
         self.assertEqual({}, result)
 
+    def test_revise_node_returns_empty_update_when_llm_response_is_invalid(self) -> None:
+        """Reviser does not block the workflow on malformed LLM JSON."""
+        from workflows import reviser
+
+        with mock.patch.object(
+            reviser,
+            "chat_json",
+            side_effect=ValueError("invalid JSON"),
+        ), mock.patch.object(reviser.LOGGER, "warning") as warning_mock:
+            result = reviser.revise_node(
+                {
+                    "analyses": [{"title": "item"}],
+                    "review_feedback": "需要改进",
+                    "cost_tracker": {"total_tokens": 3},
+                }
+            )
+
+        self.assertEqual({}, result)
+        warning_mock.assert_called_once()
+
 
 if __name__ == "__main__":
     unittest.main()
