@@ -95,6 +95,36 @@ class CostTrackerTest(unittest.TestCase):
             model_client.tracker = original_tracker
             model_client.httpx = original_httpx
 
+    def test_accumulate_usage_supports_dict_usage(self) -> None:
+        """Usage summaries can be accumulated from dict-shaped usage data."""
+        from workflows.model_client import accumulate_usage
+
+        result = accumulate_usage(
+            {"prompt_tokens": 2, "completion_tokens": 3, "total_tokens": 5, "calls": 1},
+            {"prompt_tokens": 4, "completion_tokens": 6, "total_tokens": 10},
+        )
+
+        self.assertEqual(6, result["prompt_tokens"])
+        self.assertEqual(9, result["completion_tokens"])
+        self.assertEqual(15, result["total_tokens"])
+        self.assertEqual(2, result["calls"])
+
+    def test_chat_json_parses_object_response(self) -> None:
+        """chat_json parses a JSON object from chat text."""
+        from workflows import model_client
+
+        original_chat = model_client.chat
+
+        try:
+            model_client.chat = lambda prompt, system=None: ('{"ok": true}', {})
+
+            data, usage = model_client.chat_json("Return JSON")
+
+            self.assertEqual({"ok": True}, data)
+            self.assertEqual({}, usage)
+        finally:
+            model_client.chat = original_chat
+
 
 if __name__ == "__main__":
     unittest.main()

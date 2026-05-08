@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import os
+import json
 import time
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
@@ -465,6 +466,95 @@ def quick_chat(
         max_tokens=max_tokens,
     )
     return response.content
+
+
+def chat(prompt: str, system: str | None = None) -> tuple[str, Usage]:
+    """Send one prompt and return assistant text plus usage.
+
+    Args:
+        prompt: User prompt text.
+        system: Optional system instruction.
+
+    Returns:
+        Tuple of assistant text and token usage.
+    """
+    messages: list[dict[str, str]] = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
+
+    response = chat_with_retry(messages)
+    return response.content, response.usage
+
+
+def chat_json(prompt: str, system: str | None = None) -> tuple[dict[str, Any], Usage]:
+    """Send one prompt and parse the assistant response as a JSON object.
+
+    Args:
+        prompt: User prompt text.
+        system: Optional system instruction.
+
+    Returns:
+        Tuple of parsed JSON object and token usage.
+
+    Raises:
+        ValueError: If the assistant response is not a JSON object.
+    """
+    text, usage = chat(prompt, system=system)
+    cleaned_text = text.strip()
+    if cleaned_text.startswith("```"):
+        cleaned_text = cleaned_text.strip("`")
+        cleaned_text = cleaned_text.removeprefix("json").strip()
+
+    data = json.loads(cleaned_text)
+    if not isinstance(data, dict):
+        raise ValueError("chat_json response must be a JSON object")
+    return data, usage
+
+
+def accumulate_usage(
+    cost_tracker: dict[str, Any] | None,
+    usage: Any,
+) -> dict[str, Any]:
+    """Accumulate token usage into a mutable-friendly summary dictionary.
+
+    Args:
+        cost_tracker: Existing token usage summary.
+        usage: Usage dataclass or dict containing token counts.
+
+    Returns:
+        New token usage summary dictionary.
+    """
+    updated = dict(cost_tracker or {})
+
+    prompt_tokens = _usage_value(usage, "prompt_tokens")
+    completion_tokens = _usage_value(usage, "completion_tokens")
+    total_tokens = _usage_value(usage, "total_tokens")
+    if total_tokens == 0:
+        total_tokens = prompt_tokens + completion_tokens
+
+    updated["prompt_tokens"] = int(updated.get("prompt_tokens") or 0) + prompt_tokens
+    updated["completion_tokens"] = (
+        int(updated.get("completion_tokens") or 0) + completion_tokens
+    )
+    updated["total_tokens"] = int(updated.get("total_tokens") or 0) + total_tokens
+    updated["calls"] = int(updated.get("calls") or 0) + 1
+    return updated
+
+
+def _usage_value(usage: Any, field_name: str) -> int:
+    """Read one usage field from a dataclass-like object or dictionary.
+
+    Args:
+        usage: Usage dataclass, dictionary, or other object.
+        field_name: Token usage field name.
+
+    Returns:
+        Integer token count, defaulting to ``0``.
+    """
+    if isinstance(usage, dict):
+        return int(usage.get(field_name) or 0)
+    return int(getattr(usage, field_name, 0) or 0)
 
 
 def extract_content(response_data: dict[str, Any]) -> str:
