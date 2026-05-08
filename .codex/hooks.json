@@ -1,0 +1,42 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 hooks/validate_article_hook.py"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 hooks/validate_article_hook.py"
+          }
+        ]
+      },
+      {
+        "matcher": "MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 hooks/validate_article_hook.py"
+          }
+        ]
+      },
+      {
+        "matcher": "ApplyPatch",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 hooks/validate_article_hook.py"
+          }
+        ]
+      }
+    ]
+  }
+}

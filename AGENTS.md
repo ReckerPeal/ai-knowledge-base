@@ -53,7 +53,7 @@
   "published_at": "2026-05-07T10:30:00+08:00",
   "collected_at": "2026-05-07T11:00:00+08:00",
   "language": "en",
-  "score": 0.86,
+  "score": 8.6,
   "metadata": {
     "author": "owner",
     "stars": 12345,
@@ -75,7 +75,7 @@
 - `status`：处理状态，建议取值为 `draft`、`reviewed`、`published`、`archived`。
 - `published_at`：原内容发布时间；无法获取时为 `null`。
 - `collected_at`：采集时间，必须使用 ISO 8601。
-- `score`：AI 评估价值分，范围 `0.0` 到 `1.0`。
+- `score`：AI 评估价值分，范围 `1` 到 `10`。
 - `metadata`：来源相关扩展信息。
 
 ## Agent 角色概览

@@ -9,6 +9,7 @@ import json
 import logging
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
@@ -16,18 +17,24 @@ from urllib.parse import urlparse
 
 LOGGER = logging.getLogger(__name__)
 
-REQUIRED_FIELDS: dict[str, type] = {
+REQUIRED_FIELDS: dict[str, type | tuple[type, ...]] = {
     "id": str,
     "title": str,
+    "source": str,
     "source_url": str,
     "summary": str,
+    "content": str,
     "tags": list,
     "status": str,
+    "collected_at": str,
+    "language": str,
+    "score": (int, float),
+    "metadata": dict,
 }
 
-ID_PATTERN = re.compile(r"^[a-z][a-z0-9_]*-\d{8}-\d{3}$")
-VALID_STATUSES = {"draft", "review", "published", "archived"}
-VALID_AUDIENCES = {"beginner", "intermediate", "advanced"}
+ID_PATTERN = re.compile(r"^\d{8}-[a-z][a-z0-9_]*-[a-z0-9][a-z0-9_-]*$")
+SOURCE_PATTERN = re.compile(r"^[a-z][a-z0-9_]*$")
+VALID_STATUSES = {"draft", "reviewed", "published", "archived"}
 MIN_SUMMARY_LENGTH = 20
 
 
@@ -62,7 +69,7 @@ def expand_input_paths(patterns: list[str]) -> list[Path]:
     seen: set[Path] = set()
 
     for pattern in patterns:
-        matches = glob.glob(pattern)
+        matches = glob.glob(pattern, recursive=True)
         candidates = matches if matches else [pattern]
         for candidate in candidates:
             path = Path(candidate)
@@ -103,6 +110,20 @@ def load_json_file(path: Path) -> tuple[dict[str, Any] | None, list[str]]:
     return data, []
 
 
+def type_name(expected_type: type | tuple[type, ...]) -> str:
+    """Return a readable type name for validation messages.
+
+    Args:
+        expected_type: A type or tuple of accepted types.
+
+    Returns:
+        Human-readable type description.
+    """
+    if isinstance(expected_type, tuple):
+        return " or ".join(item.__name__ for item in expected_type)
+    return expected_type.__name__
+
+
 def validate_required_fields(data: dict[str, Any]) -> list[str]:
     """Validate required field presence and type.
 
@@ -119,9 +140,14 @@ def validate_required_fields(data: dict[str, Any]) -> list[str]:
             errors.append(f"missing required field: {field_name}")
             continue
 
-        if not isinstance(data[field_name], expected_type):
+        value = data[field_name]
+        if field_name == "score" and isinstance(value, bool):
+            errors.append("field score must be int or float, got bool")
+            continue
+
+        if not isinstance(value, expected_type):
             errors.append(
-                f"field {field_name} must be {expected_type.__name__}, "
+                f"field {field_name} must be {type_name(expected_type)}, "
                 f"got {type(data[field_name]).__name__}"
             )
 
@@ -141,6 +167,28 @@ def is_valid_url(value: str) -> bool:
     return parsed_url.scheme in {"http", "https"} and bool(parsed_url.netloc)
 
 
+def is_valid_iso8601(value: Any, *, allow_null: bool = False) -> bool:
+    """Check whether a value is an ISO 8601 timestamp.
+
+    Args:
+        value: Timestamp candidate.
+        allow_null: Whether ``None`` is accepted.
+
+    Returns:
+        True when the timestamp satisfies the constraint.
+    """
+    if value is None:
+        return allow_null
+    if not isinstance(value, str) or not value.strip():
+        return False
+
+    try:
+        datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return True
+
+
 def validate_article(data: dict[str, Any]) -> list[str]:
     """Validate a knowledge article JSON object.
 
@@ -154,7 +202,14 @@ def validate_article(data: dict[str, Any]) -> list[str]:
 
     article_id = data.get("id")
     if isinstance(article_id, str) and not ID_PATTERN.fullmatch(article_id):
-        errors.append("id must match {source}-{YYYYMMDD}-{NNN}, e.g. github-20260317-001")
+        errors.append(
+            "id must match {YYYYMMDD}-{source}-{resource}, "
+            "e.g. 20260507-github_trending-owner-repo"
+        )
+
+    source = data.get("source")
+    if isinstance(source, str) and not SOURCE_PATTERN.fullmatch(source):
+        errors.append("source must be snake_case, e.g. github_trending or hacker_news")
 
     status = data.get("status")
     if isinstance(status, str) and status not in VALID_STATUSES:
@@ -173,19 +228,28 @@ def validate_article(data: dict[str, Any]) -> list[str]:
     if isinstance(tags, list):
         if not tags:
             errors.append("tags must contain at least 1 item")
-        elif not all(isinstance(tag, str) for tag in tags):
-            errors.append("tags must contain only strings")
+        elif not all(isinstance(tag, str) and tag.strip() for tag in tags):
+            errors.append("tags must contain only non-empty strings")
+
+    for field_name in ("title", "source", "summary", "content", "language"):
+        value = data.get(field_name)
+        if isinstance(value, str) and not value.strip():
+            errors.append(f"{field_name} must not be empty")
+
+    if "published_at" not in data:
+        errors.append("missing required field: published_at")
+    elif not is_valid_iso8601(data.get("published_at"), allow_null=True):
+        errors.append("published_at must be null or an ISO 8601 timestamp")
+
+    collected_at = data.get("collected_at")
+    if isinstance(collected_at, str) and not is_valid_iso8601(collected_at):
+        errors.append("collected_at must be an ISO 8601 timestamp")
 
     score = data.get("score")
     if score is not None:
         is_number = isinstance(score, (int, float)) and not isinstance(score, bool)
         if not is_number or not 1 <= score <= 10:
             errors.append("score must be a number between 1 and 10")
-
-    audience = data.get("audience")
-    if audience is not None and audience not in VALID_AUDIENCES:
-        allowed = ", ".join(sorted(VALID_AUDIENCES))
-        errors.append(f"audience must be one of: {allowed}")
 
     return errors
 

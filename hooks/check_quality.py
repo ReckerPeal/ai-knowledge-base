@@ -162,7 +162,7 @@ def expand_input_paths(patterns: list[str]) -> list[Path]:
     seen: set[Path] = set()
 
     for pattern in patterns:
-        matches = glob.glob(pattern)
+        matches = glob.glob(pattern, recursive=True)
         candidates = matches if matches else [pattern]
         for candidate in candidates:
             path = Path(candidate)
