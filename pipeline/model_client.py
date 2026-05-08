@@ -252,6 +252,18 @@ def get_provider(provider_name: str | None = None) -> LLMProvider:
     )
 
 
+def create_provider(provider_name: str | None = None) -> LLMProvider:
+    """Create an LLM provider from environment variables.
+
+    Args:
+        provider_name: Optional provider override.
+
+    Returns:
+        Configured LLM provider instance.
+    """
+    return get_provider(provider_name)
+
+
 def chat_with_retry(
     messages: list[dict[str, str]],
     *,
