@@ -1,0 +1,79 @@
+name: Daily Knowledge Collect
+
+on:
+  schedule:
+    # UTC 10:00, Beijing 18:00.
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    name: Collect and Validate Articles
+    runs-on: ubuntu-latest
+
+    env:
+      LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collection pipeline
+        run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+
+      - name: Validate article JSON
+        run: |
+          mapfile -t article_files < <(find knowledge/articles -type f -name "*.json" | sort)
+          if [ "${#article_files[@]}" -eq 0 ]; then
+            echo "No article JSON files found."
+            exit 1
+          fi
+          python hooks/validate_json.py "${article_files[@]}"
+
+      - name: Check article quality
+        run: |
+          mapfile -t article_files < <(find knowledge/articles -type f -name "*.json" | sort)
+          if [ "${#article_files[@]}" -eq 0 ]; then
+            echo "No article JSON files found."
+            exit 1
+          fi
+          python hooks/check_quality.py "${article_files[@]}"
+
+      - name: Commit and push changes
+        run: |
+          if [ -z "$(git status --porcelain -- knowledge/raw knowledge/articles)" ]; then
+            echo "No new data to commit."
+            exit 0
+          fi
+
+          article_count="$(git status --porcelain -- knowledge/articles | awk '/\.json$/ {count++} END {print count+0}')"
+          commit_date="$(date -u +%Y-%m-%d)"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add knowledge/raw knowledge/articles
+
+          if git diff --cached --quiet; then
+            echo "No knowledge data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: collect ${article_count} articles on ${commit_date}"
+          git push
