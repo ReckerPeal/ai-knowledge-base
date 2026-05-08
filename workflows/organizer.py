@@ -12,7 +12,7 @@ from workflows.state import KBState
 
 LOGGER = logging.getLogger(__name__)
 
-MIN_ARTICLE_SCORE = 6.0
+DEFAULT_RELEVANCE_THRESHOLD = 0.5
 CHINA_TZ = timezone(timedelta(hours=8))
 
 
@@ -26,6 +26,8 @@ def organize_node(state: KBState) -> dict[str, Any]:
         Partial state update containing ``articles`` and ``cost_tracker``.
     """
     LOGGER.info("[OrganizeNode] organizing analyzed articles")
+    plan = state.get("plan", {}) or {}
+    threshold = float(plan.get("relevance_threshold", DEFAULT_RELEVANCE_THRESHOLD))
     cost_tracker = dict(state.get("cost_tracker") or {})
     analyses = list(state.get("analyses", []))
 
@@ -33,7 +35,7 @@ def organize_node(state: KBState) -> dict[str, Any]:
     seen_urls: set[str] = set()
     for analysis in analyses:
         score = _as_float(analysis.get("score"))
-        if score < MIN_ARTICLE_SCORE:
+        if _relevance_score(score) < threshold:
             continue
 
         source_url = str(analysis.get("source_url") or "")
@@ -102,6 +104,20 @@ def _as_float(value: Any) -> float:
         return float(value)
     except (TypeError, ValueError):
         return 0.0
+
+
+def _relevance_score(score: float) -> float:
+    """Normalize an article score to the plan threshold's 0-1 scale.
+
+    Args:
+        score: Article score, usually on the knowledge schema's 1-10 scale.
+
+    Returns:
+        Relevance score normalized to 0-1.
+    """
+    if score > 1:
+        return score / 10
+    return score
 
 
 def _article_id(collected_at: str, source_url: str) -> str:

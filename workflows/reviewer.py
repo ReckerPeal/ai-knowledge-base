@@ -15,6 +15,7 @@ LOGGER = logging.getLogger(__name__)
 REVIEW_LIMIT = 5
 PASS_THRESHOLD = 7.0
 REVIEW_TEMPERATURE = 0.1
+DEFAULT_MAX_ITERATIONS = 3
 SCORE_WEIGHTS: dict[str, float] = {
     "summary_quality": 0.25,
     "technical_depth": 0.25,
@@ -41,8 +42,19 @@ def review_node(state: KBState) -> dict[str, Any]:
     """
     LOGGER.info("[ReviewNode] reviewing analyses")
     iteration = int(state.get("iteration") or 0)
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", DEFAULT_MAX_ITERATIONS))
     cost_tracker = dict(state.get("cost_tracker") or {})
     analyses = list(state.get("analyses") or [])[:REVIEW_LIMIT]
+    if iteration >= max_iterations:
+        return {
+            "review_passed": True,
+            "review_feedback": (
+                f"iteration >= {max_iterations}，达到最大审核轮次，自动通过。"
+            ),
+            "iteration": iteration + 1,
+            "cost_tracker": cost_tracker,
+        }
 
     system = "你是 AI 技术知识库质量审核专家，输出必须是 JSON 对象。"
     prompt_payload = {

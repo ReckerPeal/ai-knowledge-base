@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import tempfile
+import urllib.parse
 import unittest
 from pathlib import Path
 from unittest import mock
@@ -14,7 +15,7 @@ class WorkflowNodesTest(unittest.TestCase):
 
     def test_collect_node_searches_github_and_returns_sources(self) -> None:
         """Collect node maps GitHub repository data to source summaries."""
-        from workflows import collect
+        from workflows import collector
 
         response_payload = {
             "items": [
@@ -44,12 +45,18 @@ class WorkflowNodesTest(unittest.TestCase):
                 """Return encoded JSON payload."""
                 return json.dumps(response_payload).encode("utf-8")
 
-        with mock.patch("workflows.collect.urllib.request.urlopen", return_value=FakeResponse()):
-            result = collect.collect_node({})
+        with mock.patch(
+            "workflows.collector.urllib.request.urlopen",
+            return_value=FakeResponse(),
+        ) as urlopen_mock:
+            result = collector.collect_node({"plan": {"per_source_limit": 3}})
 
         self.assertEqual(1, len(result["sources"]))
         self.assertEqual("owner/ai-agent", result["sources"][0]["title"])
         self.assertEqual("github_search", result["sources"][0]["source"])
+        request = urlopen_mock.call_args.args[0]
+        query = urllib.parse.parse_qs(urllib.parse.urlparse(request.full_url).query)
+        self.assertEqual(["3"], query["per_page"])
 
     def test_analyze_node_uses_llm_and_accumulates_usage(self) -> None:
         """Analyze node creates structured Chinese analyses from sources."""
@@ -116,6 +123,7 @@ class WorkflowNodesTest(unittest.TestCase):
                     "score": 5.0,
                 },
             ],
+            "plan": {"relevance_threshold": 0.7},
             "iteration": 1,
             "review_feedback": "摘要太短",
             "cost_tracker": {},

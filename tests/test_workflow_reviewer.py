@@ -95,13 +95,33 @@ class WorkflowReviewerTest(unittest.TestCase):
             side_effect=RuntimeError("provider unavailable"),
         ), mock.patch.object(reviewer.LOGGER, "exception"):
             result = reviewer.review_node(
-                {"plan": {}, "analyses": [{"title": "x"}], "iteration": 4}
+                {"plan": {}, "analyses": [{"title": "x"}], "iteration": 0}
             )
 
         self.assertTrue(result["review_passed"])
         self.assertIn("LLM 审核失败", result["review_feedback"])
-        self.assertEqual(5, result["iteration"])
+        self.assertEqual(1, result["iteration"])
         self.assertEqual({}, result["cost_tracker"])
+
+    def test_review_node_uses_plan_max_iterations_as_fallback(self) -> None:
+        """Reviewer auto-passes when the plan iteration budget is exhausted."""
+        from workflows import reviewer
+
+        with mock.patch.object(reviewer, "chat_json") as chat_json_mock:
+            result = reviewer.review_node(
+                {
+                    "plan": {"max_iterations": 2},
+                    "analyses": [{"title": "x"}],
+                    "iteration": 2,
+                    "cost_tracker": {"total_tokens": 1},
+                }
+            )
+
+        chat_json_mock.assert_not_called()
+        self.assertTrue(result["review_passed"])
+        self.assertIn("iteration >= 2", result["review_feedback"])
+        self.assertEqual(3, result["iteration"])
+        self.assertEqual({"total_tokens": 1}, result["cost_tracker"])
 
 
 if __name__ == "__main__":

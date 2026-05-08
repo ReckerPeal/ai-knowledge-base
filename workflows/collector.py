@@ -18,7 +18,7 @@ LOGGER = logging.getLogger(__name__)
 
 GITHUB_SEARCH_API = "https://api.github.com/search/repositories"
 GITHUB_QUERY = "AI LLM agent language:python"
-GITHUB_RESULT_LIMIT = 10
+DEFAULT_PER_SOURCE_LIMIT = 10
 REQUEST_TIMEOUT_SECONDS = 20
 REQUEST_MAX_RETRIES = 3
 CHINA_TZ = timezone(timedelta(hours=8))
@@ -34,12 +34,13 @@ def collect_node(state: KBState) -> dict[str, Any]:
         Partial state update containing ``sources``.
     """
     LOGGER.info("[CollectNode] collecting GitHub repositories")
-    del state
+    plan = state.get("plan", {}) or {}
+    limit = int(plan.get("per_source_limit", DEFAULT_PER_SOURCE_LIMIT))
 
     encoded_query = urllib.parse.quote(GITHUB_QUERY)
     url = (
         f"{GITHUB_SEARCH_API}?q={encoded_query}"
-        f"&sort=stars&order=desc&per_page={GITHUB_RESULT_LIMIT}"
+        f"&sort=stars&order=desc&per_page={limit}"
     )
     request = urllib.request.Request(
         url,

@@ -14,7 +14,7 @@ if __package__ in {None, ""}:
 from langgraph.graph import END, StateGraph
 
 from workflows.analyzer import analyze_node
-from workflows.collect import collect_node
+from workflows.collector import collect_node
 from workflows.human_flag import human_flag_node
 from workflows.organizer import organize_node
 from workflows.planner import planner_node
