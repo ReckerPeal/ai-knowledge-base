@@ -10,7 +10,7 @@ class CostTrackerTest(unittest.TestCase):
 
     def test_record_and_estimated_cost_use_provider_price_table(self) -> None:
         """Cost tracker aggregates usage and estimates CNY cost."""
-        from pipeline.model_client import CostTracker, Usage
+        from workflows.model_client import CostTracker, Usage
 
         tracker = CostTracker()
         tracker.record(
@@ -26,7 +26,7 @@ class CostTrackerTest(unittest.TestCase):
 
     def test_chat_success_records_usage(self) -> None:
         """Provider chat records token usage after a successful response."""
-        from pipeline import model_client
+        from workflows import model_client
 
         cost_tracker = model_client.CostTracker()
         original_tracker = model_client.tracker

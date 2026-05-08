@@ -7,7 +7,7 @@ import logging
 import sys
 from typing import Any
 
-from pipeline import model_client
+from workflows import model_client
 
 
 LOGGER = logging.getLogger(__name__)
@@ -167,7 +167,7 @@ def _validate_review(review: dict[str, Any]) -> dict[str, Any]:
 
 
 def _call_chat(prompt: str) -> str:
-    """Call ``pipeline.model_client.chat`` and return response text.
+    """Call ``workflows.model_client.chat`` and return response text.
 
     Args:
         prompt: Prompt text.
@@ -186,7 +186,7 @@ def _call_chat(prompt: str) -> str:
     if callable(quick_chat):
         return _extract_text(quick_chat(prompt))
 
-    raise RuntimeError("pipeline.model_client 缺少 chat() 或 quick_chat()")
+    raise RuntimeError("workflows.model_client 缺少 chat() 或 quick_chat()")
 
 
 def _extract_text(result: Any) -> str:

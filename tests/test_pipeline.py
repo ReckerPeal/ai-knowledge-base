@@ -13,7 +13,7 @@ class PipelineTest(unittest.TestCase):
 
     def test_parse_rss_items_extracts_basic_fields(self) -> None:
         """RSS parser extracts item title, link, date, and summary."""
-        from pipeline.pipeline import parse_rss_items
+        from workflows.pipeline import parse_rss_items
 
         rss_xml = """
         <rss><channel>
@@ -35,7 +35,7 @@ class PipelineTest(unittest.TestCase):
 
     def test_organize_articles_deduplicates_and_validates(self) -> None:
         """Organizer removes duplicate URLs and returns valid article objects."""
-        from pipeline.pipeline import CollectedItem, organize_articles
+        from workflows.pipeline import CollectedItem, organize_articles
 
         item = CollectedItem(
             title="Example AI Agent Framework",
@@ -63,7 +63,7 @@ class PipelineTest(unittest.TestCase):
 
     def test_save_articles_writes_dated_json_files(self) -> None:
         """Saving writes each article to knowledge/articles/YYYY-MM-DD."""
-        from pipeline.pipeline import save_articles
+        from workflows.pipeline import save_articles
 
         article = {
             "id": "20260508-rss-example",

@@ -23,7 +23,7 @@ import httpx
 try:
     from model_client import chat_with_retry, create_provider, tracker
 except ModuleNotFoundError:
-    from pipeline.model_client import chat_with_retry, create_provider, tracker
+    from workflows.model_client import chat_with_retry, create_provider, tracker
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]

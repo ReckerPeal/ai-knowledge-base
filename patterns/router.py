@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-from pipeline import model_client
+from workflows import model_client
 
 
 LOGGER = logging.getLogger(__name__)
@@ -377,7 +377,7 @@ def _query_terms(query: str) -> list[str]:
 
 
 def _call_chat(prompt: str, *, system_prompt: str | None = None) -> str:
-    """Call ``pipeline.model_client`` chat capability and return text.
+    """Call ``workflows.model_client`` chat capability and return text.
 
     Args:
         prompt: User prompt.
@@ -403,11 +403,11 @@ def _call_chat(prompt: str, *, system_prompt: str | None = None) -> str:
         result = quick_chat(prompt, system_prompt=system_prompt)
         return _extract_text_result(result)
 
-    raise RuntimeError("pipeline.model_client 缺少 chat() 或 quick_chat()")
+    raise RuntimeError("workflows.model_client 缺少 chat() 或 quick_chat()")
 
 
 def _call_chat_json(prompt: str) -> dict[str, Any]:
-    """Call ``pipeline.model_client.chat_json`` or parse a chat JSON response.
+    """Call ``workflows.model_client.chat_json`` or parse a chat JSON response.
 
     Args:
         prompt: JSON-only prompt.
