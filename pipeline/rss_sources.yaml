@@ -1,0 +1,45 @@
+sources:
+  - name: "Hacker News Best (AI related)"
+    url: "https://hnrss.org/best?q=AI+OR+LLM+OR+Agent"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters AI"
+    url: "https://lobste.rs/t/ai.rss"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters Machine Learning"
+    url: "https://lobste.rs/t/ml.rss"
+    category: "综合技术"
+    enabled: true
+
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: false
+
+  - name: "OpenAI Blog"
+    url: "https://openai.com/news/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml"
+    category: "公司博客"
+    enabled: false
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "机器之心"
+    url: "https://rsshub.app/jiqizhixin"
+    category: "中文社区"
+    enabled: false
+
+  - name: "量子位"
+    url: "https://rsshub.app/qbitai"
+    category: "中文社区"
+    enabled: false
