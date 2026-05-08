@@ -91,9 +91,10 @@ class WorkflowGraphTest(unittest.TestCase):
 
         self.assertIsInstance(app, FakeCompiledGraph)
         self.assertIsNotNone(fake_graph)
-        self.assertEqual("collect", fake_graph.entry_point)
+        self.assertEqual("plan", fake_graph.entry_point)
         self.assertEqual(
             {
+                "plan",
                 "collect",
                 "analyze",
                 "review",
@@ -104,6 +105,7 @@ class WorkflowGraphTest(unittest.TestCase):
             },
             set(fake_graph.nodes),
         )
+        self.assertIn(("plan", "collect"), fake_graph.edges)
         self.assertIn(("collect", "analyze"), fake_graph.edges)
         self.assertIn(("analyze", "review"), fake_graph.edges)
         self.assertIn(("revise", "review"), fake_graph.edges)
@@ -135,6 +137,12 @@ class WorkflowGraphTest(unittest.TestCase):
         self.assertEqual(
             "human_flag",
             graph_module.route_after_review({"review_passed": False, "iteration": 3}),
+        )
+        self.assertEqual(
+            "human_flag",
+            graph_module.route_after_review(
+                {"review_passed": False, "iteration": 2, "plan": {"max_iterations": 2}}
+            ),
         )
 
     def test_main_logs_stream_events(self) -> None:

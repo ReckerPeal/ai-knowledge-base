@@ -14,7 +14,7 @@ class WorkflowNodesTest(unittest.TestCase):
 
     def test_collect_node_searches_github_and_returns_sources(self) -> None:
         """Collect node maps GitHub repository data to source summaries."""
-        from workflows import nodes
+        from workflows import collect
 
         response_payload = {
             "items": [
@@ -44,8 +44,8 @@ class WorkflowNodesTest(unittest.TestCase):
                 """Return encoded JSON payload."""
                 return json.dumps(response_payload).encode("utf-8")
 
-        with mock.patch("workflows.nodes.urllib.request.urlopen", return_value=FakeResponse()):
-            result = nodes.collect_node({})
+        with mock.patch("workflows.collect.urllib.request.urlopen", return_value=FakeResponse()):
+            result = collect.collect_node({})
 
         self.assertEqual(1, len(result["sources"]))
         self.assertEqual("owner/ai-agent", result["sources"][0]["title"])
@@ -53,7 +53,7 @@ class WorkflowNodesTest(unittest.TestCase):
 
     def test_analyze_node_uses_llm_and_accumulates_usage(self) -> None:
         """Analyze node creates structured Chinese analyses from sources."""
-        from workflows import nodes
+        from workflows import analyzer
 
         state = {
             "sources": [
@@ -67,7 +67,7 @@ class WorkflowNodesTest(unittest.TestCase):
         }
 
         with mock.patch.object(
-            nodes.model_client,
+            analyzer.model_client,
             "chat_json",
             return_value=(
                 {
@@ -78,7 +78,7 @@ class WorkflowNodesTest(unittest.TestCase):
                 {"prompt_tokens": 10, "completion_tokens": 5, "total_tokens": 15},
             ),
         ):
-            result = nodes.analyze_node(state)
+            result = analyzer.analyze_node(state)
 
         self.assertEqual(1, len(result["analyses"]))
         self.assertEqual(8.0, result["analyses"][0]["score"])
@@ -86,7 +86,7 @@ class WorkflowNodesTest(unittest.TestCase):
 
     def test_organize_node_filters_and_deduplicates_without_llm_revision(self) -> None:
         """Organize node filters low scores and deduplicates URLs without LLM calls."""
-        from workflows import nodes
+        from workflows import organizer
 
         state = {
             "analyses": [
@@ -121,28 +121,15 @@ class WorkflowNodesTest(unittest.TestCase):
             "cost_tracker": {},
         }
 
-        with mock.patch.object(nodes.model_client, "chat_json") as chat_json_mock:
-            result = nodes.organize_node(state)
+        result = organizer.organize_node(state)
 
-        chat_json_mock.assert_not_called()
         self.assertEqual(1, len(result["articles"]))
         self.assertEqual("old", result["articles"][0]["summary"])
         self.assertEqual({}, result["cost_tracker"])
 
-    def test_review_node_forces_pass_when_iteration_limit_reached(self) -> None:
-        """Review node does not call LLM after the forced-pass iteration."""
-        from workflows import nodes
-
-        with mock.patch.object(nodes.model_client, "chat_json") as chat_json_mock:
-            result = nodes.review_node({"articles": [], "iteration": 2})
-
-        chat_json_mock.assert_not_called()
-        self.assertTrue(result["review_passed"])
-        self.assertIn("强制通过", result["review_feedback"])
-
     def test_save_node_writes_articles_and_index(self) -> None:
         """Save node writes dated article files and updates index.json."""
-        from workflows import nodes
+        from workflows import saver
 
         article = {
             "id": "20260508-github-owner-ai-agent",
@@ -161,8 +148,8 @@ class WorkflowNodesTest(unittest.TestCase):
         }
 
         with tempfile.TemporaryDirectory() as temp_dir:
-            with mock.patch.object(nodes, "ARTICLES_DIR", Path(temp_dir)):
-                result = nodes.save_node({"articles": [article]})
+            with mock.patch.object(saver, "ARTICLES_DIR", Path(temp_dir)):
+                result = saver.save_node({"articles": [article]})
                 saved_paths = result["saved_paths"]
 
             self.assertEqual(1, len(saved_paths))

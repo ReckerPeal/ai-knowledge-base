@@ -3,25 +3,25 @@
   "title": "FoundationAgents/MetaGPT",
   "source": "github_search",
   "source_url": "https://github.com/FoundationAgents/MetaGPT",
-  "summary": "MetaGPT 是一个多智能体框架，旨在模拟一家 AI 软件公司，通过自然语言编程实现软件开发的自动化。",
-  "content": "MetaGPT 是一个基于 Python 的多智能体框架，它模拟了一家 AI 软件公司的运作流程，通过自然语言编程实现软件开发的自动化。该框架将多个 AI 智能体组织成不同的角色（如产品经理、架构师、工程师等），协同完成从需求分析到代码生成的完整软件开发流程。MetaGPT 在 GitHub 上获得了 67783 颗星和 8628 个分支，拥有 121 个开放问题，展示了其在 AI 技术社区中的广泛关注和活跃度。",
+  "summary": "MetaGPT 是一个多智能体框架，旨在通过自然语言编程实现首个 AI 软件公司。",
+  "content": "MetaGPT 是一个开源的多智能体框架，由 FoundationAgents 组织开发，旨在模拟一个完整的 AI 软件公司。它通过将多个 AI 智能体（如产品经理、架构师、工程师等）协同工作，实现从自然语言需求到软件产品的自动化生成。该框架支持 Python 语言，拥有 67,789 颗星标和 8,630 个分支，社区活跃，开放问题 121 个。",
   "tags": [
     "多智能体框架",
     "自然语言编程",
     "AI 软件公司",
-    "自动化软件开发",
-    "Python"
+    "MetaGPT",
+    "开源"
   ],
   "status": "draft",
   "published_at": "2023-06-30T09:04:55Z",
-  "collected_at": "2026-05-08T18:14:39+08:00",
+  "collected_at": "2026-05-08T22:05:59+08:00",
   "language": "Python",
   "score": 9.5,
   "metadata": {
     "author": "FoundationAgents",
-    "stars": 67783,
-    "forks": 8628,
+    "stars": 67789,
+    "forks": 8630,
     "open_issues": 121,
-    "updated_at": "2026-05-08T09:24:08Z"
+    "updated_at": "2026-05-08T14:04:18Z"
   }
 }

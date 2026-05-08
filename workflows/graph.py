@@ -13,15 +13,14 @@ if __package__ in {None, ""}:
 
 from langgraph.graph import END, StateGraph
 
+from workflows.analyzer import analyze_node
+from workflows.collect import collect_node
 from workflows.human_flag import human_flag_node
-from workflows.nodes import (
-    analyze_node,
-    collect_node,
-    organize_node,
-    save_node,
-)
+from workflows.organizer import organize_node
+from workflows.planner import planner_node
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
+from workflows.saver import save_node
 from workflows.state import KBState
 
 
@@ -36,6 +35,7 @@ def build_graph() -> Any:
     """
     graph = StateGraph(KBState)
 
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
@@ -44,6 +44,7 @@ def build_graph() -> Any:
     graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
     graph.add_conditional_edges(
@@ -59,7 +60,7 @@ def build_graph() -> Any:
     graph.add_edge("revise", "review")
     graph.add_edge("human_flag", END)
     graph.add_edge("save", END)
-    graph.set_entry_point("collect")
+    graph.set_entry_point("plan")
 
     return graph.compile()
 
@@ -72,11 +73,15 @@ def route_after_review(state: KBState) -> str:
 
     Returns:
         ``organize`` when review passed, ``revise`` while the retry budget
-        remains, otherwise ``human_flag``.
+        remains, otherwise ``human_flag``. The retry budget comes from
+        ``state["plan"]["max_iterations"]`` and falls back to ``3``.
     """
+    plan = state.get("plan", {}) or {}
+    max_iter = int(plan.get("max_iterations", 3))
+
     if state.get("review_passed"):
         return "organize"
-    if int(state.get("iteration") or 0) >= 3:
+    if int(state.get("iteration") or 0) >= max_iter:
         return "human_flag"
     return "revise"
 

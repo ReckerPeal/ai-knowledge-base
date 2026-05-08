@@ -3,27 +3,28 @@
   "title": "langchain-ai/langchain",
   "source": "github_search",
   "source_url": "https://github.com/langchain-ai/langchain",
-  "summary": "LangChain 是一个智能体工程平台，提供 TypeScript 版本，用于构建基于大语言模型的应用程序。",
-  "content": "LangChain 是一个开源的智能体工程平台，支持 Python 和 TypeScript，旨在简化基于大语言模型（LLM）的应用程序开发。它提供了模块化的工具链，包括提示管理、链式调用、记忆机制和智能体框架，帮助开发者快速构建复杂的 AI 应用。该仓库拥有超过 13.6 万星标，社区活跃，更新频繁。",
+  "summary": "LangChain 是一个智能体工程平台，支持 TypeScript 和 Python，提供构建基于大语言模型的应用的框架和工具。",
+  "content": "LangChain 是一个开源的智能体工程平台，旨在简化基于大语言模型（LLM）的应用开发。它提供了模块化的组件，包括模型调用、提示管理、记忆、链式调用和智能体等，支持 TypeScript 和 Python 两种语言。该仓库由 langchain-ai 维护，拥有超过 13.6 万星标和 2.2 万分支，社区活跃，持续更新。LangChain 广泛应用于聊天机器人、文档问答、代码生成等场景，是当前最流行的 LLM 应用开发框架之一。",
   "tags": [
     "LangChain",
-    "智能体工程",
+    "智能体",
     "大语言模型",
     "LLM",
+    "框架",
     "TypeScript",
     "Python",
     "开源"
   ],
   "status": "draft",
   "published_at": "2022-10-17T02:58:36Z",
-  "collected_at": "2026-05-08T18:14:39+08:00",
+  "collected_at": "2026-05-08T22:05:59+08:00",
   "language": "Python",
   "score": 9.5,
   "metadata": {
     "author": "langchain-ai",
-    "stars": 136123,
-    "forks": 22497,
+    "stars": 136143,
+    "forks": 22498,
     "open_issues": 565,
-    "updated_at": "2026-05-08T10:02:11Z"
+    "updated_at": "2026-05-08T14:00:07Z"
   }
 }
