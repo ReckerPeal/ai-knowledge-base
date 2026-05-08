@@ -50,6 +50,12 @@ MODEL_COSTS_USD_PER_MILLION: dict[str, dict[str, float]] = {
     "gpt-4o-mini": {"input": 0.15, "output": 0.60},
 }
 
+PROVIDER_COSTS_CNY_PER_MILLION: dict[str, dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},
+}
+
 
 @dataclass(frozen=True)
 class Usage:
@@ -85,6 +91,100 @@ class LLMResponse:
     model: str
     provider: str
     cost_usd: float
+
+
+@dataclass
+class CostSummary:
+    """Aggregated token and cost data for one provider.
+
+    Attributes:
+        calls: Number of successful LLM calls.
+        prompt_tokens: Total input tokens.
+        completion_tokens: Total output tokens.
+        total_tokens: Total tokens.
+    """
+
+    calls: int = 0
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
+    total_tokens: int = 0
+
+
+class CostTracker:
+    """Track LLM token usage and estimated cost by provider."""
+
+    def __init__(
+        self,
+        price_table: dict[str, dict[str, float]] | None = None,
+    ) -> None:
+        """Initialize the cost tracker.
+
+        Args:
+            price_table: Optional provider price table in CNY per million tokens.
+        """
+        self.price_table = price_table or PROVIDER_COSTS_CNY_PER_MILLION
+        self._summaries: dict[str, CostSummary] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record one successful LLM API call.
+
+        Args:
+            usage: Token usage returned by the provider.
+            provider: Provider name, such as ``deepseek`` or ``qwen``.
+        """
+        normalized_provider = provider.lower()
+        summary = self._summaries.setdefault(normalized_provider, CostSummary())
+        summary.calls += 1
+        summary.prompt_tokens += usage.prompt_tokens
+        summary.completion_tokens += usage.completion_tokens
+        summary.total_tokens += usage.total_tokens
+
+    def estimated_cost(self, provider: str) -> float:
+        """Return estimated provider cost in CNY.
+
+        Args:
+            provider: Provider name to estimate.
+
+        Returns:
+            Estimated cost in yuan. Unknown providers return ``0.0``.
+        """
+        normalized_provider = provider.lower()
+        summary = self._summaries.get(normalized_provider)
+        price = self.price_table.get(normalized_provider)
+        if summary is None or price is None:
+            return 0.0
+
+        input_cost = summary.prompt_tokens * price["input"] / 1_000_000
+        output_cost = summary.completion_tokens * price["output"] / 1_000_000
+        return round(input_cost + output_cost, 6)
+
+    def report(self, provider: str | None = None) -> None:
+        """Log a cost report for one provider or all recorded providers.
+
+        Args:
+            provider: Optional provider name. When omitted, reports all providers
+                with recorded usage.
+        """
+        providers = [provider.lower()] if provider else sorted(self._summaries)
+        if not providers:
+            LOGGER.info("LLM cost report: no successful calls recorded")
+            return
+
+        for provider_name in providers:
+            summary = self._summaries.get(provider_name, CostSummary())
+            LOGGER.info(
+                "LLM cost report provider=%s calls=%s input_tokens=%s "
+                "output_tokens=%s total_tokens=%s estimated_cost_cny=%.6f",
+                provider_name,
+                summary.calls,
+                summary.prompt_tokens,
+                summary.completion_tokens,
+                summary.total_tokens,
+                self.estimated_cost(provider_name),
+            )
+
+
+tracker = CostTracker()
 
 
 class LLMProvider(ABC):
@@ -186,6 +286,7 @@ class OpenAICompatibleProvider(LLMProvider):
         usage = extract_usage(response_data)
         if usage is None:
             usage = estimate_usage(messages, content)
+        tracker.record(usage, self.provider)
 
         return LLMResponse(
             content=content,

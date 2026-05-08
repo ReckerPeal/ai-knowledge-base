@@ -21,9 +21,9 @@ from urllib.parse import urlparse
 import httpx
 
 try:
-    from model_client import chat_with_retry, create_provider
+    from model_client import chat_with_retry, create_provider, tracker
 except ModuleNotFoundError:
-    from pipeline.model_client import chat_with_retry, create_provider
+    from pipeline.model_client import chat_with_retry, create_provider, tracker
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -954,9 +954,11 @@ def main() -> int:
         paths = run_pipeline(args)
     except Exception:
         LOGGER.exception("Pipeline failed")
+        tracker.report()
         return 1
 
     LOGGER.info("Pipeline completed, article paths=%s", len(paths))
+    tracker.report()
     return 0
 
 
