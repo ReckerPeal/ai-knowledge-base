@@ -502,12 +502,18 @@ def quick_chat(
     return response.content
 
 
-def chat(prompt: str, system: str | None = None) -> tuple[str, Usage]:
+def chat(
+    prompt: str,
+    system: str | None = None,
+    *,
+    temperature: float = DEFAULT_TEMPERATURE,
+) -> tuple[str, Usage]:
     """Send one prompt and return assistant text plus usage.
 
     Args:
         prompt: User prompt text.
         system: Optional system instruction.
+        temperature: Sampling temperature.
 
     Returns:
         Tuple of assistant text and token usage.
@@ -517,16 +523,22 @@ def chat(prompt: str, system: str | None = None) -> tuple[str, Usage]:
         messages.append({"role": "system", "content": system})
     messages.append({"role": "user", "content": prompt})
 
-    response = chat_with_retry(messages)
+    response = chat_with_retry(messages, temperature=temperature)
     return response.content, response.usage
 
 
-def chat_json(prompt: str, system: str | None = None) -> tuple[dict[str, Any], Usage]:
+def chat_json(
+    prompt: str,
+    system: str | None = None,
+    *,
+    temperature: float = DEFAULT_TEMPERATURE,
+) -> tuple[dict[str, Any], Usage]:
     """Send one prompt and parse the assistant response as a JSON object.
 
     Args:
         prompt: User prompt text.
         system: Optional system instruction.
+        temperature: Sampling temperature.
 
     Returns:
         Tuple of parsed JSON object and token usage.
@@ -534,7 +546,7 @@ def chat_json(prompt: str, system: str | None = None) -> tuple[dict[str, Any], U
     Raises:
         ValueError: If the assistant response is not a JSON object.
     """
-    text, usage = chat(prompt, system=system)
+    text, usage = chat(prompt, system=system, temperature=temperature)
     cleaned_text = text.strip()
     if cleaned_text.startswith("```"):
         cleaned_text = cleaned_text.strip("`")

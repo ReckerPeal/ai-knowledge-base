@@ -17,9 +17,9 @@ from workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
-    review_node,
     save_node,
 )
+from workflows.reviewer import review_node
 from workflows.state import KBState
 
 
@@ -79,6 +79,7 @@ def main() -> None:
     )
     app = build_graph()
     initial_state: KBState = {
+        "plan": {},
         "sources": [],
         "analyses": [],
         "articles": [],

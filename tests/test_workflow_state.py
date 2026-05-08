@@ -18,6 +18,7 @@ class WorkflowStateTest(unittest.TestCase):
         self.assertEqual(
             {
                 "sources",
+                "plan",
                 "analyses",
                 "articles",
                 "review_feedback",
@@ -28,6 +29,7 @@ class WorkflowStateTest(unittest.TestCase):
             set(hints),
         )
         self.assertEqual(list[dict], hints["sources"])
+        self.assertEqual(dict, hints["plan"])
         self.assertEqual(list[dict], hints["analyses"])
         self.assertEqual(list[dict], hints["articles"])
         self.assertEqual(str, hints["review_feedback"])

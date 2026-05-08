@@ -116,14 +116,20 @@ class CostTrackerTest(unittest.TestCase):
         from workflows import model_client
 
         original_chat = model_client.chat
+        calls = []
 
         try:
-            model_client.chat = lambda prompt, system=None: ('{"ok": true}', {})
+            def fake_chat(prompt, system=None, temperature=model_client.DEFAULT_TEMPERATURE):
+                calls.append((prompt, system, temperature))
+                return '{"ok": true}', {}
 
-            data, usage = model_client.chat_json("Return JSON")
+            model_client.chat = fake_chat
+
+            data, usage = model_client.chat_json("Return JSON", temperature=0.1)
 
             self.assertEqual({"ok": True}, data)
             self.assertEqual({}, usage)
+            self.assertEqual(0.1, calls[0][2])
         finally:
             model_client.chat = original_chat
 

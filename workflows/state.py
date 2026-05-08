@@ -16,6 +16,9 @@ class KBState(TypedDict):
     # title、summary、published_at、metadata 等可追溯字段，不保存原始全文快照。
     sources: list[dict]
 
+    # 当前采集和分析计划；可包含主题、关键词、来源策略和质量目标等摘要信息。
+    plan: dict
+
     # 分析节点输出的结构化摘要列表；每项为 dict，包含 summary、content、
     # tags、score、language、metadata 等 LLM 分析结果。
     analyses: list[dict]
