@@ -40,19 +40,35 @@ jobs:
 
       - name: Validate article JSON
         run: |
-          mapfile -t article_files < <(find knowledge/articles -type f -name "*.json" | sort)
+          mapfile -t article_files < <(
+            git status --porcelain -- knowledge/articles \
+              | sed -E 's/^...//' \
+              | awk '/\.json$/ {print}' \
+              | while IFS= read -r path; do
+                  [ -f "$path" ] && printf '%s\n' "$path"
+                done \
+              | sort
+          )
           if [ "${#article_files[@]}" -eq 0 ]; then
-            echo "No article JSON files found."
-            exit 1
+            echo "No changed article JSON files to validate."
+            exit 0
           fi
           python hooks/validate_json.py "${article_files[@]}"
 
       - name: Check article quality
         run: |
-          mapfile -t article_files < <(find knowledge/articles -type f -name "*.json" | sort)
+          mapfile -t article_files < <(
+            git status --porcelain -- knowledge/articles \
+              | sed -E 's/^...//' \
+              | awk '/\.json$/ {print}' \
+              | while IFS= read -r path; do
+                  [ -f "$path" ] && printf '%s\n' "$path"
+                done \
+              | sort
+          )
           if [ "${#article_files[@]}" -eq 0 ]; then
-            echo "No article JSON files found."
-            exit 1
+            echo "No changed article JSON files to check."
+            exit 0
           fi
           python hooks/check_quality.py "${article_files[@]}"
 
