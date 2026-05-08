@@ -41,7 +41,7 @@ jobs:
       - name: Validate article JSON
         run: |
           mapfile -t article_files < <(
-            git status --porcelain -- knowledge/articles \
+            git status --porcelain --untracked-files=all -- knowledge/articles \
               | sed -E 's/^...//' \
               | awk '/\.json$/ {print}' \
               | while IFS= read -r path; do
@@ -58,7 +58,7 @@ jobs:
       - name: Check article quality
         run: |
           mapfile -t article_files < <(
-            git status --porcelain -- knowledge/articles \
+            git status --porcelain --untracked-files=all -- knowledge/articles \
               | sed -E 's/^...//' \
               | awk '/\.json$/ {print}' \
               | while IFS= read -r path; do
@@ -79,7 +79,7 @@ jobs:
             exit 0
           fi
 
-          article_count="$(git status --porcelain -- knowledge/articles | awk '/\.json$/ {count++} END {print count+0}')"
+          article_count="$(git status --porcelain --untracked-files=all -- knowledge/articles | awk '/\.json$/ {count++} END {print count+0}')"
           commit_date="$(date -u +%Y-%m-%d)"
 
           git config user.name "github-actions[bot]"

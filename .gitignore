@@ -56,9 +56,3 @@ temp/
 .opencode/cache/
 .opencode/tmp/
 .opencode/logs/
-
-# Project generated data
-knowledge/raw/*
-knowledge/articles/*
-!knowledge/raw/.gitkeep
-!knowledge/articles/.gitkeep
