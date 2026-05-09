@@ -1,0 +1,33 @@
+{
+  "id": "20260509-github-b3718af977",
+  "title": "earendil-works/pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/earendil-works/pi",
+  "summary": "earendil-works/pi 是一个 AI 智能体工具包，提供编码智能体 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人以及 vLLM Pods 支持。",
+  "content": "该项目是一个综合性的 AI 智能体工具包，旨在简化 AI 应用的开发与部署。其核心功能包括：\n- **编码智能体 CLI**：提供命令行界面，支持自动化编码任务。\n- **统一 LLM API**：封装多种大语言模型接口，实现统一调用。\n- **TUI 和 Web UI 库**：提供终端用户界面和网页界面组件，便于构建交互式应用。\n- **Slack 机器人**：集成 Slack 平台，实现智能对话与任务处理。\n- **vLLM Pods**：支持高性能 LLM 推理部署，优化资源利用。\n该工具包以 TypeScript 为主要开发语言，适合需要快速集成 AI 能力的开发团队。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "CLI",
+    "Slack Bot",
+    "vLLM",
+    "TypeScript",
+    "工具包"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:30:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "earendil-works",
+    "stars": 46976,
+    "forks": 5566,
+    "daily_stars": 493,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260509-github-52b03674c3",
+  "title": "colbymchenry/codegraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "summary": "Codegraph 是一个为 Claude Code 设计的预索引代码知识图谱工具，旨在减少 token 消耗和工具调用次数，完全本地运行。",
+  "content": "Codegraph 通过构建预索引的代码知识图谱，优化了 Claude Code 的交互效率。它显著降低了 token 使用量和工具调用频率，同时确保所有处理在本地完成，保护代码隐私。该工具基于 TypeScript 开发，在 GitHub 上获得了 1137 颗星和 122 个 fork，近期日增 73 星，显示出较高的社区关注度。",
+  "tags": [
+    "代码知识图谱",
+    "Claude Code",
+    "本地化",
+    "效率优化",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:30:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "colbymchenry",
+    "stars": 1137,
+    "forks": 122,
+    "daily_stars": 73,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

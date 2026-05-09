@@ -1,0 +1,33 @@
+{
+  "id": "20260509-github-a9d8f3de56",
+  "title": "chenhg5/cc-connect",
+  "source": "github_trending",
+  "source_url": "https://github.com/chenhg5/cc-connect",
+  "summary": "cc-connect 是一个开源工具，旨在桥接本地 AI 编码代理（如 Claude Code、Cursor、Gemini CLI、Codex）与多种消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。用户无需公网 IP 即可在移动设备上通过消息应用与 AI 开发助手交互，提升开发效率。",
+  "content": "该项目由 chenhg5 开发，基于 Go 语言实现，支持将本地运行的 AI 编码代理连接到主流消息平台，实现远程协作。核心功能包括：1）支持多种 AI 代理（Claude Code、Cursor、Gemini CLI、Codex）；2）集成飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信等消息平台；3）无需公网 IP，通过内网穿透或反向代理实现安全连接；4）提供命令行界面和配置选项，便于部署。该项目在 GitHub 上获得 8182 星和 756 叉，周增长 1017 星，表明其受欢迎程度和实用性。",
+  "tags": [
+    "AI编码代理",
+    "消息平台集成",
+    "远程开发",
+    "Go",
+    "内网穿透",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:30:13+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chenhg5",
+    "stars": 8182,
+    "forks": 756,
+    "daily_stars": null,
+    "weekly_stars": 1017,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

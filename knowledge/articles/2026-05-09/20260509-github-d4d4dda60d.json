@@ -1,0 +1,32 @@
+{
+  "id": "20260509-github-d4d4dda60d",
+  "title": "Transformers are Inherently Succinct",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2510.19315",
+  "summary": "本文提出将“简洁性”作为衡量Transformer表达能力的新指标，并证明Transformer在描述概念时比有限自动机和线性时序逻辑等标准表示方式更为简洁。作为副产品，研究还表明验证Transformer的属性在计算上是难解的（EXPSPACE完全问题）。",
+  "content": "该研究从理论角度探讨了Transformer的表达能力，引入“简洁性”概念，即用更少的资源（如参数或状态）表示相同概念的能力。通过严谨的数学证明，作者展示了Transformer在表示形式语言方面显著优于有限自动机和LTL公式。此外，这一高表达性也带来了验证复杂性的急剧上升，证明验证Transformer的某些属性是EXPSPACE完全的，意味着在实际应用中可能面临计算瓶颈。",
+  "tags": [
+    "Transformer",
+    "表达能力",
+    "简洁性",
+    "形式语言",
+    "计算复杂性",
+    "EXPSPACE",
+    "有限自动机",
+    "线性时序逻辑"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-25T16:33:15-05:00",
+  "collected_at": "2026-05-09T23:30:13+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

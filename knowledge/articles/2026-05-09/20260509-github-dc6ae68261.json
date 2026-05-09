@@ -1,0 +1,33 @@
+{
+  "id": "20260509-github-dc6ae68261",
+  "title": "fsnotify/fsnotify",
+  "source": "github_trending",
+  "source_url": "https://github.com/fsnotify/fsnotify",
+  "summary": "fsnotify/fsnotify 是一个为 Go 语言设计的跨平台文件系统通知库，支持实时监控文件或目录的变更事件（如创建、修改、删除等），广泛应用于需要文件变化感知的 Go 项目中。",
+  "content": "fsnotify/fsnotify 是 Go 生态中知名的文件系统通知库，提供统一的 API 以跨平台（Linux、macOS、Windows、BSD 等）监听文件系统事件。它基于各平台的原生机制（如 Linux 的 inotify、macOS 的 FSEvents、Windows 的 ReadDirectoryChangesW）实现高效通知。该库支持递归监控、事件过滤、路径解析等特性，常用于开发文件同步工具、日志监控、热重载、IDE 插件等场景。项目由社区维护，拥有超过 10,000 颗星，文档完善且 API 简洁，是 Go 开发者处理文件系统事件的默认选择。",
+  "tags": [
+    "Go",
+    "文件系统通知",
+    "跨平台",
+    "inotify",
+    "FSEvents",
+    "文件监控",
+    "fsnotify"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:30:04+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "fsnotify",
+    "stars": 10672,
+    "forks": 969,
+    "daily_stars": 8,
+    "weekly_stars": 39,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

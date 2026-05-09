@@ -1,0 +1,32 @@
+{
+  "id": "20260509-github-36b39b59f9",
+  "title": "everywall/ladder",
+  "source": "github_trending",
+  "source_url": "https://github.com/everywall/ladder",
+  "summary": "everywall/ladder 是一个自托管的代理工具，用于移除 CORS 头部并修改 HTML，可作为 12ft.io 和 1ft.io 的替代方案。",
+  "content": "该项目是一个用 Go 语言编写的自托管代理服务，主要功能是移除跨域请求中的 CORS 头部，并允许用户修改 HTML 内容。它旨在提供类似 12ft.io 和 1ft.io 的服务，但完全由用户自行托管，从而增强隐私和控制权。项目在 GitHub 上获得了 7673 颗星和 428 个分支，近期每日新增星标约 192 颗，显示出较高的社区关注度。",
+  "tags": [
+    "Go",
+    "代理",
+    "CORS",
+    "自托管",
+    "HTML 修改",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:30:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "everywall",
+    "stars": 7673,
+    "forks": 428,
+    "daily_stars": 192,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

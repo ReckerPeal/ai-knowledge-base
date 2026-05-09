@@ -1,0 +1,29 @@
+{
+  "id": "20260509-github-f93aa9269f",
+  "title": "Mostly Automated Proof Repair for Verified Libraries",
+  "source": "rss",
+  "source_url": "https://kirancodes.me/pdfs/sisyphus-pldi23.pdf",
+  "summary": "该研究提出了一种名为Sisyphus的自动化工具，用于修复已验证库中的证明。它通过分析库的变更和证明结构，自动生成补丁，以保持证明的正确性。",
+  "content": "本文介绍了一种针对已验证库的自动化证明修复方法。当库的代码发生变更时，原有的形式化证明可能失效。Sisyphus工具利用静态分析和模式匹配，自动识别证明中的不一致之处，并生成修复补丁。该方法在多个真实世界的库上进行了评估，显示出较高的修复成功率和效率，显著减少了手动维护证明的工作量。",
+  "tags": [
+    "形式化验证",
+    "自动化证明修复",
+    "软件工程",
+    "Sisyphus",
+    "PLDI"
+  ],
+  "status": "draft",
+  "published_at": "2025-12-23T15:38:45-06:00",
+  "collected_at": "2026-05-09T23:30:13+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

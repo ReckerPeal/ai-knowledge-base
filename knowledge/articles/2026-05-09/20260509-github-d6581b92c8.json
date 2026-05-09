@@ -1,0 +1,31 @@
+{
+  "id": "20260509-github-d6581b92c8",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "source": "rss",
+  "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+  "summary": "OpenAI 如何通过重构 WebRTC 技术栈，实现低延迟、全球可扩展的实时语音 AI，并支持无缝的对话轮换。",
+  "content": "本文详细介绍了 OpenAI 为支撑实时语音 AI 而重构其 WebRTC 技术栈的过程。核心目标包括：实现极低延迟的语音交互、支持全球范围内的可扩展部署，以及确保对话中自然流畅的轮换机制。通过优化网络传输、音频处理与服务器架构，OpenAI 成功将语音 AI 的响应时间压缩至接近人类对话的水平，同时保证了大规模并发下的稳定性。",
+  "tags": [
+    "OpenAI",
+    "WebRTC",
+    "语音AI",
+    "低延迟",
+    "实时通信",
+    "可扩展性",
+    "对话轮换"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "collected_at": "2026-05-09T23:30:13+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

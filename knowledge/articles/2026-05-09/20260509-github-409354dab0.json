@@ -1,0 +1,35 @@
+{
+  "id": "20260509-github-409354dab0",
+  "title": "LearningCircuit/local-deep-research",
+  "source": "github_trending",
+  "source_url": "https://github.com/LearningCircuit/local-deep-research",
+  "summary": "LearningCircuit/local-deep-research 是一个支持本地和云端大语言模型的深度研究工具，在 SimpleQA 上达到约 95% 的准确率（例如使用 Qwen3.6-27B 在 3090 上）。它兼容所有本地和云端 LLM（如 llama.cpp、Ollama、Google 等），集成 10 多种搜索引擎（包括 arXiv、PubMed 和私有文档），并强调完全本地化与加密。",
+  "content": "该仓库由 LearningCircuit 开发，在 GitHub 上获得 6924 星和 614 叉，近期日增 361 星，属于 Python 热门项目。其核心功能是提供一个深度研究框架，用户可在本地运行高性能模型（如 Qwen3.6-27B），同时无缝切换至云端服务。支持多种搜索引擎，覆盖学术（arXiv、PubMed）和私有数据源，所有操作均保持本地化和加密，确保数据隐私。",
+  "tags": [
+    "GitHub 热点",
+    "Python",
+    "深度研究",
+    "本地 LLM",
+    "搜索引擎集成",
+    "数据加密",
+    "Qwen",
+    "llama.cpp",
+    "Ollama"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T23:29:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "LearningCircuit",
+    "stars": 6924,
+    "forks": 614,
+    "daily_stars": 361,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
