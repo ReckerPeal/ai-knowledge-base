@@ -48,6 +48,7 @@ def revise_node(state: KBState) -> dict[str, Any]:
             prompt,
             system=system,
             temperature=REVISE_TEMPERATURE,
+            node_name="reviser",
         )
     except Exception as exc:
         LOGGER.warning("[ReviseNode] LLM revision failed; keeping current analyses: %s", exc)

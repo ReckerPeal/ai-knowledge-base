@@ -50,6 +50,7 @@ class WorkflowReviewerTest(unittest.TestCase):
         self.assertEqual(5, len(prompt_data["analyses"]))
         self.assertEqual("item-4", prompt_data["analyses"][-1]["title"])
         self.assertEqual(0.1, chat_json_mock.call_args.kwargs["temperature"])
+        self.assertEqual("reviewer", chat_json_mock.call_args.kwargs["node_name"])
         self.assertTrue(result["review_passed"])
         self.assertIn("7.45", result["review_feedback"])
         self.assertEqual(3, result["iteration"])

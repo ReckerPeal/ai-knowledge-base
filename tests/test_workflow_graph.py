@@ -149,6 +149,35 @@ class WorkflowGraphTest(unittest.TestCase):
         """CLI smoke path logs key output from stream events."""
         graph_module = importlib.import_module("workflows.graph")
 
+        class FakeGuard:
+            """Fake cost guard for final report logging."""
+
+            def __init__(self) -> None:
+                """Initialize save tracking."""
+                self.saved = False
+
+            def get_report(self) -> dict[str, object]:
+                """Return a minimal cost report."""
+                return {
+                    "total_calls": 2,
+                    "total_cost_yuan": 0.0015,
+                    "cost_by_node": {
+                        "analyzer": {
+                            "calls": 1,
+                            "cost_yuan": 0.001,
+                        },
+                        "reviewer": {
+                            "calls": 1,
+                            "cost_yuan": 0.0005,
+                        },
+                    },
+                }
+
+            def save_report(self) -> str:
+                """Record that the report was saved."""
+                self.saved = True
+                return "cost_report.json"
+
         class FakeApp:
             """Fake app with stream support."""
 
@@ -159,11 +188,38 @@ class WorkflowGraphTest(unittest.TestCase):
                     {"review": {"review_passed": True}},
                 ]
 
+        fake_guard = FakeGuard()
         with mock.patch.object(graph_module, "build_graph", return_value=FakeApp()):
-            with mock.patch.object(graph_module.LOGGER, "info") as info_mock:
-                graph_module.main()
+            with mock.patch.object(
+                graph_module,
+                "get_cost_guard",
+                return_value=fake_guard,
+            ):
+                with mock.patch.object(graph_module.LOGGER, "info") as info_mock:
+                    graph_module.main()
 
-        self.assertGreaterEqual(info_mock.call_count, 2)
+        self.assertTrue(fake_guard.saved)
+        logged_messages = [call.args[0] for call in info_mock.call_args_list]
+        self.assertIn("总调用%s次，总成本%.10f", logged_messages)
+        self.assertIn("[CostReport] node=%s report=%s", logged_messages)
+        self.assertIn("[CostReport] saved=%s", logged_messages)
+
+    def test_cost_guard_report_contains_cost_by_node(self) -> None:
+        """CostGuard report exposes node costs for graph final reporting."""
+        from tests.cost_guard import CostGuard
+
+        guard = CostGuard()
+        guard.record(
+            "analyzer",
+            {"prompt_tokens": 1000, "completion_tokens": 500},
+            model="test-model",
+        )
+
+        report = guard.get_report()
+
+        self.assertEqual(1, report["total_calls"])
+        self.assertIn("analyzer", report["cost_by_node"])
+        self.assertEqual(report["nodes"], report["cost_by_node"])
 
 
 if __name__ == "__main__":

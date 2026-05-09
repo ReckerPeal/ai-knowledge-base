@@ -82,6 +82,7 @@ def review_node(state: KBState) -> dict[str, Any]:
             prompt,
             system=system,
             temperature=REVIEW_TEMPERATURE,
+            node_name="reviewer",
         )
     except Exception:
         LOGGER.exception("[ReviewNode] LLM review failed; auto passing")

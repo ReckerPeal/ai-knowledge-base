@@ -200,6 +200,8 @@ class CostGuard:
             "total_completion_tokens": self.total_completion_tokens,
             "total_cost_yuan": self.total_cost_yuan,
             "usage_ratio": self.total_cost_yuan / self.budget_yuan,
+            "total_calls": len(self.records),
+            "cost_by_node": nodes,
             "nodes": nodes,
             "records": [asdict(record) for record in self.records],
         }

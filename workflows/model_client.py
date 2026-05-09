@@ -11,6 +11,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+from tests.cost_guard import CostGuard
+
 try:
     import httpx
 except ModuleNotFoundError:
@@ -26,6 +28,7 @@ DEFAULT_TIMEOUT_SECONDS = 60.0
 DEFAULT_MAX_RETRIES = 3
 DEFAULT_TEMPERATURE = 0.3
 DEFAULT_MAX_TOKENS = 2048
+_cost_guard: CostGuard | None = None
 
 PROVIDER_CONFIGS: dict[str, dict[str, str]] = {
     "deepseek": {
@@ -189,6 +192,28 @@ class CostTracker:
 
 
 tracker = CostTracker()
+
+
+def get_cost_guard() -> CostGuard:
+    """Return the process-wide lazy-loaded cost guard.
+
+    The budget is read from ``BUDGET_YUAN`` on the first call. Subsequent calls
+    reuse the same instance so budget accounting spans all chat calls in the
+    current process.
+
+    Returns:
+        Shared ``CostGuard`` instance.
+
+    Raises:
+        ValueError: If ``BUDGET_YUAN`` is set to a non-numeric value.
+    """
+    global _cost_guard
+
+    if _cost_guard is None:
+        load_env_file()
+        budget_yuan = float(os.getenv("BUDGET_YUAN", "1.0"))
+        _cost_guard = CostGuard(budget_yuan=budget_yuan)
+    return _cost_guard
 
 
 class LLMProvider(ABC):
@@ -507,6 +532,7 @@ def chat(
     system: str | None = None,
     *,
     temperature: float = DEFAULT_TEMPERATURE,
+    node_name: str = "unknown",
 ) -> tuple[str, Usage]:
     """Send one prompt and return assistant text plus usage.
 
@@ -514,6 +540,7 @@ def chat(
         prompt: User prompt text.
         system: Optional system instruction.
         temperature: Sampling temperature.
+        node_name: Agent or workflow node name for cost audit records.
 
     Returns:
         Tuple of assistant text and token usage.
@@ -524,6 +551,13 @@ def chat(
     messages.append({"role": "user", "content": prompt})
 
     response = chat_with_retry(messages, temperature=temperature)
+    cost_guard = get_cost_guard()
+    cost_guard.record(
+        node_name,
+        _usage_to_cost_guard_dict(response.usage),
+        response.model,
+    )
+    cost_guard.check()
     return response.content, response.usage
 
 
@@ -532,6 +566,7 @@ def chat_json(
     system: str | None = None,
     *,
     temperature: float = DEFAULT_TEMPERATURE,
+    node_name: str = "unknown",
 ) -> tuple[dict[str, Any], Usage]:
     """Send one prompt and parse the assistant response as a JSON object.
 
@@ -539,6 +574,7 @@ def chat_json(
         prompt: User prompt text.
         system: Optional system instruction.
         temperature: Sampling temperature.
+        node_name: Agent or workflow node name for cost audit records.
 
     Returns:
         Tuple of parsed JSON object and token usage.
@@ -546,7 +582,12 @@ def chat_json(
     Raises:
         ValueError: If the assistant response is not a JSON object.
     """
-    text, usage = chat(prompt, system=system, temperature=temperature)
+    text, usage = chat(
+        prompt,
+        system=system,
+        temperature=temperature,
+        node_name=node_name,
+    )
     cleaned_text = text.strip()
     if cleaned_text.startswith("```"):
         cleaned_text = cleaned_text.strip("`")
@@ -586,6 +627,14 @@ def accumulate_usage(
     updated["total_tokens"] = int(updated.get("total_tokens") or 0) + total_tokens
     updated["calls"] = int(updated.get("calls") or 0) + 1
     return updated
+
+
+def _usage_to_cost_guard_dict(usage: Usage) -> dict[str, int]:
+    """Convert normalized usage to the dictionary shape expected by CostGuard."""
+    return {
+        "prompt_tokens": usage.prompt_tokens,
+        "completion_tokens": usage.completion_tokens,
+    }
 
 
 def _usage_value(usage: Any, field_name: str) -> int:

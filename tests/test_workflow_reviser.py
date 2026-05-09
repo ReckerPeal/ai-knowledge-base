@@ -75,6 +75,7 @@ class WorkflowReviserTest(unittest.TestCase):
         self.assertEqual("摘要需要更具体，补充技术深度。", prompt_data["review_feedback"])
         self.assertEqual(analyses, prompt_data["analyses"])
         self.assertEqual(0.4, chat_json_mock.call_args.kwargs["temperature"])
+        self.assertEqual("reviser", chat_json_mock.call_args.kwargs["node_name"])
         self.assertEqual(improved, result["analyses"])
         self.assertEqual(18, result["cost_tracker"]["total_tokens"])
         self.assertEqual(2, result["cost_tracker"]["calls"])

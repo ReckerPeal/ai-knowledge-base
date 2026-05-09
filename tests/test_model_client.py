@@ -119,8 +119,13 @@ class CostTrackerTest(unittest.TestCase):
         calls = []
 
         try:
-            def fake_chat(prompt, system=None, temperature=model_client.DEFAULT_TEMPERATURE):
-                calls.append((prompt, system, temperature))
+            def fake_chat(
+                prompt,
+                system=None,
+                temperature=model_client.DEFAULT_TEMPERATURE,
+                node_name="unknown",
+            ):
+                calls.append((prompt, system, temperature, node_name))
                 return '{"ok": true}', {}
 
             model_client.chat = fake_chat
@@ -130,8 +135,55 @@ class CostTrackerTest(unittest.TestCase):
             self.assertEqual({"ok": True}, data)
             self.assertEqual({}, usage)
             self.assertEqual(0.1, calls[0][2])
+            self.assertEqual("unknown", calls[0][3])
         finally:
             model_client.chat = original_chat
+
+    def test_chat_records_usage_in_lazy_cost_guard(self) -> None:
+        """chat records usage in the lazy global cost guard."""
+        from workflows import model_client
+
+        original_chat_with_retry = model_client.chat_with_retry
+        original_cost_guard = model_client._cost_guard
+        original_budget = model_client.os.environ.get("BUDGET_YUAN")
+
+        try:
+            model_client._cost_guard = None
+            model_client.os.environ["BUDGET_YUAN"] = "0.01"
+
+            def fake_chat_with_retry(
+                messages,
+                temperature=model_client.DEFAULT_TEMPERATURE,
+            ):
+                return model_client.LLMResponse(
+                    content="ok",
+                    usage=model_client.Usage(
+                        prompt_tokens=1000,
+                        completion_tokens=500,
+                        total_tokens=1500,
+                    ),
+                    model="deepseek-chat",
+                    provider="deepseek",
+                    cost_usd=0.0,
+                )
+
+            model_client.chat_with_retry = fake_chat_with_retry
+
+            text, usage = model_client.chat("hello", node_name="analyzer")
+            guard = model_client.get_cost_guard()
+
+            self.assertEqual("ok", text)
+            self.assertEqual(1500, usage.total_tokens)
+            self.assertEqual(1, len(guard.records))
+            self.assertEqual("analyzer", guard.records[0].node_name)
+            self.assertEqual("deepseek-chat", guard.records[0].model)
+        finally:
+            model_client.chat_with_retry = original_chat_with_retry
+            model_client._cost_guard = original_cost_guard
+            if original_budget is None:
+                model_client.os.environ.pop("BUDGET_YUAN", None)
+            else:
+                model_client.os.environ["BUDGET_YUAN"] = original_budget
 
     def test_get_provider_loads_local_env_file(self) -> None:
         """Provider config loads API keys from a local env file."""

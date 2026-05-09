@@ -37,7 +37,11 @@ def analyze_node(state: KBState) -> dict[str, Any]:
             "score(float, 1-10)、language(str)。\n"
             f"来源摘要：{json.dumps(source, ensure_ascii=False)}"
         )
-        analysis, usage = model_client.chat_json(prompt, system=system)
+        analysis, usage = model_client.chat_json(
+            prompt,
+            system=system,
+            node_name="analyzer",
+        )
         cost_tracker = model_client.accumulate_usage(cost_tracker, usage)
         analyses.append(_normalize_analysis(source, analysis))
 

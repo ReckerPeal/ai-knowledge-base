@@ -11,6 +11,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from typing import Any
 
+from tests.security import sanitize_input
 from workflows.state import KBState
 
 
@@ -22,6 +23,8 @@ DEFAULT_PER_SOURCE_LIMIT = 10
 REQUEST_TIMEOUT_SECONDS = 20
 REQUEST_MAX_RETRIES = 3
 CHINA_TZ = timezone(timedelta(hours=8))
+SOURCE_TEXT_FIELDS = ("title", "summary", "description", "language")
+SOURCE_METADATA_TEXT_FIELDS = ("author",)
 
 
 def collect_node(state: KBState) -> dict[str, Any]:
@@ -79,7 +82,86 @@ def collect_node(state: KBState) -> dict[str, Any]:
             }
         )
 
-    return {"sources": sources}
+    cleaned_sources, total_warnings = _sanitize_sources(sources)
+    if total_warnings > 0:
+        LOGGER.warning(
+            "[Security] collect stage blocked %s suspicious input(s)",
+            total_warnings,
+        )
+    LOGGER.info("[Collector] collected %s source(s)", len(cleaned_sources))
+    return {"sources": cleaned_sources}
+
+
+def _sanitize_sources(
+    sources: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], int]:
+    """Sanitize text fields before sources leave the collect node.
+
+    Args:
+        sources: Source dictionaries mapped from the external API.
+
+    Returns:
+        Sanitized sources and the total warning count.
+    """
+    cleaned_sources: list[dict[str, Any]] = []
+    total_warnings = 0
+    for source in sources:
+        cleaned_source = dict(source)
+        total_warnings += _sanitize_text_fields(
+            cleaned_source,
+            SOURCE_TEXT_FIELDS,
+            url=str(cleaned_source.get("source_url") or "?"),
+        )
+        metadata = cleaned_source.get("metadata")
+        if isinstance(metadata, dict):
+            cleaned_metadata = dict(metadata)
+            total_warnings += _sanitize_text_fields(
+                cleaned_metadata,
+                SOURCE_METADATA_TEXT_FIELDS,
+                url=str(cleaned_source.get("source_url") or "?"),
+                prefix="metadata.",
+            )
+            cleaned_source["metadata"] = cleaned_metadata
+        cleaned_sources.append(cleaned_source)
+    return cleaned_sources, total_warnings
+
+
+def _sanitize_text_fields(
+    payload: dict[str, Any],
+    fields: tuple[str, ...],
+    *,
+    url: str,
+    prefix: str = "",
+) -> int:
+    """Sanitize selected string fields in a dictionary.
+
+    Args:
+        payload: Dictionary containing text fields.
+        fields: Field names to sanitize when present.
+        url: Source URL used in security logs.
+        prefix: Optional field-name prefix for nested dictionaries.
+
+    Returns:
+        Number of warning codes emitted by ``sanitize_input``.
+    """
+    total_warnings = 0
+    for field in fields:
+        value = payload.get(field)
+        if not isinstance(value, str):
+            continue
+
+        cleaned, warnings = sanitize_input(value)
+        payload[field] = cleaned
+        total_warnings += len(warnings)
+        if warnings:
+            LOGGER.warning(
+                "[Security] %s %s%s detected suspicious input: %s",
+                url,
+                prefix,
+                field,
+                warnings,
+            )
+    return total_warnings
 
 
 def _request_json(request: urllib.request.Request) -> dict[str, Any]:

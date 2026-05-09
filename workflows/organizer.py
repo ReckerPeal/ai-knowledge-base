@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 from hashlib import sha1
 from typing import Any
 
+from tests.security import filter_output
 from workflows.state import KBState
 
 
@@ -14,6 +15,7 @@ LOGGER = logging.getLogger(__name__)
 
 DEFAULT_RELEVANCE_THRESHOLD = 0.5
 CHINA_TZ = timezone(timedelta(hours=8))
+ARTICLE_TEXT_FIELDS = ("title", "source", "summary", "content", "language")
 
 
 def organize_node(state: KBState) -> dict[str, Any]:
@@ -43,7 +45,7 @@ def organize_node(state: KBState) -> dict[str, Any]:
             continue
         seen_urls.add(source_url)
 
-        articles.append(_format_article(analysis, score))
+        articles.append(_filter_article_output(_format_article(analysis, score)))
 
     return {"articles": articles, "cost_tracker": cost_tracker}
 
@@ -60,13 +62,15 @@ def _format_article(analysis: dict[str, Any], score: float) -> dict[str, Any]:
     """
     collected_at = str(analysis.get("collected_at") or _now_iso())
     source_url = str(analysis.get("source_url") or "")
+    summary = str(analysis.get("summary") or "")
+    content = str(analysis.get("content") or summary)
     return {
         "id": str(analysis.get("id") or _article_id(collected_at, source_url)),
         "title": str(analysis.get("title") or "未命名条目"),
         "source": str(analysis.get("source") or "github_search"),
         "source_url": source_url,
-        "summary": str(analysis.get("summary") or ""),
-        "content": str(analysis.get("content") or analysis.get("summary") or ""),
+        "summary": summary,
+        "content": content,
         "tags": _normalize_tags(analysis.get("tags")),
         "status": str(analysis.get("status") or "draft"),
         "published_at": analysis.get("published_at"),
@@ -89,6 +93,94 @@ def _normalize_tags(value: Any) -> list[str]:
     if not isinstance(value, list):
         return []
     return [str(item) for item in value if str(item).strip()]
+
+
+def _filter_article_output(article: dict[str, Any]) -> dict[str, Any]:
+    """Mask PII in article output fields.
+
+    Args:
+        article: Sanitized article dictionary.
+
+    Returns:
+        Article dictionary with PII masked in text fields and tags.
+    """
+    total_detections = _filter_text_fields(
+        article,
+        ARTICLE_TEXT_FIELDS,
+        url=str(article.get("source_url") or "?"),
+    )
+    total_detections += _filter_tag_list(article)
+    if total_detections > 0:
+        LOGGER.warning(
+            "[Security] organize stage masked %s PII occurrence(s)",
+            total_detections,
+        )
+    return article
+
+
+def _filter_tag_list(article: dict[str, Any]) -> int:
+    """Mask PII in string tags.
+
+    Args:
+        article: Article dictionary containing optional tags.
+
+    Returns:
+        Number of PII detections.
+    """
+    tags = article.get("tags")
+    if not isinstance(tags, list):
+        return 0
+
+    filtered_tags: list[str] = []
+    total_detections = 0
+    for tag in tags:
+        if not isinstance(tag, str):
+            continue
+        filtered, detections = filter_output(tag, mask=True)
+        filtered_tags.append(filtered)
+        total_detections += len(detections)
+        if detections:
+            LOGGER.warning(
+                "[Security] %s tags masked PII types: %s",
+                article.get("source_url") or "?",
+                sorted({item["type"] for item in detections}),
+            )
+    article["tags"] = filtered_tags
+    return total_detections
+
+
+def _filter_text_fields(
+    payload: dict[str, Any],
+    fields: tuple[str, ...],
+    *,
+    url: str,
+) -> int:
+    """Mask PII in selected string fields.
+
+    Args:
+        payload: Dictionary containing article output fields.
+        fields: Field names to filter when present.
+        url: Source URL used in security logs.
+
+    Returns:
+        Number of PII detections.
+    """
+    total_detections = 0
+    for field in fields:
+        value = payload.get(field)
+        if not isinstance(value, str):
+            continue
+        filtered, detections = filter_output(value, mask=True)
+        payload[field] = filtered
+        total_detections += len(detections)
+        if detections:
+            LOGGER.warning(
+                "[Security] %s %s masked PII types: %s",
+                url,
+                field,
+                sorted({item["type"] for item in detections}),
+            )
+    return total_detections
 
 
 def _as_float(value: Any) -> float:

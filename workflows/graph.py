@@ -16,6 +16,7 @@ from langgraph.graph import END, StateGraph
 from workflows.analyzer import analyze_node
 from workflows.collector import collect_node
 from workflows.human_flag import human_flag_node
+from workflows.model_client import get_cost_guard
 from workflows.organizer import organize_node
 from workflows.planner import planner_node
 from workflows.reviewer import review_node
@@ -118,6 +119,8 @@ def main() -> None:
                 json.dumps(_summarize_update(update), ensure_ascii=False),
             )
 
+    _log_and_save_cost_report()
+
 
 def _summarize_update(update: Any) -> dict[str, Any]:
     """Summarize a node update for stream logging.
@@ -140,6 +143,26 @@ def _summarize_update(update: Any) -> dict[str, Any]:
         else:
             summary[key] = value
     return summary
+
+
+def _log_and_save_cost_report() -> None:
+    """Log the final LLM cost report and persist it to disk."""
+    guard = get_cost_guard()
+    report = guard.get_report()
+    total_calls = int(report.get("total_calls") or len(report.get("records") or []))
+    total_cost = float(report.get("total_cost_yuan") or 0.0)
+    cost_by_node = report["cost_by_node"]
+
+    LOGGER.info("总调用%s次，总成本%.10f", total_calls, total_cost)
+    for node_name, node_report in sorted(cost_by_node.items()):
+        LOGGER.info(
+            "[CostReport] node=%s report=%s",
+            node_name,
+            json.dumps(node_report, ensure_ascii=False),
+        )
+
+    saved_path = guard.save_report()
+    LOGGER.info("[CostReport] saved=%s", saved_path)
 
 
 if __name__ == "__main__":
