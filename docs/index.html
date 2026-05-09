@@ -51,6 +51,13 @@
         <button id="reset" type="button" class="btn-text">清空筛选</button>
       </div>
 
+      <div class="cat-section">
+        <div class="cat-header">
+          <span>类别</span>
+        </div>
+        <div id="categories" class="cat-cloud" aria-label="类别筛选"></div>
+      </div>
+
       <div class="tag-section all-only" hidden>
         <div class="tag-header">
           <span>标签</span>
@@ -61,6 +68,9 @@
     </section>
 
     <div id="status" class="status" role="status">加载中…</div>
+
+    <!-- Today tab uses grouped layout (L-B); other tabs use the flat grid. -->
+    <div id="grouped" class="grouped-view" hidden></div>
     <ul id="list" class="card-grid"></ul>
   </main>
 
