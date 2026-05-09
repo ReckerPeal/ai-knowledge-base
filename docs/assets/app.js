@@ -2,6 +2,7 @@
   'use strict';
 
   const TOP_TAGS = 30;
+  const MAX_RENDER = 200;
   const MODES = ['today', 'history', 'all'];
 
   const state = {
@@ -332,19 +333,25 @@
   function render() {
     const items = state.filtered;
     const total = state.items.length;
+    const labelByMode = {
+      today: '今日',
+      history: state.selectedDate || '历史',
+      all: '全部',
+    };
+
     if (items.length === 0) {
       els.status.textContent = total === 0 ? '暂无数据。' : '没有匹配的文章。';
+    } else if (items.length > MAX_RENDER) {
+      els.status.textContent =
+        `${labelByMode[state.mode]}：命中 ${items.length} / ${total} 条，` +
+        `先展示前 ${MAX_RENDER} 条，输入关键词或筛选可缩小范围`;
     } else {
-      const labelByMode = {
-        today: '今日',
-        history: state.selectedDate || '历史',
-        all: '全部',
-      };
       els.status.textContent = `${labelByMode[state.mode]}：命中 ${items.length} / ${total} 条`;
     }
     els.list.innerHTML = '';
     const frag = document.createDocumentFragment();
-    for (const it of items) frag.appendChild(card(it));
+    const visible = items.length > MAX_RENDER ? items.slice(0, MAX_RENDER) : items;
+    for (const it of visible) frag.appendChild(card(it));
     els.list.appendChild(frag);
   }
 
