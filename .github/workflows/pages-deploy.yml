@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'knowledge/articles/index.json'
+      - 'knowledge/articles/**'
       - 'docs/**'
+      - 'scripts/build_site_data.py'
       - '.github/workflows/pages-deploy.yml'
   workflow_dispatch:
 
@@ -26,15 +27,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Stage data into docs/data
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build site data (index + by_date + dates)
         run: |
-          mkdir -p docs/data
-          if [ -f knowledge/articles/index.json ]; then
-            cp knowledge/articles/index.json docs/data/index.json
-          else
-            echo "[]" > docs/data/index.json
-          fi
+          python scripts/build_site_data.py
           ls -lh docs/data/
+          ls -lh docs/data/by_date/ || true
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

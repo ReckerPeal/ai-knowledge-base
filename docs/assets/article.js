@@ -1,24 +1,21 @@
 (() => {
   'use strict';
 
-  const DATA_URL = 'data/index.json';
-
   const $ = (id) => document.getElementById(id);
 
   init();
 
   async function init() {
-    const id = new URLSearchParams(location.search).get('id');
+    const params = new URLSearchParams(location.search);
+    const id = params.get('id');
+    const date = params.get('date');
     if (!id) {
       $('status').textContent = '缺少文章 id 参数。';
       return;
     }
 
     try {
-      const res = await fetch(DATA_URL, { cache: 'no-store' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const all = await res.json();
-      const article = all.find((a) => a.id === id);
+      const article = await locateArticle(id, date);
       if (!article) {
         $('status').textContent = `未找到 id=${id} 的文章。`;
         return;
@@ -27,6 +24,33 @@
     } catch (err) {
       $('status').textContent = `加载失败：${err.message}`;
     }
+  }
+
+  async function locateArticle(id, date) {
+    // Strategy: prefer the precise per-day file when date is known or
+    // derivable from the id (id format: YYYYMMDD-...). Fall back to the
+    // global index.json.
+    const guessedDate = date || dateFromId(id);
+    if (guessedDate) {
+      const list = await fetchJSON(`data/by_date/${guessedDate}.json`).catch(() => null);
+      if (Array.isArray(list)) {
+        const hit = list.find((a) => a.id === id);
+        if (hit) return hit;
+      }
+    }
+    const all = await fetchJSON('data/index.json');
+    return Array.isArray(all) ? all.find((a) => a.id === id) : null;
+  }
+
+  function dateFromId(id) {
+    const m = /^(\d{4})(\d{2})(\d{2})-/.exec(id);
+    return m ? `${m[1]}-${m[2]}-${m[3]}` : null;
+  }
+
+  async function fetchJSON(url) {
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+    return res.json();
   }
 
   function render(a) {
@@ -74,9 +98,16 @@
     const m = a.metadata || {};
     const items = [];
     if (m.author) items.push(['作者', m.author]);
-    if (m.stars != null) items.push(['Stars', formatNumber(m.stars)]);
-    if (m.forks != null) items.push(['Forks', formatNumber(m.forks)]);
-    if (m.open_issues != null) items.push(['Issues', formatNumber(m.open_issues)]);
+    if (typeof m.stars === 'number') items.push(['Stars', formatNumber(m.stars)]);
+    if (typeof m.daily_stars === 'number') {
+      const sign = m.daily_stars > 0 ? '+' : '';
+      const baseline = m.stars_baseline_date ? `（vs ${m.stars_baseline_date}）` : '';
+      items.push(['当日新增', `${sign}${m.daily_stars}${baseline}`]);
+    } else if (m.daily_stars === null) {
+      items.push(['当日新增', '首次出现']);
+    }
+    if (typeof m.forks === 'number') items.push(['Forks', formatNumber(m.forks)]);
+    if (typeof m.open_issues === 'number') items.push(['Issues', formatNumber(m.open_issues)]);
     if (a.published_at) items.push(['原发布', a.published_at.slice(0, 10)]);
     if (a.status) items.push(['状态', a.status]);
 

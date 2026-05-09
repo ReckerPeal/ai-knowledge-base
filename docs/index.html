@@ -11,41 +11,47 @@
   <header class="site-header">
     <div class="container">
       <h1>AI 知识库</h1>
-      <p class="subtitle">每日精选 AI / LLM / Agent 项目动态 · 共 <span id="total">—</span> 条</p>
+      <p class="subtitle">每日精选 AI / LLM / Agent 项目动态</p>
+      <nav class="tabs" role="tablist" aria-label="视图切换">
+        <button class="tab active" data-mode="today" role="tab">今日</button>
+        <button class="tab" data-mode="history" role="tab">历史</button>
+        <button class="tab" data-mode="all" role="tab">全部搜索</button>
+      </nav>
     </div>
   </header>
 
   <main class="container">
+    <section id="today-banner" class="banner" hidden></section>
+
     <section class="filters" aria-label="筛选">
       <input id="q" type="search" placeholder="搜索标题、摘要或标签…" autocomplete="off">
 
       <div class="filter-row">
-        <label class="range-label">
+        <label class="filter-cell history-only" hidden>
+          日期
+          <select id="date-filter"></select>
+        </label>
+
+        <label class="filter-cell all-only" hidden>
           最低评分
           <input id="min-score" type="range" min="0" max="10" step="0.5" value="0">
           <span id="score-value" class="score-value">0</span>
         </label>
 
-        <label>
-          日期
-          <select id="date-filter">
-            <option value="">全部</option>
-          </select>
-        </label>
-
-        <label>
+        <label class="filter-cell">
           排序
           <select id="sort">
-            <option value="date">按收集时间</option>
+            <option value="daily_stars">按当日新增 stars</option>
             <option value="score">按评分</option>
-            <option value="stars">按 stars</option>
+            <option value="stars">按 stars 总量</option>
+            <option value="date">按收集时间</option>
           </select>
         </label>
 
         <button id="reset" type="button" class="btn-text">清空筛选</button>
       </div>
 
-      <div class="tag-section">
+      <div class="tag-section all-only" hidden>
         <div class="tag-header">
           <span>标签</span>
           <button id="toggle-tags" type="button" class="btn-text">展开全部</button>
