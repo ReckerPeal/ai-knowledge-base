@@ -5,11 +5,17 @@ from __future__ import annotations
 import json
 import os
 import re
+import sys
 import warnings
 from pathlib import Path
 from typing import Any
 
 import pytest
+
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 try:
     from dotenv import load_dotenv
@@ -22,7 +28,6 @@ except ModuleNotFoundError:
         return True
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
 load_dotenv(PROJECT_ROOT / ".env")
 warnings.filterwarnings("ignore", category=pytest.PytestUnknownMarkWarning)
 
