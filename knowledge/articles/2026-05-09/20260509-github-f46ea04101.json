@@ -4,19 +4,19 @@
   "source": "github_search",
   "source_url": "https://github.com/langchain-ai/langgraph",
   "summary": "LangGraph 是一个用于构建弹性语言代理的框架，采用图结构设计，支持 TypeScript 和 Python。",
-  "content": "LangGraph 由 LangChain 团队开发，允许开发者以有向图的形式定义语言代理的工作流，节点代表工具或逻辑，边代表状态转换。它支持循环、条件分支和持久化状态，适合构建复杂、可恢复的对话系统或自动化任务。该项目在 GitHub 上拥有超过 3 万星标，社区活跃，持续更新。",
+  "content": "LangGraph 由 LangChain 团队开发，旨在通过图（graph）的方式编排语言模型代理（agent）的工作流。它允许开发者将代理的行为建模为节点和边的有向图，从而实现更复杂、更可控的推理与执行逻辑。该框架强调弹性（resilience），即代理能够在出错或遇到意外输入时恢复并继续执行。项目支持 TypeScript 和 Python 两种语言，当前在 GitHub 上拥有超过 3.1 万星标，社区活跃。",
   "tags": [
     "LangGraph",
     "语言代理",
-    "图结构",
+    "图编排",
+    "弹性",
     "LangChain",
-    "弹性系统",
     "TypeScript",
     "Python"
   ],
   "status": "draft",
   "published_at": "2023-08-09T18:33:12Z",
-  "collected_at": "2026-05-09T18:18:05+08:00",
+  "collected_at": "2026-05-09T18:22:21+08:00",
   "language": "Python",
   "score": 9.2,
   "metadata": {

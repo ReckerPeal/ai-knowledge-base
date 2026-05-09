@@ -3,20 +3,19 @@
   "title": "hiyouga/LlamaFactory",
   "source": "github_search",
   "source_url": "https://github.com/hiyouga/LlamaFactory",
-  "summary": "LlamaFactory 是一个统一高效的微调框架，支持 100 多种大型语言模型和多模态大模型，已被 ACL 2024 收录。",
-  "content": "该项目由 hiyouga 开发，在 GitHub 上拥有 71079 颗星和 8687 个分支，当前有 1002 个开放问题。它提供了一个统一的接口，用于对多种 LLM 和 VLM 进行高效微调，旨在简化模型适配过程，支持多种微调方法（如 LoRA、QLoRA 等），并针对不同硬件环境进行了优化。",
+  "summary": "LlamaFactory 是一个统一高效的微调框架，支持 100 多种大型语言模型（LLMs）和视觉语言模型（VLMs），已被 ACL 2024 收录。",
+  "content": "LlamaFactory 由 hiyouga 开发，是一个专注于大规模语言模型与视觉语言模型微调的开源工具。它提供了统一的接口和高效的训练方法，支持超过 100 种模型架构，包括 Llama、GPT、VLM 等。该项目在 GitHub 上拥有超过 7.1 万星标和 8600 多个分支，社区活跃，但仍有约 1000 个开放问题。主要编程语言为 Python，适合研究人员和开发者进行模型微调实验。",
   "tags": [
     "LLM",
     "VLM",
     "微调",
-    "LoRA",
-    "ACL 2024",
     "高效训练",
-    "多模态"
+    "ACL 2024",
+    "开源框架"
   ],
   "status": "draft",
   "published_at": "2023-05-28T10:09:12Z",
-  "collected_at": "2026-05-09T18:18:05+08:00",
+  "collected_at": "2026-05-09T18:22:21+08:00",
   "language": "Python",
   "score": 9.5,
   "metadata": {

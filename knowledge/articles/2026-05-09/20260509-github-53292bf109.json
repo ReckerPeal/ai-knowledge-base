@@ -3,27 +3,26 @@
   "title": "infiniflow/ragflow",
   "source": "github_search",
   "source_url": "https://github.com/infiniflow/ragflow",
-  "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，将前沿的 RAG 技术与智能体能力融合，为大型语言模型（LLM）构建卓越的上下文层。",
-  "content": "RAGFlow 是一个基于 Python 开发的开源项目，由 infiniflow 团队维护。该项目在 GitHub 上获得了 80053 颗星和 9128 个分支，拥有 3003 个开放问题，最后更新于 2026 年 5 月 9 日。其核心功能是结合检索增强生成（RAG）与智能体（Agent）能力，为 LLM 提供更优质的上下文支持，适用于需要高效知识检索和生成的应用场景。",
+  "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿的 RAG 与智能体能力，为大型语言模型（LLM）构建了卓越的上下文层。",
+  "content": "RAGFlow 是一个基于 Python 开发的开源项目，旨在通过检索增强生成技术提升 LLM 的上下文理解能力。它结合了 RAG 和 Agent 功能，支持高效的信息检索与生成。该项目在 GitHub 上拥有超过 8 万颗星标和 9 千多个分支，社区活跃，但存在约 3000 个开放问题。最新更新时间为 2026 年 5 月 9 日。",
   "tags": [
     "RAG",
     "检索增强生成",
-    "智能体",
     "LLM",
+    "智能体",
     "开源",
-    "Python",
-    "上下文层"
+    "Python"
   ],
   "status": "draft",
   "published_at": "2023-12-12T06:13:13Z",
-  "collected_at": "2026-05-09T18:18:05+08:00",
+  "collected_at": "2026-05-09T18:22:21+08:00",
   "language": "Python",
   "score": 9.5,
   "metadata": {
     "author": "infiniflow",
-    "stars": 80053,
+    "stars": 80054,
     "forks": 9128,
     "open_issues": 3003,
-    "updated_at": "2026-05-09T10:11:12Z"
+    "updated_at": "2026-05-09T10:18:16Z"
   }
 }
