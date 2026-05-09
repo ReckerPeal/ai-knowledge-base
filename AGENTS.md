@@ -57,6 +57,8 @@
   "metadata": {
     "author": "owner",
     "stars": 12345,
+    "daily_stars": 132,
+    "stars_baseline_date": "2026-05-08",
     "comments": 42,
     "distribution_channels": ["telegram", "lark"]
   }
@@ -77,6 +79,9 @@
 - `collected_at`：采集时间，必须使用 ISO 8601。
 - `score`：AI 评估价值分，范围 `1` 到 `10`。
 - `metadata`：来源相关扩展信息。
+  - `stars`：累计 stars。
+  - `daily_stars`：相对最近一次基线快照的 stars 增量；首次出现或 baseline 缺失时为 `null`。
+  - `stars_baseline_date`：`daily_stars` 的基线日期（`YYYY-MM-DD`），无基线时为 `null`。最多回溯 3 天。
 
 ## Agent 角色概览
 

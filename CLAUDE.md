@@ -22,7 +22,9 @@
 ├── CLAUDE.md                  # 本文件
 ├── mcp_knowledge_server.py    # 对外暴露知识库的 MCP Server
 ├── requirements.txt
-├── workflows/                 # LangGraph 工作流：collector / analyzer / reviewer / reviser / organizer / saver / planner / pipeline / graph
+├── workflows/                 # LangGraph 工作流：collector / analyzer / reviewer / reviser / organizer / saver / planner / pipeline / graph / star_history
+├── scripts/                   # 一次性 / 周期性脚本：backfill_daily_stars、build_site_data
+├── docs/                      # 静态站点（GitHub Pages）：列表 + 详情 + 全部搜索
 ├── patterns/                  # router、supervisor 等编排模式
 ├── hooks/                     # 写盘/质量校验钩子（validate_article_hook、validate_json、check_quality）
 ├── knowledge/

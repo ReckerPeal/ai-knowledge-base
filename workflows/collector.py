@@ -12,6 +12,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Any
 
 from tests.security import sanitize_input
+from workflows.star_history import enrich_with_daily_stars
 from workflows.state import KBState
 
 
@@ -88,8 +89,10 @@ def collect_node(state: KBState) -> dict[str, Any]:
             "[Security] collect stage blocked %s suspicious input(s)",
             total_warnings,
         )
-    LOGGER.info("[Collector] collected %s source(s)", len(cleaned_sources))
-    return {"sources": cleaned_sources}
+
+    enriched_sources = [enrich_with_daily_stars(src) for src in cleaned_sources]
+    LOGGER.info("[Collector] collected %s source(s)", len(enriched_sources))
+    return {"sources": enriched_sources}
 
 
 def _sanitize_sources(
