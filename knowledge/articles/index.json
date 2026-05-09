@@ -1,240 +1,238 @@
 [
   {
-    "id": "20260508-github-930dd1342c",
+    "id": "20260509-github-930dd1342c",
     "title": "NousResearch/hermes-agent",
     "source": "github_search",
     "source_url": "https://github.com/NousResearch/hermes-agent",
-    "summary": "Hermes-Agent 是一个与用户共同成长的智能代理项目，由 NousResearch 开发，基于 Python 实现。",
-    "content": "Hermes-Agent 是一个开源的智能代理项目，旨在构建一个能够随着用户使用而不断进化的个性化代理。该项目由 NousResearch 维护，使用 Python 语言开发，具有极高的社区关注度（13.8 万星标，2.1 万分支）。尽管存在较多开放问题（8990 个），但项目活跃度依然很高，最近更新于 2026 年 5 月 8 日。其核心理念是代理能够根据用户交互和反馈持续学习和适应，从而提供更贴合个人需求的服务。",
+    "summary": "Hermes Agent 是一个与用户共同成长的智能代理项目，由 NousResearch 开发，基于 Python 实现。",
+    "content": "Hermes Agent 是一个开源项目，旨在构建一个能够随着用户使用而不断进化的智能代理系统。该项目由 NousResearch 维护，使用 Python 语言开发，拥有超过 14 万星标和 2 万次 fork，社区活跃度极高。项目仍在积极开发中，存在较多开放问题，但体现了 AI 代理领域的前沿探索。",
     "tags": [
+      "AI Agent",
       "智能代理",
       "Python",
       "NousResearch",
-      "个性化",
       "开源"
     ],
     "status": "draft",
     "published_at": "2025-07-22T22:22:28Z",
-    "collected_at": "2026-05-08T23:14:35+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
-    "score": 9.2,
+    "score": 8.5,
     "metadata": {
       "author": "NousResearch",
-      "stars": 138793,
-      "forks": 21406,
-      "open_issues": 8990,
-      "updated_at": "2026-05-08T15:13:52Z"
+      "stars": 140121,
+      "forks": 21686,
+      "open_issues": 9381,
+      "updated_at": "2026-05-09T10:18:04Z"
     }
   },
   {
-    "id": "20260508-github-2f4fb6238f",
+    "id": "20260509-github-2f4fb6238f",
     "title": "langchain-ai/langchain",
     "source": "github_search",
     "source_url": "https://github.com/langchain-ai/langchain",
-    "summary": "LangChain 是一个智能体工程平台，提供 TypeScript 版本，支持构建基于大语言模型的应用程序。",
-    "content": "LangChain 是一个用于构建基于大语言模型（LLM）的应用程序的框架，它提供了智能体（Agent）工程的核心能力。该平台支持链式调用、提示管理、记忆系统、工具集成等功能，帮助开发者快速构建复杂的 AI 工作流。项目主要使用 Python 开发，但同时也提供了 TypeScript 版本，以满足不同开发者的需求。截至 2026 年 5 月，该项目在 GitHub 上拥有超过 13.6 万颗星标，社区活跃，持续更新。",
+    "summary": "LangChain 是一个智能体工程平台，提供 TypeScript 版本，支持构建基于语言模型的应用程序。",
+    "content": "LangChain 是一个用于构建基于语言模型（如 GPT）的应用程序的框架，支持智能体（Agent）工程。它提供了模块化组件，包括提示管理、链式调用、记忆、工具集成等，帮助开发者快速构建复杂的 AI 工作流。该仓库由 langchain-ai 维护，拥有超过 13.6 万星标，社区活跃，持续更新。",
     "tags": [
       "LangChain",
-      "智能体工程",
-      "大语言模型",
-      "LLM",
-      "框架",
-      "Python",
+      "智能体",
+      "语言模型",
+      "AI 框架",
       "TypeScript",
-      "AI 应用开发"
+      "Python"
     ],
     "status": "draft",
     "published_at": "2022-10-17T02:58:36Z",
-    "collected_at": "2026-05-08T23:14:35+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "langchain-ai",
-      "stars": 136146,
-      "forks": 22499,
-      "open_issues": 564,
-      "updated_at": "2026-05-08T15:05:45Z"
+      "stars": 136216,
+      "forks": 22512,
+      "open_issues": 604,
+      "updated_at": "2026-05-09T10:06:43Z"
     }
   },
   {
-    "id": "20260508-github-b409dc7b84",
+    "id": "20260509-github-b409dc7b84",
     "title": "Shubhamsaboo/awesome-llm-apps",
     "source": "github_search",
     "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "summary": "Shubhamsaboo/awesome-llm-apps 是一个包含 100 多个 AI Agent 和 RAG 应用的仓库，用户可以直接克隆、定制并部署。",
-    "content": "该仓库由 Shubhamsaboo 创建，拥有 109,241 颗星和 16,157 个分支，仅有 7 个开放问题，更新于 2026-05-08。它提供了大量实用的 LLM 应用示例，覆盖 AI Agent 和检索增强生成（RAG）场景，适合开发者快速上手和二次开发。",
+    "summary": "Shubhamsaboo/awesome-llm-apps 是一个包含超过100个AI Agent与RAG应用的仓库，用户可以直接克隆、定制并部署这些应用。",
+    "content": "该仓库由 Shubhamsaboo 维护，截至2026年5月9日已获得109369颗星、16175个分支，仅有5个开放问题。项目主要使用Python语言，提供了丰富的AI应用示例，涵盖智能代理和检索增强生成等前沿技术，适合开发者快速上手并二次开发。",
     "tags": [
       "AI Agent",
       "RAG",
-      "LLM 应用",
+      "LLM",
+      "Python",
       "开源项目",
-      "Python"
+      "应用示例"
     ],
     "status": "draft",
     "published_at": "2024-04-29T05:30:25Z",
-    "collected_at": "2026-05-08T23:14:35+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "Shubhamsaboo",
-      "stars": 109241,
-      "forks": 16157,
-      "open_issues": 7,
-      "updated_at": "2026-05-08T15:12:37Z"
+      "stars": 109369,
+      "forks": 16175,
+      "open_issues": 5,
+      "updated_at": "2026-05-09T10:16:23Z"
     }
   },
   {
-    "id": "20260508-github-44f0426e61",
+    "id": "20260509-github-44f0426e61",
     "title": "browser-use/browser-use",
     "source": "github_search",
     "source_url": "https://github.com/browser-use/browser-use",
-    "summary": "browser-use 是一个开源项目，旨在让 AI 代理能够轻松访问网站并在线自动化执行任务。",
-    "content": "该项目提供了一个框架，使 AI 代理能够像人类一样与网页交互，包括点击、填写表单、提取数据等操作。它基于 Python 开发，拥有超过 9.2 万星标和 1 万次 fork，社区活跃，持续更新。",
+    "summary": "browser-use 是一个开源项目，旨在让 AI 代理能够轻松访问和操作网站，实现自动化在线任务。该项目使用 Python 开发，拥有超过 9.3 万星标和 1 万次 fork，社区活跃度高。",
+    "content": "browser-use 项目提供了一个框架，使 AI 代理能够像人类一样浏览网页、填写表单、点击按钮等，从而自动化复杂的在线工作流程。其核心功能包括：1）将网站内容转化为 AI 可理解的格式；2）支持基于自然语言指令的任务执行；3）提供可扩展的接口以集成不同 AI 模型。项目采用 Python 编写，依赖 Selenium 或 Playwright 等浏览器自动化工具。当前版本持续更新，已修复 231 个开放问题，适合开发者用于构建智能网页助手、数据抓取工具或自动化测试场景。",
     "tags": [
       "AI代理",
       "网页自动化",
       "Python",
-      "开源工具",
-      "浏览器控制"
+      "浏览器控制",
+      "开源工具"
     ],
     "status": "draft",
     "published_at": "2024-10-31T16:00:56Z",
-    "collected_at": "2026-05-08T23:14:35+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
-    "score": 9.0,
+    "score": 9.2,
     "metadata": {
       "author": "browser-use",
-      "stars": 92928,
-      "forks": 10523,
-      "open_issues": 232,
-      "updated_at": "2026-05-08T15:11:33Z"
+      "stars": 93049,
+      "forks": 10534,
+      "open_issues": 231,
+      "updated_at": "2026-05-09T10:05:56Z"
     }
   },
   {
-    "id": "20260508-github-53292bf109",
+    "id": "20260509-github-53292bf109",
     "title": "infiniflow/ragflow",
     "source": "github_search",
     "source_url": "https://github.com/infiniflow/ragflow",
-    "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿的 RAG 技术与智能体（Agent）能力，为大型语言模型（LLM）构建了卓越的上下文层。",
-    "content": "RAGFlow 由 infiniflow 团队开发，是一个基于 Python 的开源项目，旨在通过检索增强生成技术提升 LLM 的上下文理解与生成能力。该项目集成了 Agent 功能，支持复杂的多步骤推理和工具调用，适用于知识密集型问答、文档分析等场景。截至 2026 年 5 月，该项目在 GitHub 上获得了约 79,995 颗星和 9,121 个分支，社区活跃度高，但仍有 3,037 个开放问题待解决。",
+    "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，将前沿的 RAG 技术与智能体能力融合，为大型语言模型（LLM）构建卓越的上下文层。",
+    "content": "RAGFlow 是一个基于 Python 开发的开源项目，由 infiniflow 团队维护。该项目在 GitHub 上获得了 80053 颗星和 9128 个分支，拥有 3003 个开放问题，最后更新于 2026 年 5 月 9 日。其核心功能是结合检索增强生成（RAG）与智能体（Agent）能力，为 LLM 提供更优质的上下文支持，适用于需要高效知识检索和生成的应用场景。",
     "tags": [
       "RAG",
       "检索增强生成",
-      "Agent",
+      "智能体",
       "LLM",
       "开源",
       "Python",
-      "知识库",
       "上下文层"
     ],
     "status": "draft",
     "published_at": "2023-12-12T06:13:13Z",
-    "collected_at": "2026-05-08T23:14:35+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "infiniflow",
-      "stars": 79995,
-      "forks": 9121,
-      "open_issues": 3037,
-      "updated_at": "2026-05-08T15:03:56Z"
+      "stars": 80053,
+      "forks": 9128,
+      "open_issues": 3003,
+      "updated_at": "2026-05-09T10:11:12Z"
     }
   },
   {
-    "id": "20260508-github-a44248e361",
+    "id": "20260509-github-a44248e361",
     "title": "OpenHands/OpenHands",
     "source": "github_search",
     "source_url": "https://github.com/OpenHands/OpenHands",
-    "summary": "OpenHands 是一个基于 AI 驱动的开发平台，旨在通过智能代理提升开发效率。",
-    "content": "OpenHands 是一个开源项目，利用 AI 技术辅助软件开发流程，包括代码生成、调试和自动化任务。该项目在 GitHub 上拥有超过 7.2 万星标，社区活跃，更新频繁。",
+    "summary": "OpenHands 是一个由 AI 驱动的开发平台，旨在通过智能代理自动化软件开发流程，提升开发效率。",
+    "content": "OpenHands 是一个开源项目，专注于利用 AI 技术辅助软件开发。它通过智能代理（Agent）机制，能够自动执行代码编写、调试、测试等任务，减少人工干预。项目在 GitHub 上拥有超过 7.2 万星标，社区活跃，持续更新。其核心优势在于将大语言模型与开发工具链深度集成，支持多种编程语言和开发环境，适用于快速原型开发、代码审查和自动化运维等场景。",
     "tags": [
-      "AI",
-      "开发工具",
-      "开源",
+      "AI 驱动开发",
+      "智能代理",
       "自动化",
-      "代码生成"
+      "开源",
+      "Python",
+      "代码生成",
+      "开发工具"
     ],
     "status": "draft",
     "published_at": "2024-03-13T03:33:31Z",
-    "collected_at": "2026-05-08T22:05:59+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "OpenHands",
-      "stars": 72909,
-      "forks": 9230,
-      "open_issues": 413,
-      "updated_at": "2026-05-08T13:55:11Z"
+      "stars": 72969,
+      "forks": 9238,
+      "open_issues": 422,
+      "updated_at": "2026-05-09T10:10:05Z"
     }
   },
   {
-    "id": "20260508-github-4e9ef0ef70",
+    "id": "20260509-github-4e9ef0ef70",
     "title": "hiyouga/LlamaFactory",
     "source": "github_search",
     "source_url": "https://github.com/hiyouga/LlamaFactory",
-    "summary": "LlamaFactory 是一个统一的高效微调框架，支持超过 100 种大型语言模型（LLMs）和视觉语言模型（VLMs），已被 ACL 2024 收录。该项目在 GitHub 上拥有 71,048 颗星，社区活跃，持续更新。",
-    "content": "LlamaFactory 由 hiyouga 开发，旨在为研究人员和开发者提供一个高效、统一的工具，用于微调各种主流 LLMs 和 VLMs。该框架支持多种微调方法（如 LoRA、QLoRA、全参数微调等），并提供了易于使用的接口和丰富的配置选项。项目代码基于 Python 实现，在 GitHub 上获得了广泛关注（71k+ stars, 8.6k forks），目前仍有 998 个开放问题，表明社区参与度高且持续迭代。该工作被 ACL 2024 接收，进一步验证了其学术价值。",
+    "summary": "LlamaFactory 是一个统一高效的微调框架，支持 100 多种大型语言模型和多模态大模型，已被 ACL 2024 收录。",
+    "content": "该项目由 hiyouga 开发，在 GitHub 上拥有 71079 颗星和 8687 个分支，当前有 1002 个开放问题。它提供了一个统一的接口，用于对多种 LLM 和 VLM 进行高效微调，旨在简化模型适配过程，支持多种微调方法（如 LoRA、QLoRA 等），并针对不同硬件环境进行了优化。",
     "tags": [
       "LLM",
       "VLM",
       "微调",
       "LoRA",
       "ACL 2024",
-      "Python",
-      "GitHub"
+      "高效训练",
+      "多模态"
     ],
     "status": "draft",
     "published_at": "2023-05-28T10:09:12Z",
-    "collected_at": "2026-05-08T22:05:59+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "hiyouga",
-      "stars": 71048,
-      "forks": 8678,
-      "open_issues": 998,
-      "updated_at": "2026-05-08T13:55:21Z"
+      "stars": 71079,
+      "forks": 8687,
+      "open_issues": 1002,
+      "updated_at": "2026-05-09T10:14:46Z"
     }
   },
   {
-    "id": "20260508-github-f94e0e0acf",
+    "id": "20260509-github-f94e0e0acf",
     "title": "FoundationAgents/MetaGPT",
     "source": "github_search",
     "source_url": "https://github.com/FoundationAgents/MetaGPT",
-    "summary": "MetaGPT 是一个多智能体框架，旨在通过自然语言编程实现首个 AI 软件公司。",
-    "content": "MetaGPT 是一个开源的多智能体框架，由 FoundationAgents 组织开发，旨在模拟一个完整的 AI 软件公司。它通过将多个 AI 智能体（如产品经理、架构师、工程师等）协同工作，实现从自然语言需求到软件产品的自动化生成。该框架支持 Python 语言，拥有 67,789 颗星标和 8,630 个分支，社区活跃，开放问题 121 个。",
+    "summary": "MetaGPT 是一个多智能体框架，旨在模拟一家 AI 软件公司，通过自然语言编程实现软件开发的自动化。",
+    "content": "MetaGPT 是一个开源的多智能体框架，由 FoundationAgents 组织开发。它模拟了一家 AI 软件公司的运作，通过将多个 AI 智能体（如产品经理、架构师、工程师等）协同工作，将自然语言需求转化为完整的软件产品。该框架在 GitHub 上获得了超过 67800 颗星，拥有 8630 个分支，显示出极高的社区关注度。它主要使用 Python 语言开发，适合用于自动化软件开发流程、研究多智能体协作以及探索自然语言编程的潜力。",
     "tags": [
       "多智能体框架",
       "自然语言编程",
       "AI 软件公司",
-      "MetaGPT",
-      "开源"
+      "自动化软件开发",
+      "Python"
     ],
     "status": "draft",
     "published_at": "2023-06-30T09:04:55Z",
-    "collected_at": "2026-05-08T22:05:59+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.5,
     "metadata": {
       "author": "FoundationAgents",
-      "stars": 67789,
+      "stars": 67820,
       "forks": 8630,
       "open_issues": 121,
-      "updated_at": "2026-05-08T14:04:18Z"
+      "updated_at": "2026-05-09T09:35:01Z"
     }
   },
   {
-    "id": "20260508-github-ab15f474a2",
+    "id": "20260509-github-ab15f474a2",
     "title": "bytedance/deer-flow",
     "source": "github_search",
     "source_url": "https://github.com/bytedance/deer-flow",
-    "summary": "Deer Flow 是字节跳动开源的一个长期任务超级智能体框架，能够自主研究、编码和创作。它通过沙箱、记忆、工具、技能、子智能体和消息网关等组件，处理从几分钟到数小时的不同层次任务。",
-    "content": "Deer Flow 是一个面向长期任务（long-horizon）的开源超级智能体（SuperAgent）框架，由字节跳动（ByteDance）开发并开源。其核心能力是让智能体能够自主完成研究、编码和创作等复杂任务。该框架通过集成多种关键组件来实现这一目标：沙箱（sandboxes）提供安全的执行环境；记忆（memories）机制让智能体能够存储和回顾历史信息；工具（tools）和技能（skill）模块扩展了智能体的能力边界；子智能体（subagents）支持任务分解与并行处理；消息网关（message gateway）则负责各组件间的通信协调。这些组件协同工作，使 Deer Flow 能够处理从几分钟到数小时不等的多层级任务。项目在 GitHub 上获得了 66061 颗星和 8738 个分支，拥有 719 个开放问题，最后一次更新于 2026 年 5 月 8 日。",
+    "summary": "DeerFlow 是字节跳动开源的一个面向长期任务的超级智能体框架，能够自主进行研究、编码和创作。它通过沙箱、记忆、工具、技能、子智能体和消息网关等组件，处理从几分钟到数小时的不同层次任务。",
+    "content": "DeerFlow 是一个开源的长期任务超级智能体框架，由字节跳动开发并开源。其核心能力在于能够自主执行研究、编码和创作等复杂任务，支持从几分钟到数小时的长时间跨度任务。框架通过集成沙箱（sandboxes）提供安全执行环境，利用记忆（memories）机制保持上下文，借助工具（tools）和技能（skill）扩展能力，并通过子智能体（subagents）和消息网关（message gateway）实现任务分解与协作。该项目在 GitHub 上获得了 66199 颗星和 8768 个 fork，拥有 740 个开放 issue，表明社区活跃度高且仍在持续迭代。主要编程语言为 Python。",
     "tags": [
       "超级智能体",
       "长期任务",
-      "开源",
-      "字节跳动",
       "自主研究",
       "编码",
       "创作",
@@ -243,46 +241,339 @@
       "工具",
       "技能",
       "子智能体",
-      "消息网关"
+      "消息网关",
+      "字节跳动",
+      "开源"
     ],
     "status": "draft",
     "published_at": "2025-05-07T02:50:19Z",
-    "collected_at": "2026-05-08T22:05:59+08:00",
-    "language": "中文",
-    "score": 9.2,
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.5,
     "metadata": {
       "author": "bytedance",
-      "stars": 66061,
-      "forks": 8738,
-      "open_issues": 719,
-      "updated_at": "2026-05-08T13:55:33Z"
+      "stars": 66199,
+      "forks": 8768,
+      "open_issues": 740,
+      "updated_at": "2026-05-09T10:02:46Z"
     }
   },
   {
-    "id": "20260508-github-b861bbe9f0",
+    "id": "20260509-github-b861bbe9f0",
     "title": "mem0ai/mem0",
     "source": "github_search",
     "source_url": "https://github.com/mem0ai/mem0",
-    "summary": "mem0ai/mem0 是一个为 AI 代理提供通用记忆层的开源项目，旨在增强 AI 系统的长期记忆和上下文感知能力。",
-    "content": "该项目由 mem0ai 团队开发，使用 Python 语言实现，在 GitHub 上获得了 55111 颗星和 6243 个分支，拥有 312 个待解决问题。它提供了一个统一的记忆层，帮助 AI 代理存储、检索和利用历史交互信息，从而提升对话连贯性和个性化体验。",
+    "summary": "mem0 是一个为 AI 智能体提供通用记忆层的开源项目，旨在增强 AI 的长期记忆能力。",
+    "content": "mem0ai/mem0 是一个基于 Python 的开源项目，专注于为 AI 智能体提供统一的记忆层。该项目通过存储和检索历史交互数据，使 AI 能够记住用户偏好、上下文信息及过往对话，从而提升个性化交互体验。其核心功能包括记忆的持久化、高效检索以及与多种 AI 框架的集成。截至 2026 年 5 月，该项目在 GitHub 上已获得 55201 颗星和 6254 个分支，社区活跃度较高，但仍有 315 个未解决的问题。",
     "tags": [
-      "AI 代理",
-      "记忆层",
+      "AI 记忆",
+      "智能体",
       "Python",
       "开源",
-      "上下文感知"
+      "记忆层"
     ],
     "status": "draft",
     "published_at": "2023-06-20T08:58:36Z",
-    "collected_at": "2026-05-08T22:05:59+08:00",
+    "collected_at": "2026-05-09T18:18:05+08:00",
     "language": "Python",
     "score": 9.2,
     "metadata": {
       "author": "mem0ai",
-      "stars": 55111,
-      "forks": 6243,
-      "open_issues": 312,
-      "updated_at": "2026-05-08T14:05:44Z"
+      "stars": 55201,
+      "forks": 6254,
+      "open_issues": 315,
+      "updated_at": "2026-05-09T10:05:08Z"
+    }
+  },
+  {
+    "id": "20260509-github-fdb5c4e723",
+    "title": "zhayujie/CowAgent",
+    "source": "github_search",
+    "source_url": "https://github.com/zhayujie/CowAgent",
+    "summary": "CowAgent 是一个基于大模型的超级 AI 助理，支持主动思考、任务规划、操作系统访问、外部资源调用、技能创建与执行，并具备长期记忆和知识库成长能力。它比 OpenClaw 更轻量便捷，支持微信、飞书、钉钉、企微、QQ、公众号、网页等多种接入方式，可选用 DeepSeek、OpenAI、Claude、Gemini、MiniMax、Qwen、GLM、LinkAI 等多种大模型，处理文本、语音、图片和文件，适用于个人 AI 助理和企业数字员工场景。",
+    "content": "CowAgent (chatgpt-on-wechat) 是一个基于大模型的超级 AI 助理，具备以下核心特性：\n- 主动思考和任务规划：能够自主分析问题并制定执行计划。\n- 操作系统和外部资源访问：可调用系统功能及外部 API 或数据源。\n- 创造和执行 Skills：支持用户自定义技能，并自动执行。\n- 长期记忆与知识库：通过持续学习不断优化自身能力。\n- 多平台接入：支持微信、飞书、钉钉、企业微信、QQ、公众号、网页等。\n- 多模型支持：兼容 DeepSeek、OpenAI、Claude、Gemini、MiniMax、Qwen、GLM、LinkAI 等主流大模型。\n- 多模态处理：可处理文本、语音、图片和文件。\n- 轻量便捷：比 OpenClaw 更轻量，易于部署和使用。\n该仓库由 zhayujie 维护，拥有 44230 星标、10068 分支，更新活跃，适合快速搭建个人 AI 助理或企业数字员工。",
+    "tags": [
+      "AI助理",
+      "大模型",
+      "多平台接入",
+      "任务规划",
+      "知识库",
+      "多模态",
+      "Python",
+      "开源"
+    ],
+    "status": "draft",
+    "published_at": "2022-08-07T08:33:41Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.5,
+    "metadata": {
+      "author": "zhayujie",
+      "stars": 44230,
+      "forks": 10068,
+      "open_issues": 330,
+      "updated_at": "2026-05-09T10:14:17Z"
+    }
+  },
+  {
+    "id": "20260509-github-3595eaeb74",
+    "title": "HKUDS/nanobot",
+    "source": "github_search",
+    "source_url": "https://github.com/HKUDS/nanobot",
+    "summary": "nanobot 是一个超轻量级的个人 AI 代理项目，由 HKUDS 开发，旨在提供高效、轻便的 AI 助手解决方案。",
+    "content": "该项目名为 nanobot，定位为超轻量级个人 AI 代理，基于 Python 实现。截至 2026 年 5 月，仓库拥有 42064 颗星、7391 个分支和 898 个开放问题，表明社区活跃度较高。项目最后更新于 2026 年 5 月 9 日，持续维护中。",
+    "tags": [
+      "AI Agent",
+      "轻量级",
+      "个人助手",
+      "Python",
+      "开源"
+    ],
+    "status": "draft",
+    "published_at": "2026-02-01T07:16:15Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 8.5,
+    "metadata": {
+      "author": "HKUDS",
+      "stars": 42064,
+      "forks": 7391,
+      "open_issues": 898,
+      "updated_at": "2026-05-09T09:58:15Z"
+    }
+  },
+  {
+    "id": "20260509-github-ca7dd68b4c",
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "source": "github_search",
+    "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "summary": "一个由LLM驱动的A股、港股、美股智能分析器，整合多数据源行情、实时新闻、LLM决策仪表盘及多渠道推送，支持零成本定时运行。",
+    "content": "该项目是一个基于大语言模型（LLM）的股票分析系统，覆盖A股、港股、美股三大市场。它通过整合多数据源行情和实时新闻，利用LLM进行决策分析，并提供仪表盘展示。系统支持多渠道推送（如邮件、消息等），并且可以零成本定时运行，适合个人投资者或量化爱好者使用。技术栈以Python为主，依赖开源LLM和金融数据API。",
+    "tags": [
+      "LLM",
+      "股票分析",
+      "A股",
+      "港股",
+      "美股",
+      "实时新闻",
+      "决策仪表盘",
+      "推送",
+      "零成本",
+      "Python"
+    ],
+    "status": "draft",
+    "published_at": "2026-01-10T06:43:20Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 8.5,
+    "metadata": {
+      "author": "ZhuLinsen",
+      "stars": 34799,
+      "forks": 34433,
+      "open_issues": 49,
+      "updated_at": "2026-05-09T10:16:33Z"
+    }
+  },
+  {
+    "id": "20260509-github-7f00d1e1d6",
+    "title": "khoj-ai/khoj",
+    "source": "github_search",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "summary": "Khoj 是一个自托管的 AI 第二大脑，能够从网络或本地文档中获取答案，支持构建自定义代理、调度自动化任务和进行深度研究。它可以将任何在线或本地的大语言模型（如 GPT、Claude、Gemini、Llama、Qwen、Mistral）转化为个人自主 AI 助手。该项目在 GitHub 上拥有超过 3.4 万星标，社区活跃。",
+    "content": "Khoj 是一个开源的自托管 AI 平台，旨在作为用户的“第二大脑”，帮助高效管理知识和自动化工作流。其核心功能包括：1）从网络或用户文档中检索并生成答案；2）构建自定义 AI 代理，执行特定任务；3）支持定时自动化，如定期总结或报告生成；4）深度研究能力，可分析大量信息。Khoj 兼容多种大语言模型（LLM），包括 GPT、Claude、Gemini、Llama、Qwen、Mistral 等，用户可选择在线或本地部署。项目采用 Python 开发，GitHub 仓库显示 34,462 颗星、2,190 个分支和 99 个开放问题，最近更新于 2026 年 5 月 9 日，表明项目维护活跃。",
+    "tags": [
+      "AI",
+      "自托管",
+      "第二大脑",
+      "知识管理",
+      "自动化",
+      "大语言模型",
+      "开源",
+      "Python"
+    ],
+    "status": "draft",
+    "published_at": "2021-08-16T01:48:44Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.2,
+    "metadata": {
+      "author": "khoj-ai",
+      "stars": 34462,
+      "forks": 2190,
+      "open_issues": 99,
+      "updated_at": "2026-05-09T09:53:38Z"
+    }
+  },
+  {
+    "id": "20260509-github-1739a23418",
+    "title": "AstrBotDevs/AstrBot",
+    "source": "github_search",
+    "source_url": "https://github.com/AstrBotDevs/AstrBot",
+    "summary": "AstrBot 是一个集成了多种即时通讯平台、大语言模型、插件和 AI 功能的 AI 智能体助手与开发框架，可作为 OpenClaw 的替代方案。",
+    "content": "AstrBot 是一个基于 Python 开发的 AI 智能体助手与开发框架，由 AstrBotDevs 维护。该项目在 GitHub 上拥有 31694 颗星、2187 个分支，但开放问题较多（1088 个）。它集成了多种即时通讯平台（IM）、大语言模型（LLMs）、插件和 AI 功能，旨在提供一个灵活的开发框架，可作为 OpenClaw 的替代方案。项目自 2022 年 12 月启动，最近更新于 2026 年 5 月，社区活跃度较高。",
+    "tags": [
+      "AI Agent",
+      "开发框架",
+      "即时通讯集成",
+      "大语言模型",
+      "插件系统",
+      "Python",
+      "开源"
+    ],
+    "status": "draft",
+    "published_at": "2022-12-08T13:27:46Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 8.5,
+    "metadata": {
+      "author": "AstrBotDevs",
+      "stars": 31694,
+      "forks": 2187,
+      "open_issues": 1088,
+      "updated_at": "2026-05-09T09:53:42Z"
+    }
+  },
+  {
+    "id": "20260509-github-f46ea04101",
+    "title": "langchain-ai/langgraph",
+    "source": "github_search",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "summary": "LangGraph 是一个用于构建弹性语言代理的框架，采用图结构设计，支持 TypeScript 和 Python。",
+    "content": "LangGraph 由 LangChain 团队开发，允许开发者以有向图的形式定义语言代理的工作流，节点代表工具或逻辑，边代表状态转换。它支持循环、条件分支和持久化状态，适合构建复杂、可恢复的对话系统或自动化任务。该项目在 GitHub 上拥有超过 3 万星标，社区活跃，持续更新。",
+    "tags": [
+      "LangGraph",
+      "语言代理",
+      "图结构",
+      "LangChain",
+      "弹性系统",
+      "TypeScript",
+      "Python"
+    ],
+    "status": "draft",
+    "published_at": "2023-08-09T18:33:12Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.2,
+    "metadata": {
+      "author": "langchain-ai",
+      "stars": 31589,
+      "forks": 5366,
+      "open_issues": 525,
+      "updated_at": "2026-05-09T10:11:11Z"
+    }
+  },
+  {
+    "id": "20260509-github-9f7b4e02c0",
+    "title": "assafelovic/gpt-researcher",
+    "source": "github_search",
+    "source_url": "https://github.com/assafelovic/gpt-researcher",
+    "summary": "GPT Researcher 是一个自主代理，能够利用任何大型语言模型（LLM）提供商对任意数据进行深度研究。",
+    "content": "该项目由 assafelovic 开发，是一个基于 Python 的自主研究代理。它支持接入多种 LLM 提供商，能够自动执行深度研究任务，涵盖数据收集、分析和报告生成。截至 2026 年 5 月，该项目在 GitHub 上获得了 26952 颗星、3619 个分支，有 216 个开放问题，社区活跃度高。",
+    "tags": [
+      "GPT Researcher",
+      "自主代理",
+      "深度研究",
+      "LLM",
+      "Python",
+      "GitHub"
+    ],
+    "status": "draft",
+    "published_at": "2023-05-12T10:33:54Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.0,
+    "metadata": {
+      "author": "assafelovic",
+      "stars": 26952,
+      "forks": 3619,
+      "open_issues": 216,
+      "updated_at": "2026-05-09T09:49:05Z"
+    }
+  },
+  {
+    "id": "20260509-github-07c71cb2bb",
+    "title": "Fosowl/agenticSeek",
+    "source": "github_search",
+    "source_url": "https://github.com/Fosowl/agenticSeek",
+    "summary": "Fosowl/agenticSeek 是一个完全本地化的 Manus AI 替代品，无需 API 或订阅费用，仅需电费即可运行自主智能体，支持思考、网页浏览和代码编写。项目在 GitHub 上获得 26254 颗星和 2946 个分支，拥有 44 个开放问题，最后更新于 2026-05-09。",
+    "content": "该项目旨在提供一个完全本地运行的自主智能体（Autonomous Agent），无需依赖外部 API 或支付每月 200 美元的订阅费用。用户仅需承担电费，即可让智能体执行思考、浏览网页和编写代码等任务。项目通过 Twitter 官方账号 @Martin993886460 发布更新，并提醒用户注意假冒账号。仓库使用 Python 语言开发，社区活跃度较高，但仍有 44 个开放问题需要解决。",
+    "tags": [
+      "自主智能体",
+      "本地AI",
+      "Manus AI替代",
+      "开源",
+      "Python",
+      "无API依赖"
+    ],
+    "status": "draft",
+    "published_at": "2025-02-19T18:03:06Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 8.5,
+    "metadata": {
+      "author": "Fosowl",
+      "stars": 26254,
+      "forks": 2946,
+      "open_issues": 44,
+      "updated_at": "2026-05-09T07:44:33Z"
+    }
+  },
+  {
+    "id": "20260509-github-a1e2c5f2d5",
+    "title": "openai/openai-agents-python",
+    "source": "github_search",
+    "source_url": "https://github.com/openai/openai-agents-python",
+    "summary": "OpenAI 官方推出的轻量级多智能体工作流框架，支持 Python 语言，具备强大的编排能力。",
+    "content": "该仓库由 OpenAI 官方维护，是一个轻量级但功能强大的 Python 框架，专为构建多智能体工作流而设计。它简化了多个 AI 代理之间的协作与任务分配，适用于复杂自动化场景。截至 2026 年 5 月，该项目已获得超过 2.6 万星标和 4000 个分支，社区活跃度高，当前有 73 个开放问题。",
+    "tags": [
+      "OpenAI",
+      "多智能体",
+      "工作流",
+      "Python",
+      "框架",
+      "AI代理"
+    ],
+    "status": "draft",
+    "published_at": "2025-03-11T03:42:36Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.5,
+    "metadata": {
+      "author": "openai",
+      "stars": 26095,
+      "forks": 4004,
+      "open_issues": 73,
+      "updated_at": "2026-05-09T09:10:24Z"
+    }
+  },
+  {
+    "id": "20260509-github-76bc22047c",
+    "title": "mlflow/mlflow",
+    "source": "github_search",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "summary": "MLflow 是一个开源的 AI 工程平台，支持智能体、大语言模型和机器学习模型的全生命周期管理，包括调试、评估、监控和优化，同时控制成本并管理模型与数据的访问权限。",
+    "content": "MLflow 由 Databricks 团队创建，旨在简化 AI 应用的开发与部署流程。它提供实验跟踪、模型注册、部署和监控等功能，支持多种机器学习框架（如 TensorFlow、PyTorch、Scikit-learn）。该平台特别适合团队协作，能够帮助用户高效管理从实验到生产的整个流程，并确保模型的可重复性和可追溯性。截至 2026 年 5 月，该项目在 GitHub 上拥有超过 25,000 颗星，社区活跃，持续更新。",
+    "tags": [
+      "MLflow",
+      "AI工程平台",
+      "机器学习",
+      "大语言模型",
+      "智能体",
+      "模型管理",
+      "开源",
+      "Python"
+    ],
+    "status": "draft",
+    "published_at": "2018-06-05T16:05:58Z",
+    "collected_at": "2026-05-09T18:18:05+08:00",
+    "language": "Python",
+    "score": 9.5,
+    "metadata": {
+      "author": "mlflow",
+      "stars": 25834,
+      "forks": 5700,
+      "open_issues": 2053,
+      "updated_at": "2026-05-09T08:41:06Z"
     }
   }
 ]

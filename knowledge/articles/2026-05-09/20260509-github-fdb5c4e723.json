@@ -1,0 +1,30 @@
+{
+  "id": "20260509-github-fdb5c4e723",
+  "title": "zhayujie/CowAgent",
+  "source": "github_search",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "summary": "CowAgent 是一个基于大模型的超级 AI 助理，支持主动思考、任务规划、操作系统访问、外部资源调用、技能创建与执行，并具备长期记忆和知识库成长能力。它比 OpenClaw 更轻量便捷，支持微信、飞书、钉钉、企微、QQ、公众号、网页等多种接入方式，可选用 DeepSeek、OpenAI、Claude、Gemini、MiniMax、Qwen、GLM、LinkAI 等多种大模型，处理文本、语音、图片和文件，适用于个人 AI 助理和企业数字员工场景。",
+  "content": "CowAgent (chatgpt-on-wechat) 是一个基于大模型的超级 AI 助理，具备以下核心特性：\n- 主动思考和任务规划：能够自主分析问题并制定执行计划。\n- 操作系统和外部资源访问：可调用系统功能及外部 API 或数据源。\n- 创造和执行 Skills：支持用户自定义技能，并自动执行。\n- 长期记忆与知识库：通过持续学习不断优化自身能力。\n- 多平台接入：支持微信、飞书、钉钉、企业微信、QQ、公众号、网页等。\n- 多模型支持：兼容 DeepSeek、OpenAI、Claude、Gemini、MiniMax、Qwen、GLM、LinkAI 等主流大模型。\n- 多模态处理：可处理文本、语音、图片和文件。\n- 轻量便捷：比 OpenClaw 更轻量，易于部署和使用。\n该仓库由 zhayujie 维护，拥有 44230 星标、10068 分支，更新活跃，适合快速搭建个人 AI 助理或企业数字员工。",
+  "tags": [
+    "AI助理",
+    "大模型",
+    "多平台接入",
+    "任务规划",
+    "知识库",
+    "多模态",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": "2022-08-07T08:33:41Z",
+  "collected_at": "2026-05-09T18:18:05+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "zhayujie",
+    "stars": 44230,
+    "forks": 10068,
+    "open_issues": 330,
+    "updated_at": "2026-05-09T10:14:17Z"
+  }
+}
