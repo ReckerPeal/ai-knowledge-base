@@ -58,7 +58,10 @@
     "author": "owner",
     "stars": 12345,
     "daily_stars": 132,
+    "weekly_stars": 879,
     "stars_baseline_date": "2026-05-08",
+    "feed_name": null,
+    "category": "GitHub 热点 · Python",
     "comments": 42,
     "distribution_channels": ["telegram", "lark"]
   }
@@ -84,6 +87,8 @@
   - `weekly_stars`：trending 来源 "X stars this week" 徽章值；其他来源为 `null`。
   - `monthly_stars`：trending 来源 "X stars this month" 徽章值；其他来源为 `null`。
   - `stars_baseline_date`：仅当 `daily_stars` 来自跨日 diff 时使用（`YYYY-MM-DD`），trending 来源固定为 `null`。
+  - `feed_name`：RSS 来源对应的 feed 名（如 "OpenAI Blog"）；非 RSS 为 `null`。
+  - `category`：前端类别徽章/分组依据。RSS 来自 `rss_sources.yaml`（如 "公司博客"、"中文社区"）；trending 形如 `GitHub 热点 · Python`。
 
 ## Agent 角色概览
 

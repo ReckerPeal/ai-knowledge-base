@@ -19,7 +19,7 @@ jobs:
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      BUDGET_YUAN: ${{ vars.BUDGET_YUAN || '1.0' }}
+      BUDGET_YUAN: ${{ vars.BUDGET_YUAN || '1.5' }}
       PLANNER_TARGET_COUNT: ${{ vars.PLANNER_TARGET_COUNT || '20' }}
 
     steps:
