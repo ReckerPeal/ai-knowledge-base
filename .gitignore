@@ -56,3 +56,6 @@ temp/
 .opencode/cache/
 .opencode/tmp/
 .opencode/logs/
+
+# Site staging (populated by pages-deploy workflow / local preview)
+docs/data/

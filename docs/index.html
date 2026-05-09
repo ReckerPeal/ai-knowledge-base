@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI 知识库</title>
+  <meta name="description" content="每日精选 AI / LLM / Agent 项目动态">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>AI 知识库</h1>
+      <p class="subtitle">每日精选 AI / LLM / Agent 项目动态 · 共 <span id="total">—</span> 条</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters" aria-label="筛选">
+      <input id="q" type="search" placeholder="搜索标题、摘要或标签…" autocomplete="off">
+
+      <div class="filter-row">
+        <label class="range-label">
+          最低评分
+          <input id="min-score" type="range" min="0" max="10" step="0.5" value="0">
+          <span id="score-value" class="score-value">0</span>
+        </label>
+
+        <label>
+          日期
+          <select id="date-filter">
+            <option value="">全部</option>
+          </select>
+        </label>
+
+        <label>
+          排序
+          <select id="sort">
+            <option value="date">按收集时间</option>
+            <option value="score">按评分</option>
+            <option value="stars">按 stars</option>
+          </select>
+        </label>
+
+        <button id="reset" type="button" class="btn-text">清空筛选</button>
+      </div>
+
+      <div class="tag-section">
+        <div class="tag-header">
+          <span>标签</span>
+          <button id="toggle-tags" type="button" class="btn-text">展开全部</button>
+        </div>
+        <div id="tags" class="tag-cloud" aria-label="标签筛选"></div>
+      </div>
+    </section>
+
+    <div id="status" class="status" role="status">加载中…</div>
+    <ul id="list" class="card-grid"></ul>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a href="https://github.com/ReckerPeal/ai-knowledge-base" target="_blank" rel="noopener">GitHub 仓库</a>
+      <span class="dot">·</span>
+      <span>数据每日北京时间 18:00 自动更新</span>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
