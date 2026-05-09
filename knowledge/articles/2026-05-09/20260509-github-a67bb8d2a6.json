@@ -1,0 +1,29 @@
+{
+  "id": "20260509-github-a67bb8d2a6",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "summary": "Chrome DevTools 为编码代理提供支持",
+  "content": "该仓库为编码代理集成了 Chrome DevTools 功能，允许代理直接与浏览器 DevTools 交互，实现自动化调试、性能分析和 DOM 操作。基于 TypeScript 构建，支持通过 MCP 协议与 AI 代理通信。",
+  "tags": [
+    "Chrome DevTools",
+    "编码代理",
+    "自动化调试",
+    "MCP",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "ChromeDevTools",
+    "stars": 38662,
+    "forks": 2443,
+    "daily_stars": 159,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

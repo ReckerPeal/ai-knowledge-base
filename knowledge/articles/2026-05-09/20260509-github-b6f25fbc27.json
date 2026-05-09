@@ -1,0 +1,30 @@
+{
+  "id": "20260509-github-b6f25fbc27",
+  "title": "hanxi/cups-web",
+  "source": "github_trending",
+  "source_url": "https://github.com/hanxi/cups-web",
+  "summary": "hanxi/cups-web 是一个将家用 USB 打印机转换为随时可访问的网络打印服务的开源项目。",
+  "content": "该项目基于 Go 语言开发，旨在解决传统 USB 打印机只能本地使用的问题。通过部署 cups-web，用户可以将连接在电脑或服务器上的 USB 打印机共享到局域网或互联网，实现远程打印功能。项目利用 CUPS（通用 Unix 打印系统）作为后端，提供 Web 界面进行打印机管理和作业控制。目前该项目在 GitHub 上获得 738 颗星和 82 个 fork，周增长 140 星，显示出较高的社区关注度。适合家庭、小型办公室或需要低成本网络打印解决方案的场景。",
+  "tags": [
+    "网络打印",
+    "USB打印机",
+    "CUPS",
+    "Go",
+    "远程打印",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:45+08:00",
+  "language": "Go",
+  "score": 7.5,
+  "metadata": {
+    "author": "hanxi",
+    "stars": 738,
+    "forks": 82,
+    "daily_stars": null,
+    "weekly_stars": 140,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

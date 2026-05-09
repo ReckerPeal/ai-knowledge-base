@@ -1,0 +1,41 @@
+{
+  "id": "20260509-github-085b8723d0",
+  "title": "njbrake/agent-of-empires",
+  "source": "github_trending",
+  "source_url": "https://github.com/njbrake/agent-of-empires",
+  "summary": "Agent-of-Empires 是一个基于 Rust 构建的多智能体管理工具，支持通过 TUI 或 Web 界面同时管理 Claude Code、OpenCode、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI 和 Factory Droid Coding 等多种 AI 编码代理。它利用 tmux 和 git worktrees 实现高效的会话隔离与并行工作流，特别适合在移动设备上远程访问和控制多个代理。",
+  "content": "Agent-of-Empires 是一个创新的多代理管理平台，专为需要同时运行和协调多个 AI 编码代理的开发者和团队设计。其核心功能包括：\n- **多代理支持**：兼容 Claude Code、OpenCode、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI 和 Factory Droid Coding 等主流 AI 编码工具。\n- **双界面访问**：提供终端用户界面（TUI）和 Web 界面，Web 界面优化了移动端访问，方便用户随时随地管理代理。\n- **底层技术**：基于 tmux 实现会话管理，利用 git worktrees 隔离不同代理的工作目录，避免冲突并支持并行开发。\n- **应用场景**：适用于需要同时运行多个 AI 代理进行代码生成、调试、重构或协作的复杂项目，尤其适合远程工作和移动办公场景。\n该项目在 GitHub 上已获得 2127 颗星和 181 个 fork，周增长 264 星，显示出较高的社区关注度。",
+  "tags": [
+    "AI代理管理",
+    "多代理协调",
+    "Rust",
+    "tmux",
+    "git worktrees",
+    "Claude Code",
+    "OpenCode",
+    "Mistral Vibe",
+    "Codex CLI",
+    "Gemini CLI",
+    "Pi.dev",
+    "Copilot CLI",
+    "Factory Droid Coding",
+    "TUI",
+    "Web界面",
+    "移动端访问",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:43+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "njbrake",
+    "stars": 2127,
+    "forks": 181,
+    "daily_stars": null,
+    "weekly_stars": 264,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

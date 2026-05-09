@@ -1,0 +1,29 @@
+{
+  "id": "20260509-github-8b70a1cd06",
+  "title": "spf13/cobra",
+  "source": "github_trending",
+  "source_url": "https://github.com/spf13/cobra",
+  "summary": "Cobra 是一个用于构建现代 Go 命令行界面（CLI）应用的库，提供命令、参数和标志的简洁定义方式。",
+  "content": "Cobra 是 Go 语言中最流行的 CLI 框架之一，由 spf13 开发。它提供了创建强大命令行应用所需的核心功能，包括命令（Command）、子命令、参数（Args）和标志（Flags）的声明式定义。Cobra 支持自动生成帮助信息、自动补全（Bash/Zsh/Fish/PowerShell）、以及与 Viper 配置库的无缝集成。其设计理念强调简洁性和可扩展性，被 Kubernetes、Hugo、Docker 等众多知名项目采用。",
+  "tags": [
+    "Go",
+    "CLI",
+    "命令行工具",
+    "框架",
+    "spf13"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:36+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "spf13",
+    "stars": 43892,
+    "forks": 3140,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

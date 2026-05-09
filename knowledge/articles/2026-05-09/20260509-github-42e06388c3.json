@@ -1,0 +1,30 @@
+{
+  "id": "20260509-github-42e06388c3",
+  "title": "tracel-ai/burn",
+  "source": "github_trending",
+  "source_url": "https://github.com/tracel-ai/burn",
+  "summary": "Burn 是一个新一代的张量库和深度学习框架，在灵活性、效率和可移植性上不妥协。",
+  "content": "Burn 是一个基于 Rust 语言开发的新一代张量库和深度学习框架，旨在提供高性能、灵活且可移植的深度学习解决方案。该框架由 tracel-ai 团队维护，在 GitHub 上获得了超过 15000 颗星，拥有近 900 个 fork，每日新增星数约 27 颗，显示出较高的社区关注度。Burn 的设计理念强调在不牺牲灵活性的前提下，实现高效的张量计算和模型训练，并支持多种后端（如 CPU、GPU 等），便于在不同硬件平台上部署。其 Rust 语言基础带来了内存安全和并发性能优势，适合需要高性能和可靠性的 AI 应用场景。",
+  "tags": [
+    "深度学习",
+    "张量库",
+    "Rust",
+    "框架",
+    "高性能计算",
+    "可移植性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:34+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tracel-ai",
+    "stars": 15053,
+    "forks": 898,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260509-github-dafc803431",
+  "title": "NVlabs/GR00T-WholeBodyControl",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+  "summary": "GR00T-WholeBodyControl 是 NVIDIA 实验室（NVlabs）开发的一个统一平台，用于开发和部署先进的人形机器人全身控制器。该平台包含解耦的全身控制模型，并应用于 NVIDIA Isaac-Gr00t、Gr00t N1.5、N1.6 以及 GEAR-SONIC 等项目中。",
+  "content": "GR00T-WholeBodyControl 是一个面向人形机器人的全身控制（WBC）统一平台，旨在简化和加速高级控制器的开发与部署。该平台集成了多种解耦的全身控制模型，这些模型已在 NVIDIA Isaac-Gr00t 仿真环境以及 Gr00t N1.5、N1.6 和 GEAR-SONIC 等实际项目中得到应用。通过提供模块化的架构和标准化的接口，开发者可以更高效地设计、测试和迁移全身控制算法。该仓库由 NVlabs 维护，当前获得 1914 颗星和 245 个分支，日增星数约 19 颗，显示出较高的社区关注度。",
+  "tags": [
+    "人形机器人",
+    "全身控制",
+    "NVIDIA",
+    "Isaac-Gr00t",
+    "机器人控制",
+    "开源平台",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 1914,
+    "forks": 245,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

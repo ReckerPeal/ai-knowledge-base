@@ -1,0 +1,29 @@
+{
+  "id": "20260509-github-2271fc56a4",
+  "title": "gitleaks/gitleaks",
+  "source": "github_trending",
+  "source_url": "https://github.com/gitleaks/gitleaks",
+  "summary": "Gitleaks 是一款用于检测代码仓库中硬编码密钥、密码等敏感信息的静态分析工具，支持多种扫描模式和自定义规则。",
+  "content": "Gitleaks 是一个开源的密钥检测工具，能够扫描 Git 仓库中的提交历史、分支和文件系统，发现可能泄露的 API 密钥、密码、令牌等敏感信息。它支持自定义正则规则、预提交钩子集成，并提供 JSON 或 CSV 格式的输出报告。该工具在 CI/CD 流程中广泛使用，帮助团队在代码泄露前发现并修复安全问题。",
+  "tags": [
+    "密钥检测",
+    "安全扫描",
+    "Git 仓库",
+    "静态分析",
+    "DevSecOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:45+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "gitleaks",
+    "stars": 26700,
+    "forks": 2024,
+    "daily_stars": null,
+    "weekly_stars": 284,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

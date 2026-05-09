@@ -1,0 +1,29 @@
+{
+  "id": "20260509-github-0dbd88f1eb",
+  "title": "lsdefine/GenericAgent",
+  "source": "github_trending",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "summary": "GenericAgent 是一个自我进化的智能体，从 3300 行的种子代码开始，逐步构建技能树，最终实现完整的系统控制，且令牌消耗仅为传统方案的六分之一。",
+  "content": "该仓库由 lsdefine 开发，基于 Python 实现。核心创新在于智能体能够自主学习和扩展技能，从初始的 3300 行种子代码出发，动态生成并优化技能树，从而高效地完成系统级任务。相比传统方法，其令牌消耗降低了 6 倍，显著提升了资源利用效率。项目在 GitHub 上表现活跃，已获得 10250 颗星和 1168 个分支，日增星数达 577，显示出社区的高度关注。",
+  "tags": [
+    "自我进化",
+    "智能体",
+    "技能树",
+    "系统控制",
+    "令牌优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:29+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "lsdefine",
+    "stars": 10250,
+    "forks": 1168,
+    "daily_stars": 577,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

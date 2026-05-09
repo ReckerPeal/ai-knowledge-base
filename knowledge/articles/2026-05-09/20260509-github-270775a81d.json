@@ -1,0 +1,31 @@
+{
+  "id": "20260509-github-270775a81d",
+  "title": "HelixDB/helix-db",
+  "source": "github_trending",
+  "source_url": "https://github.com/HelixDB/helix-db",
+  "summary": "HelixDB 是一个从头开始用 Rust 构建的开源图向量数据库。",
+  "content": "HelixDB 是一个结合了图数据库与向量数据库特性的新型开源数据库，完全使用 Rust 语言从零开发。它旨在同时支持图结构数据的高效存储与查询，以及向量数据的相似性搜索。该项目在 GitHub 上获得了 4311 颗星和 227 个分支，日增星数达 38，显示出较高的社区关注度。其技术栈选择 Rust 语言，保证了内存安全和高性能。HelixDB 的独特之处在于将图数据库的关联查询能力与向量数据库的语义搜索能力融合，适用于需要处理复杂关系与高维向量数据的场景，如推荐系统、知识图谱和 AI 应用。",
+  "tags": [
+    "图数据库",
+    "向量数据库",
+    "Rust",
+    "开源",
+    "AI",
+    "相似性搜索",
+    "知识图谱"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:34+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "HelixDB",
+    "stars": 4311,
+    "forks": 227,
+    "daily_stars": 38,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

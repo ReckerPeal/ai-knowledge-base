@@ -1,0 +1,30 @@
+{
+  "id": "20260509-github-2d9977f041",
+  "title": "Wei-Shaw/sub2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/Wei-Shaw/sub2api",
+  "summary": "Sub2API-CRS2 是一个一站式开源中转服务，支持 Claude、OpenAI、Gemini 和 Antigravity 订阅的统一接入，并提供拼车共享功能以高效分摊成本，用户可使用原生工具无缝操作。",
+  "content": "Sub2API-CRS2 是一个基于 Go 语言开发的开源项目，旨在为多个 AI 服务（包括 Claude、OpenAI、Gemini 和 Antigravity）提供统一的订阅接入点。它通过中转服务架构，允许用户将不同平台的订阅整合到一个接口中，简化了管理流程。项目特别支持拼车共享模式，允许多个用户共同分摊订阅成本，提高资源利用率。此外，该项目强调与原生工具的无缝集成，用户无需修改现有工作流即可使用。GitHub 仓库显示该项目获得了 19210 颗星和 3532 个 fork，近期增长迅速（日增 304 星，周增 1910 星），表明社区关注度较高。",
+  "tags": [
+    "AI",
+    "中转服务",
+    "订阅管理",
+    "拼车共享",
+    "开源",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:36+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Wei-Shaw",
+    "stars": 19210,
+    "forks": 3532,
+    "daily_stars": 304,
+    "weekly_stars": 1910,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

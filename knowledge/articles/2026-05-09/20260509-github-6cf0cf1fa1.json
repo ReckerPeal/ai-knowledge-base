@@ -1,0 +1,30 @@
+{
+  "id": "20260509-github-6cf0cf1fa1",
+  "title": "kubernetes-sigs/headlamp",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/headlamp",
+  "summary": "Headlamp 是一个由 Kubernetes SIG 维护的、功能全面且用户友好的 Kubernetes Web UI，支持扩展。",
+  "content": "Headlamp 是 Kubernetes SIG 官方推出的开源 Web 界面工具，旨在提供直观、易用的集群管理体验。它具备完整的 Kubernetes 资源管理功能，包括工作负载、配置、存储、网络等对象的可视化操作。Headlamp 采用插件化架构，允许用户通过自定义插件扩展功能，满足不同场景需求。该项目使用 TypeScript 开发，拥有 6356 颗星和 761 个 fork，社区活跃度高。其设计注重用户体验，支持多集群管理、实时日志查看、资源编辑等特性，适合开发者和运维人员日常使用。",
+  "tags": [
+    "Kubernetes",
+    "Web UI",
+    "开源工具",
+    "集群管理",
+    "TypeScript",
+    "插件化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-09T22:33:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 6356,
+    "forks": 761,
+    "daily_stars": null,
+    "weekly_stars": 70,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
