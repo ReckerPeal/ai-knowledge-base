@@ -223,6 +223,8 @@ def _parse_article(
         "weekly_stars": delta if since == "weekly" else None,
         "monthly_stars": delta if since == "monthly" else None,
         "stars_baseline_date": None,
+        "feed_name": None,
+        "category": _category_label(language),
     }
 
     return {
@@ -235,6 +237,14 @@ def _parse_article(
         "language": language,
         "metadata": metadata,
     }
+
+
+def _category_label(language: str) -> str:
+    """Map a trending article's display language into a UI category label."""
+    name = (language or "").strip()
+    if not name or name.lower() == "unknown":
+        return "GitHub 热点"
+    return f"GitHub 热点 · {name}"
 
 
 def _link_count(article: Tag, href_suffix: str) -> int:

@@ -23,21 +23,24 @@ import time
 from typing import Any
 
 from tests.security import sanitize_input
+from workflows.rss_collector import fetch_all_rss
 from workflows.state import KBState
 from workflows.trending_collector import VALID_WINDOWS, fetch_trending
 
 
 LOGGER = logging.getLogger(__name__)
 
-DEFAULT_PER_SOURCE_LIMIT = 25
+DEFAULT_PER_SOURCE_LIMIT = 20
 DEFAULT_LANGUAGES: tuple[str, ...] = ("python", "typescript", "rust", "go")
 DEFAULT_WINDOWS: tuple[str, ...] = ("daily", "weekly")
+DEFAULT_INCLUDE_RSS = True
 INTER_REQUEST_DELAY_SECONDS = 1.0
 SOURCE_TEXT_FIELDS = ("title", "summary", "description", "language")
-SOURCE_METADATA_TEXT_FIELDS = ("author",)
+SOURCE_METADATA_TEXT_FIELDS = ("author", "feed_name", "category")
 
 ENV_LANGUAGES = "TRENDING_LANGUAGES"
 ENV_WINDOWS = "TRENDING_WINDOWS"
+ENV_INCLUDE_RSS = "INCLUDE_RSS"
 
 
 def collect_node(state: KBState) -> dict[str, Any]:
@@ -55,11 +58,13 @@ def collect_node(state: KBState) -> dict[str, Any]:
     limit = max(1, int(plan.get("per_source_limit", DEFAULT_PER_SOURCE_LIMIT)))
     languages = _resolve_languages(plan)
     windows = _resolve_windows(plan)
+    include_rss = _resolve_include_rss(plan)
 
     LOGGER.info(
-        "[CollectNode] trending fetch languages=%s windows=%s limit=%s",
+        "[CollectNode] trending languages=%s windows=%s rss=%s limit=%s",
         languages,
         windows,
+        include_rss,
         limit,
     )
 
@@ -86,6 +91,15 @@ def collect_node(state: KBState) -> dict[str, Any]:
                 continue
             raw_sources.extend(items)
 
+    if include_rss:
+        try:
+            rss_items = fetch_all_rss(per_source_limit=limit)
+        except RuntimeError as exc:
+            LOGGER.warning("[CollectNode] rss fetch failed: %s", exc)
+            rss_items = []
+        raw_sources.extend(rss_items)
+        fetch_count += 1
+
     merged_sources = _merge_by_url(raw_sources)
     cleaned_sources, total_warnings = _sanitize_sources(merged_sources)
     if total_warnings > 0:
@@ -95,7 +109,7 @@ def collect_node(state: KBState) -> dict[str, Any]:
         )
 
     LOGGER.info(
-        "[CollectNode] collected %s unique source(s) from %s fetch(es)",
+        "[CollectNode] collected %s unique source(s) from %s fetch step(s)",
         len(cleaned_sources),
         fetch_count,
     )
@@ -114,6 +128,16 @@ def _resolve_windows(plan: dict[str, Any]) -> list[str]:
     candidates = _normalise_csv(raw, fallback=DEFAULT_WINDOWS)
     valid = [item for item in candidates if item in VALID_WINDOWS]
     return valid or list(DEFAULT_WINDOWS)
+
+
+def _resolve_include_rss(plan: dict[str, Any]) -> bool:
+    """Resolve whether RSS feeds participate in this collect cycle."""
+    if "include_rss" in plan:
+        return bool(plan["include_rss"])
+    raw_env = os.environ.get(ENV_INCLUDE_RSS)
+    if raw_env is None:
+        return DEFAULT_INCLUDE_RSS
+    return raw_env.strip().lower() in {"1", "true", "yes", "on"}
 
 
 def _normalise_csv(raw: Any, *, fallback: tuple[str, ...]) -> list[str]:
@@ -164,6 +188,10 @@ def _merge_metadata(target: dict[str, Any], extra: dict[str, Any]) -> None:
             target_meta[key] = max(a, b)
         elif isinstance(b, int):
             target_meta[key] = b
+
+    for key in ("feed_name", "category"):
+        if not target_meta.get(key) and extra_meta.get(key):
+            target_meta[key] = extra_meta[key]
 
     if not target.get("summary") and extra.get("summary"):
         target["summary"] = extra["summary"]

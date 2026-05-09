@@ -18,7 +18,7 @@ class WorkflowPlannerTest(unittest.TestCase):
 
         self.assertEqual("lite", plan["mode"])
         self.assertEqual(5, plan["per_source_limit"])
-        self.assertEqual(0.7, plan["relevance_threshold"])
+        self.assertEqual(0.8, plan["relevance_threshold"])
         self.assertEqual(1, plan["max_iterations"])
         self.assertIn("低于 10", plan["rationale"])
 
@@ -31,8 +31,8 @@ class WorkflowPlannerTest(unittest.TestCase):
 
         self.assertEqual("standard", plan["mode"])
         self.assertEqual(10, plan["target_count"])
-        self.assertEqual(10, plan["per_source_limit"])
-        self.assertEqual(0.5, plan["relevance_threshold"])
+        self.assertEqual(15, plan["per_source_limit"])
+        self.assertEqual(0.8, plan["relevance_threshold"])
         self.assertEqual(2, plan["max_iterations"])
 
     def test_plan_strategy_reads_target_from_environment(self) -> None:
@@ -45,7 +45,7 @@ class WorkflowPlannerTest(unittest.TestCase):
         self.assertEqual("full", plan["mode"])
         self.assertEqual(20, plan["target_count"])
         self.assertEqual(20, plan["per_source_limit"])
-        self.assertEqual(0.4, plan["relevance_threshold"])
+        self.assertEqual(0.8, plan["relevance_threshold"])
         self.assertEqual(3, plan["max_iterations"])
         self.assertIn("不低于 20", plan["rationale"])
 

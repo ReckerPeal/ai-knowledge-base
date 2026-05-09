@@ -54,6 +54,7 @@ class WorkflowNodesTest(unittest.TestCase):
                         "languages": ["python"],
                         "windows": ["daily", "weekly"],
                         "per_source_limit": 5,
+                        "include_rss": False,
                     }
                 }
             )
@@ -102,6 +103,7 @@ class WorkflowNodesTest(unittest.TestCase):
                         "languages": ["python"],
                         "windows": ["daily"],
                         "per_source_limit": 1,
+                        "include_rss": False,
                     }
                 }
             )

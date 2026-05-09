@@ -33,7 +33,7 @@ def plan_strategy(target_count: Any = None) -> dict[str, Any]:
             "mode": "lite",
             "target_count": resolved_target,
             "per_source_limit": 5,
-            "relevance_threshold": 0.7,
+            "relevance_threshold": 0.8,
             "max_iterations": 1,
             "rationale": (
                 "目标采集量低于 10，采用 lite 策略以提高相关性门槛、"
@@ -45,8 +45,8 @@ def plan_strategy(target_count: Any = None) -> dict[str, Any]:
         return {
             "mode": "standard",
             "target_count": resolved_target,
-            "per_source_limit": 10,
-            "relevance_threshold": 0.5,
+            "per_source_limit": 15,
+            "relevance_threshold": 0.8,
             "max_iterations": 2,
             "rationale": (
                 "目标采集量在 10 到 19 之间，采用 standard 策略以平衡"
@@ -58,7 +58,7 @@ def plan_strategy(target_count: Any = None) -> dict[str, Any]:
         "mode": "full",
         "target_count": resolved_target,
         "per_source_limit": 20,
-        "relevance_threshold": 0.4,
+        "relevance_threshold": 0.8,
         "max_iterations": 3,
         "rationale": (
             "目标采集量不低于 20，采用 full 策略以扩大每个来源覆盖范围、"
