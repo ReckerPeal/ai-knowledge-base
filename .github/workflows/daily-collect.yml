@@ -45,7 +45,7 @@ jobs:
           mapfile -t article_files < <(
             git status --porcelain --untracked-files=all -- knowledge/articles \
               | sed -E 's/^...//' \
-              | awk '/\.json$/ {print}' \
+              | awk '/^knowledge\/articles\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/.*\.json$/ {print}' \
               | while IFS= read -r path; do
                   [ -f "$path" ] && printf '%s\n' "$path"
                 done \
@@ -62,7 +62,7 @@ jobs:
           mapfile -t article_files < <(
             git status --porcelain --untracked-files=all -- knowledge/articles \
               | sed -E 's/^...//' \
-              | awk '/\.json$/ {print}' \
+              | awk '/^knowledge\/articles\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/.*\.json$/ {print}' \
               | while IFS= read -r path; do
                   [ -f "$path" ] && printf '%s\n' "$path"
                 done \
@@ -81,7 +81,11 @@ jobs:
             exit 0
           fi
 
-          article_count="$(git status --porcelain --untracked-files=all -- knowledge/articles | awk '/\.json$/ {count++} END {print count+0}')"
+          article_count="$(
+            git status --porcelain --untracked-files=all -- knowledge/articles \
+              | sed -E 's/^...//' \
+              | awk '/^knowledge\/articles\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/.*\.json$/ {count++} END {print count+0}'
+          )"
           commit_date="$(date -u +%Y-%m-%d)"
 
           git config user.name "github-actions[bot]"
