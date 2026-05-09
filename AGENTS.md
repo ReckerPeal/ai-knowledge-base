@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-本项目是一个 AI 知识库助手，自动从 GitHub Trending 和 Hacker News 采集 AI、LLM、Agent 领域的技术动态，经 AI 分析、去重、归类和摘要后，以结构化 JSON 形式沉淀到本地知识库，并支持通过 Telegram、飞书等渠道分发高价值内容。
+本项目是一个 AI 知识库助手，自动从 GitHub Trending（多语言：Python/TypeScript/Rust/Go，daily + weekly 两个时间窗口）和 Hacker News 采集 AI、LLM、Agent 领域的技术动态，经 AI 分析、去重、归类和摘要后，以结构化 JSON 形式沉淀到本地知识库，并支持通过 Telegram、飞书等渠道分发高价值内容。
 
 ## 技术栈
 
@@ -80,14 +80,16 @@
 - `score`：AI 评估价值分，范围 `1` 到 `10`。
 - `metadata`：来源相关扩展信息。
   - `stars`：累计 stars。
-  - `daily_stars`：相对最近一次基线快照的 stars 增量；首次出现或 baseline 缺失时为 `null`。
-  - `stars_baseline_date`：`daily_stars` 的基线日期（`YYYY-MM-DD`），无基线时为 `null`。最多回溯 3 天。
+  - `daily_stars`：trending 来源直接来自 "X stars today" 徽章；search 历史数据来自跨日 diff（最多回溯 3 天）。无值时 `null`。
+  - `weekly_stars`：trending 来源 "X stars this week" 徽章值；其他来源为 `null`。
+  - `monthly_stars`：trending 来源 "X stars this month" 徽章值；其他来源为 `null`。
+  - `stars_baseline_date`：仅当 `daily_stars` 来自跨日 diff 时使用（`YYYY-MM-DD`），trending 来源固定为 `null`。
 
 ## Agent 角色概览
 
 | 角色 | 目录建议 | 主要职责 | 输入 | 输出 |
 | --- | --- | --- | --- | --- |
-| 采集 Agent | `.opencode/agents/collector.md` | 从 GitHub Trending、Hacker News 抓取 AI/LLM/Agent 技术动态，保留原始数据和来源信息 | 来源配置、关键词、时间窗口 | `knowledge/raw/` 下的原始 JSON |
+| 采集 Agent | `.opencode/agents/collector.md` | 抓取 GitHub Trending（多语言 × daily/weekly）与 Hacker News，保留原始数据、来源信息及 daily_stars / weekly_stars 增量 | 来源配置、语言列表、时间窗口 | `knowledge/raw/` 下的原始 JSON |
 | 分析 Agent | `.opencode/agents/analyzer.md` | 对原始内容进行去重、摘要、打标签、价值评分和结构化转换 | `knowledge/raw/` 原始数据 | 符合规范的知识条目 JSON |
 | 整理 Agent | `.opencode/agents/curator.md` | 审核、排序、归档和分发内容，选择适合 Telegram/飞书发布的条目 | 分析后的知识条目 | `knowledge/articles/` 条目与分发任务 |
 

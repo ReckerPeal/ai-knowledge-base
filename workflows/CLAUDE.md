@@ -8,8 +8,9 @@
 | --- | --- | --- | --- |
 | `state.py` | `KBState` TypedDict 定义 | — | 全部共享字段 |
 | `planner.py` | 制定采集策略（lite/standard/deep） | `target_count`（环境变量 `PLANNER_TARGET_COUNT`） | `plan` |
-| `collector.py` | 从 GitHub Search API 采集仓库摘要，附 `daily_stars` 增量（依赖 `star_history`） | `plan` | `sources` |
-| `star_history.py` | 跨天查找 `metadata.stars` 基线，计算 `daily_stars`（最多回溯 3 天） | `source_url` + 今日日期 | `(stars, baseline_date)` |
+| `collector.py` | 调度 trending 多语言 × 多窗口抓取，按 `source_url` 合并，沉淀 `daily_stars` / `weekly_stars` | `plan.languages` / `plan.windows` / `plan.per_source_limit` | `sources` |
+| `trending_collector.py` | 单次抓取 `github.com/trending` HTML 并解析 | language + since (`daily`/`weekly`/`monthly`) | `list[source]` |
+| `star_history.py` | （历史用途）跨天查找 `metadata.stars` 基线计算 `daily_stars`，最多回溯 3 天 | `source_url` + 今日日期 | `(stars, baseline_date)` |
 | `analyzer.py` | LLM 把 sources → 结构化分析 | `sources` | `analyses`、`cost_tracker` |
 | `reviewer.py` | 给前 5 条 analyses 打分（加权本地汇总） | `analyses`、`iteration` | `review_passed`、`review_feedback`、`iteration` |
 | `reviser.py` | 按 `review_feedback` 改写 analyses | `analyses`、`review_feedback` | `analyses`、`cost_tracker` |
