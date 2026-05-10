@@ -16,6 +16,8 @@ LOGGER = logging.getLogger(__name__)
 DEFAULT_RELEVANCE_THRESHOLD = 0.5
 CHINA_TZ = timezone(timedelta(hours=8))
 ARTICLE_TEXT_FIELDS = ("title", "source", "summary", "content", "language")
+MIN_SUMMARY_LENGTH = 20
+MAX_PADDED_SUMMARY_LENGTH = 200
 
 
 def organize_node(state: KBState) -> dict[str, Any]:
@@ -35,6 +37,7 @@ def organize_node(state: KBState) -> dict[str, Any]:
 
     articles: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
+    dropped_short = 0
     for analysis in analyses:
         score = _as_float(analysis.get("score"))
         if _relevance_score(score) < threshold:
@@ -43,10 +46,25 @@ def organize_node(state: KBState) -> dict[str, Any]:
         source_url = str(analysis.get("source_url") or "")
         if not source_url or source_url in seen_urls:
             continue
+
+        article = _format_article(analysis, score)
+        if len(article["summary"]) < MIN_SUMMARY_LENGTH:
+            dropped_short += 1
+            LOGGER.warning(
+                "[OrganizeNode] dropped article with short summary (%s chars) url=%s",
+                len(article["summary"]),
+                source_url,
+            )
+            continue
+
         seen_urls.add(source_url)
+        articles.append(_filter_article_output(article))
 
-        articles.append(_filter_article_output(_format_article(analysis, score)))
-
+    if dropped_short:
+        LOGGER.warning(
+            "[OrganizeNode] dropped %s analyses for short summary",
+            dropped_short,
+        )
     return {"articles": articles, "cost_tracker": cost_tracker}
 
 
@@ -62,8 +80,9 @@ def _format_article(analysis: dict[str, Any], score: float) -> dict[str, Any]:
     """
     collected_at = str(analysis.get("collected_at") or _now_iso())
     source_url = str(analysis.get("source_url") or "")
-    summary = str(analysis.get("summary") or "")
-    content = str(analysis.get("content") or summary)
+    raw_summary = str(analysis.get("summary") or "").strip()
+    content = str(analysis.get("content") or raw_summary).strip()
+    summary = _ensure_summary_length(raw_summary, content)
     return {
         "id": str(analysis.get("id") or _article_id(collected_at, source_url)),
         "title": str(analysis.get("title") or "未命名条目"),
@@ -79,6 +98,46 @@ def _format_article(analysis: dict[str, Any], score: float) -> dict[str, Any]:
         "score": score,
         "metadata": dict(analysis.get("metadata") or {}),
     }
+
+
+def _ensure_summary_length(summary: str, content: str) -> str:
+    """Pad a too-short summary using the article's longer ``content``.
+
+    If the LLM returns a summary below ``MIN_SUMMARY_LENGTH`` characters
+    (after stripping), prefer the first sentence/snippet of ``content`` to
+    avoid downstream JSON-validator failures while still preserving the
+    LLM's structured output. Returns the original summary when it is long
+    enough, or an empty string when no usable text is available; the
+    organize node will drop empty results.
+
+    Args:
+        summary: Raw summary from the analyzer.
+        content: Longer analysis content from the analyzer.
+
+    Returns:
+        Summary text guaranteed to be >= ``MIN_SUMMARY_LENGTH`` characters
+        when content is available, otherwise the original (possibly empty)
+        summary that callers can drop.
+    """
+    if len(summary) >= MIN_SUMMARY_LENGTH:
+        return summary
+    if not content:
+        return summary
+
+    snippet = content.replace("\n", " ").strip()
+    if len(snippet) > MAX_PADDED_SUMMARY_LENGTH:
+        snippet = snippet[:MAX_PADDED_SUMMARY_LENGTH].rstrip() + "…"
+
+    if not summary:
+        return snippet if len(snippet) >= MIN_SUMMARY_LENGTH else summary
+
+    if summary in snippet:
+        return snippet if len(snippet) >= MIN_SUMMARY_LENGTH else summary
+
+    combined = f"{summary} — {snippet}"
+    if len(combined) > MAX_PADDED_SUMMARY_LENGTH:
+        combined = combined[:MAX_PADDED_SUMMARY_LENGTH].rstrip() + "…"
+    return combined if len(combined) >= MIN_SUMMARY_LENGTH else summary
 
 
 def _normalize_tags(value: Any) -> list[str]:
