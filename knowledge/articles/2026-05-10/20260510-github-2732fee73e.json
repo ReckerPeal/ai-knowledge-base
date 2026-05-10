@@ -1,0 +1,32 @@
+{
+  "id": "20260510-github-2732fee73e",
+  "title": "VectifyAI/PageIndex",
+  "source": "github_trending",
+  "source_url": "https://github.com/VectifyAI/PageIndex",
+  "summary": "PageIndex 是一个基于推理的检索增强生成（RAG）文档索引工具，无需向量化处理，通过推理机制实现高效文档检索。",
+  "content": "PageIndex 由 VectifyAI 开发，旨在解决传统 RAG 系统中向量化索引的复杂性和资源消耗问题。它采用推理驱动的方法，直接对文档内容进行逻辑推理和索引构建，从而避免了对向量嵌入的依赖。该项目在 GitHub 上获得 30344 颗星和 2602 个分支，周增长 4250 星，显示出极高的社区关注度。主要特点包括：无向量化、基于推理的检索、高效文档索引、支持多种文档格式。适用于需要快速部署 RAG 系统且资源受限的场景。",
+  "tags": [
+    "RAG",
+    "文档索引",
+    "推理检索",
+    "无向量化",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-10T21:26:37+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "VectifyAI",
+    "stars": 30344,
+    "forks": 2602,
+    "daily_stars": null,
+    "weekly_stars": 4250,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260510-github-0327766b09",
+  "title": "surrealdb/surrealdb",
+  "source": "github_trending",
+  "source_url": "https://github.com/surrealdb/surrealdb",
+  "summary": "SurrealDB 是一个可扩展、分布式、协作式的文档-图形数据库，专为实时网络设计。它结合了文档数据库的灵活性和图形数据库的关系能力，支持实时查询和协作功能。",
+  "content": "SurrealDB 是一个用 Rust 编写的高性能数据库，旨在简化现代应用的数据管理。它支持多种数据模型（文档、图形、关系），提供实时查询、权限控制、ACID 事务和分布式部署。其核心特性包括：1）文档-图形混合模型，允许灵活存储和高效关系查询；2）内置实时订阅和 WebSocket 支持，适合实时应用；3）SQL-like 查询语言，降低学习成本；4）支持多种存储后端（如 RocksDB、TiKV）。该项目在 GitHub 上拥有 32071 颗星和 1262 个分支，每日新增约 11 颗星，属于 Rust 生态中的热门数据库项目。",
+  "tags": [
+    "数据库",
+    "Rust",
+    "实时网络",
+    "文档-图形数据库",
+    "分布式系统",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-10T21:26:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "surrealdb",
+    "stars": 32071,
+    "forks": 1262,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

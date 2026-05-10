@@ -1,0 +1,31 @@
+{
+  "id": "20260510-github-4aff7db928",
+  "title": "openai/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/skills",
+  "summary": "OpenAI 发布的 Codex 技能目录，提供一系列预定义技能模板，帮助开发者快速构建基于 Codex 的 AI 应用。",
+  "content": "该仓库是 OpenAI 官方维护的 Codex 技能集合，包含多种常见任务的技能定义，如代码生成、调试、解释等。每个技能以 JSON 格式描述，包含名称、描述、示例输入输出等字段，便于开发者集成到自己的应用中。仓库还提供了使用指南和最佳实践，适合希望利用 Codex 提升开发效率的团队。",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "技能目录",
+    "AI 编程",
+    "代码生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-10T21:26:37+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 18737,
+    "forks": 1242,
+    "daily_stars": null,
+    "weekly_stars": 649,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

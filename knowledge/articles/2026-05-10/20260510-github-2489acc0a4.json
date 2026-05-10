@@ -1,0 +1,29 @@
+{
+  "id": "20260510-github-2489acc0a4",
+  "title": "On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis",
+  "source": "rss",
+  "source_url": "https://arxiv.org/html/2601.05280v2",
+  "summary": "本文探讨大型语言模型自我改进的局限性，认为没有符号模型合成，奇点不会很快到来。",
+  "content": "该论文分析了大型语言模型（LLMs）通过自我改进实现能力提升的极限，指出当前基于统计学习的自我改进方法存在根本性瓶颈。作者提出，要实现真正的智能突破，需要引入符号模型合成（Symbolic Model Synthesis），即结合符号推理与神经网络的方法。文章认为，仅依赖数据驱动的自我改进无法达到通用人工智能（AGI），奇点（Singularity）不会在缺乏符号推理的情况下临近。",
+  "tags": [
+    "大型语言模型",
+    "自我改进",
+    "符号模型合成",
+    "奇点",
+    "通用人工智能"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-28T11:43:54-05:00",
+  "collected_at": "2026-05-10T21:26:44+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
