@@ -1,0 +1,33 @@
+{
+  "id": "20260511-github-0c7b688bbd",
+  "title": "PriorLabs/TabPFN",
+  "source": "github_trending",
+  "source_url": "https://github.com/PriorLabs/TabPFN",
+  "summary": "TabPFN 是一个针对表格数据的预训练基础模型，旨在通过单个前向传播实现高效分类与回归，无需传统训练过程。",
+  "content": "TabPFN 由 PriorLabs 开发，基于 Transformer 架构，专为表格数据设计。它利用预训练权重，能在小样本场景下快速推理，支持分类与回归任务，并兼容缺失值处理。项目在 GitHub 上获得 6937 星，近期周增 748 星，显示社区高度关注。",
+  "tags": [
+    "表格数据",
+    "基础模型",
+    "Transformer",
+    "小样本学习",
+    "分类",
+    "回归",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-11T19:04:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "PriorLabs",
+    "stars": 6937,
+    "forks": 683,
+    "daily_stars": null,
+    "weekly_stars": 748,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260511-github-31b74dbe5d",
+  "title": "MHSanaei/3x-ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/MHSanaei/3x-ui",
+  "summary": "MHSanaei/3x-ui 是一个基于 Xray 的多协议多用户面板，支持 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun 等多种协议，具备过期时间、流量和 IP 限制功能。",
+  "content": "该项目是一个功能丰富的 Xray 面板，旨在提供多协议支持（包括 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun），并允许管理员对每个用户设置过期时间、流量配额和 IP 限制。它基于 Go 语言开发，在 GitHub 上拥有 36658 颗星和 6857 个分支，近期每日新增 163 颗星，每周新增 755 颗星，显示出较高的社区关注度。该工具适用于需要管理多个代理用户和协议的场景，尤其适合网络代理服务搭建。",
+  "tags": [
+    "Xray",
+    "多协议",
+    "用户管理",
+    "流量限制",
+    "IP限制",
+    "Go",
+    "代理面板"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-11T19:04:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "MHSanaei",
+    "stars": 36658,
+    "forks": 6857,
+    "daily_stars": 163,
+    "weekly_stars": 755,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

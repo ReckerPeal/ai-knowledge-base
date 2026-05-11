@@ -1,0 +1,33 @@
+{
+  "id": "20260511-github-6cf0cf1fa1",
+  "title": "kubernetes-sigs/headlamp",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/headlamp",
+  "summary": "Headlamp 是一个由 Kubernetes SIG 维护的、功能全面、用户友好且可扩展的 Kubernetes Web UI，使用 TypeScript 开发。",
+  "content": "Headlamp 是一个开源的 Kubernetes Web 用户界面，旨在提供直观、高效且可扩展的集群管理体验。它由 Kubernetes SIG（特别兴趣小组）维护，支持多种 Kubernetes 资源的管理、监控和操作。Headlamp 的核心特性包括：\n- **功能全面**：提供对 Pod、Deployment、Service、ConfigMap 等 Kubernetes 核心资源的可视化管理和操作。\n- **用户友好**：界面设计简洁清晰，支持多集群切换、实时日志查看、资源编辑等功能，降低 Kubernetes 使用门槛。\n- **可扩展性**：支持通过插件机制扩展功能，用户可以根据需求自定义界面或集成第三方工具。\n- **技术栈**：基于 TypeScript 开发，前端框架为 React，后端使用 Go 语言，确保高性能和跨平台兼容性。\n- **社区活跃**：截至数据收集日，该项目在 GitHub 上获得 6367 颗星和 768 个 Fork，周增长 73 星，表明社区关注度和活跃度较高。\n- **适用场景**：适用于需要图形化界面管理 Kubernetes 集群的开发者和运维人员，尤其适合多集群环境或团队协作场景。",
+  "tags": [
+    "Kubernetes",
+    "Web UI",
+    "TypeScript",
+    "开源",
+    "集群管理",
+    "可扩展",
+    "SIG"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-11T19:04:32+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 6367,
+    "forks": 768,
+    "daily_stars": null,
+    "weekly_stars": 73,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260511-github-89c4c4ec4b",
+  "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+  "summary": "这篇博客介绍了如何使用 Sentence Transformers 实现多模态嵌入和重排序模型，涵盖文本、图像等多模态数据的统一表示与检索优化。",
+  "content": "该博客来自 Hugging Face 官方博客，详细阐述了多模态嵌入模型（如 CLIP 风格）和重排序模型在 Sentence Transformers 框架下的实现方法。内容包括多模态数据的编码、相似度计算、以及通过重排序提升检索精度的技术细节。适合对多模态 AI 和语义搜索感兴趣的开发者。",
+  "tags": [
+    "多模态嵌入",
+    "Sentence Transformers",
+    "重排序模型",
+    "Hugging Face",
+    "语义搜索"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "collected_at": "2026-05-11T19:04:36+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

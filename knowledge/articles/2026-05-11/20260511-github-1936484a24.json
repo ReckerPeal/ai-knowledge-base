@@ -1,0 +1,33 @@
+{
+  "id": "20260511-github-1936484a24",
+  "title": "openai/plugins",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/plugins",
+  "summary": "OpenAI 官方发布的插件系统，允许第三方开发者扩展 ChatGPT 的功能，通过 API 集成实现实时数据获取、知识检索和自动化操作。",
+  "content": "该仓库是 OpenAI 官方推出的插件（Plugins）项目，旨在为 ChatGPT 提供可扩展的第三方功能集成。插件系统允许开发者创建自定义接口，使 ChatGPT 能够访问实时信息（如天气、股票）、运行计算、调用外部 API 或与数据库交互。项目基于 Python 实现，提供了插件开发指南、示例代码和认证机制。核心组件包括插件清单（manifest）、API 端点定义、以及 OAuth 认证流程。该仓库在 GitHub 上获得 1083 颗星和 140 个 Fork，周增长 101 星，属于近期热门项目。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "插件系统",
+    "API集成",
+    "Python",
+    "AI扩展",
+    "实时数据"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-11T19:04:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 1083,
+    "forks": 140,
+    "daily_stars": null,
+    "weekly_stars": 101,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
