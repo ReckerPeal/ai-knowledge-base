@@ -1,0 +1,32 @@
+{
+  "id": "20260512-github-1936484a24",
+  "title": "openai/plugins",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/plugins",
+  "summary": "OpenAI 官方发布的插件系统，允许第三方开发者扩展 ChatGPT 的功能。该项目提供了插件开发指南、示例代码和 API 文档，支持模型调用外部数据和服务。",
+  "content": "该仓库是 OpenAI 官方推出的插件（Plugins）项目，旨在为 ChatGPT 提供可扩展的功能接口。开发者可以基于此仓库的文档和示例，创建能够与 ChatGPT 交互的插件，实现联网搜索、代码执行、访问第三方服务等能力。项目包含插件开发指南、认证流程、API 规范以及多个示例插件（如网页浏览器、代码解释器）。该仓库目前处于早期阶段，但已获得较高关注度，是理解 ChatGPT 生态扩展的重要参考。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "插件系统",
+    "API",
+    "Python",
+    "AI扩展"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:54+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 1090,
+    "forks": 142,
+    "daily_stars": null,
+    "weekly_stars": 102,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260512-github-a1ba6f0896",
+  "title": "jaegertracing/jaeger",
+  "source": "github_trending",
+  "source_url": "https://github.com/jaegertracing/jaeger",
+  "summary": "CNCF Jaeger 是一个分布式追踪平台，用于监控和故障排查基于微服务的分布式系统。",
+  "content": "Jaeger 是 CNCF 毕业项目，提供端到端的分布式追踪能力，支持 OpenTelemetry 协议，可用于性能分析和依赖关系映射。其核心功能包括：1) 分布式上下文传播；2) 分布式事务监控；3) 根因分析；4) 服务依赖分析；5) 性能优化。项目采用 Go 语言开发，拥有 22785 星标和 2893 分支，社区活跃。",
+  "tags": [
+    "分布式追踪",
+    "微服务",
+    "监控",
+    "Go",
+    "CNCF",
+    "OpenTelemetry",
+    "性能分析"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:49:02+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "jaegertracing",
+    "stars": 22785,
+    "forks": 2893,
+    "daily_stars": null,
+    "weekly_stars": 32,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

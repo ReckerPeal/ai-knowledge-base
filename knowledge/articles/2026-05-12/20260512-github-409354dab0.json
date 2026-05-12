@@ -1,0 +1,36 @@
+{
+  "id": "20260512-github-409354dab0",
+  "title": "LearningCircuit/local-deep-research",
+  "source": "github_trending",
+  "source_url": "https://github.com/LearningCircuit/local-deep-research",
+  "summary": "LearningCircuit/local-deep-research 是一个开源项目，支持本地和云端大语言模型（如 llama.cpp、Ollama、Google 等），在 SimpleQA 基准测试中达到约 95% 的准确率（例如使用 Qwen3.6-27B 在 3090 显卡上）。它集成了 10 多种搜索引擎（包括 arXiv、PubMed 以及私有文档），并强调完全本地化与加密特性。",
+  "content": "该项目旨在提供一个高效、隐私优先的深度研究工具。核心功能包括：\n1. 多模型支持：兼容本地推理框架（如 llama.cpp、Ollama）和云端 API（如 Google），用户可根据硬件灵活选择。\n2. 高性能基准：在 SimpleQA 测试中，使用 Qwen3.6-27B 模型在 NVIDIA 3090 上达到约 95% 的准确率，表明其推理能力较强。\n3. 多源搜索：内置 10 余种搜索引擎，覆盖学术（arXiv、PubMed）和私有文档，便于跨领域信息检索。\n4. 隐私与安全：所有数据处理均在本地完成，并采用加密传输，适合对数据敏感的场景。\n5. 社区热度：在 GitHub 上获得 7283 星标和 635 分支，周增长 2449 星，显示较高关注度。",
+  "tags": [
+    "本地推理",
+    "大语言模型",
+    "隐私保护",
+    "搜索引擎集成",
+    "SimpleQA",
+    "Qwen",
+    "llama.cpp",
+    "Ollama",
+    "学术搜索",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:54+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "LearningCircuit",
+    "stars": 7283,
+    "forks": 635,
+    "daily_stars": null,
+    "weekly_stars": 2449,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

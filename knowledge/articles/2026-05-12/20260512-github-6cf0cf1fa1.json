@@ -1,0 +1,31 @@
+{
+  "id": "20260512-github-6cf0cf1fa1",
+  "title": "kubernetes-sigs/headlamp",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/headlamp",
+  "summary": "Headlamp 是一个由 Kubernetes SIG 维护的功能完备、用户友好且可扩展的 Kubernetes Web UI。",
+  "content": "Headlamp 是一个开源的 Kubernetes Web 用户界面，由 Kubernetes SIG（特别兴趣小组）开发和维护。它旨在提供一个功能完备、用户友好且高度可扩展的界面，用于管理和监控 Kubernetes 集群。Headlamp 支持多种功能，包括资源查看、日志访问、终端连接、自定义资源定义（CRD）支持等。其可扩展性允许开发者通过插件机制添加自定义功能，从而满足不同场景的需求。该项目使用 TypeScript 编写，拥有超过 6300 颗星和 770 个分支，在 GitHub 上受到广泛关注。",
+  "tags": [
+    "Kubernetes",
+    "Web UI",
+    "TypeScript",
+    "可扩展",
+    "集群管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:57+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 6373,
+    "forks": 772,
+    "daily_stars": null,
+    "weekly_stars": 71,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

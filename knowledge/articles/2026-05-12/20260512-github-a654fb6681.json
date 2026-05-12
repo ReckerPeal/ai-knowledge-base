@@ -1,0 +1,32 @@
+{
+  "id": "20260512-github-a654fb6681",
+  "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+  "source": "rss",
+  "source_url": "https://openai.com/index/mrc-supercomputer-networking",
+  "summary": "OpenAI 发布 MRC（多路径可靠连接）协议，这是一种新的超级计算机网络协议，通过 OCP 开放计算项目发布，旨在提升大规模 AI 训练集群的韧性和性能。",
+  "content": "OpenAI 推出了 MRC（Multipath Reliable Connection，多路径可靠连接）协议，这是一种专为大规模 AI 训练网络设计的新型超级计算机网络协议。该协议已通过开放计算项目（OCP）发布，旨在显著提升 AI 训练集群的韧性和性能，解决传统网络在大规模分布式训练中遇到的瓶颈问题。MRC 通过多路径传输和可靠连接机制，优化了网络资源利用率，降低了通信延迟，从而支持更大规模、更高效的 AI 模型训练。",
+  "tags": [
+    "OpenAI",
+    "MRC",
+    "网络协议",
+    "AI训练",
+    "超级计算机",
+    "OCP",
+    "大规模分布式训练",
+    "网络韧性"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-05T10:00:00+00:00",
+  "collected_at": "2026-05-12T18:49:02+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

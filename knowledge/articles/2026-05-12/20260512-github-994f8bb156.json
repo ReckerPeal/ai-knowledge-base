@@ -1,0 +1,31 @@
+{
+  "id": "20260512-github-994f8bb156",
+  "title": "chaos-mesh/chaos-mesh",
+  "source": "github_trending",
+  "source_url": "https://github.com/chaos-mesh/chaos-mesh",
+  "summary": "Chaos Mesh 是一个面向 Kubernetes 的混沌工程平台，用于在集群中注入各种故障以测试系统弹性。",
+  "content": "Chaos Mesh 是一个开源的混沌工程平台，专为 Kubernetes 环境设计。它允许用户通过定义混沌实验来模拟各种故障场景，如 Pod 故障、网络延迟、文件系统错误等，从而验证分布式系统的可靠性和容错能力。该平台提供了丰富的故障类型和灵活的调度策略，支持通过 YAML 配置文件或图形化界面进行实验管理。Chaos Mesh 还集成了 Prometheus 监控，便于观察实验对系统的影响。项目采用 Go 语言开发，拥有活跃的社区和详细的文档，适合用于生产环境的稳定性测试。",
+  "tags": [
+    "混沌工程",
+    "Kubernetes",
+    "故障注入",
+    "系统弹性",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chaos-mesh",
+    "stars": 7691,
+    "forks": 973,
+    "daily_stars": 15,
+    "weekly_stars": 38,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

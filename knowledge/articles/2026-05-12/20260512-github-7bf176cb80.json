@@ -1,0 +1,33 @@
+{
+  "id": "20260512-github-7bf176cb80",
+  "title": "kyutai-labs/pocket-tts",
+  "source": "github_trending",
+  "source_url": "https://github.com/kyutai-labs/pocket-tts",
+  "summary": "一个轻量级文本转语音（TTS）模型，专为在CPU上高效运行而设计，可轻松集成到移动或嵌入式设备中。",
+  "content": "Pocket-TTS 是由 kyutai-labs 开发的一个开源文本转语音项目，旨在提供一种能在普通CPU上流畅运行的高质量语音合成方案。该项目基于先进的深度学习技术，通过模型压缩和优化，使得TTS模型体积小巧、推理速度快，无需依赖昂贵的GPU硬件。它特别适合资源受限的环境，如智能手机、树莓派等边缘设备。项目在GitHub上获得了4360颗星和494个fork，显示出社区的高度关注。主要特点包括：低延迟、高自然度语音输出、支持多种语言和声音、易于部署的API接口。该项目的出现降低了TTS技术的使用门槛，让开发者能够更便捷地在自己的应用中集成语音功能。",
+  "tags": [
+    "文本转语音",
+    "TTS",
+    "轻量级模型",
+    "CPU推理",
+    "边缘计算",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:54+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kyutai-labs",
+    "stars": 4360,
+    "forks": 494,
+    "daily_stars": null,
+    "weekly_stars": 227,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

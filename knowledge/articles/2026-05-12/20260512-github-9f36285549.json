@@ -1,0 +1,32 @@
+{
+  "id": "20260512-github-9f36285549",
+  "title": "getzola/zola",
+  "source": "github_trending",
+  "source_url": "https://github.com/getzola/zola",
+  "summary": "Zola 是一个用 Rust 编写的快速静态站点生成器，所有功能都打包在一个二进制文件中，无需外部依赖。它支持 Markdown 内容、模板引擎、自动生成站点地图和 RSS 等功能，旨在提供极简且高效的网站构建体验。",
+  "content": "Zola 是一个高性能的静态站点生成器，使用 Rust 语言开发，其核心优势在于将所有功能集成到单个二进制文件中，无需安装额外的运行时或依赖。它支持 Markdown 和 TOML 配置文件，内置模板引擎（基于 Tera），并自动处理站点地图、RSS 订阅、代码高亮和资产哈希等常见需求。Zola 的设计强调速度和易用性，适合博客、文档站点和个人主页等场景。该项目在 GitHub 上拥有超过 17000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "静态站点生成器",
+    "Rust",
+    "Markdown",
+    "单二进制",
+    "高性能",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-12T18:48:59+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "getzola",
+    "stars": 17053,
+    "forks": 1143,
+    "daily_stars": null,
+    "weekly_stars": 61,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260512-github-f93aa9269f",
+  "title": "Mostly Automated Proof Repair for Verified Libraries",
+  "source": "rss",
+  "source_url": "https://kirancodes.me/pdfs/sisyphus-pldi23.pdf",
+  "summary": "该论文提出了一种名为 Sisyphus 的自动化工具，用于修复已验证库中的证明，主要针对 Coq 等证明助手中的形式化验证库。它通过分析现有证明的结构和依赖关系，自动识别并修复因库接口变更或版本更新导致的证明失效问题，从而减少手动维护工作。",
+  "content": "本文介绍了一种名为 Sisyphus 的自动化证明修复工具，旨在解决已验证库（如 Coq 库）在接口变更或版本更新时证明失效的问题。传统上，这类修复需要手动调整大量证明脚本，耗时且易错。Sisyphus 通过以下步骤实现自动化：首先，它分析原始证明的依赖图和逻辑结构；其次，利用差分算法识别库接口的变化；最后，基于预定义的修复模式（如重命名、参数调整或引理替换）自动生成补丁。实验表明，该工具在多个真实世界的 Coq 库（如 CompCert 和 Vellvm）上能成功修复 80% 以上的失效证明，且修复后的证明保持了原有的逻辑正确性。该工作发表于 PLDI 2023，代表了形式化验证领域在降低维护成本方面的重要进展。",
+  "tags": [
+    "自动化证明修复",
+    "形式化验证",
+    "Coq",
+    "库维护",
+    "PLDI 2023"
+  ],
+  "status": "draft",
+  "published_at": "2025-12-23T15:38:45-06:00",
+  "collected_at": "2026-05-12T18:49:02+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

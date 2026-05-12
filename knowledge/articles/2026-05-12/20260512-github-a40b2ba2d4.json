@@ -1,0 +1,29 @@
+{
+  "id": "20260512-github-a40b2ba2d4",
+  "title": "EMO: Pretraining mixture of experts for emergent modularity",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/emo",
+  "summary": "EMO 是一种预训练混合专家模型，旨在实现涌现模块化。",
+  "content": "该博客介绍了 EMO（Emergent Modularity Optimization）方法，通过预训练混合专家（Mixture of Experts, MoE）架构，使模型在训练过程中自然涌现出模块化结构。这种方法不需要显式的模块化设计，而是通过优化专家网络的稀疏激活和路由机制，让不同专家自动学习处理不同类型的数据或任务，从而提升模型的可解释性、可扩展性和效率。博客可能讨论了 EMO 的设计原理、训练策略、与标准 MoE 的对比以及在实际任务中的表现。",
+  "tags": [
+    "混合专家模型",
+    "涌现模块化",
+    "预训练",
+    "稀疏激活",
+    "模型可解释性"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-08T16:03:50+00:00",
+  "collected_at": "2026-05-12T18:49:02+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
