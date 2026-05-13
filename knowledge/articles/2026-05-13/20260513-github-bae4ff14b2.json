@@ -1,0 +1,35 @@
+{
+  "id": "20260513-github-bae4ff14b2",
+  "title": "hashicorp/nomad",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/nomad",
+  "summary": "Nomad 是一个易于使用、灵活且高性能的工作负载编排器，能够部署微服务、批处理、容器化和非容器化应用的混合。它易于操作和扩展，并原生集成了 Consul 和 Vault。",
+  "content": "Nomad 是 HashiCorp 开发的一款工作负载编排工具，支持多种类型应用的部署，包括微服务、批处理任务、容器化应用以及非容器化应用。其设计注重易用性和性能，能够简化运维和扩展流程。此外，Nomad 与 Consul（服务发现）和 Vault（密钥管理）深度集成，提供更强大的基础设施管理能力。该仓库在 GitHub 上拥有 16494 颗星和 2084 个分支，近期每日新增约 3 颗星，属于 Go 语言项目。",
+  "tags": [
+    "Nomad",
+    "工作负载编排",
+    "HashiCorp",
+    "Go",
+    "容器化",
+    "微服务",
+    "批处理",
+    "Consul",
+    "Vault"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:51:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 16494,
+    "forks": 2084,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

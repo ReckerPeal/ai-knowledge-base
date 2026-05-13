@@ -1,0 +1,33 @@
+{
+  "id": "20260513-github-8914bd679d",
+  "title": "RhysSullivan/executor",
+  "source": "github_trending",
+  "source_url": "https://github.com/RhysSullivan/executor",
+  "summary": "executor 是一个为 AI 代理提供缺失集成层的开源项目，允许代理在安全环境中调用任何 OpenAPI、MCP、GraphQL 或自定义 JavaScript 函数。",
+  "content": "该项目旨在解决 AI 代理与外部服务集成时的痛点，通过提供一个统一的、安全的执行环境，使代理能够灵活调用多种 API 和自定义逻辑。它支持 OpenAPI、MCP、GraphQL 等标准协议，并允许用户定义自定义 JavaScript 函数，从而扩展代理的能力边界。项目采用 TypeScript 开发，近期在 GitHub 上获得了显著关注，周增长星标数达 364 个。",
+  "tags": [
+    "AI 代理",
+    "集成层",
+    "OpenAPI",
+    "MCP",
+    "GraphQL",
+    "安全执行",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:52:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "RhysSullivan",
+    "stars": 1677,
+    "forks": 100,
+    "daily_stars": null,
+    "weekly_stars": 364,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

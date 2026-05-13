@@ -1,0 +1,34 @@
+{
+  "id": "20260513-github-4c7a691915",
+  "title": "raullenchai/Rapid-MLX",
+  "source": "github_trending",
+  "source_url": "https://github.com/raullenchai/Rapid-MLX",
+  "summary": "Rapid-MLX 是专为 Apple Silicon 设计的最快本地 AI 引擎，比 Ollama 快 4.2 倍，缓存 TTFT 仅 0.08 秒，支持 100% 工具调用。它提供 17 种工具解析器、提示缓存、推理分离和云路由功能，可作为 OpenAI 的即插即用替代方案，兼容 Claude Code、Cursor 和 Aider。",
+  "content": "Rapid-MLX 是一个高性能的本地 AI 推理引擎，针对 Apple Silicon 芯片进行了深度优化。其核心优势在于极致的速度：缓存首次令牌时间（TTFT）仅 0.08 秒，整体推理速度比 Ollama 快 4.2 倍。该引擎支持完整的工具调用（100%），并内置 17 种工具解析器，覆盖常见 AI 应用场景。此外，Rapid-MLX 还具备提示缓存（Prompt Cache）功能以减少重复计算，推理分离（Reasoning Separation）机制以优化资源分配，以及云路由（Cloud Routing）能力以在本地与云端之间智能切换。作为 OpenAI API 的即插即用替代方案，它能够无缝集成到 Claude Code、Cursor 和 Aider 等开发工具中，为 Apple Silicon 用户提供高效、低延迟的本地 AI 体验。",
+  "tags": [
+    "Apple Silicon",
+    "本地AI引擎",
+    "推理加速",
+    "工具调用",
+    "OpenAI替代",
+    "提示缓存",
+    "云路由",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:51:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "raullenchai",
+    "stars": 2246,
+    "forks": 276,
+    "daily_stars": null,
+    "weekly_stars": 784,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

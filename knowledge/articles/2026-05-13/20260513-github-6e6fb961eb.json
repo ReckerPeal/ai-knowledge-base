@@ -1,0 +1,32 @@
+{
+  "id": "20260513-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速且节省磁盘空间的包管理器，基于 TypeScript 开发，在 GitHub 上拥有 34969 颗星和 1432 个分支，近期日增星数达 32，属于 GitHub TypeScript 热点项目。",
+  "content": "pnpm 是一款高性能的 JavaScript 包管理工具，核心优势在于通过硬链接和符号链接机制实现磁盘空间的高效利用，避免重复下载依赖，同时支持多项目共享缓存。它兼容 npm 生态，提供更快的安装速度和严格的依赖隔离，适用于大型 monorepo 项目。该项目由社区维护，持续迭代，是 npm 和 yarn 的有力替代方案。",
+  "tags": [
+    "包管理器",
+    "TypeScript",
+    "磁盘空间优化",
+    "JavaScript",
+    "monorepo",
+    "pnpm"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:51:51+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 34969,
+    "forks": 1432,
+    "daily_stars": 32,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

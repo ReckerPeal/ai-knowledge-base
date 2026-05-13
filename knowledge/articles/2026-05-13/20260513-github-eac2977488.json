@@ -1,0 +1,33 @@
+{
+  "id": "20260513-github-eac2977488",
+  "title": "huggingface/pytorch-image-models",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/pytorch-image-models",
+  "summary": "huggingface/pytorch-image-models 是 PyTorch 图像编码器/骨干网络的最大集合，包含训练、评估、推理、导出脚本和预训练权重，支持 ResNet、ResNeXT、EfficientNet、NFNet、Vision Transformer (ViT)、MobileNetV4、MobileNet-V3 & V2、RegNet、DPN、CSPNet、Swin Transformer、MaxViT、CoAtNet、ConvNeXt 等众多模型。",
+  "content": "该仓库由 Hugging Face 维护，是 PyTorch 生态中最全面的图像模型库之一。它提供了丰富的预训练模型和实用工具，覆盖从经典卷积网络到现代 Transformer 架构的广泛范围。用户可以直接使用预训练权重进行迁移学习，或利用训练、评估、推理和导出脚本快速部署模型。仓库持续更新，支持最新的模型如 MobileNetV4 和 MaxViT，适合计算机视觉研究人员和工程师。",
+  "tags": [
+    "PyTorch",
+    "图像模型",
+    "预训练权重",
+    "计算机视觉",
+    "深度学习",
+    "Hugging Face",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:51:48+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 36782,
+    "forks": 5157,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

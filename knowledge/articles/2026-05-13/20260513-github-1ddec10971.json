@@ -1,0 +1,33 @@
+{
+  "id": "20260513-github-1ddec10971",
+  "title": "MemoriLabs/Memori",
+  "source": "github_trending",
+  "source_url": "https://github.com/MemoriLabs/Memori",
+  "summary": "Memori 是一个面向智能体的原生记忆基础设施，提供与 LLM 无关的层，将智能体执行和对话转化为结构化、持久化的状态，适用于生产系统。",
+  "content": "Memori 是一个开源的智能体原生记忆基础设施，旨在为生产级 AI 系统提供持久化、结构化的状态管理。它作为一个与 LLM 无关的中间层，能够将智能体的执行过程和对话历史转化为可查询、可复用的结构化记忆。该项目基于 Python 实现，在 GitHub 上获得了 14415 颗星和 2055 个分支，近期日增星数达 66 颗，显示出较高的社区关注度。其核心价值在于解决智能体在长期交互中的记忆丢失和状态不一致问题，适用于需要上下文感知的对话系统、自动化工作流和持续学习场景。",
+  "tags": [
+    "AI",
+    "记忆基础设施",
+    "智能体",
+    "LLM",
+    "Python",
+    "状态管理",
+    "生产系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-13T18:51:48+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MemoriLabs",
+    "stars": 14415,
+    "forks": 2055,
+    "daily_stars": 66,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
