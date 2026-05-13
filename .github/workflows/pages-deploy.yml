@@ -8,6 +8,12 @@ on:
       - 'docs/**'
       - 'scripts/build_site_data.py'
       - '.github/workflows/pages-deploy.yml'
+  # GITHUB_TOKEN pushes do not fire push events, so chain off the collect
+  # workflow's completion to auto-deploy after daily data lands.
+  workflow_run:
+    workflows: ["Daily Knowledge Collect"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -22,6 +28,11 @@ concurrency:
 jobs:
   build:
     name: Build site
+    # Skip when daily-collect failed; deploying stale data would mask the
+    # upstream error and waste a Pages slot.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
