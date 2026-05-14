@@ -1,0 +1,32 @@
+{
+  "id": "20260514-github-0077781626",
+  "title": "mostlygeek/llama-swap",
+  "source": "github_trending",
+  "source_url": "https://github.com/mostlygeek/llama-swap",
+  "summary": "llama-swap 是一个用于本地 OpenAI/Anthropic 兼容服务器的可靠模型交换工具，支持 llama.cpp、vllm 等后端。",
+  "content": "llama-swap 是一个开源项目，旨在为本地运行的 OpenAI 或 Anthropic 兼容服务器提供可靠的模型交换功能。它支持多种后端，如 llama.cpp 和 vllm，允许用户在不中断服务的情况下动态切换模型。该项目由 mostlygeek 开发，在 GitHub 上获得了 4032 颗星和 310 个分支，近期每日新增 52 颗星，显示出较高的社区关注度。主要使用 Go 语言实现，适合需要灵活管理本地 AI 模型部署的场景。",
+  "tags": [
+    "模型交换",
+    "本地AI",
+    "OpenAI兼容",
+    "llama.cpp",
+    "vllm",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "mostlygeek",
+    "stars": 4032,
+    "forks": 310,
+    "daily_stars": 52,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

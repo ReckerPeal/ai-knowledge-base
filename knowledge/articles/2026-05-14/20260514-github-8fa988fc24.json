@@ -1,0 +1,35 @@
+{
+  "id": "20260514-github-8fa988fc24",
+  "title": "Jakedismo/codegraph-rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/Jakedismo/codegraph-rust",
+  "summary": "Jakedismo/codegraph-rust 是一个基于 Rust 实现的代码图 RAG 系统，利用 AST 和 FastML 解析、SurrealDB 后端以及 MCP 高级代理代码分析工具，实现高效的代码代理上下文管理。",
+  "content": "该项目完全使用 Rust 语言实现，专注于代码图 RAG（检索增强生成）技术。其核心特性包括：1) 基于 AST（抽象语法树）和 FastML 的快速解析，能够高效提取代码结构信息；2) 使用 SurrealDB 作为后端存储，支持图数据库的灵活查询；3) 通过 MCP（模型上下文协议）提供高级代理代码分析工具，用于管理代码代理的上下文。项目在 GitHub 上获得 611 颗星和 59 个 fork，日增星 261 颗，属于 Rust 类别热点。",
+  "tags": [
+    "Rust",
+    "代码图",
+    "RAG",
+    "AST",
+    "FastML",
+    "SurrealDB",
+    "MCP",
+    "代码分析",
+    "代理上下文"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:25+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Jakedismo",
+    "stars": 611,
+    "forks": 59,
+    "daily_stars": 261,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

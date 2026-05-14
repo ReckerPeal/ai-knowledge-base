@@ -1,0 +1,34 @@
+{
+  "id": "20260514-github-085b8723d0",
+  "title": "njbrake/agent-of-empires",
+  "source": "github_trending",
+  "source_url": "https://github.com/njbrake/agent-of-empires",
+  "summary": "Agent of Empires 是一个基于 Rust 的开源工具，支持通过 TUI 或 Web 界面管理多个 AI 编程代理（如 Claude Code、OpenCode、Mistral Vibe 等），并利用 tmux 和 git worktrees 实现高效的多代理协作与移动端访问。",
+  "content": "该项目提供了一个统一的控制面板，允许用户同时管理多个 AI 编程代理。它支持多种代理后端，包括 Claude Code、OpenCode、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI 和 Factory Droid Coding。通过 tmux 实现会话管理，利用 git worktrees 隔离不同代理的工作目录，避免冲突。用户既可以在终端（TUI）中操作，也可以通过 Web 界面在移动设备上远程访问。项目在 GitHub 上获得 2228 星和 187 个 fork，周增长 213 星，属于 Rust 生态中的热门工具。",
+  "tags": [
+    "AI代理管理",
+    "Rust",
+    "TUI",
+    "Web界面",
+    "tmux",
+    "git worktrees",
+    "多代理协作",
+    "移动端访问"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "njbrake",
+    "stars": 2228,
+    "forks": 187,
+    "daily_stars": null,
+    "weekly_stars": 213,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

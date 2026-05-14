@@ -1,0 +1,30 @@
+{
+  "id": "20260514-github-43fd7c0591",
+  "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+  "source": "rss",
+  "source_url": "https://z.ai/blog/scaling-pain",
+  "summary": "本文分享了在规模化部署编码代理服务（GLM-5）时遇到的扩展痛点与调试经验，重点分析了系统瓶颈、性能优化策略及实际运维教训。",
+  "content": "文章基于GLM-5项目的实际运维案例，深入探讨了编码代理服务在规模扩展过程中面临的挑战。内容包括：1）高并发场景下的资源竞争与延迟问题；2）分布式系统中的状态一致性与故障恢复机制；3）针对编码任务特性的负载均衡与缓存优化策略；4）从调试过程中总结的可扩展性设计原则。作者通过具体数据与案例，为构建大规模AI编码代理服务提供了实践指导。",
+  "tags": [
+    "AI编码代理",
+    "系统扩展",
+    "性能优化",
+    "分布式系统",
+    "运维经验",
+    "GLM-5"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-29T20:54:01-05:00",
+  "collected_at": "2026-05-14T18:48:38+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

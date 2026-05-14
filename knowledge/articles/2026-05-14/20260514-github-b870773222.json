@@ -1,0 +1,30 @@
+{
+  "id": "20260514-github-b870773222",
+  "title": "Porting a complete HTML5 parser and browser test suite [from Python to OCaml using LLMs]",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/aoah-2025-15",
+  "summary": "本文介绍了使用大型语言模型（LLMs）将完整的HTML5解析器和浏览器测试套件从Python移植到OCaml的过程。",
+  "content": "作者详细描述了如何利用LLMs辅助完成代码迁移，包括解析器核心逻辑、测试用例的转换以及遇到的挑战（如类型系统差异、性能优化等）。文章展示了LLMs在跨语言移植中的实际应用效果，并讨论了OCaml在浏览器测试中的优势。",
+  "tags": [
+    "HTML5解析器",
+    "OCaml",
+    "Python",
+    "LLM",
+    "代码移植",
+    "浏览器测试"
+  ],
+  "status": "draft",
+  "published_at": "2025-12-18T20:42:15-06:00",
+  "collected_at": "2026-05-14T18:48:38+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

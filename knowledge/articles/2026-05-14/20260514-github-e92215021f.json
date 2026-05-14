@@ -1,0 +1,39 @@
+{
+  "id": "20260514-github-e92215021f",
+  "title": "Zackriya-Solutions/meetily",
+  "source": "github_trending",
+  "source_url": "https://github.com/Zackriya-Solutions/meetily",
+  "summary": "Meetily 是一款注重隐私的 AI 会议助手，基于 Rust 构建，支持 4 倍速 Parakeet/Whisper 实时转录、说话人分离和 Ollama 摘要功能。所有处理均在本地完成，无需云端依赖，是 macOS 和 Windows 上自托管的开源 AI 会议笔记工具。",
+  "content": "Meetily（又名 Meetly Ai）是一个开源、自托管的 AI 会议助手，专为 macOS 和 Windows 设计。其核心优势在于隐私保护：所有音频转录和摘要生成均在本地进行，无需将数据发送到云端。它利用 Rust 语言的高性能特性，集成了 Parakeet 和 Whisper 模型，实现 4 倍速的实时转录，并支持说话人分离（Speaker Diarization）以区分不同发言者。此外，通过 Ollama 集成，用户可以在本地运行大语言模型来生成会议摘要。该项目在 GitHub 上获得广泛关注，拥有超过 1.1 万颗星标，显示出社区对其隐私优先理念和技术实现的高度认可。",
+  "tags": [
+    "AI",
+    "会议助手",
+    "隐私保护",
+    "Rust",
+    "实时转录",
+    "说话人分离",
+    "Ollama",
+    "Whisper",
+    "Parakeet",
+    "开源",
+    "自托管",
+    "macOS",
+    "Windows"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:35+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "Zackriya-Solutions",
+    "stars": 11986,
+    "forks": 1206,
+    "daily_stars": null,
+    "weekly_stars": 394,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

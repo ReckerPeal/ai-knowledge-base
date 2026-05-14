@@ -1,0 +1,32 @@
+{
+  "id": "20260514-github-f7906078d0",
+  "title": "gravitational/teleport",
+  "source": "github_trending",
+  "source_url": "https://github.com/gravitational/teleport",
+  "summary": "Teleport 是 Gravitational 公司开发的一款开源基础设施访问管理平台，旨在提供最简单、最安全的方式来访问和保护所有基础设施。它支持 SSH、Kubernetes、数据库、Web 应用等多种资源的统一访问控制，具备身份认证、权限管理、审计日志等核心功能。",
+  "content": "Teleport 是一个现代化的基础设施访问管理平台，由 Gravitational 公司开源维护。它解决了传统 SSH 密钥管理、VPN 访问等方案在安全性、可扩展性和易用性方面的痛点。Teleport 的核心能力包括：\n- 统一访问入口：通过单一网关管理对服务器、Kubernetes 集群、数据库、Web 应用等所有基础设施的访问。\n- 零信任安全模型：基于证书的身份认证，支持多因素认证（MFA），无需共享密钥。\n- 细粒度权限控制：支持基于角色的访问控制（RBAC），可精确到单个命令或资源。\n- 审计与合规：所有会话操作均被记录，支持实时监控和回放，满足 SOC 2、HIPAA 等合规要求。\n- 多协议支持：原生支持 SSH、HTTPS、Kubernetes API、数据库协议（MySQL、PostgreSQL、MongoDB 等）。\n- 高可用与集群部署：支持多节点集群，可水平扩展，适用于大规模生产环境。\nTeleport 采用 Go 语言开发，性能优异，部署简单（单二进制文件），社区活跃，在 GitHub 上已获得超过 2 万颗星。",
+  "tags": [
+    "基础设施安全",
+    "访问管理",
+    "SSH",
+    "Kubernetes",
+    "零信任",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:28+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "gravitational",
+    "stars": 20305,
+    "forks": 2059,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

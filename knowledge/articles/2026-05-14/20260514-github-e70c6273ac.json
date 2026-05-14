@@ -1,0 +1,33 @@
+{
+  "id": "20260514-github-e70c6273ac",
+  "title": "jwadow/kiro-gateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/jwadow/kiro-gateway",
+  "summary": "Kiro Gateway 是一个为 Kiro IDE 和 CLI 设计的代理 API 网关，支持 Amazon Q Developer 和 AWS CodeWhisperer，允许用户通过任何客户端免费使用 Claude 模型。",
+  "content": "该项目提供了一个轻量级的代理网关，旨在桥接 Kiro 开发环境与 Claude 等 AI 模型。它主要面向使用 Amazon Q Developer 或 AWS CodeWhisperer 的开发者，通过 API 代理实现免费调用 Claude 模型的能力。仓库基于 Python 实现，近期在 GitHub 上获得了显著关注（1538 星，380 周增星），表明其在高性能 AI 代理网关领域具有实用价值。",
+  "tags": [
+    "API 网关",
+    "代理",
+    "Claude 模型",
+    "Kiro IDE",
+    "Amazon Q Developer",
+    "AWS CodeWhisperer",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-14T18:48:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "jwadow",
+    "stars": 1538,
+    "forks": 338,
+    "daily_stars": null,
+    "weekly_stars": 380,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
