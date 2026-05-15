@@ -1,0 +1,31 @@
+{
+  "id": "20260515-github-e2a2edeca3",
+  "title": "juspay/hyperswitch-prism",
+  "source": "github_trending",
+  "source_url": "https://github.com/juspay/hyperswitch-prism",
+  "summary": "Hyperswitch Prism 是一个 Rust 编写的支付处理器抽象库，允许开发者通过少量代码切换和扩展多个支付处理器。",
+  "content": "Hyperswitch Prism 由 Juspay 开发，旨在简化支付集成。它提供统一的 API 接口，支持多种支付处理器（如 Stripe、Adyen 等），开发者只需修改几行代码即可切换或添加新的支付渠道。该库基于 Rust 实现，注重性能和安全性，适合需要高并发和低延迟的支付场景。项目在 GitHub 上获得 1241 颗星，日增 65 星，表明社区关注度较高。",
+  "tags": [
+    "支付处理器",
+    "Rust",
+    "API 抽象",
+    "开源",
+    "金融科技"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-15T18:47:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "juspay",
+    "stars": 1241,
+    "forks": 250,
+    "daily_stars": 65,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

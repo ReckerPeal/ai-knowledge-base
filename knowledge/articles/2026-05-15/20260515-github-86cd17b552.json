@@ -1,0 +1,34 @@
+{
+  "id": "20260515-github-86cd17b552",
+  "title": "opendatalab/MinerU",
+  "source": "github_trending",
+  "source_url": "https://github.com/opendatalab/MinerU",
+  "summary": "MinerU 是一个开源工具，能够将 PDF 和 Office 文档等复杂文档转换为适合大型语言模型（LLM）处理的 Markdown 或 JSON 格式，从而支持智能体工作流。",
+  "content": "MinerU 由 opendatalab 开发，旨在解决非结构化文档（如 PDF、Word、Excel 等）向结构化数据转换的难题。它通过解析文档布局、提取文本和表格信息，生成 LLM 可直接消费的 Markdown 或 JSON 输出，适用于 RAG（检索增强生成）、文档分析、自动化工作流等场景。项目在 GitHub 上获得 63116 颗星和 5320 个 fork，日增星 134 颗，显示出高关注度。主要使用 Python 实现，适合 AI 和数据处理开发者。",
+  "tags": [
+    "PDF 解析",
+    "文档转换",
+    "LLM 预处理",
+    "Markdown 生成",
+    "JSON 输出",
+    "智能体工作流",
+    "开源工具",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-15T18:47:50+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "opendatalab",
+    "stars": 63116,
+    "forks": 5320,
+    "daily_stars": 134,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260515-github-7cc42753ef",
+  "title": "Canner/WrenAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Canner/WrenAI",
+  "summary": "WrenAI 是一个开源上下文层，为 AI 代理提供跨 20 多种数据源的基于 SQL 的准确查询能力，支持生成式商业智能（GenBI）、文本转 SQL、仪表盘和高级分析。",
+  "content": "WrenAI 由 Canner 团队开发，是一个用 Rust 实现的高性能开源项目。它作为 AI 代理的上下文层，能够连接 20 多种数据源，确保 SQL 查询的准确性和治理性。该项目在 GitHub 上获得了超过 1.5 万颗星，近期周增星数达 128 颗，社区活跃度较高。其核心功能包括：1）文本转 SQL，允许用户用自然语言查询数据；2）生成式 BI，自动生成可视化仪表盘；3）高级分析支持，适用于复杂数据场景。WrenAI 的架构强调可扩展性和安全性，适合企业级数据分析和 AI 集成应用。",
+  "tags": [
+    "AI",
+    "SQL",
+    "数据源",
+    "开源",
+    "Rust",
+    "商业智能",
+    "文本转SQL"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-15T18:48:03+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Canner",
+    "stars": 15209,
+    "forks": 1720,
+    "daily_stars": null,
+    "weekly_stars": 128,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
