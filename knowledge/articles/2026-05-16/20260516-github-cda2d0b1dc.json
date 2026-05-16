@@ -1,0 +1,30 @@
+{
+  "id": "20260516-github-cda2d0b1dc",
+  "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+  "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多模态嵌入与重排序模型，涵盖数据准备、模型架构、训练策略及评估方法。",
+  "content": "该博客详细阐述了基于 Sentence Transformers 进行多模态嵌入和重排序模型的训练与微调流程。内容涉及多模态数据（如文本与图像）的预处理、模型选择（如 CLIP 变体）、对比学习损失函数（如 InfoNCE）的应用，以及重排序模型的集成方法。文章还提供了代码示例和最佳实践，帮助开发者高效构建多模态检索系统。",
+  "tags": [
+    "多模态嵌入",
+    "重排序模型",
+    "Sentence Transformers",
+    "模型微调",
+    "对比学习",
+    "信息检索"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "collected_at": "2026-05-16T18:28:14+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

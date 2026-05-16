@@ -1,0 +1,34 @@
+{
+  "id": "20260516-github-409354dab0",
+  "title": "LearningCircuit/local-deep-research",
+  "source": "github_trending",
+  "source_url": "https://github.com/LearningCircuit/local-deep-research",
+  "summary": "LearningCircuit/local-deep-research 是一个开源项目，专注于本地化深度研究，支持在消费级 GPU（如 RTX 3090）上运行，在 SimpleQA 基准测试中达到约 95% 的准确率（例如使用 Qwen3.6-27B 模型）。它兼容所有本地和云端大语言模型（包括 llama.cpp、Ollama、Google 等），并集成了超过 10 种搜索引擎（如 arXiv、PubMed 以及用户私有文档）。所有数据和操作均保持本地化和加密，强调隐私保护。",
+  "content": "该项目旨在提供一个高效、隐私优先的深度研究工具，允许用户在本地硬件上运行强大的 AI 模型，无需依赖外部云服务。其核心优势包括：\n- **高性能**：在 SimpleQA 测试中达到约 95% 的准确率，展示了模型在问答任务中的可靠性。\n- **广泛兼容性**：支持多种 LLM 后端（如 llama.cpp、Ollama、Google 等），用户可根据需求选择本地或云端模型。\n- **多源搜索**：集成 arXiv、PubMed 等学术搜索引擎，以及用户私有文档，实现跨领域知识检索。\n- **隐私与安全**：所有数据处理在本地完成，并采用加密技术，确保用户数据不被泄露。\n- **硬件友好**：可在 RTX 3090 等消费级 GPU 上运行，降低了高性能 AI 研究的门槛。\n该项目适合研究人员、开发者以及需要深度信息检索且注重隐私的用户。",
+  "tags": [
+    "本地化AI",
+    "深度研究",
+    "隐私保护",
+    "大语言模型",
+    "搜索引擎集成",
+    "开源工具",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-16T18:28:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "LearningCircuit",
+    "stars": 7664,
+    "forks": 669,
+    "daily_stars": null,
+    "weekly_stars": 1056,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

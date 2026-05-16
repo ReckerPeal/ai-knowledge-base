@@ -1,0 +1,32 @@
+{
+  "id": "20260516-github-1ff43744a7",
+  "title": "sqlc-dev/sqlc",
+  "source": "github_trending",
+  "source_url": "https://github.com/sqlc-dev/sqlc",
+  "summary": "sqlc 是一个从 SQL 生成类型安全代码的工具，支持 Go 等语言，旨在提升数据库操作的编译时安全性与开发效率。",
+  "content": "sqlc-dev/sqlc 是一个开源项目，核心功能是根据 SQL 查询语句自动生成类型安全的 Go 代码（以及其他语言支持）。它通过解析 SQL 文件，生成对应的结构体和方法，使得数据库操作在编译时即可捕获类型错误，减少运行时错误。该项目在 GitHub 上拥有 17666 颗星和 1043 个分支，近期日增星数达 99，显示出较高的社区关注度。主要使用 Go 语言开发，适用于需要严格类型检查的数据库交互场景。",
+  "tags": [
+    "SQL",
+    "类型安全",
+    "代码生成",
+    "Go",
+    "数据库",
+    "ORM替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-16T18:28:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "sqlc-dev",
+    "stars": 17666,
+    "forks": 1043,
+    "daily_stars": 99,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

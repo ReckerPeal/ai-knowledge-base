@@ -1,0 +1,33 @@
+{
+  "id": "20260516-github-f05b330747",
+  "title": "CJackHwang/ds2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/CJackHwang/ds2api",
+  "summary": "ds2api 是一个基于 Go 语言开发的高并发协议适配中间件项目，旨在将多种 Web 协议转换为标准化格式，可作为 DeepSeek 兼容接口的参考实现。",
+  "content": "该项目由 CJackHwang 创建，在 GitHub 上获得 4436 颗星和 1398 个分支，周增长 583 星，属于 Go 语言技术探索项目。其核心功能是作为中间件接口，处理高并发场景下的协议转换，将不同 Web 协议（如 HTTP、WebSocket 等）统一为标准化格式，便于系统集成与扩展。该实现特别强调与 DeepSeek 生态的兼容性，为开发者提供了协议适配的参考范例。",
+  "tags": [
+    "Go",
+    "中间件",
+    "协议适配",
+    "高并发",
+    "DeepSeek",
+    "Web协议",
+    "标准化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-16T18:28:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "CJackHwang",
+    "stars": 4436,
+    "forks": 1398,
+    "daily_stars": null,
+    "weekly_stars": 583,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
