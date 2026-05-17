@@ -1,0 +1,32 @@
+{
+  "id": "20260517-github-a15dcff2dd",
+  "title": "stretchr/testify",
+  "source": "github_trending",
+  "source_url": "https://github.com/stretchr/testify",
+  "summary": "testify 是一个与 Go 标准库无缝集成的测试工具包，提供常用断言和模拟功能，简化单元测试编写。",
+  "content": "testify 是 Go 语言生态中广受欢迎的测试辅助库，由 stretchr 组织维护。它提供丰富的断言函数（如 Equal、Nil、True 等）和模拟（mock）能力，支持与标准 testing 包直接配合使用，无需额外依赖。该库设计简洁，易于上手，能显著提升测试代码的可读性和维护性。目前 GitHub 星标超过 26000，社区活跃，是 Go 项目测试实践的首选工具之一。",
+  "tags": [
+    "Go",
+    "测试",
+    "断言",
+    "模拟",
+    "单元测试",
+    "工具库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:57+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "stretchr",
+    "stars": 26000,
+    "forks": 1714,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260517-github-5502a50a46",
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-codex-windows-sandbox",
+  "summary": "OpenAI 分享了在 Windows 上为 Codex 构建安全沙箱的方法，通过控制文件访问和网络限制，实现了安全高效的编码代理。",
+  "content": "OpenAI 在 Windows 平台上为 Codex 构建了一个安全有效的沙箱环境，旨在支持编码代理的安全运行。该沙箱通过精细控制文件访问权限和网络限制，防止恶意操作或数据泄露，同时保持编码任务的效率。文章详细介绍了沙箱的设计原则、实现技术以及安全性验证过程，为在 Windows 上部署 AI 编码助手提供了实践指导。",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "Windows",
+    "沙箱",
+    "安全",
+    "编码代理",
+    "AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-13T11:00:00+00:00",
+  "collected_at": "2026-05-17T18:31:06+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

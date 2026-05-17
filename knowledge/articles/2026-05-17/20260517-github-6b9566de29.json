@@ -1,0 +1,34 @@
+{
+  "id": "20260517-github-6b9566de29",
+  "title": "projectdiscovery/nuclei",
+  "source": "github_trending",
+  "source_url": "https://github.com/projectdiscovery/nuclei",
+  "summary": "Nuclei 是一个快速、可定制的漏洞扫描器，由全球安全社区驱动，基于简单的 YAML 格式 DSL 构建，支持协作应对互联网上的流行漏洞。它帮助用户发现应用、API、网络、DNS 和云配置中的漏洞。",
+  "content": "Nuclei 是一个开源漏洞扫描工具，以其高性能和灵活性著称。它使用 YAML 模板定义扫描规则，允许社区贡献和共享模板，从而快速适应新出现的威胁。该工具支持多种目标类型，包括 Web 应用、API、网络服务、DNS 和云基础设施。其核心优势在于模板化设计，使得非专家也能轻松编写和分享扫描规则。Nuclei 在 GitHub 上拥有 28695 颗星和 3423 个分支，近期日增星约 60 颗，周增星约 404 颗，显示出活跃的社区支持和持续的关注度。该项目由 projectdiscovery 维护，主要使用 Go 语言开发，确保了跨平台的高效运行。",
+  "tags": [
+    "漏洞扫描",
+    "安全工具",
+    "YAML DSL",
+    "开源",
+    "Go",
+    "社区驱动",
+    "网络安全",
+    "云安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:57+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "projectdiscovery",
+    "stars": 28695,
+    "forks": 3423,
+    "daily_stars": 60,
+    "weekly_stars": 404,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260517-github-d3f005c944",
+  "title": "getsentry/XcodeBuildMCP",
+  "source": "github_trending",
+  "source_url": "https://github.com/getsentry/XcodeBuildMCP",
+  "summary": "XcodeBuildMCP 是一个基于模型上下文协议（MCP）的服务器和命令行工具，为 iOS 和 macOS 项目开发中的智能体提供构建与调试支持。",
+  "content": "XcodeBuildMCP 由 Sentry 团队开发，旨在通过 MCP 协议将 Xcode 构建能力暴露给 AI 智能体。它允许智能体直接触发 Xcode 项目构建、解析构建日志、识别错误与警告，并辅助调试流程。该工具以 TypeScript 实现，可作为 CLI 或 MCP 服务器运行，便于集成到 AI 驱动的开发工作流中。项目在 GitHub 上获得 5619 颗星和 275 个 fork，日增星 35 颗，显示出社区对 AI 辅助 iOS/macOS 开发工具的高度兴趣。",
+  "tags": [
+    "MCP",
+    "Xcode",
+    "iOS",
+    "macOS",
+    "AI 智能体",
+    "构建工具",
+    "Sentry",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:52+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "getsentry",
+    "stars": 5619,
+    "forks": 275,
+    "daily_stars": 35,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

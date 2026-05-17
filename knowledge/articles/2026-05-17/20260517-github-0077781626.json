@@ -1,0 +1,32 @@
+{
+  "id": "20260517-github-0077781626",
+  "title": "mostlygeek/llama-swap",
+  "source": "github_trending",
+  "source_url": "https://github.com/mostlygeek/llama-swap",
+  "summary": "llama-swap 是一个用于本地 OpenAI/Anthropic 兼容服务器的可靠模型交换工具，支持 llama.cpp、vllm 等后端，实现模型热切换。",
+  "content": "该项目由 mostlygeek 开发，旨在解决本地 AI 推理服务器中模型切换的痛点。它允许用户在不重启服务的情况下，动态更换底层模型（如 llama.cpp、vllm 等），从而提升开发效率和资源利用率。核心功能包括：与 OpenAI/Anthropic API 兼容的接口、零停机模型热更新、多后端支持。适用于需要频繁测试不同模型的 AI 应用开发者。",
+  "tags": [
+    "模型交换",
+    "本地推理",
+    "OpenAI 兼容",
+    "llama.cpp",
+    "vllm",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:57+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "mostlygeek",
+    "stars": 4111,
+    "forks": 317,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

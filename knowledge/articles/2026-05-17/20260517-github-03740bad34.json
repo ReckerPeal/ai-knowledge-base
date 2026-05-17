@@ -1,0 +1,33 @@
+{
+  "id": "20260517-github-03740bad34",
+  "title": "masterking32/MasterDnsVPN",
+  "source": "github_trending",
+  "source_url": "https://github.com/masterking32/MasterDnsVPN",
+  "summary": "MasterDnsVPN 是一个高级 DNS 隧道 VPN 项目，专为绕过审查而设计，在 DNSTT 和 SlipStream 基础上进行了优化，具备低开销 ARQ、解析器负载均衡、高丢包稳定性和速度优势。",
+  "content": "该项目基于 Go 语言开发，通过 DNS 隧道技术实现 VPN 功能，旨在提供高效的审查规避方案。其核心改进包括：采用低开销自动重传请求（ARQ）机制提升数据传输可靠性；实现解析器负载均衡以优化网络资源利用；在高丢包环境下保持稳定连接并提升传输速度。项目在 GitHub 上获得 3384 星和 360 个 fork，周增星数达 991，显示出较高的社区关注度。",
+  "tags": [
+    "DNS隧道",
+    "VPN",
+    "审查规避",
+    "Go",
+    "网络优化",
+    "负载均衡",
+    "ARQ"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:31:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "masterking32",
+    "stars": 3384,
+    "forks": 360,
+    "daily_stars": null,
+    "weekly_stars": 991,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

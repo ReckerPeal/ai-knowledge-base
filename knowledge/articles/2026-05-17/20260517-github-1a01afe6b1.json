@@ -1,0 +1,34 @@
+{
+  "id": "20260517-github-1a01afe6b1",
+  "title": "KeygraphHQ/shannon",
+  "source": "github_trending",
+  "source_url": "https://github.com/KeygraphHQ/shannon",
+  "summary": "Shannon Lite 是一款自主、白盒的 AI 渗透测试工具，专为 Web 应用和 API 设计。它通过分析源代码识别攻击向量，并执行真实漏洞利用，在生产环境部署前证明漏洞的存在。",
+  "content": "Shannon Lite 由 KeygraphHQ 开发，是一个基于 TypeScript 的开源项目，在 GitHub 上获得了 42443 颗星和 4855 个分支。该工具的核心功能是自动化渗透测试，采用白盒方法（即访问源代码）来检测安全漏洞。它能够分析应用程序的代码库，识别潜在的攻击路径，并自动执行实际的漏洞利用，以验证漏洞的真实性和严重性。这种主动安全测试方法旨在帮助开发团队在漏洞进入生产环境之前发现并修复它们，从而提高 Web 应用和 API 的安全性。",
+  "tags": [
+    "AI",
+    "渗透测试",
+    "安全",
+    "白盒",
+    "漏洞检测",
+    "Web 应用",
+    "API",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:52+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "KeygraphHQ",
+    "stars": 42443,
+    "forks": 4855,
+    "daily_stars": 335,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260517-github-adb8c196b2",
+  "title": "gyroflow/gyroflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/gyroflow/gyroflow",
+  "summary": "gyroflow/gyroflow 是一个利用陀螺仪数据进行视频稳定的开源项目，基于 Rust 语言开发，在 GitHub 上获得 8754 颗星和 422 个分支，近期日增星数达 99，属于 GitHub 热点项目。",
+  "content": "该项目通过读取视频录制时陀螺仪传感器记录的元数据，实现高精度的视频防抖处理。其核心优势在于利用物理运动数据而非纯视觉算法，从而在低光照或快速运动场景下仍能保持稳定效果。项目采用 Rust 语言编写，保证了高性能和内存安全，适合集成到视频编辑工具或相机应用中。",
+  "tags": [
+    "视频稳定",
+    "陀螺仪数据",
+    "Rust",
+    "防抖算法",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-17T18:30:54+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "gyroflow",
+    "stars": 8754,
+    "forks": 422,
+    "daily_stars": 99,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
