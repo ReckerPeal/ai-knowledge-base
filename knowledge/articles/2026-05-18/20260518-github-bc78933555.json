@@ -1,0 +1,31 @@
+{
+  "id": "20260518-github-bc78933555",
+  "title": "huggingface/tokenizers",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/tokenizers",
+  "summary": "Hugging Face 开发的 tokenizers 库，提供快速、最先进的标记化工具，专为研究和生产环境优化。",
+  "content": "该仓库是 Hugging Face 团队用 Rust 语言实现的高性能 tokenizers 库，支持多种预训练模型（如 BERT、GPT-2）的标记化，具有极快的速度和内存效率，适用于大规模 NLP 研究和生产部署。",
+  "tags": [
+    "tokenizers",
+    "NLP",
+    "Rust",
+    "Hugging Face",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:48+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 10744,
+    "forks": 1097,
+    "daily_stars": null,
+    "weekly_stars": 35,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

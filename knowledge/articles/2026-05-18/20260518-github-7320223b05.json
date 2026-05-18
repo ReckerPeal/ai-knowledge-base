@@ -1,0 +1,31 @@
+{
+  "id": "20260518-github-7320223b05",
+  "title": "nanocoai/nanoclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/nanocoai/nanoclaw",
+  "summary": "nanocoai/nanoclaw 是一个轻量级的 OpenClaw 替代品，运行在容器中以确保安全。它支持连接 WhatsApp、Telegram、Slack、Discord、Gmail 等消息应用，具备记忆功能、定时任务，并可直接在 Anthropic 的 Agents SDK 上运行。",
+  "content": "nanocoai/nanoclaw 是一个基于 TypeScript 开发的开源项目，旨在提供比 OpenClaw 更轻量且安全的替代方案。它通过容器化运行来增强安全性，并集成了多种消息平台（如 WhatsApp、Telegram、Slack、Discord、Gmail）的接口。项目还支持记忆功能、定时任务调度，并且能够直接运行在 Anthropic 的 Agents SDK 上，适合需要自动化消息处理和智能代理的场景。该仓库在 GitHub 上获得了 28994 颗星和 12827 个分支，近期日增星数达 59，属于热门项目。",
+  "tags": [
+    "容器化",
+    "消息集成",
+    "Anthropic Agents SDK",
+    "定时任务",
+    "轻量级替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "nanocoai",
+    "stars": 28994,
+    "forks": 12827,
+    "daily_stars": 59,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260518-github-a3658918ef",
+  "title": "NVlabs/Sana",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/Sana",
+  "summary": "SANA 是一个基于线性扩散 Transformer 的高效高分辨率图像合成项目，由 NVlabs 开发，在 GitHub 上获得 6285 星和 445 个分支，近期日增星 472 颗，热度极高。",
+  "content": "该项目提出了一种名为 SANA 的线性扩散 Transformer 模型，旨在实现高效的高分辨率图像生成。通过线性注意力机制替代传统二次复杂度注意力，显著降低计算开销，同时保持生成质量。适用于文本到图像合成等任务，支持快速训练和推理。",
+  "tags": [
+    "图像合成",
+    "扩散模型",
+    "Transformer",
+    "高分辨率",
+    "深度学习",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:33+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 6285,
+    "forks": 445,
+    "daily_stars": 472,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

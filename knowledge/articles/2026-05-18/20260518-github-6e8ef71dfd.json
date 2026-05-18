@@ -1,0 +1,31 @@
+{
+  "id": "20260518-github-6e8ef71dfd",
+  "title": "urfave/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/urfave/cli",
+  "summary": "urfave/cli 是一个用于构建 Go 命令行工具的声明式、简单、快速且有趣的包。",
+  "content": "urfave/cli 是一个广受欢迎的 Go 语言库，旨在简化命令行界面（CLI）应用的开发。它采用声明式编程风格，允许开发者通过结构体标签或函数式选项快速定义命令、标志和参数。该库强调易用性和性能，支持子命令、自动生成帮助信息、环境变量绑定、输入验证等特性。截至 2026 年 5 月，该项目在 GitHub 上拥有超过 24,000 颗星，社区活跃，持续维护。适合构建从简单工具到复杂 CLI 应用的各类场景。",
+  "tags": [
+    "Go",
+    "CLI",
+    "命令行工具",
+    "声明式",
+    "urfave"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:50+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "urfave",
+    "stars": 24067,
+    "forks": 1777,
+    "daily_stars": null,
+    "weekly_stars": 37,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260518-github-e6d697921a",
+  "title": "rust-lang/miri",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/miri",
+  "summary": "Miri 是一个用于 Rust 语言中层中间表示（MIR）的解释器，由 rust-lang 官方维护。它主要用于在编译前检测未定义行为、验证 unsafe 代码的正确性，是 Rust 生态中重要的安全分析工具。",
+  "content": "Miri 是 Rust 编译器生态中的关键组件，它通过解释执行 Rust 的 MIR（中层中间表示）来模拟程序运行，从而在编译阶段发现未定义行为（如内存越界、数据竞争等）。该工具对 Rust 的 unsafe 代码审查和形式化验证有重要价值，尤其适合需要高安全性的系统编程场景。项目由 Rust 官方团队维护，社区活跃，拥有 6199 颗星和 477 个分支，近期每日新增星标数约 23 颗，显示出持续的关注度。",
+  "tags": [
+    "Rust",
+    "MIR",
+    "解释器",
+    "未定义行为检测",
+    "安全分析",
+    "编译器工具",
+    "unsafe 代码验证"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:38+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 6199,
+    "forks": 477,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

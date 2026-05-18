@@ -1,0 +1,35 @@
+{
+  "id": "20260518-github-56cbcc5487",
+  "title": "qdm12/gluetun",
+  "source": "github_trending",
+  "source_url": "https://github.com/qdm12/gluetun",
+  "summary": "Gluetun 是一个轻量级 Docker 容器化 VPN 客户端，支持多种 VPN 提供商，使用 Go 语言编写，基于 OpenVPN 或 Wireguard 协议，集成 DNS over TLS 和内置代理服务器。",
+  "content": "该项目提供了一个精简的 Docker 镜像，用于在容器环境中运行 VPN 客户端。它支持多个主流 VPN 提供商（如 Mullvad、NordVPN 等），并允许用户通过环境变量配置 VPN 连接。核心功能包括：\n- 使用 OpenVPN 或 Wireguard 协议建立安全隧道\n- DNS over TLS 加密 DNS 查询\n- 内置 HTTP/SOCKS5 代理服务器\n- 支持端口转发（部分提供商）\n- 自动健康检查和重连机制\n- 兼容 Docker Compose 和 Kubernetes\n\n该工具特别适合需要将特定容器流量路由到 VPN 的场景，例如 BT 下载、隐私浏览等。其设计遵循单一职责原则，仅处理 VPN 连接，不包含其他冗余功能。",
+  "tags": [
+    "VPN",
+    "Docker",
+    "Go",
+    "OpenVPN",
+    "Wireguard",
+    "DNS over TLS",
+    "代理服务器",
+    "隐私保护",
+    "容器化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-18T19:19:41+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "qdm12",
+    "stars": 14263,
+    "forks": 576,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
