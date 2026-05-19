@@ -1,0 +1,33 @@
+{
+  "id": "20260519-github-0479eb5010",
+  "title": "facebook/pyrefly",
+  "source": "github_trending",
+  "source_url": "https://github.com/facebook/pyrefly",
+  "summary": "Facebook 开源的 Python 类型检查器与语言服务器，基于 Rust 实现，具备高性能和低延迟特性。",
+  "content": "PyRefly 是 Facebook 开发的一款快速 Python 类型检查器和语言服务器，使用 Rust 语言编写。它旨在提供比现有工具（如 mypy 或 pyright）更快的类型检查速度，同时支持语言服务器协议（LSP），可集成到主流编辑器中。该项目在 GitHub 上已获得 6245 颗星，近期增长迅速（日增 88 星，周增 481 星），表明社区关注度较高。其核心优势在于 Rust 带来的性能提升，适合大型 Python 代码库的静态分析场景。",
+  "tags": [
+    "类型检查器",
+    "语言服务器",
+    "Python",
+    "Rust",
+    "Facebook",
+    "静态分析",
+    "LSP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-19T19:04:06+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "facebook",
+    "stars": 6245,
+    "forks": 370,
+    "daily_stars": 88,
+    "weekly_stars": 481,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

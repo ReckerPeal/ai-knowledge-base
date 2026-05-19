@@ -1,0 +1,33 @@
+{
+  "id": "20260519-github-c278fd115a",
+  "title": "Agent-Field/agentfield",
+  "source": "github_trending",
+  "source_url": "https://github.com/Agent-Field/agentfield",
+  "summary": "Agent-Field/agentfield 是一个用于构建、运行和扩展 AI 代理的开源框架，将 AI 代理视为 API 和微服务，从第一天起就具备可观测性、可审计性和身份感知能力。",
+  "content": "该项目基于 Go 语言开发，旨在简化 AI 代理的部署与管理。核心特性包括：将 AI 代理封装为类似微服务的独立单元，支持通过 API 进行调用和编排；内置可观测性机制，便于监控代理行为与性能；提供审计日志，确保操作可追溯；集成身份感知功能，增强安全性与权限控制。适合需要大规模管理 AI 代理的企业级应用场景。",
+  "tags": [
+    "AI代理",
+    "微服务",
+    "可观测性",
+    "审计",
+    "身份感知",
+    "Go",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-19T19:04:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Agent-Field",
+    "stars": 1899,
+    "forks": 307,
+    "daily_stars": null,
+    "weekly_stars": 217,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

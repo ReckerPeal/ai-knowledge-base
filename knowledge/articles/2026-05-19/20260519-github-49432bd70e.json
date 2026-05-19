@@ -1,0 +1,31 @@
+{
+  "id": "20260519-github-49432bd70e",
+  "title": "Our response to the TanStack npm supply chain attack",
+  "source": "rss",
+  "source_url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+  "summary": "OpenAI 详细回应了 TanStack 'Mini Shai-Hulud' npm 供应链攻击，阐述了为保护系统和签名证书所采取的安全措施，并解释了为何 macOS 用户必须在 2026 年 6 月 12 日前更新 OpenAI 应用。文章介绍了事件经过、受影响范围以及 OpenAI 如何加强防御以应对不断演变的软件供应链威胁。",
+  "content": "OpenAI 针对 TanStack 'Mini Shai-Hulud' 供应链攻击事件发布了详细回应。该攻击通过 npm 包传播，影响了部分软件供应链。OpenAI 迅速采取了多项保护措施，包括加固系统安全、更新签名证书管理流程，并特别要求 macOS 用户在 2026 年 6 月 12 日前更新其 OpenAI 应用，以防范潜在风险。文章还强调了 OpenAI 正在持续强化防御体系，以应对日益复杂的供应链安全挑战。",
+  "tags": [
+    "供应链攻击",
+    "npm安全",
+    "OpenAI",
+    "TanStack",
+    "软件供应链安全",
+    "macOS更新",
+    "签名证书"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "collected_at": "2026-05-19T19:04:16+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

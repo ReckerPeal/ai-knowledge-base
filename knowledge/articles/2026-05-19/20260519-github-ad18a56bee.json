@@ -1,0 +1,33 @@
+{
+  "id": "20260519-github-ad18a56bee",
+  "title": "tirth8205/code-review-graph",
+  "source": "github_trending",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "summary": "code-review-graph 是一个为 Claude Code 设计的本地知识图谱工具，能够构建代码库的持久化映射，使 Claude 在代码审查时仅读取必要部分，从而将 Token 消耗降低 6.8 倍，在日常编码任务中最高可降低 49 倍。",
+  "content": "该项目由 tirth8205 开发，托管于 GitHub，主要使用 Python 语言实现。它通过构建本地知识图谱，为 Claude Code 提供代码库的结构化表示，从而优化代码审查和日常编码的效率。其核心优势在于显著减少 Token 使用量：在代码审查场景下可减少 6.8 倍，在日常编码任务中最高可达 49 倍。该工具旨在提升 AI 辅助编程的效率和成本效益，尤其适用于大型代码库。截至收集日期，该项目已获得 16863 颗星和 1830 个 Fork，日增星 123 颗，显示出较高的社区关注度。",
+  "tags": [
+    "知识图谱",
+    "代码审查",
+    "Claude Code",
+    "Token 优化",
+    "Python",
+    "AI 辅助编程",
+    "本地化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-19T19:04:01+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "tirth8205",
+    "stars": 16863,
+    "forks": 1830,
+    "daily_stars": 123,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
