@@ -1,0 +1,33 @@
+{
+  "id": "20260520-github-a3658918ef",
+  "title": "NVlabs/Sana",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/Sana",
+  "summary": "SANA：基于线性扩散 Transformer 的高效高分辨率图像合成模型",
+  "content": "SANA 是由 NVIDIA 实验室（NVlabs）开源的高分辨率图像合成项目，核心创新在于采用线性扩散 Transformer 架构，显著提升图像生成效率与质量。该项目在 GitHub 上获得 7116 颗星和 515 个 Fork，日增星 575 颗，属于 Python 语言的热点项目。SANA 旨在解决传统扩散模型在高分辨率场景下的计算瓶颈，通过线性注意力机制降低复杂度，同时保持生成图像的细节与一致性。适用于图像生成、AI 绘画、内容创作等场景，尤其适合需要快速生成高分辨率图像的工业应用。",
+  "tags": [
+    "高分辨率图像合成",
+    "扩散模型",
+    "Transformer",
+    "线性注意力",
+    "NVIDIA",
+    "图像生成",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-20T19:02:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 7116,
+    "forks": 515,
+    "daily_stars": 575,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

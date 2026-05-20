@@ -1,0 +1,34 @@
+{
+  "id": "20260520-github-66d41b8aa3",
+  "title": "humanlayer/12-factor-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/humanlayer/12-factor-agents",
+  "summary": "12-Factor Agents 是一套构建生产级 LLM 应用的指导原则，旨在帮助开发者打造足够可靠、可投入实际生产环境的 AI 软件。该项目由 humanlayer 维护，在 GitHub 上获得超过 2.1 万星标，近期热度持续上升。",
+  "content": "该项目提出了构建 LLM 驱动软件的 12 条核心原则，类似于经典的 12-Factor App 方法论，但专门针对大语言模型（LLM）应用的特点进行了调整。这些原则涵盖了代码库管理、依赖隔离、配置管理、可观测性、错误处理、安全防护、成本控制、迭代部署等方面，目标是解决 LLM 应用在生产环境中常见的不可预测性、幻觉、延迟和成本波动等问题。项目以 TypeScript 为主要实现语言，提供了参考实现和最佳实践指南，帮助团队从原型快速过渡到生产级系统。",
+  "tags": [
+    "LLM",
+    "生产级应用",
+    "12-Factor",
+    "最佳实践",
+    "TypeScript",
+    "AI 工程化",
+    "可观测性",
+    "错误处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-20T19:02:18+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "humanlayer",
+    "stars": 21377,
+    "forks": 1610,
+    "daily_stars": 736,
+    "weekly_stars": 1347,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

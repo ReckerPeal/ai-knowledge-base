@@ -1,0 +1,33 @@
+{
+  "id": "20260520-github-f8054dbffa",
+  "title": "bytedance/sonic",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/sonic",
+  "summary": "字节跳动开源的 Sonic 是一个高性能 JSON 序列化与反序列化库，专为 Go 语言设计，以极快的速度著称。",
+  "content": "Sonic 是字节跳动（bytedance）在 GitHub 上开源的一个 Go 语言 JSON 库，其核心特点是“极快的速度”（blazingly fast）。它专注于提供高效的 JSON 序列化（编码）与反序列化（解码）功能，旨在替代标准库 encoding/json，在性能敏感的场景下（如微服务、API 网关、大数据处理）显著提升吞吐量并降低延迟。该仓库在 GitHub Trending 上获得关注，拥有 9413 颗星和 442 个 fork，社区活跃度较高。",
+  "tags": [
+    "Go",
+    "JSON",
+    "序列化",
+    "反序列化",
+    "高性能",
+    "字节跳动",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-20T19:02:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "bytedance",
+    "stars": 9413,
+    "forks": 442,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260520-github-22094f3963",
+  "title": "volcengine/OpenViking",
+  "source": "github_trending",
+  "source_url": "https://github.com/volcengine/OpenViking",
+  "summary": "OpenViking 是一个专为 AI 代理（如 openclaw）设计的开源上下文数据库。它通过文件系统范式统一管理代理所需的上下文（包括记忆、资源和技能），支持层次化上下文传递和自进化能力。",
+  "content": "OpenViking 由火山引擎开源，旨在解决 AI 代理在复杂任务中的上下文管理问题。其核心创新在于将上下文视为文件系统中的结构化数据，通过层级组织实现高效检索与动态更新。项目采用 Python 开发，在 GitHub 上获得 24260 颗星和 1812 个分支，日增星约 120 颗，显示出社区高度关注。该工具特别适用于需要长期记忆和技能演化的代理场景，如自动化工作流、智能助手等。",
+  "tags": [
+    "AI 代理",
+    "上下文数据库",
+    "文件系统范式",
+    "记忆管理",
+    "开源",
+    "火山引擎",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-20T19:02:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "volcengine",
+    "stars": 24260,
+    "forks": 1812,
+    "daily_stars": 120,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
