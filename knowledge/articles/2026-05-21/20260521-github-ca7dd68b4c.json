@@ -1,0 +1,36 @@
+{
+  "id": "20260521-github-ca7dd68b4c",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source": "github_trending",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "summary": "ZhuLinsen/daily_stock_analysis 是一个基于 LLM 的股票智能分析系统，支持 A 股、港股和美股市场。它整合多数据源行情、实时新闻、LLM 决策仪表盘，并提供多渠道推送功能。系统可零成本定时运行，适合个人投资者使用。",
+  "content": "该项目利用大语言模型（LLM）驱动股票分析，覆盖 A 股、港股和美股三大市场。核心功能包括：多数据源行情获取（如实时价格、历史数据）、实时新闻聚合、基于 LLM 的决策仪表盘（生成投资建议或市场解读），以及通过邮件、推送等渠道发送分析结果。系统设计为可定时运行，且完全免费（纯白嫖），适合个人或小团队低成本使用。代码以 Python 编写，依赖开源库和免费 API。",
+  "tags": [
+    "LLM",
+    "股票分析",
+    "A股",
+    "港股",
+    "美股",
+    "实时新闻",
+    "决策仪表盘",
+    "推送通知",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-21T19:05:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ZhuLinsen",
+    "stars": 38265,
+    "forks": 36954,
+    "daily_stars": 375,
+    "weekly_stars": 2481,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

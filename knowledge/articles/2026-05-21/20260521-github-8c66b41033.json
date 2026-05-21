@@ -1,0 +1,33 @@
+{
+  "id": "20260521-github-8c66b41033",
+  "title": "safedep/pmg",
+  "source": "github_trending",
+  "source_url": "https://github.com/safedep/pmg",
+  "summary": "PMG 是一个开源工具，通过代理、沙箱和 SafeDep 威胁情报源，保护开发者和 AI 代理免受恶意开源软件包的侵害。",
+  "content": "PMG（Package Malware Guard）由 safedep 开发，旨在增强开源生态系统中的软件供应链安全性。它利用代理技术拦截和检查包管理器的请求，结合沙箱环境隔离可疑行为，并集成 SafeDep 的威胁情报源以识别已知恶意包。该项目主要面向 Go 语言开发者，但也适用于其他语言环境，帮助防止恶意包在开发或 CI/CD 流程中被引入。",
+  "tags": [
+    "安全",
+    "开源",
+    "Go",
+    "恶意软件防护",
+    "供应链安全",
+    "沙箱",
+    "威胁情报"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-21T19:05:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "safedep",
+    "stars": 328,
+    "forks": 25,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

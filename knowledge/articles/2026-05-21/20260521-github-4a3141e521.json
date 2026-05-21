@@ -1,0 +1,31 @@
+{
+  "id": "20260521-github-4a3141e521",
+  "title": "openai/whisper",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/whisper",
+  "summary": "OpenAI 的 Whisper 是一个基于大规模弱监督训练的鲁棒语音识别系统。",
+  "content": "Whisper 是 OpenAI 开源的一个通用语音识别模型，采用大规模弱监督训练方法，支持多语言转录和翻译。该模型在多种噪声环境下表现出色，能够处理不同语种和口音，且无需针对特定场景进行微调。其架构基于编码器-解码器 Transformer，训练数据包含 68 万小时的多语言多任务监督数据。Whisper 在 GitHub 上拥有近 10 万星标，是当前最热门的语音识别开源项目之一。",
+  "tags": [
+    "语音识别",
+    "弱监督学习",
+    "Transformer",
+    "多语言",
+    "开源模型"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-21T19:05:09+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 99889,
+    "forks": 12232,
+    "daily_stars": 84,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

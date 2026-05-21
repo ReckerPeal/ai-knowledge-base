@@ -1,0 +1,36 @@
+{
+  "id": "20260521-github-1a6f6c5fef",
+  "title": "BigBodyCobain/Shadowbroker",
+  "source": "github_trending",
+  "source_url": "https://github.com/BigBodyCobain/Shadowbroker",
+  "summary": "Shadowbroker 是一个开源智能情报聚合平台，旨在通过统一界面追踪全球范围内的多种数据源，包括富豪的企业/私人飞机、间谍卫星以及地震事件。用户可接入 AI 代理，自动解析数据并发现此前未见的关联性。该项目将通常分散的公开知识集中呈现，填补了公开情报聚合的空白。",
+  "content": "Shadowbroker 是一个基于 Python 的开源项目，专注于全球范围内的开源情报（OSINT）聚合与分析。它提供了一个统一的界面，使用户能够追踪多种数据源，包括：\n- 富豪的企业/私人飞机动态\n- 间谍卫星的轨迹与活动\n- 地震等地质事件\n\n核心功能包括：\n- 数据聚合：从多个公开来源收集信息，整合为单一视图。\n- AI 代理集成：用户可连接 AI 模型，自动解析数据并发现隐藏的关联模式。\n- 实时更新：支持持续监控和事件追踪。\n\n该项目在 GitHub 上获得了 8548 颗星和 1284 个 fork，周增长 2231 星，表明社区关注度极高。其技术栈以 Python 为主，适合数据科学家、安全研究人员和情报爱好者使用。\n\n潜在应用场景包括：\n- 安全研究：监控潜在威胁或异常活动。\n- 新闻调查：追踪公众人物的移动或环境事件。\n- 数据分析：利用 AI 挖掘跨领域关联。\n\n需要注意的是，该项目涉及敏感数据追踪，用户应遵守相关法律法规，确保使用符合伦理与隐私要求。",
+  "tags": [
+    "开源情报",
+    "OSINT",
+    "数据聚合",
+    "AI 分析",
+    "Python",
+    "实时追踪",
+    "安全研究",
+    "卫星追踪",
+    "地震监测",
+    "情报可视化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-21T19:05:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "BigBodyCobain",
+    "stars": 8548,
+    "forks": 1284,
+    "daily_stars": null,
+    "weekly_stars": 2231,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
