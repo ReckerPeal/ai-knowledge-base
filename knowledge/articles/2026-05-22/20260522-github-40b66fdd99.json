@@ -1,0 +1,33 @@
+{
+  "id": "20260522-github-40b66fdd99",
+  "title": "archestra-ai/archestra",
+  "source": "github_trending",
+  "source_url": "https://github.com/archestra-ai/archestra",
+  "summary": "Archestra 是一个面向企业的 AI 平台，集成了防护栏、MCP 注册表、网关和编排器，旨在提供安全、可控的 AI 应用部署与管理能力。",
+  "content": "Archestra 是一个企业级 AI 平台，其核心功能包括：\n- **防护栏（Guardrails）**：提供内容过滤、合规性检查等安全机制，确保 AI 输出符合企业政策。\n- **MCP 注册表（MCP Registry）**：管理模型、数据源和服务的注册与发现，支持模块化扩展。\n- **网关（Gateway）**：统一 API 入口，实现请求路由、负载均衡和访问控制。\n- **编排器（Orchestrator）**：协调多个 AI 组件的工作流，支持复杂任务调度与自动化。\n该平台基于 TypeScript 开发，在 GitHub 上已获得 3726 颗星和 849 个 Fork，周增长 71 星，显示出较高的社区关注度。适合需要安全、可扩展 AI 基础设施的企业场景。",
+  "tags": [
+    "企业AI平台",
+    "防护栏",
+    "MCP注册表",
+    "网关",
+    "编排器",
+    "TypeScript",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-22T19:01:53+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "archestra-ai",
+    "stars": 3726,
+    "forks": 849,
+    "daily_stars": null,
+    "weekly_stars": 71,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

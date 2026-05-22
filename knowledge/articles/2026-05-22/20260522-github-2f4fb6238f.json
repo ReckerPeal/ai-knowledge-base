@@ -1,0 +1,35 @@
+{
+  "id": "20260522-github-2f4fb6238f",
+  "title": "langchain-ai/langchain",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个用于构建基于大语言模型（LLM）的智能体（Agent）应用的工程平台，提供模块化工具和框架，支持链式调用、记忆管理、工具集成等功能，广泛应用于 AI 应用开发。",
+  "content": "LangChain 是一个开源的智能体工程平台，由 langchain-ai 组织维护，使用 Python 语言开发。该项目在 GitHub 上拥有 137,379 颗星和 22,726 个分支，每日新增星标约 106 颗，属于 GitHub 热点 Python 项目。其核心功能包括：1）提供统一的接口与多种 LLM（如 OpenAI、Hugging Face）集成；2）支持构建复杂的链式调用（Chain），将多个组件组合成工作流；3）内置记忆模块，实现对话历史管理；4）集成外部工具（如搜索引擎、数据库、API），扩展智能体能力；5）提供提示模板（Prompt Template）和输出解析器，简化开发流程。LangChain 广泛应用于聊天机器人、文档问答、代码生成、自动化工作流等场景，是当前 AI 应用开发领域最流行的框架之一。",
+  "tags": [
+    "LangChain",
+    "LLM",
+    "智能体",
+    "AI 应用开发",
+    "Python",
+    "GitHub 热点",
+    "大语言模型",
+    "链式调用",
+    "工具集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-22T19:01:42+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 137379,
+    "forks": 22726,
+    "daily_stars": 106,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

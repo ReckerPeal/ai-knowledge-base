@@ -1,0 +1,34 @@
+{
+  "id": "20260522-github-de6fc61762",
+  "title": "ast-grep/ast-grep",
+  "source": "github_trending",
+  "source_url": "https://github.com/ast-grep/ast-grep",
+  "summary": "ast-grep 是一个用 Rust 编写的 CLI 工具，专注于代码的结构化搜索、代码检查（lint）和重写。它通过语法树分析实现精确的代码模式匹配，适用于大型代码库的自动化重构和代码质量维护。",
+  "content": "ast-grep 是一个基于 Rust 的高性能命令行工具，旨在通过抽象语法树（AST）进行代码的结构化搜索、静态分析和自动重写。与传统的基于正则表达式的搜索不同，ast-grep 能够理解代码的语法结构，从而提供更精确的模式匹配和转换能力。该工具支持多种编程语言，并允许用户定义自定义规则，适用于代码重构、代码风格统一、漏洞检测等场景。其核心优势在于性能（Rust 实现）和准确性（AST 级别分析），在 GitHub 上已获得超过 1.4 万星标，社区活跃。",
+  "tags": [
+    "代码搜索",
+    "代码检查",
+    "代码重写",
+    "Rust",
+    "CLI工具",
+    "AST",
+    "静态分析",
+    "重构"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-22T19:01:56+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ast-grep",
+    "stars": 14055,
+    "forks": 372,
+    "daily_stars": null,
+    "weekly_stars": 231,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

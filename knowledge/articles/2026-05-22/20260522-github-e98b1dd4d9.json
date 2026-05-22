@@ -1,0 +1,31 @@
+{
+  "id": "20260522-github-e98b1dd4d9",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source": "rss",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "summary": "本文回顾了Transformer架构从2017年提出到2025年的发展历程，分析了其核心组件（如自注意力机制、多头注意力、位置编码等）的演变与固化过程，并探讨了不同变体（如BERT、GPT系列、ViT等）在自然语言处理和计算机视觉领域的应用与影响。",
+  "content": "文章以时间线方式梳理了Transformer架构的关键里程碑：2017年原始论文提出后，2018年BERT和GPT-1分别展示了预训练-微调范式的潜力；2019-2020年，GPT-2/3、T5、ViT等模型进一步扩展了Transformer的应用边界；2021-2023年，稀疏注意力、混合专家模型（MoE）、长序列处理技术（如Longformer、Performer）以及多模态架构（如CLIP、DALL-E）不断涌现；2024-2025年，架构逐渐趋于稳定，高效推理、量化压缩和硬件适配成为研究重点。文章还分析了注意力机制、层归一化、残差连接等组件为何成为标准配置，并讨论了未来可能的方向，如线性注意力、状态空间模型与Transformer的融合。",
+  "tags": [
+    "Transformer",
+    "深度学习",
+    "自然语言处理",
+    "计算机视觉",
+    "模型架构",
+    "AI发展史",
+    "注意力机制"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-11T11:20:42-05:00",
+  "collected_at": "2026-05-22T19:01:58+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
