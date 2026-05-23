@@ -1,0 +1,31 @@
+{
+  "id": "20260523-github-08edd0e7af",
+  "title": "paradedb/paradedb",
+  "source": "github_trending",
+  "source_url": "https://github.com/paradedb/paradedb",
+  "summary": "ParadeDB 是一个基于 Rust 的 PostgreSQL 扩展，为 Postgres 提供简单且具有 Elasticsearch 级别质量的搜索功能。",
+  "content": "ParadeDB 是一个开源项目，旨在为 PostgreSQL 数据库添加高性能的全文搜索能力，其搜索质量可与 Elasticsearch 媲美。该项目使用 Rust 语言开发，通过扩展 Postgres 的原生功能，让用户无需额外部署专门的搜索引擎即可获得强大的搜索体验。它简化了搜索架构，降低了运维复杂度，同时保持了 Elasticsearch 级别的搜索精度和速度。",
+  "tags": [
+    "PostgreSQL",
+    "全文搜索",
+    "Rust",
+    "Elasticsearch",
+    "数据库扩展"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "paradedb",
+    "stars": 8828,
+    "forks": 389,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260523-github-425b2c789c",
+  "title": "domcyrus/rustnet",
+  "source": "github_trending",
+  "source_url": "https://github.com/domcyrus/rustnet",
+  "summary": "domcyrus/rustnet 是一个基于 Rust 开发的终端网络监控工具，支持跨平台运行和沙箱隔离，具备深度包检测功能，可实现对每个进程的网络活动进行实时监控。",
+  "content": "该仓库提供了 per-process 级别的网络监控能力，用户可以在终端中查看每个进程的网络流量和连接详情。其深度包检测（DPI）功能能够解析数据包内容，帮助识别协议和潜在威胁。跨平台支持（Windows、macOS、Linux）和沙箱化设计增强了安全性和兼容性。项目在 GitHub 上获得 3807 颗星，近期周增长 474 颗星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "网络监控",
+    "Rust",
+    "终端工具",
+    "深度包检测",
+    "跨平台",
+    "沙箱"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "domcyrus",
+    "stars": 3807,
+    "forks": 165,
+    "daily_stars": null,
+    "weekly_stars": 474,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

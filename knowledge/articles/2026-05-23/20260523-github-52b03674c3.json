@@ -1,0 +1,33 @@
+{
+  "id": "20260523-github-52b03674c3",
+  "title": "colbymchenry/codegraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "summary": "Codegraph 是一个预索引的代码知识图谱工具，专为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 等 AI 编码助手设计。它通过减少 token 消耗和工具调用次数，实现 100% 本地化的高效代码理解与交互。",
+  "content": "Codegraph 通过构建预索引的代码知识图谱，显著提升了 AI 编码助手在大型代码库中的性能。其核心优势包括：\n1. **低 Token 消耗**：预索引结构减少了每次查询所需的 token 数量，降低 API 成本。\n2. **减少工具调用**：知识图谱直接提供上下文，避免多次调用外部工具。\n3. **完全本地化**：所有处理在本地完成，保障代码隐私与安全性。\n4. **多工具兼容**：支持 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 等主流 AI 编码工具。\n5. **高效检索**：基于图结构的索引加速了代码语义搜索与关系推理。\n该项目在 GitHub 上获得 17,749 颗星，日增 3,684 星，周增 14,072 星，显示出极高的社区关注度。",
+  "tags": [
+    "代码知识图谱",
+    "AI 编码助手",
+    "本地化",
+    "Token 优化",
+    "TypeScript",
+    "代码理解",
+    "预索引"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:22+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "colbymchenry",
+    "stars": 17749,
+    "forks": 985,
+    "daily_stars": 3684,
+    "weekly_stars": 14072,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

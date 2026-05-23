@@ -1,0 +1,33 @@
+{
+  "id": "20260523-github-df6997b91a",
+  "title": "MemTensor/MemOS",
+  "source": "github_trending",
+  "source_url": "https://github.com/MemTensor/MemOS",
+  "summary": "MemTensor/MemOS 是一个为大型语言模型和 AI 代理设计的自进化内存操作系统，具备超持久内存、混合检索和跨任务技能复用能力，可节省 35.24% 的 token 消耗。",
+  "content": "MemOS 是一个创新的内存操作系统，专为 LLM 和 AI 代理优化。其核心特性包括：超持久内存（ultra-persistent memory）确保长期记忆存储；混合检索（hybrid-retrieval）结合多种检索策略提升信息获取效率；跨任务技能复用（cross-task skill reuse）允许代理在不同任务间共享和重用学习到的技能。实验数据显示，该系统能实现 35.24% 的 token 节省，显著降低计算成本。该项目在 GitHub 上获得 9347 颗星和 845 个 fork，近期日增星数达 59，显示出社区的高度关注。",
+  "tags": [
+    "LLM",
+    "AI Agents",
+    "Memory OS",
+    "Token Savings",
+    "Hybrid Retrieval",
+    "Skill Reuse",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:22+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "MemTensor",
+    "stars": 9347,
+    "forks": 845,
+    "daily_stars": 59,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

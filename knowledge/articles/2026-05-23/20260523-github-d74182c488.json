@@ -1,0 +1,31 @@
+{
+  "id": "20260523-github-d74182c488",
+  "title": "casey/just",
+  "source": "github_trending",
+  "source_url": "https://github.com/casey/just",
+  "summary": "casey/just 是一个用 Rust 编写的命令运行器，旨在简化项目中的命令执行流程。",
+  "content": "just 是一个轻量级的命令运行工具，类似于 make，但更专注于易用性和简洁性。它通过一个名为 justfile 的配置文件来定义命令，支持跨平台运行，并提供了清晰的错误提示和自动补全功能。该项目在 GitHub 上获得了超过 3.3 万颗星，每日新增约 25 颗星，表明其受到开发者社区的广泛欢迎。",
+  "tags": [
+    "命令运行器",
+    "Rust",
+    "justfile",
+    "开发工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "casey",
+    "stars": 33844,
+    "forks": 791,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

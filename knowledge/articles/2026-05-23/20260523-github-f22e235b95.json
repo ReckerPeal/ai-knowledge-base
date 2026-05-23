@@ -1,0 +1,32 @@
+{
+  "id": "20260523-github-f22e235b95",
+  "title": "kubernetes-sigs/agent-sandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "summary": "agent-sandbox 是 Kubernetes SIGs 下的一个开源项目，旨在简化隔离、有状态、单例工作负载的管理，特别适用于 AI 代理运行时等场景。",
+  "content": "agent-sandbox 是一个基于 Kubernetes 的扩展工具，专注于提供对隔离、有状态、单例工作负载的便捷管理。它通过创建独立的沙箱环境，确保每个工作负载（如 AI 代理）拥有独立的运行时状态和资源，避免相互干扰。该项目特别适合需要持久化状态和唯一实例的 AI 代理应用，例如长时间运行的对话代理或自动化任务执行器。其设计强调易用性，用户可通过简单的配置快速部署和管理这些工作负载。项目由 Kubernetes SIGs 维护，采用 Go 语言开发，目前拥有 2326 颗星和 284 个分支，近期日增星数达 24，周增星数 138，显示出较高的社区活跃度。",
+  "tags": [
+    "Kubernetes",
+    "AI代理",
+    "沙箱",
+    "工作负载管理",
+    "有状态应用",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 2326,
+    "forks": 284,
+    "daily_stars": 24,
+    "weekly_stars": 138,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

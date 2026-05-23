@@ -1,0 +1,32 @@
+{
+  "id": "20260523-github-66d41b8aa3",
+  "title": "humanlayer/12-factor-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/humanlayer/12-factor-agents",
+  "summary": "12-Factor Agents 是一套构建生产级 LLM 应用的指导原则，旨在帮助开发者打造足够可靠、可投入实际客户使用的 AI 软件。",
+  "content": "该项目由 humanlayer 提出，借鉴了经典的 12-Factor App 方法论，针对 LLM 驱动的软件定义了 12 条核心原则，涵盖代码库、依赖、配置、后端服务、构建/发布/运行、进程、端口绑定、并发、可处置性、开发/生产环境一致性、日志、管理进程等方面。项目以 TypeScript 实现，提供了示例代码和最佳实践，帮助开发者避免常见陷阱，提升 LLM 应用的可维护性、可扩展性和生产就绪度。",
+  "tags": [
+    "LLM",
+    "12-Factor",
+    "生产级应用",
+    "最佳实践",
+    "TypeScript",
+    "AI 工程"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:30+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "humanlayer",
+    "stars": 21819,
+    "forks": 1639,
+    "daily_stars": null,
+    "weekly_stars": 1907,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

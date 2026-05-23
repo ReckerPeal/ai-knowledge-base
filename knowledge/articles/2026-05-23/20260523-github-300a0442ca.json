@@ -1,0 +1,35 @@
+{
+  "id": "20260523-github-300a0442ca",
+  "title": "Michael-A-Kuykendall/shimmy",
+  "source": "github_trending",
+  "source_url": "https://github.com/Michael-A-Kuykendall/shimmy",
+  "summary": "⚡ 无 Python 依赖的 Rust 推理服务器，兼容 OpenAI API，支持 GGUF 和 SafeTensors 格式，具备热模型切换、自动发现功能，单二进制文件部署，永久免费。",
+  "content": "该项目是一个基于 Rust 语言开发的高性能推理服务器，完全无需 Python 环境。它兼容 OpenAI API，可直接替换现有推理服务。支持 GGUF 和 SafeTensors 两种模型格式，并实现了热模型切换（hot model swap）和自动发现（auto-discovery）功能。整个服务以单一二进制文件分发，部署极其简便。项目承诺永久免费，适合需要轻量、高效推理场景的开发者。",
+  "tags": [
+    "Rust",
+    "推理服务器",
+    "OpenAI API",
+    "GGUF",
+    "SafeTensors",
+    "热切换",
+    "自动发现",
+    "单二进制",
+    "免费"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Michael-A-Kuykendall",
+    "stars": 5232,
+    "forks": 484,
+    "daily_stars": null,
+    "weekly_stars": 425,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

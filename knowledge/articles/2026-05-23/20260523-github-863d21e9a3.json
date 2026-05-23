@@ -1,0 +1,33 @@
+{
+  "id": "20260523-github-863d21e9a3",
+  "title": "matlab/matlab-mcp-core-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/matlab/matlab-mcp-core-server",
+  "summary": "MathWorks 官方推出的 MATLAB MCP 服务器，支持 AI 应用通过 MCP 协议调用 MATLAB 引擎，兼容 Claude Code、VS Code 等主流编码代理。",
+  "content": "该项目由 MathWorks 官方维护，提供了一个基于 MCP（Model Context Protocol）的服务器，使 AI 应用能够直接运行 MATLAB 代码。它支持多种编码代理（如 Claude Code、Visual Studio Code），实现了 MATLAB 与 AI 工作流的无缝集成。仓库使用 Go 语言开发，当前获得 747 星和 70 个 fork，周增长 120 星，属于 GitHub 热点 Go 类别。",
+  "tags": [
+    "MATLAB",
+    "MCP",
+    "AI",
+    "MathWorks",
+    "Go",
+    "编码代理",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-23T18:31:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "matlab",
+    "stars": 747,
+    "forks": 70,
+    "daily_stars": null,
+    "weekly_stars": 120,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
