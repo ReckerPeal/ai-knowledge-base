@@ -1,0 +1,35 @@
+{
+  "id": "20260524-github-300a0442ca",
+  "title": "Michael-A-Kuykendall/shimmy",
+  "source": "github_trending",
+  "source_url": "https://github.com/Michael-A-Kuykendall/shimmy",
+  "summary": "Shimmy 是一个基于 Rust 的推理服务器，无需 Python 环境，兼容 OpenAI API，支持 GGUF 和 SafeTensors 模型格式，具备热模型切换、自动发现功能，以单一二进制文件运行，并承诺永久免费。",
+  "content": "Shimmy 是一个用 Rust 编写的轻量级推理服务器，完全摆脱了 Python 依赖，提供与 OpenAI API 兼容的接口。它支持 GGUF 和 SafeTensors 两种模型格式，允许用户在不重启服务的情况下热切换模型，并具备自动发现模型的能力。整个服务以单一二进制文件形式分发，部署极其简便。项目强调永久免费，旨在降低 AI 推理的门槛。",
+  "tags": [
+    "Rust",
+    "推理服务器",
+    "OpenAI API",
+    "GGUF",
+    "SafeTensors",
+    "热模型切换",
+    "自动发现",
+    "单一二进制",
+    "免费"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-24T18:33:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Michael-A-Kuykendall",
+    "stars": 5244,
+    "forks": 486,
+    "daily_stars": null,
+    "weekly_stars": 430,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

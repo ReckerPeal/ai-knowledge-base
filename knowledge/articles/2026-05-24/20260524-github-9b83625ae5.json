@@ -1,0 +1,32 @@
+{
+  "id": "20260524-github-9b83625ae5",
+  "title": "grpc/grpc-rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/grpc/grpc-rust",
+  "summary": "grpc/grpc-rust 是一个用 Rust 语言实现的 gRPC 原生客户端与服务器库，支持 async/await 异步编程模型。该项目在 GitHub 上获得 12120 颗星，1211 个分支，近期日增星 27 颗，属于 Rust 生态中重要的 gRPC 实现。",
+  "content": "grpc/grpc-rust 是 gRPC 官方在 Rust 语言中的原生实现，提供了完整的 gRPC 客户端和服务器功能。其核心特性包括：1）基于 Rust 的 async/await 异步语法，实现高效的非阻塞 I/O；2）支持 gRPC 的四种通信模式（一元、服务器流、客户端流、双向流）；3）与 Protocol Buffers 深度集成，自动生成 Rust 代码；4）提供 TLS/SSL 加密通信支持。该项目由 gRPC 官方团队维护，社区活跃，适合构建高性能微服务系统。当前星标数 12120，分支数 1211，日增星 27 颗，表明其持续受到开发者关注。",
+  "tags": [
+    "gRPC",
+    "Rust",
+    "异步编程",
+    "微服务",
+    "Protocol Buffers",
+    "网络通信"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-24T18:33:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "grpc",
+    "stars": 12120,
+    "forks": 1211,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

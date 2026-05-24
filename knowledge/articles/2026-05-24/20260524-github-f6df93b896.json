@@ -1,0 +1,35 @@
+{
+  "id": "20260524-github-f6df93b896",
+  "title": "OpenPipe/ART",
+  "source": "github_trending",
+  "source_url": "https://github.com/OpenPipe/ART",
+  "summary": "OpenPipe/ART 是一个基于 GRPO 的智能体强化训练工具，旨在通过在职训练提升多步骤智能体在真实世界任务中的表现，支持 Qwen3.6、GPT-OSS、Llama 等多种模型。",
+  "content": "OpenPipe/ART（Agent Reinforcement Trainer）是一个专注于智能体强化训练的开源项目。它利用 GRPO（Group Relative Policy Optimization）算法，为多步骤智能体提供针对真实世界任务的训练能力。该项目强调“在职训练”（on-the-job training），即让智能体在实际任务环境中不断学习和优化。ART 支持多种主流模型，包括 Qwen3.6、GPT-OSS、Llama 等，具有较好的兼容性和扩展性。截至收集日期，该项目在 GitHub 上获得了 9812 颗星和 869 个 fork，日增星数达 44，显示出较高的社区关注度。项目由 OpenPipe 团队开发，主要使用 Python 语言实现，适合对强化学习、智能体训练和自动化任务感兴趣的开发者和研究者。",
+  "tags": [
+    "强化学习",
+    "智能体训练",
+    "GRPO",
+    "多步骤任务",
+    "OpenPipe",
+    "Qwen",
+    "GPT-OSS",
+    "Llama",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-24T18:33:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "OpenPipe",
+    "stars": 9812,
+    "forks": 869,
+    "daily_stars": 44,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
