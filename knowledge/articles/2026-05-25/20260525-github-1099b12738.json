@@ -1,0 +1,29 @@
+{
+  "id": "20260525-github-1099b12738",
+  "title": "sectorllm: llama2 inference in < 1500 bytes of x86 assembly",
+  "source": "rss",
+  "source_url": "https://github.com/rdmsr/sectorllm",
+  "summary": "SectorLLM 是一个极简的 Llama2 推理实现，仅用不到 1500 字节的 x86 汇编代码完成。该项目展示了在极端资源限制下运行大型语言模型的可能性，适合对底层优化和嵌入式 AI 感兴趣的开发者。",
+  "content": "SectorLLM 项目通过 x86 汇编语言实现了 Llama2 模型的推理功能，代码体积小于 1500 字节。它源自 Lobsters 社区的讨论，旨在探索在极低内存和存储环境下运行 LLM 的可行性。该项目可能涉及汇编级优化、模型量化或精简推理流程，以适配资源受限的场景。",
+  "tags": [
+    "Llama2",
+    "x86汇编",
+    "推理优化",
+    "极简实现",
+    "嵌入式AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-04T19:23:59-05:00",
+  "collected_at": "2026-05-25T19:23:15+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

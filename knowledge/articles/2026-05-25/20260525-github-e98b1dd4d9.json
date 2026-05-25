@@ -1,0 +1,30 @@
+{
+  "id": "20260525-github-e98b1dd4d9",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source": "rss",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "summary": "该文章系统梳理了Transformer架构从2017年提出到2025年的演变过程，分析了关键设计选择如何逐步固化成为主流标准，并探讨了未来可能的发展方向。",
+  "content": "文章以时间线为线索，详细回顾了Transformer架构的核心组件（如自注意力机制、多头注意力、位置编码、层归一化等）的演变与标准化过程。作者指出，尽管早期存在多种变体（如不同位置编码方式、归一化位置等），但经过多年实践，某些设计（如Pre-LN、RoPE、SwiGLU等）逐渐成为事实标准。文章还讨论了模型规模、训练数据、推理效率等因素对架构选择的影响，并对未来可能出现的突破（如状态空间模型、混合架构）进行了展望。",
+  "tags": [
+    "Transformer",
+    "深度学习",
+    "自然语言处理",
+    "模型架构",
+    "技术演进",
+    "AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-11T11:20:42-05:00",
+  "collected_at": "2026-05-25T19:23:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

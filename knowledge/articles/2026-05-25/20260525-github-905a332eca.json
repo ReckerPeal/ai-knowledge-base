@@ -1,0 +1,30 @@
+{
+  "id": "20260525-github-905a332eca",
+  "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+  "summary": "PaddleOCR 3.5 版本发布，支持使用 Transformers 后端运行 OCR 和文档解析任务。",
+  "content": "PaddleOCR 3.5 版本引入了对 Transformers 后端的支持，使得用户能够利用 Transformer 架构进行光学字符识别（OCR）和文档解析任务。该版本旨在提升 OCR 的准确性和效率，同时简化与现有深度学习框架的集成。主要特点包括：基于 Transformer 的模型优化、多语言支持增强、以及更灵活的部署选项。",
+  "tags": [
+    "PaddleOCR",
+    "OCR",
+    "文档解析",
+    "Transformers",
+    "深度学习",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-18T15:12:46+00:00",
+  "collected_at": "2026-05-25T19:23:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

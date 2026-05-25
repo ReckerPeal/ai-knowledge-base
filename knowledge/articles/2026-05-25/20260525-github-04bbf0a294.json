@@ -1,0 +1,34 @@
+{
+  "id": "20260525-github-04bbf0a294",
+  "title": "katanemo/plano",
+  "source": "github_trending",
+  "source_url": "https://github.com/katanemo/plano",
+  "summary": "Plano 是一个面向智能体应用的 AI 原生代理和数据平面，内置编排、安全、可观测性和智能 LLM 路由功能，让开发者专注于智能体的核心逻辑。",
+  "content": "Plano 是一个用 Rust 编写的 AI 原生代理和数据平面，专为智能体应用设计。它提供了内置的编排能力，能够协调多个智能体或 LLM 调用；内置安全机制，确保数据和应用的安全；可观测性功能帮助监控和调试智能体行为；智能 LLM 路由能够根据任务需求自动选择最合适的语言模型。通过将这些通用功能集成到代理层，Plano 让开发者可以专注于智能体的核心业务逻辑，而无需处理底层基础设施的复杂性。该项目在 GitHub 上获得 6533 颗星，422 个 fork，近期每日新增约 19 颗星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "AI",
+    "代理",
+    "数据平面",
+    "LLM路由",
+    "编排",
+    "安全",
+    "可观测性",
+    "Rust"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-25T19:23:03+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "katanemo",
+    "stars": 6533,
+    "forks": 422,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

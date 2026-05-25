@@ -1,0 +1,31 @@
+{
+  "id": "20260525-github-b36b43c9b6",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "summary": "本文探讨了大型语言模型（LLM）在后端代码生成中的约束衰减问题，揭示了LLM代理在复杂代码生成任务中因约束条件随时间或上下文逐渐弱化而导致的脆弱性。研究通过实验分析了约束衰减的成因、影响及潜在缓解策略，为提升LLM在软件开发中的可靠性提供了重要见解。",
+  "content": "该研究聚焦于LLM代理在后端代码生成场景下的约束衰减现象。约束衰减指LLM在生成代码过程中，初始给定的约束条件（如API规范、性能要求、安全规则等）随着生成步骤或上下文扩展而逐渐被忽略或弱化，导致最终代码不符合原始需求。论文通过系统实验，量化了不同约束类型（如语法、逻辑、性能）的衰减速率，并分析了模型规模、提示设计、任务复杂度等因素对衰减的影响。研究发现，即使是最先进的LLM（如GPT-4、Claude等）也表现出显著的约束衰减，尤其在长序列生成或多约束场景下。作者提出了几种缓解方法，包括动态约束注入、分步验证和上下文压缩，但指出完全消除衰减仍具挑战。该工作对AI辅助软件工程领域具有重要警示意义，强调了在关键任务中需要更鲁棒的约束保持机制。",
+  "tags": [
+    "LLM",
+    "约束衰减",
+    "后端代码生成",
+    "AI代理",
+    "软件工程",
+    "可靠性",
+    "提示工程"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-24T12:55:53+00:00",
+  "collected_at": "2026-05-25T19:23:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260525-github-f538e90acf",
+  "title": "CloakHQ/CloakBrowser",
+  "source": "github_trending",
+  "source_url": "https://github.com/CloakHQ/CloakBrowser",
+  "summary": "CloakBrowser 是一个基于 Chromium 的隐身浏览器，旨在通过所有机器人检测测试。它提供即插即用的 Playwright 替代方案，并包含源代码级别的指纹补丁，在 30 项测试中全部通过。",
+  "content": "CloakBrowser 是一个专注于反检测的浏览器项目，基于 Chromium 内核开发。其核心优势在于能够绕过各种机器人检测机制，包括指纹识别、行为分析等。项目提供了与 Playwright 兼容的 API，方便开发者直接替换使用。通过源代码级别的指纹补丁，它能够隐藏浏览器特征，使得自动化脚本更难被识别。该项目在 GitHub 上获得了超过 2 万星标，显示出社区的高度关注。",
+  "tags": [
+    "隐身浏览器",
+    "反检测",
+    "Chromium",
+    "Playwright",
+    "指纹补丁",
+    "自动化测试",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-25T19:23:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "CloakHQ",
+    "stars": 20718,
+    "forks": 1640,
+    "daily_stars": null,
+    "weekly_stars": 6892,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

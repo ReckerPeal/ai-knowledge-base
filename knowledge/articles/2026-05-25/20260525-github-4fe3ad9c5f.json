@@ -1,0 +1,33 @@
+{
+  "id": "20260525-github-4fe3ad9c5f",
+  "title": "lance-format/lance",
+  "source": "github_trending",
+  "source_url": "https://github.com/lance-format/lance",
+  "summary": "Lance 是一种专为多模态 AI 设计的开放湖仓格式，支持从 Parquet 格式两行代码转换，实现 100 倍更快的随机访问、向量索引和数据版本控制。兼容 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch，并持续集成更多工具。",
+  "content": "Lance 是一种创新的开放湖仓格式，旨在优化多模态 AI 工作负载。它通过高效的列式存储和索引机制，显著提升随机访问速度（相比 Parquet 快 100 倍），并内置向量索引和数据版本控制功能。用户只需两行代码即可从 Parquet 格式迁移。该格式与主流数据处理和机器学习框架（如 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch）兼容，未来还将支持更多集成。项目由 lance-format 组织维护，在 GitHub 上获得 6523 颗星和 680 个分支，近期周增长 85 星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "开放湖仓格式",
+    "多模态 AI",
+    "向量索引",
+    "数据版本控制",
+    "Parquet 转换",
+    "Rust",
+    "高性能随机访问"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-25T19:23:12+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lance-format",
+    "stars": 6523,
+    "forks": 680,
+    "daily_stars": null,
+    "weekly_stars": 85,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

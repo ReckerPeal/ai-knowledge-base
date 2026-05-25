@@ -1,0 +1,30 @@
+{
+  "id": "20260525-github-cb920945cf",
+  "title": "How Ramp engineers accelerate code review with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ramp",
+  "summary": "Ramp 工程团队利用 Codex 与 GPT-5.5 加速代码审查，将反馈时间从数小时缩短至数分钟。",
+  "content": "本文介绍了 Ramp 公司如何通过集成 OpenAI 的 Codex 模型（基于 GPT-5.5）来优化代码审查流程。工程师在提交代码后，Codex 能够自动生成初步审查意见、发现潜在问题并提出改进建议，从而大幅减少人工审查的等待时间。这一实践使团队能够更快速地迭代和交付功能，同时保持代码质量。文章还讨论了实施过程中的关键经验，包括模型调优、反馈循环设计以及团队协作模式的调整。",
+  "tags": [
+    "代码审查",
+    "Codex",
+    "GPT-5.5",
+    "Ramp",
+    "AI 辅助开发",
+    "工程效率"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "collected_at": "2026-05-25T19:23:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

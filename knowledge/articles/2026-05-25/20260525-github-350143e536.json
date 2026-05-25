@@ -1,0 +1,31 @@
+{
+  "id": "20260525-github-350143e536",
+  "title": "google/syzkaller",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/syzkaller",
+  "summary": "syzkaller 是一个无监督的、覆盖引导的内核模糊测试工具。",
+  "content": "syzkaller 是由 Google 开发的一款无监督的覆盖引导内核模糊测试工具。它通过自动生成系统调用序列来测试操作系统内核，并利用代码覆盖率反馈来指导测试过程，从而发现内核中的漏洞和错误。该工具支持多种操作系统，包括 Linux、Android、FreeBSD 等，是内核安全测试领域的重要工具。",
+  "tags": [
+    "内核模糊测试",
+    "安全测试",
+    "覆盖引导",
+    "Google",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-25T19:23:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 6198,
+    "forks": 1416,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

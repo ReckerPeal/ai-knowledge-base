@@ -1,0 +1,35 @@
+{
+  "id": "20260525-github-077945df9b",
+  "title": "sansan0/TrendRadar",
+  "source": "github_trending",
+  "source_url": "https://github.com/sansan0/TrendRadar",
+  "summary": "TrendRadar 是一个 AI 驱动的舆情与趋势监控工具，支持多平台热点聚合、RSS 订阅和智能推送。它通过 AI 筛选新闻、翻译和分析简报，并集成微信、飞书、钉钉、Telegram 等多种渠道推送。支持 Docker 部署，数据可本地或云端自持，并兼容 MCP 架构以赋能自然语言对话分析、情感洞察和趋势预测。",
+  "content": "TrendRadar 是一款基于 AI 的舆情监控与热点筛选工具，旨在帮助用户告别信息过载。其核心功能包括：\n- **多平台聚合**：聚合多平台热点和 RSS 订阅，支持关键词精准筛选。\n- **AI 智能处理**：利用 AI 进行新闻筛选、翻译和分析简报生成。\n- **智能推送**：集成微信、飞书、钉钉、Telegram、邮件、ntfy、bark、Slack 等渠道，直推手机。\n- **架构兼容**：支持 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。\n- **部署灵活**：支持 Docker 部署，数据可本地或云端自持。\n该工具适用于需要实时监控舆情和趋势的个人或团队，尤其适合多语言环境下的信息整合与分析。",
+  "tags": [
+    "AI",
+    "舆情监控",
+    "趋势分析",
+    "RSS",
+    "智能推送",
+    "Docker",
+    "MCP",
+    "多平台聚合",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-25T19:22:59+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "sansan0",
+    "stars": 58220,
+    "forks": 24405,
+    "daily_stars": 136,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
