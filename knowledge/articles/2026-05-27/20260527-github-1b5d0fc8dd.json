@@ -1,0 +1,32 @@
+{
+  "id": "20260527-github-1b5d0fc8dd",
+  "title": "firecrawl/pdf-inspector",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/pdf-inspector",
+  "summary": "firecrawl/pdf-inspector 是一个基于 Rust 的高性能 PDF 检查、分类与文本提取库，能够智能识别扫描版与文本版 PDF，支持智能路由决策。",
+  "content": "该库由 firecrawl 开发，在 GitHub 上获得 1318 颗星和 124 个 fork，近期周增星 271 颗，属于 Rust 语言的热门项目。其核心功能包括：快速 PDF 内容检查、文档类型分类（扫描版 vs 文本版）、以及文本提取。通过智能检测，可帮助用户根据 PDF 类型自动选择后续处理流程（如 OCR 或直接解析），适用于文档处理流水线、数据提取等场景。",
+  "tags": [
+    "PDF",
+    "Rust",
+    "文本提取",
+    "文档分类",
+    "扫描检测",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:42+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "firecrawl",
+    "stars": 1318,
+    "forks": 124,
+    "daily_stars": null,
+    "weekly_stars": 271,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

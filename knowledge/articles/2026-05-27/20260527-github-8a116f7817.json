@@ -1,0 +1,33 @@
+{
+  "id": "20260527-github-8a116f7817",
+  "title": "wechat-article/wechat-article-exporter",
+  "source": "github_trending",
+  "source_url": "https://github.com/wechat-article/wechat-article-exporter",
+  "summary": "wechat-article-exporter 是一款在线微信公众号文章批量下载工具，支持导出阅读量与评论数据，无需搭建环境，可通过在线网站使用，并支持 Docker 和 Cloudflare 部署。它支持多种文件格式下载，其中 HTML 格式能 100% 还原文章排版与样式。",
+  "content": "该工具基于 TypeScript 开发，在 GitHub 上获得 10947 颗星和 1907 个 fork，近期周增长 512 星，属于 GitHub 热点项目。核心功能包括：1）批量下载微信公众号文章；2）导出阅读量和评论数据；3）支持在线使用、Docker 私有化部署和 Cloudflare 部署；4）支持 HTML、PDF 等多种格式，HTML 格式可完美保留原始排版。适合需要备份或分析公众号内容的用户。",
+  "tags": [
+    "微信公众号",
+    "文章下载",
+    "批量导出",
+    "Docker部署",
+    "Cloudflare",
+    "TypeScript",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "wechat-article",
+    "stars": 10947,
+    "forks": 1907,
+    "daily_stars": null,
+    "weekly_stars": 512,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

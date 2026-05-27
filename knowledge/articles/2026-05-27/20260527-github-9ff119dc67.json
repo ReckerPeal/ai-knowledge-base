@@ -1,0 +1,34 @@
+{
+  "id": "20260527-github-9ff119dc67",
+  "title": "langfuse/langfuse",
+  "source": "github_trending",
+  "source_url": "https://github.com/langfuse/langfuse",
+  "summary": "Langfuse 是一个开源的 LLM 工程平台，提供 LLM 可观测性、指标、评估、提示管理、沙箱和数据集等功能。它集成了 OpenTelemetry、Langchain、OpenAI SDK、LiteLLM 等工具，是 YC W23 批次的项目。",
+  "content": "Langfuse 是一个用 TypeScript 编写的开源 LLM 工程平台，旨在帮助开发者监控、评估和优化大型语言模型（LLM）应用。其核心功能包括 LLM 可观测性（追踪请求、延迟和成本）、性能指标、模型评估、提示版本管理、交互式沙箱以及数据集管理。该平台与多种流行工具和框架集成，如 OpenTelemetry（用于分布式追踪）、Langchain（用于链式调用）、OpenAI SDK 和 LiteLLM（用于多模型支持）。作为 Y Combinator 2023 年冬季批次的项目，Langfuse 在 GitHub 上获得了 28049 颗星和 2876 个分支，日均新增星标 89 颗，显示出较高的社区关注度。",
+  "tags": [
+    "LLM",
+    "可观测性",
+    "开源",
+    "提示管理",
+    "评估",
+    "TypeScript",
+    "Langchain",
+    "OpenTelemetry"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "langfuse",
+    "stars": 28049,
+    "forks": 2876,
+    "daily_stars": 89,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

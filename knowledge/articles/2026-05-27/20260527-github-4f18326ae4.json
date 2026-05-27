@@ -1,0 +1,33 @@
+{
+  "id": "20260527-github-4f18326ae4",
+  "title": "grafana/mcp-grafana",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "summary": "Grafana 官方推出的 MCP 服务器，用于与 Grafana 数据源和仪表盘进行交互。",
+  "content": "mcp-grafana 是 Grafana 团队开发的一个 MCP（Model Context Protocol）服务器，它允许 AI 助手（如 Claude、Copilot 等）通过标准化的协议直接查询 Grafana 数据源、获取仪表盘信息、执行 PromQL/LogQL 查询等操作。该项目基于 Go 语言实现，提供了与 Grafana API 的无缝集成，使得 AI 能够实时访问监控数据和可视化结果，从而辅助运维和开发人员进行故障排查、性能分析等工作。",
+  "tags": [
+    "Grafana",
+    "MCP",
+    "AI",
+    "监控",
+    "数据可视化",
+    "Go",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3054,
+    "forks": 365,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

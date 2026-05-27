@@ -1,0 +1,33 @@
+{
+  "id": "20260527-github-66d41b8aa3",
+  "title": "humanlayer/12-factor-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/humanlayer/12-factor-agents",
+  "summary": "该项目提出了构建生产级LLM驱动软件的12项原则，旨在解决当前AI应用在可靠性、可维护性和可扩展性方面的不足，为开发者提供一套系统化的设计指南。",
+  "content": "12-Factor Agents 是一套面向LLM驱动软件的设计原则，灵感来源于经典的12-Factor App方法论。它针对AI代理（Agent）在真实生产环境中遇到的常见问题，如状态管理、可观测性、错误处理、安全性和部署等，提出了12条具体原则。这些原则包括：1. 单一职责（每个代理专注于一个任务）；2. 显式依赖（声明所有外部服务与模型）；3. 可配置性（通过环境变量管理配置）；4. 可观测性（日志、追踪、指标）；5. 可恢复性（优雅处理失败与重试）；6. 无状态（外部化状态存储）；7. 可测试性（单元测试与模拟）；8. 安全优先（输入验证、权限控制）；9. 版本控制（模型与提示词版本管理）；10. 渐进式部署（金丝雀发布）；11. 成本意识（Token与API调用优化）；12. 人机协作（人类反馈循环）。该项目在GitHub上获得超过2.2万星标，表明其理念受到广泛关注，尤其适合需要将AI代理投入生产的团队参考。",
+  "tags": [
+    "LLM",
+    "AI代理",
+    "生产级应用",
+    "设计原则",
+    "12-Factor",
+    "软件工程",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "humanlayer",
+    "stars": 22490,
+    "forks": 1696,
+    "daily_stars": null,
+    "weekly_stars": 1393,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

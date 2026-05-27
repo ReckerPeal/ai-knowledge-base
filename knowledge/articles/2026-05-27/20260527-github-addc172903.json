@@ -1,0 +1,33 @@
+{
+  "id": "20260527-github-addc172903",
+  "title": "crowdsecurity/crowdsec",
+  "source": "github_trending",
+  "source_url": "https://github.com/crowdsecurity/crowdsec",
+  "summary": "CrowdSec 是一个开源且参与式的安全解决方案，通过众包方式提供针对恶意 IP 的防护，并允许访问最先进的真实世界网络威胁情报（CTI）。",
+  "content": "CrowdSec 是一款基于 Go 语言开发的开源安全工具，旨在通过社区协作的方式识别和阻止恶意 IP 地址。它借鉴了 Fail2ban 的设计理念，但扩展了功能，支持更复杂的场景和实时威胁情报共享。用户可以通过安装 CrowdSec 代理来监控日志文件，检测可疑行为，并自动将恶意 IP 添加到防火墙规则中。此外，CrowdSec 还提供了一个中央化的 CTI 平台，允许用户贡献和获取最新的威胁数据，从而增强整体网络安全防护能力。该项目在 GitHub 上拥有超过 13,000 颗星，显示出其广泛的社区支持和活跃度。",
+  "tags": [
+    "开源安全",
+    "众包防护",
+    "恶意IP",
+    "威胁情报",
+    "Go语言",
+    "网络安全",
+    "社区协作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "crowdsecurity",
+    "stars": 13618,
+    "forks": 644,
+    "daily_stars": null,
+    "weekly_stars": 230,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

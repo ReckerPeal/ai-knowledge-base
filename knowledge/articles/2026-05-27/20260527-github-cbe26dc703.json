@@ -1,0 +1,32 @@
+{
+  "id": "20260527-github-cbe26dc703",
+  "title": "kubernetes/minikube",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/minikube",
+  "summary": "minikube 是 Kubernetes 官方提供的本地运行工具，旨在帮助开发者在单机上快速搭建和测试 Kubernetes 集群。",
+  "content": "minikube 是 Kubernetes 社区维护的开源项目，支持在本地计算机上运行单节点 Kubernetes 集群。它适用于开发、测试和学习场景，能够快速启动集群并支持多种驱动（如 Docker、Hyper-V、VirtualBox 等）。项目拥有超过 3.1 万星标，是 Go 语言实现的经典工具，被广泛用于简化 Kubernetes 的本地开发体验。",
+  "tags": [
+    "Kubernetes",
+    "minikube",
+    "本地开发",
+    "Go",
+    "容器编排",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:35+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 31827,
+    "forks": 5235,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

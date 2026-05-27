@@ -1,0 +1,32 @@
+{
+  "id": "20260527-github-0ded3dd59a",
+  "title": "microsoft/playwright-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/playwright-cli",
+  "summary": "microsoft/playwright-cli 是一个用于常见 Playwright 操作的命令行工具，支持录制和生成 Playwright 代码、检查选择器以及截取屏幕截图。",
+  "content": "该仓库由微软维护，提供 CLI 接口以简化 Playwright 的使用流程。核心功能包括：1) 通过用户交互自动录制并生成 Playwright 测试脚本；2) 实时检查和调试页面元素的选择器；3) 快速截取网页或特定元素的屏幕截图。项目使用 TypeScript 开发，在 GitHub 上获得超过 1 万星标，日增约 50 星，表明其受到开发者社区的广泛关注。",
+  "tags": [
+    "Playwright",
+    "CLI",
+    "测试工具",
+    "自动化",
+    "TypeScript",
+    "微软"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-27T19:12:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 10756,
+    "forks": 561,
+    "daily_stars": 50,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
