@@ -1,0 +1,29 @@
+{
+  "id": "20260528-github-4a3a541121",
+  "title": "How to Use Transformers.js in a Chrome Extension",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+  "summary": "本文介绍了如何在 Chrome 扩展中使用 Transformers.js 库，实现在浏览器端直接运行机器学习模型，无需后端服务器。",
+  "content": "该博客文章详细讲解了将 Transformers.js 集成到 Chrome 扩展中的步骤，包括环境配置、模型加载、推理执行以及消息传递等关键环节。通过具体示例，展示了如何利用 Web 端 Transformer 模型进行文本分类、情感分析等任务，并讨论了性能优化和隐私保护的优势。",
+  "tags": [
+    "Transformers.js",
+    "Chrome 扩展",
+    "机器学习",
+    "浏览器端推理",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "collected_at": "2026-05-28T21:30:35+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

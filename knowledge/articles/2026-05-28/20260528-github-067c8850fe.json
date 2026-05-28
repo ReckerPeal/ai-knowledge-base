@@ -1,0 +1,35 @@
+{
+  "id": "20260528-github-067c8850fe",
+  "title": "wiltodelta/remove-ai-watermarks",
+  "source": "github_trending",
+  "source_url": "https://github.com/wiltodelta/remove-ai-watermarks",
+  "summary": "一个用于去除AI生成图像中可见和不可见水印及来源元数据的CLI和Python库，支持SynthID、C2PA、EXIF/XMP等标记。",
+  "content": "该项目提供命令行工具和Python库，能够从AI生成的图像中剥离多种类型的水印和元数据，包括可见水印、不可见水印（如SynthID）、C2PA来源信息、EXIF/XMP中的“Made with AI”标记以及Gemini sparkle等。它旨在帮助用户清除AI生成内容中的识别痕迹，但可能引发关于版权和伦理的讨论。",
+  "tags": [
+    "AI水印",
+    "元数据清理",
+    "Python库",
+    "CLI工具",
+    "图像处理",
+    "SynthID",
+    "C2PA",
+    "EXIF",
+    "XMP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "wiltodelta",
+    "stars": 2611,
+    "forks": 219,
+    "daily_stars": null,
+    "weekly_stars": 1491,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

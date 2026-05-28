@@ -1,0 +1,32 @@
+{
+  "id": "20260528-github-66d41b8aa3",
+  "title": "humanlayer/12-factor-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/humanlayer/12-factor-agents",
+  "summary": "该项目提出了构建生产级 LLM 应用的 12 条原则，旨在指导开发者创建足够可靠、可投入实际客户使用的 AI 软件。",
+  "content": "该仓库名为 '12-factor-agents'，由 humanlayer 创建，是一个 TypeScript 项目，旨在定义一套原则，用于构建基于大语言模型（LLM）的、能够达到生产环境要求的软件。项目灵感可能来源于经典的 12-Factor App 方法论，但针对 LLM 代理（agents）的特性进行了调整。它关注如何使 LLM 驱动的应用在可靠性、可维护性、可观测性和安全性等方面满足实际部署需求。仓库在 GitHub 上获得了大量关注（22661 星，1715 分支），近期周增长 1127 星，表明社区对其理念有较高兴趣。",
+  "tags": [
+    "LLM",
+    "生产级应用",
+    "12-Factor",
+    "AI代理",
+    "最佳实践",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "humanlayer",
+    "stars": 22661,
+    "forks": 1715,
+    "daily_stars": null,
+    "weekly_stars": 1127,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260528-github-15f00886d5",
+  "title": "AdguardTeam/AdGuardHome",
+  "source": "github_trending",
+  "source_url": "https://github.com/AdguardTeam/AdGuardHome",
+  "summary": "AdGuardHome 是一个全网范围的广告和跟踪器拦截 DNS 服务器，可保护所有联网设备免受广告和隐私追踪。",
+  "content": "AdGuardHome 是一款开源的、自托管的网络级广告和跟踪器拦截 DNS 服务器。它通过拦截 DNS 请求来阻止广告、跟踪器、恶意软件和钓鱼网站，从而保护整个网络中的所有设备（包括无法安装客户端软件的 IoT 设备）。该软件支持 DNS-over-HTTPS、DNS-over-TLS 和 DNSCrypt 等加密协议，提供详细的查询日志和统计信息，并具有简洁的 Web 管理界面。它可作为家庭或小型企业网络的中心化广告拦截解决方案，无需在每个设备上单独安装客户端。",
+  "tags": [
+    "DNS",
+    "广告拦截",
+    "隐私保护",
+    "自托管",
+    "网络过滤",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:35+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "AdguardTeam",
+    "stars": 34407,
+    "forks": 2361,
+    "daily_stars": null,
+    "weekly_stars": 306,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

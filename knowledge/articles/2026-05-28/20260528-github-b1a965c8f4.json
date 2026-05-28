@@ -1,0 +1,33 @@
+{
+  "id": "20260528-github-b1a965c8f4",
+  "title": "ultralytics/ultralytics",
+  "source": "github_trending",
+  "source_url": "https://github.com/ultralytics/ultralytics",
+  "summary": "Ultralytics YOLO 是一个基于 PyTorch 的实时目标检测与图像分割模型库，提供 YOLOv8 等先进算法，支持训练、推理和部署，广泛应用于计算机视觉任务。",
+  "content": "Ultralytics YOLO 是当前最流行的目标检测框架之一，由 Ultralytics 团队维护。该仓库集成了 YOLOv8 系列模型，包括目标检测、实例分割、姿态估计和图像分类等功能。它提供了简洁的 Python API 和命令行工具，支持自定义数据集训练、模型导出（ONNX、TensorRT、CoreML 等）以及多平台部署（CPU、GPU、边缘设备）。项目拥有超过 5.7 万星标和 1.1 万分支，社区活跃，文档完善，是计算机视觉领域的重要开源项目。",
+  "tags": [
+    "目标检测",
+    "YOLOv8",
+    "计算机视觉",
+    "深度学习",
+    "PyTorch",
+    "图像分割",
+    "实时推理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:19+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "ultralytics",
+    "stars": 57707,
+    "forks": 11077,
+    "daily_stars": 55,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

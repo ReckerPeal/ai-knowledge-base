@@ -1,0 +1,33 @@
+{
+  "id": "20260528-github-c9c2f53f7d",
+  "title": "grpc-ecosystem/grpc-gateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/grpc-ecosystem/grpc-gateway",
+  "summary": "grpc-gateway 是一个 gRPC 到 JSON 代理生成器，遵循 gRPC HTTP 规范，允许通过 HTTP/JSON 调用 gRPC 服务。",
+  "content": "grpc-gateway 是 gRPC 生态系统中的一个重要工具，它能够根据 gRPC 服务定义自动生成反向代理服务器，将 HTTP/JSON 请求转换为 gRPC 调用。该项目严格遵循 gRPC HTTP 规范，使得开发者可以同时支持 gRPC 和 RESTful API，而无需手动编写额外的适配代码。它支持多种语言，但主要实现语言为 Go，拥有近 2 万星标，社区活跃，是构建微服务网关的常用选择。",
+  "tags": [
+    "gRPC",
+    "JSON",
+    "代理生成器",
+    "HTTP 规范",
+    "Go",
+    "微服务",
+    "API 网关"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:26+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "grpc-ecosystem",
+    "stars": 19895,
+    "forks": 2380,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

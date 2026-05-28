@@ -1,0 +1,32 @@
+{
+  "id": "20260528-github-f8312ae5be",
+  "title": "git-ai-project/git-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/git-ai-project/git-ai",
+  "summary": "git-ai 是一个 Git 扩展，用于追踪仓库中由 AI 生成的代码。",
+  "content": "git-ai 是一个用 Rust 编写的 Git 扩展，旨在帮助开发者识别和追踪项目中由 AI 生成的代码。它通过集成到 Git 工作流中，自动标记 AI 生成的提交或代码片段，提供可视化的统计和报告功能。该工具适用于需要管理 AI 辅助开发流程的团队，有助于代码审查、合规性检查和透明度提升。项目在 GitHub 上获得 1980 星，187 个 fork，每日新增约 10 星，属于 Rust 生态中的热门工具。",
+  "tags": [
+    "Git",
+    "AI",
+    "代码追踪",
+    "Rust",
+    "Git 扩展",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "git-ai-project",
+    "stars": 1980,
+    "forks": 187,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

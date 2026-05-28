@@ -1,0 +1,31 @@
+{
+  "id": "20260528-github-40a6a1c119",
+  "title": "spaceandtimefdn/sxt-proof-of-sql",
+  "source": "github_trending",
+  "source_url": "https://github.com/spaceandtimefdn/sxt-proof-of-sql",
+  "summary": "Space and Time 的 Proof of SQL 项目，一个基于 Rust 的零知识证明（ZK）实现，用于验证 SQL 查询的完整性。",
+  "content": "该项目由 spaceandtimefdn 开发，旨在通过零知识证明技术确保 SQL 查询结果的正确性和完整性，无需信任第三方。它允许用户在不暴露原始数据的情况下，验证数据库查询是否被正确执行。项目使用 Rust 语言实现，具有高性能和安全性。当前在 GitHub 上获得 5435 颗星和 531 个分支，属于热门 Rust 项目。",
+  "tags": [
+    "零知识证明",
+    "SQL 验证",
+    "Rust",
+    "区块链",
+    "数据完整性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-28T21:30:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "spaceandtimefdn",
+    "stars": 5435,
+    "forks": 531,
+    "daily_stars": null,
+    "weekly_stars": 1,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
