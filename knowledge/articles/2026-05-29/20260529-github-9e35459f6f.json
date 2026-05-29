@@ -1,0 +1,30 @@
+{
+  "id": "20260529-github-9e35459f6f",
+  "title": "Various LLM Smells",
+  "source": "rss",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "summary": "本文探讨了大型语言模型（LLM）在应用中常见的各种问题与陷阱，即“LLM 气味”，旨在帮助开发者识别并避免这些潜在缺陷。",
+  "content": "文章详细列举了 LLM 使用中的典型问题，包括但不限于：模型输出不一致、幻觉现象、对提示词的过度敏感、上下文窗口限制导致的遗忘、以及安全与偏见问题。作者通过具体案例分析了这些“气味”的产生原因，并提供了实用的检测与缓解策略，如改进提示工程、引入外部知识库、实施输出验证等。文章强调，理解这些局限性对于构建可靠、高效的 LLM 应用至关重要。",
+  "tags": [
+    "LLM",
+    "大语言模型",
+    "模型缺陷",
+    "提示工程",
+    "AI 安全",
+    "最佳实践"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-28T19:02:18+00:00",
+  "collected_at": "2026-05-29T19:05:59+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

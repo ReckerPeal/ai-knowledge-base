@@ -1,0 +1,31 @@
+{
+  "id": "20260529-github-ec453ee102",
+  "title": "linebender/vello",
+  "source": "github_trending",
+  "source_url": "https://github.com/linebender/vello",
+  "summary": "Vello 是一个以 GPU 计算为核心的 2D 渲染器，使用 Rust 语言开发，旨在利用现代 GPU 的计算能力实现高性能的 2D 图形渲染。",
+  "content": "Vello 是一个专注于 GPU 计算的高性能 2D 渲染器，由 linebender 团队开发。它利用计算着色器（compute shaders）来加速渲染管线，从而在 GPU 上高效处理复杂的 2D 图形操作，如路径填充、描边、渐变和变换等。该项目采用 Rust 语言编写，强调安全性和并发性，适用于需要高性能 2D 渲染的应用场景，如用户界面、游戏和可视化工具。Vello 的设计理念是减少 CPU 负担，将渲染任务尽可能交给 GPU，以实现流畅的交互体验。目前该项目在 GitHub 上获得了 4044 颗星和 255 个 fork，显示出社区的高度关注。",
+  "tags": [
+    "GPU 计算",
+    "2D 渲染",
+    "Rust",
+    "计算着色器",
+    "高性能图形"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "linebender",
+    "stars": 4044,
+    "forks": 255,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

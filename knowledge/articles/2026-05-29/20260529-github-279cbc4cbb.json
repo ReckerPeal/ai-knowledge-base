@@ -1,0 +1,31 @@
+{
+  "id": "20260529-github-279cbc4cbb",
+  "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+  "summary": "本文通过从玩具示例到Hardcaml模拟的渐进式讲解，深入探讨了代数效应（Algebraic Effects）的概念及其在编程中的应用。作者展示了代数效应如何简化复杂控制流，并最终将其应用于硬件模拟领域，体现了函数式编程思想在系统设计中的价值。",
+  "content": "文章以代数效应为核心，首先通过简单的玩具示例（如异常处理、状态管理）直观解释代数效应的基本机制，随后逐步引入更复杂的场景，包括协程、生成器以及并发控制。最后，作者将代数效应应用于Hardcaml（一个OCaml硬件描述库）的模拟中，展示了如何利用效应处理来模块化硬件设计中的状态和交互，从而提升代码的可组合性和可测试性。全文强调代数效应作为一种抽象工具，能够统一处理多种控制流模式，并降低系统复杂度。",
+  "tags": [
+    "代数效应",
+    "函数式编程",
+    "Hardcaml",
+    "硬件模拟",
+    "OCaml",
+    "控制流",
+    "编程语言理论"
+  ],
+  "status": "draft",
+  "published_at": "2026-01-07T22:05:27-06:00",
+  "collected_at": "2026-05-29T19:05:59+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

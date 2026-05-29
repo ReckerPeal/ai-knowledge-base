@@ -1,0 +1,32 @@
+{
+  "id": "20260529-github-9a3e9e5746",
+  "title": "GoogleCloudPlatform/microservices-demo",
+  "source": "github_trending",
+  "source_url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+  "summary": "GoogleCloudPlatform/microservices-demo 是一个示例云优先应用程序，包含10个微服务，展示了 Kubernetes、Istio 和 gRPC 的使用。",
+  "content": "该仓库由 GoogleCloudPlatform 维护，是一个用于演示云原生微服务架构的示例项目。它包含10个独立的微服务，每个服务使用不同的技术栈（如 Go、Node.js、Python 等），并通过 gRPC 进行通信。项目集成了 Kubernetes 进行容器编排，Istio 提供服务网格功能，如流量管理、安全性和可观测性。该仓库在 GitHub 上拥有 20365 颗星和 9969 个分支，近期周增星数达 98，属于 GitHub 热点项目中的 Go 类别。",
+  "tags": [
+    "微服务",
+    "Kubernetes",
+    "Istio",
+    "gRPC",
+    "云原生",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:59+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "GoogleCloudPlatform",
+    "stars": 20365,
+    "forks": 9969,
+    "daily_stars": null,
+    "weekly_stars": 98,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260529-github-43af7aef67",
+  "title": "etcd-io/etcd",
+  "source": "github_trending",
+  "source_url": "https://github.com/etcd-io/etcd",
+  "summary": "etcd 是一个用于分布式系统关键数据的可靠键值存储库。",
+  "content": "etcd 是一个分布式、可靠的键值存储系统，专为分布式系统中的关键数据而设计。它使用 Raft 共识算法来保证强一致性和高可用性，常用于服务发现、配置管理和分布式协调等场景。该项目由 etcd-io 组织维护，在 GitHub 上拥有 51,737 颗星和 10,376 个分支，是 Go 语言生态中重要的基础设施组件。",
+  "tags": [
+    "etcd",
+    "分布式系统",
+    "键值存储",
+    "Raft",
+    "Go",
+    "服务发现",
+    "配置管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:59+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "etcd-io",
+    "stars": 51737,
+    "forks": 10376,
+    "daily_stars": null,
+    "weekly_stars": 55,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

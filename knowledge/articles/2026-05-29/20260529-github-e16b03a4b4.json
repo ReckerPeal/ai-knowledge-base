@@ -1,0 +1,35 @@
+{
+  "id": "20260529-github-e16b03a4b4",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source": "github_trending",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "summary": "PaddleOCR 是一个强大的轻量级 OCR 工具包，能够将任何 PDF 或图像文档转换为结构化数据，支持 100 多种语言，桥接图像/PDF 与大型语言模型（LLM）之间的鸿沟。",
+  "content": "PaddleOCR 由 PaddlePaddle 团队开发，是一个基于深度学习的 OCR 工具包，旨在高效地从图像和 PDF 中提取文本信息。它支持超过 100 种语言的文本识别，包括中文、英文、日文等，并提供轻量级模型，适合在资源受限的环境中部署。该工具包不仅包含文本检测和识别功能，还支持文档结构分析，能够将非结构化文档转换为结构化数据，便于后续 AI 应用（如 LLM）处理。PaddleOCR 在 GitHub 上拥有 78,939 颗星和 10,518 个分支，每日新增约 148 颗星，显示出极高的社区活跃度和广泛的应用场景。其核心技术包括基于卷积神经网络（CNN）和循环神经网络（RNN）的模型，以及注意力机制，确保高精度和快速推理。",
+  "tags": [
+    "OCR",
+    "PaddlePaddle",
+    "文档处理",
+    "图像识别",
+    "Python",
+    "深度学习",
+    "LLM",
+    "结构化数据",
+    "多语言"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:42+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "PaddlePaddle",
+    "stars": 78939,
+    "forks": 10518,
+    "daily_stars": 148,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

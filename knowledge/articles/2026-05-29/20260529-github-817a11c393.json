@@ -1,0 +1,31 @@
+{
+  "id": "20260529-github-817a11c393",
+  "title": "prometheus/prometheus",
+  "source": "github_trending",
+  "source_url": "https://github.com/prometheus/prometheus",
+  "summary": "Prometheus 监控系统与时间序列数据库",
+  "content": "Prometheus 是一个开源的系统监控和警报工具包，最初由 SoundCloud 构建，现已成为云原生计算基金会（CNCF）的毕业项目。它通过拉取（pull）方式收集指标数据，并支持通过 PromQL 查询语言进行灵活的数据分析和告警。该项目在 GitHub 上拥有 64,181 颗星和 10,452 个分支，每日新增约 11 颗星，每周新增约 105 颗星，显示出持续的活跃度和社区关注。",
+  "tags": [
+    "监控",
+    "时间序列数据库",
+    "Prometheus",
+    "Go",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:49+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "prometheus",
+    "stars": 64181,
+    "forks": 10452,
+    "daily_stars": 11,
+    "weekly_stars": 105,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

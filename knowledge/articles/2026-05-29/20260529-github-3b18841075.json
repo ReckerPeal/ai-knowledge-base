@@ -1,0 +1,36 @@
+{
+  "id": "20260529-github-3b18841075",
+  "title": "blakeblackshear/frigate",
+  "source": "github_trending",
+  "source_url": "https://github.com/blakeblackshear/frigate",
+  "summary": "Frigate 是一个面向 IP 摄像头的实时本地目标检测 NVR（网络视频录像机）系统。",
+  "content": "Frigate 是一个开源项目，旨在为 IP 摄像头提供实时本地目标检测功能。它利用 AI 技术（如 TensorFlow 或 OpenVINO）在本地设备上运行目标检测模型，无需依赖云服务，从而保护隐私并降低延迟。该项目支持多种摄像头协议（如 RTSP），并集成了 Home Assistant 等智能家居平台。Frigate 的核心优势在于其高效的实时检测能力，能够识别人员、车辆、动物等对象，并提供事件记录和通知功能。它适用于家庭安防、监控自动化等场景，用户可以通过 Web 界面或 API 进行配置和管理。",
+  "tags": [
+    "NVR",
+    "目标检测",
+    "IP摄像头",
+    "实时检测",
+    "本地AI",
+    "Home Assistant",
+    "开源",
+    "隐私保护",
+    "视频监控",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:54+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "blakeblackshear",
+    "stars": 33352,
+    "forks": 3224,
+    "daily_stars": null,
+    "weekly_stars": 1308,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

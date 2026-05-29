@@ -1,0 +1,35 @@
+{
+  "id": "20260529-github-32d9e6b147",
+  "title": "bia-pain-bache/BPB-Worker-Panel",
+  "source": "github_trending",
+  "source_url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+  "summary": "BPB-Worker-Panel 是一个基于 Worker 的图形化面板，提供 VLESS、Trojan 和 Warp 配置的订阅服务，集成了私有 DoH 服务器和链式代理，支持完整的 DNS、Clean IP、Fragment、Warp、Warp Pro 及路由设置，兼容 Amnezia、Wireguard、Sing-box、Clash/Mihomo 和 Xray 核心的跨平台客户端。",
+  "content": "BPB-Worker-Panel 是一个功能丰富的图形化面板，专为网络代理和 VPN 配置管理而设计。它通过 Worker 订阅机制，为用户提供 VLESS、Trojan 和 Warp 等多种协议的配置。该面板不仅包含一个私有 DNS-over-HTTPS (DoH) 服务器，还支持链式代理，允许用户构建复杂的代理链。在功能设置上，它覆盖了完整的 DNS 解析、Clean IP 过滤、数据包分片 (Fragment)、Warp 和 Warp Pro 加速，以及灵活的路由规则。此外，该面板兼容多种主流客户端核心，包括 Amnezia、Wireguard、Sing-box、Clash/Mihomo 和 Xray，从而支持跨平台使用。该项目在 GitHub 上获得了超过 1 万颗星和 3.1 万个 Fork，显示出较高的社区关注度。",
+  "tags": [
+    "Worker Panel",
+    "VLESS",
+    "Trojan",
+    "Warp",
+    "DoH",
+    "代理配置",
+    "跨平台",
+    "GitHub 热点",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-29T19:05:44+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "bia-pain-bache",
+    "stars": 10611,
+    "forks": 31420,
+    "daily_stars": 44,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
