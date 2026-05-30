@@ -1,0 +1,32 @@
+{
+  "id": "20260530-github-ff7f8661bc",
+  "title": "prometheus/client_golang",
+  "source": "github_trending",
+  "source_url": "https://github.com/prometheus/client_golang",
+  "summary": "Prometheus 官方 Go 客户端库，用于在 Go 应用中集成 Prometheus 监控指标采集与暴露。",
+  "content": "prometheus/client_golang 是 Prometheus 监控系统的官方 Go 语言客户端库，提供指标注册、HTTP 处理、自定义收集器等功能，支持 Counter、Gauge、Histogram、Summary 等核心指标类型，并内置了 Go 运行时指标、进程指标等自动采集。该库广泛应用于云原生和微服务架构中的可观测性建设。",
+  "tags": [
+    "Prometheus",
+    "Go",
+    "监控",
+    "指标采集",
+    "可观测性",
+    "客户端库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-30T18:34:39+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "prometheus",
+    "stars": 5979,
+    "forks": 1277,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

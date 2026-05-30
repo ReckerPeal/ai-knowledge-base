@@ -1,0 +1,33 @@
+{
+  "id": "20260530-github-ce49fe8e0c",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "summary": "AWS上基础模型训练与推理的构建模块 — 本文介绍了在AWS上进行基础模型（Foundation Model）训练和推理所需的核心构建模块，包括计算资源、存储、网络以及相关服务的最佳实践。文章详细讨论了如何利用AWS的GPU实例（如P4d、P5）、Amazon EFS、FSx for Lustre等存储方案，以及Amazon SageMaker、Amazon Bedrock等托管服务来高效地训练和…",
+  "content": "本文介绍了在AWS上进行基础模型（Foundation Model）训练和推理所需的核心构建模块，包括计算资源、存储、网络以及相关服务的最佳实践。文章详细讨论了如何利用AWS的GPU实例（如P4d、P5）、Amazon EFS、FSx for Lustre等存储方案，以及Amazon SageMaker、Amazon Bedrock等托管服务来高效地训练和部署大型语言模型。此外，还涵盖了分布式训练策略、模型并行化技术以及推理优化方法，旨在帮助开发者和企业在AWS云上构建可扩展的基础模型工作流。",
+  "tags": [
+    "AWS",
+    "基础模型",
+    "训练",
+    "推理",
+    "构建模块",
+    "GPU",
+    "SageMaker",
+    "Bedrock",
+    "分布式训练"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-11T23:18:26+00:00",
+  "collected_at": "2026-05-30T18:34:47+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
