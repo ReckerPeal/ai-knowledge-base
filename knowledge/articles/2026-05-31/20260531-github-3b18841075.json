@@ -1,0 +1,33 @@
+{
+  "id": "20260531-github-3b18841075",
+  "title": "blakeblackshear/frigate",
+  "source": "github_trending",
+  "source_url": "https://github.com/blakeblackshear/frigate",
+  "summary": "Frigate 是一个面向 IP 摄像头的网络录像机（NVR），具备实时本地物体检测功能。",
+  "content": "Frigate 是一个开源的网络录像机（NVR）系统，专为 IP 摄像头设计，核心特点是利用本地硬件（如 Google Coral TPU）进行实时物体检测，无需依赖云端服务。它支持多种摄像头协议（如 RTSP），提供低延迟的视频流处理和智能告警。该项目在 GitHub 上拥有 33415 颗星和 3237 个分支，近期周增星 913 颗，社区活跃度高。主要使用 TypeScript 开发，适合家庭安全、监控和自动化场景。",
+  "tags": [
+    "NVR",
+    "物体检测",
+    "IP摄像头",
+    "本地AI",
+    "开源",
+    "TypeScript",
+    "监控"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-31T18:39:06+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "blakeblackshear",
+    "stars": 33415,
+    "forks": 3237,
+    "daily_stars": null,
+    "weekly_stars": 913,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

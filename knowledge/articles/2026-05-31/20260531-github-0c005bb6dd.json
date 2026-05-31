@@ -1,0 +1,33 @@
+{
+  "id": "20260531-github-0c005bb6dd",
+  "title": "mmalmi/nostr-vpn",
+  "source": "github_trending",
+  "source_url": "https://github.com/mmalmi/nostr-vpn",
+  "summary": "nostr-vpn 是一个基于 Rust 开发的 VPN 实现，利用 Nostr 协议进行去中心化通信和密钥管理，旨在提供隐私保护与抗审查的网络访问能力。",
+  "content": "该项目由 mmalmi 开发，在 GitHub 上获得 861 星和 82 个 fork，近期周增长 257 星，属于 Rust 语言的热门项目。它结合了 Nostr 协议的去中心化特性与 VPN 功能，允许用户通过 Nostr 密钥对进行身份验证和会话管理，从而绕过传统 VPN 的中心化瓶颈。核心优势包括：无需信任第三方服务器、支持端到端加密、以及基于 Nostr 事件的消息路由。适合对隐私敏感的用户、去中心化网络研究者以及 Rust 开发者参考。",
+  "tags": [
+    "VPN",
+    "Nostr",
+    "去中心化",
+    "隐私保护",
+    "Rust",
+    "抗审查",
+    "加密通信"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-31T18:39:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "mmalmi",
+    "stars": 861,
+    "forks": 82,
+    "daily_stars": null,
+    "weekly_stars": 257,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

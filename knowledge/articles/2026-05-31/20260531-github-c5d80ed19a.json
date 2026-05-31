@@ -1,0 +1,33 @@
+{
+  "id": "20260531-github-c5d80ed19a",
+  "title": "projectcalico/calico",
+  "source": "github_trending",
+  "source_url": "https://github.com/projectcalico/calico",
+  "summary": "Calico 是一个云原生网络与安全解决方案，提供高性能的网络连接和策略管理。",
+  "content": "Calico 是一个开源的云原生网络与安全项目，专为容器、虚拟机及裸机工作负载设计。它基于 Kubernetes 等编排平台，提供可扩展的网络连接、网络策略执行以及安全隔离功能。Calico 使用纯 IP 网络（如 BGP）实现高效路由，并支持 eBPF 技术以提升性能。该项目由 projectcalico 组织维护，拥有 7227 颗星和 1571 个分支，是 GitHub 上 Go 语言的热门项目之一。",
+  "tags": [
+    "云原生",
+    "网络",
+    "安全",
+    "Kubernetes",
+    "Go",
+    "eBPF",
+    "BGP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-31T18:39:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "projectcalico",
+    "stars": 7227,
+    "forks": 1571,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

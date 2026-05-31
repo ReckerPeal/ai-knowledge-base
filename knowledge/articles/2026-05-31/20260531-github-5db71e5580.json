@@ -1,0 +1,32 @@
+{
+  "id": "20260531-github-5db71e5580",
+  "title": "golang-jwt/jwt",
+  "source": "github_trending",
+  "source_url": "https://github.com/golang-jwt/jwt",
+  "summary": "golang-jwt/jwt 是一个用 Go 语言实现的 JSON Web Tokens (JWT) 库，提供 JWT 的生成、验证和解析功能。",
+  "content": "该仓库是 Go 社区广泛使用的 JWT 实现，支持标准 JWT 规范（如 RFC 7519），包括签名算法（如 HMAC、RSA、ECDSA）和自定义声明。项目由 golang-jwt 组织维护，拥有 9105 颗星和 433 个 fork，在 GitHub 上属于 Go 语言热点项目。它适用于需要安全令牌认证的 Go 应用，如 API 鉴权、单点登录等场景。",
+  "tags": [
+    "Go",
+    "JWT",
+    "JSON Web Tokens",
+    "认证",
+    "安全",
+    "令牌"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-31T18:39:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "golang-jwt",
+    "stars": 9105,
+    "forks": 433,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260531-github-885b9f75e7",
+  "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+  "summary": "ITBench-AA 是首个针对企业 IT 代理任务的基准测试，由 Artificial Analysis 和 IBM 联合发布。测试结果显示，前沿 AI 模型的得分均低于 50%，表明当前模型在企业级 IT 自动化任务中仍存在显著不足。",
+  "content": "该博客文章介绍了 ITBench-AA 基准测试，旨在评估 AI 代理在企业 IT 场景中的表现。测试涵盖多种典型任务，如系统管理、故障排查和配置变更。结果显示，包括 GPT-4、Claude 等在内的前沿模型得分均未超过 50%，突显了当前 AI 在复杂企业环境中的局限性。文章还讨论了基准测试的设计原则、任务分类以及未来改进方向。",
+  "tags": [
+    "AI",
+    "基准测试",
+    "企业IT",
+    "代理",
+    "IBM",
+    "Artificial Analysis",
+    "IT自动化"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-27T17:20:29+00:00",
+  "collected_at": "2026-05-31T18:39:11+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

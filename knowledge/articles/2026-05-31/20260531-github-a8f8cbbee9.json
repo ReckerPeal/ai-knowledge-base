@@ -1,0 +1,32 @@
+{
+  "id": "20260531-github-a8f8cbbee9",
+  "title": "redis/go-redis",
+  "source": "github_trending",
+  "source_url": "https://github.com/redis/go-redis",
+  "summary": "Redis 官方提供的 Go 语言客户端库，支持 Redis 核心功能与集群、哨兵等高级特性。",
+  "content": "go-redis 是 Redis 官方维护的 Go 语言客户端，提供对 Redis 数据结构的全面支持，包括字符串、哈希、列表、集合、有序集合、流、地理空间等。支持连接池、哨兵模式、集群模式、管道、事务、发布/订阅、Lua 脚本、TLS 加密连接等高级功能。该库性能优异，API 设计简洁，是 Go 生态中最流行的 Redis 客户端之一。",
+  "tags": [
+    "Redis",
+    "Go",
+    "客户端",
+    "数据库",
+    "缓存",
+    "官方"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-05-31T18:39:01+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "redis",
+    "stars": 22118,
+    "forks": 2555,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
