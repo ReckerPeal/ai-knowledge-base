@@ -1,0 +1,31 @@
+{
+  "id": "20260601-github-47f660273c",
+  "title": "google/go-github",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/go-github",
+  "summary": "Google 开发的 Go 语言库，用于访问 GitHub v3 API。",
+  "content": "该仓库是 Google 官方维护的 Go 语言客户端库，提供对 GitHub REST API v3 的完整封装。支持认证、分页、速率限制等核心功能，并覆盖 Issues、Pull Requests、Repositories 等主要 API 端点。代码质量高，文档完善，是 Go 生态中与 GitHub 交互的标准选择。",
+  "tags": [
+    "Go",
+    "GitHub API",
+    "Google",
+    "v3 API",
+    "客户端库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 11231,
+    "forks": 2232,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

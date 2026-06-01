@@ -1,0 +1,33 @@
+{
+  "id": "20260601-github-9b83625ae5",
+  "title": "grpc/grpc-rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/grpc/grpc-rust",
+  "summary": "grpc/grpc-rust 是一个用 Rust 语言实现的 gRPC 原生客户端与服务器库，支持 async/await 异步编程模型。",
+  "content": "该仓库由 grpc 组织维护，在 GitHub 上获得了 12209 颗星和 1216 个分支，属于 Rust 生态中的热门项目。它提供了完整的 gRPC 协议实现，包括客户端和服务端，并充分利用 Rust 的异步特性（async/await）来提升并发性能。项目适合需要高性能、类型安全的 gRPC 通信的 Rust 应用场景。",
+  "tags": [
+    "gRPC",
+    "Rust",
+    "async/await",
+    "客户端",
+    "服务器",
+    "网络编程",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:59+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "grpc",
+    "stars": 12209,
+    "forks": 1216,
+    "daily_stars": null,
+    "weekly_stars": 91,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

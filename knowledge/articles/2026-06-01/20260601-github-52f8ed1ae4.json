@@ -1,0 +1,33 @@
+{
+  "id": "20260601-github-52f8ed1ae4",
+  "title": "projectdiscovery/katana",
+  "source": "github_trending",
+  "source_url": "https://github.com/projectdiscovery/katana",
+  "summary": "Katana 是一个由 projectdiscovery 开发的下一代爬虫和蜘蛛框架，专为高效、可扩展的网页内容抓取设计，支持多种自定义选项和集成。",
+  "content": "Katana 是一个用 Go 语言编写的开源爬虫框架，旨在提供快速、灵活的网页爬取和蜘蛛功能。它支持异步操作、自定义请求头、Cookie 管理、代理设置以及多种输出格式（如 JSON、CSV）。Katana 还集成了 projectdiscovery 的其他工具（如 nuclei），可用于安全测试和漏洞扫描。其设计注重性能，能够处理大规模爬取任务，并提供了丰富的命令行选项和 API 接口。",
+  "tags": [
+    "爬虫",
+    "蜘蛛",
+    "Go",
+    "projectdiscovery",
+    "安全测试",
+    "网页抓取",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:59:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "projectdiscovery",
+    "stars": 16914,
+    "forks": 1131,
+    "daily_stars": null,
+    "weekly_stars": 157,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

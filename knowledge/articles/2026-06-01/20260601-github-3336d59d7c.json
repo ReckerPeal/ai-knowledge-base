@@ -1,0 +1,34 @@
+{
+  "id": "20260601-github-3336d59d7c",
+  "title": "nicobailon/pi-subagents",
+  "source": "github_trending",
+  "source_url": "https://github.com/nicobailon/pi-subagents",
+  "summary": "Pi-subagents 是一个 TypeScript 编写的 Pi 扩展，用于实现异步子代理委托，支持截断、工件和会话共享功能。",
+  "content": "该项目是 Pi 框架的一个扩展，专注于异步子代理（subagent）的委托管理。它提供了截断（truncation）机制以控制上下文长度，支持工件（artifacts）的生成与传递，并允许会话共享，从而在多个子代理间协同工作。该扩展旨在提升 Pi 代理系统的可扩展性和模块化能力，适用于需要复杂任务分解与并行处理的场景。",
+  "tags": [
+    "Pi",
+    "子代理",
+    "异步委托",
+    "截断",
+    "工件",
+    "会话共享",
+    "TypeScript",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:48+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "nicobailon",
+    "stars": 1964,
+    "forks": 264,
+    "daily_stars": 69,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

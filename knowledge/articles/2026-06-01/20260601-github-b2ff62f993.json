@@ -1,0 +1,29 @@
+{
+  "id": "20260601-github-b2ff62f993",
+  "title": "DeepSeek-V4: a million-token context that agents can actually use",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/deepseekv4",
+  "summary": "DeepSeek-V4 是一款支持百万级 token 上下文窗口的 AI 模型，使智能体能够有效利用超长文本进行推理和交互。",
+  "content": "DeepSeek-V4 是 DeepSeek 系列的最新版本，其核心突破在于实现了百万 token 级别的上下文处理能力。这意味着模型可以一次性处理整本书或超长文档，而无需分段或摘要。该特性特别适用于需要深度理解长文本的智能体应用，如法律文档分析、学术研究、代码库理解等。模型在保持高效推理的同时，显著提升了长距离依赖的捕获能力，为复杂任务提供了更强大的基础。",
+  "tags": [
+    "DeepSeek-V4",
+    "百万 token 上下文",
+    "智能体",
+    "长文本处理",
+    "AI 模型"
+  ],
+  "status": "draft",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "collected_at": "2026-06-01T19:59:01+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

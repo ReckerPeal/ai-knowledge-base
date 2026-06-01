@@ -1,0 +1,35 @@
+{
+  "id": "20260601-github-3abdf2208f",
+  "title": "microsoft/agent-governance-toolkit",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "summary": "微软推出的AI Agent治理工具包，提供策略执行、零信任身份、执行沙箱和可靠性工程功能，覆盖OWASP Agentic Top 10全部风险。",
+  "content": "该工具包由微软开发，旨在为自主AI Agent提供全面的治理能力。核心功能包括：策略执行（Policy enforcement）确保Agent行为符合预设规则；零信任身份（Zero-trust identity）实现安全认证与授权；执行沙箱（Execution sandboxing）隔离Agent运行环境防止恶意操作；可靠性工程（Reliability engineering）保障Agent稳定运行。工具包完整覆盖OWASP Agentic Top 10安全风险，适用于需要高安全性和合规性的AI Agent部署场景。",
+  "tags": [
+    "AI Agent",
+    "治理",
+    "安全",
+    "零信任",
+    "沙箱",
+    "可靠性",
+    "OWASP",
+    "微软",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:54+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 3623,
+    "forks": 517,
+    "daily_stars": null,
+    "weekly_stars": 1657,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

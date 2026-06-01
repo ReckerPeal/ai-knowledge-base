@@ -1,0 +1,34 @@
+{
+  "id": "20260601-github-b05b4163a1",
+  "title": "kubernetes/kubernetes",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/kubernetes",
+  "summary": "Kubernetes 是一个生产级别的容器调度和管理系统，由 Kubernetes 社区维护，是云原生计算基金会（CNCF）的毕业项目。它提供了自动化部署、扩展和管理容器化应用的能力，支持跨主机集群的资源调度、服务发现、负载均衡、自动修复等功能。作为 GitHub 上最受关注的项目之一，拥有超过 12 万星标和 4 万分支，是容器编排领域的行业标准。",
+  "content": "Kubernetes（简称 K8s）是一个开源的容器编排平台，用于自动化部署、扩展和管理容器化应用。它最初由 Google 设计并捐赠给 CNCF（云原生计算基金会），目前由 Kubernetes 社区维护。该项目支持多种容器运行时（如 Docker、containerd），提供声明式配置、自动扩缩容、服务发现、负载均衡、存储编排、自动回滚等核心功能。Kubernetes 的架构包括控制平面（如 API Server、Scheduler、Controller Manager）和工作节点（Kubelet、Kube-proxy），通过 Pod、Service、Deployment、ConfigMap 等资源对象实现灵活的应用管理。该项目在 GitHub 上持续活跃，每日新增星标约 41 个，是云原生生态系统的基石。",
+  "tags": [
+    "容器编排",
+    "Kubernetes",
+    "云原生",
+    "Go",
+    "容器调度",
+    "微服务",
+    "DevOps",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:52+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 122589,
+    "forks": 43230,
+    "daily_stars": 41,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

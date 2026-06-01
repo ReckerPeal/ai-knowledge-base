@@ -1,0 +1,33 @@
+{
+  "id": "20260601-github-bc82659373",
+  "title": "lakehq/sail",
+  "source": "github_trending",
+  "source_url": "https://github.com/lakehq/sail",
+  "summary": "lakehq/sail 是一个用 Rust 编写的 Apache Spark 替代品，旨在统一批处理、流处理和高计算强度的 AI 工作负载。",
+  "content": "该项目是一个高性能的 Apache Spark 替代方案，完全用 Rust 实现。它支持批处理、流处理和 AI 密集型计算任务，提供与 Spark 兼容的 API，可无缝迁移现有工作负载。其设计目标包括提升性能、降低资源消耗，并简化大数据与 AI 工作流的统一管理。",
+  "tags": [
+    "Apache Spark",
+    "Rust",
+    "批处理",
+    "流处理",
+    "AI 工作负载",
+    "大数据",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-01T19:58:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lakehq",
+    "stars": 2800,
+    "forks": 162,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
