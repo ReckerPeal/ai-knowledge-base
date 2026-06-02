@@ -1,0 +1,33 @@
+{
+  "id": "20260602-github-25995cd83f",
+  "title": "chopratejas/headroom",
+  "source": "github_trending",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "summary": "Headroom 是一个用于压缩工具输出、日志、文件和 RAG 块的工具，在将数据发送到 LLM 前可减少 60-95% 的 token 量，同时保持答案质量。支持库、代理和 MCP 服务器三种使用方式。",
+  "content": "Headroom 由 chopratejas 开发，是一个专注于减少 LLM 输入 token 量的开源工具。它通过压缩工具输出、日志、文件和 RAG 块，实现 60-95% 的 token 减少，同时确保答案质量不受影响。该项目提供三种使用模式：作为 Python 库集成、作为代理服务运行、或作为 MCP 服务器部署。在 GitHub 上已获得 4720 颗星和 371 个 fork，周增长 1868 星，显示出较高的社区关注度。适用于需要降低 LLM 调用成本、优化 token 使用效率的开发者或企业。",
+  "tags": [
+    "LLM",
+    "token压缩",
+    "RAG",
+    "工具输出压缩",
+    "Python",
+    "MCP服务器",
+    "成本优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-02T19:29:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "chopratejas",
+    "stars": 4720,
+    "forks": 371,
+    "daily_stars": null,
+    "weekly_stars": 1868,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

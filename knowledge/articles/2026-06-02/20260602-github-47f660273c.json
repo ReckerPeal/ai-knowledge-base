@@ -1,0 +1,31 @@
+{
+  "id": "20260602-github-47f660273c",
+  "title": "google/go-github",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/go-github",
+  "summary": "google/go-github 是一个由 Google 维护的 Go 语言库，用于访问 GitHub 的 v3 API。该项目在 GitHub 上拥有 11246 颗星和 2234 个分支，每日新增约 5 颗星，属于 GitHub 热点中的 Go 语言类别。",
+  "content": "该库为 Go 开发者提供了简洁、类型安全的接口，用于与 GitHub REST API v3 进行交互。它支持认证、分页、错误处理等常见功能，并覆盖了 GitHub 的大部分资源（如仓库、问题、拉取请求、用户等）。作为 Google 官方维护的项目，其代码质量、文档和社区支持都有较高保障。适合需要从 Go 应用中集成 GitHub 功能的开发者使用。",
+  "tags": [
+    "Go",
+    "GitHub API",
+    "Google",
+    "库",
+    "REST API"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-02T19:29:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 11246,
+    "forks": 2234,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260602-github-08c10eedcc",
+  "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+  "summary": "vLLM 从 V0 到 V1 的演进：在强化学习中先确保正确性再谈修正",
+  "content": "本文探讨了 vLLM 框架从 V0 版本到 V1 版本的关键转变，重点强调在强化学习（RL）场景下，优先保证模型输出的正确性（Correctness），然后再进行后续的修正（Corrections）。文章可能涉及 vLLM 在推理优化、RL 训练稳定性以及正确性验证方面的技术改进。",
+  "tags": [
+    "vLLM",
+    "强化学习",
+    "模型推理",
+    "正确性",
+    "版本演进"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-06T19:06:55+00:00",
+  "collected_at": "2026-06-02T19:30:03+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

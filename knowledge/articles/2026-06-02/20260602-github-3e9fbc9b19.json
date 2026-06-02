@@ -1,0 +1,32 @@
+{
+  "id": "20260602-github-3e9fbc9b19",
+  "title": "ryoppippi/ccusage",
+  "source": "github_trending",
+  "source_url": "https://github.com/ryoppippi/ccusage",
+  "summary": "ccusage 是一个用 Rust 编写的 CLI 工具，用于分析本地数据中的编码代理令牌使用情况和成本。",
+  "content": "ccusage 是一个专注于编码代理（coding agent）的 CLI 工具，能够从本地数据中分析令牌（token）的使用情况和相关成本。该项目使用 Rust 语言开发，旨在为开发者提供一种高效、轻量的方式来监控和优化其编码代理的 API 调用开销。通过分析本地存储的令牌使用数据，ccusage 可以帮助用户了解不同操作或时间段内的资源消耗模式，从而做出更经济的决策。",
+  "tags": [
+    "Rust",
+    "CLI",
+    "token分析",
+    "成本监控",
+    "编码代理",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-02T19:30:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ryoppippi",
+    "stars": 15409,
+    "forks": 613,
+    "daily_stars": null,
+    "weekly_stars": 710,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

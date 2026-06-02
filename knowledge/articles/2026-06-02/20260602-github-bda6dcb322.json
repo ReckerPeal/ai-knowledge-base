@@ -1,0 +1,32 @@
+{
+  "id": "20260602-github-bda6dcb322",
+  "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "summary": "OlmoEarth v1.1 是艾伦人工智能研究所发布的新一代地球观测模型系列，旨在提升遥感数据分析的效率与性能。该版本在模型架构、训练策略和推理速度上进行了优化，适用于多光谱图像分类、变化检测等地理空间任务。",
+  "content": "OlmoEarth v1.1 是艾伦人工智能研究所（Allen AI）对地球观测模型系列的重要更新。相比前代，v1.1 版本在模型效率上取得显著进步，通过改进的注意力机制和更轻量的骨干网络，在保持高精度的同时降低了计算开销。该模型家族支持多种遥感数据源（如 Sentinel-2、Landsat），并针对云遮挡、季节变化等实际场景进行了鲁棒性增强。博客文章详细介绍了模型架构的改进点（如分层特征融合）、训练数据的扩充策略（新增高分辨率标注样本），以及在不同下游任务（如土地覆盖分类、植被健康监测）上的基准测试结果。v1.1 版本还提供了预训练权重和微调指南，方便研究者和开发者快速部署。",
+  "tags": [
+    "地球观测",
+    "遥感",
+    "模型效率",
+    "Allen AI",
+    "OlmoEarth",
+    "多光谱图像",
+    "深度学习",
+    "预训练模型"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-19T18:38:09+00:00",
+  "collected_at": "2026-06-02T19:30:03+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
