@@ -1,0 +1,33 @@
+{
+  "id": "20260603-github-cc34ce0bb9",
+  "title": "runkids/skillshare",
+  "source": "github_trending",
+  "source_url": "https://github.com/runkids/skillshare",
+  "summary": "runkids/skillshare 是一个用 Go 语言开发的工具，旨在通过一条命令在所有 AI CLI 工具（如 Codex、Claude Code、OpenClaw 等）之间同步技能，简化团队共享流程。",
+  "content": "该项目提供了一个统一的接口，允许用户将 AI 技能（如提示词、配置或模型参数）跨多个命令行工具同步，从而减少重复配置并提升团队协作效率。支持主流 AI CLI 工具，并强调易用性和可扩展性。",
+  "tags": [
+    "AI CLI",
+    "技能同步",
+    "团队协作",
+    "Go",
+    "Codex",
+    "Claude Code",
+    "OpenClaw"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "runkids",
+    "stars": 2117,
+    "forks": 129,
+    "daily_stars": null,
+    "weekly_stars": 205,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260603-github-bb07e4bb12",
+  "title": "pocket-id/pocket-id",
+  "source": "github_trending",
+  "source_url": "https://github.com/pocket-id/pocket-id",
+  "summary": "Pocket ID 是一个简单易用的 OIDC 提供商，允许用户通过通行密钥（passkeys）对服务进行身份验证。",
+  "content": "该项目是一个基于 Go 语言开发的开源 OIDC 身份提供商，旨在简化用户认证流程。它支持通行密钥（passkeys）作为认证方式，用户无需密码即可安全登录。Pocket ID 易于部署和集成，适合需要现代无密码认证方案的个人或小型团队使用。截至 2026 年 6 月 3 日，该项目在 GitHub 上获得 8006 颗星和 250 个分支，日增星约 8 颗，属于 GitHub 热点项目。",
+  "tags": [
+    "OIDC",
+    "身份认证",
+    "通行密钥",
+    "无密码",
+    "Go",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pocket-id",
+    "stars": 8006,
+    "forks": 250,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

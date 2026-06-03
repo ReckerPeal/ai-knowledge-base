@@ -1,0 +1,31 @@
+{
+  "id": "20260603-github-40bb0c0baa",
+  "title": "dolthub/dolt",
+  "source": "github_trending",
+  "source_url": "https://github.com/dolthub/dolt",
+  "summary": "Dolt 是一个将 Git 版本控制理念应用于数据管理的工具，支持对数据库表进行分支、合并、回滚等操作，实现数据即代码。",
+  "content": "Dolt 是一个开源的关系型数据库，它像 Git 一样管理数据。用户可以对数据表进行分支、合并、克隆、推送和拉取等操作，同时支持 SQL 查询。Dolt 适用于数据版本控制、协作数据科学、数据备份与恢复等场景，其核心优势在于将 Git 的灵活性与数据库的持久性结合。",
+  "tags": [
+    "Git for Data",
+    "数据版本控制",
+    "数据库",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "dolthub",
+    "stars": 23048,
+    "forks": 784,
+    "daily_stars": 46,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

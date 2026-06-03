@@ -1,0 +1,33 @@
+{
+  "id": "20260603-github-784bef217a",
+  "title": "Musixal/Backhaul",
+  "source": "github_trending",
+  "source_url": "https://github.com/Musixal/Backhaul",
+  "summary": "Musixal/Backhaul 是一个高性能的反向隧道解决方案，专为 NAT 穿透设计，支持 TCP、TCPMUX、UDP、UDP over TCP、WebSocket 及其多路复用变体，能够处理大规模并发连接。",
+  "content": "该项目由 Musixal 开发，在 GitHub 上获得 823 颗星和 146 个分支，近期日增星 7 颗，属于 Go 语言热点项目。其核心功能是提供闪电般的反向隧道能力，用于 NAT 穿透，并优化了海量并发连接的处理。支持的协议包括 TCP、TCPMUX、UDP、UDP over TCP、WS、WSMUX、WSS 和 WSSMUX，覆盖了多种网络场景。",
+  "tags": [
+    "反向隧道",
+    "NAT 穿透",
+    "Go",
+    "TCP",
+    "UDP",
+    "WebSocket",
+    "并发连接"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Musixal",
+    "stars": 823,
+    "forks": 146,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

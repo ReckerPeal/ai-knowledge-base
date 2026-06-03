@@ -1,0 +1,33 @@
+{
+  "id": "20260603-github-9003db3301",
+  "title": "NVIDIA/k8s-device-plugin",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/k8s-device-plugin",
+  "summary": "NVIDIA 为 Kubernetes 提供的设备插件，用于在 Kubernetes 集群中管理和调度 NVIDIA GPU 资源。",
+  "content": "该仓库是 NVIDIA 官方维护的 Kubernetes 设备插件实现，允许 Kubernetes 集群中的 Pod 访问和使用 NVIDIA GPU。它通过 Kubernetes 的设备插件框架工作，自动检测节点上的 GPU，并将其作为可调度资源暴露给集群。插件支持 GPU 的独占模式、MIG（多实例 GPU）模式以及时间切片功能，适用于 AI/ML 训练、推理等需要 GPU 加速的工作负载。项目使用 Go 语言开发，拥有 3780 颗星和 825 个分支，是 Kubernetes 生态中 GPU 资源管理的核心组件。",
+  "tags": [
+    "Kubernetes",
+    "NVIDIA",
+    "GPU",
+    "设备插件",
+    "Go",
+    "AI/ML",
+    "容器编排"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:21+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 3780,
+    "forks": 825,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

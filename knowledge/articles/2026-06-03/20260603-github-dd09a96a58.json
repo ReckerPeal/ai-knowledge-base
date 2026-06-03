@@ -1,0 +1,33 @@
+{
+  "id": "20260603-github-dd09a96a58",
+  "title": "google/ax",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/ax",
+  "summary": "Google 开源的分布式代理运行时，用于构建和运行分布式 AI 代理系统。",
+  "content": "该项目是 Google 推出的开源分布式代理运行时（Distributed Agent Runtime），旨在为构建、部署和管理分布式 AI 代理提供基础设施。它支持代理间的通信、状态管理和任务调度，适用于需要多代理协作的复杂 AI 场景。项目采用 Go 语言开发，具有高性能和可扩展性，适合云原生环境。",
+  "tags": [
+    "Google",
+    "分布式代理",
+    "AI 代理",
+    "Go",
+    "开源",
+    "运行时",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 1408,
+    "forks": 78,
+    "daily_stars": null,
+    "weekly_stars": 332,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

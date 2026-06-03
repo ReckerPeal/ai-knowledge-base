@@ -1,0 +1,33 @@
+{
+  "id": "20260603-github-e380223d54",
+  "title": "gin-gonic/gin",
+  "source": "github_trending",
+  "source_url": "https://github.com/gin-gonic/gin",
+  "summary": "Gin 是一个用 Go 编写的高性能 HTTP Web 框架，提供类似 Martini 的 API，但性能提升显著（最高 40 倍），基于 httprouter 实现。适用于构建 REST API、Web 应用和微服务。",
+  "content": "Gin 是 Go 语言生态中广受欢迎的 Web 框架，以其卓越的性能和简洁的 API 设计著称。它利用 httprouter 实现了高效的路由匹配，性能比 Martini 快 40 倍。Gin 提供了中间件支持、JSON 验证、路由分组等特性，非常适合构建高性能的 RESTful API 和微服务。该项目在 GitHub 上拥有 88,595 颗星和 8,617 个 fork，社区活跃，持续维护。",
+  "tags": [
+    "Go",
+    "Web框架",
+    "HTTP",
+    "REST API",
+    "微服务",
+    "高性能",
+    "gin"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-03T19:37:21+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "gin-gonic",
+    "stars": 88595,
+    "forks": 8617,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
