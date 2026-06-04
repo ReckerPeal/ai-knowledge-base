@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-2a4b63ae4a",
+  "title": "podman-container-tools/podman",
+  "source": "github_trending",
+  "source_url": "https://github.com/podman-container-tools/podman",
+  "summary": "Podman 是一个用于管理 OCI 容器和 Pod 的工具，提供无守护进程的容器管理体验。",
+  "content": "Podman 是一个开源的容器管理工具，专注于管理 OCI（Open Container Initiative）兼容的容器和 Pod。与 Docker 不同，Podman 采用无守护进程架构，允许用户以非 root 身份运行容器，增强了安全性和灵活性。它支持完整的容器生命周期管理，包括创建、运行、停止和删除容器，以及管理镜像、网络和存储卷。Podman 还兼容 Docker CLI 命令，便于迁移。该项目在 GitHub 上拥有 31,930 颗星和 3,139 个 Fork，近期每日新增 24 颗星，显示出活跃的社区关注度。",
+  "tags": [
+    "容器管理",
+    "OCI",
+    "Podman",
+    "无守护进程",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:40+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "podman-container-tools",
+    "stars": 31930,
+    "forks": 3139,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260604-github-31befc3509",
+  "title": "grafana/pyroscope",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/pyroscope",
+  "summary": "Grafana Pyroscope 是一个持续性能分析平台，能够帮助开发者将性能问题精确调试到单行代码。",
+  "content": "Pyroscope 由 Grafana 团队开发，是一个开源的持续性能分析工具，支持多种编程语言（如 Go、Python、Ruby 等）。它通过持续采集应用程序的 CPU、内存等性能数据，并以火焰图等形式可视化展示，使开发者能够快速定位性能瓶颈。该平台与 Grafana 生态深度集成，支持大规模分布式系统的性能监控。",
+  "tags": [
+    "持续性能分析",
+    "性能调试",
+    "Grafana",
+    "开源",
+    "火焰图",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:40+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 11463,
+    "forks": 769,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

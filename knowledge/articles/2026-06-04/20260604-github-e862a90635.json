@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-e862a90635",
+  "title": "kedacore/keda",
+  "source": "github_trending",
+  "source_url": "https://github.com/kedacore/keda",
+  "summary": "KEDA 是一个基于 Kubernetes 的事件驱动自动缩放组件，可为 Kubernetes 中运行的任何容器提供事件驱动的自动缩放能力。",
+  "content": "KEDA（Kubernetes Event-Driven Autoscaling）是一个开源项目，旨在通过事件驱动的方式自动缩放 Kubernetes 中的容器工作负载。它支持多种事件源（如消息队列、数据库、HTTP 请求等），能够根据实际负载动态调整 Pod 数量，从而优化资源利用率和响应速度。该项目由 kedacore 维护，在 GitHub 上拥有超过 10,000 颗星，社区活跃，适用于微服务、批处理、实时数据处理等场景。",
+  "tags": [
+    "Kubernetes",
+    "自动缩放",
+    "事件驱动",
+    "容器编排",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:51+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "kedacore",
+    "stars": 10259,
+    "forks": 1429,
+    "daily_stars": null,
+    "weekly_stars": 28,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

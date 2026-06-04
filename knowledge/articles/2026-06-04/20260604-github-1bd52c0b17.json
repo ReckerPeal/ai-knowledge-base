@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-1bd52c0b17",
+  "title": "unilabsim/UniLab",
+  "source": "github_trending",
+  "source_url": "https://github.com/unilabsim/UniLab",
+  "summary": "UniLab 是一个用于机器人强化学习的异构架构，旨在超越以 GPU 为主导的传统范式。",
+  "content": "UniLab 项目提出了一种异构计算架构，专门针对机器人强化学习（RL）任务进行优化。它挑战了当前以 GPU 为核心的计算模式，通过整合多种计算资源（如 CPU、FPGA 或其他专用加速器）来提升 RL 训练和推理的效率与灵活性。该架构可能涉及分布式计算、异构内存管理以及针对机器人控制任务的定制化算法优化。项目由 unilabsim 维护，在 GitHub 上获得了 545 颗星和 41 个 fork，近期日增星数达 85，显示出较高的社区关注度。",
+  "tags": [
+    "机器人",
+    "强化学习",
+    "异构计算",
+    "GPU",
+    "架构"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "unilabsim",
+    "stars": 545,
+    "forks": 41,
+    "daily_stars": 85,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

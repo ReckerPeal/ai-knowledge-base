@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-48634ca8e9",
+  "title": "rathole-org/rathole",
+  "source": "github_trending",
+  "source_url": "https://github.com/rathole-org/rathole",
+  "summary": "rathole 是一个轻量级高性能反向代理工具，专为 NAT 穿透设计，使用 Rust 编写，可作为 frp 和 ngrok 的替代方案。",
+  "content": "rathole 是一个用 Rust 编写的轻量级、高性能反向代理工具，主要用于 NAT 穿透。它旨在提供一种更简单、更高效的替代方案，以替代 frp 和 ngrok 等传统工具。该项目在 GitHub 上拥有 13701 颗星和 775 个分支，显示出较高的社区关注度。其核心优势在于 Rust 语言带来的内存安全和并发性能，以及针对 NAT 穿透场景的优化设计。",
+  "tags": [
+    "Rust",
+    "反向代理",
+    "NAT 穿透",
+    "轻量级",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:48+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rathole-org",
+    "stars": 13701,
+    "forks": 775,
+    "daily_stars": null,
+    "weekly_stars": 72,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

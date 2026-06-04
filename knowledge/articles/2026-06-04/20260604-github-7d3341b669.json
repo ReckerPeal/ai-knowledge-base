@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-7d3341b669",
+  "title": "jdx/mise",
+  "source": "github_trending",
+  "source_url": "https://github.com/jdx/mise",
+  "summary": "mise 是一个集开发工具管理、环境变量配置与任务运行于一体的多功能工具，由 jdx 开发，使用 Rust 语言实现。",
+  "content": "mise 是一个用 Rust 编写的现代开发工具，旨在替代 asdf、direnv 和 make 等传统工具。它支持多语言版本管理（如 Node.js、Python、Java 等），通过 .mise.toml 配置文件统一管理环境变量和任务脚本。项目在 GitHub 上获得 29090 颗星，日增 113 星，社区活跃度高。",
+  "tags": [
+    "开发工具",
+    "环境管理",
+    "任务运行器",
+    "Rust",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:36+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "jdx",
+    "stars": 29090,
+    "forks": 1180,
+    "daily_stars": 113,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

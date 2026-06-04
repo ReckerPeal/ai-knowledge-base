@@ -1,0 +1,33 @@
+{
+  "id": "20260604-github-a8f8cbbee9",
+  "title": "redis/go-redis",
+  "source": "github_trending",
+  "source_url": "https://github.com/redis/go-redis",
+  "summary": "Redis 官方维护的 Go 语言客户端库，提供高性能、类型安全的 Redis 操作接口，支持集群、哨兵、管道、事务等高级特性，是 Go 生态中最流行的 Redis 客户端之一。",
+  "content": "go-redis 是 Redis 官方推荐的 Go 语言客户端，拥有超过 2.2 万星标，社区活跃度高。它支持 Redis 6/7 的所有核心功能，包括字符串、哈希、列表、集合、有序集合、流、地理空间等数据类型，以及发布/订阅、Lua 脚本、事务、管道、连接池、自动重连等高级特性。库设计简洁，API 风格与 Redis 命令一一对应，易于集成。同时提供对 Redis Cluster、Redis Sentinel 和 Redis Standalone 的全面支持，并内置了连接池和超时控制机制，适用于高并发场景。该库持续更新，紧跟 Redis 新版本特性，是 Go 开发者操作 Redis 的首选方案。",
+  "tags": [
+    "Redis",
+    "Go",
+    "客户端",
+    "数据库",
+    "缓存",
+    "官方库",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:51+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "redis",
+    "stars": 22125,
+    "forks": 2556,
+    "daily_stars": null,
+    "weekly_stars": 24,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

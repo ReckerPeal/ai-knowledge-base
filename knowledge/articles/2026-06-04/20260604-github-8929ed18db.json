@@ -1,0 +1,32 @@
+{
+  "id": "20260604-github-8929ed18db",
+  "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+  "source": "rss",
+  "source_url": "https://openai.com/index/wasmer",
+  "summary": "本文介绍了 Wasmer 如何利用 OpenAI 的 Codex 模型（基于 GPT-5.5）构建一个面向边缘计算的 Node.js 运行时，将开发效率提升 10 到 20 倍，并在数周内完成原本需要数月的工作。",
+  "content": "Wasmer 是一家专注于 WebAssembly 运行时的公司，他们通过结合 Codex 的代码生成能力，快速构建了一个针对边缘场景优化的 Node.js 运行时。文章详细描述了使用 AI 辅助编程的实践过程，包括如何通过自然语言描述需求、自动生成核心模块代码、以及加速调试和测试流程。最终，该项目在极短时间内交付，展示了 AI 在基础设施软件开发中的巨大潜力。",
+  "tags": [
+    "Wasmer",
+    "Codex",
+    "GPT-5.5",
+    "Node.js",
+    "边缘计算",
+    "AI 辅助编程",
+    "WebAssembly",
+    "开发效率"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "collected_at": "2026-06-04T19:04:51+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

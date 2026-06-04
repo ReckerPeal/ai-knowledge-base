@@ -1,0 +1,31 @@
+{
+  "id": "20260604-github-3b42e75165",
+  "title": "derailed/k9s",
+  "source": "github_trending",
+  "source_url": "https://github.com/derailed/k9s",
+  "summary": "derailed/k9s 是一个用 Go 语言开发的 Kubernetes CLI 工具，旨在以风格化的方式管理集群。",
+  "content": "该项目提供了终端用户界面（TUI），用于实时监控和操作 Kubernetes 资源，如 Pod、Deployment 和 Service。它支持多集群管理、资源编辑、日志查看和自定义视图，通过简洁的键盘快捷键提升运维效率。截至 2026 年 6 月，该项目在 GitHub 上获得 33,836 颗星和 2,179 个 Fork，每日新增约 12 颗星，属于 Go 语言领域的 GitHub 热点项目。",
+  "tags": [
+    "Kubernetes",
+    "CLI",
+    "Go",
+    "集群管理",
+    "TUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-04T19:04:40+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "derailed",
+    "stars": 33836,
+    "forks": 2179,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
