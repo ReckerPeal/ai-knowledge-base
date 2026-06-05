@@ -1,0 +1,33 @@
+{
+  "id": "20260605-github-4f18326ae4",
+  "title": "grafana/mcp-grafana",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "summary": "MCP server for Grafana 是一个为 Grafana 提供 MCP（Model Context Protocol）服务的服务器实现，旨在通过标准化协议增强 Grafana 的上下文交互能力。",
+  "content": "该项目由 Grafana 官方团队维护，是一个基于 Go 语言开发的 MCP 服务器，用于扩展 Grafana 的模型上下文协议支持。它允许 Grafana 实例通过 MCP 协议与其他 AI 或工具进行上下文交换，从而提升数据可视化和监控场景下的智能交互能力。仓库当前获得 3108 颗星和 378 个分支，日增星约 9 颗，显示出较高的社区关注度。项目主要面向开发者，用于集成 Grafana 到更广泛的 AI 工作流中。",
+  "tags": [
+    "Grafana",
+    "MCP",
+    "Go",
+    "监控",
+    "AI 集成",
+    "上下文协议",
+    "数据可视化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-05T19:06:42+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3108,
+    "forks": 378,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

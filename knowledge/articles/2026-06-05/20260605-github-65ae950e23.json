@@ -1,0 +1,31 @@
+{
+  "id": "20260605-github-65ae950e23",
+  "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "summary": "超越大语言模型：为何可扩展的企业级AI应用依赖于智能体逻辑",
+  "content": "本文探讨了企业级AI应用从单纯依赖大语言模型（LLM）向智能体逻辑（Agent Logic）转变的必要性。文章指出，虽然LLM在自然语言理解和生成方面表现出色，但在实际企业场景中，可扩展性、可靠性和业务逻辑的集成才是关键挑战。智能体逻辑通过引入规划、推理、工具调用和状态管理，使AI系统能够自主执行复杂任务、适应动态环境，并与现有企业基础设施无缝集成。文章还讨论了IBM在构建可扩展AI智能体方面的实践经验，包括如何设计模块化架构、确保安全性和可审计性，以及如何通过标准化接口降低集成成本。最终，作者认为智能体逻辑是推动企业AI从实验走向大规模生产的关键因素。",
+  "tags": [
+    "大语言模型",
+    "智能体逻辑",
+    "企业AI",
+    "可扩展性",
+    "IBM",
+    "AI架构",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-01T13:51:18+00:00",
+  "collected_at": "2026-06-05T19:06:53+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

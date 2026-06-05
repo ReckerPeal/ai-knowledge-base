@@ -1,0 +1,31 @@
+{
+  "id": "20260605-github-1c87544ec2",
+  "title": "kyverno/kyverno",
+  "source": "github_trending",
+  "source_url": "https://github.com/kyverno/kyverno",
+  "summary": "Kyverno 是一个为 Kubernetes 设计的统一策略即代码引擎，允许用户以声明方式管理策略。",
+  "content": "Kyverno 是一个开源的 Kubernetes 原生策略引擎，旨在简化策略管理。它允许用户使用 Kubernetes 资源（如自定义资源定义）来定义策略，而无需学习新的语言。Kyverno 支持验证、变异和生成策略，并可与准入控制器集成。该项目在 GitHub 上拥有 7812 颗星和 1380 个分支，每日获得 6 颗星，表明其活跃度和社区支持。",
+  "tags": [
+    "Kubernetes",
+    "策略引擎",
+    "Go",
+    "云原生",
+    "准入控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-05T19:06:42+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kyverno",
+    "stars": 7812,
+    "forks": 1380,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
