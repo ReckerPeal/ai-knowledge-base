@@ -1,0 +1,32 @@
+{
+  "id": "20260606-github-3214a17a0f",
+  "title": "bruin-data/ingestr",
+  "source": "github_trending",
+  "source_url": "https://github.com/bruin-data/ingestr",
+  "summary": "ingestr 是一个用 Go 编写的 CLI 工具，允许用户通过单一命令在不同数据库之间无缝复制数据。",
+  "content": "ingestr 是一个基于 Go 语言开发的命令行工具，旨在简化跨数据库的数据复制流程。用户只需执行一条命令，即可在多种数据库系统之间迁移数据，无需编写复杂的 ETL 脚本或依赖繁琐的配置。该工具强调易用性和高效性，适合开发者和数据工程师快速完成数据同步任务。",
+  "tags": [
+    "Go",
+    "CLI",
+    "数据库",
+    "数据复制",
+    "ETL",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "bruin-data",
+    "stars": 3690,
+    "forks": 129,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260606-github-e16b03a4b4",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source": "github_trending",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "summary": "PaddlePaddle/PaddleOCR 是一个强大的轻量级 OCR 工具包，能将任何 PDF 或图像文档转换为结构化数据，支持 100 多种语言，桥接图像/PDF 与大型语言模型（LLMs）之间的鸿沟。",
+  "content": "该项目由 PaddlePaddle 开发，在 GitHub 上拥有 80,706 颗星和 10,640 个分支，近期日增星数达 747 颗，属于热门 Python 项目。其核心功能包括：1）支持多种文档格式（PDF、图像）的 OCR 识别；2）输出结构化数据，便于 AI 模型进一步处理；3）轻量级设计，适合部署；4）多语言支持，覆盖全球主要语言。该工具特别适合需要从非结构化文档中提取信息的场景，如文档数字化、数据录入自动化、与 LLM 结合的知识库构建等。",
+  "tags": [
+    "OCR",
+    "文档处理",
+    "PaddlePaddle",
+    "Python",
+    "图像识别",
+    "PDF解析",
+    "多语言"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:42+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "PaddlePaddle",
+    "stars": 80706,
+    "forks": 10640,
+    "daily_stars": 747,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

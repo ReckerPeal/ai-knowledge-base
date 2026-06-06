@@ -1,0 +1,33 @@
+{
+  "id": "20260606-github-e0a9247250",
+  "title": "podman-container-tools/buildah",
+  "source": "github_trending",
+  "source_url": "https://github.com/podman-container-tools/buildah",
+  "summary": "Buildah 是一个用于构建 OCI（开放容器倡议）镜像的工具，支持从 Dockerfile 或直接通过命令行创建容器镜像，无需完整守护进程。",
+  "content": "Buildah 是 Podman 容器工具集的一部分，专注于构建符合 OCI 标准的容器镜像。它允许用户通过 Dockerfile 或交互式命令构建镜像，支持多种基础镜像和构建策略。与 Docker 不同，Buildah 无需运行守护进程，从而减少了资源消耗和潜在的安全风险。它提供了灵活的镜像构建方式，包括从零开始构建、使用现有镜像层以及自定义构建步骤。Buildah 还支持镜像的推送、拉取和标签管理，与 Podman 和 Skopeo 等工具协同工作，形成完整的容器管理生态。该项目在 GitHub 上拥有 8849 颗星和 901 个分支，表明其广泛的社区认可和活跃的维护状态。",
+  "tags": [
+    "容器",
+    "镜像构建",
+    "OCI",
+    "Podman",
+    "Go",
+    "DevOps",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "podman-container-tools",
+    "stars": 8849,
+    "forks": 901,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

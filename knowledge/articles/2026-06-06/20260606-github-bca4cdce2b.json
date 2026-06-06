@@ -1,0 +1,31 @@
+{
+  "id": "20260606-github-bca4cdce2b",
+  "title": "servo/servo",
+  "source": "github_trending",
+  "source_url": "https://github.com/servo/servo",
+  "summary": "Servo 项目旨在为开发者提供一种轻量级、高性能的替代方案，用于在应用程序中嵌入 Web 技术。",
+  "content": "Servo 是一个使用 Rust 语言开发的现代浏览器引擎，最初由 Mozilla 研究团队创建，现在由社区维护。它专注于利用 Rust 的内存安全特性和并发模型，实现高性能和低资源消耗。该项目特别适合需要嵌入式 Web 渲染能力的应用场景，如 IoT 设备、桌面应用或游戏 UI。其模块化设计允许开发者仅使用所需的组件，从而减少体积和复杂度。",
+  "tags": [
+    "浏览器引擎",
+    "Rust",
+    "嵌入式Web",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "servo",
+    "stars": 36988,
+    "forks": 3656,
+    "daily_stars": null,
+    "weekly_stars": 156,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260606-github-e97102a281",
+  "title": "renovatebot/renovate",
+  "source": "github_trending",
+  "source_url": "https://github.com/renovatebot/renovate",
+  "summary": "Renovate CLI 的官方仓库，由 Mend.io 提供的跨平台依赖自动化工具。",
+  "content": "Renovate 是一个开源的跨平台依赖更新工具，支持多种编程语言和包管理器（如 npm、Maven、Docker 等）。它通过自动创建拉取请求来保持项目依赖的最新状态，并提供可配置的自动化策略（如自动合并、分组更新、安全修复等）。该项目在 GitHub 上拥有超过 2.1 万星标，是 DevOps 和持续集成领域的重要工具。",
+  "tags": [
+    "依赖管理",
+    "自动化",
+    "DevOps",
+    "TypeScript",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:44+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "renovatebot",
+    "stars": 21707,
+    "forks": 3094,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

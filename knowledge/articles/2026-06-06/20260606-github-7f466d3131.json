@@ -1,0 +1,32 @@
+{
+  "id": "20260606-github-7f466d3131",
+  "title": "jesseduffield/lazygit",
+  "source": "github_trending",
+  "source_url": "https://github.com/jesseduffield/lazygit",
+  "summary": "Lazygit 是一个基于 Go 语言开发的简单终端 UI 工具，用于简化 Git 命令操作。它通过直观的界面让开发者无需记忆复杂命令即可高效管理版本控制。",
+  "content": "Lazygit 是一个轻量级的终端用户界面（TUI）工具，专为 Git 命令设计。它由 jesseduffield 开发，在 GitHub 上获得了 79041 颗星和 2860 个分支，每日新增星数约 150 颗。该工具的主要优势在于其简洁性：用户可以通过键盘快捷键在终端中完成 Git 的常见操作（如提交、分支切换、合并、冲突解决等），而无需手动输入命令。Lazygit 使用 Go 语言编写，具有跨平台兼容性和高性能。它特别适合那些偏好终端工作流但希望提升 Git 操作效率的开发者。",
+  "tags": [
+    "Git",
+    "终端工具",
+    "Go",
+    "版本控制",
+    "开发者工具",
+    "TUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-06T18:38:49+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "jesseduffield",
+    "stars": 79041,
+    "forks": 2860,
+    "daily_stars": 150,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
