@@ -1,0 +1,32 @@
+{
+  "id": "20260607-github-cf903fe4a1",
+  "title": "firecracker-microvm/firecracker",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecracker-microvm/firecracker",
+  "summary": "Firecracker 是一个用于无服务器计算的安全、快速的微型虚拟机（microVM）技术。",
+  "content": "Firecracker 由 AWS 开源，使用 Rust 语言编写，专为无服务器计算和容器化工作负载设计。它结合了传统虚拟机的安全隔离性与容器的轻量级启动速度，每个 microVM 可在毫秒级启动，内存占用极低。该项目在 GitHub 上拥有超过 34,000 颗星，社区活跃，广泛应用于 AWS Lambda 和 Fargate 等无服务器服务中。",
+  "tags": [
+    "Firecracker",
+    "microVM",
+    "无服务器计算",
+    "Rust",
+    "虚拟化",
+    "AWS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:30+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "firecracker-microvm",
+    "stars": 34794,
+    "forks": 2431,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260607-github-17b395291d",
+  "title": "pulumi/pulumi",
+  "source": "github_trending",
+  "source_url": "https://github.com/pulumi/pulumi",
+  "summary": "Pulumi 是一个基础设施即代码（IaC）平台，允许开发者使用任意编程语言（如 TypeScript、Python、Go 等）来定义和管理云基础设施。",
+  "content": "Pulumi 是一个开源的基础设施即代码（Infrastructure as Code, IaC）工具，它打破了传统 IaC 工具（如 Terraform）对特定领域语言（DSL）的限制，允许开发者使用他们熟悉的通用编程语言（如 TypeScript、Python、Go、C#、Java 等）来定义、部署和管理云基础设施。Pulumi 支持 AWS、Azure、Google Cloud、Kubernetes 等主流云平台，并提供状态管理、自动化测试、CI/CD 集成等高级功能。该项目在 GitHub 上拥有超过 2.5 万颗星，社区活跃，是云原生领域的重要工具之一。",
+  "tags": [
+    "基础设施即代码",
+    "云原生",
+    "DevOps",
+    "Go",
+    "多云管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:33+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "pulumi",
+    "stars": 25276,
+    "forks": 1385,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

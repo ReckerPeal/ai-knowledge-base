@@ -1,0 +1,32 @@
+{
+  "id": "20260607-github-aeb3c7b38a",
+  "title": "microsoft/BitNet",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/BitNet",
+  "summary": "微软开源的 BitNet 项目，提供 1 比特大语言模型的官方推理框架，旨在实现极低比特量化下的高效推理。",
+  "content": "BitNet 是微软推出的 1 比特大语言模型（1-bit LLMs）官方推理框架。该项目通过将模型权重和激活值量化为 1 比特（即二进制表示），大幅降低模型存储和计算开销，同时保持与全精度模型相当的推理能力。框架支持多种主流 LLM 架构的 1 比特版本推理，并提供优化的 CPU/GPU 后端，适用于资源受限场景下的高效部署。当前仓库包含推理代码、预训练模型权重以及使用示例。",
+  "tags": [
+    "1-bit LLMs",
+    "模型量化",
+    "推理框架",
+    "大语言模型",
+    "微软",
+    "高效推理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:25+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 39236,
+    "forks": 3587,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

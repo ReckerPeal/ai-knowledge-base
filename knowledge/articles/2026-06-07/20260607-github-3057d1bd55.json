@@ -1,0 +1,33 @@
+{
+  "id": "20260607-github-3057d1bd55",
+  "title": "oxc-project/oxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/oxc-project/oxc",
+  "summary": "oxc-project/oxc 是一个高性能 JavaScript 工具集合，基于 Rust 语言开发，旨在提供高效的代码解析、转换和分析能力。该项目在 GitHub 上获得超过 2.1 万星标，近期热度持续上升。",
+  "content": "oxc（Oxidation Compiler）项目由 oxc-project 组织维护，是一个用 Rust 编写的高性能 JavaScript 工具集合。它包含解析器、词法分析器、AST 节点定义、代码生成器、格式化工具、压缩工具等组件，旨在替代传统的 JavaScript 工具链（如 Babel、ESLint、Prettier 等），提供更快的执行速度和更低的内存占用。项目采用 Rust 语言实现，利用其零成本抽象和内存安全特性，实现了对 JavaScript/TypeScript 代码的高效处理。目前该项目在 GitHub 上拥有 21472 颗星标和 1068 个分支，日均获得 22 颗新星，显示出社区的高度关注。oxc 的主要优势包括：1）性能卓越，解析速度比传统工具快数倍；2）支持最新的 ECMAScript 标准；3）提供统一的 API 接口，便于集成到其他工具中；4）开源且活跃维护。该项目适合需要高性能 JavaScript 工具链的开发者、大型项目团队以及工具链开发者使用。",
+  "tags": [
+    "Rust",
+    "JavaScript",
+    "工具链",
+    "高性能",
+    "解析器",
+    "编译器",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:30+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "oxc-project",
+    "stars": 21472,
+    "forks": 1068,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

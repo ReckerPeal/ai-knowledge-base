@@ -1,0 +1,36 @@
+{
+  "id": "20260607-github-519ff9d3fa",
+  "title": "0x4m4/hexstrike-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/0x4m4/hexstrike-ai",
+  "summary": "HexStrike AI MCP Agents 是一个先进的 MCP 服务器，能让 AI 代理（如 Claude、GPT、Copilot 等）自主运行 150 多种网络安全工具，用于自动化渗透测试、漏洞发现、漏洞赏金自动化和安全研究，无缝连接 LLM 与真实世界的进攻性安全能力。",
+  "content": "该项目基于 MCP（Model Context Protocol）协议构建，旨在将大型语言模型（LLM）与网络安全工具链深度集成。通过 HexStrike AI，AI 代理可以自主调用超过 150 种安全工具（如 Nmap、Metasploit、Burp Suite 等），实现从信息收集、漏洞扫描到利用的完整渗透测试流程自动化。其核心价值在于降低安全测试门槛，提升漏洞发现效率，特别适用于红队演练、漏洞赏金猎人和安全研究场景。项目采用 Python 开发，在 GitHub 上获得 9390 星和 2031 叉，日增 46 星，显示出社区高度关注。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "网络安全",
+    "渗透测试",
+    "自动化",
+    "漏洞发现",
+    "漏洞赏金",
+    "安全研究",
+    "Python",
+    "LLM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:25+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "0x4m4",
+    "stars": 9390,
+    "forks": 2031,
+    "daily_stars": 46,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

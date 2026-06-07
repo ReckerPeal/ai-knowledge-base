@@ -1,0 +1,32 @@
+{
+  "id": "20260607-github-b28cf1b789",
+  "title": "temporalio/temporal",
+  "source": "github_trending",
+  "source_url": "https://github.com/temporalio/temporal",
+  "summary": "Temporal 是一个开源、分布式、可扩展的工作流引擎，用于编排微服务、异步流程和长时间运行的业务逻辑，提供持久性、可靠性和可观察性。",
+  "content": "Temporal 是一个由 Temporal Technologies 开发的开源工作流引擎，旨在解决分布式系统中异步流程编排的复杂性。它提供了一种声明式的方式来定义工作流，自动处理状态持久化、重试、超时和故障恢复。Temporal 支持多种编程语言（如 Go、Java、Python 等），并广泛应用于微服务编排、数据管道、ETL 作业和长时间运行的业务事务。该仓库包含 Temporal 服务的核心代码，包括前端、历史、匹配和 worker 服务，以及用于构建工作流和活动的 SDK。截至 2026 年 6 月，该项目在 GitHub 上拥有超过 20,800 颗星和 1,638 个分支，每周获得约 165 颗新星，显示出活跃的社区和持续的增长。",
+  "tags": [
+    "工作流引擎",
+    "微服务编排",
+    "分布式系统",
+    "Go",
+    "开源",
+    "Temporal"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-07T18:45:42+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "temporalio",
+    "stars": 20800,
+    "forks": 1638,
+    "daily_stars": null,
+    "weekly_stars": 165,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
