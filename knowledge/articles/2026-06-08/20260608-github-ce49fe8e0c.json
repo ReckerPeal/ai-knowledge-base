@@ -1,0 +1,33 @@
+{
+  "id": "20260608-github-ce49fe8e0c",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "summary": "本文介绍了在 AWS 上构建基础模型训练和推理的模块化组件，涵盖计算、存储、网络等关键基础设施，旨在帮助开发者高效部署和扩展 AI 工作负载。",
+  "content": "文章详细阐述了 AWS 为支持基础模型（Foundation Model）训练和推理所提供的核心构建块，包括高性能计算实例（如 GPU 实例）、分布式训练框架（如 SageMaker）、弹性存储方案（如 FSx for Lustre）以及低延迟推理优化（如 Inferentia 芯片）。此外，还讨论了如何通过 VPC、安全组和 IAM 角色确保安全性与可扩展性，并提供了最佳实践案例。",
+  "tags": [
+    "AWS",
+    "基础模型",
+    "训练",
+    "推理",
+    "云计算",
+    "分布式训练",
+    "GPU",
+    "SageMaker",
+    "Inferentia"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-11T23:18:26+00:00",
+  "collected_at": "2026-06-08T19:36:55+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260608-github-e380745468",
+  "title": "RustAudio/cpal",
+  "source": "github_trending",
+  "source_url": "https://github.com/RustAudio/cpal",
+  "summary": "RustAudio/cpal 是一个用 Rust 编写的底层跨平台音频 I/O 库。",
+  "content": "cpal 是 RustAudio 组织下的一个开源项目，专注于提供跨平台的底层音频输入输出接口。它支持多种操作系统，包括 Windows、macOS、Linux 等，允许开发者直接访问音频设备进行录制和播放。该库设计轻量，强调性能和低延迟，适合需要精细控制音频流的应用场景，如音频处理、游戏和实时通信。截至 2026 年 6 月，该项目在 GitHub 上获得 3775 颗星和 509 个分支，每日新增约 6 颗星，显示出持续的社区关注度。",
+  "tags": [
+    "Rust",
+    "音频 I/O",
+    "跨平台",
+    "底层库",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:44+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "RustAudio",
+    "stars": 3775,
+    "forks": 509,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

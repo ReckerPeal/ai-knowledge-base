@@ -1,0 +1,34 @@
+{
+  "id": "20260608-github-bcf7002ad9",
+  "title": "hyperlight-dev/hyperlight",
+  "source": "github_trending",
+  "source_url": "https://github.com/hyperlight-dev/hyperlight",
+  "summary": "Hyperlight 是一个轻量级虚拟机管理器（VMM），专为嵌入应用程序而设计。它能够在微虚拟机中安全执行不受信任的代码，具有极低延迟和最小开销。",
+  "content": "Hyperlight 是一个用 Rust 编写的轻量级虚拟机管理器（VMM），旨在嵌入到应用程序中，以安全地执行不受信任的代码。它通过微虚拟机实现隔离，具有极低的延迟和最小的性能开销，适用于需要高安全性和低资源消耗的场景。该项目在 GitHub 上获得了 4382 颗星和 183 个分支，近期每日新增 24 颗星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "Hyperlight",
+    "虚拟机管理器",
+    "VMM",
+    "安全执行",
+    "微虚拟机",
+    "Rust",
+    "低延迟",
+    "嵌入式"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:44+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "hyperlight-dev",
+    "stars": 4382,
+    "forks": 183,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

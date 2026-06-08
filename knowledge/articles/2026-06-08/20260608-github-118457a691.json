@@ -1,0 +1,33 @@
+{
+  "id": "20260608-github-118457a691",
+  "title": "anthropic-experimental/sandbox-runtime",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+  "summary": "一个轻量级沙箱工具，用于在操作系统级别对任意进程强制执行文件系统和网络限制，无需容器。",
+  "content": "该工具由 Anthropic 实验团队开发，基于 TypeScript 实现，提供了一种无需容器即可对任意进程施加文件系统和网络访问限制的轻量级沙箱方案。它通过操作系统级别的机制（如 seccomp、namespaces 等）实现隔离，适用于需要精细控制进程权限但又不希望引入容器化复杂性的场景。项目在 GitHub 上获得了 4349 颗星和 317 个 fork，周增长 116 星，显示出较高的社区关注度。",
+  "tags": [
+    "沙箱",
+    "安全",
+    "进程隔离",
+    "文件系统限制",
+    "网络限制",
+    "TypeScript",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:50+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropic-experimental",
+    "stars": 4349,
+    "forks": 317,
+    "daily_stars": null,
+    "weekly_stars": 116,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

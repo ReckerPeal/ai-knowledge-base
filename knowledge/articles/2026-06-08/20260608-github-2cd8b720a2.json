@@ -1,0 +1,33 @@
+{
+  "id": "20260608-github-2cd8b720a2",
+  "title": "golang/go",
+  "source": "github_trending",
+  "source_url": "https://github.com/golang/go",
+  "summary": "Go 编程语言的官方仓库，由 Google 开发，以其简洁、高效和并发支持而闻名。",
+  "content": "Go（又称 Golang）是一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。由 Robert Griesemer、Rob Pike 和 Ken Thompson 于 2007 年在 Google 开始设计，2009 年正式对外发布。Go 语言的设计目标是解决 C++ 等语言在大型分布式系统开发中的痛点，如编译速度慢、依赖管理复杂、并发编程困难等。该仓库是 Go 语言的核心源码库，包含编译器、运行时、标准库、工具链等全部核心组件。Go 语言在云原生、微服务、网络编程、DevOps 工具等领域有广泛应用，Docker、Kubernetes、Prometheus 等知名项目均使用 Go 编写。",
+  "tags": [
+    "Go",
+    "编程语言",
+    "编译型",
+    "并发",
+    "云原生",
+    "Google",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:55+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "golang",
+    "stars": 134611,
+    "forks": 19091,
+    "daily_stars": null,
+    "weekly_stars": 657,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

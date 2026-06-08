@@ -1,0 +1,31 @@
+{
+  "id": "20260608-github-4c3e2c823a",
+  "title": "Andyyyy64/whichllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "summary": "一个帮助用户根据硬件性能选择最佳本地运行大模型的工具，基于实时基准测试排名，而非参数数量。",
+  "content": "该项目名为 whichllm，由 Andyyyy64 开发，旨在解决用户在选择本地大语言模型时面临的硬件适配问题。它通过运行一个命令，即可根据用户硬件的实际性能（基于实时、近期的基准测试数据）推荐最适合的本地 LLM，排名依据是实际运行表现，而非传统的参数数量。项目使用 Python 编写，在 GitHub 上获得了 3157 颗星和 184 个 fork，近期日增星数达 103，显示出较高的社区关注度。",
+  "tags": [
+    "大语言模型",
+    "硬件适配",
+    "基准测试",
+    "本地部署",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:39+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Andyyyy64",
+    "stars": 3157,
+    "forks": 184,
+    "daily_stars": 103,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

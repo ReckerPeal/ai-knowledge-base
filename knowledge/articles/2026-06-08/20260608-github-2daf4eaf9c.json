@@ -1,0 +1,38 @@
+{
+  "id": "20260608-github-2daf4eaf9c",
+  "title": "xerrors/Yuxi",
+  "source": "github_trending",
+  "source_url": "https://github.com/xerrors/Yuxi",
+  "summary": "Yuxi 是一个多租户 Agent Harness 平台，集成了知识库和知识图谱管理，基于 LightRAG 知识库和知识图谱构建，采用 LangChain + Vue + FastAPI 技术栈，支持 DeepAgents、MinerU PDF、Neo4j 和 MCP 等功能。",
+  "content": "Yuxi 是一个开源的多租户 Agent Harness 平台，旨在通过集成知识库和知识图谱管理来增强智能代理的能力。该平台利用 LightRAG 技术构建知识库和知识图谱，提供高效的检索和推理能力。技术栈方面，Yuxi 使用 LangChain 作为代理框架，Vue.js 构建前端界面，FastAPI 提供后端 API 服务。平台支持多种高级功能，包括 DeepAgents（深度代理）、MinerU PDF（PDF 处理）、Neo4j（图数据库）和 MCP（模型上下文协议），使其适用于复杂的知识驱动型应用场景。该项目在 GitHub 上获得了 5447 颗星和 769 个分支，每日新增星标 47 个，显示出较高的社区关注度。",
+  "tags": [
+    "多租户",
+    "Agent Harness",
+    "知识库",
+    "知识图谱",
+    "LightRAG",
+    "LangChain",
+    "Vue",
+    "FastAPI",
+    "DeepAgents",
+    "MinerU PDF",
+    "Neo4j",
+    "MCP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-08T19:36:39+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "xerrors",
+    "stars": 5447,
+    "forks": 769,
+    "daily_stars": 47,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
