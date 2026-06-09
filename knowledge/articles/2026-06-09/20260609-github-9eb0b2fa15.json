@@ -1,0 +1,32 @@
+{
+  "id": "20260609-github-9eb0b2fa15",
+  "title": "AlexsJones/llmfit",
+  "source": "github_trending",
+  "source_url": "https://github.com/AlexsJones/llmfit",
+  "summary": "llmfit 是一个 Rust 编写的命令行工具，支持数百种模型和提供商，通过一条命令即可找到适合当前硬件的模型。",
+  "content": "该项目旨在简化 AI 模型的选择与部署流程。用户只需执行一条命令，llmfit 便会自动检测硬件配置（如 GPU、CPU 内存等），并从数百种模型和提供商中筛选出兼容且性能最优的选项。它支持多种主流模型格式和推理后端，适用于本地开发、边缘计算等场景。项目采用 Rust 语言开发，保证了高性能和跨平台兼容性。",
+  "tags": [
+    "AI",
+    "模型选择",
+    "硬件适配",
+    "命令行工具",
+    "Rust",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:52+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "AlexsJones",
+    "stars": 27638,
+    "forks": 1689,
+    "daily_stars": null,
+    "weekly_stars": 583,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260609-github-aa4347376e",
+  "title": "microsoft/pg_durable",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/pg_durable",
+  "summary": "pg_durable 是微软开源的 PostgreSQL 扩展，提供数据库内持久化执行能力，确保任务在数据库事务中可靠完成。",
+  "content": "pg_durable 是一个基于 Rust 开发的 PostgreSQL 扩展，旨在实现数据库内的持久化执行。它允许用户将函数或任务注册为持久化执行单元，确保即使在数据库崩溃或重启后，这些任务也能从断点继续执行，而不会丢失状态。该工具特别适合需要高可靠性的工作流、事件驱动架构和后台任务处理场景。项目由微软维护，在 GitHub 上获得 1726 颗星，近期日增星数达 339，显示出社区高度关注。其核心优势包括：与 PostgreSQL 深度集成、利用事务日志保证原子性、以及低延迟的异步执行模型。",
+  "tags": [
+    "PostgreSQL",
+    "持久化执行",
+    "Rust",
+    "数据库扩展",
+    "微软开源",
+    "任务可靠性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:42+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 1726,
+    "forks": 42,
+    "daily_stars": 339,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

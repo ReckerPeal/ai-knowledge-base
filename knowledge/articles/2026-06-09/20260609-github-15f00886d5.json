@@ -1,0 +1,31 @@
+{
+  "id": "20260609-github-15f00886d5",
+  "title": "AdguardTeam/AdGuardHome",
+  "source": "github_trending",
+  "source_url": "https://github.com/AdguardTeam/AdGuardHome",
+  "summary": "AdGuardHome 是一款全网广告与追踪器拦截 DNS 服务器，支持网络级广告过滤和隐私保护。",
+  "content": "AdGuardHome 是一个基于 Go 语言开发的开源网络级广告拦截和隐私保护工具。它作为 DNS 服务器运行，能够拦截整个网络中的广告、追踪器和恶意域名，无需在每台设备上安装客户端。该工具提供 Web 管理界面，支持自定义过滤规则、DNS-over-HTTPS、DNS-over-TLS 等安全协议，并具备 DHCP 服务器和客户端监控功能。项目在 GitHub 上拥有超过 34,000 颗星，社区活跃，更新频繁，适合家庭、企业或组织用于网络层面的广告过滤和隐私保护。",
+  "tags": [
+    "DNS",
+    "广告拦截",
+    "隐私保护",
+    "Go",
+    "网络工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "AdguardTeam",
+    "stars": 34746,
+    "forks": 2382,
+    "daily_stars": null,
+    "weekly_stars": 220,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

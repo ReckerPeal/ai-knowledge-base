@@ -1,0 +1,32 @@
+{
+  "id": "20260609-github-cb97d21a32",
+  "title": "caddyserver/caddy",
+  "source": "github_trending",
+  "source_url": "https://github.com/caddyserver/caddy",
+  "summary": "Caddy 是一个快速、可扩展的多平台 HTTP/1-2-3 Web 服务器，支持自动 HTTPS。",
+  "content": "Caddy 是一个用 Go 语言编写的开源 Web 服务器，以其易用性和自动 HTTPS 功能而闻名。它支持 HTTP/1.1、HTTP/2 和 HTTP/3 协议，并具有模块化架构，允许通过插件扩展功能。该项目在 GitHub 上拥有 73,276 颗星和 4,770 个分支，近期周增星 526 颗，显示出持续的热度。Caddy 适用于多种平台，特别适合需要快速部署和自动证书管理的场景。",
+  "tags": [
+    "Web 服务器",
+    "Go",
+    "自动 HTTPS",
+    "HTTP/3",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:55+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "caddyserver",
+    "stars": 73276,
+    "forks": 4770,
+    "daily_stars": null,
+    "weekly_stars": 526,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

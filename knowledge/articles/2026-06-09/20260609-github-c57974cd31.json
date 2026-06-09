@@ -1,0 +1,33 @@
+{
+  "id": "20260609-github-c57974cd31",
+  "title": "mvanhorn/cli-printing-press",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvanhorn/cli-printing-press",
+  "summary": "cli-printing-press 是一个专为 AI 代理设计的 Go 语言 CLI 工具，能够自动发现 API 的隐藏身份，吸收所有竞争工具的功能，并集成 SQLite 同步、离线搜索和复合洞察命令，旨在成为终极 CLI 工具。",
+  "content": "该项目由 mvanhorn 开发，在 GitHub 上获得 3119 星和 324 叉，近期日增 68 星。其核心创新在于：1) 自动识别 API 的“秘密身份”，即发现 API 的隐藏特性或接口；2) 整合多种现有工具的功能，避免用户切换工具；3) 针对 AI 代理优化，支持 SQLite 同步以实现数据持久化，提供离线搜索能力，并支持复合洞察命令（如联合查询或分析）。这使其在 AI 驱动的自动化工作流中具有独特价值。",
+  "tags": [
+    "Go",
+    "CLI",
+    "AI代理",
+    "API发现",
+    "SQLite",
+    "离线搜索",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "mvanhorn",
+    "stars": 3119,
+    "forks": 324,
+    "daily_stars": 68,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260609-github-ebafbcbe23",
+  "title": "XTLS/Xray-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/XTLS/Xray-core",
+  "summary": "XTLS/Xray-core 是一个基于 Go 语言开发的开源网络代理工具，旨在穿透网络限制，提供高性能的代理功能。它被认为是 v2ray-core 的最佳替代品，支持多种协议和灵活配置，广泛应用于科学上网和网络优化场景。",
+  "content": "Xray-core 是 XTLS 团队开发的核心代理引擎，基于 Go 语言实现，具备高性能和低资源消耗的特点。它支持 VMess、VLESS、Trojan、Shadowsocks 等多种代理协议，并引入了 XTLS（Xray Transport Layer Security）技术，通过 TLS 加密和流控优化提升传输效率。项目在 GitHub 上拥有 39389 颗星和 5481 个 fork，周增星数达 318，社区活跃度高。其设计理念强调开放性和可扩展性，允许用户自定义路由规则、传输配置和加密方式，适用于个人代理、企业网络优化及开发者实验场景。",
+  "tags": [
+    "网络代理",
+    "Go",
+    "XTLS",
+    "V2Ray",
+    "科学上网",
+    "开源工具",
+    "网络安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-09T19:03:55+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "XTLS",
+    "stars": 39389,
+    "forks": 5481,
+    "daily_stars": null,
+    "weekly_stars": 318,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
