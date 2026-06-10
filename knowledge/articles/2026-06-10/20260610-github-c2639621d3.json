@@ -1,0 +1,35 @@
+{
+  "id": "20260610-github-c2639621d3",
+  "title": "ArvinLovegood/go-stock",
+  "source": "github_trending",
+  "source_url": "https://github.com/ArvinLovegood/go-stock",
+  "summary": "ArvinLovegood/go-stock 是一个AI赋能的股票分析与选股工具，支持A股、港股和美股。它提供股票行情获取、AI热点资讯分析、AI资金/财务分析以及涨跌报警推送功能。数据全部保留在本地，确保隐私安全。该工具支持多种AI平台和模型，包括DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、硅基流动、火山方舟和阿里云百炼等，并具备市场整体和个股情绪分析能力，辅助用户进行选股决策。",
+  "content": "该项目是一个基于Go语言开发的股票分析工具，利用AI技术增强股票分析和选股能力。核心功能包括：实时股票行情获取、基于AI的热点资讯分析、资金流向和财务数据的智能分析、以及价格涨跌的报警推送。它覆盖A股、港股和美股三大市场，支持市场整体和个股的情绪分析，帮助用户识别市场趋势和投资机会。所有用户数据均存储在本地，无需上传至云端，增强了数据安全性。该工具兼容多种AI平台和模型，如DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、硅基流动、火山方舟和阿里云百炼，用户可根据偏好选择。项目在GitHub上获得6277颗星和1122次分叉，周增286颗星，显示出较高的社区关注度和活跃度。",
+  "tags": [
+    "股票分析",
+    "AI选股",
+    "Go",
+    "开源工具",
+    "金融科技",
+    "本地数据",
+    "多市场支持",
+    "情绪分析",
+    "报警推送"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:37+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ArvinLovegood",
+    "stars": 6277,
+    "forks": 1122,
+    "daily_stars": null,
+    "weekly_stars": 286,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

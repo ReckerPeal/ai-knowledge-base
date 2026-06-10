@@ -1,0 +1,33 @@
+{
+  "id": "20260610-github-228c6a0415",
+  "title": "vllm-project/vllm-omni",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm-omni",
+  "summary": "vllm-omni 是一个基于 vLLM 项目的高效模型推理框架，专注于支持全模态（omni-modality）模型，能够处理文本、图像、音频等多种数据类型的推理任务。",
+  "content": "vllm-omni 是 vLLM 项目的一个扩展，旨在为全模态模型提供高效的推理能力。全模态模型能够同时处理多种数据类型（如文本、图像、音频等），而 vllm-omni 通过优化内存管理、并行计算和模型加载策略，显著提升了推理速度和资源利用率。该框架基于 Python 开发，适合需要多模态 AI 应用（如视觉问答、语音识别与生成、多模态对话系统）的开发者和研究人员。项目在 GitHub 上获得了 5067 颗星和 1091 个 fork，近期增长迅速（日增 28 星，周增 165 星），表明社区关注度较高。",
+  "tags": [
+    "vLLM",
+    "全模态",
+    "模型推理",
+    "多模态",
+    "Python",
+    "高效推理",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:22+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 5067,
+    "forks": 1091,
+    "daily_stars": 28,
+    "weekly_stars": 165,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

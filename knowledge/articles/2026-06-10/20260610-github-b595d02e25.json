@@ -1,0 +1,32 @@
+{
+  "id": "20260610-github-b595d02e25",
+  "title": "kubernetes/ingress-nginx",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/ingress-nginx",
+  "summary": "Ingress NGINX Controller 是 Kubernetes 官方维护的 Ingress 控制器，基于 NGINX 实现流量路由和负载均衡。",
+  "content": "Ingress NGINX Controller 是 Kubernetes 生态中最流行的 Ingress 控制器之一，由 Kubernetes 官方团队维护。它使用 NGINX 作为反向代理和负载均衡器，通过 Kubernetes Ingress 资源定义路由规则，将外部流量分发到集群内的服务。该项目支持 SSL/TLS 终止、重写规则、速率限制、灰度发布等高级功能，并提供了丰富的注解（annotations）来扩展配置。其高稳定性、活跃的社区支持以及广泛的云原生兼容性使其成为生产环境中的首选方案。",
+  "tags": [
+    "Kubernetes",
+    "Ingress",
+    "NGINX",
+    "负载均衡",
+    "云原生",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:29+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 19493,
+    "forks": 8562,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

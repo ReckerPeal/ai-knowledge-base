@@ -1,0 +1,34 @@
+{
+  "id": "20260610-github-5aee7eb1bf",
+  "title": "trpc-group/trpc-agent-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/trpc-group/trpc-agent-go",
+  "summary": "trpc-agent-go 是一个基于 Go 语言的生产级智能体系统框架，支持图工作流、工具集成、记忆管理、A2A 协议、AG-UI 界面、MCP 协议、评估与可观测性等核心能力，旨在简化智能体应用的构建与部署。",
+  "content": "trpc-agent-go 是由 trpc-group 开发的开源 Go 框架，专注于构建生产环境下的智能体（Agent）系统。其核心特性包括：\n- **图工作流（Graph Workflows）**：支持基于有向无环图（DAG）的任务编排与执行。\n- **工具集成（Tools）**：提供插件化工具调用机制，便于扩展外部能力。\n- **记忆管理（Memory）**：内置短期与长期记忆模块，支持上下文持久化。\n- **A2A 协议**：实现智能体间通信标准，支持分布式协作。\n- **AG-UI**：提供可视化界面，用于监控与调试智能体行为。\n- **MCP 协议**：集成模型上下文协议，增强与 LLM 的交互。\n- **评估（Evaluation）**：内置评估框架，支持自动化测试与性能分析。\n- **可观测性（Observability）**：集成日志、指标与链路追踪，便于生产运维。\n该框架适用于构建复杂对话系统、自动化工作流、多智能体协作平台等场景。截至 2026 年 6 月，该项目在 GitHub 上获得 1315 颗星，159 个 Fork，日增星约 16 颗，属于 Go 生态中热度较高的智能体框架。",
+  "tags": [
+    "Go",
+    "智能体框架",
+    "图工作流",
+    "A2A协议",
+    "MCP协议",
+    "可观测性",
+    "工具集成",
+    "记忆管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "trpc-group",
+    "stars": 1315,
+    "forks": 159,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

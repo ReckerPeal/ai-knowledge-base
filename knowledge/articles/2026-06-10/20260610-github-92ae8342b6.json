@@ -1,0 +1,30 @@
+{
+  "id": "20260610-github-92ae8342b6",
+  "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "summary": "本文介绍如何通过链式调用两个 Hugging Face Spaces 构建一个智能体，该智能体能够自动生成 3D 巴黎画廊。文章详细展示了智能体如何利用 Hugging Face 的 Spaces 平台，将文本描述转化为 3D 场景，体现了 AI 智能体在创意内容生成领域的应用潜力。",
+  "content": "本文由 Hugging Face 博客发布，作者 Mishig 展示了如何通过链式调用两个 Hugging Face Spaces 来构建一个智能体，该智能体能够自动生成 3D 巴黎画廊。具体流程包括：首先使用一个 Space 根据文本描述生成 3D 模型，然后通过另一个 Space 将这些模型组合成完整的画廊场景。文章强调了智能体在无需人工干预的情况下，能够自主完成从文本到 3D 场景的转换，展示了 Hugging Face Spaces 在 AI 应用开发中的灵活性和强大功能。",
+  "tags": [
+    "Hugging Face",
+    "智能体",
+    "3D 生成",
+    "巴黎画廊",
+    "Spaces 链式调用",
+    "AI 应用"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-09T10:46:19+00:00",
+  "collected_at": "2026-06-10T19:15:37+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

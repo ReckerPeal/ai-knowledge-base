@@ -1,0 +1,31 @@
+{
+  "id": "20260610-github-46dd054ea9",
+  "title": "envoyproxy/gateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/envoyproxy/gateway",
+  "summary": "envoyproxy/gateway 是一个基于 Envoy Proxy 的应用网关管理工具，支持独立部署或作为 Kubernetes 网关运行。",
+  "content": "该项目由 Envoy 代理官方团队维护，旨在简化 Envoy 的配置与管理，提供统一的网关解决方案。它支持多种部署模式，包括独立模式和 Kubernetes 原生模式，适用于微服务架构中的流量管理、安全策略和可观测性需求。项目在 GitHub 上拥有 2785 颗星和 773 个分支，近期每日新增约 5 颗星，表明社区活跃度较高。",
+  "tags": [
+    "Envoy Proxy",
+    "应用网关",
+    "Kubernetes",
+    "Go",
+    "流量管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "envoyproxy",
+    "stars": 2785,
+    "forks": 773,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260610-github-b30def484e",
+  "title": "qdrant/qdrant",
+  "source": "github_trending",
+  "source_url": "https://github.com/qdrant/qdrant",
+  "summary": "Qdrant 是一个高性能、大规模向量数据库和向量搜索引擎，专为下一代 AI 应用设计。它支持云端部署，提供快速相似性搜索和向量索引功能。",
+  "content": "Qdrant 是一个用 Rust 编写的高性能向量数据库，专注于大规模向量存储和搜索。它支持多种索引类型（如 HNSW、IVF），提供高效的近似最近邻搜索（ANN），并具备过滤、持久化、分布式部署等特性。该项目在 GitHub 上拥有 32001 颗星和 2350 个分支，近期日增星数约 50 颗，显示出活跃的社区关注度。其官方云服务（cloud.qdrant.io）进一步降低了使用门槛。",
+  "tags": [
+    "向量数据库",
+    "向量搜索引擎",
+    "Rust",
+    "AI",
+    "相似性搜索",
+    "HNSW",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-10T19:15:26+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "qdrant",
+    "stars": 32001,
+    "forks": 2350,
+    "daily_stars": 50,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
