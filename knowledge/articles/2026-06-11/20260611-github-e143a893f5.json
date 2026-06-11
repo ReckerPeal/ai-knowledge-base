@@ -1,0 +1,31 @@
+{
+  "id": "20260611-github-e143a893f5",
+  "title": "web-infra-dev/rspack",
+  "source": "github_trending",
+  "source_url": "https://github.com/web-infra-dev/rspack",
+  "summary": "Rspack 是一个基于 Rust 的高性能 Web 打包工具，兼容 webpack API，旨在提供更快的构建速度。",
+  "content": "Rspack 由 web-infra-dev 开发，是一个用 Rust 编写的 Web 打包器，它实现了现代化的 webpack API，从而在保持与 webpack 生态兼容的同时，显著提升构建性能。该项目在 GitHub 上拥有 12739 颗星和 804 个分支，每日新增约 7 颗星，属于 Rust 语言的热门项目。其核心优势在于利用 Rust 的内存安全和并发特性，优化了模块打包、代码分割和热更新等关键流程，适合大型前端项目的构建加速。",
+  "tags": [
+    "Rust",
+    "Web 打包",
+    "webpack 兼容",
+    "高性能",
+    "前端工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-11T19:31:37+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "web-infra-dev",
+    "stars": 12739,
+    "forks": 804,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

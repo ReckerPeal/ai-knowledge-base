@@ -1,0 +1,33 @@
+{
+  "id": "20260611-github-b7a6b0c876",
+  "title": "junhoyeo/tokscale",
+  "source": "github_trending",
+  "source_url": "https://github.com/junhoyeo/tokscale",
+  "summary": "tokscale 是一个 CLI 工具，用于追踪来自 OpenCode、Claude Code、OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等多种 AI 平台的 token 使用情况，并支持全球排行榜和 2D/3D 贡献图展示。",
+  "content": "tokscale 是一个用 Rust 编写的命令行工具，旨在帮助开发者监控和分析多个 AI 平台（如 OpenCode、Claude Code、OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等）的 token 使用情况。它提供了全球排行榜功能，让用户能够比较不同平台或项目的 token 消耗，并通过 2D 或 3D 贡献图直观展示使用趋势。该工具适合需要优化 AI 调用成本或进行资源管理的开发者和团队。",
+  "tags": [
+    "CLI",
+    "token 追踪",
+    "AI 平台",
+    "Rust",
+    "排行榜",
+    "贡献图",
+    "成本管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-11T19:31:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "junhoyeo",
+    "stars": 3658,
+    "forks": 236,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

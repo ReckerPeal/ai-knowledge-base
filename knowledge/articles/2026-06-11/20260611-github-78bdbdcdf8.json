@@ -1,0 +1,32 @@
+{
+  "id": "20260611-github-78bdbdcdf8",
+  "title": "graykode/abtop",
+  "source": "github_trending",
+  "source_url": "https://github.com/graykode/abtop",
+  "summary": "abtop 是一个类似 htop 的实时监控工具，专为 AI 编码代理设计，可实时监控 Claude Code 和 Codex CLI 的会话、令牌、上下文窗口、速率限制和端口状态。",
+  "content": "abtop 是一个用 Rust 编写的命令行工具，灵感来源于系统监控工具 htop，但专注于 AI 编码代理的监控。它能够实时显示 Claude Code 和 Codex CLI 等 AI 代理的运行状态，包括当前会话信息、令牌使用量、上下文窗口大小、API 速率限制以及端口占用情况。该工具旨在帮助开发者更好地理解和优化 AI 编码代理的行为，提升开发效率。项目在 GitHub 上获得了 2708 颗星和 258 个 fork，日增星 106 颗，属于 Rust 语言的热门项目。",
+  "tags": [
+    "AI编码代理",
+    "实时监控",
+    "Rust",
+    "Claude Code",
+    "Codex CLI",
+    "命令行工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-11T19:31:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "graykode",
+    "stars": 2708,
+    "forks": 258,
+    "daily_stars": 106,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260611-github-571de4f65e",
+  "title": "j178/prek",
+  "source": "github_trending",
+  "source_url": "https://github.com/j178/prek",
+  "summary": "j178/prek 是一个用 Rust 编写的快速 Git 钩子管理器，旨在作为 pre-commit 的即插即用替代品，并重新设计了钩子管理体验。",
+  "content": "该项目是一个高性能的 Git 钩子管理工具，使用 Rust 语言开发，强调速度和效率。它作为流行的 pre-commit 工具的替代方案，提供更快的执行速度和更简洁的配置方式。prek 支持常见的 Git 钩子类型，并允许用户通过简单的配置文件定义和管理钩子脚本。其设计目标是减少开发者在代码提交前的等待时间，同时保持与现有工作流的兼容性。项目在 GitHub 上获得了 7816 颗星和 219 个 fork，显示出社区的高度关注。",
+  "tags": [
+    "Git",
+    "钩子管理",
+    "Rust",
+    "pre-commit",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-11T19:31:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "j178",
+    "stars": 7816,
+    "forks": 219,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

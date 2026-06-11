@@ -1,0 +1,33 @@
+{
+  "id": "20260611-github-33d92cf70c",
+  "title": "rust-lang/rust-analyzer",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust-analyzer",
+  "summary": "Rust 语言官方 IDE 编译器前端，提供代码补全、重构、导航等智能开发支持。",
+  "content": "rust-analyzer 是 Rust 语言官方维护的编译器前端，专为集成开发环境（IDE）设计。它通过实现语言服务器协议（LSP），为 VS Code、Neovim 等编辑器提供代码补全、跳转定义、查找引用、重命名、类型提示、错误诊断等高级功能。该项目旨在替代早期的 RLS，成为 Rust 生态中 IDE 支持的标准工具。其核心优势在于增量编译和实时反馈，显著提升 Rust 开发效率。当前仓库拥有 16534 颗星和 2103 个分支，每日新增约 10 颗星，持续活跃于 GitHub 趋势榜。",
+  "tags": [
+    "Rust",
+    "IDE",
+    "编译器前端",
+    "LSP",
+    "代码补全",
+    "重构",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-11T19:31:37+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 16534,
+    "forks": 2103,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
