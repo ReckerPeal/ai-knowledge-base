@@ -1,0 +1,32 @@
+{
+  "id": "20260612-github-f750ca1c9f",
+  "title": "gruntwork-io/terragrunt",
+  "source": "github_trending",
+  "source_url": "https://github.com/gruntwork-io/terragrunt",
+  "summary": "Terragrunt 是一个灵活编排工具，允许用 OpenTofu/Terraform 编写的基础设施即代码（IaC）实现规模化扩展。",
+  "content": "Terragrunt 是一个由 gruntwork-io 开发的开源工具，旨在增强 Terraform 和 OpenTofu 的功能，通过提供模块化、可复用的配置管理，帮助团队更高效地管理大规模基础设施。它支持远程状态管理、依赖关系处理、环境变量注入等特性，简化了多环境部署的复杂性。该项目在 GitHub 上拥有 9649 颗星和 1197 个分支，近期日增 7 颗星，表明其持续受到开发者社区的关注。",
+  "tags": [
+    "Terragrunt",
+    "Terraform",
+    "OpenTofu",
+    "基础设施即代码",
+    "编排工具",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gruntwork-io",
+    "stars": 9649,
+    "forks": 1197,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260612-github-1b46258de1",
+  "title": "pydantic/monty",
+  "source": "github_trending",
+  "source_url": "https://github.com/pydantic/monty",
+  "summary": "Monty 是一个用 Rust 编写的最小化、安全的 Python 解释器，专为 AI 应用设计。",
+  "content": "Monty 由 pydantic 团队开发，旨在提供一个轻量级且安全的 Python 执行环境，特别适用于 AI 场景。它利用 Rust 的内存安全特性，避免了传统 Python 解释器中的常见漏洞，同时保持了与 Python 语法的兼容性。该项目在 GitHub 上获得了 7661 颗星和 372 个 fork，近期日增星数达 79，周增 318，显示出社区的高度关注。Monty 的核心优势在于其最小化设计（仅包含必要功能）和安全性（通过 Rust 的编译时检查），使其成为 AI 工作流中执行用户代码或脚本的理想选择。",
+  "tags": [
+    "Rust",
+    "Python解释器",
+    "AI安全",
+    "最小化设计",
+    "pydantic"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "pydantic",
+    "stars": 7661,
+    "forks": 372,
+    "daily_stars": 79,
+    "weekly_stars": 318,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

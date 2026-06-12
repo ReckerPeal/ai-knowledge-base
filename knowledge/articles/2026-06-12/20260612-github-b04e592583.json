@@ -1,0 +1,33 @@
+{
+  "id": "20260612-github-b04e592583",
+  "title": "francescopace/espectre",
+  "source": "github_trending",
+  "source_url": "https://github.com/francescopace/espectre",
+  "summary": "ESPectre 是一个基于 Wi-Fi 频谱分析（CSI）的运动检测系统，集成了 Home Assistant，能够通过分析 Wi-Fi 信号变化实现无摄像头人体感知。",
+  "content": "ESPectre 项目利用 Wi-Fi 信道状态信息（CSI）来检测环境中的运动，无需摄像头或传感器硬件，仅依赖普通 Wi-Fi 信号。系统通过分析信号的多径传播变化，识别出人体移动引起的细微干扰，从而实现隐私友好的运动检测。该项目已集成 Home Assistant，方便用户将其纳入智能家居自动化场景。代码库包含完整的固件、后端处理逻辑以及 Home Assistant 插件，支持 ESP32 等常见 Wi-Fi 芯片。",
+  "tags": [
+    "Wi-Fi 感知",
+    "运动检测",
+    "CSI 分析",
+    "Home Assistant",
+    "隐私保护",
+    "ESP32",
+    "智能家居"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:15+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "francescopace",
+    "stars": 8557,
+    "forks": 648,
+    "daily_stars": 70,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

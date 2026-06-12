@@ -1,0 +1,33 @@
+{
+  "id": "20260612-github-76bc22047c",
+  "title": "mlflow/mlflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/mlflow/mlflow",
+  "summary": "MLflow 是一个开源 AI 工程平台，支持代理、大语言模型和机器学习模型的全生命周期管理。它帮助团队调试、评估、监控和优化生产级 AI 应用，同时控制成本并管理模型与数据的访问权限。",
+  "content": "MLflow 是一个由 Databricks 维护的开源平台，旨在简化 AI 和机器学习工作流。它提供四个核心组件：MLflow Tracking（实验跟踪）、MLflow Projects（可复现运行）、MLflow Models（模型打包与部署）和 MLflow Model Registry（模型版本管理）。该平台支持多种框架（如 TensorFlow、PyTorch、Scikit-learn）和语言（Python、R、Java），并集成云服务（AWS、Azure、GCP）。近期更新包括对 LLM 的增强支持，如提示工程、评估和监控功能。",
+  "tags": [
+    "MLflow",
+    "机器学习",
+    "大语言模型",
+    "AI 工程",
+    "模型管理",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:15+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "mlflow",
+    "stars": 26464,
+    "forks": 5834,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

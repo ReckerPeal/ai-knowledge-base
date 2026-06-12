@@ -1,0 +1,33 @@
+{
+  "id": "20260612-github-b01231565a",
+  "title": "777genius/agent-teams-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/777genius/agent-teams-ai",
+  "summary": "777genius/agent-teams-ai 是一个基于 TypeScript 的 AI 代理团队协作框架，用户作为管理者通过看板下达高级指令，代理自动处理任务、相互通信并审查工作。支持 Codex/Claude/OpenCode 等 200+ 模型和 75+ LLM 提供商，免费模型无需认证，可构建多团队 AI 公司。",
+  "content": "该仓库提供了一个创新的 AI 代理协作系统，核心概念是将用户定位为“老板”，AI 代理作为团队成员。代理能够自主执行任务、相互发送消息并审查彼此的工作成果，用户只需通过看板监控进度并下达高级指令。技术层面，它集成了 Codex、Claude、OpenCode 等超过 200 种模型，覆盖 75 个以上的 LLM 提供商，且免费模型无需身份验证。项目旨在帮助用户快速搭建多团队协作的 AI 公司架构，适合需要自动化任务分配和团队协作的开发者或企业。",
+  "tags": [
+    "AI代理",
+    "团队协作",
+    "看板管理",
+    "多模型支持",
+    "LLM集成",
+    "自动化任务",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "777genius",
+    "stars": 1301,
+    "forks": 246,
+    "daily_stars": null,
+    "weekly_stars": 239,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

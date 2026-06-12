@@ -1,0 +1,32 @@
+{
+  "id": "20260612-github-33d92cf70c",
+  "title": "rust-lang/rust-analyzer",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust-analyzer",
+  "summary": "Rust 语言官方出品的 IDE 编译器前端，提供代码补全、跳转、重构等智能开发支持。",
+  "content": "rust-analyzer 是 Rust 语言官方团队维护的编译器前端，专为集成开发环境（IDE）设计。它替代了早期的 RLS（Rust Language Server），为 VS Code、Emacs、Vim 等编辑器提供高性能的代码分析、自动补全、类型推断、跳转定义、重构、错误提示等功能。该项目采用增量编译和查询缓存机制，确保在大型项目中的响应速度。作为 Rust 生态的核心工具，它极大提升了 Rust 开发者的编码效率，是 Rust 语言工具链的重要组成部分。",
+  "tags": [
+    "Rust",
+    "IDE",
+    "编译器前端",
+    "代码分析",
+    "开发工具",
+    "语言服务器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:19+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 16543,
+    "forks": 2105,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

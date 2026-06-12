@@ -1,0 +1,33 @@
+{
+  "id": "20260612-github-eb028e84e6",
+  "title": "prometheus/node_exporter",
+  "source": "github_trending",
+  "source_url": "https://github.com/prometheus/node_exporter",
+  "summary": "Prometheus 官方出品的机器指标导出器，用于采集和暴露 Linux/Unix 系统的硬件和操作系统指标（如 CPU、内存、磁盘、网络等），是 Prometheus 监控体系的核心组件之一。",
+  "content": "node_exporter 是 Prometheus 生态中用于收集机器级指标的守护进程，支持多种采集器（collector），默认启用 CPU、内存、磁盘、网络、文件系统等关键指标。它通过 HTTP 端点暴露指标数据，供 Prometheus 服务端抓取。该项目采用 Go 语言开发，具有高性能、低资源消耗的特点，广泛应用于服务器监控、容器环境（如 Kubernetes 节点监控）以及混合云基础设施的可观测性场景。",
+  "tags": [
+    "Prometheus",
+    "监控",
+    "指标导出器",
+    "Go",
+    "系统监控",
+    "可观测性",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-12T19:17:21+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "prometheus",
+    "stars": 13498,
+    "forks": 2666,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
