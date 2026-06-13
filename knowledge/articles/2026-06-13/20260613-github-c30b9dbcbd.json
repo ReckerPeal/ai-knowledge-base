@@ -1,0 +1,31 @@
+{
+  "id": "20260613-github-c30b9dbcbd",
+  "title": "kunchenguid/no-mistakes",
+  "source": "github_trending",
+  "source_url": "https://github.com/kunchenguid/no-mistakes",
+  "summary": "一个名为 no-mistakes 的 Go 语言项目，旨在通过 git push 操作实现零错误提交，提升代码质量与开发效率。",
+  "content": "该项目由 kunchenguid 开发，在 GitHub 上获得 1290 颗星和 87 个分支，周增星数达 557，属于 GitHub 热点 Go 类别。其核心功能是确保 git push 过程中无错误，可能通过预检查、自动化测试或提交钩子机制来防止错误代码被推送，从而帮助开发者减少失误，保持代码库的整洁与稳定。",
+  "tags": [
+    "Git",
+    "Go",
+    "代码质量",
+    "自动化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:48:02+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kunchenguid",
+    "stars": 1290,
+    "forks": 87,
+    "daily_stars": null,
+    "weekly_stars": 557,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260613-github-881077f8c9",
+  "title": "uutils/coreutils",
+  "source": "github_trending",
+  "source_url": "https://github.com/uutils/coreutils",
+  "summary": "uutils/coreutils 是一个用 Rust 重写的 GNU coreutils 跨平台实现，旨在提供更安全、更高效的命令行工具集。",
+  "content": "该项目使用 Rust 语言重新实现了 GNU coreutils 中的常用命令行工具（如 ls、cp、mv 等），目标是实现跨平台兼容性，同时利用 Rust 的内存安全特性减少潜在漏洞。目前项目已获得超过 2.3 万星标，社区活跃，适合作为学习 Rust 系统编程和命令行工具开发的参考。",
+  "tags": [
+    "Rust",
+    "coreutils",
+    "跨平台",
+    "命令行工具",
+    "系统编程"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:48:00+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "uutils",
+    "stars": 23592,
+    "forks": 1912,
+    "daily_stars": null,
+    "weekly_stars": 122,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

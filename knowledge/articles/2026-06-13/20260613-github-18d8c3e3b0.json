@@ -1,0 +1,36 @@
+{
+  "id": "20260613-github-18d8c3e3b0",
+  "title": "Barre/ZeroFS",
+  "source": "github_trending",
+  "source_url": "https://github.com/Barre/ZeroFS",
+  "summary": "ZeroFS 是一个用 Rust 编写的工具，能够将兼容 S3 的对象存储桶挂载为 POSIX 文件系统（通过 NFS 或 9P 协议），或作为原始块设备（通过 NBD 协议）使用。",
+  "content": "ZeroFS 是一个创新的开源项目，旨在桥接对象存储（如 S3）与传统文件系统之间的差距。它允许用户将 S3 兼容的存储桶直接挂载为 POSIX 文件系统，支持 NFS 和 9P 协议，从而实现对对象存储的透明访问。此外，它还能通过 NBD 协议将存储桶暴露为原始块设备，适用于需要块存储的场景。该项目使用 Rust 语言开发，强调性能和安全性，适合云原生环境、数据备份、以及需要低成本存储解决方案的场景。",
+  "tags": [
+    "ZeroFS",
+    "S3",
+    "POSIX",
+    "NFS",
+    "9P",
+    "NBD",
+    "Rust",
+    "对象存储",
+    "文件系统",
+    "块设备"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:52+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Barre",
+    "stars": 1983,
+    "forks": 74,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260613-github-e8989b9c37",
+  "title": "maximhq/bifrost",
+  "source": "github_trending",
+  "source_url": "https://github.com/maximhq/bifrost",
+  "summary": "Bifrost 是当前最快的企业级 AI 网关，性能比 LiteLLM 快 50 倍，支持自适应负载均衡、集群模式、防护机制和超过 1000 种模型，在 5000 RPS 下额外开销低于 100 微秒。",
+  "content": "Bifrost 是一个用 Go 语言开发的高性能企业 AI 网关，旨在解决大规模 AI 模型部署中的延迟和负载问题。其核心优势包括：1）极低延迟，在 5000 请求/秒（RPS）下额外开销小于 100 微秒，性能是 LiteLLM 的 50 倍；2）自适应负载均衡，可根据实时流量动态分配请求；3）支持集群模式，便于水平扩展；4）内置防护机制（guardrails），确保安全合规；5）兼容超过 1000 种 AI 模型，覆盖主流和新兴模型。该项目在 GitHub 上已获得 5725 星和 751 个 fork，周增长 212 星，属于 Go 语言类别下的热门项目。",
+  "tags": [
+    "AI 网关",
+    "高性能",
+    "负载均衡",
+    "Go",
+    "企业级",
+    "模型支持"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:48:02+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "maximhq",
+    "stars": 5725,
+    "forks": 751,
+    "daily_stars": null,
+    "weekly_stars": 212,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

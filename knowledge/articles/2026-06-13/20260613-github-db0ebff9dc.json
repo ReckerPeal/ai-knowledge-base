@@ -1,0 +1,31 @@
+{
+  "id": "20260613-github-db0ebff9dc",
+  "title": "vectordotdev/vector",
+  "source": "github_trending",
+  "source_url": "https://github.com/vectordotdev/vector",
+  "summary": "Vector 是一个高性能的可观测性数据管道工具，用于收集、转换和路由日志、指标和事件数据。",
+  "content": "Vector 由 Rust 编写，旨在替代 Logstash 等传统工具，提供更低的资源消耗和更高的吞吐量。它支持多种数据源（如文件、Kafka、Syslog）和目标（如 Elasticsearch、Prometheus、S3），并内置了丰富的转换函数。其架构基于组件化设计，用户可通过 TOML 配置文件定义管道。Vector 在 GitHub 上拥有超过 22000 星标，社区活跃，适合大规模生产环境。",
+  "tags": [
+    "可观测性",
+    "数据管道",
+    "Rust",
+    "日志收集",
+    "指标处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:52+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "vectordotdev",
+    "stars": 22032,
+    "forks": 2168,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

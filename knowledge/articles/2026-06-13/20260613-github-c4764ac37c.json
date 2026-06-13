@@ -1,0 +1,31 @@
+{
+  "id": "20260613-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "mksglu/context-mode 是一个针对 AI 编码代理的上下文窗口优化工具，通过沙箱化工具输出实现 98% 的上下文缩减，支持 15 个平台。",
+  "content": "该项目旨在解决 AI 编码代理在处理大量工具输出时上下文窗口溢出的问题。它通过沙箱化工具输出，将非关键信息隔离，从而显著减少上下文占用，提升代理的效率和准确性。项目支持 15 个平台，具有广泛的适用性。",
+  "tags": [
+    "AI编码代理",
+    "上下文优化",
+    "沙箱化",
+    "工具输出",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:49+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 17322,
+    "forks": 1232,
+    "daily_stars": 138,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

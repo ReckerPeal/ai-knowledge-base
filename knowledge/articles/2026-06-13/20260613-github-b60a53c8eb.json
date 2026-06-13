@@ -1,0 +1,36 @@
+{
+  "id": "20260613-github-b60a53c8eb",
+  "title": "How LLMs Actually Work",
+  "source": "rss",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "summary": "本文深入探讨了大型语言模型（LLM）的实际工作原理，从基础架构到训练过程，旨在帮助读者理解其内部机制。",
+  "content": "文章详细解释了LLM的核心组件，包括Transformer架构、注意力机制、预训练与微调阶段，以及如何通过海量数据学习语言模式。作者还讨论了模型推理时的token生成过程、上下文窗口限制以及常见优化技术（如量化、蒸馏）。此外，文章对比了不同规模模型（如GPT、LLaMA）的性能差异，并指出了当前LLM的局限性，如幻觉问题和计算成本。",
+  "tags": [
+    "LLM",
+    "Transformer",
+    "注意力机制",
+    "预训练",
+    "微调",
+    "模型推理",
+    "量化",
+    "知识蒸馏",
+    "GPT",
+    "LLaMA",
+    "幻觉",
+    "计算成本"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-06T19:53:58-05:00",
+  "collected_at": "2026-06-13T18:48:02+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

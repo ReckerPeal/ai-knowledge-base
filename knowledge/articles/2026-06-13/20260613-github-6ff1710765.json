@@ -1,0 +1,35 @@
+{
+  "id": "20260613-github-6ff1710765",
+  "title": "modelscope/ms-swift",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelscope/ms-swift",
+  "summary": "ms-swift 是一个支持 600+ 大语言模型和 300+ 多模态大模型的高效训练框架，集成了 PEFT 和全参数微调方法，涵盖 CPT、SFT、DPO、GRPO 等多种训练策略，并已入选 AAAI 2025。",
+  "content": "ms-swift 由 modelscope 团队开发，是一个专注于大语言模型（LLM）和多模态大模型（MLLM）训练的开源框架。它支持超过 600 种 LLM（如 Qwen3.6、DeepSeek-V4、GLM-5.1、InternLM3、Llama4 等）和 300 多种 MLLM（如 Qwen3-VL、Qwen3-Omni、InternVL3.5、Ovis2.5、GLM4.5v、Gemma4、Llava、Phi4 等）。框架提供了 PEFT（参数高效微调）和全参数微调两种方式，并支持连续预训练（CPT）、监督微调（SFT）、直接偏好优化（DPO）和组相对策略优化（GRPO）等多种训练范式。该项目在 GitHub 上获得了超过 14,000 星标，具有较高的社区关注度，并已被 AAAI 2025 收录。",
+  "tags": [
+    "大语言模型",
+    "多模态模型",
+    "微调框架",
+    "PEFT",
+    "SFT",
+    "DPO",
+    "GRPO",
+    "AAAI 2025",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:47+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "modelscope",
+    "stars": 14493,
+    "forks": 1475,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

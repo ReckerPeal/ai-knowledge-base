@@ -1,0 +1,32 @@
+{
+  "id": "20260613-github-4e2207eccf",
+  "title": "rancher/rancher",
+  "source": "github_trending",
+  "source_url": "https://github.com/rancher/rancher",
+  "summary": "Rancher 是一个完整的容器管理平台，提供企业级的 Kubernetes 集群管理、部署和运维解决方案。",
+  "content": "Rancher 是一个开源的容器管理平台，支持多云和混合云环境下的 Kubernetes 集群管理。它提供了统一的控制面板，用于部署、监控和管理容器化应用，简化了从开发到生产的整个生命周期。Rancher 支持多种认证方式、RBAC 权限控制、日志和监控集成，以及应用商店功能，适用于 DevOps 和平台工程团队。该项目在 GitHub 上拥有超过 25,000 颗星，社区活跃，由 Rancher Labs（现为 SUSE 的一部分）维护。",
+  "tags": [
+    "容器管理",
+    "Kubernetes",
+    "DevOps",
+    "多云",
+    "平台工程",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:54+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "rancher",
+    "stars": 25665,
+    "forks": 3204,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

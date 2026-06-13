@@ -1,0 +1,35 @@
+{
+  "id": "20260613-github-e2820020cd",
+  "title": "BerriAI/litellm",
+  "source": "github_trending",
+  "source_url": "https://github.com/BerriAI/litellm",
+  "summary": "BerriAI/litellm 是一个 Python SDK 和代理服务器（AI 网关），支持以 OpenAI 或原生格式调用 100 多种 LLM API，并集成成本追踪、护栏、负载均衡和日志记录功能。",
+  "content": "该项目提供了一个统一的接口，用于访问 Bedrock、Azure、OpenAI、VertexAI、Cohere、Anthropic、Sagemaker、HuggingFace、VLLM、NVIDIA NIM 等多个 LLM 提供商。它通过代理服务器简化了多模型管理，支持成本监控、安全护栏、负载均衡和日志记录，适用于需要高效集成多种 AI 模型的企业级应用。",
+  "tags": [
+    "Python",
+    "LLM",
+    "AI 网关",
+    "SDK",
+    "代理服务器",
+    "成本追踪",
+    "负载均衡",
+    "护栏",
+    "日志记录"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:47+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "BerriAI",
+    "stars": 50239,
+    "forks": 8845,
+    "daily_stars": 118,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

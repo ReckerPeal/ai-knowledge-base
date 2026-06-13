@@ -1,0 +1,31 @@
+{
+  "id": "20260613-github-d4748d9d3a",
+  "title": "tulir/whatsmeow",
+  "source": "github_trending",
+  "source_url": "https://github.com/tulir/whatsmeow",
+  "summary": "tulir/whatsmeow 是一个用 Go 语言编写的库，用于实现 WhatsApp Web 多设备 API。",
+  "content": "该仓库提供了一个 Go 库，允许开发者通过 WhatsApp Web 的多设备 API 与 WhatsApp 进行交互。它支持多设备功能，使得用户可以在多个设备上同时使用 WhatsApp 而无需主手机在线。该库封装了复杂的协议细节，提供了简洁的接口，适用于构建聊天机器人、自动化工具或集成 WhatsApp 消息功能的应用。截至收集日期，该项目在 GitHub 上获得了 6407 颗星和 1031 个分支，显示出较高的社区关注度。",
+  "tags": [
+    "Go",
+    "WhatsApp",
+    "多设备API",
+    "库",
+    "消息"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:48:02+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "tulir",
+    "stars": 6407,
+    "forks": 1031,
+    "daily_stars": null,
+    "weekly_stars": 97,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

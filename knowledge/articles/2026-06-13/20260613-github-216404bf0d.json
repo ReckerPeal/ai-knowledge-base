@@ -1,0 +1,36 @@
+{
+  "id": "20260613-github-216404bf0d",
+  "title": "danny-avila/LibreChat",
+  "source": "github_trending",
+  "source_url": "https://github.com/danny-avila/LibreChat",
+  "summary": "LibreChat 是一个增强版 ChatGPT 克隆项目，支持多种 AI 模型（如 DeepSeek、Anthropic、AWS、OpenAI、Azure、Groq、Mistral、Gemini 等），具备代理、MCP、技能、代码解释器、DALL-E-3、OpenAPI 操作、函数调用、安全多用户认证、预设等功能，完全开源可自托管。",
+  "content": "该项目基于 TypeScript 开发，是一个功能丰富的 AI 聊天界面，旨在提供类似 ChatGPT 的体验但更加强大和灵活。它集成了多个主流 AI 提供商（包括 OpenAI、Anthropic、Azure、AWS、Groq、Mistral、OpenRouter、Vertex AI、Gemini 等），支持模型切换、消息搜索、代码解释器、DALL-E-3 图像生成、OpenAPI 操作和函数调用。此外，还包含代理（Agents）、MCP（Model Context Protocol）、技能（Skills）等高级特性，以及安全的多用户认证和预设功能。项目完全开源，适合自托管部署，社区活跃，在 GitHub 上获得超过 39k 星标。",
+  "tags": [
+    "ChatGPT",
+    "AI聊天",
+    "开源",
+    "TypeScript",
+    "多模型",
+    "自托管",
+    "代理",
+    "代码解释器",
+    "DALL-E-3",
+    "OpenAPI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:58+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "danny-avila",
+    "stars": 39014,
+    "forks": 8017,
+    "daily_stars": null,
+    "weekly_stars": 793,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

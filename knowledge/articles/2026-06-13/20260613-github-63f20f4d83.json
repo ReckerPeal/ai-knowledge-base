@@ -1,0 +1,33 @@
+{
+  "id": "20260613-github-63f20f4d83",
+  "title": "istio/istio",
+  "source": "github_trending",
+  "source_url": "https://github.com/istio/istio",
+  "summary": "Istio 是一个开源服务网格平台，用于连接、安全保护、控制和观测微服务。",
+  "content": "Istio 是一个由 Google、IBM 和 Lyft 等公司共同开发的开源服务网格（Service Mesh）平台，主要用于微服务架构中的服务间通信管理。它通过提供统一的流量管理、安全策略、可观测性和策略执行能力，帮助开发者和运维人员更轻松地构建、部署和运行分布式应用。Istio 的核心功能包括：1）连接：通过智能路由和负载均衡实现服务间可靠通信；2）安全：提供 mTLS 加密、身份认证和授权机制；3）控制：支持细粒度的流量控制、故障注入和重试策略；4）观测：集成监控、日志和追踪系统（如 Prometheus、Grafana、Jaeger）。该项目使用 Go 语言开发，拥有超过 38,000 颗星和 8,300 多个分支，是 GitHub 上最热门的服务网格项目之一。",
+  "tags": [
+    "服务网格",
+    "微服务",
+    "Go",
+    "流量管理",
+    "安全",
+    "可观测性",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-13T18:47:54+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "istio",
+    "stars": 38214,
+    "forks": 8323,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
