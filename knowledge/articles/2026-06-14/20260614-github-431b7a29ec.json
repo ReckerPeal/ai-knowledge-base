@@ -1,0 +1,31 @@
+{
+  "id": "20260614-github-431b7a29ec",
+  "title": "rust-lang/rustup",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rustup",
+  "summary": "Rust 工具链安装器，用于管理 Rust 编译器和相关工具的安装与版本切换。",
+  "content": "rustup 是 Rust 官方提供的工具链安装器，支持安装、更新和管理不同版本的 Rust 编译器（rustc）、包管理器（cargo）及其他工具。它允许用户轻松切换稳定版、测试版和夜间版工具链，并支持跨平台安装（Windows、macOS、Linux）。作为 Rust 生态系统的核心组件，rustup 简化了 Rust 开发环境的配置过程，尤其适合初学者和需要多版本管理的开发者。",
+  "tags": [
+    "Rust",
+    "工具链",
+    "安装器",
+    "版本管理",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-14T18:58:10+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 6925,
+    "forks": 1052,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260614-github-6117994894",
+  "title": "jetify-com/devbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/jetify-com/devbox",
+  "summary": "Devbox 是一个由 jetify-com 开发的开发环境管理工具，旨在提供即时、简单且可预测的开发环境。它基于 Go 语言实现，在 GitHub 上获得了超过 12000 颗星，每日新增约 51 颗星，属于 Go 语言领域的 GitHub 热点项目。",
+  "content": "Devbox 是一个用于创建和管理开发环境的工具，其核心目标是让开发者能够快速、轻松地搭建一致且可预测的开发环境。它通过声明式配置（如 devbox.json）来定义项目所需的依赖和工具，并利用 Nix 包管理器在隔离环境中自动安装这些依赖，从而避免“在我的机器上可以运行”的问题。Devbox 支持多种编程语言和工具，如 Python、Node.js、Rust 等，并且可以与现有工作流（如 Docker、VS Code）集成。该项目在 GitHub 上拥有 12039 颗星和 339 个分支，每日新增 51 颗星，显示出较高的社区关注度和活跃度。",
+  "tags": [
+    "Devbox",
+    "开发环境管理",
+    "Nix",
+    "Go",
+    "GitHub 热点",
+    "jetify-com"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-14T18:58:13+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "jetify-com",
+    "stars": 12039,
+    "forks": 339,
+    "daily_stars": 51,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

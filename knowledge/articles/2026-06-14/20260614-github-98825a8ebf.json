@@ -1,0 +1,32 @@
+{
+  "id": "20260614-github-98825a8ebf",
+  "title": "AI coding at home without going broke",
+  "source": "rss",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "summary": "本文探讨了如何在不花费大量资金的情况下，在家中进行AI编码实践，提供了经济高效的硬件选择、开源工具推荐以及优化工作流的实用建议。",
+  "content": "文章主要面向希望在家中进行AI编码但预算有限的开发者。作者分享了使用消费级GPU（如NVIDIA RTX系列）搭配开源框架（如PyTorch、TensorFlow）进行模型训练和推理的经验。重点包括：利用云服务（如Google Colab、Lambda Labs）的免费或低成本资源，选择轻量级模型（如DistilBERT、TinyML）以减少计算需求，以及通过量化、剪枝等技术优化模型性能。此外，还讨论了本地开发环境的搭建，包括使用Docker容器化部署和Jupyter Notebook进行实验管理。文章强调，通过合理规划硬件采购（如二手GPU）和利用社区资源（如Hugging Face模型库），可以显著降低AI编码的门槛。",
+  "tags": [
+    "AI编码",
+    "低成本",
+    "硬件优化",
+    "开源工具",
+    "模型训练",
+    "消费级GPU",
+    "量化技术",
+    "云服务"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-13T16:45:03+00:00",
+  "collected_at": "2026-06-14T18:58:21+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

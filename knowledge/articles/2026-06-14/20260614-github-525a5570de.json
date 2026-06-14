@@ -1,0 +1,32 @@
+{
+  "id": "20260614-github-525a5570de",
+  "title": "How to setup a local coding agent on macOS",
+  "source": "rss",
+  "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "summary": "本文详细介绍了如何在 macOS 系统上搭建本地编码代理，涵盖环境配置、工具选择及实际部署步骤，旨在帮助开发者实现本地化的 AI 辅助编码工作流。",
+  "content": "文章首先强调了本地编码代理在隐私保护和离线可用性方面的优势，随后逐步指导读者安装必要的依赖（如 Python、Node.js 及 Homebrew），并推荐了 Ollama、LangChain 等开源工具。接着，作者演示了如何配置代理以连接本地运行的 LLM（如 Llama 3），并通过 VS Code 插件实现代码补全与错误检测。最后，文章讨论了性能优化技巧及常见问题的解决方案，为 macOS 用户提供了一条完整的本地 AI 编码助手搭建路径。",
+  "tags": [
+    "macOS",
+    "编码代理",
+    "本地AI",
+    "Ollama",
+    "LangChain",
+    "LLM",
+    "开发工具",
+    "教程"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-12T17:34:55+00:00",
+  "collected_at": "2026-06-14T18:58:21+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

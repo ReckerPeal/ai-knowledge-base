@@ -1,0 +1,32 @@
+{
+  "id": "20260614-github-35f5f2f971",
+  "title": "juicedata/juicefs",
+  "source": "github_trending",
+  "source_url": "https://github.com/juicedata/juicefs",
+  "summary": "JuiceFS 是一个基于 Redis 和 S3 构建的分布式 POSIX 文件系统。",
+  "content": "JuiceFS 是一个开源的分布式文件系统，它通过将元数据存储在 Redis 中，将数据存储在 S3 等对象存储上，实现了 POSIX 兼容的文件系统接口。该项目在 GitHub 上拥有 13977 颗星和 1229 个分支，近期周增长 305 颗星，属于 Go 语言的热门项目。其设计旨在提供高性能、可扩展且易于使用的文件存储解决方案，适用于云原生环境和大数据场景。",
+  "tags": [
+    "分布式文件系统",
+    "POSIX",
+    "Redis",
+    "S3",
+    "Go",
+    "云存储"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-14T18:58:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "juicedata",
+    "stars": 13977,
+    "forks": 1229,
+    "daily_stars": null,
+    "weekly_stars": 305,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

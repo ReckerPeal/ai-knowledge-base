@@ -1,0 +1,28 @@
+{
+  "id": "20260614-github-bd6f3d9bdc",
+  "title": "The Curse of Depth in Large Language Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "summary": "本文探讨了大型语言模型中的深度诅咒现象，分析了模型深度增加带来的性能瓶颈与优化挑战。",
+  "content": "该研究指出，随着大型语言模型层数增加，会出现梯度消失、表示退化等问题，导致模型难以有效利用深层结构。作者通过实验验证了深度诅咒的存在，并提出可能的缓解策略，如残差连接改进和层归一化优化。",
+  "tags": [
+    "大型语言模型",
+    "深度学习",
+    "模型优化",
+    "梯度消失"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-13T15:12:35-05:00",
+  "collected_at": "2026-06-14T18:58:21+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
