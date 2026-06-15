@@ -1,0 +1,32 @@
+{
+  "id": "20260615-github-2d9977f041",
+  "title": "Wei-Shaw/sub2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/Wei-Shaw/sub2api",
+  "summary": "Sub2API 是一个开源的中继平台，将 Claude、OpenAI、Gemini 和 Antigravity 的订阅统一到一个端点，支持账户共享和成本分摊，并兼容原生工具。",
+  "content": "Sub2API 是一个开源的 API 中继平台，旨在解决多个 AI 服务订阅管理复杂的问题。它通过将 Claude、OpenAI、Gemini 和 Antigravity 等主流 AI 服务的订阅整合到一个统一的 API 端点，简化了开发者的集成工作。该平台支持账户共享和成本分摊功能，允许多个用户或团队共同使用同一订阅，从而降低使用成本。此外，Sub2API 保持了与原生工具的无缝兼容性，开发者无需修改现有代码即可接入。该项目使用 Go 语言开发，在 GitHub 上获得了 27845 颗星和 5649 个分支，周增长 1824 星，显示出较高的社区关注度。",
+  "tags": [
+    "API 中继",
+    "订阅管理",
+    "AI 服务",
+    "Go",
+    "开源",
+    "成本分摊"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:58+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Wei-Shaw",
+    "stars": 27845,
+    "forks": 5649,
+    "daily_stars": null,
+    "weekly_stars": 1824,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

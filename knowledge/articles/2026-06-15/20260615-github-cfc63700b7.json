@@ -1,0 +1,36 @@
+{
+  "id": "20260615-github-cfc63700b7",
+  "title": "modelscope/FunASR",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelscope/FunASR",
+  "summary": "工业级语音识别工具包 FunASR，支持 170 倍实时率、50+ 语言、说话人分离、情感检测、流式处理及 OpenAI 兼容 API。",
+  "content": "FunASR 是由 ModelScope 社区开发的开源语音识别工具包，专为工业级应用设计。其核心优势包括：\n- **超高速推理**：支持 170 倍实时率，适合大规模部署。\n- **多语言支持**：覆盖 50 种以上语言，包括中英文及小语种。\n- **高级功能**：集成说话人分离（Speaker Diarization）、情感检测（Emotion Detection）和流式处理（Streaming）。\n- **API 兼容**：提供与 OpenAI 兼容的接口，便于集成到现有系统。\n- **生态丰富**：基于 PyTorch 和 ModelScope 模型库，拥有 18k+ Stars 和 1.8k Forks，社区活跃。\n该工具包适用于实时会议转录、客服质检、多语言翻译等场景，是当前 GitHub 上热门的 Python 语音项目。",
+  "tags": [
+    "语音识别",
+    "ASR",
+    "工业级",
+    "多语言",
+    "说话人分离",
+    "情感检测",
+    "流式处理",
+    "OpenAI API",
+    "ModelScope",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:51+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "modelscope",
+    "stars": 18011,
+    "forks": 1846,
+    "daily_stars": null,
+    "weekly_stars": 605,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260615-github-526972fab4",
+  "title": "gfx-rs/wgpu",
+  "source": "github_trending",
+  "source_url": "https://github.com/gfx-rs/wgpu",
+  "summary": "gfx-rs/wgpu 是一个跨平台、安全、纯 Rust 实现的图形 API，旨在提供现代图形编程的底层接口。",
+  "content": "wgpu 基于 WebGPU 标准，支持 Vulkan、Metal、DirectX 12 和 OpenGL ES 后端，适用于游戏、可视化、计算等场景。它强调内存安全和线程安全，利用 Rust 的所有权模型避免常见图形编程错误。项目活跃，社区贡献丰富，适合需要高性能图形渲染的 Rust 开发者。",
+  "tags": [
+    "Rust",
+    "图形API",
+    "跨平台",
+    "WebGPU",
+    "安全",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:47+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "gfx-rs",
+    "stars": 17373,
+    "forks": 1329,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

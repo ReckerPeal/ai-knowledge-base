@@ -1,0 +1,31 @@
+{
+  "id": "20260615-github-5bc6b38882",
+  "title": "external-secrets/external-secrets",
+  "source": "github_trending",
+  "source_url": "https://github.com/external-secrets/external-secrets",
+  "summary": "External Secrets Operator 是一个 Kubernetes 操作器，能够从 AWS Secrets Manager 等第三方服务读取机密信息，并自动将其注入为 Kubernetes Secrets。",
+  "content": "External Secrets Operator 是一个开源的 Kubernetes 操作器，旨在简化 Kubernetes 集群中机密信息的管理。它通过从外部服务（如 AWS Secrets Manager、Azure Key Vault、Google Secret Manager、HashiCorp Vault 等）读取机密数据，并自动将这些值同步为 Kubernetes 原生的 Secret 资源。该工具支持多种后端，提供灵活的配置方式，并确保机密信息的实时更新和一致性。项目在 GitHub 上拥有 6675 颗星和 1328 个分支，社区活跃，适合需要集中管理机密信息的云原生场景。",
+  "tags": [
+    "Kubernetes",
+    "机密管理",
+    "External Secrets Operator",
+    "AWS Secrets Manager",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "external-secrets",
+    "stars": 6675,
+    "forks": 1328,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

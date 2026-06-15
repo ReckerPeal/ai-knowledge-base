@@ -1,0 +1,31 @@
+{
+  "id": "20260615-github-475a616de9",
+  "title": "restic/restic",
+  "source": "github_trending",
+  "source_url": "https://github.com/restic/restic",
+  "summary": "restic 是一个快速、安全且高效的备份程序，用 Go 语言编写。",
+  "content": "restic 是一个用 Go 语言编写的开源备份工具，以其快速、安全和高效著称。它支持多种存储后端（如本地文件系统、SFTP、S3 等），并提供加密和去重功能，确保数据安全并节省存储空间。该项目在 GitHub 上拥有 34415 颗星和 1792 个分支，周增星数达 504，显示出活跃的社区维护和广泛的使用基础。",
+  "tags": [
+    "备份",
+    "Go",
+    "加密",
+    "去重",
+    "存储"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:58+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "restic",
+    "stars": 34415,
+    "forks": 1792,
+    "daily_stars": null,
+    "weekly_stars": 504,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

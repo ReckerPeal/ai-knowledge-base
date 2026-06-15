@@ -1,0 +1,34 @@
+{
+  "id": "20260615-github-2a555cb4de",
+  "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "source": "github_trending",
+  "source_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "summary": "Universal-Debloater-Alliance/universal-android-debloater-next-generation 是一个跨平台 GUI 工具，使用 Rust 编写，通过 ADB 对非 root 安卓设备进行去臃肿操作，旨在提升隐私、安全性和电池续航。",
+  "content": "该工具基于 Rust 语言开发，提供图形用户界面，支持 Windows、macOS 和 Linux 系统。它利用 Android Debug Bridge (ADB) 与设备通信，无需 root 权限即可卸载或禁用预装应用。主要功能包括：识别并移除不必要的系统应用、优化设备性能、减少后台活动以延长电池寿命、增强隐私保护（如禁用跟踪服务）。项目在 GitHub 上获得 6924 颗星和 297 个分支，近期日增星约 101 颗，属于 Rust 语言的热门项目。",
+  "tags": [
+    "Android",
+    "Debloat",
+    "Rust",
+    "GUI",
+    "ADB",
+    "Privacy",
+    "Battery Life",
+    "Cross-platform"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-15T20:02:47+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Universal-Debloater-Alliance",
+    "stars": 6924,
+    "forks": 297,
+    "daily_stars": 101,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
