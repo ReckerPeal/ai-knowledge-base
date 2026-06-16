@@ -1,0 +1,35 @@
+{
+  "id": "20260616-github-586d93ecfa",
+  "title": "diegosouzapw/OmniRoute",
+  "source": "github_trending",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "summary": "OmniRoute 是一个免费的 AI 网关，提供单一端点接入 160 多个提供商（其中 50 多个免费），支持连接 Claude Code、Codex、Cursor、Cline 和 Copilot 等工具到免费的 Claude/GPT/Gemini 模型。它采用 RTK+Caveman 堆叠压缩技术，可节省 15-95% 的令牌，并具备智能自动回退、MCP/A2A 支持、多模态 API 以及桌面/PWA 应用功能。",
+  "content": "OmniRoute 是一个开源的 AI 网关项目，旨在简化对多种 AI 模型的访问。其核心功能包括：\n1. **统一端点**：通过一个 API 端点连接超过 160 个 AI 提供商，其中 50 多个为免费服务。\n2. **工具集成**：支持与 Claude Code、Codex、Cursor、Cline 和 Copilot 等流行开发工具无缝集成。\n3. **令牌压缩**：采用 RTK（实时内核）和 Caveman 堆叠压缩技术，可减少 15-95% 的令牌消耗，显著降低成本。\n4. **智能回退**：自动在提供商之间切换，确保服务高可用性。\n5. **协议支持**：支持 MCP（模型上下文协议）和 A2A（代理到代理）通信。\n6. **多模态 API**：支持文本、图像等多模态输入输出。\n7. **部署方式**：提供桌面应用和渐进式 Web 应用（PWA）两种形式。\n该项目在 GitHub 上获得 6337 颗星和 1104 个分支，日增星 135 颗，属于 TypeScript 语言的热门项目。",
+  "tags": [
+    "AI 网关",
+    "免费 AI 提供商",
+    "令牌压缩",
+    "多模态 API",
+    "MCP",
+    "A2A",
+    "TypeScript",
+    "开源",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:14+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "diegosouzapw",
+    "stars": 6337,
+    "forks": 1104,
+    "daily_stars": 135,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260616-github-0d88eaa183",
+  "title": "OpenBMB/VoxCPM",
+  "source": "github_trending",
+  "source_url": "https://github.com/OpenBMB/VoxCPM",
+  "summary": "VoxCPM2 是一个无分词器的文本转语音（TTS）模型，支持多语言语音生成、创意语音设计以及逼真的语音克隆。",
+  "content": "VoxCPM2 由 OpenBMB 团队开发，是一个创新的 TTS 系统，其核心特点是无分词器（Tokenizer-Free）架构，能够直接处理语音和文本的连续表示，从而提升生成质量和多语言适应性。该模型支持多语言语音生成，可应用于多种语言场景；具备创意语音设计能力，允许用户自定义语音风格和情感表达；同时，它还能实现逼真的语音克隆，仅需少量样本即可复制特定说话人的音色和语调。项目在 GitHub 上获得了广泛关注，拥有 29914 颗星和 3389 个分支，近期日增星数达 413，显示出其在语音生成领域的热度和潜力。",
+  "tags": [
+    "文本转语音",
+    "多语言语音生成",
+    "语音克隆",
+    "无分词器",
+    "创意语音设计",
+    "OpenBMB",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:11+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "OpenBMB",
+    "stars": 29914,
+    "forks": 3389,
+    "daily_stars": 413,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

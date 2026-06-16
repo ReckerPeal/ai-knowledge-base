@@ -1,0 +1,34 @@
+{
+  "id": "20260616-github-2166f9902f",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "summary": "本文介绍了作者搭建的个人AI开发平台（Homelab），详细描述了硬件配置、软件栈以及如何利用该平台进行AI模型训练和推理。文章还讨论了在家庭环境中部署AI基础设施的挑战与解决方案，并分享了实际使用中的性能优化经验。",
+  "content": "作者在文章中分享了自己搭建个人AI开发平台（Homelab）的完整过程。硬件方面，使用了多块GPU（如NVIDIA RTX系列）和高性能CPU、大容量内存及SSD存储。软件栈包括Docker容器化部署、Kubernetes集群管理、Jupyter Notebook开发环境，以及PyTorch、TensorFlow等深度学习框架。文章重点介绍了如何通过分布式训练框架（如Horovod）和模型并行技术提升训练效率，并讨论了数据管理、网络配置、散热和功耗等实际问题。此外，作者还展示了如何利用该平台进行模型微调、推理服务部署，以及集成MLflow进行实验跟踪。最后，总结了Homelab在成本、灵活性和学习价值方面的优势，并给出了对初学者的建议。",
+  "tags": [
+    "AI开发平台",
+    "Homelab",
+    "深度学习",
+    "GPU",
+    "Docker",
+    "Kubernetes",
+    "PyTorch",
+    "TensorFlow",
+    "分布式训练",
+    "模型推理"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-15T15:09:40+00:00",
+  "collected_at": "2026-06-16T19:47:28+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

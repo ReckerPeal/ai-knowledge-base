@@ -1,0 +1,33 @@
+{
+  "id": "20260616-github-06be26e0ce",
+  "title": "rolldown/rolldown",
+  "source": "github_trending",
+  "source_url": "https://github.com/rolldown/rolldown",
+  "summary": "rolldown 是一个用 Rust 编写的快速 JavaScript/TypeScript 打包工具，提供与 Rollup 兼容的 API。",
+  "content": "rolldown 是一个高性能的 JavaScript/TypeScript 打包器，使用 Rust 语言开发，旨在替代或补充现有的打包工具如 Rollup。它兼容 Rollup 的插件接口和配置方式，使得用户可以无缝迁移。该项目在 GitHub 上获得了 13763 颗星和 794 个分支，近期每日新增约 15 颗星，每周新增 74 颗星，显示出较高的社区关注度。主要优势在于 Rust 带来的编译速度和内存效率，适合大型项目或需要快速构建的场景。",
+  "tags": [
+    "Rust",
+    "JavaScript",
+    "TypeScript",
+    "打包工具",
+    "Rollup 兼容",
+    "高性能",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rolldown",
+    "stars": 13763,
+    "forks": 794,
+    "daily_stars": 15,
+    "weekly_stars": 74,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

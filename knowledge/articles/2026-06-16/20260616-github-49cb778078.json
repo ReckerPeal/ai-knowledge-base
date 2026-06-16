@@ -1,0 +1,32 @@
+{
+  "id": "20260616-github-49cb778078",
+  "title": "goharbor/harbor",
+  "source": "github_trending",
+  "source_url": "https://github.com/goharbor/harbor",
+  "summary": "Harbor 是一个开源的受信任云原生镜像仓库项目，支持镜像存储、签名和扫描。",
+  "content": "Harbor 是一个由云原生计算基金会（CNCF）托管的开源项目，旨在提供安全、可信的容器镜像管理解决方案。它支持镜像的存储、签名和漏洞扫描，确保镜像的完整性和安全性。Harbor 还提供基于角色的访问控制、镜像复制、审计日志等功能，适用于企业级云原生环境。该项目使用 Go 语言开发，拥有超过 28,000 颗星和 5,000 多个分支，是 GitHub 上热门的 Go 项目之一。",
+  "tags": [
+    "Harbor",
+    "云原生",
+    "镜像仓库",
+    "容器",
+    "安全",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:28+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "goharbor",
+    "stars": 28711,
+    "forks": 5260,
+    "daily_stars": null,
+    "weekly_stars": 59,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

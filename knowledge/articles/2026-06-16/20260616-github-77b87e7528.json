@@ -1,0 +1,32 @@
+{
+  "id": "20260616-github-77b87e7528",
+  "title": "cloudnative-pg/cloudnative-pg",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+  "summary": "CloudNativePG 是一个专为在 Kubernetes 环境中无缝管理 PostgreSQL 数据库而设计的综合平台，覆盖从初始部署到持续运维的整个生命周期。",
+  "content": "CloudNativePG 是一个开源项目，旨在为 Kubernetes 提供原生的 PostgreSQL 数据库管理解决方案。它通过自定义资源定义（CRD）和操作器模式，实现了 PostgreSQL 集群的自动化部署、扩展、备份、恢复和监控。该项目支持高可用性配置、滚动更新、数据持久化以及跨区域复制等高级功能，帮助用户简化在云原生环境中的数据库运维工作。其 GitHub 仓库拥有 8815 颗星和 711 个分支，近期每日新增约 5 颗星，表明该项目在开发者社区中具有较高的关注度和活跃度。",
+  "tags": [
+    "PostgreSQL",
+    "Kubernetes",
+    "数据库管理",
+    "云原生",
+    "操作器",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:18+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudnative-pg",
+    "stars": 8815,
+    "forks": 711,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260616-github-e90580cec6",
+  "title": "elastic/beats",
+  "source": "github_trending",
+  "source_url": "https://github.com/elastic/beats",
+  "summary": "Elastic Beats 是用于 Elasticsearch 和 Logstash 的轻量级数据采集器，支持多种数据源。",
+  "content": "Elastic Beats 是 Elastic 公司开发的一系列轻量级数据采集器，用于将各种类型的数据发送到 Elasticsearch 或 Logstash。它支持从服务器、容器、网络设备等来源采集日志、指标、网络数据等，具有低资源占用、易于部署和扩展的特点。该项目在 GitHub 上拥有超过 1.2 万星标，是 Go 语言实现的流行数据采集工具。",
+  "tags": [
+    "Elasticsearch",
+    "Logstash",
+    "数据采集",
+    "轻量级",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:18+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "elastic",
+    "stars": 12627,
+    "forks": 5011,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

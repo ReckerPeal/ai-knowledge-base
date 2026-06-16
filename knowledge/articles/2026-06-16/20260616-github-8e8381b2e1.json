@@ -1,0 +1,33 @@
+{
+  "id": "20260616-github-8e8381b2e1",
+  "title": "swc-project/swc",
+  "source": "github_trending",
+  "source_url": "https://github.com/swc-project/swc",
+  "summary": "swc 是一个基于 Rust 的 Web 开发平台，旨在提供高性能的 JavaScript/TypeScript 编译和打包能力。",
+  "content": "swc 项目是一个用 Rust 语言编写的 Web 平台，专注于为 JavaScript 和 TypeScript 提供超快速的编译和打包工具。它利用 Rust 的性能优势，替代了传统的 Babel 和 Terser 等工具，显著提升了构建速度。该项目在 GitHub 上拥有超过 33,000 颗星，近期日增星约 175 颗，周增星 385 颗，显示出极高的社区关注度。swc 的核心优势在于其 Rust 实现带来的编译效率，适用于现代前端开发中的代码转换、压缩和打包场景。",
+  "tags": [
+    "Rust",
+    "Web 平台",
+    "JavaScript 编译器",
+    "TypeScript 编译器",
+    "打包工具",
+    "高性能",
+    "前端工具链"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:16+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "swc-project",
+    "stars": 33891,
+    "forks": 1412,
+    "daily_stars": 175,
+    "weekly_stars": 385,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

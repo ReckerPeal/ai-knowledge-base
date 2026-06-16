@@ -1,0 +1,41 @@
+{
+  "id": "20260616-github-b2dcc5381c",
+  "title": "bluenviron/mediamtx",
+  "source": "github_trending",
+  "source_url": "https://github.com/bluenviron/mediamtx",
+  "summary": "Mediamtx 是一个即用型实时媒体服务器和代理，支持多种协议（QUIC、SRT、WebRTC、RTSP、RTMP、LL-HLS、MPEG-TS、RTP），能够读取、发布、代理、录制和回放实时视频与音频流。",
+  "content": "Mediamtx 是一个用 Go 语言开发的高性能实时媒体服务器和媒体代理。它支持多种现代和传统流媒体协议，包括 QUIC、SRT、WebRTC、RTSP、RTMP、LL-HLS、MPEG-TS 和 RTP。该项目的核心功能是允许用户读取、发布、代理、录制和回放实时视频与音频流。它被设计为即用型解决方案，无需复杂配置即可快速部署。Mediamtx 在 GitHub 上拥有超过 19100 颗星和 2258 个分支，社区活跃，每周获得约 112 颗新星。该项目适用于需要低延迟、多协议支持的实时流媒体场景，如直播、监控、视频会议等。",
+  "tags": [
+    "实时媒体服务器",
+    "流媒体代理",
+    "Go",
+    "WebRTC",
+    "RTSP",
+    "RTMP",
+    "LL-HLS",
+    "SRT",
+    "QUIC",
+    "MPEG-TS",
+    "RTP",
+    "视频流",
+    "音频流",
+    "录制",
+    "回放"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:28+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "bluenviron",
+    "stars": 19110,
+    "forks": 2258,
+    "daily_stars": null,
+    "weekly_stars": 112,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

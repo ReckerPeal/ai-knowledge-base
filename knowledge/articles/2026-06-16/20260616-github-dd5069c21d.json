@@ -1,0 +1,32 @@
+{
+  "id": "20260616-github-dd5069c21d",
+  "title": "cloudreve/cloudreve",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudreve/cloudreve",
+  "summary": "Cloudreve 是一个自托管的文件管理和分享系统，支持多种存储提供商。",
+  "content": "Cloudreve 是一个用 Go 语言开发的自托管云盘系统，允许用户搭建私有文件管理平台。它支持多种存储后端，包括本地存储、阿里云 OSS、腾讯云 COS、七牛、又拍云、S3 兼容协议等。项目提供文件上传、下载、分享、在线预览、目录管理等功能，并具备多用户、多存储策略、WebDAV 支持等特性。界面简洁，易于部署，适合个人或团队构建私有云存储服务。",
+  "tags": [
+    "文件管理",
+    "自托管",
+    "云盘",
+    "Go",
+    "存储",
+    "分享"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-16T19:47:18+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudreve",
+    "stars": 28119,
+    "forks": 3847,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
