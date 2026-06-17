@@ -1,0 +1,36 @@
+{
+  "id": "20260617-github-ede044db73",
+  "title": "roboflow/rf-detr",
+  "source": "github_trending",
+  "source_url": "https://github.com/roboflow/rf-detr",
+  "summary": "RF-DETR 是 Roboflow 开发的实时目标检测与分割模型架构，在 COCO 数据集上达到 SOTA 水平，专为微调设计，已被 ICLR 2026 接收。",
+  "content": "RF-DETR 是一种基于 Transformer 的实时目标检测与分割模型，由 Roboflow 团队开发。该模型在 COCO 基准测试上取得了当前最优（SOTA）性能，特别适合下游任务的微调。项目在 GitHub 上获得 7846 颗星和 1000 个 fork，日增星 65 颗，属于 Python 语言的热门仓库。其核心创新在于高效的 DETR 架构优化，兼顾实时性与精度，已被 ICLR 2026 会议接收。",
+  "tags": [
+    "RF-DETR",
+    "目标检测",
+    "分割",
+    "实时",
+    "COCO",
+    "SOTA",
+    "微调",
+    "ICLR 2026",
+    "Roboflow",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-17T19:34:20+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "roboflow",
+    "stars": 7846,
+    "forks": 1000,
+    "daily_stars": 65,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

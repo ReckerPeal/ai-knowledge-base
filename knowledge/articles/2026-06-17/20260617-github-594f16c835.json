@@ -1,0 +1,31 @@
+{
+  "id": "20260617-github-594f16c835",
+  "title": "netbirdio/netbird",
+  "source": "github_trending",
+  "source_url": "https://github.com/netbirdio/netbird",
+  "summary": "Netbird 是一个基于 WireGuard 的开源 VPN 工具，用于构建安全的覆盖网络，支持单点登录、多因素认证和细粒度访问控制。",
+  "content": "Netbird 是一个用 Go 语言开发的开源项目，旨在通过 WireGuard 协议将设备连接成一个安全的覆盖网络。它提供了企业级功能，如单点登录（SSO）、多因素认证（MFA）和细粒度访问控制，使得用户可以轻松管理设备间的安全通信。该项目在 GitHub 上获得了超过 26000 颗星，拥有 1400 多个分支，显示出较高的社区关注度和活跃度。其核心优势在于简化了 VPN 的部署和管理，同时保持了高性能和安全性。",
+  "tags": [
+    "WireGuard",
+    "VPN",
+    "覆盖网络",
+    "安全",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-17T19:34:38+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "netbirdio",
+    "stars": 26022,
+    "forks": 1411,
+    "daily_stars": null,
+    "weekly_stars": 182,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

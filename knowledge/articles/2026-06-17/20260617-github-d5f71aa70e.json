@@ -1,0 +1,32 @@
+{
+  "id": "20260617-github-d5f71aa70e",
+  "title": "fastapi/typer",
+  "source": "github_trending",
+  "source_url": "https://github.com/fastapi/typer",
+  "summary": "Typer 是一个基于 Python 类型提示构建命令行界面（CLI）的库，由 FastAPI 作者开发，强调易用性和代码简洁性。",
+  "content": "Typer 是一个用于构建命令行应用程序的 Python 库，其核心理念是利用 Python 的类型提示（type hints）自动生成 CLI 参数解析和帮助文档，从而让开发者专注于业务逻辑。它由 FastAPI 的同一作者开发，因此继承了 FastAPI 的简洁设计哲学。Typer 支持子命令、选项、参数、默认值、自动补全等功能，并且与 Click 兼容，但代码量更少。该项目在 GitHub 上拥有超过 19500 颗星，是 Python CLI 开发的热门选择。",
+  "tags": [
+    "Python",
+    "CLI",
+    "类型提示",
+    "FastAPI",
+    "命令行工具",
+    "Typer"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-17T19:34:20+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "fastapi",
+    "stars": 19579,
+    "forks": 916,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
