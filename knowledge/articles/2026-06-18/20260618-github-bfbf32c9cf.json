@@ -1,0 +1,33 @@
+{
+  "id": "20260618-github-bfbf32c9cf",
+  "title": "promptfoo/promptfoo",
+  "source": "github_trending",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "promptfoo 是一个用于测试和评估 AI 提示词、代理及 RAG 系统的开源工具，支持红队测试、渗透测试和漏洞扫描。它能够比较 GPT、Claude、Gemini、DeepSeek 等多种模型的性能，提供简单的声明式配置，并集成命令行和 CI/CD 流程。已被 OpenAI 和 Anthropic 使用。",
+  "content": "promptfoo 是一个专注于 AI 安全与性能评估的开源项目，旨在帮助开发者系统性地测试和优化提示词、代理及检索增强生成（RAG）系统。其核心功能包括：1）红队测试/渗透测试/漏洞扫描，用于识别 AI 系统的安全弱点；2）多模型性能对比，支持 GPT、Claude、Gemini、DeepSeek 等主流模型；3）声明式配置，通过简单的 YAML 或 JSON 文件定义测试场景；4）命令行工具和 CI/CD 集成，便于自动化测试流程。该项目在 GitHub 上拥有 22346 颗星和 1996 个分支，日增星 41 颗，由 promptfoo 团队维护，被 OpenAI 和 Anthropic 等公司采用。",
+  "tags": [
+    "AI 测试",
+    "红队测试",
+    "提示词工程",
+    "RAG 评估",
+    "模型对比",
+    "安全扫描",
+    "CI/CD 集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:22:52+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "promptfoo",
+    "stars": 22346,
+    "forks": 1996,
+    "daily_stars": 41,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

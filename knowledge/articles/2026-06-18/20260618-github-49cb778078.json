@@ -1,0 +1,33 @@
+{
+  "id": "20260618-github-49cb778078",
+  "title": "goharbor/harbor",
+  "source": "github_trending",
+  "source_url": "https://github.com/goharbor/harbor",
+  "summary": "Harbor 是一个开源的受信任云原生仓库项目，用于存储、签名和扫描容器镜像内容。",
+  "content": "Harbor 是一个由 goharbor 组织维护的开源云原生容器镜像仓库，支持镜像的存储、签名和漏洞扫描。它基于 Go 语言开发，在 GitHub 上拥有 28731 颗星和 5260 个分支，周增星 65 颗，属于 GitHub 热点 Go 项目。Harbor 提供企业级功能，如访问控制、复制和审计，适用于 Kubernetes 等云原生环境。",
+  "tags": [
+    "Harbor",
+    "容器镜像仓库",
+    "云原生",
+    "Go",
+    "开源",
+    "镜像签名",
+    "漏洞扫描"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:23:09+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "goharbor",
+    "stars": 28731,
+    "forks": 5260,
+    "daily_stars": null,
+    "weekly_stars": 65,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

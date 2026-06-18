@@ -1,0 +1,36 @@
+{
+  "id": "20260618-github-1d6d0b1fca",
+  "title": "nuxt/nuxt",
+  "source": "github_trending",
+  "source_url": "https://github.com/nuxt/nuxt",
+  "summary": "Nuxt 是一个基于 Vue.js 的全栈框架，旨在简化服务端渲染、静态站点生成和单页应用的开发。它提供了约定优于配置的项目结构、自动路由、模块化插件系统以及强大的数据获取能力，支持 TypeScript，并集成了 Vite 等现代构建工具。",
+  "content": "Nuxt 是 Vue.js 生态中最流行的全栈框架之一，由 Nuxt Labs 团队维护。它通过约定优于配置的方式，自动处理路由、代码分割、服务端渲染（SSR）和静态站点生成（SSG），使开发者能够快速构建高性能的 Web 应用。Nuxt 3 版本基于 Vue 3、Vite 和 Nitro 引擎，支持 TypeScript 原生集成、组合式 API（Composables）、自动导入组件和模块化架构。其模块生态覆盖了认证（如 Nuxt Auth）、内容管理（Nuxt Content）、UI 组件库（Nuxt UI）等常见需求。截至 2026 年 6 月，该项目在 GitHub 上拥有超过 6 万颗星，社区活跃，每周新增约 96 颗星，是 TypeScript 领域最受关注的开源项目之一。",
+  "tags": [
+    "Vue.js",
+    "全栈框架",
+    "服务端渲染",
+    "静态站点生成",
+    "TypeScript",
+    "Nuxt",
+    "前端框架",
+    "SSR",
+    "SSG",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:23:03+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "nuxt",
+    "stars": 60479,
+    "forks": 5670,
+    "daily_stars": null,
+    "weekly_stars": 96,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

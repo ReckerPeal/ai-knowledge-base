@@ -1,0 +1,32 @@
+{
+  "id": "20260618-github-72dd30b944",
+  "title": "kubevirt/kubevirt",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubevirt/kubevirt",
+  "summary": "KubeVirt 是一个 Kubernetes 虚拟化 API 和运行时，用于定义和管理虚拟机。",
+  "content": "KubeVirt 是一个开源项目，旨在将虚拟化功能集成到 Kubernetes 中。它提供了一组 API 和运行时组件，允许用户在 Kubernetes 集群中定义、部署和管理虚拟机（VM）。该项目支持将虚拟机作为 Kubernetes 资源进行管理，与容器化应用共存，并利用 Kubernetes 的编排、扩展和网络功能。KubeVirt 适用于需要运行传统虚拟机工作负载的场景，同时享受 Kubernetes 的云原生优势。",
+  "tags": [
+    "Kubernetes",
+    "虚拟化",
+    "虚拟机",
+    "Go",
+    "云原生",
+    "KubeVirt"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:22:58+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubevirt",
+    "stars": 6906,
+    "forks": 1704,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

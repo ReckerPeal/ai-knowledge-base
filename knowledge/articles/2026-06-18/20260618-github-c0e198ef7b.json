@@ -1,0 +1,36 @@
+{
+  "id": "20260618-github-c0e198ef7b",
+  "title": "maziyarpanahi/openmed",
+  "source": "github_trending",
+  "source_url": "https://github.com/maziyarpanahi/openmed",
+  "summary": "OpenMed 是一个本地优先的医疗 AI 项目，专注于临床命名实体识别（NER）和 HIPAA 规定的 PII 去标识化，所有处理均在设备端完成，无需云端依赖。项目包含 1000 多个医疗模型，支持 12 种语言，基于 Apple MLX 和 Python 构建，确保患者数据不离开本地网络。采用 Apache-2.0 许可证。",
+  "content": "该项目由 maziyarpanahi 开发，在 GitHub 上获得 3593 颗星和 375 个分支，周增长 1415 颗星，属于热门 Python 项目。其核心优势在于本地化运行，避免数据外泄，适用于医疗场景下的隐私保护。支持的 12 种语言和大量模型使其具有较高的灵活性和覆盖度。技术栈包括 Apple MLX（针对 Apple Silicon 优化的机器学习框架）和 Python，适合在苹果设备上高效部署。",
+  "tags": [
+    "医疗 AI",
+    "临床 NER",
+    "HIPAA",
+    "PII 去标识化",
+    "本地优先",
+    "Apple MLX",
+    "Python",
+    "隐私保护",
+    "多语言",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:23:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "maziyarpanahi",
+    "stars": 3593,
+    "forks": 375,
+    "daily_stars": null,
+    "weekly_stars": 1415,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

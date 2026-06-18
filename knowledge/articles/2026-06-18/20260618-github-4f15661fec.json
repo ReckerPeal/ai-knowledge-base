@@ -1,0 +1,33 @@
+{
+  "id": "20260618-github-4f15661fec",
+  "title": "fleetdm/fleet",
+  "source": "github_trending",
+  "source_url": "https://github.com/fleetdm/fleet",
+  "summary": "Fleet 是一个开源的设备管理平台，专注于为 IT 和安全团队提供统一的设备可见性和控制能力。它支持跨平台（包括 macOS、Windows、Linux 和 ChromeOS）的设备管理，集成了 osquery 用于实时查询和监控，并提供了基于角色的访问控制、漏洞管理、软件清单和策略执行等功能。该项目在 GitHub 上拥有 6503 颗星和 920 个 Fork，近期每日获得 9 颗星，显示出活跃的社区关注度。",
+  "content": "Fleet 是一个现代化的开源设备管理解决方案，旨在替代传统的 MDM（移动设备管理）工具。其核心优势在于：\n1. **基于 osquery**：利用 osquery 进行实时设备状态查询，支持自定义 SQL 查询以获取详细的系统信息。\n2. **跨平台支持**：覆盖 macOS、Windows、Linux 和 ChromeOS，满足异构环境的管理需求。\n3. **安全与合规**：内置漏洞检测、策略自动修复和合规报告功能，帮助组织快速响应安全威胁。\n4. **可扩展性**：提供 REST API 和 CLI 工具，便于集成到现有 DevOps 和安全工作流中。\n5. **社区驱动**：作为开源项目，Fleet 拥有活跃的贡献者社区和详细的文档，降低了部署和定制门槛。\n该仓库由 fleetdm 组织维护，主要使用 Go 语言开发，适合需要统一设备管理的中大型企业或安全团队。",
+  "tags": [
+    "开源设备管理",
+    "osquery",
+    "MDM",
+    "Go",
+    "IT运维",
+    "安全合规",
+    "跨平台管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:22:58+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "fleetdm",
+    "stars": 6503,
+    "forks": 920,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

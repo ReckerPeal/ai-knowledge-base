@@ -1,0 +1,31 @@
+{
+  "id": "20260618-github-ccda3e6dc3",
+  "title": "zhom/donutbrowser",
+  "source": "github_trending",
+  "source_url": "https://github.com/zhom/donutbrowser",
+  "summary": "zhom/donutbrowser 是一个基于 Rust 开发的简单而强大的反检测浏览器，旨在提供隐私保护和指纹伪装功能。",
+  "content": "zhom/donutbrowser 是一个开源的抗检测浏览器项目，使用 Rust 语言编写。它通过模拟真实浏览器环境、隐藏或修改浏览器指纹（如 User-Agent、屏幕分辨率、WebGL 等）来防止网站追踪用户身份。该工具适用于需要多账号管理、隐私保护或绕过反爬虫机制的场景。项目在 GitHub 上获得了 3082 颗星和 312 个 fork，周增长 300 星，显示出较高的社区关注度。",
+  "tags": [
+    "反检测浏览器",
+    "隐私保护",
+    "Rust",
+    "浏览器指纹",
+    "多账号管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-18T19:23:06+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "zhom",
+    "stars": 3082,
+    "forks": 312,
+    "daily_stars": null,
+    "weekly_stars": 300,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
