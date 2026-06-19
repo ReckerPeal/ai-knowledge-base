@@ -1,0 +1,33 @@
+{
+  "id": "20260619-github-7fc711fd12",
+  "title": "dagger/dagger",
+  "source": "github_trending",
+  "source_url": "https://github.com/dagger/dagger",
+  "summary": "Dagger 是一个自动化引擎，用于构建、测试和交付任何代码库。它支持在本地、CI 环境或云端直接运行。",
+  "content": "Dagger 是一个开源的自动化引擎，旨在简化开发者的工作流。它允许用户通过统一的 API 和可编程的管道来构建、测试和部署代码，无需依赖特定的 CI 工具或云平台。Dagger 的核心优势在于其可移植性：相同的配置可以在本地开发环境、持续集成（CI）系统或云服务中无缝运行。该项目使用 Go 语言开发，在 GitHub 上获得了超过 15,000 颗星，显示出社区的高度关注。",
+  "tags": [
+    "自动化引擎",
+    "CI/CD",
+    "构建工具",
+    "测试",
+    "部署",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-19T19:32:46+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "dagger",
+    "stars": 15979,
+    "forks": 890,
+    "daily_stars": null,
+    "weekly_stars": 52,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260619-github-2714f8ed7d",
+  "title": "thanos-io/thanos",
+  "source": "github_trending",
+  "source_url": "https://github.com/thanos-io/thanos",
+  "summary": "Thanos 是一个高可用 Prometheus 设置，具备长期存储能力，是 CNCF 孵化项目。",
+  "content": "Thanos 是一个开源项目，旨在扩展 Prometheus 监控系统，提供高可用性和长期存储功能。它通过 Sidecar 组件与现有 Prometheus 实例集成，支持全局查询视图、数据压缩和对象存储（如 S3、GCS）的长期保留。该项目由 thanos-io 组织维护，在 GitHub 上拥有 14113 颗星和 2317 个分支，每日新增约 4 颗星。作为 CNCF 孵化项目，Thanos 适用于需要跨集群监控和长期数据保留的场景。",
+  "tags": [
+    "Prometheus",
+    "监控",
+    "高可用",
+    "长期存储",
+    "CNCF",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-19T19:32:34+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "thanos-io",
+    "stars": 14113,
+    "forks": 2317,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

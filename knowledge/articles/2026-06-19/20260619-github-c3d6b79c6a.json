@@ -1,0 +1,32 @@
+{
+  "id": "20260619-github-c3d6b79c6a",
+  "title": "continuedev/continue",
+  "source": "github_trending",
+  "source_url": "https://github.com/continuedev/continue",
+  "summary": "Continue 是一个开源的编码智能体，旨在帮助开发者在 IDE 中直接与 AI 模型交互，实现代码生成、解释、重构等任务。它支持多种大语言模型（如 GPT-4、Claude 等），并提供自定义上下文和工具链集成。",
+  "content": "Continue 是一个开源的编码智能体（Coding Agent），作为 VS Code 和 JetBrains IDE 的扩展运行。它允许开发者在编辑器中直接与 AI 模型对话，执行代码生成、解释、重构、测试编写等任务。项目支持多种后端模型（包括 OpenAI、Anthropic、本地模型等），并提供可扩展的上下文系统（如文件、终端、Git 历史等）。其核心特性包括：\n- 多模型支持：可切换 GPT-4、Claude、Code Llama 等。\n- 上下文感知：自动获取当前文件、错误日志、终端输出等。\n- 自定义 Slash 命令：用户可定义常用操作（如 /fix、/test）。\n- 开源与可扩展：允许开发者贡献新模型、上下文提供者和工具。\n该项目在 GitHub 上拥有 34k+ 星标，社区活跃，适合希望提升编码效率的开发者。",
+  "tags": [
+    "开源",
+    "编码智能体",
+    "AI 辅助编程",
+    "IDE 扩展",
+    "代码生成",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-19T19:32:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "continuedev",
+    "stars": 34115,
+    "forks": 4733,
+    "daily_stars": 254,
+    "weekly_stars": 450,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260619-github-24ecda70c2",
+  "title": "Velocidex/velociraptor",
+  "source": "github_trending",
+  "source_url": "https://github.com/Velocidex/velociraptor",
+  "summary": "Velocidex/velociraptor 是一个用 Go 语言编写的数字取证与事件响应（DFIR）工具，专注于高效的数据收集和深度分析。该项目在 GitHub 上获得 4028 颗星和 623 个分支，每日新增 3 颗星，属于 GitHub 热点中的 Go 语言项目。",
+  "content": "Velocidex/velociraptor 是一个开源的端点监控、数字取证和事件响应平台。它允许安全团队快速部署代理到大量端点，实时收集系统活动数据（如进程、网络连接、文件系统变更等），并支持通过 Velociraptor Query Language (VQL) 进行灵活的数据查询和分析。该工具特别适合用于威胁狩猎、事件调查和合规审计场景。其核心优势包括：1）高性能的分布式架构，支持大规模部署；2）强大的 VQL 查询引擎，可自定义调查逻辑；3）内置丰富的工件库，覆盖常见取证需求；4）支持实时监控和历史数据回溯。项目由 Velocidex 团队维护，社区活跃，文档完善。",
+  "tags": [
+    "数字取证",
+    "事件响应",
+    "端点监控",
+    "Go",
+    "安全工具",
+    "威胁狩猎",
+    "VQL"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-19T19:32:34+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Velocidex",
+    "stars": 4028,
+    "forks": 623,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

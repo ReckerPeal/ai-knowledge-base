@@ -1,0 +1,33 @@
+{
+  "id": "20260619-github-20f7b65183",
+  "title": "TabbyML/tabby",
+  "source": "github_trending",
+  "source_url": "https://github.com/TabbyML/tabby",
+  "summary": "TabbyML/tabby 是一个自托管的 AI 编程助手，旨在为开发者提供代码补全、生成和解释等功能，支持本地部署以保护代码隐私。",
+  "content": "TabbyML/tabby 是一个基于 Rust 开发的自托管 AI 编程助手，类似于 GitHub Copilot 但强调隐私和可控性。它允许用户在本地或私有服务器上运行，无需将代码发送到第三方云服务。项目支持多种编程语言，提供代码补全、生成、解释和重构等功能。Tabby 使用大型语言模型（LLM）进行推理，并针对低延迟和高效资源利用进行了优化。其架构包括一个后端服务（基于 Rust 和 Actix-web）和一个前端扩展（支持 VS Code、JetBrains 等 IDE）。该项目在 GitHub 上获得了超过 33,000 颗星，表明其在开发者社区中的高关注度。主要优势包括：完全自托管、数据隐私保护、可定制模型、以及活跃的开源社区支持。",
+  "tags": [
+    "AI 编程助手",
+    "自托管",
+    "代码补全",
+    "Rust",
+    "隐私保护",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-19T19:32:31+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "TabbyML",
+    "stars": 33619,
+    "forks": 1754,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
