@@ -1,0 +1,38 @@
+{
+  "id": "20260620-github-be2f64b975",
+  "title": "zitadel/zitadel",
+  "source": "github_trending",
+  "source_url": "https://github.com/zitadel/zitadel",
+  "summary": "ZITADEL 是一个开源的身份基础设施平台，旨在简化身份验证和授权管理。它提供单点登录（SSO）、多因素认证（MFA）、用户管理等功能，支持 OAuth 2.0、OpenID Connect 等标准协议，适用于现代应用和微服务架构。",
+  "content": "ZITADEL 是一个用 Go 语言开发的开源身份基础设施平台，专注于为开发者提供简单、安全的身份验证和授权解决方案。它支持 OAuth 2.0、OpenID Connect、SAML 2.0 等标准协议，提供单点登录（SSO）、多因素认证（MFA）、用户管理、角色和权限控制等功能。ZITADEL 采用云原生设计，支持 Kubernetes 部署，具有高可用性和可扩展性。其架构基于事件溯源和 CQRS 模式，确保数据一致性和审计日志的完整性。该项目在 GitHub 上拥有 14131 颗星和 1119 个 fork，近期周增长 113 颗星，属于 GitHub 热点项目，类别为 Go 语言。",
+  "tags": [
+    "身份基础设施",
+    "身份验证",
+    "授权",
+    "单点登录",
+    "多因素认证",
+    "OAuth 2.0",
+    "OpenID Connect",
+    "Go",
+    "云原生",
+    "Kubernetes",
+    "事件溯源",
+    "CQRS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "zitadel",
+    "stars": 14131,
+    "forks": 1119,
+    "daily_stars": null,
+    "weekly_stars": 113,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

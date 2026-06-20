@@ -1,0 +1,33 @@
+{
+  "id": "20260620-github-c70839f114",
+  "title": "dbt-labs/dbt-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/dbt-labs/dbt-core",
+  "summary": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。",
+  "content": "dbt-core 是 dbt-labs 开发的核心数据构建工具，它允许数据分析师和工程师通过类似软件工程的方法（如版本控制、测试、文档化）来转换数据。该项目在 GitHub 上拥有 13036 颗星和 2423 个分支，近期每日新增约 1 颗星，每周新增约 49 颗星。它被归类为 Rust 语言的热点项目，但实际主要使用 SQL 和 Python 进行数据转换，Rust 可能用于性能关键组件。dbt 的核心价值在于将分析工程实践标准化，提升数据团队的协作效率和代码质量。",
+  "tags": [
+    "dbt",
+    "数据转换",
+    "分析工程",
+    "Rust",
+    "数据管道",
+    "ETL",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:13+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "dbt-labs",
+    "stars": 13036,
+    "forks": 2423,
+    "daily_stars": 1,
+    "weekly_stars": 49,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

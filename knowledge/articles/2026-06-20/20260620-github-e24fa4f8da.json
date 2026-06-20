@@ -1,0 +1,31 @@
+{
+  "id": "20260620-github-e24fa4f8da",
+  "title": "k0sproject/k0s",
+  "source": "github_trending",
+  "source_url": "https://github.com/k0sproject/k0s",
+  "summary": "k0s 是一个零摩擦的 Kubernetes 发行版，旨在简化 Kubernetes 集群的部署和管理。它提供了一种轻量级、全功能且易于安装的 Kubernetes 解决方案，适用于开发、测试和生产环境。",
+  "content": "k0s 是一个由 k0sproject 维护的开源项目，专注于提供零摩擦的 Kubernetes 体验。它通过单一二进制文件实现 Kubernetes 集群的快速部署，支持单节点和多节点配置，并内置了容器运行时、网络插件和存储插件等核心组件。k0s 的设计目标是降低 Kubernetes 的复杂性，使开发者能够轻松上手，同时保持与标准 Kubernetes API 的完全兼容性。该项目在 GitHub 上获得了 6287 颗星和 511 个分支，显示出较高的社区关注度。",
+  "tags": [
+    "Kubernetes",
+    "容器编排",
+    "云原生",
+    "Go",
+    "零摩擦"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "k0sproject",
+    "stars": 6287,
+    "forks": 511,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260620-github-155a59689a",
+  "title": "OSU-NLP-Group/HippoRAG",
+  "source": "github_trending",
+  "source_url": "https://github.com/OSU-NLP-Group/HippoRAG",
+  "summary": "HippoRAG 是一种受人类长期记忆启发的新型 RAG 框架，通过结合知识图谱与个性化 PageRank 算法，使大语言模型能够持续整合外部文档中的知识。该工作已被 NeurIPS'24 接收。",
+  "content": "HippoRAG 由 OSU-NLP-Group 开发，旨在解决传统 RAG 系统在跨文档知识整合方面的局限性。其核心创新在于模拟人类长期记忆机制，利用知识图谱结构存储文档间的语义关联，并通过个性化 PageRank 算法动态检索最相关的信息片段。该框架支持 LLM 在多个外部文档间进行连续推理与知识融合，显著提升了复杂问答与知识密集型任务的性能。项目在 GitHub 上获得 3754 颗星，日增 33 星，社区关注度较高。",
+  "tags": [
+    "RAG",
+    "知识图谱",
+    "大语言模型",
+    "NeurIPS 2024",
+    "个性化 PageRank",
+    "长期记忆",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "OSU-NLP-Group",
+    "stars": 3754,
+    "forks": 399,
+    "daily_stars": 33,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

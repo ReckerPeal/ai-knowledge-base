@@ -1,0 +1,33 @@
+{
+  "id": "20260620-github-72942b4cf7",
+  "title": "VersusControl/versus-incident",
+  "source": "github_trending",
+  "source_url": "https://github.com/VersusControl/versus-incident",
+  "summary": "VersusControl/versus-incident 是一个开源的事件管理工具，集成了 AI SRE 代理，能够监控日志、学习正常模式并自动创建事件。它还支持 Webhook 告警、多渠道通知和值班升级功能。",
+  "content": "该工具基于 Go 语言开发，旨在通过 AI 技术自动化事件管理流程。其核心功能包括：1) AI SRE 代理持续分析日志数据，识别异常模式并自动生成事件；2) 支持 Webhook 集成，可触发自定义告警；3) 提供多渠道通知（如邮件、Slack 等）；4) 内置值班调度和升级机制，确保事件及时处理。项目在 GitHub 上获得 568 颗星和 92 个 Fork，近期日增星数达 15，表明社区关注度较高。",
+  "tags": [
+    "开源",
+    "事件管理",
+    "AI SRE",
+    "日志监控",
+    "告警",
+    "Go",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "VersusControl",
+    "stars": 568,
+    "forks": 92,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

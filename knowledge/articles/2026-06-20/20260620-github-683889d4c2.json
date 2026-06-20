@@ -1,0 +1,32 @@
+{
+  "id": "20260620-github-683889d4c2",
+  "title": "stanford-oval/storm",
+  "source": "github_trending",
+  "source_url": "https://github.com/stanford-oval/storm",
+  "summary": "STORM 是一个由斯坦福大学开发的、基于大语言模型的知识整理系统，能够自动研究主题并生成带有引用的完整报告。",
+  "content": "STORM（Structured Organization and Retrieval Model）是一个基于 LLM 的知识整理系统，由斯坦福大学 OVAL 实验室开发。该系统能够自动研究用户指定的主题，通过多轮搜索和对话式信息收集，生成结构化的、带有引用的完整报告。其核心流程包括：1）自动生成研究问题；2）模拟多角色对话以收集信息；3）基于收集的信息撰写报告。STORM 在 GitHub 上获得了超过 2.8 万颗星，是近期 AI 知识管理领域的热门项目。",
+  "tags": [
+    "LLM",
+    "知识整理",
+    "报告生成",
+    "斯坦福",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "stanford-oval",
+    "stars": 28861,
+    "forks": 2660,
+    "daily_stars": 196,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

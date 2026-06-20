@@ -1,0 +1,31 @@
+{
+  "id": "20260620-github-31f9ea73b7",
+  "title": "n0-computer/iroh",
+  "source": "github_trending",
+  "source_url": "https://github.com/n0-computer/iroh",
+  "summary": "n0-computer/iroh 是一个用 Rust 编写的模块化网络栈，旨在通过拨号键替代 IP 地址，解决网络连接中的地址失效问题。",
+  "content": "该项目提供了一种创新的网络通信方式，通过使用拨号键（dial keys）而非传统的 IP 地址，增强了网络的可靠性和灵活性。其模块化设计允许开发者根据需求组合不同的网络组件，适用于构建去中心化、点对点或高可用性的应用。基于 Rust 语言实现，保证了高性能和内存安全。",
+  "tags": [
+    "Rust",
+    "网络栈",
+    "模块化",
+    "去中心化",
+    "IP替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:13+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "n0-computer",
+    "stars": 10305,
+    "forks": 469,
+    "daily_stars": 302,
+    "weekly_stars": 1502,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

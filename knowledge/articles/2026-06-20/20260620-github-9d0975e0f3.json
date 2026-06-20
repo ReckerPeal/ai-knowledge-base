@@ -1,0 +1,32 @@
+{
+  "id": "20260620-github-9d0975e0f3",
+  "title": "dstotijn/hetty",
+  "source": "github_trending",
+  "source_url": "https://github.com/dstotijn/hetty",
+  "summary": "Hetty 是一个面向安全研究的 HTTP 工具包，提供代理、日志和重放功能，帮助研究人员分析和调试 HTTP 流量。",
+  "content": "Hetty 是一个用 Go 语言编写的开源 HTTP 工具包，专为安全研究设计。它集成了 HTTP 代理、请求日志记录、请求重放和证书管理等功能，支持中间人攻击（MITM）场景下的流量拦截与修改。该项目在 GitHub 上拥有超过 11,000 颗星，社区活跃，适合渗透测试人员、安全工程师和 Web 开发者使用。",
+  "tags": [
+    "HTTP 工具包",
+    "安全研究",
+    "Go",
+    "代理",
+    "中间人攻击",
+    "渗透测试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "dstotijn",
+    "stars": 11380,
+    "forks": 721,
+    "daily_stars": null,
+    "weekly_stars": 766,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

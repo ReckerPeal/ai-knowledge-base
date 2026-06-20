@@ -1,0 +1,31 @@
+{
+  "id": "20260620-github-9846e278fc",
+  "title": "influxdata/influxdb",
+  "source": "github_trending",
+  "source_url": "https://github.com/influxdata/influxdb",
+  "summary": "InfluxDB 是一个可扩展的数据存储系统，专为处理指标、事件和实时分析而设计。",
+  "content": "InfluxDB 是一个高性能、可扩展的数据存储解决方案，专注于处理时间序列数据，如监控指标、事件日志和实时分析数据。它使用 Rust 语言开发，具备高写入吞吐量和低查询延迟的特点，适用于 DevOps 监控、物联网数据采集和实时分析场景。该项目在 GitHub 上拥有超过 31,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "时间序列数据库",
+    "实时分析",
+    "监控",
+    "Rust",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:24+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "influxdata",
+    "stars": 31563,
+    "forks": 3705,
+    "daily_stars": null,
+    "weekly_stars": 21,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

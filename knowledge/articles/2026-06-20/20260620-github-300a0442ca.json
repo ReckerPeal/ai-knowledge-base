@@ -1,0 +1,33 @@
+{
+  "id": "20260620-github-300a0442ca",
+  "title": "Michael-A-Kuykendall/shimmy",
+  "source": "github_trending",
+  "source_url": "https://github.com/Michael-A-Kuykendall/shimmy",
+  "summary": "Shimmy 是一个纯 Rust 编写的 WebGPU 推理引擎，兼容 OpenAI API，原生支持 GGUF 格式，可在任意 GPU 上运行。无需 Python 或 llama.cpp，单个二进制文件即可部署。",
+  "content": "该项目旨在提供一个轻量级、高性能的推理引擎，利用 Rust 语言的安全性和 WebGPU 的跨平台能力，实现与 OpenAI API 兼容的接口。核心优势包括：纯 Rust 实现，无外部依赖；原生支持 GGUF 模型格式；单二进制文件部署，简化运维；可在任何支持 WebGPU 的 GPU 上运行。适合需要高性能推理且希望避免 Python 生态复杂性的场景。",
+  "tags": [
+    "Rust",
+    "WebGPU",
+    "推理引擎",
+    "GGUF",
+    "OpenAI API",
+    "GPU",
+    "机器学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-20T18:48:13+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Michael-A-Kuykendall",
+    "stars": 5511,
+    "forks": 521,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

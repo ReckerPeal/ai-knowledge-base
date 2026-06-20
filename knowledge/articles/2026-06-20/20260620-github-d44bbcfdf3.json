@@ -1,0 +1,30 @@
+{
+  "id": "20260620-github-d44bbcfdf3",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "summary": "本文探讨了如何评估开源模型在自定义工具上的代理能力，提出了一个基准测试框架，帮助开发者判断模型是否足够“代理化”。",
+  "content": "文章围绕“Is it agentic enough?”这一核心问题，介绍了针对开源模型在自定义工具环境中的代理能力进行基准测试的方法。作者强调了在现实应用中，模型需要能够自主使用工具、规划任务并执行操作，而不仅仅是生成文本。通过设计特定的测试场景和评估指标，文章提供了一个可复用的框架，让开发者能够量化模型在工具使用、任务分解和错误恢复等方面的表现。该博客还讨论了当前开源模型与闭源模型在代理能力上的差距，并给出了改进建议。",
+  "tags": [
+    "开源模型",
+    "代理能力",
+    "基准测试",
+    "工具使用",
+    "AI评估",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "collected_at": "2026-06-20T18:48:26+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
