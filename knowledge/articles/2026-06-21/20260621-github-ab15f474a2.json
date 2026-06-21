@@ -1,0 +1,32 @@
+{
+  "id": "20260621-github-ab15f474a2",
+  "title": "bytedance/deer-flow",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "summary": "字节跳动开源的 DeerFlow 是一个面向长周期任务的超级智能体框架，通过沙箱、记忆、工具、技能、子智能体和消息网关等组件，能够处理从几分钟到几小时不等的复杂任务，具备研究、编码和创造能力。",
+  "content": "DeerFlow 是一个开源的长周期超级智能体框架，旨在处理需要长时间规划和执行的任务。它集成了多种核心组件：沙箱提供安全执行环境，记忆模块支持长期信息存储，工具接口允许调用外部功能，技能系统实现模块化能力复用，子智能体机制支持任务分解与并行处理，消息网关则负责组件间的高效通信。该框架适用于自动化研究、代码生成和创意任务等场景，能够应对从分钟级到小时级的任务复杂度。项目在 GitHub 上获得超过 7.2 万星标，显示出社区的高度关注。",
+  "tags": [
+    "开源",
+    "智能体",
+    "长周期任务",
+    "字节跳动",
+    "框架",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-21T19:03:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bytedance",
+    "stars": 72203,
+    "forks": 9792,
+    "daily_stars": 415,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

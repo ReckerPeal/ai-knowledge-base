@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github-98a79def81",
+  "title": "EricLBuehler/mistral.rs",
+  "source": "github_trending",
+  "source_url": "https://github.com/EricLBuehler/mistral.rs",
+  "summary": "EricLBuehler/mistral.rs 是一个基于 Rust 语言的高性能 LLM 推理引擎，专注于提供快速且灵活的模型推理能力。该项目在 GitHub 上获得了 7332 颗星和 628 个分支，近期每日新增约 10 颗星，每周新增约 53 颗星，显示出持续增长的社区关注度。其核心优势在于利用 Rust 的系统级性能优化，支持多种模型架构，并提供了灵活的部署选项，适合需要低延迟和高吞吐量的 AI 应用场景。",
+  "content": "mistral.rs 是一个用 Rust 编写的 LLM 推理库，旨在为大型语言模型提供快速且灵活的推理支持。它支持多种模型格式（如 GGUF、Hugging Face 等），并针对 CPU 和 GPU 进行了优化，能够高效运行 Mistral、Llama 等主流模型。项目强调易用性，提供简洁的 API 和命令行工具，同时保持高性能。当前在 GitHub 上热度较高，属于 Rust 生态中重要的 AI 推理工具之一。",
+  "tags": [
+    "LLM 推理",
+    "Rust",
+    "高性能",
+    "模型部署",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-21T19:03:49+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "EricLBuehler",
+    "stars": 7332,
+    "forks": 628,
+    "daily_stars": 10,
+    "weekly_stars": 53,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

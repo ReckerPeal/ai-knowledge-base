@@ -1,0 +1,33 @@
+{
+  "id": "20260621-github-1beae5cf7a",
+  "title": "ossf/scorecard",
+  "source": "github_trending",
+  "source_url": "https://github.com/ossf/scorecard",
+  "summary": "OpenSSF Scorecard 是一个用于评估开源项目安全健康状况的工具，提供自动化安全指标。",
+  "content": "OpenSSF Scorecard 由 OpenSSF（开源安全基金会）开发，旨在为开源项目提供安全健康度评分。它通过自动化分析项目的代码库、依赖关系、CI/CD 流程等，生成一系列安全指标（如分支保护、代码审查、漏洞披露等），帮助维护者和用户了解项目的安全实践水平。该项目使用 Go 语言编写，在 GitHub 上拥有 5535 颗星和 668 个分支，近期每日新增约 3 颗星，属于 GitHub 热点中的 Go 语言项目。",
+  "tags": [
+    "OpenSSF",
+    "Scorecard",
+    "安全健康度",
+    "开源安全",
+    "Go",
+    "自动化评估",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-21T19:03:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ossf",
+    "stars": 5535,
+    "forks": 668,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

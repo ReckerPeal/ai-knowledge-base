@@ -1,0 +1,33 @@
+{
+  "id": "20260621-github-aa6e1395dd",
+  "title": "cloudflare/pingora",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/pingora",
+  "summary": "Cloudflare 开源的 Pingora 是一个用于构建快速、可靠且可演进网络服务的 Rust 库。它旨在替代 Nginx，提供更高效、更安全的网络服务框架。",
+  "content": "Pingora 是 Cloudflare 内部使用并开源的网络服务框架，基于 Rust 语言开发。其核心优势包括：1）高性能：利用 Rust 的内存安全和零成本抽象，实现低延迟和高吞吐量；2）可靠性：内置连接池、重试、熔断等机制，提升服务稳定性；3）可演进性：模块化设计支持灵活扩展，便于集成自定义逻辑。该项目在 GitHub 上获得 26856 颗星，1671 个 Fork，每日新增约 7 颗星，属于 Rust 语言的热门项目。Pingora 已被 Cloudflare 用于生产环境，处理全球流量，是构建下一代网络代理和网关的理想选择。",
+  "tags": [
+    "Rust",
+    "网络服务",
+    "代理",
+    "Cloudflare",
+    "高性能",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-21T19:03:49+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 26856,
+    "forks": 1671,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

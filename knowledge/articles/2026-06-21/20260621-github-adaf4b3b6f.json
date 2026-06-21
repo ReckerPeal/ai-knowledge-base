@@ -1,0 +1,32 @@
+{
+  "id": "20260621-github-adaf4b3b6f",
+  "title": "google/cadvisor",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/cadvisor",
+  "summary": "cadvisor 是 Google 开源的容器资源分析工具，用于实时监控和分析运行中容器的资源使用情况及性能特征。",
+  "content": "cadvisor（Container Advisor）由 Google 开发并开源，主要功能是收集、聚合和导出运行中容器的资源使用和性能数据，包括 CPU、内存、网络和磁盘 I/O 等。它支持多种容器运行时（如 Docker），并提供 Web 界面和 REST API 供用户查询。该项目在 GitHub 上拥有 19210 颗星和 2473 个 Fork，属于 Go 语言实现的热门监控工具，适用于 Kubernetes 等容器编排环境。",
+  "tags": [
+    "容器监控",
+    "资源分析",
+    "性能分析",
+    "Go",
+    "Google",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-21T19:03:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 19210,
+    "forks": 2473,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
