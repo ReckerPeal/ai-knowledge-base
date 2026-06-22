@@ -1,0 +1,34 @@
+{
+  "id": "20260622-github-f8b317c859",
+  "title": "dapr/dapr",
+  "source": "github_trending",
+  "source_url": "https://github.com/dapr/dapr",
+  "summary": "Dapr 是一个可移植的运行时，用于构建跨云和边缘的分布式应用程序，结合了事件驱动架构和工作流编排。",
+  "content": "Dapr（Distributed Application Runtime）是一个开源、可移植的运行时，旨在简化分布式应用程序的构建。它提供了一套构建块（Building Blocks），包括服务调用、状态管理、发布/订阅、绑定、可观测性等，帮助开发者专注于业务逻辑而非基础设施。Dapr 支持多种编程语言和框架，可以部署在 Kubernetes、虚拟机、边缘设备等环境中，并集成了工作流编排功能，使得构建复杂、事件驱动的分布式系统更加容易。该项目在 GitHub 上拥有超过 25,000 颗星，社区活跃，是云原生计算基金会（CNCF）的孵化项目。",
+  "tags": [
+    "Dapr",
+    "分布式应用运行时",
+    "事件驱动",
+    "工作流编排",
+    "云原生",
+    "Go",
+    "Kubernetes",
+    "微服务"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-22T20:02:12+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "dapr",
+    "stars": 25852,
+    "forks": 2089,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

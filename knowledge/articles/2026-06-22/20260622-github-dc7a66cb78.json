@@ -1,0 +1,34 @@
+{
+  "id": "20260622-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "FreellmAPI 是一个开源项目，提供 OpenAI 兼容的代理服务，整合了 16 个 LLM 提供商的免费层（每月约 1.7B tokens）到一个 /v1 端点，支持智能路由、自动故障转移和加密密钥，仅限个人实验使用。",
+  "content": "该项目由 tashfeenahmed 开发，基于 TypeScript 实现，在 GitHub 上获得 11486 颗星和 1810 个分支，近期日增星 229 颗。其核心功能是作为 OpenAI 兼容的代理，将多个 LLM 提供商的免费层统一到一个端点，简化 API 调用。支持自定义 OpenAI 兼容端点，具备智能路由和自动故障转移能力，确保高可用性。加密密钥管理增强了安全性。项目明确声明仅用于个人实验，不适用于生产环境。",
+  "tags": [
+    "LLM",
+    "OpenAI 兼容",
+    "代理",
+    "免费 API",
+    "智能路由",
+    "故障转移",
+    "TypeScript",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-22T20:02:07+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 11486,
+    "forks": 1810,
+    "daily_stars": 229,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
