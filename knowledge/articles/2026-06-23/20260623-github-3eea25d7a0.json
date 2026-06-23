@@ -1,0 +1,33 @@
+{
+  "id": "20260623-github-3eea25d7a0",
+  "title": "home-assistant/operating-system",
+  "source": "github_trending",
+  "source_url": "https://github.com/home-assistant/operating-system",
+  "summary": "Home Assistant 操作系统，为智能家居提供专用 Linux 发行版。",
+  "content": "Home Assistant Operating System 是一个专为 Home Assistant 智能家居平台设计的轻量级 Linux 操作系统。它基于 Buildroot 构建，提供最小化的系统环境，确保 Home Assistant 核心及其附加组件能够高效、稳定地运行。该项目支持多种硬件平台（如 Raspberry Pi、ODROID、Intel NUC 等），并集成了容器化运行环境，便于部署和管理。作为 Home Assistant 生态的核心组件之一，它简化了用户安装和维护智能家居系统的流程。",
+  "tags": [
+    "Home Assistant",
+    "智能家居",
+    "Linux 发行版",
+    "操作系统",
+    "Buildroot",
+    "容器化",
+    "Raspberry Pi"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-23T19:03:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "home-assistant",
+    "stars": 7225,
+    "forks": 1253,
+    "daily_stars": null,
+    "weekly_stars": 40,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

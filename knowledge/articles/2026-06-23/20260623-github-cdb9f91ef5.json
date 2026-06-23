@@ -1,0 +1,32 @@
+{
+  "id": "20260623-github-cdb9f91ef5",
+  "title": "leptos-rs/leptos",
+  "source": "github_trending",
+  "source_url": "https://github.com/leptos-rs/leptos",
+  "summary": "Leptos 是一个使用 Rust 构建快速 Web 应用的框架，基于细粒度响应式设计，支持服务端渲染和客户端渲染，性能优异。",
+  "content": "Leptos 是一个用 Rust 编写的现代 Web 框架，旨在提供高性能、细粒度响应式的 Web 应用开发体验。它支持服务端渲染（SSR）和客户端渲染（CSR），并利用 Rust 的所有权和生命周期特性来确保内存安全和并发安全。Leptos 的核心优势包括：1）基于信号（Signal）的响应式系统，实现高效更新；2）支持同构应用，代码可在服务端和客户端复用；3）编译时优化，减少运行时开销。该项目在 GitHub 上获得超过 2 万颗星，社区活跃，适合需要高性能和类型安全的 Web 开发场景。",
+  "tags": [
+    "Rust",
+    "Web框架",
+    "前端",
+    "服务端渲染",
+    "响应式编程",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-23T19:03:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "leptos-rs",
+    "stars": 20993,
+    "forks": 874,
+    "daily_stars": null,
+    "weekly_stars": 75,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

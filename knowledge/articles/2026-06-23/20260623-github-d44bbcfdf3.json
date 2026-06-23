@@ -1,0 +1,31 @@
+{
+  "id": "20260623-github-d44bbcfdf3",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "summary": "本文探讨了如何评估开源模型的“代理能力”（agentic capability），即模型在自主工具调用和任务执行方面的表现。作者提出了一种基于自定义工具集的基准测试方法，旨在帮助开发者在自己的工具链上评估模型，而不仅仅依赖通用基准。文章强调了开源模型在代理任务中的潜力与挑战，并提供了实践指南。",
+  "content": "本文来自 Hugging Face 博客，主要讨论如何评估开源模型的代理能力（agentic capability）。作者指出，随着 AI 代理（agent）的兴起，模型需要能够自主调用工具、执行多步骤任务并适应动态环境。然而，现有的通用基准测试（如 MMLU、HumanEval）无法充分反映模型在真实工具使用场景中的表现。为此，文章提出了一种基于自定义工具集的基准测试方法，允许开发者在自己的工具链（如 API、数据库、文件系统等）上评估模型。文中详细介绍了测试框架的设计思路，包括任务定义、工具接口、评估指标（如任务完成率、工具调用准确性）等。此外，作者还对比了多个开源模型（如 Llama、Mistral、Qwen 等）在代理任务上的表现，并讨论了模型大小、训练数据、指令微调等因素对代理能力的影响。文章最后给出了实践建议，包括如何选择模型、优化提示词以及构建高效的代理系统。",
+  "tags": [
+    "AI代理",
+    "开源模型",
+    "基准测试",
+    "工具调用",
+    "Hugging Face",
+    "模型评估",
+    "代理能力"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "collected_at": "2026-06-23T19:03:35+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

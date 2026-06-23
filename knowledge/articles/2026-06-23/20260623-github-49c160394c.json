@@ -1,0 +1,31 @@
+{
+  "id": "20260623-github-49c160394c",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "summary": "Hugging Face 团队介绍了其每周发布 huggingface_hub 库的 CI/CD 流程，该流程结合了 AI 自动化、开源工具和人工审核，以确保快速迭代与代码质量。",
+  "content": "本文详细描述了 Hugging Face 如何利用 AI 辅助代码审查、自动化测试（如单元测试、集成测试）以及开源工具（如 GitHub Actions）来构建一个高效的发布流水线。关键步骤包括：AI 模型自动生成变更日志和测试建议，人工开发者进行最终审核与合并，然后通过自动化脚本发布到 PyPI。这种“人在回路中”的模式平衡了速度与可靠性，使得 huggingface_hub 能够每周稳定发布新版本。",
+  "tags": [
+    "huggingface_hub",
+    "CI/CD",
+    "AI自动化",
+    "开源工具",
+    "人工审核",
+    "发布流程",
+    "Python库"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "collected_at": "2026-06-23T19:03:35+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
