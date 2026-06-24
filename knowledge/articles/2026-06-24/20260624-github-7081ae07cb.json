@@ -1,0 +1,31 @@
+{
+  "id": "20260624-github-7081ae07cb",
+  "title": "grpc/grpc-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/grpc/grpc-go",
+  "summary": "grpc/grpc-go 是 gRPC 的 Go 语言实现，基于 HTTP/2 的远程过程调用框架。",
+  "content": "grpc/grpc-go 是 gRPC 的官方 Go 语言实现，支持 HTTP/2 协议的高性能 RPC 通信。该项目由 gRPC 团队维护，拥有 22974 颗星和 4697 个分支，是 Go 生态中重要的微服务通信基础设施。它提供了客户端和服务器端的 API，支持多种序列化格式（如 Protocol Buffers），并具备流式传输、认证、负载均衡等特性。",
+  "tags": [
+    "gRPC",
+    "Go",
+    "RPC",
+    "HTTP/2",
+    "微服务"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:44+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "grpc",
+    "stars": 22974,
+    "forks": 4697,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

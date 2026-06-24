@@ -1,0 +1,31 @@
+{
+  "id": "20260624-github-7947ae610f",
+  "title": "hibiken/asynq",
+  "source": "github_trending",
+  "source_url": "https://github.com/hibiken/asynq",
+  "summary": "hibiken/asynq 是一个用 Go 语言实现的简单、可靠且高效的分布式任务队列。",
+  "content": "asynq 是一个基于 Redis 的分布式任务队列库，专为 Go 语言设计。它提供了简单易用的 API，支持任务调度、重试、超时、优先级队列、工作流编排等功能，并内置了 Web UI 用于监控和管理任务。该项目在 GitHub 上获得了超过 13,000 颗星，社区活跃，文档完善，适合用于构建异步任务处理系统。",
+  "tags": [
+    "Go",
+    "分布式任务队列",
+    "Redis",
+    "异步处理",
+    "任务调度"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:54+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "hibiken",
+    "stars": 13436,
+    "forks": 950,
+    "daily_stars": null,
+    "weekly_stars": 55,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

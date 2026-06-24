@@ -1,0 +1,31 @@
+{
+  "id": "20260624-github-d1c7fe87ce",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "summary": "本文介绍了如何利用本地模型对 OpenClaw 仓库进行免费的问题分类（triage），展示了在无需外部 API 成本的情况下实现自动化代码审查和问题管理的技术方案。",
+  "content": "文章来自 Hugging Face 博客，作者探讨了使用本地部署的 AI 模型对 OpenClaw 仓库的 Pull Request 和 Issue 进行自动分类（triage）的方法。通过利用本地模型，团队能够在不依赖付费 API 的情况下，实现高效的问题优先级排序、标签分配和初步审查，从而降低运营成本并提升开发效率。文中可能涉及模型选择、部署流程、性能评估以及实际应用效果等细节。",
+  "tags": [
+    "本地模型",
+    "OpenClaw",
+    "问题分类",
+    "自动化",
+    "Hugging Face",
+    "开源",
+    "代码审查"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "collected_at": "2026-06-24T19:01:54+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

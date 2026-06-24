@@ -1,0 +1,31 @@
+{
+  "id": "20260624-github-e30f8dee0b",
+  "title": "NVIDIA/SkillSpector",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/SkillSpector",
+  "summary": "NVIDIA 开源的 AI 智能体技能安全扫描工具，用于检测漏洞、恶意模式和风险。",
+  "content": "SkillSpector 是 NVIDIA 发布的一款专注于 AI 智能体（Agent）技能安全性的扫描器。它能够自动分析智能体所执行的技能代码或配置，识别其中可能存在的安全漏洞、恶意行为模式以及潜在风险，帮助开发者在部署前规避安全隐患。该工具基于 Python 实现，适合集成到 AI 应用的安全测试流程中。",
+  "tags": [
+    "AI安全",
+    "智能体",
+    "漏洞扫描",
+    "NVIDIA",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:46+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 10114,
+    "forks": 801,
+    "daily_stars": null,
+    "weekly_stars": 2849,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

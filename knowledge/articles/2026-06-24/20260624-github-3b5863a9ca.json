@@ -1,0 +1,33 @@
+{
+  "id": "20260624-github-3b5863a9ca",
+  "title": "cocoindex-io/cocoindex-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/cocoindex-io/cocoindex-code",
+  "summary": "cocoindex-io/cocoindex-code 是一个超轻量级嵌入式代码搜索引擎 CLI，基于 AST 实现，能够节省 70% 的 token 并提升编码代理速度。",
+  "content": "该项目是一个基于抽象语法树（AST）的轻量级代码搜索引擎命令行工具，专为编码代理设计。它通过索引代码结构而非全文匹配，显著减少 token 消耗（节省约 70%）并提升搜索速度。项目采用 Python 开发，在 GitHub 上获得 2223 颗星和 178 个 fork，近期周增星 184 颗，属于热门 Python 项目。",
+  "tags": [
+    "代码搜索引擎",
+    "AST",
+    "CLI",
+    "编码代理",
+    "Python",
+    "轻量级",
+    "嵌入式"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:46+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "cocoindex-io",
+    "stars": 2223,
+    "forks": 178,
+    "daily_stars": null,
+    "weekly_stars": 184,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

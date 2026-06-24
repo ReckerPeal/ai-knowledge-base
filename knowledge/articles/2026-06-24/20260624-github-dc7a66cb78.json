@@ -1,0 +1,33 @@
+{
+  "id": "20260624-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "一个兼容 OpenAI 的代理，将 16 个 LLM 提供商的免费层（约 17 亿 tokens/月）整合到单个 /v1 端点后，支持智能路由、自动故障转移和加密密钥，仅限个人实验使用。",
+  "content": "该项目是一个开源代理服务，旨在通过单一 OpenAI 兼容的 /v1 端点，聚合多个大型语言模型（LLM）提供商的免费层资源。它支持 16 个不同的提供商，每月可提供约 17 亿 tokens 的免费额度。代理具备智能路由功能，可根据请求自动选择最佳提供商，并在出现故障时自动切换到备用提供商。此外，它还支持加密密钥管理，确保安全性。该项目仅用于个人实验目的，不适用于生产环境。",
+  "tags": [
+    "OpenAI 兼容",
+    "LLM 代理",
+    "免费层聚合",
+    "智能路由",
+    "自动故障转移",
+    "加密密钥",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:39+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 11953,
+    "forks": 1859,
+    "daily_stars": 253,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260624-github-86ef604f48",
+  "title": "tree-sitter/tree-sitter",
+  "source": "github_trending",
+  "source_url": "https://github.com/tree-sitter/tree-sitter",
+  "summary": "tree-sitter 是一个为编程工具设计的增量解析系统，能够高效地解析源代码并支持实时语法高亮、代码导航等功能。",
+  "content": "tree-sitter 是一个高性能的增量解析系统，专为编程工具（如编辑器、IDE 和 linter）设计。它使用 Rust 语言开发，支持多种编程语言的语法解析，能够快速生成语法树并处理代码变更。其核心优势包括：1）增量解析：仅重新解析修改的部分，大幅提升性能；2）可复用性：提供统一的 API 和语法定义格式，便于集成到不同工具中；3）错误容忍：即使代码不完整或存在语法错误，也能生成部分语法树。该项目在 GitHub 上拥有 25976 颗星和 2722 个 fork，周增长 100 星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "tree-sitter",
+    "增量解析",
+    "编程工具",
+    "语法高亮",
+    "Rust",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-24T19:01:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tree-sitter",
+    "stars": 25976,
+    "forks": 2722,
+    "daily_stars": null,
+    "weekly_stars": 100,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
