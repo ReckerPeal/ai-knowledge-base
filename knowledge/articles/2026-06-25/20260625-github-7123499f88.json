@@ -1,0 +1,32 @@
+{
+  "id": "20260625-github-7123499f88",
+  "title": "grafana/loki",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/loki",
+  "summary": "Grafana Loki 是一个受 Prometheus 启发的日志聚合系统，专注于高效、可扩展的日志处理。",
+  "content": "Grafana Loki 是一个开源日志聚合系统，由 Grafana Labs 开发，设计灵感来自 Prometheus。它采用类似 Prometheus 的标签索引机制，将日志数据以低成本、高压缩率的方式存储，并与 Grafana 深度集成，提供强大的日志查询和可视化能力。Loki 不进行全文索引，而是通过标签和元数据快速定位日志，适合云原生和微服务架构。该项目在 GitHub 上拥有 28440 颗星和 4032 个分支，每日新增约 11 颗星，属于 Go 语言的热门项目。",
+  "tags": [
+    "日志聚合",
+    "Grafana",
+    "Prometheus",
+    "Go",
+    "云原生",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:06+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "grafana",
+    "stars": 28440,
+    "forks": 4032,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

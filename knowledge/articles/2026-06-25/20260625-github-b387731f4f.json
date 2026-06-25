@@ -1,0 +1,29 @@
+{
+  "id": "20260625-github-b387731f4f",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/deployment-simulation",
+  "summary": "OpenAI 提出了一种名为“部署模拟”的方法，通过在部署前使用真实对话数据模拟 AI 模型行为，以提高安全性和评估准确性。",
+  "content": "OpenAI 在其博客中介绍了“部署模拟”技术，该方法旨在预测 AI 模型在真实部署环境中的行为。通过利用历史对话数据模拟模型交互，开发者可以在模型正式发布前识别潜在风险并优化安全性。这一方法显著提升了评估的准确性和可靠性，为 AI 系统的安全部署提供了新思路。",
+  "tags": [
+    "OpenAI",
+    "AI安全",
+    "模型评估",
+    "部署模拟",
+    "对话数据"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "collected_at": "2026-06-25T18:57:16+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260625-github-9539e1841b",
+  "title": "denoland/deno",
+  "source": "github_trending",
+  "source_url": "https://github.com/denoland/deno",
+  "summary": "Deno 是一个现代的 JavaScript 和 TypeScript 运行时，由 Rust 编写，旨在提供安全、高效的开发体验。",
+  "content": "Deno 是一个由 denoland 团队开发的现代运行时，支持 JavaScript 和 TypeScript，采用 Rust 语言编写。它内置了 TypeScript 编译器、包管理器（基于 URL 导入）以及安全权限模型，默认拒绝文件、网络等系统访问。该项目在 GitHub 上拥有超过 10.7 万星标，每日新增约 67 星，属于 Rust 语言的热门项目。Deno 的设计目标是解决 Node.js 的一些历史问题，如模块系统、安全性等，适用于构建 Web 服务、命令行工具和自动化脚本。",
+  "tags": [
+    "Deno",
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "运行时",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:04+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "denoland",
+    "stars": 107296,
+    "forks": 6087,
+    "daily_stars": 67,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

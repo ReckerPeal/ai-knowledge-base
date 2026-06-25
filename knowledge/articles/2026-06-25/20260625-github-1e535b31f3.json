@@ -1,0 +1,31 @@
+{
+  "id": "20260625-github-1e535b31f3",
+  "title": "vitessio/vitess",
+  "source": "github_trending",
+  "source_url": "https://github.com/vitessio/vitess",
+  "summary": "Vitess 是一个用于 MySQL 水平扩展的数据库集群系统。",
+  "content": "Vitess 是一个开源的数据库集群系统，专为 MySQL 的水平扩展而设计。它通过将 MySQL 实例组合成一个统一的集群，提供分片、连接池、查询重写、故障转移等功能，从而帮助用户轻松扩展数据库层以应对高并发和大数据量场景。该项目由 YouTube 开发并开源，目前由 CNCF 维护，广泛应用于生产环境。",
+  "tags": [
+    "MySQL",
+    "数据库集群",
+    "水平扩展",
+    "Go",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:06+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "vitessio",
+    "stars": 21071,
+    "forks": 2358,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

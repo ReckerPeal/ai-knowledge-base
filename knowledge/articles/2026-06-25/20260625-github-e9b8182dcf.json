@@ -1,0 +1,29 @@
+{
+  "id": "20260625-github-e9b8182dcf",
+  "title": "MosaicLeaks: Can your research agent keep a secret?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "summary": "MosaicLeaks 探讨了研究型 AI 代理在保密性方面的潜在风险，通过案例展示代理可能无意中泄露敏感信息，并提出了相应的安全评估方法。",
+  "content": "本文来自 Hugging Face 博客，标题为 'MosaicLeaks: Can your research agent keep a secret?'，主要关注 AI 研究代理的安全性问题。文章通过构建测试场景，评估代理在处理任务时是否能够保守秘密，并揭示了当前模型在保密性方面的脆弱性。作者提出了一种名为 MosaicLeaks 的评估框架，用于量化代理泄露信息的风险，并讨论了改进代理安全性的可能方向。该研究对于部署可信赖的 AI 代理具有重要参考价值。",
+  "tags": [
+    "AI安全",
+    "研究代理",
+    "保密性",
+    "风险评估",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-18T18:13:13+00:00",
+  "collected_at": "2026-06-25T18:57:16+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

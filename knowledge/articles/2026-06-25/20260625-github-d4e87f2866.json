@@ -1,0 +1,34 @@
+{
+  "id": "20260625-github-d4e87f2866",
+  "title": "seaweedfs/seaweedfs",
+  "source": "github_trending",
+  "source_url": "https://github.com/seaweedfs/seaweedfs",
+  "summary": "SeaweedFS 是一个分布式存储系统，支持对象存储（S3）、文件系统和 Iceberg 表，专为处理数十亿文件而设计，具备 O(1) 磁盘访问和轻松水平扩展能力。",
+  "content": "SeaweedFS 是一个用 Go 语言开发的高性能分布式存储系统，旨在解决海量文件存储的挑战。它支持对象存储（兼容 S3 API）、文件系统挂载以及 Iceberg 表存储，能够处理数十亿文件，并提供 O(1) 复杂度的磁盘访问，确保快速读写。系统设计强调水平扩展的简易性，用户可以通过添加节点轻松提升存储容量和性能。该项目在 GitHub 上拥有 33138 颗星和 2876 个分支，近期周增长 166 星，属于 Go 语言领域的热门项目。",
+  "tags": [
+    "分布式存储",
+    "对象存储",
+    "S3",
+    "文件系统",
+    "Iceberg",
+    "Go",
+    "水平扩展",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:16+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "seaweedfs",
+    "stars": 33138,
+    "forks": 2876,
+    "daily_stars": null,
+    "weekly_stars": 166,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

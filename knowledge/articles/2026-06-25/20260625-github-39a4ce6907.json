@@ -1,0 +1,33 @@
+{
+  "id": "20260625-github-39a4ce6907",
+  "title": "microsoft/presidio",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/presidio",
+  "summary": "Microsoft Presidio 是一个开源框架，用于检测、编辑、掩码和匿名化敏感数据（PII），支持文本、图像和结构化数据。它集成了 NLP、模式匹配和可定制管道。",
+  "content": "Microsoft Presidio 是一个由微软开发的开源框架，专注于敏感数据（如个人身份信息 PII）的检测与保护。它支持多种数据格式，包括文本、图像和结构化数据（如数据库）。核心功能包括：检测（通过 NLP 模型和正则表达式模式匹配）、编辑（移除或替换敏感内容）、掩码（部分隐藏）和匿名化（生成不可逆的脱敏数据）。框架提供可定制的管道，允许用户根据需求组合不同的分析器和处理步骤。该项目在 GitHub 上拥有 9654 颗星和 1161 个分支，近期周增星 888 颗，属于热门 Python 项目。",
+  "tags": [
+    "PII 检测",
+    "数据匿名化",
+    "NLP",
+    "模式匹配",
+    "开源框架",
+    "敏感数据保护",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 9654,
+    "forks": 1161,
+    "daily_stars": null,
+    "weekly_stars": 888,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

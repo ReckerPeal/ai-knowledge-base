@@ -1,0 +1,32 @@
+{
+  "id": "20260625-github-7a2a0c75e6",
+  "title": "vercel/turborepo",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel/turborepo",
+  "summary": "Turborepo 是一个专为 JavaScript 和 TypeScript 优化的构建系统，使用 Rust 编写，旨在提升大型项目的构建效率。",
+  "content": "Turborepo 由 Vercel 开发，是一个高性能的构建系统，专注于 JavaScript 和 TypeScript 生态。它利用 Rust 语言的高性能特性，实现了增量构建、缓存和任务编排，显著减少重复构建时间。项目在 GitHub 上拥有超过 30,000 颗星，社区活跃，适合 monorepo 架构的现代前端项目。",
+  "tags": [
+    "构建系统",
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "monorepo",
+    "Vercel"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-25T18:57:04+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "vercel",
+    "stars": 30596,
+    "forks": 2371,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
