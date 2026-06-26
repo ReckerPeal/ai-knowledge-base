@@ -1,0 +1,31 @@
+{
+  "id": "20260626-github-e70b8c4b06",
+  "title": "rustls/rustls",
+  "source": "github_trending",
+  "source_url": "https://github.com/rustls/rustls",
+  "summary": "rustls 是一个用 Rust 编写的现代 TLS 库，旨在提供安全、高性能的传输层安全实现。",
+  "content": "rustls 是一个用 Rust 语言开发的现代 TLS 库，专注于安全性和性能。它避免了 OpenSSL 等传统库的常见安全问题，利用 Rust 的内存安全特性来减少漏洞。该库支持 TLS 1.2 和 1.3 协议，并提供简洁的 API 接口。在 GitHub 上，它获得了 7476 颗星和 851 个分支，显示出活跃的社区支持。每周新增 18 颗星，表明持续受到关注。",
+  "tags": [
+    "Rust",
+    "TLS",
+    "安全",
+    "加密",
+    "网络库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rustls",
+    "stars": 7476,
+    "forks": 851,
+    "daily_stars": null,
+    "weekly_stars": 18,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

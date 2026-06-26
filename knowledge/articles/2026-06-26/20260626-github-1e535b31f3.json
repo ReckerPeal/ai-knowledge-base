@@ -1,0 +1,31 @@
+{
+  "id": "20260626-github-1e535b31f3",
+  "title": "vitessio/vitess",
+  "source": "github_trending",
+  "source_url": "https://github.com/vitessio/vitess",
+  "summary": "Vitess 是一个用于 MySQL 水平扩展的数据库集群系统。",
+  "content": "Vitess 是一个开源的数据库集群系统，专为 MySQL 的水平扩展而设计。它通过将 MySQL 实例组合成一个统一的集群，提供分片、连接池、查询路由、自动故障转移等功能，从而帮助用户实现大规模数据库的弹性扩展和高可用性。该项目在 GitHub 上拥有超过 21000 颗星，是 Go 语言生态中备受关注的数据库中间件解决方案。",
+  "tags": [
+    "Vitess",
+    "MySQL",
+    "数据库集群",
+    "水平扩展",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:51+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vitessio",
+    "stars": 21078,
+    "forks": 2358,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

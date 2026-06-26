@@ -1,0 +1,41 @@
+{
+  "id": "20260626-github-3345b33384",
+  "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "source": "rss",
+  "source_url": "https://github.com/inkeep/open-knowledge",
+  "summary": "OpenKnowledge 是一个开源的、AI 优先的所见即所得 Markdown 编辑器，旨在替代 Obsidian 和 Notion。它支持与 Claude、Codex 等 AI 代理直接集成，提供 macOS 应用、Web UI 和 CLI 界面。核心功能包括文件导航器、WYSIWYG 编辑器、链接探索器、内置 MCPs、技能和 RAG 支持，以及基于 CRDT 和 Git 的协作与版本控制。技术栈基于 Tiptap/ProseMirror、CodeMirror、yjs、Electron 等，解决了 ProseMirror 与 Markdown 双向无损转换和双观察者 CRDT 同步等工程挑战。项目完全免费、本地优先且开源，适合团队协作和 AI 第二大脑场景。",
+  "content": "OpenKnowledge 是一个开源项目，定位为 AI 优先的所见即所得（WYSIWYG）Markdown 编辑器，旨在提供类似 Notion 的体验，同时克服 Obsidian 在 WYSIWYG 和 AI 集成方面的不足。它支持 macOS 桌面应用、Web UI 和命令行界面（CLI），并原生集成 Claude、Codex 和 Cursor 等 AI 代理，允许代理在嵌入式浏览器中打开编辑器进行并排协作。核心功能包括文件导航器、WYSIWYG 编辑器、链接探索器、内置 MCPs（模型上下文协议）、技能和 RAG（检索增强生成）支持，适用于 LLM 维基和 AI 第二大脑场景，以及规范编写。技术架构上，项目使用 Tiptap/ProseMirror 作为编辑器核心，CodeMirror 用于代码编辑，yjs 实现 CRDT（无冲突复制数据类型）以支持实时协作，Electron 构建桌面应用，Orama 用于搜索，remark/rehype/micromark/mdast 处理 Markdown 解析。工程挑战包括：1) 设计双向无损管道，将 ProseMirror 的 AST（抽象语法树）转换为 Markdown，同时保持字节级保真度；2) 实现双观察者 CRDT，同步 ProseMirror 和 Markdown 状态，并结合 Git 提供协作、撤销/重做和版本历史。共享和云同步功能基于 Git/GitHub，确保数据隐私。项目完全开源，鼓励社区贡献，未来计划扩展插件和可扩展性。",
+  "tags": [
+    "AI 优先",
+    "Markdown 编辑器",
+    "所见即所得",
+    "开源",
+    "协作编辑",
+    "CRDT",
+    "ProseMirror",
+    "Claude 集成",
+    "Codex 集成",
+    "RAG",
+    "知识管理",
+    "替代 Obsidian",
+    "替代 Notion",
+    "macOS 应用",
+    "CLI",
+    "Git 集成",
+    "隐私优先"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-25T16:04:46+00:00",
+  "collected_at": "2026-06-26T19:00:59+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

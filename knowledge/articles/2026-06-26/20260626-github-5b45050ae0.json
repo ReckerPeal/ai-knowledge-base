@@ -1,0 +1,33 @@
+{
+  "id": "20260626-github-5b45050ae0",
+  "title": "cilium/cilium",
+  "source": "github_trending",
+  "source_url": "https://github.com/cilium/cilium",
+  "summary": "Cilium 是一个基于 eBPF 技术的开源项目，专注于提供网络、安全与可观测性解决方案。它利用 Linux 内核的 eBPF 能力，为容器化工作负载（如 Kubernetes）实现高性能网络、服务间安全策略以及深度可观测性。该项目在 GitHub 上拥有超过 2.4 万星标，是云原生领域的热门工具。",
+  "content": "Cilium 是一个基于 eBPF（扩展的伯克利数据包过滤器）技术的开源项目，旨在为云原生环境（特别是 Kubernetes）提供高性能的网络连接、安全策略和可观测性。其核心优势在于利用 eBPF 在内核层面动态插入程序，从而避免传统网络代理的性能开销，实现低延迟、高吞吐的数据路径。\n\n在网络方面，Cilium 支持容器间的 L3/L4 和 L7 网络策略，能够精细控制服务间通信。安全功能包括基于身份的安全组、API 级访问控制以及透明加密。可观测性方面，它通过 Hubble 组件提供网络流量的可视化、监控和故障排查能力。\n\n该项目由 Cilium 团队维护，在 GitHub 上获得 24598 颗星和 3858 个 Fork，周增星标 76 颗，属于 Go 语言编写的热门项目。它被广泛应用于生产环境，是 CNCF 的毕业项目之一。",
+  "tags": [
+    "eBPF",
+    "网络",
+    "安全",
+    "可观测性",
+    "Kubernetes",
+    "云原生",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:59+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "cilium",
+    "stars": 24598,
+    "forks": 3858,
+    "daily_stars": null,
+    "weekly_stars": 76,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

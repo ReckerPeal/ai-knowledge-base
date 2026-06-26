@@ -1,0 +1,33 @@
+{
+  "id": "20260626-github-7e86c4b1b2",
+  "title": "hashicorp/vault",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/vault",
+  "summary": "Hashicorp Vault 是一个用于秘密管理、加密即服务和特权访问管理的工具。",
+  "content": "Hashicorp Vault 是一个开源工具，专注于安全地存储和严格控制对令牌、密码、证书、API 密钥等敏感数据的访问。它提供统一的界面来管理秘密，支持动态秘密生成、数据加密、租约管理和撤销功能。Vault 还提供加密即服务，允许应用程序通过 API 加密数据，而无需管理加密密钥。此外，它支持特权访问管理，通过临时凭证和审计日志来减少长期凭证的风险。该仓库由 Hashicorp 维护，使用 Go 语言开发，在 GitHub 上拥有超过 35,000 颗星，是 DevOps 和安全领域的热门项目。",
+  "tags": [
+    "秘密管理",
+    "加密服务",
+    "特权访问管理",
+    "Go",
+    "Hashicorp",
+    "安全工具",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:51+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 35833,
+    "forks": 4704,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260626-github-d064b3eae2",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "rss",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "summary": "本文介绍了在 Elasticsearch 上实现智能体记忆的混合检索与文档级别安全（DLS）方案，探讨了如何结合向量搜索和关键词搜索提升记忆检索的准确性和安全性。",
+  "content": "该文章来自 Elastic 搜索实验室博客，主要讨论如何利用 Elasticsearch 构建智能体（Agent）的长期记忆系统。核心内容包括：1）混合检索策略，即结合密集向量（dense vector）和稀疏向量（sparse vector）或 BM25 算法，以同时捕捉语义相似性和精确关键词匹配，从而提升记忆检索的召回率和相关性；2）文档级别安全（DLS）机制，确保不同用户或智能体只能访问其授权的记忆片段，保障多租户场景下的数据隔离与隐私；3）实际应用场景，如对话历史管理、个性化推荐和持续学习等。文章还提供了代码示例和架构建议，展示了如何通过 Elasticsearch 的插件或原生功能实现上述特性。",
+  "tags": [
+    "Elasticsearch",
+    "智能体记忆",
+    "混合检索",
+    "文档级别安全",
+    "向量搜索",
+    "AI 架构"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-18T14:36:59-05:00",
+  "collected_at": "2026-06-26T19:00:59+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

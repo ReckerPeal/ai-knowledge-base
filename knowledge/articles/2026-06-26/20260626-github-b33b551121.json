@@ -1,0 +1,38 @@
+{
+  "id": "20260626-github-b33b551121",
+  "title": "krillinai/KrillinAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/krillinai/KrillinAI",
+  "summary": "KrillinAI 是一款基于大语言模型（LLM）的 AI 视频翻译与配音工具，支持人类用户和 AI Agent 使用。它提供完整的处理流程：视频下载、语音转写、翻译、文本转语音（TTS）配音、格式重制以及封面生成。该工具支持超过 100 种语言，并针对 YouTube、TikTok、Bilibili、抖音等主流平台进行了优化。采用 CLI 分阶段调用架构，便于集成和自动化。",
+  "content": "KrillinAI 是一个用 Go 语言开发的开源项目，旨在为视频内容提供高效的翻译和配音解决方案。其核心功能包括：\n1. **全链路处理**：从视频下载到最终输出，覆盖转写、翻译、配音、格式调整和封面生成。\n2. **多语言支持**：支持 100 多种语言，满足全球化内容创作需求。\n3. **平台优化**：特别适配 YouTube、TikTok、Bilibili、抖音、小红书、视频号等流行视频平台。\n4. **AI Agent 友好**：不仅面向人类用户，还提供接口供 AI Agent 调用，实现自动化工作流。\n5. **CLI 分阶段调用**：通过命令行界面分步执行各处理阶段，方便开发者集成到现有流程或进行定制。\n6. **技术栈**：基于 Go 语言开发，性能高效，适合处理大规模视频任务。\n该项目在 GitHub 上获得了超过 10,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "AI 视频翻译",
+    "配音工具",
+    "LLM",
+    "多语言",
+    "CLI",
+    "Go",
+    "视频处理",
+    "自动化",
+    "YouTube",
+    "TikTok",
+    "Bilibili",
+    "抖音"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:59+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "krillinai",
+    "stars": 10405,
+    "forks": 974,
+    "daily_stars": null,
+    "weekly_stars": 77,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

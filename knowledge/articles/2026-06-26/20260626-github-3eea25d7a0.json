@@ -1,0 +1,32 @@
+{
+  "id": "20260626-github-3eea25d7a0",
+  "title": "home-assistant/operating-system",
+  "source": "github_trending",
+  "source_url": "https://github.com/home-assistant/operating-system",
+  "summary": "Home Assistant 操作系统，为智能家居平台提供轻量级、优化的运行环境。",
+  "content": "该项目是 Home Assistant 的官方操作系统，基于 Linux 构建，专为在 Raspberry Pi、ODROID 等单板计算机或虚拟机上运行 Home Assistant 而设计。它提供了预配置的、安全的、自动更新的系统环境，集成了 Docker 容器支持，使得安装和管理 Home Assistant 及其附加组件变得简单高效。该系统旨在降低用户部署智能家居的门槛，确保稳定性和长期维护。",
+  "tags": [
+    "Home Assistant",
+    "智能家居",
+    "操作系统",
+    "Linux",
+    "Docker",
+    "Raspberry Pi"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-26T19:00:53+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "home-assistant",
+    "stars": 7238,
+    "forks": 1257,
+    "daily_stars": null,
+    "weekly_stars": 53,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
