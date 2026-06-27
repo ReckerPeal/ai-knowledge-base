@@ -1,0 +1,32 @@
+{
+  "id": "20260627-github-4f15661fec",
+  "title": "fleetdm/fleet",
+  "source": "github_trending",
+  "source_url": "https://github.com/fleetdm/fleet",
+  "summary": "Fleet 是一个开源的设备管理平台，专注于为企业提供统一的端点管理解决方案。它支持跨平台设备（如 macOS、Windows、Linux）的资产管理、安全策略执行和实时监控，旨在替代传统的 MDM 工具，同时保持轻量级和可扩展性。",
+  "content": "Fleet 是一个用 Go 语言编写的开源设备管理平台，旨在简化企业 IT 团队对大量设备的集中管理。它支持多种操作系统（包括 macOS、Windows、Linux），提供设备清单、软件更新、安全策略配置、漏洞扫描等功能。Fleet 的设计强调易用性和可扩展性，允许通过 API 和插件集成到现有工作流中。其核心优势在于开源、跨平台兼容以及活跃的社区支持，适合需要灵活设备管理方案的中大型组织。",
+  "tags": [
+    "开源设备管理",
+    "端点管理",
+    "Go",
+    "跨平台",
+    "IT 运维",
+    "安全策略"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-27T18:39:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "fleetdm",
+    "stars": 6532,
+    "forks": 929,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

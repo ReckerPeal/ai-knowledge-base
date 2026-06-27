@@ -1,0 +1,31 @@
+{
+  "id": "20260627-github-7f1a19cb84",
+  "title": "Run a vLLM Server on HF Jobs in One Command",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/vllm-jobs",
+  "summary": "Hugging Face 博客发布文章，介绍如何通过一条命令在 HF Jobs 上运行 vLLM 服务器，简化大语言模型部署流程。",
+  "content": "本文详细说明了使用 Hugging Face Jobs 服务快速部署 vLLM 推理服务器的方法。vLLM 是一个高性能的大语言模型推理引擎，支持 PagedAttention 等技术以提升吞吐量和显存效率。通过一条命令即可在 HF Jobs 上启动 vLLM 服务器，用户无需手动配置基础设施，适合快速原型验证和生产级部署。文章还涵盖了环境设置、模型加载、API 调用等关键步骤，并提供了示例代码和最佳实践。",
+  "tags": [
+    "vLLM",
+    "Hugging Face",
+    "模型部署",
+    "推理服务器",
+    "大语言模型",
+    "HF Jobs",
+    "AI 基础设施"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "collected_at": "2026-06-27T18:39:53+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
