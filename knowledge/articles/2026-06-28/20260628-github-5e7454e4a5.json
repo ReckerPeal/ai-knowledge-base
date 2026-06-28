@@ -1,0 +1,34 @@
+{
+  "id": "20260628-github-5e7454e4a5",
+  "title": "GreptimeTeam/greptimedb",
+  "source": "github_trending",
+  "source_url": "https://github.com/GreptimeTeam/greptimedb",
+  "summary": "GreptimeDB 是一个开源的 Observability 2.0 数据库，统一处理指标、日志和追踪数据，旨在替代 Prometheus、Loki 和 Elasticsearch。",
+  "content": "GreptimeDB 由 GreptimeTeam 开发，是一个用 Rust 编写的高性能时序数据库，专注于可观测性场景。它支持同时处理 metrics、logs 和 traces，提供统一的查询和存储引擎，简化了监控基础设施的搭建。项目在 GitHub 上获得 6391 颗星，501 个 fork，近期每日新增约 2 颗星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "GreptimeDB",
+    "可观测性",
+    "时序数据库",
+    "Rust",
+    "开源",
+    "Prometheus替代",
+    "Loki替代",
+    "Elasticsearch替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-28T18:44:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "GreptimeTeam",
+    "stars": 6391,
+    "forks": 501,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

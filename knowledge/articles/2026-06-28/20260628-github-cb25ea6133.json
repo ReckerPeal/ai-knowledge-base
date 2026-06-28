@@ -1,0 +1,31 @@
+{
+  "id": "20260628-github-cb25ea6133",
+  "title": "hyperium/hyper",
+  "source": "github_trending",
+  "source_url": "https://github.com/hyperium/hyper",
+  "summary": "hyper 是一个用 Rust 编写的高性能 HTTP 库，支持 HTTP/1 和 HTTP/2 协议，提供异步和同步 API，广泛应用于 Rust 生态中的 Web 开发。",
+  "content": "hyper 是 Rust 社区中备受推崇的 HTTP 库，由 hyperium 组织维护。它专注于提供底层、灵活且高效的 HTTP 实现，支持异步 I/O（基于 tokio）和同步操作。hyper 的核心特性包括：\n- 支持 HTTP/1 和 HTTP/2 协议。\n- 提供客户端和服务端 API，适用于构建高性能 Web 服务。\n- 与 Rust 的 async/await 语法无缝集成。\n- 被许多知名 Rust 框架（如 actix-web、warp）作为底层依赖。\n- 拥有活跃的社区和详细的文档。\n该仓库在 GitHub 上获得超过 1.6 万星标，表明其广泛认可度和成熟度。",
+  "tags": [
+    "Rust",
+    "HTTP",
+    "异步编程",
+    "Web开发",
+    "tokio"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-28T18:44:41+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "hyperium",
+    "stars": 16166,
+    "forks": 1770,
+    "daily_stars": null,
+    "weekly_stars": 32,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

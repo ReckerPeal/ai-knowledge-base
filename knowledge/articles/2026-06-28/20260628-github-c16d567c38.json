@@ -1,0 +1,31 @@
+{
+  "id": "20260628-github-c16d567c38",
+  "title": "kubernetes-sigs/kueue",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/kueue",
+  "summary": "Kueue 是一个 Kubernetes 原生的作业队列系统，旨在管理批处理作业的调度和资源配额。",
+  "content": "Kueue 是 Kubernetes 社区（kubernetes-sigs）下的一个开源项目，专注于提供 Kubernetes 原生的作业队列管理能力。它允许用户定义资源配额和队列，并自动管理批处理作业（如机器学习训练、数据处理等）的排队和调度。Kueue 支持多种作业类型（如 Batch/Job、MPIJob、PyTorchJob 等），并通过与 Kubernetes 调度器集成，实现高效的资源利用和作业优先级管理。该项目在 GitHub 上拥有 2628 颗星和 664 个分支，近期每日获得 5 颗星，表明其活跃度和社区关注度较高。",
+  "tags": [
+    "Kubernetes",
+    "作业队列",
+    "批处理",
+    "资源调度",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-28T18:44:34+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 2628,
+    "forks": 664,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

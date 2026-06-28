@@ -1,0 +1,29 @@
+{
+  "id": "20260628-github-42658ae9e5",
+  "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "source": "rss",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "summary": "DSpark 是一种推测性解码技术，旨在加速大型语言模型（LLM）的推理过程。该论文由 DeepSeek AI 发布，提出了通过并行生成和验证候选 token 来减少推理延迟的方法，从而在不显著牺牲生成质量的前提下提升 LLM 的响应速度。",
+  "content": "DSpark 论文探讨了如何利用推测性解码（Speculative Decoding）优化 LLM 推理效率。传统自回归解码需要逐个生成 token，导致高延迟。DSpark 通过引入一个轻量级的草稿模型（draft model）来并行预测多个候选 token，再由目标模型（target model）进行验证和接受。这种方法可以显著减少推理步骤，尤其适用于需要低延迟的应用场景，如实时对话和交互式 AI 服务。论文中可能包含了算法细节、实验设置、性能对比（如与标准解码的延迟和吞吐量对比）以及在多种模型和硬件上的评估结果。该工作属于 AI 推理优化领域，对部署大规模语言模型具有实际意义。",
+  "tags": [
+    "LLM推理加速",
+    "推测性解码",
+    "DeepSeek",
+    "AI推理优化",
+    "低延迟推理"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-27T09:18:52+00:00",
+  "collected_at": "2026-06-28T18:44:44+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
