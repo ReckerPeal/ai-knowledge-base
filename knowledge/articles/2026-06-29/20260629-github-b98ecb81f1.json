@@ -1,0 +1,31 @@
+{
+  "id": "20260629-github-b98ecb81f1",
+  "title": "pomerium/pomerium",
+  "source": "github_trending",
+  "source_url": "https://github.com/pomerium/pomerium",
+  "summary": "Pomerium 是一个基于身份和上下文感知的访问代理，用于安全地访问内部应用。",
+  "content": "Pomerium 是一个开源的身份感知访问代理，它通过验证用户身份和上下文（如设备状态、地理位置等）来保护内部应用的安全访问。该项目在 GitHub 上拥有 4876 颗星和 339 个分支，属于 Go 语言开发的热门项目。它提供了一种零信任安全模型，替代传统的 VPN 方案，适用于企业级应用的安全访问控制。",
+  "tags": [
+    "访问代理",
+    "身份验证",
+    "零信任",
+    "Go",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:39:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pomerium",
+    "stars": 4876,
+    "forks": 339,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

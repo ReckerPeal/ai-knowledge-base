@@ -1,0 +1,33 @@
+{
+  "id": "20260629-github-04f10361ec",
+  "title": "opentofu/opentofu",
+  "source": "github_trending",
+  "source_url": "https://github.com/opentofu/opentofu",
+  "summary": "OpenTofu 是一个开源基础设施即代码工具，允许用户通过声明式配置管理云基础设施。",
+  "content": "OpenTofu 是 Terraform 的一个开源分支，旨在提供完全开源、社区驱动的基础设施管理解决方案。它支持多云环境，用户可以使用 HCL（HashiCorp Configuration Language）定义资源，并通过声明式配置实现基础设施的创建、更新和销毁。该项目由 Linux 基金会托管，强调透明度和社区治理。当前仓库包含核心引擎、提供商插件和 CLI 工具，适用于 DevOps 和云原生场景。",
+  "tags": [
+    "基础设施即代码",
+    "云基础设施管理",
+    "开源",
+    "Terraform 分支",
+    "多云",
+    "DevOps",
+    "HCL"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:40:01+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "opentofu",
+    "stars": 29265,
+    "forks": 1283,
+    "daily_stars": null,
+    "weekly_stars": 154,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

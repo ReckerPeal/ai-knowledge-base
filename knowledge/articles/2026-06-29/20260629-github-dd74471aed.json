@@ -1,0 +1,35 @@
+{
+  "id": "20260629-github-dd74471aed",
+  "title": "wal-g/wal-g",
+  "source": "github_trending",
+  "source_url": "https://github.com/wal-g/wal-g",
+  "summary": "wal-g/wal-g 是一个用于云环境中数据库归档和恢复的开源工具，支持多种数据库系统，如 PostgreSQL、MySQL 和 MongoDB。它提供高效的增量备份、压缩和加密功能，旨在简化云原生数据库的备份与灾难恢复流程。",
+  "content": "wal-g/wal-g 是一个用 Go 语言编写的高性能数据库归档和恢复工具，专为云环境设计。它支持 PostgreSQL、MySQL、MongoDB 等多种数据库，提供增量备份、压缩、加密和并行上传等特性。该工具通过优化存储和网络传输，显著降低备份时间和存储成本。wal-g 还支持与 AWS S3、Google Cloud Storage、Azure Blob Storage 等云存储服务集成，并具备时间点恢复（PITR）功能。项目在 GitHub 上拥有 4146 颗星和 555 个分支，每日新增约 9 颗星，社区活跃，文档完善。",
+  "tags": [
+    "数据库备份",
+    "云原生",
+    "Go",
+    "归档恢复",
+    "增量备份",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "云存储"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:39:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "wal-g",
+    "stars": 4146,
+    "forks": 555,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

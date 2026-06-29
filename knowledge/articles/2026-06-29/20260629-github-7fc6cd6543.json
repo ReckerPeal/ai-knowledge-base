@@ -1,0 +1,32 @@
+{
+  "id": "20260629-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "Anubis 是一个用 Go 语言开发的 HTTP 请求中间件，通过分析请求特征来识别并阻止 AI 爬虫，保护网站资源不被滥用。",
+  "content": "该项目名为 Anubis，由 TecharoHQ 开发，旨在通过分析 HTTP 请求的“灵魂”特征（如请求频率、用户代理、行为模式等）来区分人类用户和 AI 爬虫。它作为反向代理或中间件部署，能够有效阻止大规模 AI 数据采集，同时保持对正常用户的低误判率。项目在 GitHub 上获得了超过 2 万星标，社区活跃，适合需要保护内容不被 AI 爬虫抓取的网站或 API 服务。",
+  "tags": [
+    "AI爬虫",
+    "HTTP中间件",
+    "反爬虫",
+    "Go",
+    "请求分析",
+    "网站保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:40:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 20299,
+    "forks": 640,
+    "daily_stars": null,
+    "weekly_stars": 171,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

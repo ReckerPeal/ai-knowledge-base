@@ -1,0 +1,32 @@
+{
+  "id": "20260629-github-63f20f4d83",
+  "title": "istio/istio",
+  "source": "github_trending",
+  "source_url": "https://github.com/istio/istio",
+  "summary": "Istio 是一个开源服务网格平台，用于连接、安全保护、控制和观测微服务。",
+  "content": "Istio 是一个由 Google、IBM 和 Lyft 联合开发的开源服务网格项目，旨在提供一种统一的方式来连接、保护、控制和观测微服务。它通过在每个服务实例旁部署一个 sidecar 代理（基于 Envoy）来实现这些功能，无需修改服务代码。主要特性包括：流量管理（如负载均衡、路由规则）、安全（如 mTLS、认证授权）、可观测性（如指标、日志、分布式追踪）以及策略控制。该项目在 GitHub 上拥有超过 38,000 颗星，是云原生计算基金会（CNCF）的毕业项目，广泛应用于 Kubernetes 环境。",
+  "tags": [
+    "服务网格",
+    "微服务",
+    "Kubernetes",
+    "Envoy",
+    "云原生",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:40:01+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "istio",
+    "stars": 38247,
+    "forks": 8339,
+    "daily_stars": null,
+    "weekly_stars": 29,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

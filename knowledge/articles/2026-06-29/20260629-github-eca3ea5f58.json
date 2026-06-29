@@ -1,0 +1,31 @@
+{
+  "id": "20260629-github-eca3ea5f58",
+  "title": "tursodatabase/turso",
+  "source": "github_trending",
+  "source_url": "https://github.com/tursodatabase/turso",
+  "summary": "Turso 是一个与 SQLite 兼容的进程内 SQL 数据库，旨在提供轻量级、高性能的本地数据存储解决方案。",
+  "content": "Turso 是一个基于 Rust 构建的进程内 SQL 数据库，完全兼容 SQLite 语法和协议。它设计为在应用程序进程中直接运行，无需独立的数据库服务器，从而减少延迟和资源消耗。Turso 支持嵌入式使用场景，适用于移动应用、边缘计算和 IoT 设备等环境。该项目在 GitHub 上拥有超过 22,000 颗星，社区活跃，每周获得近 1800 颗新星，表明其受到广泛关注。",
+  "tags": [
+    "SQLite",
+    "嵌入式数据库",
+    "Rust",
+    "进程内数据库",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:39:58+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tursodatabase",
+    "stars": 22437,
+    "forks": 1128,
+    "daily_stars": null,
+    "weekly_stars": 1793,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

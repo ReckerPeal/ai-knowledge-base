@@ -1,0 +1,31 @@
+{
+  "id": "20260629-github-377f814c66",
+  "title": "metalbear-co/mirrord",
+  "source": "github_trending",
+  "source_url": "https://github.com/metalbear-co/mirrord",
+  "summary": "mirrord 是一个开源工具，允许开发者在本地或 AI 代理环境中运行进程，并使其像在 Kubernetes 集群中的 Pod 一样工作，支持真实的环境变量、DNS、网络和流量。",
+  "content": "mirrord 由 metalbear-co 开发，使用 Rust 语言编写，在 GitHub 上获得了 5163 颗星和 200 个 fork。它通过模拟 Kubernetes Pod 的运行环境，解决了本地开发与集群环境不一致的问题，特别适用于微服务开发和调试。该工具支持将本地进程无缝接入集群网络，从而简化开发流程并提升效率。",
+  "tags": [
+    "Kubernetes",
+    "开发工具",
+    "Rust",
+    "微服务",
+    "网络模拟"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:39:49+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "metalbear-co",
+    "stars": 5163,
+    "forks": 200,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

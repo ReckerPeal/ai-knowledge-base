@@ -1,0 +1,31 @@
+{
+  "id": "20260629-github-1606cfe2c2",
+  "title": "TauricResearch/TradingAgents",
+  "source": "github_trending",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "summary": "TradingAgents 是一个基于多智能体与大语言模型的金融交易框架，利用多个 AI 代理协同进行市场分析、决策与执行，旨在提升交易策略的智能化与自动化水平。",
+  "content": "TradingAgents 由 TauricResearch 开发，是一个开源的多智能体金融交易框架，核心创新在于将多个大语言模型驱动的 AI 代理组合成一个协作系统。每个代理负责不同的交易任务，如市场情绪分析、技术指标解读、风险管理或订单执行。代理之间通过消息传递共享信息，共同制定并优化交易策略。框架支持自定义代理角色与通信协议，可适配多种金融资产（股票、加密货币等）。项目在 GitHub 上获得 89639 颗星和 17303 个 fork，近期日增星 274 颗，显示出社区高度关注。主要编程语言为 Python，依赖 LangChain、OpenAI API 等库。该框架适用于量化交易研究、算法回测及实时交易辅助，但需注意其仍处于实验阶段，实际交易风险需用户自行评估。",
+  "tags": [
+    "多智能体",
+    "大语言模型",
+    "金融交易",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-29T19:39:45+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "TauricResearch",
+    "stars": 89639,
+    "forks": 17303,
+    "daily_stars": 274,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
