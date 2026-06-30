@@ -1,0 +1,31 @@
+{
+  "id": "20260630-github-0c9eedfabd",
+  "title": "etcd-io/bbolt",
+  "source": "github_trending",
+  "source_url": "https://github.com/etcd-io/bbolt",
+  "summary": "etcd-io/bbolt 是一个用 Go 语言编写的嵌入式键值数据库。",
+  "content": "bbolt 是 etcd 项目维护的嵌入式键值数据库，基于 BoltDB 分支改进，专为 Go 语言设计。它提供 ACID 事务、无锁读取和简单 API，适合需要持久化存储的轻量级应用场景。截至 2026 年 6 月 30 日，该项目在 GitHub 上获得 9600 颗星和 736 个分支，日增星 7 颗，属于 GitHub 热点 Go 类别。",
+  "tags": [
+    "嵌入式数据库",
+    "键值存储",
+    "Go",
+    "ACID",
+    "etcd"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-30T19:02:02+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "etcd-io",
+    "stars": 9600,
+    "forks": 736,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

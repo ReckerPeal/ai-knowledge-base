@@ -1,0 +1,32 @@
+{
+  "id": "20260630-github-b6727eca02",
+  "title": "containerd/containerd",
+  "source": "github_trending",
+  "source_url": "https://github.com/containerd/containerd",
+  "summary": "containerd 是一个开放且可靠的容器运行时，作为容器化环境的核心组件，提供轻量级、高性能的容器生命周期管理。",
+  "content": "containerd 是一个行业标准的容器运行时，专注于简单性、健壮性和可移植性。它作为 Docker 和 Kubernetes 等容器编排系统的底层运行时，负责容器的创建、启动、停止和销毁等核心操作。containerd 支持 OCI（开放容器倡议）镜像规范和运行时规范，能够管理完整的容器生命周期，包括镜像传输和存储、容器执行和监控、以及底层存储和网络接口。其设计目标是提供一个稳定、高效且安全的容器执行环境，广泛应用于生产环境中的大规模容器部署。",
+  "tags": [
+    "容器运行时",
+    "容器化",
+    "Kubernetes",
+    "Docker",
+    "OCI",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-30T19:02:02+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "containerd",
+    "stars": 20893,
+    "forks": 3992,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

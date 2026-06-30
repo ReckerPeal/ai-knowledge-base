@@ -1,0 +1,33 @@
+{
+  "id": "20260630-github-f1779a5348",
+  "title": "kubernetes-sigs/gateway-api",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/gateway-api",
+  "summary": "Gateway API 是 Kubernetes SIG 维护的下一代服务网络 API 仓库，旨在替代和扩展传统的 Ingress 资源，提供更强大、更灵活的服务暴露和负载均衡能力。",
+  "content": "该仓库是 Kubernetes 社区 SIG-Network 主导的 Gateway API 项目，代表了 Kubernetes 服务网络接口的演进方向。相比早期的 Ingress API，Gateway API 引入了 GatewayClass、Gateway、HTTPRoute 等更细粒度的资源模型，支持跨命名空间路由、流量分割、请求镜像、TLS 终止等高级功能。项目目前处于 GA 阶段，已被多家服务网格和 API 网关厂商（如 Istio、Contour、Traefik）采纳。仓库包含 API 定义、参考实现、文档和示例，是云原生网络领域的关键基础设施。",
+  "tags": [
+    "Kubernetes",
+    "Gateway API",
+    "服务网格",
+    "负载均衡",
+    "Ingress",
+    "云原生",
+    "网络"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-30T19:02:13+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 2915,
+    "forks": 754,
+    "daily_stars": null,
+    "weekly_stars": 17,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

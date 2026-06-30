@@ -1,0 +1,33 @@
+{
+  "id": "20260630-github-b28f457898",
+  "title": "shuvonsec/claude-bug-bounty",
+  "source": "github_trending",
+  "source_url": "https://github.com/shuvonsec/claude-bug-bounty",
+  "summary": "shuvonsec/claude-bug-bounty 是一个基于 AI 的漏洞赏金狩猎工具，可在终端中运行，支持信息收集、20 种漏洞类型自动检测、自主狩猎和报告生成，完全集成在 Claude Code 环境中。",
+  "content": "该项目利用 Claude Code 的 AI 能力，为安全研究人员提供从终端直接进行漏洞赏金狩猎的完整工作流。它包含信息收集（recon）模块，覆盖 20 种常见漏洞类别，能够自主进行漏洞检测，并自动生成报告。项目使用 Python 编写，在 GitHub 上获得 3766 颗星和 658 个分支，日增星 94 颗，属于 GitHub 热点 Python 类别。",
+  "tags": [
+    "AI",
+    "漏洞赏金",
+    "安全工具",
+    "Claude Code",
+    "自动化",
+    "Python",
+    "终端工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-06-30T19:01:54+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "shuvonsec",
+    "stars": 3766,
+    "forks": 658,
+    "daily_stars": 94,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
