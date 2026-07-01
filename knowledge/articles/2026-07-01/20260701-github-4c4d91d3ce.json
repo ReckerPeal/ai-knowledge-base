@@ -1,0 +1,29 @@
+{
+  "id": "20260701-github-4c4d91d3ce",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "source": "rss",
+  "source_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "summary": "OpenAI 工程师通过大规模核心转储分析调试罕见的基础设施崩溃，发现了一个硬件故障和一个存在 18 年的软件错误。",
+  "content": "OpenAI 的工程师利用大规模核心转储（core dump）分析技术，对罕见的基础设施崩溃进行了深入调试。通过系统性地分析大量核心转储文件，他们最终定位到两个根本原因：一个硬件故障，以及一个存在长达 18 年的软件错误。这项工作不仅解决了长期困扰系统的稳定性问题，还展示了核心转储分析在复杂系统故障排查中的强大能力。",
+  "tags": [
+    "核心转储分析",
+    "基础设施调试",
+    "硬件故障",
+    "软件错误",
+    "OpenAI"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "collected_at": "2026-07-01T19:05:30+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

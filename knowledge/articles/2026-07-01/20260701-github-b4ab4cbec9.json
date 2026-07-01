@@ -1,0 +1,31 @@
+{
+  "id": "20260701-github-b4ab4cbec9",
+  "title": "louis-e/arnis",
+  "source": "github_trending",
+  "source_url": "https://github.com/louis-e/arnis",
+  "summary": "一个能够高细节地在 Minecraft 中生成真实世界任意地点的工具。",
+  "content": "该项目基于 Rust 开发，利用真实世界的地理数据，在 Minecraft 游戏中以高精度重建任意位置的地形、建筑和自然景观。它可能通过开放地图数据（如 OpenStreetMap）或卫星影像，将现实世界的坐标转换为游戏内的方块结构，支持自定义细节级别和生成范围。该工具适合 Minecraft 玩家、地理爱好者以及教育场景，用于创建逼真的虚拟世界。",
+  "tags": [
+    "Minecraft",
+    "地理数据",
+    "Rust",
+    "地形生成",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:28+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "louis-e",
+    "stars": 16580,
+    "forks": 1375,
+    "daily_stars": null,
+    "weekly_stars": 361,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

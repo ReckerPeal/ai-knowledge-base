@@ -1,0 +1,33 @@
+{
+  "id": "20260701-github-8715ebb83e",
+  "title": "open-telemetry/opentelemetry-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-telemetry/opentelemetry-go",
+  "summary": "OpenTelemetry Go API 和 SDK 的官方实现，用于在 Go 应用中生成、收集和导出遥测数据（如追踪、指标和日志）。",
+  "content": "OpenTelemetry Go 是 OpenTelemetry 项目在 Go 语言中的官方实现，提供了一组 API 和 SDK，帮助开发者轻松地在 Go 应用中集成可观测性能力。它支持分布式追踪、指标收集和日志记录，并能够将数据导出到多种后端（如 Jaeger、Prometheus、Zipkin 等）。该项目在 GitHub 上拥有 6446 颗星和 1407 个 Fork，是 Go 生态系统中实现可观测性的核心工具之一。",
+  "tags": [
+    "OpenTelemetry",
+    "Go",
+    "可观测性",
+    "分布式追踪",
+    "指标",
+    "日志",
+    "APM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:21+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "open-telemetry",
+    "stars": 6446,
+    "forks": 1407,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260701-github-cb25ea6133",
+  "title": "hyperium/hyper",
+  "source": "github_trending",
+  "source_url": "https://github.com/hyperium/hyper",
+  "summary": "hyperium/hyper 是一个用 Rust 编写的高性能 HTTP 库，旨在提供安全、异步的 HTTP 客户端和服务器实现。",
+  "content": "hyper 是 Rust 生态中最流行的 HTTP 库之一，由 hyperium 组织维护。它基于 Rust 的异步特性（如 tokio）构建，支持 HTTP/1 和 HTTP/2 协议，提供底层 API 和高级抽象。该库在 GitHub 上拥有超过 16,000 颗星，被广泛应用于 Web 服务器、代理和微服务场景。其设计强调安全性和性能，适合构建高并发网络应用。",
+  "tags": [
+    "Rust",
+    "HTTP",
+    "异步",
+    "网络库",
+    "hyperium",
+    "tokio"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:28+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "hyperium",
+    "stars": 16187,
+    "forks": 1771,
+    "daily_stars": null,
+    "weekly_stars": 45,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

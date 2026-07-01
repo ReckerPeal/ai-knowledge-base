@@ -1,0 +1,43 @@
+{
+  "id": "20260701-github-ed99da9467",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "summary": "mukul975/Anthropic-Cybersecurity-Skills 是一个为 AI 代理提供 817 项结构化网络安全技能的开源项目，覆盖 29 个安全领域，并映射到 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3 六大框架。它遵循 agentskills.io 标准，兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 等 20 多个平台，采用 Apache 2.0 许可证。",
+  "content": "该项目旨在为 AI 代理（如代码助手、安全工具）提供标准化的网络安全技能集合，以提升自动化安全分析和响应能力。核心内容包括：\n- 817 项结构化技能，覆盖 29 个安全领域（如威胁检测、事件响应、漏洞管理等）。\n- 映射到 6 个主流安全框架：MITRE ATT&CK（攻击行为）、NIST CSF 2.0（网络安全框架）、MITRE ATLAS（AI 威胁）、D3FEND（防御技术）、NIST AI RMF（AI 风险管理）和 MITRE F3（欺诈对抗）。\n- 遵循 agentskills.io 标准，确保技能描述和接口的统一性。\n- 兼容性广泛：支持 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 等 20 多个 AI 平台。\n- 开源许可：Apache 2.0，允许自由使用、修改和分发。\n- 项目热度：截至 2026 年 7 月 1 日，获得 23615 星标、2686 分支，周增 4109 星标，属于 GitHub 热门 Python 项目。",
+  "tags": [
+    "网络安全",
+    "AI代理",
+    "MITRE ATT&CK",
+    "NIST CSF",
+    "MITRE ATLAS",
+    "D3FEND",
+    "NIST AI RMF",
+    "MITRE F3",
+    "agentskills.io",
+    "Claude Code",
+    "GitHub Copilot",
+    "Codex CLI",
+    "Cursor",
+    "Gemini CLI",
+    "开源",
+    "Apache 2.0",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:24+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "mukul975",
+    "stars": 23615,
+    "forks": 2686,
+    "daily_stars": null,
+    "weekly_stars": 4109,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

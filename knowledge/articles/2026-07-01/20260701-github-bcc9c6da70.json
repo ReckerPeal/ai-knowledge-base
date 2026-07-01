@@ -1,0 +1,31 @@
+{
+  "id": "20260701-github-bcc9c6da70",
+  "title": "elastic/kibana",
+  "source": "github_trending",
+  "source_url": "https://github.com/elastic/kibana",
+  "summary": "Elastic Kibana 是一个开源的数据可视化与探索工具，为用户提供对 Elasticsearch 数据的实时洞察与分析窗口。",
+  "content": "Kibana 是 Elastic Stack 的核心组件之一，主要功能包括数据可视化、仪表板创建、日志分析、监控和机器学习等。它支持通过图表、地图和表格等形式直观展示数据，并允许用户使用 Lucene 查询语法或 Elasticsearch Query DSL 进行数据搜索与过滤。该项目由 Elastic 公司维护，社区活跃，拥有超过 2.1 万星标和 8.5 千分支，广泛应用于日志分析、应用性能监控（APM）、安全分析等场景。",
+  "tags": [
+    "数据可视化",
+    "Elasticsearch",
+    "日志分析",
+    "开源",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:26+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "elastic",
+    "stars": 21164,
+    "forks": 8596,
+    "daily_stars": null,
+    "weekly_stars": 20,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260701-github-5a29fb0d0b",
+  "title": "Comparing Transformers and Hybrid Models at the Token Level",
+  "source": "rss",
+  "source_url": "https://arxiv.org/pdf/2606.20936",
+  "summary": "该论文在 token 级别比较了 Transformer 和混合模型（如结合 RNN 或状态空间模型的架构）的性能，探讨了不同模型在处理序列数据时的效率与准确性差异。",
+  "content": "本文基于 arXiv 预印本（编号 2606.20936），系统评估了纯 Transformer 架构与混合模型（例如 Transformer-RNN 或 Transformer-状态空间模型）在 token 级别的表现。研究聚焦于模型在语言建模、长序列依赖捕获及计算效率方面的对比，通过实验揭示了混合模型在特定任务中可能优于纯 Transformer，尤其是在资源受限或需要处理超长序列的场景下。论文还讨论了注意力机制与循环/状态空间组件的互补性，为未来高效序列建模提供了设计指导。",
+  "tags": [
+    "Transformer",
+    "混合模型",
+    "Token级别",
+    "序列建模",
+    "注意力机制",
+    "状态空间模型",
+    "语言建模",
+    "计算效率"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-27T10:16:10-05:00",
+  "collected_at": "2026-07-01T19:05:30+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

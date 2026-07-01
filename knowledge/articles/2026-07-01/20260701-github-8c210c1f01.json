@@ -1,0 +1,34 @@
+{
+  "id": "20260701-github-8c210c1f01",
+  "title": "ultralytics/yolov5",
+  "source": "github_trending",
+  "source_url": "https://github.com/ultralytics/yolov5",
+  "summary": "Ultralytics YOLOv5 是一个基于 PyTorch 的实时目标检测模型，支持导出为 ONNX、CoreML 和 TFLite 格式，广泛应用于计算机视觉领域。",
+  "content": "该仓库由 Ultralytics 维护，是 YOLOv5 的官方实现，采用 Python 语言开发。YOLOv5 以其高精度和实时性能著称，支持从训练到部署的全流程，包括模型转换（PyTorch → ONNX → CoreML → TFLite）。截至收集日期，该项目在 GitHub 上获得 57586 颗星和 17474 个分支，日均新增 9 颗星，属于 GitHub 热点 Python 项目。其核心优势在于易用性、社区活跃度以及跨平台部署能力。",
+  "tags": [
+    "YOLOv5",
+    "目标检测",
+    "PyTorch",
+    "ONNX",
+    "CoreML",
+    "TFLite",
+    "计算机视觉",
+    "实时检测"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:14+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "ultralytics",
+    "stars": 57586,
+    "forks": 17474,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

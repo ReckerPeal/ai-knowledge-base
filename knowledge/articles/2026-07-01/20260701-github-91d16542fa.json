@@ -1,0 +1,29 @@
+{
+  "id": "20260701-github-91d16542fa",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/discoformer",
+  "summary": "DiSCoFormer 是一种统一的 Transformer 架构，能够同时处理密度估计和评分任务，并适用于多种数据分布。",
+  "content": "DiSCoFormer 提出了一种创新的 Transformer 模型，旨在解决传统方法中密度估计和评分任务分离的问题。该模型通过共享参数和跨分布学习，实现了对多种数据分布的统一建模，提升了泛化能力和效率。论文展示了在多个基准测试上的优越性能，并讨论了其在实际应用中的潜力。",
+  "tags": [
+    "Transformer",
+    "密度估计",
+    "评分模型",
+    "跨分布学习",
+    "深度学习"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-29T18:02:48+00:00",
+  "collected_at": "2026-07-01T19:05:30+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

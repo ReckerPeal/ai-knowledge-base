@@ -1,0 +1,31 @@
+{
+  "id": "20260701-github-5a083d8941",
+  "title": "micro/go-micro",
+  "source": "github_trending",
+  "source_url": "https://github.com/micro/go-micro",
+  "summary": "micro/go-micro 是一个用 Go 语言编写的代理框架和服务框架，旨在简化微服务架构的开发与部署。",
+  "content": "micro/go-micro 是一个开源的 Go 语言微服务框架，提供了一套完整的工具和库，用于构建、部署和管理分布式系统。它支持服务发现、负载均衡、消息编码、请求/响应传输等核心功能，并提供了插件化的架构，允许开发者根据需求选择不同的实现（如 gRPC、HTTP、NATS 等）。该框架在 GitHub 上拥有超过 2.2 万颗星，社区活跃，适合构建可扩展的微服务应用。",
+  "tags": [
+    "Go",
+    "微服务",
+    "框架",
+    "服务发现",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "micro",
+    "stars": 22906,
+    "forks": 2407,
+    "daily_stars": null,
+    "weekly_stars": 96,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

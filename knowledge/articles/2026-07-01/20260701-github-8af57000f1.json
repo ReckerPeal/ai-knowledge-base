@@ -1,0 +1,35 @@
+{
+  "id": "20260701-github-8af57000f1",
+  "title": "influxdata/telegraf",
+  "source": "github_trending",
+  "source_url": "https://github.com/influxdata/telegraf",
+  "summary": "Telegraf 是一个由 InfluxData 开发的插件驱动型服务器代理，用于收集、处理、聚合和写入指标、日志及其他任意数据。它支持多种输入输出插件，可灵活集成到监控和数据处理管道中。",
+  "content": "Telegraf 是一个用 Go 语言编写的轻量级代理，专为收集、处理、聚合和写入指标、日志及其他任意数据而设计。其核心优势在于插件驱动架构，拥有丰富的输入插件（如 CPU、内存、Docker、Kubernetes 等）和输出插件（如 InfluxDB、Prometheus、Kafka 等），可轻松扩展以适配不同数据源和目标。Telegraf 常用于构建可观测性基础设施，是 TICK 栈（Telegraf, InfluxDB, Chronograf, Kapacitor）的关键组件。该项目在 GitHub 上拥有超过 17,600 颗星和 5,800 个分支，社区活跃，文档完善，适合需要高效数据采集和处理的开发者和运维团队。",
+  "tags": [
+    "Telegraf",
+    "数据采集",
+    "指标收集",
+    "日志处理",
+    "插件驱动",
+    "Go",
+    "InfluxData",
+    "监控",
+    "可观测性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "influxdata",
+    "stars": 17673,
+    "forks": 5830,
+    "daily_stars": null,
+    "weekly_stars": 32,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

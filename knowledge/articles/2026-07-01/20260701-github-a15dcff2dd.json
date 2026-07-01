@@ -1,0 +1,31 @@
+{
+  "id": "20260701-github-a15dcff2dd",
+  "title": "stretchr/testify",
+  "source": "github_trending",
+  "source_url": "https://github.com/stretchr/testify",
+  "summary": "testify 是一个 Go 语言工具包，提供常用断言和模拟功能，与标准库良好集成。",
+  "content": "testify 是 Go 社区广泛使用的测试辅助库，主要包含 assertions（断言）和 mock（模拟）两大模块。其断言库支持丰富的比较操作，如相等、包含、错误检查等，并生成清晰的测试失败信息。mock 模块允许开发者轻松创建模拟对象，验证方法调用和参数。该库设计上遵循 Go 标准库风格，易于学习和集成。当前在 GitHub 上获得 26049 颗星和 1730 个 fork，日增星约 4 颗，表明其稳定且受欢迎。",
+  "tags": [
+    "Go",
+    "测试",
+    "断言",
+    "模拟",
+    "工具包"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-01T19:05:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "stretchr",
+    "stars": 26049,
+    "forks": 1730,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
