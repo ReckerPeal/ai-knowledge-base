@@ -1,0 +1,32 @@
+{
+  "id": "20260702-github-453843e16a",
+  "title": "jackwener/wx-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/jackwener/wx-cli",
+  "summary": "wx-cli 是一个基于 Rust 开发的微信本地数据命令行工具，采用守护进程架构设计，支持高效的数据管理和操作。",
+  "content": "该项目由 jackwener 创建，在 GitHub 上获得 3788 颗星和 1427 个分支，近期日增星约 20 颗。其核心特点包括：1）使用 Rust 语言编写，性能优异且内存安全；2）采用守护进程架构，实现后台持续运行与命令行交互分离；3）专注于微信本地数据的处理，可能涉及聊天记录、文件等管理功能。该工具适合需要自动化或批量操作微信数据的开发者和高级用户。",
+  "tags": [
+    "微信",
+    "命令行工具",
+    "Rust",
+    "守护进程",
+    "本地数据",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:25+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "jackwener",
+    "stars": 3788,
+    "forks": 1427,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260702-github-c433d706f3",
+  "title": "vosen/ZLUDA",
+  "source": "github_trending",
+  "source_url": "https://github.com/vosen/ZLUDA",
+  "summary": "ZLUDA 是一个开源项目，旨在让 CUDA 程序能够在非 NVIDIA GPU（如 AMD、Intel 等）上运行，通过兼容层实现 GPU 计算的跨平台支持。",
+  "content": "ZLUDA 是一个基于 Rust 语言开发的兼容层项目，它允许原本为 NVIDIA CUDA 编写的程序在非 NVIDIA GPU（例如 AMD、Intel 等）上直接运行，无需修改源代码。该项目通过实现 CUDA 运行时 API 和驱动 API 的替代实现，将 CUDA 调用转换为目标 GPU 的原生指令，从而在保持高性能的同时实现跨平台兼容。ZLUDA 在 GitHub 上获得了超过 14500 颗星，显示出社区对 GPU 计算去锁定的强烈需求。该项目的核心价值在于打破 NVIDIA 对 CUDA 生态的垄断，为开发者提供更多硬件选择，同时降低迁移成本。",
+  "tags": [
+    "CUDA",
+    "GPU计算",
+    "兼容层",
+    "Rust",
+    "跨平台",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:25+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "vosen",
+    "stars": 14512,
+    "forks": 915,
+    "daily_stars": 92,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

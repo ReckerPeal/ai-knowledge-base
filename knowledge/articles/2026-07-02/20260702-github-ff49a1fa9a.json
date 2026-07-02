@@ -1,0 +1,34 @@
+{
+  "id": "20260702-github-ff49a1fa9a",
+  "title": "lance0/ttl",
+  "source": "github_trending",
+  "source_url": "https://github.com/lance0/ttl",
+  "summary": "ttl 是一个用 Rust 编写的现代化 traceroute 工具，提供实时 TUI 界面、每跳统计、ASN/地理位置查询、ECMP 检测和 MPLS 标签解析，旨在成为 mtr 的更好替代品。",
+  "content": "该项目是一个高性能的网络诊断工具，基于 Rust 语言开发，具备实时终端用户界面（TUI）。它能够显示每个网络跳的详细统计信息，包括延迟、丢包率等。此外，还集成了 ASN 和地理位置查询功能，支持 ECMP（等价多路径）检测和 MPLS 标签解析，帮助用户更深入地分析网络路径。与传统的 mtr 工具相比，ttl 在性能和功能上都有显著提升。",
+  "tags": [
+    "Rust",
+    "traceroute",
+    "网络诊断",
+    "TUI",
+    "ASN查询",
+    "ECMP检测",
+    "MPLS解析",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:25+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lance0",
+    "stars": 1222,
+    "forks": 73,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

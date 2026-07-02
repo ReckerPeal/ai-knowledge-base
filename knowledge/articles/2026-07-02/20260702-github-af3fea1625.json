@@ -1,0 +1,34 @@
+{
+  "id": "20260702-github-af3fea1625",
+  "title": "Unclecheng-li/VulnClaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/Unclecheng-li/VulnClaw",
+  "summary": "VulnClaw 是一个基于 AI Agent、MCP 工具链和渗透技能编排的自动化渗透测试框架，通过自然语言输入即可自动完成信息收集、漏洞发现、漏洞利用和报告生成的全流程。",
+  "content": "VulnClaw 项目利用大语言模型（LLM）作为核心推理引擎，结合 MCP（Model Context Protocol）工具链和预定义的渗透测试技能编排，实现了从自然语言指令到完整渗透测试流程的自动化。其工作流程包括：用户输入自然语言目标描述，AI Agent 自动分解任务，调用信息收集工具（如子域名枚举、端口扫描），进行漏洞发现（如 SQL 注入、XSS 检测），执行漏洞利用（如反弹 Shell、权限提升），最后生成结构化报告。该项目在 GitHub 上获得 1710 颗星和 229 个 Fork，周增长 949 星，显示出社区高度关注。主要优势在于降低渗透测试门槛，提升效率，但需注意伦理和法律合规使用。",
+  "tags": [
+    "AI Agent",
+    "渗透测试",
+    "自动化安全",
+    "MCP工具链",
+    "大语言模型",
+    "漏洞利用",
+    "信息收集",
+    "报告生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:31+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Unclecheng-li",
+    "stars": 1710,
+    "forks": 229,
+    "daily_stars": null,
+    "weekly_stars": 949,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

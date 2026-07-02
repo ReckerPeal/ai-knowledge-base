@@ -1,0 +1,31 @@
+{
+  "id": "20260702-github-816c3b78e7",
+  "title": "PyCQA/bandit",
+  "source": "github_trending",
+  "source_url": "https://github.com/PyCQA/bandit",
+  "summary": "Bandit 是一个用于检测 Python 代码中常见安全问题的工具。",
+  "content": "Bandit 是一个由 PyCQA 维护的开源工具，专注于自动发现 Python 代码中的安全漏洞。它通过静态分析代码，识别常见的安全问题，如 SQL 注入、命令注入、硬编码密码等。该工具易于集成到 CI/CD 流程中，支持自定义规则和报告格式。项目在 GitHub 上拥有 8131 颗星和 786 个分支，近期每日获得 5 颗星，表明其活跃度和社区认可度较高。",
+  "tags": [
+    "Python",
+    "安全",
+    "静态分析",
+    "代码审计",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "PyCQA",
+    "stars": 8131,
+    "forks": 786,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

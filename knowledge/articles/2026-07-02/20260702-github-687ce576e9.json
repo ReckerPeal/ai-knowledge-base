@@ -1,0 +1,33 @@
+{
+  "id": "20260702-github-687ce576e9",
+  "title": "BurntSushi/ripgrep",
+  "source": "github_trending",
+  "source_url": "https://github.com/BurntSushi/ripgrep",
+  "summary": "ripgrep 是一个基于 Rust 的高效递归搜索工具，能够根据正则表达式在目录中搜索文件内容，并自动尊重 .gitignore 规则。",
+  "content": "ripgrep 由 BurntSushi 开发，是一款用 Rust 编写的命令行搜索工具。它通过递归遍历目录，快速匹配用户指定的正则表达式模式，同时自动忽略 .gitignore 中定义的文件和目录，避免搜索无关内容。该工具以其卓越的性能和低内存占用著称，常被开发者用于代码库中的快速文本搜索。GitHub 上拥有 65,686 颗星和 2,617 个分支，近期周增长 315 星，显示出持续的社区关注度。",
+  "tags": [
+    "ripgrep",
+    "Rust",
+    "正则搜索",
+    "gitignore",
+    "命令行工具",
+    "代码搜索",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:36+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "BurntSushi",
+    "stars": 65686,
+    "forks": 2617,
+    "daily_stars": null,
+    "weekly_stars": 315,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

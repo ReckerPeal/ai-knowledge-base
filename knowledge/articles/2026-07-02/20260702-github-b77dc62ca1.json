@@ -1,0 +1,31 @@
+{
+  "id": "20260702-github-b77dc62ca1",
+  "title": "hashicorp/terraform-provider-aws",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/terraform-provider-aws",
+  "summary": "HashiCorp 官方开发的 Terraform AWS Provider，用于通过 Terraform 管理 AWS 云资源。",
+  "content": "该仓库是 HashiCorp 官方维护的 Terraform AWS Provider，支持通过 Terraform 声明式配置管理 AWS 基础设施，包括计算、存储、网络、数据库等各类资源。项目采用 Go 语言开发，拥有超过 1 万颗星和 1 万次 Fork，社区活跃度高，是 Terraform 生态中最核心的云提供商插件之一。",
+  "tags": [
+    "Terraform",
+    "AWS",
+    "基础设施即代码",
+    "云资源管理",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:28+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 10967,
+    "forks": 10234,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

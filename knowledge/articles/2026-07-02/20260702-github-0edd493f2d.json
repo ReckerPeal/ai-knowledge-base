@@ -1,0 +1,32 @@
+{
+  "id": "20260702-github-0edd493f2d",
+  "title": "rs/zerolog",
+  "source": "github_trending",
+  "source_url": "https://github.com/rs/zerolog",
+  "summary": "Zero Allocation JSON Logger 是一个高性能的 Go 语言 JSON 日志库，通过零内存分配设计实现极低延迟和高吞吐量。",
+  "content": "rs/zerolog 是一个专为 Go 语言设计的高性能 JSON 日志库，其核心特点是零内存分配（Zero Allocation），通过避免在日志记录过程中产生堆分配来显著提升性能。该库支持结构化日志输出，提供丰富的日志级别（如 Debug、Info、Warn、Error 等）和上下文字段添加功能，同时保持极低的内存开销和 CPU 使用率。zerolog 适用于对性能要求苛刻的微服务、高并发系统及实时数据处理场景，已在 GitHub 上获得超过 1.2 万星标，是 Go 生态中备受推崇的日志解决方案之一。",
+  "tags": [
+    "Go",
+    "日志库",
+    "JSON",
+    "高性能",
+    "零分配",
+    "结构化日志"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:28+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "rs",
+    "stars": 12440,
+    "forks": 627,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

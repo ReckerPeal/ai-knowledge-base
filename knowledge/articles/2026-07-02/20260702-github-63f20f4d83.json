@@ -1,0 +1,34 @@
+{
+  "id": "20260702-github-63f20f4d83",
+  "title": "istio/istio",
+  "source": "github_trending",
+  "source_url": "https://github.com/istio/istio",
+  "summary": "Istio 是一个开源服务网格平台，用于连接、安全保护、控制和观测微服务。",
+  "content": "Istio 提供了一种透明且高效的方式来管理微服务架构中的服务间通信。它通过 sidecar 代理（基于 Envoy）自动注入到 Pod 中，实现流量管理、策略执行、服务身份验证和遥测数据收集。核心功能包括：1) 流量管理：支持金丝雀发布、蓝绿部署、熔断和重试；2) 安全：提供 mTLS、RBAC 和证书管理；3) 可观测性：集成 Prometheus、Grafana、Jaeger 和 Kiali 实现指标、日志和追踪；4) 策略控制：通过 OPA 或自定义适配器执行访问控制。Istio 支持 Kubernetes 和虚拟机，是云原生计算基金会（CNCF）的毕业项目。",
+  "tags": [
+    "服务网格",
+    "微服务",
+    "Kubernetes",
+    "Envoy",
+    "流量管理",
+    "安全",
+    "可观测性",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:39+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "istio",
+    "stars": 38252,
+    "forks": 8344,
+    "daily_stars": null,
+    "weekly_stars": 21,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

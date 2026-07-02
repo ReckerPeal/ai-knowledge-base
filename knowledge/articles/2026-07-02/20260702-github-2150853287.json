@@ -1,0 +1,32 @@
+{
+  "id": "20260702-github-2150853287",
+  "title": "pytorch/pytorch",
+  "source": "github_trending",
+  "source_url": "https://github.com/pytorch/pytorch",
+  "summary": "PyTorch 是一个基于 Python 的开源深度学习框架，支持张量计算和动态神经网络，并具备强大的 GPU 加速能力。",
+  "content": "PyTorch 由 Facebook 人工智能研究团队开发，是目前最流行的深度学习框架之一。其核心特性包括：1）动态计算图（Define-by-Run），允许在运行时动态构建和修改神经网络，极大提升了调试和实验的灵活性；2）强大的 GPU 加速支持，通过 CUDA 实现高效的张量运算；3）丰富的生态系统，包括 torchvision、torchtext 等扩展库，覆盖计算机视觉、自然语言处理等多个领域。该仓库在 GitHub 上拥有超过 10 万星标，社区活跃度极高，广泛应用于学术研究和工业部署。",
+  "tags": [
+    "深度学习",
+    "PyTorch",
+    "GPU加速",
+    "动态神经网络",
+    "张量计算",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:18+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "pytorch",
+    "stars": 101048,
+    "forks": 28213,
+    "daily_stars": 45,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260702-github-6e3937d7ca",
+  "title": "sharkdp/fd",
+  "source": "github_trending",
+  "source_url": "https://github.com/sharkdp/fd",
+  "summary": "sharkdp/fd 是一个用 Rust 编写的命令行工具，旨在作为传统 Unix 命令 'find' 的简单、快速且用户友好的替代品。它提供了更直观的语法、更快的搜索速度（通过并行遍历和忽略 .gitignore 规则）以及更美观的输出。该项目在 GitHub 上拥有超过 43,000 颗星，是 Rust 生态中备受欢迎的系统工具之一。",
+  "content": "fd 是一个高性能的替代 find 命令的工具，其核心优势包括：\n- **速度**：利用 Rust 的并发能力和文件系统优化，在大型目录中搜索速度远超 find。\n- **易用性**：默认使用正则表达式（而非 find 的复杂 glob 模式），并自动忽略隐藏目录和 .gitignore 中的文件。\n- **功能**：支持智能大小写、颜色高亮输出、并行执行、扩展名过滤、以及通过 -x/--exec 执行命令。\n- **跨平台**：支持 Linux、macOS、Windows 和 BSD 系统。\n- **社区活跃**：每周获得约 120 颗新星，持续维护并接受社区贡献。\n\n该项目适合所有需要频繁在文件系统中搜索的开发者和系统管理员，尤其适合那些对 find 的复杂语法感到困扰的用户。",
+  "tags": [
+    "Rust",
+    "命令行工具",
+    "文件搜索",
+    "find替代",
+    "高性能",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:36+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "sharkdp",
+    "stars": 43561,
+    "forks": 1083,
+    "daily_stars": null,
+    "weekly_stars": 120,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

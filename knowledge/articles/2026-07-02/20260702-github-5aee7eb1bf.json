@@ -1,0 +1,36 @@
+{
+  "id": "20260702-github-5aee7eb1bf",
+  "title": "trpc-group/trpc-agent-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/trpc-group/trpc-agent-go",
+  "summary": "trpc-agent-go 是一个基于 Go 语言的生产级智能体系统框架，支持图工作流、工具集成、记忆管理、A2A 协议、AG-UI、MCP、评估和可观测性等特性。",
+  "content": "该框架由 trpc-group 开发，旨在简化构建生产环境中的智能体系统。它提供了图工作流引擎，允许开发者以有向无环图（DAG）的方式编排智能体任务；内置工具集成机制，可方便地接入外部 API 和功能；支持记忆管理，使智能体能够保持对话上下文；实现了 A2A（Agent-to-Agent）通信协议，促进多智能体协作；包含 AG-UI 组件，用于构建用户界面；支持 MCP（Model Context Protocol），便于与模型交互；提供评估模块，用于测试和优化智能体性能；以及可观测性工具，帮助监控和调试系统。项目在 GitHub 上获得 1481 颗星，200 个 fork，日增 20 星，属于 Go 语言热点项目。",
+  "tags": [
+    "Go",
+    "智能体框架",
+    "图工作流",
+    "工具集成",
+    "记忆管理",
+    "A2A",
+    "AG-UI",
+    "MCP",
+    "可观测性",
+    "生产级系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-02T18:54:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "trpc-group",
+    "stars": 1481,
+    "forks": 200,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
