@@ -1,0 +1,33 @@
+{
+  "id": "20260703-github-c3789babff",
+  "title": "hicccc77/WeFlow",
+  "source": "github_trending",
+  "source_url": "https://github.com/hicccc77/WeFlow",
+  "summary": "WeFlow 是一个基于 TypeScript 开发的本地微信聊天记录导出与年度报告生成工具，支持用户将微信聊天数据导出为可读格式，并生成个性化的年度报告。",
+  "content": "WeFlow 是一个开源的本地化微信聊天记录管理应用，主要功能包括：\n1. 聊天记录导出：支持将微信聊天记录导出为 JSON、CSV 等格式，便于备份和分析。\n2. 年度报告生成：基于聊天数据自动生成年度统计报告，涵盖消息数量、高频词汇、活跃时段等维度。\n3. 隐私安全：所有数据处理均在本地完成，不上传云端，保障用户隐私。\n4. 技术栈：使用 TypeScript 开发，前端基于 Electron 或 Web 技术，后端可能涉及 Node.js 进行数据解析。\n该项目在 GitHub 上获得 12262 颗星，3133 个 Fork，日增 68 星，属于 TypeScript 热点项目。",
+  "tags": [
+    "微信聊天记录",
+    "数据导出",
+    "年度报告",
+    "TypeScript",
+    "本地应用",
+    "隐私安全",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:04:52+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "hicccc77",
+    "stars": 12262,
+    "forks": 3133,
+    "daily_stars": 68,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

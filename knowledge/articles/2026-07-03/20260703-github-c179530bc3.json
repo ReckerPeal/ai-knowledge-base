@@ -1,0 +1,33 @@
+{
+  "id": "20260703-github-c179530bc3",
+  "title": "mullvad/mullvadvpn-app",
+  "source": "github_trending",
+  "source_url": "https://github.com/mullvad/mullvadvpn-app",
+  "summary": "Mullvad VPN 客户端应用，支持桌面和移动平台。",
+  "content": "Mullvad VPN 客户端应用是一个跨平台的 VPN 客户端，支持桌面（Windows、macOS、Linux）和移动（Android、iOS）平台。该项目使用 Rust 语言开发，注重隐私保护和安全性，提供简洁的用户界面和强大的加密功能。Mullvad VPN 以其严格的隐私政策（不记录日志、支持匿名支付）而闻名，该客户端应用实现了与 Mullvad VPN 服务的无缝集成，包括自动连接、服务器选择、端口转发等功能。项目在 GitHub 上拥有 7335 颗星和 502 个 fork，近期周增星数达 133，属于 Rust 语言的热门开源项目。",
+  "tags": [
+    "VPN",
+    "Rust",
+    "隐私保护",
+    "跨平台",
+    "Mullvad",
+    "网络安全",
+    "开源客户端"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:05:04+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "mullvad",
+    "stars": 7335,
+    "forks": 502,
+    "daily_stars": null,
+    "weekly_stars": 133,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

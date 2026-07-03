@@ -1,0 +1,33 @@
+{
+  "id": "20260703-github-c70839f114",
+  "title": "dbt-labs/dbt-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/dbt-labs/dbt-core",
+  "summary": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。",
+  "content": "dbt-core 是 dbt-labs 开发的核心数据构建工具，它允许数据团队通过编写 SQL 或 Python 代码来定义数据转换逻辑，并应用版本控制、测试、文档化和持续集成等软件工程最佳实践。该工具支持数据建模、数据质量保证和协作工作流，旨在提高数据管道的可靠性和可维护性。",
+  "tags": [
+    "dbt",
+    "数据转换",
+    "数据工程",
+    "SQL",
+    "Python",
+    "数据管道",
+    "软件工程实践"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:05:04+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "dbt-labs",
+    "stars": 13348,
+    "forks": 2450,
+    "daily_stars": null,
+    "weekly_stars": 290,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

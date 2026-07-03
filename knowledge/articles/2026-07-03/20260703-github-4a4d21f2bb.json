@@ -1,0 +1,31 @@
+{
+  "id": "20260703-github-4a4d21f2bb",
+  "title": "LargeModGames/spotatui",
+  "source": "github_trending",
+  "source_url": "https://github.com/LargeModGames/spotatui",
+  "summary": "一个完全独立的终端 Spotify 客户端，支持原生流媒体播放，无需后台守护进程。",
+  "content": "该项目是一个用 Rust 编写的终端 Spotify 客户端，名为 spotatui。它最大的特点是完全独立运行，无需依赖任何外部守护进程，直接通过原生流媒体播放音乐。用户可以在终端中完成搜索、播放、控制 Spotify 音乐等操作，适合喜欢命令行界面的用户。",
+  "tags": [
+    "Spotify",
+    "终端客户端",
+    "Rust",
+    "流媒体",
+    "独立运行"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:04:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "LargeModGames",
+    "stars": 844,
+    "forks": 48,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

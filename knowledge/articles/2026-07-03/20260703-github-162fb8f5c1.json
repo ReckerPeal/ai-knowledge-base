@@ -1,0 +1,31 @@
+{
+  "id": "20260703-github-162fb8f5c1",
+  "title": "runatlantis/atlantis",
+  "source": "github_trending",
+  "source_url": "https://github.com/runatlantis/atlantis",
+  "summary": "Terraform Pull Request Automation",
+  "content": "Atlantis 是一个用于 Terraform 的拉取请求自动化工具。它通过在 GitHub、GitLab 等平台上监听拉取请求事件，自动运行 Terraform 计划和应用，实现基础设施即代码的协作工作流自动化。该工具支持多环境管理、自定义工作流、访问控制等功能，旨在简化团队使用 Terraform 时的审批和部署流程。",
+  "tags": [
+    "Terraform",
+    "基础设施即代码",
+    "拉取请求自动化",
+    "DevOps",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:05:07+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "runatlantis",
+    "stars": 9171,
+    "forks": 1292,
+    "daily_stars": null,
+    "weekly_stars": 17,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

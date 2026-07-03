@@ -1,0 +1,33 @@
+{
+  "id": "20260703-github-99c58b0dd0",
+  "title": "angular/angular",
+  "source": "github_trending",
+  "source_url": "https://github.com/angular/angular",
+  "summary": "Angular 是一个由 Google 维护的 TypeScript 前端框架，用于构建高效、可扩展的 Web 应用。其核心特性包括双向数据绑定、依赖注入、模块化架构和强大的 CLI 工具，支持单页应用（SPA）和企业级开发。",
+  "content": "Angular 是一个基于 TypeScript 的开源前端框架，由 Google 的 Angular 团队维护。它提供了一套完整的工具链，包括模板语法、组件化架构、路由、表单处理、HTTP 客户端和测试支持。Angular 采用模块化设计，通过 NgModules 组织代码，并利用依赖注入（DI）提高可测试性和可维护性。其变更检测机制和 Zone.js 实现了高效的自动数据同步。Angular CLI 简化了项目创建、构建、测试和部署流程。该框架广泛应用于企业级应用，拥有庞大的社区和丰富的生态系统，包括 Angular Material 组件库。",
+  "tags": [
+    "Angular",
+    "TypeScript",
+    "前端框架",
+    "Web 开发",
+    "SPA",
+    "Google",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-03T20:04:52+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "angular",
+    "stars": 100472,
+    "forks": 27242,
+    "daily_stars": 98,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
