@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-b1475d8613",
+  "title": "TencentCloud/CubeSandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/TencentCloud/CubeSandbox",
+  "summary": "CubeSandbox 是一个由腾讯云开发的即时、并发、安全且轻量级的沙箱环境，专为 AI 代理设计。",
+  "content": "CubeSandbox 是一个基于 Rust 语言构建的高性能沙箱解决方案，旨在为 AI 代理提供即时启动、高并发处理、强安全隔离和低资源消耗的运行环境。该项目在 GitHub 上获得了 7268 颗星和 594 个分支，近期日增星 60 颗，周增星 620 颗，显示出较高的社区关注度。其核心优势包括：1) 即时性：快速创建和销毁沙箱实例；2) 并发性：支持大规模并行任务处理；3) 安全性：通过隔离机制保护宿主系统；4) 轻量级：优化资源占用，适合边缘计算和云原生场景。适用于 AI 代理的代码执行、模型推理、数据隔离等场景。",
+  "tags": [
+    "AI Agent",
+    "沙箱",
+    "安全隔离",
+    "轻量级",
+    "高并发",
+    "Rust",
+    "腾讯云"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "TencentCloud",
+    "stars": 7268,
+    "forks": 594,
+    "daily_stars": 60,
+    "weekly_stars": 620,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-0c6b33a690",
+  "title": "containers/kubernetes-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/containers/kubernetes-mcp-server",
+  "summary": "containers/kubernetes-mcp-server 是一个为 Kubernetes 和 OpenShift 设计的模型上下文协议 (MCP) 服务器。",
+  "content": "该仓库提供了一个 MCP 服务器，用于将 Kubernetes 和 OpenShift 集群与模型上下文协议集成。它允许 AI 模型通过标准化的接口与 Kubernetes 资源交互，支持集群管理、资源查询和操作。项目使用 Go 语言开发，具有较高的社区关注度（1745 星），适合需要将 AI 能力与容器编排平台结合的场景。",
+  "tags": [
+    "Kubernetes",
+    "OpenShift",
+    "MCP",
+    "模型上下文协议",
+    "Go",
+    "容器编排",
+    "AI 集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "containers",
+    "stars": 1745,
+    "forks": 381,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

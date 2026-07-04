@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-d96230a6b3",
+  "title": "google/zerocopy",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/zerocopy",
+  "summary": "Zerocopy 是一个 Rust 库，旨在实现零成本的内存操作，通过封装 unsafe 代码让开发者无需直接处理不安全的内存操作。",
+  "content": "Zerocopy 由 Google 开发，专注于提供零成本的内存操作抽象，使开发者能够安全地进行内存转换和操作，而无需直接编写 unsafe 代码。该库在 GitHub 上获得了 2473 颗星和 168 个 fork，日增星 29 颗，属于 Rust 语言的热门项目。",
+  "tags": [
+    "Rust",
+    "零成本抽象",
+    "内存安全",
+    "unsafe 封装",
+    "Google"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 2473,
+    "forks": 168,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

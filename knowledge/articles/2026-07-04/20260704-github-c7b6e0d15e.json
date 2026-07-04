@@ -1,0 +1,30 @@
+{
+  "id": "20260704-github-c7b6e0d15e",
+  "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+  "summary": "本文介绍了如何通过Strands Agents和LeRobot将Hugging Face Hub上的机器人模型部署到实际硬件中，实现了从虚拟模型到物理机器人的端到端流程。",
+  "content": "文章详细阐述了Strands Agents和LeRobot框架的集成方法，展示了如何从Hugging Face Hub下载预训练模型，并通过LeRobot的硬件接口驱动真实机器人执行任务。内容涵盖模型选择、环境配置、硬件适配及实际部署案例，强调了开源社区在机器人技术民主化中的作用。",
+  "tags": [
+    "Hugging Face",
+    "机器人",
+    "LeRobot",
+    "Strands Agents",
+    "硬件部署",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-17T10:18:05+00:00",
+  "collected_at": "2026-07-04T19:21:31+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

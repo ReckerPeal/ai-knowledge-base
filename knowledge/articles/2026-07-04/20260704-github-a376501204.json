@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-a376501204",
+  "title": "sirupsen/logrus",
+  "source": "github_trending",
+  "source_url": "https://github.com/sirupsen/logrus",
+  "summary": "Logrus 是 Go 语言的结构化、可插拔日志库，提供日志级别、字段扩展、钩子机制等功能，支持多种输出格式和第三方扩展。",
+  "content": "Logrus 是一个流行的 Go 日志库，以其结构化日志记录和可插拔的架构而闻名。它支持日志级别（如 Debug、Info、Warn、Error、Fatal、Panic），允许开发者通过字段（Fields）添加键值对上下文，并利用钩子（Hooks）将日志发送到外部系统（如 Sentry、Syslog）。其输出格式可定制，包括 JSON 和文本格式。Logrus 在 Go 社区中被广泛采用，尤其适用于需要灵活日志处理的中大型项目。",
+  "tags": [
+    "Go",
+    "日志库",
+    "结构化日志",
+    "可插拔",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "sirupsen",
+    "stars": 25750,
+    "forks": 2279,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

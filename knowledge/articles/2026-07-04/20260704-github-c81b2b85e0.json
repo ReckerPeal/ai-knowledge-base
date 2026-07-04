@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-c81b2b85e0",
+  "title": "golang-migrate/migrate",
+  "source": "github_trending",
+  "source_url": "https://github.com/golang-migrate/migrate",
+  "summary": "golang-migrate/migrate 是一个用于数据库迁移的 CLI 和 Go 语言库，支持多种数据库，提供简洁的迁移管理功能。",
+  "content": "golang-migrate/migrate 是一个开源的数据库迁移工具，以 CLI 和 Go 库的形式提供。它支持 PostgreSQL、MySQL、SQLite、MongoDB 等多种数据库，允许用户通过版本化的迁移文件（如 SQL 或 Go 代码）来管理数据库 schema 变更。该项目在 GitHub 上拥有 18677 颗星和 1586 个 fork，每日新增约 6 颗星，属于 Go 语言生态中的热门工具。其核心优势在于轻量、易集成，并支持从文件系统、嵌入资源或远程存储读取迁移。",
+  "tags": [
+    "Go",
+    "数据库迁移",
+    "CLI",
+    "golang-migrate",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:21+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "golang-migrate",
+    "stars": 18677,
+    "forks": 1586,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

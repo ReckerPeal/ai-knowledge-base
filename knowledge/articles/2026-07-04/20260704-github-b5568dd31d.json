@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-b5568dd31d",
+  "title": "jiji262/douyin-downloader",
+  "source": "github_trending",
+  "source_url": "https://github.com/jiji262/douyin-downloader",
+  "summary": "jiji262/douyin-downloader 是一个实用的抖音下载工具，支持单条视频和主页批量下载，具备进度显示、重试机制、SQLite 去重和浏览器回退功能。它能够下载去水印的视频、图集、合集和音乐，完全免费。",
+  "content": "该项目是一个基于 Python 开发的抖音内容下载器，主要功能包括：\n- 支持单条视频或主页批量下载\n- 自动去除水印\n- 支持视频、图集、合集、音乐（原声）等多种内容类型\n- 提供下载进度显示\n- 具备重试机制以应对下载失败\n- 使用 SQLite 进行去重，避免重复下载\n- 支持浏览器回退方案，增强兼容性\n- 完全免费使用\n\n该工具在 GitHub 上获得 8460 颗星和 1340 个 fork，近期日增星 61 颗，属于热门 Python 项目。",
+  "tags": [
+    "抖音下载",
+    "去水印",
+    "批量下载",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-04T19:21:14+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "jiji262",
+    "stars": 8460,
+    "forks": 1340,
+    "daily_stars": 61,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
