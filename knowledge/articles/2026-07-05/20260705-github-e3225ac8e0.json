@@ -1,0 +1,32 @@
+{
+  "id": "20260705-github-e3225ac8e0",
+  "title": "OthmanAdi/planning-with-files",
+  "source": "github_trending",
+  "source_url": "https://github.com/OthmanAdi/planning-with-files",
+  "summary": "OthmanAdi/planning-with-files 是一个基于文件的持久化规划工具，专为 AI 编码代理和长期代理任务设计。它提供崩溃安全的 Markdown 计划，能够抵御上下文丢失和 /clear 命令，并包含确定性完成门和多代理共享磁盘状态。支持 Manus 风格，兼容 Claude Code、Codex CLI、Cursor、Kiro、OpenCode 等 60 多个代理，遵循 SKILL.md 标准。",
+  "content": "该仓库通过文件系统实现 AI 代理的持久化规划，确保在上下文丢失或重置时计划依然可用。核心特性包括：1) 崩溃安全的 Markdown 计划，避免因 /clear 或上下文丢失导致任务中断；2) 确定性完成门，确保任务按预期完成；3) 多代理共享磁盘状态，支持协作场景。项目采用 Python 开发，已在 GitHub 上获得 24534 颗星和 2104 个 fork，近期日增星 61 颗，属于热门趋势项目。它通过 SKILL.md 标准与主流 AI 编码工具集成，适用于需要长期运行和可靠规划的代理工作流。",
+  "tags": [
+    "AI 代理",
+    "持久化规划",
+    "Markdown 计划",
+    "多代理协作",
+    "Python",
+    "GitHub 趋势"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:25:57+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "OthmanAdi",
+    "stars": 24534,
+    "forks": 2104,
+    "daily_stars": 61,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

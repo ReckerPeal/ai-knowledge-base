@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-da7fb8f486",
+  "title": "ethereum/go-ethereum",
+  "source": "github_trending",
+  "source_url": "https://github.com/ethereum/go-ethereum",
+  "summary": "以太坊协议的Go语言实现，是官方维护的核心客户端之一，支持以太坊区块链的节点运行、智能合约执行和交易处理。",
+  "content": "ethereum/go-ethereum（简称geth）是以太坊基金会官方开发的Go语言实现客户端，也是以太坊网络最广泛使用的节点软件。该项目实现了完整的以太坊协议，包括P2P网络通信、共识机制（当前为权益证明PoS）、EVM（以太坊虚拟机）执行、交易池管理、状态同步以及JSON-RPC API接口。geth支持全节点、轻节点和归档节点运行模式，并提供了丰富的命令行工具和开发库，适用于区块链应用开发、智能合约部署、账户管理以及网络监控等场景。作为以太坊生态的核心基础设施，该项目拥有超过5.1万星标和2.1万分支，社区活跃度高，持续跟进以太坊改进提案（EIP）并发布稳定版本。",
+  "tags": [
+    "以太坊",
+    "区块链",
+    "Go",
+    "智能合约",
+    "加密货币",
+    "节点客户端",
+    "EVM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:26:14+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "ethereum",
+    "stars": 51204,
+    "forks": 21927,
+    "daily_stars": null,
+    "weekly_stars": 75,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

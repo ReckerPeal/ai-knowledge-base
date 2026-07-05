@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-a67bb8d2a6",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "summary": "Chrome DevTools 为编码代理提供支持",
+  "content": "ChromeDevTools/chrome-devtools-mcp 是一个由 ChromeDevTools 团队维护的开源项目，旨在为编码代理（coding agents）提供 Chrome 开发者工具（DevTools）的集成能力。该项目基于 TypeScript 开发，通过 MCP（Model Context Protocol）协议，使 AI 编码代理能够直接与 Chrome DevTools 交互，从而实现对网页的实时调试、性能分析、DOM 操作和网络监控等功能。该工具可显著提升 AI 代理在 Web 开发场景中的自动化能力，例如自动修复页面布局问题、优化加载性能或模拟用户交互。项目在 GitHub 上获得了 45906 颗星和 2988 个 Fork，近期日增星数达 304，周增星数达 1213，显示出极高的社区关注度和活跃度。",
+  "tags": [
+    "Chrome DevTools",
+    "编码代理",
+    "MCP协议",
+    "Web调试",
+    "AI集成",
+    "TypeScript",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:25:59+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "ChromeDevTools",
+    "stars": 45906,
+    "forks": 2988,
+    "daily_stars": 304,
+    "weekly_stars": 1213,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-c3ae08fd1b",
+  "title": "microsoft/typescript-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/typescript-go",
+  "summary": "微软官方 TypeScript 原生移植（Go 语言）的暂存仓库，旨在将 TypeScript 编译器用 Go 重写以提升性能。",
+  "content": "该仓库是微软为 TypeScript 语言开发的 Go 语言原生移植版本（native port）的暂存仓库。项目目标是将现有的 TypeScript 编译器（通常用 TypeScript 自身编写）迁移到 Go 语言，从而获得更好的编译速度和运行时性能。目前仓库处于早期开发阶段，包含核心编译器基础设施和部分类型检查逻辑的 Go 实现。该项目由微软官方维护，在 GitHub 上获得了大量关注（25,792 星），显示出社区对 TypeScript 性能优化的强烈兴趣。",
+  "tags": [
+    "TypeScript",
+    "Go",
+    "编译器",
+    "微软",
+    "性能优化",
+    "原生移植",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:26:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 25792,
+    "forks": 1029,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

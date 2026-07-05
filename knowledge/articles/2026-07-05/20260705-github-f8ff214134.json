@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-f8ff214134",
+  "title": "cupy/cupy",
+  "source": "github_trending",
+  "source_url": "https://github.com/cupy/cupy",
+  "summary": "CuPy 是一个基于 GPU 的 NumPy 和 SciPy 兼容库，旨在通过利用 NVIDIA CUDA 技术加速科学计算和数组操作。",
+  "content": "CuPy 是一个开源项目，提供与 NumPy 和 SciPy 高度兼容的接口，但底层计算在 GPU 上执行，从而显著提升大规模数组运算和科学计算任务的性能。它支持多种 CUDA 操作，包括线性代数、傅里叶变换、随机数生成等，并允许用户自定义 CUDA 内核。该项目由 Preferred Networks 维护，在 GitHub 上拥有超过 12000 颗星，社区活跃，每周获得数百颗新星，适合需要 GPU 加速的 Python 科学计算用户。",
+  "tags": [
+    "GPU",
+    "NumPy",
+    "SciPy",
+    "CUDA",
+    "科学计算",
+    "数组操作",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:26:07+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "cupy",
+    "stars": 12062,
+    "forks": 1097,
+    "daily_stars": null,
+    "weekly_stars": 836,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

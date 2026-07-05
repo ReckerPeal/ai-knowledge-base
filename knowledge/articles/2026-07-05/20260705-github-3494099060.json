@@ -1,0 +1,34 @@
+{
+  "id": "20260705-github-3494099060",
+  "title": "kdsz001/OpenWiki",
+  "source": "github_trending",
+  "source_url": "https://github.com/kdsz001/OpenWiki",
+  "summary": "OpenWiki 是一款基于 Rust 开发的 Mac 桌面 AI 知识管理工具，能够自动捕获剪贴板内容，帮助用户构建个人维基，并提供 AI 洞察功能。",
+  "content": "OpenWiki 是一个开源的 Mac 桌面应用，专注于 AI 驱动的知识管理。它通过监听系统剪贴板，自动收集用户复制的内容，并利用 AI 技术进行智能整理和关联，最终形成个人化的知识库（维基）。该工具旨在提升信息管理效率，让用户能够轻松捕获、组织和检索知识。项目使用 Rust 语言开发，保证了高性能和低资源占用。",
+  "tags": [
+    "AI",
+    "知识管理",
+    "Mac",
+    "桌面工具",
+    "Rust",
+    "开源",
+    "剪贴板",
+    "个人维基"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:26:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "kdsz001",
+    "stars": 500,
+    "forks": 55,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

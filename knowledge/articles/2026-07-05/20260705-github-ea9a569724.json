@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-ea9a569724",
+  "title": "ruvnet/RuView",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "summary": "RuView 利用普通 WiFi 信号实现实时空间智能、生命体征监测和存在检测，无需任何视频像素。",
+  "content": "该项目基于 Rust 开发，通过分析 WiFi 信号的细微变化（如信道状态信息 CSI），实现了对环境的非接触式感知。其核心能力包括：1）实时空间智能：追踪人体位置与移动轨迹；2）生命体征监测：检测呼吸、心率等生理信号；3）存在检测：判断空间内是否有人。所有功能均无需摄像头或穿戴设备，仅依赖商用 WiFi 路由器。该技术可应用于智能家居、医疗监护、安防等领域，具有隐私保护强、部署成本低的优势。",
+  "tags": [
+    "WiFi感知",
+    "生命体征监测",
+    "空间智能",
+    "存在检测",
+    "Rust",
+    "非接触式感知",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-05T19:26:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 76513,
+    "forks": 10261,
+    "daily_stars": 133,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260705-github-49c160394c",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "summary": "Hugging Face 团队介绍了如何通过结合 AI、开源工具和人工审核，实现每周发布 huggingface_hub 库的 CI/CD 流程。",
+  "content": "该博客文章详细描述了 Hugging Face 团队在维护 huggingface_hub 库时采用的持续集成和持续部署（CI/CD）策略。他们利用 AI 自动化测试和代码审查，同时保持人工在循环中（human-in-the-loop）以确保质量。开源工具如 GitHub Actions 被用于自动化构建和发布流程，使得每周都能可靠地发布新版本。这种方法平衡了开发速度和代码稳定性，为开源项目维护提供了可复用的实践。",
+  "tags": [
+    "huggingface_hub",
+    "CI/CD",
+    "AI",
+    "开源工具",
+    "人工审核",
+    "持续集成",
+    "持续部署"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "collected_at": "2026-07-05T19:26:14+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
