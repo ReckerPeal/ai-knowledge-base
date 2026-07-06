@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-aac1c9488d",
+  "title": "bradautomates/claude-video",
+  "source": "github_trending",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "summary": "bradautomates/claude-video 是一个 Python 项目，旨在赋予 Claude 观看视频的能力。它通过下载视频、提取帧、转录音频，并将处理后的数据传递给 Claude 进行分析。",
+  "content": "该项目为 Claude 提供了视频理解功能，工作流程包括：1) 下载视频文件；2) 提取关键帧；3) 转录音频内容；4) 将帧和转录文本整合后输入 Claude。这使 Claude 能够基于视频内容进行问答、总结或分析。项目在 GitHub 上获得 3847 星和 572 个 fork，日增 368 星，属于热门 Python 项目。",
+  "tags": [
+    "Claude",
+    "视频分析",
+    "帧提取",
+    "转录",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-06T21:40:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bradautomates",
+    "stars": 3847,
+    "forks": 572,
+    "daily_stars": 368,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
