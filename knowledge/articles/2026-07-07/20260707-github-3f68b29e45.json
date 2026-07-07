@@ -1,0 +1,31 @@
+{
+  "id": "20260707-github-3f68b29e45",
+  "title": "raine/workmux",
+  "source": "github_trending",
+  "source_url": "https://github.com/raine/workmux",
+  "summary": "workmux 是一个将 Git worktrees 与 tmux 窗口结合的工具，旨在实现零摩擦的并行开发体验。",
+  "content": "workmux 是一个基于 Rust 开发的命令行工具，它通过整合 Git worktrees 和 tmux 窗口，简化了并行开发工作流。用户可以在不同分支或任务间快速切换，无需手动管理多个工作目录或终端会话。该工具特别适合需要同时处理多个特性分支或修复的开发者，能够显著提升开发效率。",
+  "tags": [
+    "Git",
+    "tmux",
+    "并行开发",
+    "Rust",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "raine",
+    "stars": 1717,
+    "forks": 127,
+    "daily_stars": null,
+    "weekly_stars": 63,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

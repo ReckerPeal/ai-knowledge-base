@@ -1,0 +1,34 @@
+{
+  "id": "20260707-github-025f7fa143",
+  "title": "pingdotgg/t3code",
+  "source": "github_trending",
+  "source_url": "https://github.com/pingdotgg/t3code",
+  "summary": "T3 Code 是一个基于 TypeScript 的全栈 Web 开发框架，由 T3 Stack 社区维护，旨在提供类型安全、可扩展且高效的开发体验。它集成了 Next.js、Prisma、tRPC 等现代工具，并强调端到端类型安全。该项目在 GitHub 上获得超过 1.3 万星标，近期周增星标 295，显示出较高的社区关注度。",
+  "content": "T3 Code 是一个开源的全栈 Web 开发框架，由开发者 pingdotgg 创建并维护。该框架基于 T3 Stack（TypeScript、tRPC、Tailwind CSS、Prisma、Next.js）构建，核心目标是提供端到端的类型安全，减少运行时错误，并提升开发效率。项目使用 TypeScript 作为主要语言，支持前后端类型共享，通过 tRPC 实现 API 的类型安全调用。此外，框架集成了 Prisma ORM 用于数据库操作，Tailwind CSS 用于样式管理，以及 Next.js 作为 React 框架提供服务端渲染和静态生成能力。截至 2026 年 7 月，该项目在 GitHub 上拥有 13,357 个星标和 2,738 个复刻，周增星标 295，表明其在开发者社区中具有较高的活跃度和认可度。该框架适合构建现代、类型安全的 Web 应用，尤其适用于需要快速迭代和严格类型检查的项目。",
+  "tags": [
+    "TypeScript",
+    "全栈框架",
+    "T3 Stack",
+    "类型安全",
+    "Next.js",
+    "Prisma",
+    "tRPC",
+    "Web 开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:12+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "pingdotgg",
+    "stars": 13357,
+    "forks": 2738,
+    "daily_stars": null,
+    "weekly_stars": 295,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

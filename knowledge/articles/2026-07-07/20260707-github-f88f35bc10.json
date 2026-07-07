@@ -1,0 +1,31 @@
+{
+  "id": "20260707-github-f88f35bc10",
+  "title": "getsops/sops",
+  "source": "github_trending",
+  "source_url": "https://github.com/getsops/sops",
+  "summary": "Simple and flexible tool for managing secrets",
+  "content": "SOPS 是一个由 getsops 团队开发的密钥管理工具，使用 Go 语言编写。它提供了一种简单且灵活的方式来管理敏感信息（如密码、API 密钥等），支持多种加密后端（如 AWS KMS、GCP KMS、Azure Key Vault 和 PGP），并能够与 YAML、JSON、ENV 和二进制文件格式集成。该工具在 GitHub 上拥有 22310 颗星和 1052 个分支，近期每日新增星标约 9 颗，属于 Go 语言领域的 GitHub 热点项目。",
+  "tags": [
+    "密钥管理",
+    "加密",
+    "Go",
+    "GitHub 热点",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:08+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "getsops",
+    "stars": 22310,
+    "forks": 1052,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

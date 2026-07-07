@@ -1,0 +1,34 @@
+{
+  "id": "20260707-github-594f16c835",
+  "title": "netbirdio/netbird",
+  "source": "github_trending",
+  "source_url": "https://github.com/netbirdio/netbird",
+  "summary": "NetBird 是一个基于 WireGuard 的零信任网络访问平台，支持通过 SSO、MFA 和细粒度访问控制将设备安全连接成覆盖网络。",
+  "content": "NetBird 是一个开源项目，旨在简化安全网络连接的搭建。它利用 WireGuard 协议创建加密的覆盖网络，并集成了单点登录（SSO）、多因素认证（MFA）和细粒度访问控制，确保只有授权用户和设备能够访问特定资源。该项目在 GitHub 上拥有 26852 颗星和 1471 个分支，近期周增星数达 322，显示出较高的社区关注度。主要使用 Go 语言开发，适合需要零信任网络架构的团队或企业。",
+  "tags": [
+    "WireGuard",
+    "零信任网络",
+    "SSO",
+    "MFA",
+    "访问控制",
+    "Go",
+    "覆盖网络",
+    "网络安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:17+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "netbirdio",
+    "stars": 26852,
+    "forks": 1471,
+    "daily_stars": null,
+    "weekly_stars": 322,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

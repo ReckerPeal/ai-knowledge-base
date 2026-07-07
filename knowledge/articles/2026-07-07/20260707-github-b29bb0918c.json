@@ -1,0 +1,32 @@
+{
+  "id": "20260707-github-b29bb0918c",
+  "title": "Mebus/cupp",
+  "source": "github_trending",
+  "source_url": "https://github.com/Mebus/cupp",
+  "summary": "CUPP（Common User Passwords Profiler）是一个用于生成个性化密码字典的Python工具，通过用户公开信息（如姓名、生日、宠物名等）智能组合常见密码模式，常用于渗透测试中的密码安全评估。",
+  "content": "CUPP（Common User Passwords Profiler）是一款开源的Python工具，旨在通过分析用户公开信息（如姓名、出生日期、配偶姓名、宠物名、爱好等）生成高度个性化的密码字典。其核心功能包括：交互式信息收集（引导用户输入目标个人信息）、智能密码组合（基于常见密码模式如年份、特殊符号、数字替换等）、多语言支持（适配不同语言习惯的密码生成）、以及字典导出（支持txt格式）。该工具在渗透测试、安全审计和密码强度评估中广泛应用，尤其适用于社会工程学攻击模拟。项目在GitHub上获得6332颗星和2099个fork，属于Python安全工具领域的热门项目。",
+  "tags": [
+    "密码安全",
+    "渗透测试",
+    "密码字典生成",
+    "社会工程学",
+    "Python工具",
+    "安全审计"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:10+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Mebus",
+    "stars": 6332,
+    "forks": 2099,
+    "daily_stars": null,
+    "weekly_stars": 338,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

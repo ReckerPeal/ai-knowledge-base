@@ -1,0 +1,33 @@
+{
+  "id": "20260707-github-2d99536c7b",
+  "title": "microsoft/windows-rs",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/windows-rs",
+  "summary": "Rust for Windows 是一个由微软维护的开源项目，旨在为 Rust 语言提供对 Windows API 的完整绑定，使开发者能够使用 Rust 安全、高效地调用 Windows 系统功能。",
+  "content": "该项目是微软官方推出的 Rust 语言绑定库，允许 Rust 开发者直接访问 Windows API（包括 Win32、COM 和 WinRT）。它通过自动生成绑定代码，覆盖了数千个 Windows API，并支持异步操作和现代 Rust 特性。项目在 GitHub 上拥有超过 12,500 颗星，每日新增约 16 颗星，表明其活跃度和社区关注度较高。该库简化了跨平台开发中 Windows 特定功能的调用，是 Rust 生态系统与 Windows 平台深度融合的关键组件。",
+  "tags": [
+    "Rust",
+    "Windows API",
+    "微软",
+    "系统编程",
+    "跨平台",
+    "开源",
+    "绑定库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:05+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 12517,
+    "forks": 637,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

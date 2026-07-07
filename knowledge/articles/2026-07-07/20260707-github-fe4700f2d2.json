@@ -1,0 +1,32 @@
+{
+  "id": "20260707-github-fe4700f2d2",
+  "title": "Robbyant/lingbot-map",
+  "source": "github_trending",
+  "source_url": "https://github.com/Robbyant/lingbot-map",
+  "summary": "Robbyant/lingbot-map 是一个前馈式3D基础模型，用于从流数据中重建场景。",
+  "content": "该仓库提供了一个基于前馈神经网络的3D基础模型，能够高效地从连续流数据（如视频流或传感器流）中实时重建三维场景。项目采用Python实现，在GitHub上获得了超过1万颗星，周增长1525星，显示出社区的高度关注。其核心创新在于无需显式存储所有帧，而是通过流式处理逐步构建场景，适用于机器人、自动驾驶和增强现实等需要实时3D理解的领域。",
+  "tags": [
+    "3D重建",
+    "流数据处理",
+    "基础模型",
+    "前馈神经网络",
+    "实时场景理解",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:10+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Robbyant",
+    "stars": 10138,
+    "forks": 1012,
+    "daily_stars": null,
+    "weekly_stars": 1525,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

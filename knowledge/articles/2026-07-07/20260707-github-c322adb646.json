@@ -1,0 +1,32 @@
+{
+  "id": "20260707-github-c322adb646",
+  "title": "HigherOrderCO/Bend",
+  "source": "github_trending",
+  "source_url": "https://github.com/HigherOrderCO/Bend",
+  "summary": "Bend 是一种大规模并行、高级编程语言，旨在简化并行计算，使开发者无需手动管理线程或 GPU 细节即可编写高性能并行代码。",
+  "content": "Bend 由 HigherOrderCO 开发，基于 Rust 实现，在 GitHub 上获得了 19618 颗星和 485 个 fork，日增星 28 颗。其核心创新在于将高级语言抽象与自动并行化结合，利用底层硬件（如多核 CPU 和 GPU）实现高效计算。语言设计强调易用性，支持函数式编程风格，并通过编译优化自动分配并行任务。Bend 的目标是降低并行编程的门槛，适用于科学计算、数据处理和 AI 模型训练等场景。该项目属于 GitHub 热点中的 Rust 类别，展示了 Rust 生态在系统编程和并行计算领域的扩展。",
+  "tags": [
+    "并行编程",
+    "高级语言",
+    "Rust",
+    "GPU计算",
+    "函数式编程",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-07T20:23:05+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "HigherOrderCO",
+    "stars": 19618,
+    "forks": 485,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
