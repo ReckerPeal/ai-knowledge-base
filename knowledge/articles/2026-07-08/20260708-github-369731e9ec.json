@@ -1,0 +1,33 @@
+{
+  "id": "20260708-github-369731e9ec",
+  "title": "aquasecurity/trivy",
+  "source": "github_trending",
+  "source_url": "https://github.com/aquasecurity/trivy",
+  "summary": "Trivy 是一款全面的开源安全扫描工具，用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、错误配置、密钥和 SBOM。",
+  "content": "Trivy 由 aquasecurity 开发，是一款用 Go 语言编写的安全扫描器，支持多种目标类型，包括容器镜像、文件系统、Git 仓库和云服务。它能够快速发现已知漏洞（CVE）、错误配置（如 IaC 扫描）、敏感信息（密钥）以及生成软件物料清单（SBOM）。Trivy 在 GitHub 上拥有超过 36,000 颗星，每日新增约 19 颗星，社区活跃度高。其设计注重易用性和集成性，可无缝嵌入 CI/CD 管道，适用于 DevSecOps 实践。",
+  "tags": [
+    "安全扫描",
+    "漏洞检测",
+    "容器安全",
+    "Kubernetes",
+    "SBOM",
+    "DevSecOps",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-08T19:43:38+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "aquasecurity",
+    "stars": 36795,
+    "forks": 519,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "20260708-github-40050255d2",
+  "title": "tonhowtf/omniget",
+  "source": "github_trending",
+  "source_url": "https://github.com/tonhowtf/omniget",
+  "summary": "Omniget 是一款开源桌面应用，专注于媒体下载、整理与学习。它基于 Tauri + Rust + Svelte 构建，原生跨平台，支持 PDF/EPUB 阅读器（含专注模式、时间戳笔记和间隔重复功能），通过 yt-dlp 集成 1800+ 网站的媒体下载，并拥有可扩展的插件系统。",
+  "content": "Omniget 是一款开源桌面应用，旨在帮助用户高效下载、整理和学习媒体内容。其技术栈采用 Tauri + Rust + Svelte，实现原生跨平台体验。核心功能包括：\n- **媒体下载**：集成 yt-dlp，支持从 1800+ 网站下载视频/音频。\n- **学习工具**：内置 PDF/EPUB 阅读器，提供专注模式、时间戳笔记和间隔重复（Spaced Repetition）功能，适合主动学习。\n- **可扩展性**：提供插件系统，允许用户自定义功能。\n该项目在 GitHub 上热度较高，拥有 6509 星和 550 分支，近期日增星 155，周增星 411，属于 Rust 生态中的热门工具。",
+  "tags": [
+    "开源",
+    "桌面应用",
+    "媒体下载",
+    "学习工具",
+    "Rust",
+    "Tauri",
+    "Svelte",
+    "yt-dlp",
+    "PDF阅读器",
+    "EPUB阅读器",
+    "间隔重复",
+    "插件系统",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-08T19:43:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tonhowtf",
+    "stars": 6509,
+    "forks": 550,
+    "daily_stars": 155,
+    "weekly_stars": 411,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

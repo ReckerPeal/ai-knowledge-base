@@ -1,0 +1,32 @@
+{
+  "id": "20260708-github-7d3341b669",
+  "title": "jdx/mise",
+  "source": "github_trending",
+  "source_url": "https://github.com/jdx/mise",
+  "summary": "mise 是一个集开发工具管理、环境变量配置与任务运行于一体的多功能 CLI 工具，基于 Rust 实现高性能。",
+  "content": "mise 由 jdx 开发，在 GitHub 上获得超过 3 万星标，日增约 40 星。它整合了 dev tools（如版本管理器）、env vars（环境变量管理）和 task runner（任务运行器）三大功能，旨在替代 asdf、direnv 和 Make 等单一工具。项目采用 Rust 语言，注重性能与跨平台兼容性。",
+  "tags": [
+    "开发工具",
+    "环境变量",
+    "任务运行器",
+    "Rust",
+    "CLI",
+    "版本管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-08T19:43:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "jdx",
+    "stars": 30534,
+    "forks": 1262,
+    "daily_stars": 40,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

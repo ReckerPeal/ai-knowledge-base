@@ -1,0 +1,33 @@
+{
+  "id": "20260708-github-461b1a1b63",
+  "title": "togatoga/karukan",
+  "source": "github_trending",
+  "source_url": "https://github.com/togatoga/karukan",
+  "summary": "karukan 是一个基于 Rust 的日语输入法系统，支持 Linux 和 macOS，采用神经网络实现假名到汉字的转换引擎。",
+  "content": "该项目由 togatoga 开发，在 GitHub 上获得 672 颗星和 42 个分支，近期周增星 155 颗。其核心创新在于使用神经网络模型进行日语的假名-汉字转换，旨在提供高效、准确的输入体验。作为一款跨平台输入法，它特别针对 Linux 和 macOS 用户设计，弥补了这些平台上高质量日语输入法的不足。项目采用 Rust 语言编写，保证了性能和安全性。",
+  "tags": [
+    "日语输入法",
+    "神经网络",
+    "假名-汉字转换",
+    "Rust",
+    "跨平台",
+    "Linux",
+    "macOS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-08T19:43:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "togatoga",
+    "stars": 672,
+    "forks": 42,
+    "daily_stars": null,
+    "weekly_stars": 155,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
