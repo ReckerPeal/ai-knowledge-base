@@ -1,0 +1,39 @@
+{
+  "id": "20260709-github-b2dcc5381c",
+  "title": "bluenviron/mediamtx",
+  "source": "github_trending",
+  "source_url": "https://github.com/bluenviron/mediamtx",
+  "summary": "bluenviron/mediamtx 是一个即用型实时媒体服务器和代理，支持多种协议（如 QUIC、SRT、WebRTC、RTSP、RTMP、LL-HLS、MPEG-TS、RTP），能够读取、发布、代理、录制和回放实时音视频流。",
+  "content": "该项目是一个高性能的实时媒体服务器，旨在简化多协议流媒体传输。它支持广泛的网络协议，包括现代协议如 QUIC 和 SRT，以及传统协议如 RTSP 和 RTMP。用户可以通过它轻松搭建直播或点播服务，实现流媒体的接收、转发、录制和回放功能。项目采用 Go 语言开发，具有跨平台、低延迟和高并发特性，适用于视频监控、直播平台、远程教育等场景。",
+  "tags": [
+    "媒体服务器",
+    "实时流媒体",
+    "Go",
+    "WebRTC",
+    "RTSP",
+    "RTMP",
+    "QUIC",
+    "SRT",
+    "LL-HLS",
+    "MPEG-TS",
+    "RTP",
+    "视频录制",
+    "流代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-09T20:51:39+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "bluenviron",
+    "stars": 19420,
+    "forks": 2289,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

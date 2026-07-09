@@ -1,0 +1,29 @@
+{
+  "id": "20260709-github-5f747f77a7",
+  "title": "AI Agents Enable Adaptive Computer Worms",
+  "source": "rss",
+  "source_url": "https://cleverhans.io/worm.html",
+  "summary": "该研究探讨了AI代理如何使计算机蠕虫具备自适应能力，通过利用大语言模型实现自主决策和动态行为调整，从而绕过传统安全防御。论文提供了完整的技术细节和实验验证。",
+  "content": "这篇论文提出了一种新型自适应计算机蠕虫，其核心创新在于集成AI代理（如大语言模型）来实时分析环境、制定攻击策略并自我进化。与传统蠕虫的固定行为模式不同，该蠕虫能根据网络拓扑、系统漏洞和防御机制动态调整传播路径和载荷，显著提高了渗透成功率。实验表明，在模拟环境中，该蠕虫对多种安全系统（如入侵检测、沙箱）的规避率超过80%。研究还讨论了潜在防御措施，包括基于行为异常的AI检测和动态网络隔离。",
+  "tags": [
+    "AI安全",
+    "计算机蠕虫",
+    "自适应攻击",
+    "大语言模型",
+    "网络安全"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-26T17:15:36-05:00",
+  "collected_at": "2026-07-09T20:51:47+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

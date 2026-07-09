@@ -1,0 +1,31 @@
+{
+  "id": "20260709-github-b29a213957",
+  "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/skypilot-hf-storage",
+  "summary": "本文介绍了如何结合 SkyPilot 和 Hugging Face 存储，实现跨任意云运行 AI 工作负载，同时数据零出口费用地存储在 Hugging Face 上。",
+  "content": "该博客文章详细阐述了 SkyPilot 与 Hugging Face 存储的集成方案。SkyPilot 是一个多云 AI 工作负载管理工具，允许用户在 AWS、GCP、Azure 等云上灵活部署和运行任务。通过将 Hugging Face 作为存储后端，用户可以直接从 Hugging Face 仓库读取和写入数据，而无需支付云厂商的数据出口费用。文章可能包括架构设计、配置步骤、性能优势以及实际用例，旨在帮助开发者降低多云环境下的存储成本并简化数据管理。",
+  "tags": [
+    "SkyPilot",
+    "Hugging Face",
+    "多云",
+    "AI 工作负载",
+    "零出口费用",
+    "存储",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "collected_at": "2026-07-09T20:51:47+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

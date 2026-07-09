@@ -1,0 +1,39 @@
+{
+  "id": "20260709-github-a6247bd6e2",
+  "title": "ory/kratos",
+  "source": "github_trending",
+  "source_url": "https://github.com/ory/kratos",
+  "summary": "ory/kratos 是一个用 Go 编写的无头云原生身份验证和身份管理平台，支持超过十亿用户规模。它提供密码密钥、社交登录、OIDC、魔法链接、多因素认证、SMS、SAML、TOTP 等多种认证方式，旨在替代自建方案、Auth0、Okta、Firebase 等，提供更好的用户体验和开发者体验。该项目可在任何环境运行，最佳运行在 Ory Network 上。",
+  "content": "ory/kratos 是一个开源的、无头（headless）的身份验证和身份管理系统，采用 Go 语言开发，专为云原生环境设计。其核心优势在于高可扩展性，能够支持超过十亿用户。功能上，它集成了多种现代认证机制，包括 Passkeys（密码密钥）、Social Sign In（社交登录）、OIDC（OpenID Connect）、Magic Link（魔法链接）、Multi-Factor Auth（多因素认证）、SMS（短信验证）、SAML（安全断言标记语言）和 TOTP（基于时间的一次性密码）。该项目旨在替代传统的自建身份验证系统以及商业服务如 Auth0、Okta 和 Firebase，通过提供更优的用户体验（UX）和开发者体验（DX）来简化身份管理。它可以在任何基础设施上运行，但最佳实践是部署在 Ory Network 上。截至收集时间，该项目在 GitHub 上拥有 13750 颗星和 1169 个分支，每日新增约 2 颗星，属于 GitHub 热点 Go 类别。",
+  "tags": [
+    "身份验证",
+    "身份管理",
+    "Go",
+    "云原生",
+    "无头",
+    "Ory",
+    "多因素认证",
+    "社交登录",
+    "OIDC",
+    "SAML",
+    "TOTP",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-09T20:51:39+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "ory",
+    "stars": 13750,
+    "forks": 1169,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

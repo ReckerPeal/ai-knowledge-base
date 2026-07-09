@@ -1,0 +1,31 @@
+{
+  "id": "20260709-github-d1c7fe87ce",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "summary": "本文介绍了如何利用本地模型免费对 OpenClaw 仓库进行优先级分类（triage），展示了在无需外部 API 成本的情况下，通过本地部署的 AI 模型自动化处理 GitHub 仓库的 issue 和 PR 分类工作。",
+  "content": "文章来自 Hugging Face 博客，作者分享了使用本地模型对 OpenClaw 仓库进行自动分类（triage）的实践经验。核心思路是：通过本地运行的开源模型（如 Llama、Mistral 等），结合 Hugging Face 的 Transformers 库，构建一个轻量级的分类管道。该管道能够自动分析新提交的 issue 或 PR，判断其类型（如 bug、feature request、documentation 等），并分配标签或优先级。作者强调，这种方法完全免费（无需调用 GPT-4 等付费 API），且数据隐私性更好。文章还提供了具体的代码示例和配置步骤，包括如何加载模型、定义分类 prompt、以及集成到 GitHub Actions 中实现自动化。实验结果显示，本地模型在 triage 任务上达到了与小型 API 模型相当的准确率，但成本为零。",
+  "tags": [
+    "本地模型",
+    "GitHub 仓库管理",
+    "自动分类",
+    "开源AI",
+    "Hugging Face",
+    "PR triage",
+    "免费方案"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "collected_at": "2026-07-09T20:51:47+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
