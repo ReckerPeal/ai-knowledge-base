@@ -1,0 +1,36 @@
+{
+  "id": "20260710-github-ac9cdd34aa",
+  "title": "qualcomm/GenieX",
+  "source": "github_trending",
+  "source_url": "https://github.com/qualcomm/GenieX",
+  "summary": "Qualcomm 推出的 GenieX 项目，旨在通过少量代码在 Qualcomm 设备上本地运行前沿 LLM 和 VLM，支持 NPU、GPU 和 CPU 多硬件加速。",
+  "content": "GenieX 是一个由 Qualcomm 开发的开源工具，允许开发者使用 Rust 语言在 Qualcomm 设备上高效部署大型语言模型（LLM）和视觉语言模型（VLM）。该项目通过统一接口调用 NPU、GPU 和 CPU 资源，实现本地推理，降低延迟并保护数据隐私。当前在 GitHub 上获得 8181 星和 1019 叉，周增 59 星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "Qualcomm",
+    "LLM",
+    "VLM",
+    "本地推理",
+    "Rust",
+    "NPU",
+    "GPU",
+    "CPU",
+    "边缘计算",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:40+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "qualcomm",
+    "stars": 8181,
+    "forks": 1019,
+    "daily_stars": null,
+    "weekly_stars": 59,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

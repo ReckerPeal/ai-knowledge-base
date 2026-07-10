@@ -1,0 +1,33 @@
+{
+  "id": "20260710-github-bc4f619e9a",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "summary": "Stable Diffusion web UI 是一个基于 Gradio 库的浏览器界面，用于运行 Stable Diffusion 图像生成模型，支持文本到图像、图像到图像、图像修复等多种功能，并提供丰富的扩展和自定义选项。",
+  "content": "该仓库由 AUTOMATIC1111 开发，是目前最流行的 Stable Diffusion 图形化操作界面之一。它允许用户通过 Web 浏览器轻松使用 Stable Diffusion 模型生成图像，无需编写代码。项目支持多种采样方法、提示词编辑、批量处理、图像放大、修复与修补、以及通过扩展插件集成 ControlNet、LoRA 等高级功能。界面友好，社区活跃，拥有超过 16 万星标和 3 万分支，是 AI 图像生成领域的重要工具。",
+  "tags": [
+    "Stable Diffusion",
+    "图像生成",
+    "Web UI",
+    "深度学习",
+    "Python",
+    "AI 绘画",
+    "Gradio"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:27+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "AUTOMATIC1111",
+    "stars": 164160,
+    "forks": 30530,
+    "daily_stars": 117,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

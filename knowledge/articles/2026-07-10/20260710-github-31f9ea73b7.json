@@ -1,0 +1,32 @@
+{
+  "id": "20260710-github-31f9ea73b7",
+  "title": "n0-computer/iroh",
+  "source": "github_trending",
+  "source_url": "https://github.com/n0-computer/iroh",
+  "summary": "n0-computer/iroh 是一个 Rust 库，旨在为应用添加 QUIC 协议和 NAT 穿透功能，通过“拨号键”替代 IP 地址实现更可靠的连接。",
+  "content": "该仓库由 n0-computer 开发，是一个专注于网络通信的 Rust 库。其核心理念是解决传统 IP 地址在动态网络环境中的脆弱性问题，通过引入 QUIC 协议（基于 UDP 的多路复用传输协议）和 NAT 穿透技术，使应用能够更稳定地建立点对点连接。项目在 GitHub 上获得 11398 颗星和 668 个 fork，近期日增星数达 39，显示出较高的社区关注度。它适合用于构建需要低延迟、高可靠性和穿越防火墙的分布式应用，如 P2P 文件共享、实时通信等场景。",
+  "tags": [
+    "Rust",
+    "QUIC",
+    "NAT 穿透",
+    "网络库",
+    "P2P",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "n0-computer",
+    "stars": 11398,
+    "forks": 668,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

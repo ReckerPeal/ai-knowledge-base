@@ -1,0 +1,33 @@
+{
+  "id": "20260710-github-9804cecf7e",
+  "title": "Chocobozzz/PeerTube",
+  "source": "github_trending",
+  "source_url": "https://github.com/Chocobozzz/PeerTube",
+  "summary": "PeerTube 是一个基于 ActivityPub 协议的去中心化视频流平台，利用 P2P 技术直接在浏览器中实现视频分发。",
+  "content": "PeerTube 由 Chocobozzz 开发，采用 TypeScript 编写，旨在提供一种替代传统中心化视频平台（如 YouTube）的联邦化解决方案。它通过 ActivityPub 协议实现不同实例间的互联互通，同时利用 P2P 技术（如 WebTorrent）在用户浏览器之间直接分享视频内容，从而降低服务器带宽压力。该项目在 GitHub 上拥有超过 1.5 万星标，社区活跃，支持自托管和实例联邦，适合注重隐私和去中心化的用户或组织。",
+  "tags": [
+    "去中心化",
+    "视频流",
+    "P2P",
+    "ActivityPub",
+    "联邦化",
+    "TypeScript",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:38+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Chocobozzz",
+    "stars": 15218,
+    "forks": 1913,
+    "daily_stars": null,
+    "weekly_stars": 308,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

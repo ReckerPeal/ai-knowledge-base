@@ -1,0 +1,32 @@
+{
+  "id": "20260710-github-e2b0829dc4",
+  "title": "pmndrs/zustand",
+  "source": "github_trending",
+  "source_url": "https://github.com/pmndrs/zustand",
+  "summary": "Zustand 是一个轻量级、无模板的 React 状态管理库，以简单、可扩展和高效著称。",
+  "content": "Zustand 由 pmndrs 团队开发，是 React 生态中流行的状态管理解决方案。它提供极简 API，无需 Provider 包裹组件，支持异步操作、中间件（如持久化、immer）和 TypeScript 类型推断。核心设计基于不可变更新和订阅模式，性能优于 Redux。当前仓库拥有 58,542 颗星和 2,243 个分支，日增星 101 颗，表明社区活跃度高。适用于中小型到大型 React 应用，尤其适合需要快速开发且避免样板代码的场景。",
+  "tags": [
+    "React",
+    "状态管理",
+    "TypeScript",
+    "轻量级",
+    "Zustand",
+    "前端开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:29+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "pmndrs",
+    "stars": 58542,
+    "forks": 2243,
+    "daily_stars": 101,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

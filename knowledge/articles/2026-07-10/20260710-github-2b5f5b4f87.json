@@ -1,0 +1,34 @@
+{
+  "id": "20260710-github-2b5f5b4f87",
+  "title": "grafana/grafana",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/grafana",
+  "summary": "Grafana 是一个开源、可组合的可观测性与数据可视化平台，支持从 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多种数据源可视化指标、日志和链路追踪。",
+  "content": "Grafana 是业界领先的开源可观测性平台，提供统一的可视化仪表盘，用于监控和分析基础设施、应用性能及业务指标。它支持丰富的插件生态系统，可连接超过 30 种数据源，包括时序数据库（如 Prometheus、InfluxDB）、日志系统（如 Loki、Elasticsearch）和关系型数据库（如 Postgres）。用户通过灵活的查询编辑器、告警规则和面板模板，能够快速构建实时监控视图。该项目由 Grafana Labs 维护，拥有庞大的社区和商业支持版本。",
+  "tags": [
+    "可观测性",
+    "数据可视化",
+    "监控",
+    "仪表盘",
+    "开源",
+    "Prometheus",
+    "Loki",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:29+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 75479,
+    "forks": 14340,
+    "daily_stars": 113,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

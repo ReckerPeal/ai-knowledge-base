@@ -1,0 +1,32 @@
+{
+  "id": "20260710-github-9fa058d5e0",
+  "title": "syncable-dev/memtrace-public",
+  "source": "github_trending",
+  "source_url": "https://github.com/syncable-dev/memtrace-public",
+  "summary": "syncable-dev/memtrace-public 是一个为 AI 编码代理提供结构化内存的 Python 项目。它采用双时态图结构，原生支持 MCP 协议，且无需调用 LLM，可集成于 Cursor、Claude Code、Codex、Hermes、VS Code 和 Windsurf 等工具。",
+  "content": "该项目旨在为 AI 编码代理提供结构化的内存管理能力。其核心特性包括：\n- **双时态图（Bi-temporal graph）**：支持时间维度的数据追踪，记录有效时间和事务时间，便于回溯和版本管理。\n- **MCP 原生支持**：基于 MCP（Model Context Protocol）协议设计，可无缝集成到多种 AI 编码工具中。\n- **零 LLM 调用**：不依赖大语言模型进行内存操作，降低了成本和延迟。\n- **工具集成**：已适配 Cursor、Claude Code、Codex、Hermes、VS Code 和 Windsurf 等主流 AI 编码环境。\n\n该仓库在 GitHub 上获得 404 颗星和 33 个 fork，日增星 25 颗，属于 Python 类别下的热门项目。",
+  "tags": [
+    "AI 编码代理",
+    "结构化内存",
+    "双时态图",
+    "MCP 协议",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-10T20:21:27+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "syncable-dev",
+    "stars": 404,
+    "forks": 33,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
