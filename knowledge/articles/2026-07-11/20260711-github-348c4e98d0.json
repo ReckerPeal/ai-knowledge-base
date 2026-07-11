@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-348c4e98d0",
+  "title": "entireio/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/entireio/cli",
+  "summary": "Entire CLI 是一个集成到 Git 工作流中的工具，能够捕获 AI 代理会话，并将其与提交记录一起索引，形成可搜索的代码编写历史记录。",
+  "content": "Entire CLI 通过钩子接入 Git 工作流，自动记录 AI 代理在开发过程中的会话。这些会话与每次提交关联并建立索引，从而在仓库中创建一个可搜索的代码编写过程记录，帮助开发者追溯和理解代码的生成方式。",
+  "tags": [
+    "Git",
+    "AI",
+    "CLI",
+    "开发工具",
+    "代码追踪"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:57+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "entireio",
+    "stars": 4736,
+    "forks": 365,
+    "daily_stars": 32,
+    "weekly_stars": 142,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

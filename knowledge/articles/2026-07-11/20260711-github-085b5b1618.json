@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-085b5b1618",
+  "title": "spf13/viper",
+  "source": "github_trending",
+  "source_url": "https://github.com/spf13/viper",
+  "summary": "Viper 是一个功能强大的 Go 语言配置管理库，支持多种配置格式（如 JSON、YAML、TOML 等），并提供环境变量、命令行参数、远程配置中心等多种配置源。",
+  "content": "Viper 是 Go 社区广泛使用的配置管理解决方案，由 spf13 开发。它支持从文件、环境变量、命令行标志、远程配置系统（如 etcd、Consul）以及默认值中读取配置。Viper 遵循十二要素应用原则，能够处理嵌套配置、实时监听配置变化，并支持配置的合并与覆盖。该项目在 GitHub 上拥有超过 3 万颗星，是 Go 生态中配置管理的首选库之一。",
+  "tags": [
+    "Go",
+    "配置管理",
+    "Viper",
+    "spf13",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:57+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "spf13",
+    "stars": 30453,
+    "forks": 2255,
+    "daily_stars": 76,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

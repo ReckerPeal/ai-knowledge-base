@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-ec2f998888",
+  "title": "nrwl/nx",
+  "source": "github_trending",
+  "source_url": "https://github.com/nrwl/nx",
+  "summary": "Nx 是一个强大的单体仓库平台，旨在提升开发者和 AI 代理的效率。它优化构建流程、扩展 CI 能力，并自动修复失败的 PR，帮助团队将交付时间缩短一半。",
+  "content": "Nx 是一个开源的单体仓库（Monorepo）管理平台，由 nrwl 团队开发，使用 TypeScript 编写。它专注于提升开发者和 AI 代理的生产力，通过智能构建缓存、任务编排和分布式 CI 支持，显著加速开发周期。Nx 的核心功能包括：自动检测和修复失败的 PR、优化构建性能、以及无缝集成主流框架（如 Angular、React、Next.js 等）。该项目在 GitHub 上拥有 29,155 颗星和 2,925 个 fork，近期日增星数达 79，显示出社区的高度关注。Nx 适用于需要管理多个项目或微服务的大型团队，尤其适合追求高效 CI/CD 和代码质量的组织。",
+  "tags": [
+    "Monorepo",
+    "构建工具",
+    "CI/CD",
+    "TypeScript",
+    "开发者工具",
+    "AI 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:53+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "nrwl",
+    "stars": 29155,
+    "forks": 2925,
+    "daily_stars": 79,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-cb0230bf14",
+  "title": "jesseduffield/lazydocker",
+  "source": "github_trending",
+  "source_url": "https://github.com/jesseduffield/lazydocker",
+  "summary": "Lazydocker 是一个基于终端的 Docker 管理工具，旨在通过简洁的界面和快捷键操作，让 Docker 容器、镜像、卷和网络的管理变得更加高效和便捷。",
+  "content": "Lazydocker 是一个开源的终端用户界面（TUI）工具，专为简化 Docker 管理而设计。它提供了一个直观的界面，允许用户通过键盘快捷键快速执行常见的 Docker 操作，如启动、停止、重启容器，查看日志，管理镜像和卷等。该项目由 jesseduffield 开发，采用 Go 语言编写，具有跨平台兼容性。其核心理念是“更懒的方式”，通过减少命令行输入和记忆复杂命令的需求，提升开发者和运维人员的工作效率。Lazydocker 在 GitHub 上获得了超过 5 万颗星，社区活跃，定期更新，支持自定义配置和主题，适合日常 Docker 环境管理。",
+  "tags": [
+    "Docker",
+    "终端工具",
+    "Go",
+    "容器管理",
+    "开源",
+    "TUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:59:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "jesseduffield",
+    "stars": 51982,
+    "forks": 1649,
+    "daily_stars": null,
+    "weekly_stars": 416,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

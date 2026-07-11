@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-589bc97827",
+  "title": "LMCache/LMCache",
+  "source": "github_trending",
+  "source_url": "https://github.com/LMCache/LMCache",
+  "summary": "LMCache 是一个高性能 KV 缓存层，旨在显著加速大语言模型（LLM）的推理过程，号称提供最快的缓存层。",
+  "content": "LMCache 是一个专注于优化大语言模型推理性能的开源项目。它通过实现高效的键值（KV）缓存机制，减少重复计算，从而大幅提升 LLM 的响应速度。该项目在 GitHub 上获得了超过 10,000 颗星，日增星数超过 100，显示出社区的高度关注。主要使用 Python 开发，适合需要优化 LLM 部署性能的开发者。",
+  "tags": [
+    "LLM",
+    "KV Cache",
+    "推理加速",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:51+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "LMCache",
+    "stars": 10430,
+    "forks": 1535,
+    "daily_stars": 101,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

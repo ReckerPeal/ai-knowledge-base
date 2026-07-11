@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-9fa058d5e0",
+  "title": "syncable-dev/memtrace-public",
+  "source": "github_trending",
+  "source_url": "https://github.com/syncable-dev/memtrace-public",
+  "summary": "Memtrace 是一个为 AI 编码代理提供结构化记忆的开源项目，采用双时态图结构、MCP 原生支持，且无需调用 LLM。它兼容 Cursor、Claude Code、Codex、Hermes、VS Code、Windsurf 等主流编码工具。",
+  "content": "该项目旨在解决 AI 编码代理在长期任务中的记忆碎片化问题。通过双时态图（bi-temporal graph）记录代码变更的时间线，Memtrace 能够在不依赖 LLM 的情况下，为代理提供精确的上下文记忆。其 MCP（Model Context Protocol）原生设计使其易于集成到现有 AI 编码工作流中。项目使用 Python 实现，适合需要持久化、结构化记忆的 AI 辅助编程场景。",
+  "tags": [
+    "AI编码代理",
+    "结构化记忆",
+    "双时态图",
+    "MCP",
+    "Python",
+    "开源工具",
+    "代码上下文管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:51+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "syncable-dev",
+    "stars": 424,
+    "forks": 36,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

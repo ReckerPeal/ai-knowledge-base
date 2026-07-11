@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-d046e10f48",
+  "title": "TencentCloud/TencentDB-Agent-Memory",
+  "source": "github_trending",
+  "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "summary": "TencentDB Agent Memory 通过四层渐进式流水线为 AI 代理提供完全本地的长期记忆，无需任何外部 API 依赖。",
+  "content": "该项目是腾讯云开源的 TencentDB Agent Memory，旨在为 AI 代理提供长期记忆能力。其核心特点是通过一个四层渐进式流水线（4-tier progressive pipeline）实现完全本地的记忆管理，无需依赖任何外部 API。该仓库使用 TypeScript 编写，在 GitHub 上获得了 8400 颗星和 772 个 fork，近期热度较高（日增 123 星，周增 1750 星）。该工具适用于需要本地化、隐私保护且不依赖云服务的 AI 代理场景。",
+  "tags": [
+    "AI Agent",
+    "长期记忆",
+    "本地化",
+    "TypeScript",
+    "腾讯云",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:58:53+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "TencentCloud",
+    "stars": 8400,
+    "forks": 772,
+    "daily_stars": 123,
+    "weekly_stars": 1750,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

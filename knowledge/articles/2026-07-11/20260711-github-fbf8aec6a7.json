@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-fbf8aec6a7",
+  "title": "moby/moby",
+  "source": "github_trending",
+  "source_url": "https://github.com/moby/moby",
+  "summary": "Moby 项目是一个面向容器生态系统的协作项目，旨在帮助开发者组装基于容器的系统。",
+  "content": "Moby 项目（moby/moby）是一个开源的协作框架，专注于容器生态系统。它提供了一套工具和库，使开发者能够构建、组装和运行自定义的容器化系统。该项目由 Docker 公司发起，旨在促进容器技术的标准化和模块化。Moby 项目包含多个组件，如容器运行时、镜像构建工具和网络模块，支持多种操作系统和云平台。其 GitHub 仓库拥有超过 71,000 颗星和 19,000 个分支，表明其在开发者社区中的广泛认可。该项目使用 Go 语言开发，适合构建高性能、可扩展的容器基础设施。",
+  "tags": [
+    "容器",
+    "Go",
+    "Docker",
+    "生态系统",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-11T18:59:06+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "moby",
+    "stars": 71896,
+    "forks": 19122,
+    "daily_stars": null,
+    "weekly_stars": 141,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

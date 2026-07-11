@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-5a29fb0d0b",
+  "title": "Comparing Transformers and Hybrid Models at the Token Level",
+  "source": "rss",
+  "source_url": "https://arxiv.org/pdf/2606.20936",
+  "summary": "该论文在 token 级别上比较了 Transformer 和混合模型（如结合状态空间模型或卷积的架构）的性能，分析了它们在语言建模、推理效率和长序列处理等方面的差异。",
+  "content": "本文基于 arXiv 预印本（编号 2606.20936），系统对比了纯 Transformer 架构与混合模型（如 Mamba-Transformer、Hyena 等）在 token 级别的表现。实验覆盖了多个基准任务，包括语言建模困惑度、上下文学习能力、长距离依赖捕获效率以及推理速度。结果表明，混合模型在长序列任务中具有显著的速度和内存优势，但在某些复杂推理任务上仍略逊于纯 Transformer。论文还探讨了不同混合策略（如局部注意力+全局状态空间）的权衡，为未来高效语言模型的设计提供了指导。",
+  "tags": [
+    "Transformer",
+    "混合模型",
+    "token级别",
+    "语言建模",
+    "长序列",
+    "推理效率",
+    "状态空间模型",
+    "arXiv"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-27T10:16:10-05:00",
+  "collected_at": "2026-07-11T18:59:06+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
