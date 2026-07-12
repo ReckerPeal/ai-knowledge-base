@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-f1e7e19da0",
+  "title": "louislam/dockge",
+  "source": "github_trending",
+  "source_url": "https://github.com/louislam/dockge",
+  "summary": "Dockge 是一个美观、易用且响应式的自托管 Docker Compose YAML 栈管理器。",
+  "content": "Dockge 是一个基于 TypeScript 开发的自托管 Docker Compose 管理工具，专注于以栈（stack）为中心的管理方式。它提供了直观的 Web 界面，支持对 docker-compose.yaml 文件进行可视化编辑、启动、停止、重启等操作，并具备实时日志查看、环境变量管理、栈状态监控等功能。项目强调易用性和响应式设计，适合个人或小团队在自托管环境中管理 Docker 应用栈。",
+  "tags": [
+    "Docker",
+    "Docker Compose",
+    "自托管",
+    "容器管理",
+    "TypeScript",
+    "Web 界面"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:38+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "louislam",
+    "stars": 23760,
+    "forks": 781,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

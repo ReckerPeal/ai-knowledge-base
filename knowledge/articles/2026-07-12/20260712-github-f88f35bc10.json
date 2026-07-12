@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-f88f35bc10",
+  "title": "getsops/sops",
+  "source": "github_trending",
+  "source_url": "https://github.com/getsops/sops",
+  "summary": "getsops/sops 是一个简单且灵活的工具，用于管理机密信息（如密码、密钥等），支持加密和解密操作，适用于多种后端（如 AWS KMS、GCP KMS、Azure Key Vault 等）。",
+  "content": "sops（Secrets OPerationS）是一个开源的机密管理工具，由 Mozilla 开发并维护。它允许用户使用 YAML、JSON、ENV 等格式存储机密数据，并通过集成云服务商的密钥管理服务（KMS）或本地 PGP 密钥进行加密。sops 支持对文件中的特定字段进行加密，而非整个文件，从而保留文件结构。该工具在 CI/CD 流程中广泛用于安全地管理配置和凭证。仓库拥有 22431 颗星和 1054 个分支，近期日增星 77 颗，表明其活跃度和社区关注度较高。",
+  "tags": [
+    "机密管理",
+    "加密工具",
+    "Go",
+    "KMS",
+    "DevOps",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:43+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "getsops",
+    "stars": 22431,
+    "forks": 1054,
+    "daily_stars": 77,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

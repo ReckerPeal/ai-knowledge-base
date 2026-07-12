@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-7dfa0b320f",
+  "title": "zaigie/palworld-server-tool",
+  "source": "github_trending",
+  "source_url": "https://github.com/zaigie/palworld-server-tool",
+  "summary": "PalWorld 服务器管理工具，基于 .sav 存档解析和 REST & RCON 协议，提供可视化界面管理幻兽帕鲁专用服务器。",
+  "content": "该项目是一个用 Go 语言开发的 PalWorld（幻兽帕鲁）专用服务器管理工具。它通过解析 .sav 存档文件以及利用 REST 和 RCON 协议，为用户提供了一个优雅的可视化界面，用于管理游戏服务器。主要功能包括玩家管理、存档备份、服务器状态监控等。项目支持中文、英文和日文界面，目前在 GitHub 上获得了 1065 颗星和 119 个 fork，属于 Go 语言类别下的热门项目。",
+  "tags": [
+    "PalWorld",
+    "服务器管理",
+    "可视化界面",
+    "存档解析",
+    "RCON",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:43+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "zaigie",
+    "stars": 1065,
+    "forks": 119,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

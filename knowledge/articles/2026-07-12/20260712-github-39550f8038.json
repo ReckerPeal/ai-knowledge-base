@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-39550f8038",
+  "title": "screenpipe/screenpipe",
+  "source": "github_trending",
+  "source_url": "https://github.com/screenpipe/screenpipe",
+  "summary": "screenpipe 是一个基于 Rust 的 AI 工具，能够 24/7 本地、私密、安全地记录用户所见、所说、所听的一切，并支持与 OpenClaw、Hermes agent 及 100+ 应用集成。",
+  "content": "screenpipe 是 YC (S26) 孵化的开源项目，使用 Rust 语言开发，旨在构建一个全面记录用户数字生活的 AI 系统。它能够持续捕捉屏幕、麦克风和系统音频数据，所有处理均在本地完成，确保隐私和安全。用户可以通过 API 连接 OpenClaw、Hermes agent 等智能体，以及超过 100 个第三方应用，实现自动化工作流和个性化 AI 助手。该项目在 GitHub 上获得近 2 万星标，社区活跃，适合需要长期记忆和上下文感知的 AI 应用场景。",
+  "tags": [
+    "AI",
+    "Rust",
+    "屏幕记录",
+    "语音记录",
+    "本地隐私",
+    "自动化",
+    "YC"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "screenpipe",
+    "stars": 19773,
+    "forks": 1928,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

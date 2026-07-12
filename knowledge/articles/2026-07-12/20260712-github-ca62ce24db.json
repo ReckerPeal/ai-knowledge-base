@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-ca62ce24db",
+  "title": "Mininglamp-OSS/octo-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/Mininglamp-OSS/octo-server",
+  "summary": "OCTO 是一个面向人类与 AI 代理协作的开源工作平台，其 Go 后端 octo-server 提供 REST 与 WebSocket API、Lobster AI 代理编排以及 WuKongIM 实时消息控制平面。",
+  "content": "该仓库是 OCTO 平台的后端服务，使用 Go 语言开发。核心功能包括：1) 提供 REST 和 WebSocket 接口，支持前后端通信；2) 集成 Lobster AI 代理编排能力，实现智能任务调度；3) 基于 WuKongIM 构建实时消息控制平面，保障多代理协作的即时通信。项目由 Mininglamp-OSS 维护，近期获得 43 个日增星标，社区关注度较高。",
+  "tags": [
+    "Go",
+    "AI Agent",
+    "实时通信",
+    "WebSocket",
+    "REST API",
+    "工作平台",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:43+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Mininglamp-OSS",
+    "stars": 309,
+    "forks": 53,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

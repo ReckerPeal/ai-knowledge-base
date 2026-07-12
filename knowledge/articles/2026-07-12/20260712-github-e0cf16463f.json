@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-e0cf16463f",
+  "title": "xjasonlyu/tun2socks",
+  "source": "github_trending",
+  "source_url": "https://github.com/xjasonlyu/tun2socks",
+  "summary": "tun2socks 是一个基于 gVisor TCP/IP 协议栈的高性能网络代理工具，用于将 SOCKS5 代理流量转换为 TUN 设备流量。",
+  "content": "tun2socks 是一个由 xjasonlyu 开发的开源项目，使用 Go 语言编写，核心功能是通过 gVisor 用户态 TCP/IP 协议栈实现 SOCKS5 代理与 TUN 虚拟网络设备之间的流量转换。该项目在 GitHub 上获得了 5378 颗星和 633 个 fork，近期日增星数达 21，显示出较高的社区关注度。其优势在于利用 gVisor 协议栈提供高性能和低资源消耗，适用于需要透明代理或 VPN 功能的场景。",
+  "tags": [
+    "tun2socks",
+    "gVisor",
+    "SOCKS5",
+    "TUN",
+    "Go",
+    "网络代理",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:43+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "xjasonlyu",
+    "stars": 5378,
+    "forks": 633,
+    "daily_stars": 21,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-6d0978465c",
+  "title": "oven-sh/bun",
+  "source": "github_trending",
+  "source_url": "https://github.com/oven-sh/bun",
+  "summary": "Bun 是一个极快的 JavaScript 运行时、打包器、测试运行器和包管理器，集多功能于一体。",
+  "content": "Bun 由 oven-sh 开发，基于 Rust 语言构建，旨在提供比 Node.js 和 Deno 更快的 JavaScript 执行环境。它内置了打包器、测试运行器和包管理器，支持 TypeScript 和 JSX 开箱即用，兼容 Node.js 的 npm 包生态系统。该项目在 GitHub 上拥有超过 94,000 颗星，近期每日新增星数约 658 颗，显示出极高的社区关注度。Bun 的亮点包括启动速度快、依赖安装效率高，以及统一的工具链减少开发者配置成本。",
+  "tags": [
+    "JavaScript",
+    "Rust",
+    "运行时",
+    "打包器",
+    "包管理器",
+    "测试工具",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-12T19:06:41+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "oven-sh",
+    "stars": 94618,
+    "forks": 4965,
+    "daily_stars": 658,
+    "weekly_stars": 1077,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
