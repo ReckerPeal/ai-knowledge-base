@@ -1,0 +1,33 @@
+{
+  "id": "20260713-github-0d76009000",
+  "title": "mifi/lossless-cut",
+  "source": "github_trending",
+  "source_url": "https://github.com/mifi/lossless-cut",
+  "summary": "Lossless Cut 是一款基于 TypeScript 开发的跨平台无损视频/音频编辑工具，被誉为“瑞士军刀”，支持快速剪切、合并、转码等操作，无需重新编码即可高效处理多媒体文件。",
+  "content": "Lossless Cut 是一个开源的无损视频/音频编辑工具，由开发者 mifi 创建并维护。它利用 FFmpeg 等底层库实现无损切割、合并、旋转、调整速度、提取音频等功能，支持多种常见格式（如 MP4、MKV、MOV、MP3 等）。该工具采用图形用户界面（GUI），操作直观，适合普通用户和专业人士快速处理媒体文件。其核心优势在于“无损”特性——编辑过程不重新编码，从而保留原始画质和音质，同时大幅节省处理时间。项目在 GitHub 上拥有超过 42,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "视频编辑",
+    "音频编辑",
+    "无损处理",
+    "FFmpeg",
+    "跨平台",
+    "开源工具",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:41+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mifi",
+    "stars": 42045,
+    "forks": 2065,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

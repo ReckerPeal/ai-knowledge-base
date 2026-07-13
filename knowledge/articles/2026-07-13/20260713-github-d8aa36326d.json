@@ -1,0 +1,33 @@
+{
+  "id": "20260713-github-d8aa36326d",
+  "title": "hashicorp/terraform",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/terraform",
+  "summary": "Terraform 是一个基础设施即代码（IaC）工具，允许用户通过声明式配置文件安全、可预测地创建、更改和改进基础设施。它支持团队协作，将 API 编码为可共享、编辑、审查和版本控制的代码。",
+  "content": "Terraform 由 HashiCorp 开发，采用 Go 语言编写，是一个源代码可用的基础设施管理工具。其核心功能包括：1）声明式配置：通过 HCL（HashiCorp Configuration Language）定义基础设施状态；2）执行计划：生成变更预览，确保操作安全；3）资源图：管理依赖关系，支持并行创建；4）状态管理：跟踪实际资源状态，支持远程后端（如 Terraform Cloud）。该工具广泛应用于多云环境（AWS、Azure、GCP 等），支持模块化复用，并集成 CI/CD 管道。当前仓库拥有 49,454 颗星和 10,686 个分支，周增 645 星，表明社区活跃度高。",
+  "tags": [
+    "Terraform",
+    "基础设施即代码",
+    "HashiCorp",
+    "Go",
+    "多云管理",
+    "声明式配置",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:56+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 49454,
+    "forks": 10686,
+    "daily_stars": null,
+    "weekly_stars": 645,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

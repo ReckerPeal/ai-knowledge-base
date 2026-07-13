@@ -1,0 +1,31 @@
+{
+  "id": "20260713-github-0f8a20be02",
+  "title": "actions/checkout",
+  "source": "github_trending",
+  "source_url": "https://github.com/actions/checkout",
+  "summary": "actions/checkout 是一个用于检出仓库的 GitHub Action，支持 TypeScript 实现，在 GitHub 上拥有 8491 颗星和 2719 个复刻，周增星 186 颗，属于 GitHub 热点项目。",
+  "content": "actions/checkout 是 GitHub Actions 官方提供的一个核心操作，用于在 workflow 运行环境中检出仓库代码。它允许用户指定分支、标签或提交哈希，并支持深度克隆、稀疏检出等高级功能。该项目由 GitHub 官方维护，采用 TypeScript 编写，是 CI/CD 流水线中最常用的基础组件之一。其高星数和复刻数反映了其在开发者社区中的广泛采用和可靠性。",
+  "tags": [
+    "GitHub Actions",
+    "CI/CD",
+    "代码检出",
+    "TypeScript",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:51+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "actions",
+    "stars": 8491,
+    "forks": 2719,
+    "daily_stars": null,
+    "weekly_stars": 186,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

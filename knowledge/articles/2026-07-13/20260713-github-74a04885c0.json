@@ -1,0 +1,31 @@
+{
+  "id": "20260713-github-74a04885c0",
+  "title": "docker/compose",
+  "source": "github_trending",
+  "source_url": "https://github.com/docker/compose",
+  "summary": "Docker Compose 是一个用于定义和运行多容器 Docker 应用程序的工具，通过 YAML 文件配置服务、网络和卷，简化复杂应用的部署和管理。",
+  "content": "Docker Compose 是 Docker 官方推出的编排工具，允许用户通过一个 docker-compose.yml 文件定义多个容器（如 Web 服务、数据库、缓存等），并一键启动、停止或重建整个应用栈。它支持环境变量、依赖管理、网络隔离和卷挂载，适用于开发、测试和生产环境。该仓库由 Docker 官方维护，拥有 37,805 颗星和 5,894 个分支，社区活跃，每周获得约 142 颗新星。",
+  "tags": [
+    "Docker",
+    "容器编排",
+    "多容器应用",
+    "DevOps",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:56+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "docker",
+    "stars": 37805,
+    "forks": 5894,
+    "daily_stars": null,
+    "weekly_stars": 142,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260713-github-636948cc3a",
+  "title": "perber/leafwiki",
+  "source": "github_trending",
+  "source_url": "https://github.com/perber/leafwiki",
+  "summary": "LeafWiki 是一个自托管的 Wiki 系统，采用单个 Go 二进制文件运行，使用 SQLite 作为数据库，并将内容以 Markdown 格式存储在磁盘上，无需外部数据库依赖。",
+  "content": "LeafWiki 是一个轻量级的自托管 Wiki 解决方案，由单个 Go 二进制文件组成，集成了 SQLite 数据库，所有页面内容以 Markdown 格式直接存储在磁盘上。它无需外部数据库（如 MySQL 或 PostgreSQL），简化了部署和维护。该项目在 GitHub 上获得了 759 颗星，50 个 Fork，近期每日新增约 20 颗星，属于 Go 语言领域的 GitHub 热点项目。",
+  "tags": [
+    "Go",
+    "自托管",
+    "Wiki",
+    "SQLite",
+    "Markdown",
+    "单二进制",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:46+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "perber",
+    "stars": 759,
+    "forks": 50,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

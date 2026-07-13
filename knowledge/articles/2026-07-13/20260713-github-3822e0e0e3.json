@@ -1,0 +1,30 @@
+{
+  "id": "20260713-github-3822e0e0e3",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "source": "rss",
+  "source_url": "https://www.iroh.computer/blog/mesh-llm",
+  "summary": "Mesh LLM 项目在 iroh 网络上实现了分布式 AI 计算，允许用户将大型语言模型（LLM）推理任务分散到多个节点上执行，从而提升计算效率与可扩展性。该项目在 Hacker News 上获得 340 分和 90 条评论，表明社区高度关注。",
+  "content": "Mesh LLM 是一个基于 iroh 网络构建的分布式 AI 计算框架，旨在通过点对点（P2P）方式协调多个计算节点，共同完成大型语言模型的推理任务。iroh 网络提供了去中心化的通信与存储基础设施，使得 Mesh LLM 能够动态分配计算负载、容错处理以及跨节点模型分片。该项目解决了传统集中式 LLM 部署中的单点瓶颈和资源限制问题，适用于边缘计算、隐私敏感场景及大规模推理集群。技术栈包括 Rust 语言、iroh 库以及自定义的模型分片协议。",
+  "tags": [
+    "分布式计算",
+    "大型语言模型",
+    "P2P网络",
+    "iroh",
+    "AI推理",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-11T22:38:57+00:00",
+  "collected_at": "2026-07-13T20:27:56+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

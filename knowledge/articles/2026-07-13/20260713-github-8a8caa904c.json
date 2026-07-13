@@ -1,0 +1,33 @@
+{
+  "id": "20260713-github-8a8caa904c",
+  "title": "smicallef/spiderfoot",
+  "source": "github_trending",
+  "source_url": "https://github.com/smicallef/spiderfoot",
+  "summary": "SpiderFoot 是一个自动化 OSINT（开源情报）工具，用于威胁情报分析和攻击面映射。",
+  "content": "SpiderFoot 是一款基于 Python 的开源情报（OSINT）自动化工具，旨在帮助安全研究人员和渗透测试人员收集和分析公开信息，以识别潜在威胁和攻击面。该工具支持超过 200 个数据源，包括搜索引擎、社交网络、DNS 记录、WHOIS 信息等，能够自动执行情报收集、关联分析和报告生成。其核心功能包括：1）自动化扫描目标（域名、IP、电子邮件等）并收集相关公开数据；2）通过内置关联引擎识别数据间的联系，如域名与 IP 的映射、社交账号关联等；3）生成可视化报告，展示攻击面和威胁路径。SpiderFoot 在 GitHub 上拥有超过 19,500 颗星和 3,198 个分支，近期日增星约 98 颗，表明其在安全社区中具有较高关注度和实用性。该工具适用于红队演练、漏洞评估和安全监控场景，尤其适合需要快速收集和分析 OSINT 数据的团队。",
+  "tags": [
+    "OSINT",
+    "威胁情报",
+    "攻击面映射",
+    "Python",
+    "安全工具",
+    "开源情报",
+    "渗透测试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:39+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "smicallef",
+    "stars": 19548,
+    "forks": 3198,
+    "daily_stars": 98,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

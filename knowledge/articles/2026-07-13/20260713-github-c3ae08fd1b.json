@@ -1,0 +1,32 @@
+{
+  "id": "20260713-github-c3ae08fd1b",
+  "title": "microsoft/typescript-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/typescript-go",
+  "summary": "微软官方 TypeScript 原生移植（Go 语言实现）的暂存仓库，旨在将 TypeScript 编译器用 Go 重写以提升性能。",
+  "content": "该仓库是微软发起的 TypeScript 原生移植项目的开发暂存区，使用 Go 语言重新实现 TypeScript 编译器。项目目前处于早期开发阶段，已获得 25934 颗星标和 1057 个分支，周增长 146 星。主要目标是利用 Go 的高性能特性，显著提升 TypeScript 编译速度和运行时效率，同时保持与现有 TypeScript 生态的兼容性。",
+  "tags": [
+    "TypeScript",
+    "Go",
+    "编译器",
+    "微软",
+    "性能优化",
+    "原生移植"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:56+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 25934,
+    "forks": 1057,
+    "daily_stars": null,
+    "weekly_stars": 146,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

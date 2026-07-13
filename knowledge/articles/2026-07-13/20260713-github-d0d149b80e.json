@@ -1,0 +1,32 @@
+{
+  "id": "20260713-github-d0d149b80e",
+  "title": "FiloSottile/age",
+  "source": "github_trending",
+  "source_url": "https://github.com/FiloSottile/age",
+  "summary": "age 是一个简单、现代且安全的加密工具（及 Go 库），具有小型显式密钥、无配置选项和 UNIX 风格的可组合性。",
+  "content": "age 由知名安全研究员 Filippo Valsorda（FiloSottile）开发，是一个专注于简洁性和安全性的文件加密工具。它使用现代密码学原语（如 X25519 和 ChaCha20-Poly1305），无需复杂的配置文件，密钥格式紧凑且可读性强。age 支持标准输入/输出管道操作，完美融入 UNIX 工作流，并可作为 Go 库集成到其他项目中。该项目在 GitHub 上获得超过 2.2 万星标，社区活跃，是替代 GPG 进行日常加密操作的轻量级方案。",
+  "tags": [
+    "加密工具",
+    "Go 库",
+    "安全",
+    "UNIX 风格",
+    "文件加密",
+    "现代密码学"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-13T20:27:46+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "FiloSottile",
+    "stars": 22847,
+    "forks": 650,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
