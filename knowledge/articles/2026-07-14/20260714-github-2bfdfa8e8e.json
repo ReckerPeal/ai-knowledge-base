@@ -1,0 +1,32 @@
+{
+  "id": "20260714-github-2bfdfa8e8e",
+  "title": "kubernetes/autoscaler",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/autoscaler",
+  "summary": "Kubernetes 自动扩缩容组件 — 该仓库是 Kubernetes 官方维护的自动扩缩容组件集合，包含垂直 Pod 自动扩缩容（VPA）、集群自动扩缩容（Cluster Autoscaler）和水平 Pod 自动扩缩容（HPA）等核心组件。项目旨在根据负载动态调整 Kubernetes 集群资源，提升资源利用率和应用稳定性。",
+  "content": "该仓库是 Kubernetes 官方维护的自动扩缩容组件集合，包含垂直 Pod 自动扩缩容（VPA）、集群自动扩缩容（Cluster Autoscaler）和水平 Pod 自动扩缩容（HPA）等核心组件。项目旨在根据负载动态调整 Kubernetes 集群资源，提升资源利用率和应用稳定性。",
+  "tags": [
+    "Kubernetes",
+    "自动扩缩容",
+    "Cluster Autoscaler",
+    "VPA",
+    "HPA",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-14T19:21:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 8901,
+    "forks": 4432,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260714-github-eaad4cbcfa",
+  "title": "Separating signal from noise in coding evaluations",
+  "source": "rss",
+  "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "summary": "OpenAI 发布新分析，揭示 SWE-Bench Pro 编码基准测试存在可靠性问题，引发对 AI 模型评估准确性的担忧。",
+  "content": "OpenAI 的一项新分析指出了 SWE-Bench Pro 这一流行编码基准测试中的问题，该基准测试常用于评估 AI 模型的编码能力。分析表明，该基准测试在信号与噪声的分离上存在不足，可能导致对模型性能的误判。这引发了关于 AI 模型评估可靠性和准确性的广泛担忧，尤其是在实际应用场景中。OpenAI 建议开发者在使用此类基准测试时应谨慎，并考虑更全面的评估方法。",
+  "tags": [
+    "OpenAI",
+    "SWE-Bench Pro",
+    "编码评估",
+    "AI 模型",
+    "基准测试",
+    "可靠性"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-08T13:00:00+00:00",
+  "collected_at": "2026-07-14T19:21:24+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

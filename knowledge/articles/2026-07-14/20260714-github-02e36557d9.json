@@ -1,0 +1,31 @@
+{
+  "id": "20260714-github-02e36557d9",
+  "title": "NVlabs/FoundationPose",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/FoundationPose",
+  "summary": "FoundationPose 是一个统一的 6D 姿态估计与跟踪框架，用于处理未见过的物体，在 CVPR 2024 上被评为 Highlight 论文。",
+  "content": "该仓库由 NVlabs 开发，基于 Python 实现，主要功能包括：1）对未见过的物体进行 6D 姿态估计；2）支持连续跟踪；3）无需物体先验模型，适用于零样本场景。项目在 GitHub 上获得 3401 星标和 505 个分支，近期每日新增约 8 星，表明社区关注度较高。",
+  "tags": [
+    "6D姿态估计",
+    "物体跟踪",
+    "零样本学习",
+    "计算机视觉",
+    "CVPR 2024"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-14T19:21:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 3401,
+    "forks": 505,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

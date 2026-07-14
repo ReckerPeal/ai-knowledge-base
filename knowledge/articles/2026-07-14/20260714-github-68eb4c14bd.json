@@ -1,0 +1,33 @@
+{
+  "id": "20260714-github-68eb4c14bd",
+  "title": "kserve/kserve",
+  "source": "github_trending",
+  "source_url": "https://github.com/kserve/kserve",
+  "summary": "KServe 是一个标准化的分布式生成式与预测性 AI 推理平台，专为在 Kubernetes 上实现可扩展、多框架部署而设计。",
+  "content": "KServe 提供统一的推理服务接口，支持多种 AI 框架（如 TensorFlow、PyTorch、Scikit-learn 等），并利用 Kubernetes 的弹性伸缩能力实现高性能、可扩展的模型部署。该平台简化了生成式 AI 和预测性 AI 模型的部署流程，适用于生产环境中的大规模推理任务。",
+  "tags": [
+    "KServe",
+    "AI推理",
+    "Kubernetes",
+    "分布式部署",
+    "多框架支持",
+    "生成式AI",
+    "预测性AI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-14T19:21:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kserve",
+    "stars": 5683,
+    "forks": 1572,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

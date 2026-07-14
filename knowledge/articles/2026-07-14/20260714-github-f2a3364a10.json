@@ -1,0 +1,29 @@
+{
+  "id": "20260714-github-f2a3364a10",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "summary": "vLLM 项目推出了原生速度的 transformers 建模后端，旨在显著提升推理性能。该后端优化了模型加载和计算效率，支持多种主流架构，并保持与 Hugging Face Transformers 的兼容性。",
+  "content": "vLLM 团队在 Hugging Face 博客上发布了其原生速度的 transformers 建模后端。该后端专为高速推理设计，通过优化内存管理和计算图执行，实现了比标准 transformers 实现更快的推理速度。它支持 GPT、LLaMA、Mistral 等流行模型架构，并提供了与 Hugging Face 生态系统的无缝集成。用户可以通过简单的 API 调用切换到此后端，以获得显著的性能提升，特别适合大规模部署和实时应用场景。",
+  "tags": [
+    "vLLM",
+    "transformers",
+    "推理优化",
+    "AI 模型部署",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-08T11:30:29-05:00",
+  "collected_at": "2026-07-14T19:21:24+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

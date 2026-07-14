@@ -1,0 +1,33 @@
+{
+  "id": "20260714-github-89bc9f4915",
+  "title": "wonderwhy-er/DesktopCommanderMCP",
+  "source": "github_trending",
+  "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "summary": "DesktopCommanderMCP 是一个为 Claude 设计的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。",
+  "content": "该项目是一个基于 TypeScript 的 MCP（Model Context Protocol）服务器实现，专门用于增强 Claude 的桌面操作能力。它通过提供终端控制接口，允许 Claude 执行命令行操作；通过文件系统搜索功能，支持在本地目录中查找文件；通过差异文件编辑能力，能够对文件进行精确的增量修改。该工具旨在将 Claude 从纯对话模型扩展为具备桌面环境交互能力的智能助手，适用于自动化脚本执行、代码编辑和系统管理等场景。",
+  "tags": [
+    "MCP",
+    "Claude",
+    "终端控制",
+    "文件系统",
+    "差异编辑",
+    "TypeScript",
+    "桌面自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-14T19:21:19+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "wonderwhy-er",
+    "stars": 8216,
+    "forks": 1001,
+    "daily_stars": null,
+    "weekly_stars": 1939,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

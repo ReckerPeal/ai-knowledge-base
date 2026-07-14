@@ -1,0 +1,31 @@
+{
+  "id": "20260714-github-82d4a27692",
+  "title": "PrefectHQ/prefect",
+  "source": "github_trending",
+  "source_url": "https://github.com/PrefectHQ/prefect",
+  "summary": "Prefect 是一个用于在 Python 中构建弹性数据管道的工作流编排框架。",
+  "content": "Prefect 是一个开源的工作流编排框架，专为构建可靠、可观察的数据管道而设计。它提供了任务调度、依赖管理、重试机制、状态监控等功能，支持从简单脚本到复杂数据管道的各种场景。Prefect 的核心优势在于其弹性设计，能够自动处理任务失败、超时和资源限制，确保数据管道的稳健运行。该框架还集成了丰富的通知和日志记录功能，便于用户实时追踪工作流状态。",
+  "tags": [
+    "工作流编排",
+    "数据管道",
+    "Python",
+    "弹性",
+    "任务调度"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-14T19:21:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "PrefectHQ",
+    "stars": 23343,
+    "forks": 2407,
+    "daily_stars": 254,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
