@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-90001a3908",
+  "title": "ModernRelay/omnigraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/ModernRelay/omnigraph",
+  "summary": "OmniGraph 是一个基于 Lakehouse 架构的原生图引擎，支持类似 Git 的工作流。",
+  "content": "OmniGraph 是一个创新的图数据库引擎，它原生构建在 Lakehouse 架构之上，将数据湖的灵活性与图数据库的查询能力相结合。该项目最大的亮点是引入了类似 Git 的工作流机制，允许用户对图数据进行版本控制、分支管理和协作编辑，从而解决了传统图数据库在数据版本管理和团队协作上的痛点。该仓库使用 Rust 语言开发，性能优异，适合需要处理大规模图数据且要求数据一致性和可追溯性的场景。",
+  "tags": [
+    "图数据库",
+    "Lakehouse",
+    "Git工作流",
+    "Rust",
+    "数据版本控制",
+    "开源引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:21+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ModernRelay",
+    "stars": 967,
+    "forks": 216,
+    "daily_stars": null,
+    "weekly_stars": 201,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

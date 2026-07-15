@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-8a863f2120",
+  "title": "tailscale/tailscale",
+  "source": "github_trending",
+  "source_url": "https://github.com/tailscale/tailscale",
+  "summary": "Tailscale 是一个基于 WireGuard 的零配置 VPN 解决方案，旨在提供最简单、最安全的网络连接方式，支持双因素认证（2FA）。",
+  "content": "Tailscale 是一个开源的 VPN 工具，利用 WireGuard 协议实现安全、高效的网络连接。它通过零配置的方式简化了设备间的网络互联，支持跨平台使用（如 Linux、macOS、Windows、iOS 等），并集成了双因素认证（2FA）以增强安全性。该项目在 GitHub 上拥有超过 3.3 万颗星，社区活跃，每周获得约 781 颗新星，是 Go 语言在网络安全领域的热门实践。",
+  "tags": [
+    "VPN",
+    "WireGuard",
+    "网络安全",
+    "Go",
+    "零配置",
+    "2FA",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:23+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "tailscale",
+    "stars": 33991,
+    "forks": 2934,
+    "daily_stars": null,
+    "weekly_stars": 781,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

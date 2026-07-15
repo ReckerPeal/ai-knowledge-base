@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-687e40f264",
+  "title": "triton-inference-server/server",
+  "source": "github_trending",
+  "source_url": "https://github.com/triton-inference-server/server",
+  "summary": "Triton 推理服务器提供优化的云端和边缘推理解决方案。",
+  "content": "Triton 推理服务器是一个高性能的推理服务框架，支持多种深度学习框架（如 TensorRT、TensorFlow、PyTorch、ONNX Runtime 等）和多种硬件平台（GPU、CPU、ARM 等）。它提供了动态批处理、模型并发、模型版本管理、请求调度等高级功能，旨在简化 AI 模型在生产环境中的部署和扩展。该项目在 GitHub 上拥有 10836 颗星和 1809 个分支，近期日增星数 4 颗，属于 Python 语言的热门项目。",
+  "tags": [
+    "推理服务器",
+    "模型部署",
+    "深度学习",
+    "GPU 加速",
+    "边缘计算",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "triton-inference-server",
+    "stars": 10836,
+    "forks": 1809,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

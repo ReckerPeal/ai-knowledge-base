@@ -1,0 +1,31 @@
+{
+  "id": "20260715-github-9c68fdfb4d",
+  "title": "rust-lang/crates.io",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/crates.io",
+  "summary": "Rust 官方包注册表 crates.io 的源代码仓库，托管于 GitHub，由 Rust 语言团队维护。",
+  "content": "该仓库是 Rust 生态系统的核心基础设施，实现了 crates.io 网站的后端与前端逻辑，支持 Rust 包的发布、搜索、版本管理和依赖解析。项目采用 Rust 语言开发，结合 Web 框架（如 Rocket 或 Actix）和数据库（如 PostgreSQL）构建，是 Rust 社区最重要的开源项目之一。",
+  "tags": [
+    "Rust",
+    "crates.io",
+    "包注册表",
+    "开源",
+    "基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:12+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 3644,
+    "forks": 739,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

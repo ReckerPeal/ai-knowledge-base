@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-348c4e98d0",
+  "title": "entireio/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/entireio/cli",
+  "summary": "entireio/cli 是一个 Go 语言开发的 CLI 工具，通过钩入 Git 工作流，自动捕获 AI 代理会话并索引到提交记录中，为仓库代码编写过程创建可搜索的记录。",
+  "content": "该项目是一个命令行工具，核心功能是集成到 Git 工作流中，自动记录 AI 代理在开发过程中的会话。这些会话与每次 Git 提交关联并建立索引，从而形成一个可搜索的代码编写历史记录。这有助于开发者追溯代码的生成过程、理解 AI 辅助决策，并提升团队协作的透明度和可审计性。项目使用 Go 语言开发，在 GitHub 上获得了 4773 颗星和 365 个 fork，周增长 143 星，属于 GitHub 热点 Go 项目。",
+  "tags": [
+    "Git",
+    "AI",
+    "CLI",
+    "开发工具",
+    "代码记录",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:23+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "entireio",
+    "stars": 4773,
+    "forks": 365,
+    "daily_stars": null,
+    "weekly_stars": 143,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

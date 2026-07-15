@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-64be882b58",
+  "title": "chenyme/grok2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/chenyme/grok2api",
+  "summary": "chenyme/grok2api 是一个用 Go 语言开发的多账号 API 网关，专门为 Grok Build、Grok Web 和 Grok Console 提供统一接入服务。该项目在 GitHub 上获得 6000 星标，日增 186 星，拥有 1941 个分支，属于 GitHub 热点 Go 项目。",
+  "content": "该项目旨在解决 Grok 系列服务（Grok Build、Grok Web、Grok Console）的多账号管理问题，通过构建一个 API 网关，实现多个账号的集中认证、请求转发和负载均衡。它可能支持自动切换账号、请求限流、日志记录等功能，以提升 Grok 服务的可用性和稳定性。项目使用 Go 语言开发，具有高性能和低资源消耗的特点，适合需要频繁调用 Grok API 的开发者或企业用户。",
+  "tags": [
+    "API 网关",
+    "Grok",
+    "多账号管理",
+    "Go",
+    "负载均衡",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chenyme",
+    "stars": 6000,
+    "forks": 1941,
+    "daily_stars": 186,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

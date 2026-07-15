@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-7bebf91dd3",
+  "title": "keploy/keploy",
+  "source": "github_trending",
+  "source_url": "https://github.com/keploy/keploy",
+  "summary": "Keploy 是一个开源平台，用于创建安全、隔离的生产沙箱，支持 API、集成和端到端测试。",
+  "content": "Keploy 是一个基于 Go 语言开发的开源平台，旨在为 API、集成和端到端测试提供安全、隔离的生产沙箱环境。该平台通过自动生成测试用例和模拟依赖，帮助开发者快速验证代码变更，减少手动测试工作量。其核心功能包括流量捕获、测试生成、沙箱隔离和结果分析，适用于微服务架构和持续集成流程。项目在 GitHub 上拥有 18,125 颗星和 2,277 个分支，近期日增星约 30 颗，显示出较高的社区活跃度和关注度。",
+  "tags": [
+    "开源",
+    "测试平台",
+    "API测试",
+    "集成测试",
+    "端到端测试",
+    "沙箱",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "keploy",
+    "stars": 18125,
+    "forks": 2277,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

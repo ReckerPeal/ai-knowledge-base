@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-222724f04c",
+  "title": "vuejs/pinia",
+  "source": "github_trending",
+  "source_url": "https://github.com/vuejs/pinia",
+  "summary": "Pinia 是 Vue.js 官方推荐的轻量级状态管理库，基于 Composition API 设计，提供类型安全、直观的 API 和 DevTools 支持。",
+  "content": "Pinia 是 Vue.js 生态中一款直观、类型安全、轻量且灵活的状态管理库，由 Vue 核心团队维护。它充分利用 Vue 3 的 Composition API，摒弃了 Vuex 的 mutations 概念，简化了状态管理流程。Pinia 支持完整的 TypeScript 类型推断，无需额外类型包装即可获得自动补全和类型检查。内置 DevTools 支持，包括时间旅行、状态快照和 action 追踪，便于调试。此外，Pinia 还支持模块化、服务端渲染（SSR）和插件扩展，适用于中小型到大型 Vue 应用。截至 2026 年 7 月，该仓库在 GitHub 上获得 14652 颗星，1190 个 fork，日增星约 11 颗，社区活跃度高。",
+  "tags": [
+    "Vue.js",
+    "状态管理",
+    "TypeScript",
+    "Composition API",
+    "Pinia",
+    "DevTools",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:10+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "vuejs",
+    "stars": 14652,
+    "forks": 1190,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

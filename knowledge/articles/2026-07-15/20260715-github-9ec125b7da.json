@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-9ec125b7da",
+  "title": "siglens/siglens",
+  "source": "github_trending",
+  "source_url": "https://github.com/siglens/siglens",
+  "summary": "Siglens 是一个高效的日志管理工具，声称比 Splunk 快 100 倍，并能降低 90% 的可观测性成本。",
+  "content": "Siglens 是一个基于 Go 语言开发的开源日志管理平台，旨在提供比传统工具（如 Splunk）更高效、更经济的可观测性解决方案。根据 GitHub 仓库摘要，其核心优势在于性能提升（100 倍于 Splunk）和成本降低（减少 90% 的观测成本）。该项目在 GitHub 上受到关注，拥有 1734 颗星和 318 个分支，近期日增星数达 69 颗，表明社区活跃度较高。Siglens 可能通过优化数据索引、压缩或查询引擎来实现高效处理，适合需要大规模日志分析且预算有限的企业或开发者。",
+  "tags": [
+    "日志管理",
+    "可观测性",
+    "Go",
+    "Splunk替代",
+    "开源",
+    "性能优化",
+    "成本降低"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-15T19:25:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "siglens",
+    "stars": 1734,
+    "forks": 318,
+    "daily_stars": 69,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
