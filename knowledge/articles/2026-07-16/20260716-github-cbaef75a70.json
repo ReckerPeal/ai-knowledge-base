@@ -1,0 +1,33 @@
+{
+  "id": "20260716-github-cbaef75a70",
+  "title": "ansible/ansible",
+  "source": "github_trending",
+  "source_url": "https://github.com/ansible/ansible",
+  "summary": "Ansible 是一个极其简单的 IT 自动化平台，使用接近纯英语的语言，通过 SSH 实现从代码部署到网络配置再到云管理的全面自动化，无需在远程系统上安装代理。",
+  "content": "Ansible 是一个开源的 IT 自动化工具，旨在简化应用程序和系统的部署与维护。它采用无代理架构，通过 SSH 连接远程主机，使用 YAML 编写的 Playbook 来描述自动化任务，语言接近自然英语，易于学习和使用。Ansible 支持配置管理、应用部署、任务编排和云资源管理等多种场景，其模块化设计使得扩展性极强。该仓库由 Ansible 社区维护，拥有 69700 颗星和 24282 个分支，是 GitHub 上最受欢迎的 Python 项目之一。",
+  "tags": [
+    "IT自动化",
+    "配置管理",
+    "SSH",
+    "无代理",
+    "DevOps",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-16T19:28:36+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "ansible",
+    "stars": 69700,
+    "forks": 24282,
+    "daily_stars": null,
+    "weekly_stars": 447,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
