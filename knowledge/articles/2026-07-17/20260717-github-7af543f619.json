@@ -1,0 +1,33 @@
+{
+  "id": "20260717-github-7af543f619",
+  "title": "openbao/openbao",
+  "source": "github_trending",
+  "source_url": "https://github.com/openbao/openbao",
+  "summary": "OpenBao 是一个用于管理、存储和分发敏感数据（包括密钥、证书和令牌）的软件解决方案。",
+  "content": "OpenBao 是一个开源项目，旨在提供安全、可靠的敏感数据管理能力。它支持密钥的存储、轮换和分发，证书的生命周期管理，以及令牌的生成和验证。该项目基于 Go 语言开发，具有高性能和跨平台特性。在 GitHub 上，OpenBao 已获得 6695 颗星和 482 个分支，每日新增星标数约为 21，显示出较高的社区关注度。其核心功能包括：1) 密钥管理：支持静态和动态密钥的存储与自动轮换；2) 证书管理：提供证书签发、续期和吊销功能；3) 令牌管理：支持基于策略的令牌生成与验证。OpenBao 适用于云原生环境、微服务架构以及需要集中化敏感数据管理的企业场景。",
+  "tags": [
+    "密钥管理",
+    "证书管理",
+    "令牌管理",
+    "敏感数据",
+    "Go",
+    "开源",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-17T19:18:11+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openbao",
+    "stars": 6695,
+    "forks": 482,
+    "daily_stars": 21,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

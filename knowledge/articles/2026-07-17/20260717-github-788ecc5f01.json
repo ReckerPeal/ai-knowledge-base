@@ -1,0 +1,33 @@
+{
+  "id": "20260717-github-788ecc5f01",
+  "title": "AgentWrapper/agent-orchestrator",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "summary": "Agent Orchestrator (AO) 是一个面向开发者的智能体集成开发环境（IDE），旨在帮助管理编码智能体集群，以并行执行日常开发任务。它内置了智能编排器，可规划任务、生成智能体，并自主处理 CI 修复、合并冲突和代码审查。",
+  "content": "Agent Orchestrator (AO) 是一个专为开发者设计的智能体 IDE，核心功能是管理多个编码智能体，使其并行执行日常开发任务。其关键特性包括：\n- **智能编排器**：自动规划任务、动态生成智能体，并协调工作流。\n- **自主运维**：自动处理 CI 修复、合并冲突和代码审查，减少人工干预。\n- **并行编码**：支持多智能体同时工作，提升开发效率。\n该项目使用 Go 语言开发，在 GitHub 上获得 8319 颗星和 1195 个 Fork，日增星 25 颗，属于 GitHub 热点项目。",
+  "tags": [
+    "智能体IDE",
+    "编码智能体",
+    "任务编排",
+    "CI修复",
+    "合并冲突",
+    "代码审查",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-17T19:18:11+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgentWrapper",
+    "stars": 8319,
+    "forks": 1195,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

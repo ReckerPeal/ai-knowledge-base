@@ -1,0 +1,31 @@
+{
+  "id": "20260717-github-d659f89dd8",
+  "title": "argoproj/argo-cd",
+  "source": "github_trending",
+  "source_url": "https://github.com/argoproj/argo-cd",
+  "summary": "Argo CD 是一个为 Kubernetes 设计的声明式持续部署工具。",
+  "content": "Argo CD 是一个基于 GitOps 理念的声明式持续部署工具，专为 Kubernetes 环境打造。它通过将应用配置存储在 Git 仓库中，自动同步集群状态与仓库中的期望状态，从而实现应用的自动化部署、回滚和健康监控。该项目在 GitHub 上拥有超过 23,000 颗星，社区活跃，是云原生生态中重要的持续交付解决方案。",
+  "tags": [
+    "Kubernetes",
+    "持续部署",
+    "GitOps",
+    "声明式配置",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-17T19:18:21+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "argoproj",
+    "stars": 23642,
+    "forks": 7517,
+    "daily_stars": null,
+    "weekly_stars": 237,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
