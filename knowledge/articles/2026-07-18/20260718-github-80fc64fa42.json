@@ -1,0 +1,31 @@
+{
+  "id": "20260718-github-80fc64fa42",
+  "title": "binwiederhier/ntfy",
+  "source": "github_trending",
+  "source_url": "https://github.com/binwiederhier/ntfy",
+  "summary": "ntfy 是一个开源项目，允许用户通过简单的 PUT/POST 请求向手机或桌面发送推送通知。它基于 Go 语言开发，在 GitHub 上拥有超过 3.1 万星标，近期周增长 284 星，属于 Go 语言领域的热门工具。",
+  "content": "ntfy 是一个轻量级的推送通知服务，核心功能是通过 HTTP PUT/POST 请求将消息推送到用户设备。它支持多种订阅方式（如 WebSocket、邮件等），无需安装额外客户端即可在手机或桌面接收通知。项目采用 Go 语言编写，部署简单，适合开发者集成到自动化脚本、监控系统或 CI/CD 流程中。其 GitHub 仓库显示高活跃度（3.1 万星标、1417 分支），近期周增长 284 星，表明社区关注度持续上升。",
+  "tags": [
+    "推送通知",
+    "Go",
+    "开源工具",
+    "HTTP API",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "binwiederhier",
+    "stars": 31984,
+    "forks": 1417,
+    "daily_stars": null,
+    "weekly_stars": 284,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

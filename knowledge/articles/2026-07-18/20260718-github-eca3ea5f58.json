@@ -1,0 +1,33 @@
+{
+  "id": "20260718-github-eca3ea5f58",
+  "title": "tursodatabase/turso",
+  "source": "github_trending",
+  "source_url": "https://github.com/tursodatabase/turso",
+  "summary": "Turso 是一个用 Rust 编写的 SQL 数据库，兼容 SQLite，并实验性支持 Postgres 协议，被称为数据库领域的 LLVM。",
+  "content": "Turso 是一个基于 Rust 构建的现代 SQL 数据库，其核心目标是提供与 SQLite 完全兼容的体验，同时引入对 Postgres 协议的实验性支持。该项目在 GitHub 上获得了超过 23,000 颗星，显示出社区的高度关注。Turso 的设计理念类似于 LLVM 在编译器领域的角色，旨在通过模块化和可扩展的架构，为数据库生态系统提供底层基础设施。其技术亮点包括：高性能的 Rust 实现、SQLite 兼容性确保迁移成本低、以及实验性的 Postgres 协议支持，使其能够与现有 Postgres 工具链集成。Turso 特别适合需要轻量级、嵌入式数据库的场景，同时为未来扩展至分布式或云原生环境提供了基础。",
+  "tags": [
+    "Rust",
+    "SQL 数据库",
+    "SQLite 兼容",
+    "Postgres 协议",
+    "开源",
+    "高性能",
+    "数据库引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:08+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tursodatabase",
+    "stars": 23136,
+    "forks": 1180,
+    "daily_stars": 93,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

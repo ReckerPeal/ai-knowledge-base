@@ -1,0 +1,32 @@
+{
+  "id": "20260718-github-19c6920328",
+  "title": "helix-editor/helix",
+  "source": "github_trending",
+  "source_url": "https://github.com/helix-editor/helix",
+  "summary": "Helix 编辑器是一款后现代模态文本编辑器，基于 Rust 开发，强调高效编辑和内置语言支持。",
+  "content": "Helix 编辑器是一款采用 Rust 语言开发的后现代模态文本编辑器，其设计理念融合了 Vim 的模态编辑模式和现代 IDE 的特性。它内置了语言服务器协议（LSP）支持、树状语法高亮、多光标编辑、模糊文件查找等功能，并提供了开箱即用的配置。Helix 的架构注重性能和响应速度，同时通过内置的代码补全、诊断和代码操作来提升开发效率。该项目在 GitHub 上拥有超过 45,000 颗星，社区活跃，持续集成新特性。",
+  "tags": [
+    "文本编辑器",
+    "Rust",
+    "模态编辑",
+    "LSP",
+    "后现代编辑器",
+    "Helix"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:19+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "helix-editor",
+    "stars": 45506,
+    "forks": 3616,
+    "daily_stars": null,
+    "weekly_stars": 238,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

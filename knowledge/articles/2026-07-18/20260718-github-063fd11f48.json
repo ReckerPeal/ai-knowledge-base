@@ -1,0 +1,33 @@
+{
+  "id": "20260718-github-063fd11f48",
+  "title": "memvid/memvid",
+  "source": "github_trending",
+  "source_url": "https://github.com/memvid/memvid",
+  "summary": "memvid 是一个为 AI Agent 提供内存层的开源项目，通过无服务器、单文件的内存层替代复杂的 RAG 管道，实现即时检索和长期记忆。",
+  "content": "memvid 是一个基于 Rust 构建的 GitHub 热门项目，旨在为 AI Agent 提供高效的内存层解决方案。它通过无服务器、单文件的内存层设计，替代了传统复杂的 RAG（检索增强生成）管道，使 AI Agent 能够实现即时检索和长期记忆功能。该项目在 GitHub 上获得了 15983 颗星和 1383 个分支，周增长 254 颗星，显示出较高的社区关注度。其核心优势在于简化了 AI Agent 的记忆管理，提升了检索效率和持久化能力，适用于需要快速响应和长期记忆的 AI 应用场景。",
+  "tags": [
+    "AI Agent",
+    "内存层",
+    "RAG",
+    "无服务器",
+    "Rust",
+    "长期记忆",
+    "即时检索"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "memvid",
+    "stars": 15983,
+    "forks": 1383,
+    "daily_stars": null,
+    "weekly_stars": 254,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

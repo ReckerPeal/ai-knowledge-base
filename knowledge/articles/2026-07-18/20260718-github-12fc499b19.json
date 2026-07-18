@@ -1,0 +1,31 @@
+{
+  "id": "20260718-github-12fc499b19",
+  "title": "musistudio/claude-code-router",
+  "source": "github_trending",
+  "source_url": "https://github.com/musistudio/claude-code-router",
+  "summary": "一个为AI代理设计的本地控制平面，支持跨模型路由、融合新能力、编排工具并保持完全控制。",
+  "content": "该项目提供了一个统一的本地控制平面，用于管理多个AI代理。它允许用户在不同模型之间路由请求，融合新的功能模块，编排各种工具的使用，并确保用户对整个系统保持完全的控制权。基于TypeScript实现，旨在解决多代理协作中的复杂性问题。",
+  "tags": [
+    "AI代理",
+    "控制平面",
+    "模型路由",
+    "工具编排",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:06+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "musistudio",
+    "stars": 35878,
+    "forks": 2968,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

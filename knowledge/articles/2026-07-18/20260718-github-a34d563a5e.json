@@ -1,0 +1,32 @@
+{
+  "id": "20260718-github-a34d563a5e",
+  "title": "dexidp/dex",
+  "source": "github_trending",
+  "source_url": "https://github.com/dexidp/dex",
+  "summary": "dexidp/dex 是一个基于 Go 语言的开源项目，提供 OpenID Connect (OIDC) 身份认证和 OAuth 2.0 授权服务，支持可插拔的连接器，便于集成多种身份源。",
+  "content": "该项目在 GitHub 上拥有 10968 颗星和 1957 个分支，属于 GitHub 热点中的 Go 类别。它作为身份认证和授权中间件，允许开发者通过 OIDC 和 OAuth 2.0 协议实现单点登录（SSO），并支持 LDAP、SAML、GitHub 等多种连接器，适用于云原生和微服务架构。",
+  "tags": [
+    "OpenID Connect",
+    "OAuth 2.0",
+    "身份认证",
+    "Go",
+    "可插拔连接器",
+    "单点登录"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-18T18:57:11+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "dexidp",
+    "stars": 10968,
+    "forks": 1957,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
