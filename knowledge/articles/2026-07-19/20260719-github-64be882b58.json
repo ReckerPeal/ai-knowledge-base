@@ -1,0 +1,30 @@
+{
+  "id": "20260719-github-64be882b58",
+  "title": "chenyme/grok2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/chenyme/grok2api",
+  "summary": "chenyme/grok2api 是一个多账户 API 网关，支持 Grok Build、Grok Web 和 Grok Console 三种服务。",
+  "content": "该项目由 chenyme 开发，使用 Go 语言实现，旨在为 Grok 系列服务提供统一的 API 网关。它支持多账户管理，能够同时对接 Grok Build、Grok Web 和 Grok Console 三种不同的 Grok 服务，方便开发者进行集成和调用。",
+  "tags": [
+    "API 网关",
+    "多账户",
+    "Grok",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:19+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chenyme",
+    "stars": 6290,
+    "forks": 2015,
+    "daily_stars": null,
+    "weekly_stars": 882,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

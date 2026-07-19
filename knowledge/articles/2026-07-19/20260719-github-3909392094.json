@@ -1,0 +1,35 @@
+{
+  "id": "20260719-github-3909392094",
+  "title": "lima-vm/lima",
+  "source": "github_trending",
+  "source_url": "https://github.com/lima-vm/lima",
+  "summary": "Lima 是一个专注于运行容器的 Linux 虚拟机管理工具，旨在提供轻量级、高效的容器运行环境。",
+  "content": "Lima（Linux Virtual Machines）是一个开源项目，由 lima-vm 组织维护，主要用于在 macOS 等非 Linux 系统上创建和管理 Linux 虚拟机，特别优化了容器工作负载（如 Docker、Podman、Kubernetes）的运行。它通过 QEMU 或 VZ 虚拟化技术实现，支持自动文件共享、端口转发和网络配置，简化了开发者在本地环境中运行 Linux 容器的流程。项目在 GitHub 上拥有 21526 颗星和 931 个 Fork，近期日增星约 19 颗，周增星约 93 颗，显示出较高的社区活跃度和关注度。",
+  "tags": [
+    "Lima",
+    "Linux虚拟机",
+    "容器",
+    "Go",
+    "虚拟化",
+    "macOS",
+    "QEMU",
+    "Podman",
+    "Kubernetes"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "lima-vm",
+    "stars": 21526,
+    "forks": 931,
+    "daily_stars": 19,
+    "weekly_stars": 93,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260719-github-53e3149d2c",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "summary": "Shippy 构建经验：AI 代理开发的关键教训",
+  "content": "本文总结了在构建 Shippy 过程中学到的关于构建 AI 代理的核心经验。Shippy 是一个基于大型语言模型的代理系统，文章探讨了如何设计可靠、可扩展的代理架构，包括任务分解、工具使用、错误处理以及人机协作等关键方面。作者分享了在实际开发中遇到的挑战和解决方案，强调了模块化设计、持续迭代和用户反馈的重要性。",
+  "tags": [
+    "AI代理",
+    "LLM",
+    "代理架构",
+    "任务分解",
+    "工具使用",
+    "错误处理",
+    "人机协作",
+    "模块化设计"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-15T17:29:41+00:00",
+  "collected_at": "2026-07-19T19:06:19+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

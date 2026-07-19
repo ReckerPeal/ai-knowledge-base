@@ -1,0 +1,32 @@
+{
+  "id": "20260719-github-788ecc5f01",
+  "title": "AgentWrapper/agent-orchestrator",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "summary": "AgentWrapper/agent-orchestrator 是一个基于 Go 的代理集成开发环境，能够管理编码代理集群，通过代理编排器规划任务、生成代理，并自动处理 CI 修复、合并冲突和代码审查。",
+  "content": "该项目是一个代理集成开发环境，核心功能包括：1）管理多个编码代理；2）内置代理编排器，可规划任务、生成代理；3）自动处理 CI 修复、合并冲突和代码审查。项目使用 Go 语言开发，在 GitHub 上获得 8366 星和 1208 分支，近期日增 20 星、周增 170 星，属于 GitHub 热点项目。",
+  "tags": [
+    "代理集成开发环境",
+    "编码代理管理",
+    "任务编排",
+    "CI 自动修复",
+    "代码审查",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgentWrapper",
+    "stars": 8366,
+    "forks": 1208,
+    "daily_stars": 20,
+    "weekly_stars": 170,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

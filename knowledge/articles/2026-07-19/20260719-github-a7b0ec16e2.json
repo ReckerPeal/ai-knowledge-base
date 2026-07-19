@@ -1,0 +1,32 @@
+{
+  "id": "20260719-github-a7b0ec16e2",
+  "title": "supabase/auth",
+  "source": "github_trending",
+  "source_url": "https://github.com/supabase/auth",
+  "summary": "supabase/auth 是一个基于 JWT 的 API，用于管理用户和签发 JWT 令牌。",
+  "content": "supabase/auth 是一个用 Go 语言编写的开源项目，由 supabase 团队维护。该项目提供了一个基于 JWT（JSON Web Token）的 API，核心功能包括用户管理和 JWT 令牌签发。它通常作为 Supabase 平台的身份验证组件，支持用户注册、登录、会话管理以及令牌验证等操作。项目在 GitHub 上获得了 2499 颗星和 706 个分支，属于 GitHub 热点中的 Go 语言项目。",
+  "tags": [
+    "JWT",
+    "用户管理",
+    "身份验证",
+    "Go",
+    "API",
+    "Supabase"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "supabase",
+    "stars": 2499,
+    "forks": 706,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260719-github-ee230258f2",
+  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "source": "rss",
+  "source_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "summary": "GPT-Red 是 OpenAI 开发的自动化红队系统，通过自我对弈（self-play）提升 AI 安全性、对齐能力及对提示注入的鲁棒性。",
+  "content": "GPT-Red 是 OpenAI 提出的一种自动化红队测试系统，其核心机制是利用自我对弈（self-play）来持续改进 AI 模型的安全性、对齐能力以及对抗提示注入攻击的鲁棒性。该系统通过模拟攻击与防御的对抗过程，自动生成测试用例并评估模型响应，从而减少人工干预，提升安全测试的效率和覆盖范围。该研究旨在推动 AI 系统在部署前能够自主发现并修复潜在漏洞，增强整体可靠性。",
+  "tags": [
+    "AI安全",
+    "红队测试",
+    "自我对弈",
+    "OpenAI",
+    "提示注入",
+    "鲁棒性",
+    "自动化测试"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-15T10:00:00+00:00",
+  "collected_at": "2026-07-19T19:06:19+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260719-github-5c8332d409",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "summary": "模型路由看似简单，实则复杂。本文探讨了在AI系统中如何有效选择和使用不同模型，揭示了路由策略中的挑战与权衡。",
+  "content": "本文来自Hugging Face博客，由IBM研究团队撰写，深入分析了模型路由（Model Routing）的复杂性。文章指出，虽然模型路由的基本概念——根据任务需求选择最合适的模型——听起来简单，但在实际应用中面临诸多挑战，包括模型性能评估、成本优化、延迟控制以及动态环境下的适应性。作者通过案例和实验数据，展示了不同路由策略（如基于规则、基于学习或混合方法）的优劣，并强调了在真实生产环境中实现高效路由的难度。文章还讨论了未来研究方向，如自适应路由和元学习，以应对不断增长的模型生态。",
+  "tags": [
+    "模型路由",
+    "AI系统",
+    "模型选择",
+    "Hugging Face",
+    "IBM研究",
+    "机器学习工程"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-15T17:27:01+00:00",
+  "collected_at": "2026-07-19T19:06:19+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

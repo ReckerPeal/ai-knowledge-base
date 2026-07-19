@@ -1,0 +1,33 @@
+{
+  "id": "20260719-github-72ff46d3bd",
+  "title": "neondatabase/neon",
+  "source": "github_trending",
+  "source_url": "https://github.com/neondatabase/neon",
+  "summary": "Neon 是一个无服务器 PostgreSQL 数据库，通过分离存储和计算实现自动扩缩容、类似代码的数据库分支以及缩零功能。",
+  "content": "Neon 是一个基于 Rust 实现的无服务器 PostgreSQL 数据库项目，其核心创新在于将存储和计算分离，从而支持自动扩缩容、类似代码分支的数据库分支操作以及缩零（scale to zero）能力。该项目在 GitHub 上拥有 22594 颗星和 1031 个 fork，近期每日新增星标数约为 9 颗，属于 Rust 语言的热门仓库。",
+  "tags": [
+    "PostgreSQL",
+    "无服务器",
+    "数据库",
+    "Rust",
+    "自动扩缩容",
+    "分支",
+    "缩零"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:08+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "neondatabase",
+    "stars": 22594,
+    "forks": 1031,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

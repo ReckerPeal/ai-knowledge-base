@@ -1,0 +1,34 @@
+{
+  "id": "20260719-github-a3fefdc9e7",
+  "title": "go-gitea/gitea",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-gitea/gitea",
+  "summary": "Gitea 是一个用 Go 语言编写的轻量级、自托管的全功能软件开发服务平台，集成了 Git 托管、代码审查、团队协作、包注册表和 CI/CD 功能。",
+  "content": "Gitea 是一个开源、轻量级的自托管软件开发服务，旨在提供类似 GitHub、GitLab 和 Bitbucket 的体验，但更易于部署和维护。它使用 Go 语言编写，因此具有跨平台、高性能和低资源消耗的特点。Gitea 支持 Git 仓库托管、代码审查、问题跟踪、Wiki、Pull Request 等核心功能，并内置了包注册表（支持多种包格式）和 CI/CD 流水线。其设计强调“一杯茶的功夫”即可完成部署，非常适合个人开发者、小型团队或需要完全控制代码和数据的企业。该项目在 GitHub 上拥有超过 5.6 万颗星，社区活跃，更新频繁。",
+  "tags": [
+    "Git",
+    "自托管",
+    "CI/CD",
+    "代码审查",
+    "团队协作",
+    "包注册表",
+    "Go",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-19T19:06:10+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "go-gitea",
+    "stars": 56903,
+    "forks": 6923,
+    "daily_stars": 17,
+    "weekly_stars": 139,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
