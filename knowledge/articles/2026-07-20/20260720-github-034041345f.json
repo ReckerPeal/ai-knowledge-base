@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-034041345f",
+  "title": "SagerNet/sing-box",
+  "source": "github_trending",
+  "source_url": "https://github.com/SagerNet/sing-box",
+  "summary": "sing-box 是一个通用代理平台，支持多种协议和平台，旨在提供高性能、灵活且易于使用的网络代理解决方案。",
+  "content": "sing-box 由 SagerNet 开发，是一个用 Go 语言编写的通用代理平台。它支持 Shadowsocks、VMess、Trojan、NaiveProxy 等多种代理协议，并可在 Windows、macOS、Linux、Android、iOS 等多个操作系统上运行。该项目在 GitHub 上拥有 36283 颗星和 4319 个分支，周增星数达 360，显示出较高的社区活跃度和认可度。sing-box 的设计注重模块化和可扩展性，允许用户通过配置文件自定义路由规则、代理链和 DNS 设置，适用于科学上网、隐私保护及网络加速等场景。其核心优势在于跨平台兼容性和对多种协议的统一管理，简化了代理工具的配置和维护。",
+  "tags": [
+    "代理平台",
+    "Go",
+    "网络工具",
+    "跨平台",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "SagerNet",
+    "stars": 36283,
+    "forks": 4319,
+    "daily_stars": null,
+    "weekly_stars": 360,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

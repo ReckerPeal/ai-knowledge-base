@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-437e44e1a0",
+  "title": "apache/casbin",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/casbin",
+  "summary": "Apache Casbin 是一个支持 ACL、RBAC、ABAC 等多种访问控制模型的授权库。",
+  "content": "Apache Casbin 是一个用 Go 语言编写的强大且高效的开源授权库，支持多种访问控制模型，包括 ACL（访问控制列表）、RBAC（基于角色的访问控制）和 ABAC（基于属性的访问控制）。它提供了灵活的权限管理机制，适用于各种应用场景，如 Web 应用、微服务和 API 网关。Casbin 的设计注重性能与可扩展性，拥有丰富的社区支持和文档。",
+  "tags": [
+    "授权库",
+    "访问控制",
+    "ACL",
+    "RBAC",
+    "ABAC",
+    "Go",
+    "Apache"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:46+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "apache",
+    "stars": 20264,
+    "forks": 1753,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

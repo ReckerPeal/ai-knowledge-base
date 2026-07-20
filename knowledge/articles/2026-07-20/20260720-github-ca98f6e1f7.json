@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-ca98f6e1f7",
+  "title": "henrygd/beszel",
+  "source": "github_trending",
+  "source_url": "https://github.com/henrygd/beszel",
+  "summary": "beszel 是一个轻量级服务器监控工具，支持历史数据、Docker 统计和告警功能。",
+  "content": "beszel 是一个用 Go 语言编写的轻量级服务器监控工具，旨在提供高效、低资源的监控解决方案。它支持历史数据记录，允许用户追踪服务器性能随时间的变化；集成 Docker 统计功能，可实时监控容器资源使用情况；并具备告警机制，在异常时及时通知用户。该项目在 GitHub 上获得 23625 颗星和 904 个分支，近期每日新增 36 颗星，表明其受欢迎程度和活跃度。",
+  "tags": [
+    "服务器监控",
+    "Docker",
+    "告警",
+    "Go",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:46+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "henrygd",
+    "stars": 23625,
+    "forks": 904,
+    "daily_stars": 36,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

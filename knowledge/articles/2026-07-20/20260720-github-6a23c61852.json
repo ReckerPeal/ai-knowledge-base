@@ -1,0 +1,34 @@
+{
+  "id": "20260720-github-6a23c61852",
+  "title": "lingfengQAQ/webnovel-writer",
+  "source": "github_trending",
+  "source_url": "https://github.com/lingfengQAQ/webnovel-writer",
+  "summary": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级连载创作。",
+  "content": "该项目是一个针对长篇网络小说创作的 AI 辅助系统，利用 Claude Code 实现。核心功能包括：通过上下文管理机制解决 AI 在长文本生成中的「遗忘」问题，以及通过事实校验和逻辑约束减少「幻觉」现象。系统支持 200 万字量级的连载创作，提供章节规划、角色设定、情节一致性维护等工具。技术栈以 Python 为主，结合 Claude API 进行自然语言处理。适合网文作者、AI 写作研究者及对长文本生成感兴趣的开发者。",
+  "tags": [
+    "AI 写作",
+    "网文创作",
+    "Claude Code",
+    "长文本生成",
+    "遗忘问题",
+    "幻觉问题",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:39+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "lingfengQAQ",
+    "stars": 5991,
+    "forks": 1035,
+    "daily_stars": 75,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

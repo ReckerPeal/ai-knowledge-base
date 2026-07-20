@@ -1,0 +1,34 @@
+{
+  "id": "20260720-github-c9273a019f",
+  "title": "hasura/graphql-engine",
+  "source": "github_trending",
+  "source_url": "https://github.com/hasura/graphql-engine",
+  "summary": "Hasura GraphQL 引擎是一个高性能的即时实时 GraphQL API 服务，支持对所有数据源进行细粒度访问控制，并能在数据库事件发生时触发 Webhook。",
+  "content": "Hasura GraphQL 引擎是一个开源项目，旨在为开发者提供即时、实时的 GraphQL API。它支持连接多种数据源（如 PostgreSQL、MySQL、SQL Server 等），并自动生成 GraphQL 端点。其核心特性包括：1）细粒度的访问控制，允许基于角色和权限管理数据访问；2）实时订阅功能，支持数据库变更的即时推送；3）事件触发机制，可在数据库插入、更新或删除操作时调用外部 Webhook。该项目使用 TypeScript 开发，在 GitHub 上拥有超过 32,000 颗星，社区活跃度高。",
+  "tags": [
+    "GraphQL",
+    "API",
+    "实时数据",
+    "访问控制",
+    "Webhook",
+    "开源",
+    "TypeScript",
+    "数据库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:41+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "hasura",
+    "stars": 32033,
+    "forks": 2926,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

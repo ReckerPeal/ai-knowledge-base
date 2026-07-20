@@ -1,0 +1,36 @@
+{
+  "id": "20260720-github-4c719445a2",
+  "title": "Gentleman-Programming/engram",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gentleman-Programming/engram",
+  "summary": "engram 是一个为 AI 编码代理设计的持久化记忆系统，提供与代理无关的 Go 二进制文件，集成了 SQLite + FTS5 全文搜索、MCP 服务器、HTTP API、CLI 和 TUI 界面。",
+  "content": "engram 项目专注于为 AI 编码代理提供持久化记忆能力。其核心是一个与代理无关的 Go 二进制文件，这意味着它可以被多种 AI 代理框架集成。系统采用 SQLite 数据库并启用 FTS5 全文搜索，确保高效的数据存储和检索。此外，engram 提供了多种交互方式：MCP 服务器用于与 AI 代理通信，HTTP API 便于远程调用，CLI 支持命令行操作，TUI 则提供终端用户界面。该项目在 GitHub 上获得了 5581 颗星和 592 个分支，周增星数达 546，显示出较高的社区关注度。",
+  "tags": [
+    "AI 编码代理",
+    "持久化记忆",
+    "Go",
+    "SQLite",
+    "FTS5",
+    "MCP 服务器",
+    "HTTP API",
+    "CLI",
+    "TUI",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Gentleman-Programming",
+    "stars": 5581,
+    "forks": 592,
+    "daily_stars": null,
+    "weekly_stars": 546,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

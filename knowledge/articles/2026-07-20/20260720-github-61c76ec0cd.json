@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-61c76ec0cd",
+  "title": "oMaN-Rod/palworld-save-pal",
+  "source": "github_trending",
+  "source_url": "https://github.com/oMaN-Rod/palworld-save-pal",
+  "summary": "Palworld Save Pal (PSP) 是一款用 Rust 编写的开源工具，旨在帮助玩家全面掌控《幻兽帕鲁》的游戏存档。它支持存档管理、帕鲁与玩家迁移、自定义建筑、服务器迁移与管理，以及 Steam 与 Xbox Game Pass 之间的存档转换。无论是服务器管理员还是单人玩家，都能通过 PSP 自定义游戏世界。",
+  "content": "Palworld Save Pal (PSP) 是一个基于 Rust 的高性能存档管理工具，专为《幻兽帕鲁》设计。其核心功能包括：\n- **存档管理**：备份、恢复和编辑游戏存档。\n- **帕鲁与玩家迁移**：在不同存档或服务器之间移动帕鲁和玩家数据。\n- **自定义建筑**：允许玩家创建和导入自定义建筑结构。\n- **服务器迁移与管理**：支持将存档迁移到不同服务器，并管理服务器配置。\n- **跨平台转换**：在 Steam 和 Xbox Game Pass 版本之间无缝转换存档格式。\n该工具适用于从服务器管理员到单人玩家的所有用户群体，提供命令行界面和图形界面两种操作方式。项目在 GitHub 上获得 237 星和 45 个复刻，近期每日新增 9 星，显示出较高的社区关注度。",
+  "tags": [
+    "Palworld",
+    "存档管理",
+    "Rust",
+    "游戏工具",
+    "服务器管理",
+    "跨平台转换"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-20T20:11:44+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "oMaN-Rod",
+    "stars": 237,
+    "forks": 45,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
