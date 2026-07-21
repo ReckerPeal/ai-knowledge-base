@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-f5ba16d734",
+  "title": "zhinianboke/xianyu-auto-reply",
+  "source": "github_trending",
+  "source_url": "https://github.com/zhinianboke/xianyu-auto-reply",
+  "summary": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。",
+  "content": "该项目是一个开源的闲鱼自动化工具，使用 Python 和 FastAPI 框架构建。其核心功能包括：通过 WebSocket 实时连接闲鱼服务器，实现消息的智能自动回复；集成自动发货、自动评价和自动擦亮等模块，帮助卖家高效管理虚拟商品交易流程。系统设计注重稳定性和易用性，适合个人或小团队使用。",
+  "tags": [
+    "Python",
+    "FastAPI",
+    "闲鱼",
+    "自动化",
+    "客服系统",
+    "WebSocket",
+    "虚拟商品"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "zhinianboke",
+    "stars": 5911,
+    "forks": 1585,
+    "daily_stars": null,
+    "weekly_stars": 205,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

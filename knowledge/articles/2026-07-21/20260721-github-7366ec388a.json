@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-7366ec388a",
+  "title": "rtk-ai/rtk",
+  "source": "github_trending",
+  "source_url": "https://github.com/rtk-ai/rtk",
+  "summary": "rtk-ai/rtk 是一个用 Rust 编写的 CLI 代理工具，能将常见开发命令的 LLM 令牌消耗降低 60-90%，且为单二进制文件、零依赖。",
+  "content": "该项目是一个轻量级命令行代理，旨在优化与大型语言模型（LLM）交互时的令牌使用效率。通过拦截和压缩常见开发命令（如代码补全、调试等）的请求，它可显著减少令牌消耗（60-90%），从而降低 API 成本。项目完全用 Rust 实现，编译为单一可执行文件，无需外部依赖，易于部署和集成到现有工作流中。其在 GitHub 上获得 72215 星和 4491 个 fork，日增 248 星，表明社区高度关注。",
+  "tags": [
+    "Rust",
+    "CLI",
+    "LLM",
+    "令牌优化",
+    "代理",
+    "零依赖"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:26+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rtk-ai",
+    "stars": 72215,
+    "forks": 4491,
+    "daily_stars": 248,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

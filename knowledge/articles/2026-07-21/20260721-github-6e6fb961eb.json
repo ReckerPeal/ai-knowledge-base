@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速且磁盘空间高效的包管理器。",
+  "content": "pnpm 是一个用 Rust 编写的包管理器，以其速度和磁盘空间效率著称。它通过使用硬链接和符号链接来避免重复下载相同的包，从而节省磁盘空间。该项目在 GitHub 上拥有 35835 颗星和 1589 个分支，每周获得 90 颗新星，显示出持续的社区关注。pnpm 支持多种 JavaScript 生态系统，并兼容 npm 和 yarn 的工作流。",
+  "tags": [
+    "pnpm",
+    "包管理器",
+    "Rust",
+    "磁盘空间高效",
+    "JavaScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:35+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 35835,
+    "forks": 1589,
+    "daily_stars": null,
+    "weekly_stars": 90,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-d9997d4bf3",
+  "title": "openshift/hypershift",
+  "source": "github_trending",
+  "source_url": "https://github.com/openshift/hypershift",
+  "summary": "Hypershift 是 OpenShift 的托管控制平面实现，支持大规模集群部署与管理。",
+  "content": "Hypershift 项目由 OpenShift 团队开发，旨在通过托管控制平面（Hosted Control Planes）实现超大规模集群管理。它允许用户将控制平面从工作节点分离，从而降低运维复杂度、提升资源利用率，并支持多租户场景。该项目使用 Go 语言编写，在 GitHub 上获得 532 星和 520 分支，属于 GitHub 热点 Go 语言项目。",
+  "tags": [
+    "OpenShift",
+    "托管控制平面",
+    "集群管理",
+    "Go",
+    "Kubernetes"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openshift",
+    "stars": 532,
+    "forks": 520,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

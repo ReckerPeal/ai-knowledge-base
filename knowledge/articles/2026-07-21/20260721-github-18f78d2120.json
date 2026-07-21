@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-18f78d2120",
+  "title": "syncthing/syncthing",
+  "source": "github_trending",
+  "source_url": "https://github.com/syncthing/syncthing",
+  "summary": "Syncthing 是一个开源的文件同步工具，专注于持续、安全地同步多台设备间的文件。",
+  "content": "Syncthing 是一款开源的、跨平台的持续文件同步软件，旨在替代专有的同步服务（如 Dropbox、Google Drive）。它采用点对点（P2P）架构，无需中央服务器，所有数据在传输过程中均经过加密，确保隐私和安全。用户可以通过 Web 界面或命令行轻松管理同步文件夹和设备。该项目在 GitHub 上拥有超过 86,000 颗星，社区活跃，支持 Windows、macOS、Linux、Android 等主流操作系统。其核心特性包括：实时同步、版本控制、冲突解决、选择性同步、中继服务器支持（用于 NAT 穿透）等。Syncthing 特别适合注重数据隐私、需要跨设备无缝同步的个人或团队使用。",
+  "tags": [
+    "文件同步",
+    "开源",
+    "点对点",
+    "隐私保护",
+    "跨平台",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:37+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "syncthing",
+    "stars": 86713,
+    "forks": 5371,
+    "daily_stars": null,
+    "weekly_stars": 376,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

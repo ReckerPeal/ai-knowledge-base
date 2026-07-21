@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-5fa543d4f5",
+  "title": "grafana/alloy",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/alloy",
+  "summary": "Grafana Alloy 是一个基于 OpenTelemetry Collector 的可编程流水线发行版，用于灵活的数据采集和处理。",
+  "content": "该项目由 Grafana 团队开发，是一个高度可配置的 OpenTelemetry Collector 发行版，支持通过可编程流水线实现数据采集、转换和路由。它旨在简化可观测性数据的收集流程，并与 Grafana 生态深度集成。当前在 GitHub 上获得 3351 颗星和 653 个分支，日增星约 5 颗，显示出稳定的社区关注度。",
+  "tags": [
+    "OpenTelemetry",
+    "可观测性",
+    "数据流水线",
+    "Grafana",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-21T19:43:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3351,
+    "forks": 653,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
