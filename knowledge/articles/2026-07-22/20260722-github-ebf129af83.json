@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-ebf129af83",
+  "title": "jhaals/yopass",
+  "source": "github_trending",
+  "source_url": "https://github.com/jhaals/yopass",
+  "summary": "Yopass 是一个用于安全分享机密、密码和文件的开源工具，基于 Go 语言开发，支持端到端加密和自动过期功能。",
+  "content": "Yopass 是一个轻量级的秘密分享服务，允许用户通过加密链接安全地分享敏感信息（如密码、密钥或文件）。其核心特性包括：\n- 端到端加密：所有数据在客户端使用 AES-256 加密，服务器无法读取明文。\n- 自动过期：可设置分享内容的访问次数或时间限制，过期后自动销毁。\n- 文件支持：支持上传和分享文件，大小受服务器配置限制。\n- 部署灵活：提供 Docker 镜像、CLI 工具和 Web 界面，支持自托管或使用公共实例。\n- 隐私保护：不存储用户数据，仅保留加密后的密文，且无日志记录。\n该项目在 GitHub 上获得 2985 星和 431 个分支，近期日增 53 星，属于 Go 语言领域的活跃项目。",
+  "tags": [
+    "安全",
+    "密码管理",
+    "文件分享",
+    "加密",
+    "Go",
+    "开源工具",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "jhaals",
+    "stars": 2985,
+    "forks": 431,
+    "daily_stars": 53,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

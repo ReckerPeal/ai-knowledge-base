@@ -1,0 +1,31 @@
+{
+  "id": "20260722-github-9b1b32d8f8",
+  "title": "rivet-dev/agentos",
+  "source": "github_trending",
+  "source_url": "https://github.com/rivet-dev/agentos",
+  "summary": "AgentOS 是一个基于 Rust 的高性能沙箱替代方案，能在隔离的 Linux VM 中运行任意编码代理，并内置代理编排功能。",
+  "content": "AgentOS 由 rivet-dev 开发，旨在提供比传统沙箱更快、更轻量、更便宜的运行环境。它支持在隔离的 Linux 虚拟机中执行任意编码代理，并集成了代理编排能力，适合需要安全、高效运行 AI 代理的场景。项目使用 Rust 语言实现，近期在 GitHub 上获得 3986 颗星和 198 个 fork，周增长 341 星，属于 Rust 语言的热门项目。",
+  "tags": [
+    "沙箱",
+    "代理编排",
+    "Linux VM",
+    "Rust",
+    "AI 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rivet-dev",
+    "stars": 3986,
+    "forks": 198,
+    "daily_stars": null,
+    "weekly_stars": 341,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

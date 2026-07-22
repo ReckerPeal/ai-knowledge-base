@@ -1,0 +1,31 @@
+{
+  "id": "20260722-github-de7af40a60",
+  "title": "ogulcancelik/herdr",
+  "source": "github_trending",
+  "source_url": "https://github.com/ogulcancelik/herdr",
+  "summary": "Herdr 是一个运行在终端中的智能体多路复用器，旨在提升开发者在命令行环境下的交互效率。",
+  "content": "Herdr 是一个用 Rust 编写的终端工具，作为智能体（agent）多路复用器，它允许用户在终端中同时管理和交互多个 AI 智能体。该项目在 GitHub 上获得了超过 1.9 万颗星，近期周增长近 2800 星，显示出社区的高度关注。其核心功能包括：在终端内并行运行多个 AI 会话、支持不同模型和配置的智能体、以及提供统一的命令行接口来切换和监控智能体状态。Herdr 的设计理念是简化 AI 工作流，让开发者无需离开终端即可利用多个 AI 助手完成编码、调试、文档生成等任务。该项目使用 Rust 语言开发，保证了高性能和低资源占用，适合集成到日常开发环境中。",
+  "tags": [
+    "终端工具",
+    "AI 多路复用器",
+    "Rust",
+    "智能体管理",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ogulcancelik",
+    "stars": 19331,
+    "forks": 1264,
+    "daily_stars": null,
+    "weekly_stars": 2799,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

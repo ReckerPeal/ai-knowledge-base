@@ -1,0 +1,31 @@
+{
+  "id": "20260722-github-5fa543d4f5",
+  "title": "grafana/alloy",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/alloy",
+  "summary": "Grafana Alloy 是一个基于 OpenTelemetry Collector 的可编程管道发行版，用于灵活的数据采集、处理和路由。",
+  "content": "Grafana Alloy 是 Grafana 团队开发的一个开源项目，它扩展了 OpenTelemetry Collector 的功能，提供了可编程的管道架构。用户可以通过配置文件定义数据流，支持多种数据源（如 Prometheus、Jaeger、Loki 等）的采集、转换和导出。该项目旨在简化可观测性数据的集成与管理，适用于云原生环境下的监控、日志和追踪场景。",
+  "tags": [
+    "OpenTelemetry",
+    "可观测性",
+    "数据管道",
+    "Grafana",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3355,
+    "forks": 655,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

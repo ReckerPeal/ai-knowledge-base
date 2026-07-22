@@ -1,0 +1,34 @@
+{
+  "id": "20260722-github-dccd083e09",
+  "title": "atuinsh/atuin",
+  "source": "github_trending",
+  "source_url": "https://github.com/atuinsh/atuin",
+  "summary": "Atuin 是一个用 Rust 编写的 shell 历史记录工具，旨在通过替换现有的 shell 历史记录系统，提供更强大、更智能的命令行体验。它支持跨设备同步、加密存储、模糊搜索和上下文感知功能，让 shell 操作更加高效和“神奇”。",
+  "content": "Atuin 是一个开源项目，专注于增强 shell 的历史记录功能。它使用 Rust 语言开发，具有高性能和内存安全特性。核心功能包括：1）替换默认的 shell 历史记录（如 bash、zsh、fish 等），提供更快的搜索和过滤能力；2）支持通过加密方式将历史记录同步到多台设备，确保隐私；3）提供模糊搜索、按目录、时间或退出码过滤等高级查询；4）支持上下文感知，例如自动记录命令的工作目录和运行时间。该项目在 GitHub 上获得 30700 颗星和 900 个 fork，近期周增长 149 星，表明其受到开发者社区的广泛关注。适合需要跨设备管理命令行历史记录、提升工作效率的开发者。",
+  "tags": [
+    "shell",
+    "Rust",
+    "历史记录",
+    "命令行工具",
+    "同步",
+    "加密",
+    "模糊搜索",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "atuinsh",
+    "stars": 30700,
+    "forks": 900,
+    "daily_stars": null,
+    "weekly_stars": 149,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

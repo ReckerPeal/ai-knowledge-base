@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-3909392094",
+  "title": "lima-vm/lima",
+  "source": "github_trending",
+  "source_url": "https://github.com/lima-vm/lima",
+  "summary": "Lima 是一个专注于运行容器的 Linux 虚拟机管理工具。",
+  "content": "Lima（Linux 虚拟机）是一个开源项目，旨在提供轻量级的 Linux 虚拟机环境，特别优化用于容器运行。它支持 macOS 和 Linux 主机，通过 QEMU 或 VZ 虚拟化技术启动虚拟机，并自动集成 containerd 或 Docker 等容器运行时。Lima 的设计强调简单性和性能，使得开发者可以在非 Linux 系统上无缝运行 Linux 容器，同时保持接近原生体验。该项目在 GitHub 上拥有超过 21,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "Linux 虚拟机",
+    "容器",
+    "QEMU",
+    "containerd",
+    "Docker",
+    "macOS",
+    "虚拟化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:11+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "lima-vm",
+    "stars": 21546,
+    "forks": 930,
+    "daily_stars": null,
+    "weekly_stars": 92,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

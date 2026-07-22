@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-ec8f732c32",
+  "title": "open-telemetry/opentelemetry-collector",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-telemetry/opentelemetry-collector",
+  "summary": "OpenTelemetry Collector 是一个供应商无关的、可扩展的数据收集器，用于接收、处理和导出遥测数据（如指标、日志和追踪）。它支持多种数据格式和协议，是 OpenTelemetry 生态系统的核心组件之一。",
+  "content": "OpenTelemetry Collector 是 OpenTelemetry 项目的一部分，旨在提供一种灵活且高效的方式来收集和处理遥测数据。它采用模块化架构，支持通过接收器（Receiver）、处理器（Processor）和导出器（Exporter）来定制数据管道。该工具可以部署为代理（Agent）或网关（Gateway），适用于云原生环境，特别是 Kubernetes 和微服务架构。其关键特性包括：1）供应商无关性，支持多种后端（如 Prometheus、Jaeger、Zipkin 等）；2）高性能，基于 Go 语言实现，具有低资源消耗；3）可扩展性，通过自定义组件和配置实现灵活的数据处理；4）社区活跃，拥有广泛的贡献者和企业支持。当前仓库在 GitHub 上拥有 7289 颗星和 2162 个分支，每日新增约 7 颗星，表明其持续受到关注。",
+  "tags": [
+    "OpenTelemetry",
+    "遥测数据收集",
+    "可观测性",
+    "Go",
+    "云原生",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "open-telemetry",
+    "stars": 7289,
+    "forks": 2162,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

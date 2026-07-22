@@ -1,0 +1,34 @@
+{
+  "id": "20260722-github-ad18a56bee",
+  "title": "tirth8205/code-review-graph",
+  "source": "github_trending",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "summary": "tirth8205/code-review-graph 是一个本地优先的代码智能图工具，专为 MCP 和 CLI 设计。它构建代码库的持久映射，使 AI 编码工具仅读取关键部分，在代码审查和大型仓库工作流中实现了基准化的上下文缩减。",
+  "content": "该项目通过构建代码库的持久化图结构，优化 AI 工具在代码审查和大型仓库工作流中的上下文使用。其核心功能包括：本地优先架构确保数据安全；与 MCP（模型上下文协议）和 CLI 集成；通过智能图映射减少不必要的数据读取，提升效率。该工具特别适合需要高效代码审查和大型仓库管理的开发场景。",
+  "tags": [
+    "代码智能图",
+    "MCP",
+    "CLI",
+    "代码审查",
+    "大型仓库",
+    "本地优先",
+    "AI 工具",
+    "上下文缩减"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:43:54+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "tirth8205",
+    "stars": 25048,
+    "forks": 2374,
+    "daily_stars": 1925,
+    "weekly_stars": 4791,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

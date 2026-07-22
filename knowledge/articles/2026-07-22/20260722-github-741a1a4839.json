@@ -1,0 +1,31 @@
+{
+  "id": "20260722-github-741a1a4839",
+  "title": "golangci/golangci-lint",
+  "source": "github_trending",
+  "source_url": "https://github.com/golangci/golangci-lint",
+  "summary": "golangci-lint 是一个用于 Go 语言的快速 linter 运行器，集成多种静态分析工具，提升代码质量检查效率。",
+  "content": "golangci-lint 是 Go 社区广泛使用的代码质量工具，它通过并行运行多个 linter（如 vet、staticcheck、gosec 等）并提供统一的输出和配置，显著缩短了代码检查时间。该项目在 GitHub 上拥有超过 1.9 万星标，活跃维护，支持自定义规则、缓存加速和 CI/CD 集成，适用于个人开发者和团队协作场景。",
+  "tags": [
+    "Go",
+    "linter",
+    "代码质量",
+    "静态分析",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:01+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "golangci",
+    "stars": 19198,
+    "forks": 1593,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

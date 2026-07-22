@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-046c7d181a",
+  "title": "microsoft/SkillOpt",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/SkillOpt",
+  "summary": "SkillOpt 是一个文本空间优化器，通过轨迹驱动的编辑、验证门控更新和可部署的 best_skill.md 工件，为冻结的大语言模型代理训练可重用的自然语言技能。",
+  "content": "SkillOpt 由微软开发，旨在提升大语言模型（LLM）代理的性能。其核心创新在于通过文本空间优化，使 LLM 代理能够学习并复用自然语言技能，而无需修改模型参数。项目采用轨迹驱动编辑（trajectory-driven edits）来生成技能，并通过验证门控更新（validation-gated updates）确保技能质量，最终输出可部署的 best_skill.md 文件作为技能工件。该工具特别适用于需要持续学习和适应新任务的 LLM 应用场景，如对话系统、任务自动化等。",
+  "tags": [
+    "大语言模型",
+    "技能优化",
+    "文本空间优化",
+    "微软",
+    "LLM代理",
+    "自然语言技能",
+    "轨迹驱动"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:43:54+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 14275,
+    "forks": 1316,
+    "daily_stars": 616,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

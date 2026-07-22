@@ -1,0 +1,31 @@
+{
+  "id": "20260722-github-b8c7fd931d",
+  "title": "malisper/pgrust",
+  "source": "github_trending",
+  "source_url": "https://github.com/malisper/pgrust",
+  "summary": "malisper/pgrust 是一个用 Rust 重写 PostgreSQL 的开源项目，目前已通过 100% 的 PostgreSQL 回归测试。",
+  "content": "该项目由 malisper 开发，旨在使用 Rust 语言重新实现 PostgreSQL 数据库。当前版本已成功通过所有 PostgreSQL 回归测试，表明其核心功能与原始 PostgreSQL 高度兼容。项目在 GitHub 上获得了 3693 颗星和 132 个 fork，近期周增星数达 775，显示出社区的高度关注。Rust 的内存安全特性和高性能使其成为重写数据库的理想选择，该项目可能为 PostgreSQL 带来更好的安全性和性能优化。",
+  "tags": [
+    "PostgreSQL",
+    "Rust",
+    "数据库重写",
+    "回归测试",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "malisper",
+    "stars": 3693,
+    "forks": 132,
+    "daily_stars": null,
+    "weekly_stars": 775,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

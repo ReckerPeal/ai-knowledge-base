@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-3f7f2e4444",
+  "title": "Dicklesworthstone/destructive_command_guard",
+  "source": "github_trending",
+  "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "summary": "Destructive Command Guard (dcg) 是一个用 Rust 编写的工具，用于阻止代理执行危险的 git 和 shell 命令。",
+  "content": "该仓库名为 destructive_command_guard，由 Dicklesworthstone 开发，主要功能是作为安全屏障，防止 AI 代理或自动化脚本意外执行具有破坏性的 git 和 shell 命令。项目使用 Rust 语言实现，旨在提升开发环境的安全性，尤其适用于需要严格控制命令执行权限的场景。",
+  "tags": [
+    "Rust",
+    "安全",
+    "命令保护",
+    "Git",
+    "Shell",
+    "代理安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-22T19:44:09+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Dicklesworthstone",
+    "stars": 5312,
+    "forks": 197,
+    "daily_stars": null,
+    "weekly_stars": 1167,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

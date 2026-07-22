@@ -1,0 +1,29 @@
+{
+  "id": "20260722-github-63df295225",
+  "title": "OCaml Infrastructure: How the opam-repository Works",
+  "source": "rss",
+  "source_url": "https://ocaml.org/backstage/2025-11-05-how-the-opam-repository-works",
+  "summary": "opam 包仓库是一个公共资源库而非发布平台，需要人工审核，并非所有提交的包都会被接受；同时它是社区共同维护的，任何人都可以对任何包提出修改建议。",
+  "content": "本文深入介绍了 OCaml 生态中 opam 包仓库的工作机制。与常见的自动化包发布平台不同，opam-repository 更像一个由社区共同维护的公共资源库（commons）。所有包提交都需要经过人工审核，确保质量与兼容性。社区成员可以自由地提出修改建议，通过合并请求（pull request）的方式协作维护。这种模式强调了社区治理和集体责任，而非单纯的发布管道。文章可能还讨论了包审核流程、版本管理、依赖解析以及如何保证仓库的长期稳定性。",
+  "tags": [
+    "OCaml",
+    "opam",
+    "包管理",
+    "社区维护",
+    "开源基础设施"
+  ],
+  "status": "draft",
+  "published_at": "2026-05-21T17:46:37-05:00",
+  "collected_at": "2026-07-22T19:44:11+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
