@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-eed16821fc",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "summary": "NVIDIA 在 Hugging Face 博客上发布的《物理 AI 模拟现状：概述》一文，全面探讨了物理 AI 领域模拟技术的最新进展、挑战与未来方向。文章强调了模拟在训练和验证物理 AI 系统（如机器人、自动驾驶）中的关键作用，并介绍了 NVIDIA 在仿真平台、数字孪生和合成数据生成方面的创新。",
+  "content": "该文章由 NVIDIA 发布，旨在为物理 AI 社区提供模拟技术的现状概览。内容涵盖：1）物理 AI 模拟的核心需求，包括高保真物理引擎、实时渲染和传感器仿真；2）当前主流模拟工具（如 Isaac Sim、MuJoCo、PyBullet）的对比；3）合成数据在减少真实数据采集成本中的重要性；4）数字孪生技术在工业场景中的应用案例；5）未来挑战，如模拟到现实（Sim-to-Real）的迁移、计算效率与可扩展性。文章强调，模拟将成为物理 AI 发展的关键基础设施。",
+  "tags": [
+    "物理AI",
+    "模拟",
+    "NVIDIA",
+    "数字孪生",
+    "合成数据",
+    "机器人",
+    "自动驾驶",
+    "Sim-to-Real"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-21T20:00:27+00:00",
+  "collected_at": "2026-07-23T19:47:22+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

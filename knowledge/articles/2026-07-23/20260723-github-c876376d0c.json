@@ -1,0 +1,31 @@
+{
+  "id": "20260723-github-c876376d0c",
+  "title": "k3s-io/k3s",
+  "source": "github_trending",
+  "source_url": "https://github.com/k3s-io/k3s",
+  "summary": "轻量级 Kubernetes 发行版 k3s",
+  "content": "k3s 是一个轻量级的 Kubernetes 发行版，专为资源受限的环境设计，如边缘计算、物联网和开发测试场景。它通过简化安装流程、减少依赖和降低内存占用，使得 Kubernetes 能够在小型设备上运行。该项目由 Rancher Labs（现为 SUSE 的一部分）维护，具有高活跃度和社区支持。",
+  "tags": [
+    "Kubernetes",
+    "轻量级",
+    "边缘计算",
+    "Go",
+    "容器编排"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-23T19:47:22+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "k3s-io",
+    "stars": 33548,
+    "forks": 2690,
+    "daily_stars": null,
+    "weekly_stars": 70,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

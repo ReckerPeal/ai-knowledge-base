@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-a3bee1afb7",
+  "title": "m1k1o/neko",
+  "source": "github_trending",
+  "source_url": "https://github.com/m1k1o/neko",
+  "summary": "m1k1o/neko 是一个自托管的虚拟浏览器项目，基于 Docker 运行，利用 WebRTC 实现实时交互。",
+  "content": "该项目允许用户在 Docker 容器中运行一个完整的虚拟浏览器，并通过 WebRTC 技术实现低延迟的远程访问和协作。它适用于需要共享浏览器环境或进行远程演示的场景，支持多人同时操作。项目使用 Go 语言开发，在 GitHub 上获得了超过 2.1 万星标，近期周增星标 324 个，社区活跃度较高。",
+  "tags": [
+    "虚拟浏览器",
+    "WebRTC",
+    "Docker",
+    "自托管",
+    "远程协作",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-23T19:47:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "m1k1o",
+    "stars": 21706,
+    "forks": 1545,
+    "daily_stars": null,
+    "weekly_stars": 324,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

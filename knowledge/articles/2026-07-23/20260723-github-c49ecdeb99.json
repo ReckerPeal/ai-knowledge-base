@@ -1,0 +1,31 @@
+{
+  "id": "20260723-github-c49ecdeb99",
+  "title": "ethereum-optimism/optimism",
+  "source": "github_trending",
+  "source_url": "https://github.com/ethereum-optimism/optimism",
+  "summary": "Optimism 是以太坊的扩展方案，旨在提升交易吞吐量并降低费用。",
+  "content": "Optimism 是一个基于以太坊的 Layer 2 扩展解决方案，采用 Optimistic Rollup 技术，通过将交易数据批量提交到主网并假设其有效，从而显著提高网络的可扩展性。该项目由 ethereum-optimism 组织维护，在 GitHub 上拥有 6454 颗星和 4000 个分支，主要使用 Go 语言开发。其核心目标是实现以太坊的规模化，同时保持与以太坊虚拟机（EVM）的兼容性，使开发者能够无缝迁移现有应用。",
+  "tags": [
+    "以太坊",
+    "Layer 2",
+    "Optimistic Rollup",
+    "扩展性",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-23T19:47:12+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ethereum-optimism",
+    "stars": 6454,
+    "forks": 4000,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
