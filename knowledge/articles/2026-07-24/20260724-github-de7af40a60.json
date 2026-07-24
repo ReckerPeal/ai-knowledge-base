@@ -1,0 +1,32 @@
+{
+  "id": "20260724-github-de7af40a60",
+  "title": "ogulcancelik/herdr",
+  "source": "github_trending",
+  "source_url": "https://github.com/ogulcancelik/herdr",
+  "summary": "一个驻留在终端中的智能体多路复用器，基于 Rust 开发，支持高效的多智能体交互与任务调度。",
+  "content": "该项目实现了一个运行在终端环境中的智能体多路复用器（agent multiplexer），允许用户在同一终端会话中同时管理、调度和交互多个 AI 智能体。它利用 Rust 的高性能特性，提供低延迟的并发处理能力，适用于需要并行调用多个 AI 模型或工具的复杂工作流。核心功能包括智能体注册、消息路由、上下文共享以及结果聚合。",
+  "tags": [
+    "agent multiplexer",
+    "terminal",
+    "Rust",
+    "AI agent",
+    "multiplexer",
+    "task scheduling"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:53+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ogulcancelik",
+    "stars": 20229,
+    "forks": 1324,
+    "daily_stars": null,
+    "weekly_stars": 2865,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

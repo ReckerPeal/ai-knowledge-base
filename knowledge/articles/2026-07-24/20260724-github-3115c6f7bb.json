@@ -1,0 +1,32 @@
+{
+  "id": "20260724-github-3115c6f7bb",
+  "title": "vllm-project/semantic-router",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/semantic-router",
+  "summary": "vllm-project/semantic-router 是一个智能混合模型路由器，用于高效异构 LLM 推理。",
+  "content": "该项目实现了一种基于语义的路由机制，能够根据输入查询的语义内容，智能地将请求分发到不同的 LLM 模型（如不同规模或专长的模型）上，从而在保证推理质量的同时优化资源利用和推理效率。它支持动态路由策略，适用于需要平衡成本、速度和准确性的异构 LLM 部署场景。",
+  "tags": [
+    "LLM",
+    "推理优化",
+    "模型路由",
+    "语义路由",
+    "异构计算",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 5040,
+    "forks": 775,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

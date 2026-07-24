@@ -1,0 +1,31 @@
+{
+  "id": "20260724-github-55ff6375d4",
+  "title": "flashinfer-ai/flashinfer",
+  "source": "github_trending",
+  "source_url": "https://github.com/flashinfer-ai/flashinfer",
+  "summary": "FlashInfer 是一个专为大语言模型（LLM）推理服务优化的高性能内核库，旨在提升 LLM 在 GPU 上的运行效率。",
+  "content": "FlashInfer 是一个面向 LLM 服务场景的 GPU 内核库，专注于优化注意力机制、前馈网络等关键计算模块。它通过高效的 CUDA 内核实现，显著降低推理延迟并提高吞吐量。该库支持多种 LLM 架构，并提供灵活的 API 接口，便于集成到现有推理框架中。项目在 GitHub 上获得 6016 颗星和 1193 个 fork，显示出社区的高度关注。",
+  "tags": [
+    "LLM",
+    "推理优化",
+    "GPU 内核",
+    "CUDA",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:39+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "flashinfer-ai",
+    "stars": 6016,
+    "forks": 1193,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

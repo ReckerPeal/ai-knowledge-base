@@ -1,0 +1,33 @@
+{
+  "id": "20260724-github-7cc42753ef",
+  "title": "Canner/WrenAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Canner/WrenAI",
+  "summary": "WrenAI 是一个开源的生成式商业智能（GenBI）引擎，专为 AI 代理设计，通过开放的上下文层实现受控的文本到 SQL 转换，支持将自然语言问题转化为可信的仪表盘、图表和 SQL 查询，覆盖 BigQuery、Snowflake、PostgreSQL 等 20 多种数据源。",
+  "content": "WrenAI 是一个基于 Python 的开源项目，由 Canner 团队开发，在 GitHub 上拥有 16609 颗星和 1871 个分支，近期周增星 786 颗，热度较高。其核心功能是作为生成式 BI 工具，为 AI 代理提供受治理的文本到 SQL 能力。通过一个开放的上下文层，WrenAI 能够理解自然语言问题，并将其转换为可执行的 SQL 查询，进而生成仪表盘和图表。它支持超过 20 种数据源，包括 BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks 等主流数据库和数据仓库，适用于需要快速从数据中获取洞察的企业场景。该项目强调开放性和治理性，旨在降低数据分析门槛，同时确保数据访问的安全性和可控性。",
+  "tags": [
+    "生成式BI",
+    "文本到SQL",
+    "开源",
+    "AI代理",
+    "数据可视化",
+    "Python",
+    "多数据源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:48+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Canner",
+    "stars": 16609,
+    "forks": 1871,
+    "daily_stars": null,
+    "weekly_stars": 786,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

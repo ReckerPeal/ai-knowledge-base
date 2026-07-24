@@ -1,0 +1,34 @@
+{
+  "id": "20260724-github-42ab154c44",
+  "title": "kata-containers/kata-containers",
+  "source": "github_trending",
+  "source_url": "https://github.com/kata-containers/kata-containers",
+  "summary": "Kata Containers 是一个开源项目，旨在构建轻量级虚拟机的标准实现，这些虚拟机在性能和体验上类似于容器，但提供了虚拟机级别的工作负载隔离和安全优势。",
+  "content": "Kata Containers 是一个开源项目，专注于构建轻量级虚拟机的标准实现。其核心目标是结合容器的快速启动、易用性和资源效率，与虚拟机提供的强隔离和安全性。通过使用轻量级虚拟机（如基于 QEMU 或 Firecracker 的微虚拟机），Kata Containers 能够在每个容器或 Pod 中运行一个独立的虚拟机实例，从而提供硬件级别的隔离。该项目支持多种容器运行时（如 containerd、CRI-O），并兼容 Kubernetes 等编排平台。Kata Containers 使用 Rust 语言开发，注重性能和安全性，适用于多租户环境、边缘计算和需要高安全隔离的场景。",
+  "tags": [
+    "Kata Containers",
+    "轻量级虚拟机",
+    "容器安全",
+    "Rust",
+    "开源",
+    "虚拟化",
+    "Kubernetes",
+    "工作负载隔离"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:43+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "kata-containers",
+    "stars": 8373,
+    "forks": 1404,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

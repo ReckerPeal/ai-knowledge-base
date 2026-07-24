@@ -1,0 +1,33 @@
+{
+  "id": "20260724-github-9b1b32d8f8",
+  "title": "rivet-dev/agentos",
+  "source": "github_trending",
+  "source_url": "https://github.com/rivet-dev/agentos",
+  "summary": "AgentOS 是一个将操作系统以库形式提供给 AI 代理的开源项目，基于 WebAssembly 和 V8 隔离技术，无需沙箱、虚拟机或 SaaS，可直接在现有后端运行。",
+  "content": "AgentOS 由 rivet-dev 开发，旨在为 AI 代理提供轻量级、安全的运行环境。它利用 WebAssembly 和 V8 引擎的隔离能力，使代理能够安全执行代码，同时避免传统沙箱或虚拟机的性能开销。该项目用 Rust 编写，适合集成到现有后端服务中，支持高并发和低延迟场景。当前在 GitHub 上获得 4096 星和 201 个 fork，周增 389 星，显示出社区高度关注。",
+  "tags": [
+    "AI Agent",
+    "WebAssembly",
+    "V8",
+    "Rust",
+    "操作系统",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-24T19:37:53+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rivet-dev",
+    "stars": 4096,
+    "forks": 201,
+    "daily_stars": null,
+    "weekly_stars": 389,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
