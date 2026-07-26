@@ -1,0 +1,33 @@
+{
+  "id": "20260726-github-8e8381b2e1",
+  "title": "swc-project/swc",
+  "source": "github_trending",
+  "source_url": "https://github.com/swc-project/swc",
+  "summary": "swc 是一个基于 Rust 的 Web 平台，提供高性能的 JavaScript/TypeScript 编译和打包能力。",
+  "content": "swc（Speedy Web Compiler）是一个用 Rust 编写的超快速 JavaScript/TypeScript 编译器，旨在替代 Babel 等传统工具。它支持 ES6+ 语法转换、JSX、TypeScript 类型擦除、代码压缩等功能，并内置了打包器（bundler）。由于 Rust 的高性能特性，swc 在编译速度上比基于 Node.js 的工具快 10-20 倍。该项目在 GitHub 上拥有 34,145 颗星和 1,529 个 fork，每日新增星数约 6 颗，属于 Rust 语言的热门项目。",
+  "tags": [
+    "Rust",
+    "Web 编译器",
+    "JavaScript",
+    "TypeScript",
+    "高性能",
+    "打包工具",
+    "swc"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:14+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "swc-project",
+    "stars": 34145,
+    "forks": 1529,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

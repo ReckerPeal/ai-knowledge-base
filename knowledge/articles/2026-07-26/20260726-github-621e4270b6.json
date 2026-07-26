@@ -1,0 +1,33 @@
+{
+  "id": "20260726-github-621e4270b6",
+  "title": "netdata/netdata",
+  "source": "github_trending",
+  "source_url": "https://github.com/netdata/netdata",
+  "summary": "Netdata 是一个开源的全栈可观测性平台，专为 AI 驱动的高效监控而设计，即使对于精简团队也能快速部署。",
+  "content": "Netdata 是一个高性能、实时、AI 驱动的全栈可观测性平台，旨在帮助团队（包括资源有限的精简团队）快速获得系统、应用和基础设施的深度洞察。它通过零配置的自动发现和丰富的预构建仪表板，提供从操作系统、容器、数据库到 Web 服务器等数百种组件的实时指标。其核心优势在于内置的 AI 异常检测和预测能力，能够自动识别性能瓶颈和潜在故障，无需手动设置告警阈值。该项目在 GitHub 上拥有近 8 万星标，社区活跃，支持 Docker、Kubernetes、Linux 等多种部署方式，并可通过插件扩展监控范围。",
+  "tags": [
+    "可观测性",
+    "监控",
+    "AI",
+    "实时",
+    "开源",
+    "DevOps",
+    "性能分析"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:26+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "netdata",
+    "stars": 79853,
+    "forks": 6544,
+    "daily_stars": null,
+    "weekly_stars": 190,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

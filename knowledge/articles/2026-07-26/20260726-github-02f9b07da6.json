@@ -1,0 +1,31 @@
+{
+  "id": "20260726-github-02f9b07da6",
+  "title": "fish-shell/fish-shell",
+  "source": "github_trending",
+  "source_url": "https://github.com/fish-shell/fish-shell",
+  "summary": "fish-shell 是一个用户友好的命令行 shell，旨在提供更直观、易用的交互体验。",
+  "content": "fish-shell（友好交互式 shell）是一个专注于用户体验的命令行解释器。它采用 Rust 语言开发，拥有 33,919 颗星和 2,332 个分支，在 GitHub 上持续活跃。其核心特性包括语法高亮、自动建议、智能补全和基于 Web 的配置界面，这些设计显著降低了命令行使用门槛。与 Bash 或 Zsh 不同，fish 默认无需复杂配置即可提供开箱即用的功能，例如通过历史记录和命令预测自动补全。此外，fish 支持强大的脚本语言，但语法更简洁，避免了许多传统 shell 中的陷阱。该项目在 Rust 生态中备受关注，每日新增约 8 颗星，体现了社区对其稳定性和创新性的认可。",
+  "tags": [
+    "shell",
+    "命令行",
+    "Rust",
+    "用户体验",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "fish-shell",
+    "stars": 33919,
+    "forks": 2332,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

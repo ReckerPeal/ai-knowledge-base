@@ -1,0 +1,33 @@
+{
+  "id": "20260726-github-25f6bbd2d8",
+  "title": "quic-go/quic-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/quic-go/quic-go",
+  "summary": "quic-go/quic-go 是一个用纯 Go 语言实现的、可用于生产环境的 QUIC 协议库。",
+  "content": "quic-go/quic-go 是一个基于 Go 语言开发的 QUIC 协议实现，旨在提供高性能、可靠且易于集成的网络传输能力。该库完全使用 Go 编写，无需外部依赖，支持 QUIC 协议的最新标准，适用于需要低延迟、多路复用和安全传输的场景，如 HTTP/3、实时通信和微服务架构。项目在 GitHub 上拥有超过 11,000 颗星，社区活跃，持续维护更新。",
+  "tags": [
+    "QUIC",
+    "Go",
+    "网络协议",
+    "传输层",
+    "HTTP/3",
+    "开源库",
+    "生产环境"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:17+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "quic-go",
+    "stars": 11722,
+    "forks": 1602,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

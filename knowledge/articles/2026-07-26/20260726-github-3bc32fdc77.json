@@ -1,0 +1,32 @@
+{
+  "id": "20260726-github-3bc32fdc77",
+  "title": "google/langextract",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/langextract",
+  "summary": "LangExtract 是一个 Python 库，利用大语言模型从非结构化文本中提取结构化信息，具备精确的源引用和交互式可视化功能。",
+  "content": "LangExtract 由 Google 开发，旨在解决从非结构化文本中提取结构化数据的难题。它通过大语言模型实现信息抽取，并确保每个提取结果都能追溯到原始文本中的具体位置（源引用），从而提升可信度。此外，该库提供交互式可视化工具，帮助用户直观理解提取过程和结果。项目在 GitHub 上获得 37851 颗星和 2625 个分支，属于 Python 语言的热门项目。",
+  "tags": [
+    "Python",
+    "大语言模型",
+    "信息提取",
+    "结构化数据",
+    "可视化",
+    "Google"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 37851,
+    "forks": 2625,
+    "daily_stars": null,
+    "weekly_stars": 675,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

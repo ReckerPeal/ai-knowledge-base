@@ -1,0 +1,31 @@
+{
+  "id": "20260726-github-3e5eebb5ca",
+  "title": "huggingface/speech-to-speech",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/speech-to-speech",
+  "summary": "Hugging Face 推出的开源语音到语音交互框架，支持使用开源模型构建本地语音代理。",
+  "content": "该项目由 Hugging Face 开发，旨在提供一套完整的语音到语音（speech-to-speech）交互解决方案。它允许开发者利用开源模型在本地环境中构建语音代理，无需依赖云端服务。项目基于 Python 实现，集成了语音识别、自然语言处理和语音合成等模块，支持自定义模型和实时交互。该框架降低了语音应用开发门槛，适用于智能助手、语音控制等场景。",
+  "tags": [
+    "语音交互",
+    "开源模型",
+    "Hugging Face",
+    "语音代理",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 6402,
+    "forks": 866,
+    "daily_stars": 73,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

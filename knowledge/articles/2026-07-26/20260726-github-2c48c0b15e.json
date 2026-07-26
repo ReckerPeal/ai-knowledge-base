@@ -1,0 +1,32 @@
+{
+  "id": "20260726-github-2c48c0b15e",
+  "title": "wailsapp/wails",
+  "source": "github_trending",
+  "source_url": "https://github.com/wailsapp/wails",
+  "summary": "Wails 是一个使用 Go 语言构建跨平台桌面应用的框架，允许开发者利用 Go 的强大功能和 Web 前端技术（如 HTML/CSS/JS）创建美观的应用程序。",
+  "content": "Wails 是一个开源项目，旨在让 Go 开发者能够轻松创建跨平台的桌面应用程序。它结合了 Go 的后端能力和 Web 前端技术（如 React、Vue 或 Svelte），通过内置的 WebView 渲染界面，无需嵌入浏览器或使用 Electron 等重型框架。项目支持 Windows、macOS 和 Linux，提供原生菜单、系统托盘、文件对话框等功能，并具有高效的性能和小体积的打包结果。Wails 在 GitHub 上拥有超过 35,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "Go",
+    "桌面应用",
+    "跨平台",
+    "WebView",
+    "GUI框架",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:17+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "wailsapp",
+    "stars": 35478,
+    "forks": 1776,
+    "daily_stars": 105,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

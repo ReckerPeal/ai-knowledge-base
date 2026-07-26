@@ -1,0 +1,31 @@
+{
+  "id": "20260726-github-02a587dfa0",
+  "title": "anchore/syft",
+  "source": "github_trending",
+  "source_url": "https://github.com/anchore/syft",
+  "summary": "Syft 是一个由 Anchore 开发的 CLI 工具和库，用于从容器镜像和文件系统生成软件物料清单（SBOM）。",
+  "content": "Syft 是一个开源工具，专注于从容器镜像和文件系统生成软件物料清单（SBOM）。它支持多种输出格式（如 SPDX、CycloneDX），并能够识别包管理器、操作系统包和语言特定依赖。该项目在 GitHub 上拥有 9297 颗星和 905 个分支，近期周增长 46 颗星，属于 Go 语言类别，在 GitHub 热点中排名靠前。Syft 适用于软件供应链安全、合规性审计和依赖管理场景。",
+  "tags": [
+    "SBOM",
+    "容器安全",
+    "软件供应链",
+    "Go",
+    "CLI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "anchore",
+    "stars": 9297,
+    "forks": 905,
+    "daily_stars": null,
+    "weekly_stars": 46,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

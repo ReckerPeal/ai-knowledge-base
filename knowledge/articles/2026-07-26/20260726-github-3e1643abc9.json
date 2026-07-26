@@ -1,0 +1,34 @@
+{
+  "id": "20260726-github-3e1643abc9",
+  "title": "therealaleph/MasterHttpRelayVPN-RUST",
+  "source": "github_trending",
+  "source_url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+  "summary": "MasterHttpRelayVPN-RUST 是 MasterHttpRelayVPN 的 Rust 移植版，通过 Google Apps Script 中继实现 TLS SNI 隐藏，免费绕过 DPI 检测。提供 CLI 和跨平台桌面 UI，支持 HTTP 和 SOCKS5 代理，无需运行时依赖。",
+  "content": "该项目是 @masterking32 原创的 MasterHttpRelayVPN 的 Rust 语言实现，完全归功于原作者的思想和 Python 实现。核心功能是利用 Google Apps Script 中继，通过隐藏 TLS SNI 来免费绕过深度包检测（DPI）。项目特点包括：命令行界面（CLI）和跨平台桌面用户界面；支持 HTTP 和 SOCKS5 代理协议；无需额外运行时依赖；采用 Rust 语言开发，性能和安全性强。该仓库在 GitHub 上获得 3638 颗星和 549 个分支，日增星约 20 颗，属于 GitHub 热点 Rust 类别。",
+  "tags": [
+    "Rust",
+    "VPN",
+    "DPI bypass",
+    "TLS SNI",
+    "Google Apps Script",
+    "proxy",
+    "CLI",
+    "desktop UI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-26T19:15:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "therealaleph",
+    "stars": 3638,
+    "forks": 549,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
