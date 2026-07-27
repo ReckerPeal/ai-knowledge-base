@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-2fc5883a7d",
+  "title": "nushell/nushell",
+  "source": "github_trending",
+  "source_url": "https://github.com/nushell/nushell",
+  "summary": "Nushell 是一种新型的 Shell，旨在提供更现代、更强大的命令行体验。",
+  "content": "Nushell 是一个用 Rust 编写的现代 Shell，它结合了传统 Shell 的灵活性和现代编程语言的特性。与传统的 Bash 或 Zsh 不同，Nushell 将命令输出视为结构化数据（如表格、列表），支持管道操作、数据过滤、排序和聚合，类似于 SQL 或函数式编程。它提供了丰富的内置命令，如 `ls`、`open`、`where`、`select` 等，并支持插件扩展。Nushell 的设计目标是让命令行操作更直观、更强大，尤其适合处理复杂的数据分析任务。该项目在 GitHub 上拥有超过 40,000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "Shell",
+    "Rust",
+    "命令行工具",
+    "数据管道",
+    "结构化数据"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:23+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "nushell",
+    "stars": 40106,
+    "forks": 2193,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

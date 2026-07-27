@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-9eb0b2fa15",
+  "title": "AlexsJones/llmfit",
+  "source": "github_trending",
+  "source_url": "https://github.com/AlexsJones/llmfit",
+  "summary": "llmfit 是一个 Rust 编写的命令行工具，支持数百种模型和提供商，通过一条命令即可找到适合用户硬件的模型。",
+  "content": "llmfit 是一个基于 Rust 的高效工具，旨在简化大语言模型（LLM）的硬件适配过程。它集成了数百种模型和多个提供商，用户只需执行一条命令，即可自动检测并推荐能够在当前硬件上流畅运行的模型。该项目在 GitHub 上获得了超过 3 万颗星，显示出社区的高度关注。其核心优势在于跨平台兼容性和性能优化，特别适合需要快速评估模型硬件兼容性的开发者和研究者。",
+  "tags": [
+    "Rust",
+    "LLM",
+    "硬件适配",
+    "命令行工具",
+    "模型兼容性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "AlexsJones",
+    "stars": 30759,
+    "forks": 1875,
+    "daily_stars": null,
+    "weekly_stars": 1086,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

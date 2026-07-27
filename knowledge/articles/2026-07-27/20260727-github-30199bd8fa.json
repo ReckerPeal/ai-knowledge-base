@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-30199bd8fa",
+  "title": "schollz/croc",
+  "source": "github_trending",
+  "source_url": "https://github.com/schollz/croc",
+  "summary": "croc 是一个用 Go 语言编写的工具，允许用户轻松且安全地在两台计算机之间传输文件。",
+  "content": "croc 是一个命令行工具，支持端到端加密的文件传输，无需中间服务器。它使用中继服务器来协调连接，但数据本身是加密的。该工具支持跨平台（Windows、macOS、Linux），并且可以传输任意大小的文件。其核心功能包括：简单的命令行接口、自动端口转发、以及基于密码的加密。该项目在 GitHub 上获得了超过 38,000 颗星，表明其广泛的社区认可度。",
+  "tags": [
+    "文件传输",
+    "安全",
+    "Go",
+    "命令行工具",
+    "加密"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:35+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "schollz",
+    "stars": 38784,
+    "forks": 1542,
+    "daily_stars": null,
+    "weekly_stars": 2993,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260727-github-d62a626bb9",
+  "title": "xpzouying/xiaohongshu-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/xpzouying/xiaohongshu-mcp",
+  "summary": "xpzouying/xiaohongshu-mcp 是一个为小红书平台提供 MCP（Model Context Protocol）服务的 Go 语言项目，旨在通过标准化协议连接 AI 模型与小红书内容。",
+  "content": "该项目实现了一个基于 Go 语言的 MCP 服务器，专门用于与小红书（xiaohongshu.com）进行交互。MCP 是一种开放协议，允许 AI 模型（如大型语言模型）通过标准化的接口访问外部工具和数据源。通过此项目，开发者可以构建能够读取小红书笔记、搜索内容或执行其他操作的 AI 应用。项目在 GitHub 上获得了超过 1.4 万星标，显示出社区对将 AI 与社交媒体平台结合的高度兴趣。",
+  "tags": [
+    "MCP",
+    "小红书",
+    "Go",
+    "AI 集成",
+    "社交媒体 API",
+    "协议实现"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "xpzouying",
+    "stars": 14877,
+    "forks": 2196,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

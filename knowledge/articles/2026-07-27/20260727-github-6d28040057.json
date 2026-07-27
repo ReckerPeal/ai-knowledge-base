@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-6d28040057",
+  "title": "black-ant/Ant-Browser",
+  "source": "github_trending",
+  "source_url": "https://github.com/black-ant/Ant-Browser",
+  "summary": "Ant-Browser 是一个基于 Go 语言开发的指纹浏览器项目，旨在提供浏览器指纹伪装和隐私保护功能。",
+  "content": "Ant-Browser 是一个开源的指纹浏览器工具，使用 Go 语言编写。它通过修改浏览器指纹参数（如 User-Agent、Canvas、WebGL 等）来保护用户隐私，防止网站追踪。该项目在 GitHub 上获得 1453 颗星和 233 个分支，近期日增 30 星，属于 GitHub 热点项目。主要功能包括：多指纹配置管理、自动化浏览器控制、反检测支持等。适用于需要多账号管理、隐私浏览或爬虫场景。",
+  "tags": [
+    "指纹浏览器",
+    "隐私保护",
+    "Go",
+    "浏览器自动化",
+    "反检测"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "black-ant",
+    "stars": 1453,
+    "forks": 233,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

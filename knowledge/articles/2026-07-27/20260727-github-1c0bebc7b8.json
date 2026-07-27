@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-1c0bebc7b8",
+  "title": "juanfont/headscale",
+  "source": "github_trending",
+  "source_url": "https://github.com/juanfont/headscale",
+  "summary": "headscale 是一个开源的 Tailscale 控制服务器自托管实现，允许用户完全掌控自己的网络基础设施。",
+  "content": "headscale 是一个用 Go 语言编写的开源项目，旨在提供 Tailscale 控制服务器的自托管替代方案。Tailscale 是一种基于 WireGuard 的零配置 VPN 解决方案，而 headscale 允许用户在自己的服务器上运行控制平面，从而完全掌控用户认证、节点管理和网络策略。该项目支持多用户、多节点管理，并兼容 Tailscale 客户端，适合需要隐私保护或定制化网络管理的开发者和组织。截至收集日期，该项目在 GitHub 上获得 42175 颗星和 2398 个分支，日增星 39 颗，显示出较高的社区关注度。",
+  "tags": [
+    "开源",
+    "VPN",
+    "Tailscale",
+    "自托管",
+    "Go",
+    "网络管理",
+    "WireGuard"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-27T20:52:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "juanfont",
+    "stars": 42175,
+    "forks": 2398,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
