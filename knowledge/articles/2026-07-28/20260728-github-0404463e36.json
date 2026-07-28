@@ -1,0 +1,31 @@
+{
+  "id": "20260728-github-0404463e36",
+  "title": "verus-lang/verus",
+  "source": "github_trending",
+  "source_url": "https://github.com/verus-lang/verus",
+  "summary": "Verus 是一个用于低级系统代码的 Rust 验证工具，旨在通过形式化方法确保 Rust 程序的内存安全和正确性。",
+  "content": "Verus 是一个基于 Rust 的验证框架，专注于低级系统代码的可靠性和安全性。它利用 Rust 的所有权和借用系统，结合形式化验证技术，帮助开发者证明代码在运行时不会出现内存错误、数据竞争或未定义行为。该项目在 GitHub 上拥有 2780 颗星和 195 个分支，近期每日新增约 5 颗星，显示出社区对其在系统编程领域验证能力的关注。Verus 的核心优势在于将验证集成到 Rust 的编译流程中，使得开发者可以在不显著增加开发负担的情况下，获得高可靠性的代码保证。",
+  "tags": [
+    "Rust",
+    "形式化验证",
+    "系统编程",
+    "内存安全",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:31+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "verus-lang",
+    "stars": 2780,
+    "forks": 195,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

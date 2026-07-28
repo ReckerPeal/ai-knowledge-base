@@ -1,0 +1,32 @@
+{
+  "id": "20260728-github-53e3149d2c",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "summary": "Shippy 构建经验：AI 智能体开发的关键教训",
+  "content": "本文总结了 Allen AI 在构建 Shippy 智能体过程中的关键经验教训，涵盖智能体架构设计、任务分解、工具使用、错误处理与迭代优化等方面。Shippy 是一个基于大语言模型的自主智能体，旨在完成复杂多步骤任务。文章重点讨论了如何通过模块化设计、动态规划与反馈循环提升智能体的鲁棒性和效率，并分享了在实际部署中遇到的挑战与解决方案。",
+  "tags": [
+    "AI 智能体",
+    "大语言模型",
+    "智能体架构",
+    "任务分解",
+    "错误处理",
+    "迭代优化",
+    "Allen AI",
+    "Shippy"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-15T17:29:41+00:00",
+  "collected_at": "2026-07-28T19:52:44+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

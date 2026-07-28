@@ -1,0 +1,31 @@
+{
+  "id": "20260728-github-5d95835026",
+  "title": "v2fly/domain-list-community",
+  "source": "github_trending",
+  "source_url": "https://github.com/v2fly/domain-list-community",
+  "summary": "v2fly/domain-list-community 是一个社区管理的域名列表项目，用于生成 V2Ray 所需的 geosite.dat 文件。",
+  "content": "该项目由 v2fly 组织维护，托管在 GitHub 上，旨在提供一个社区驱动的域名列表，用于网络代理工具 V2Ray 的域名路由规则。通过该列表，用户可以生成 geosite.dat 文件，从而实现对特定域名的访问控制。项目使用 Go 语言开发，拥有 9223 个星标和 1396 个分支，每周获得约 65 个新星标，表明其在代理工具社区中具有较高的活跃度和认可度。",
+  "tags": [
+    "V2Ray",
+    "域名列表",
+    "geosite",
+    "代理",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "v2fly",
+    "stars": 9223,
+    "forks": 1396,
+    "daily_stars": null,
+    "weekly_stars": 65,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

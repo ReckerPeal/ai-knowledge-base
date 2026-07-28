@@ -1,0 +1,33 @@
+{
+  "id": "20260728-github-55b4be8946",
+  "title": "alacritty/alacritty",
+  "source": "github_trending",
+  "source_url": "https://github.com/alacritty/alacritty",
+  "summary": "Alacritty 是一个跨平台、基于 OpenGL 的终端模拟器，使用 Rust 语言开发，以高性能和简洁设计著称。",
+  "content": "Alacritty 是一款专注于速度和简洁性的终端模拟器，利用 GPU 加速（OpenGL）实现流畅渲染，支持跨平台运行（Linux、macOS、Windows）。它采用 Rust 语言编写，内存安全且性能优异，提供 Vi 模式、搜索、自定义配置等高级功能，但不支持标签页或窗口分割（依赖终端复用器如 tmux）。该项目在 GitHub 上拥有 65k+ 星标，社区活跃，适合追求极简高效终端的开发者。",
+  "tags": [
+    "终端模拟器",
+    "Rust",
+    "OpenGL",
+    "跨平台",
+    "GPU加速",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:31+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "alacritty",
+    "stars": 65134,
+    "forks": 3528,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

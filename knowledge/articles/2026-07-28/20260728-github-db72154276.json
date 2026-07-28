@@ -1,0 +1,31 @@
+{
+  "id": "20260728-github-db72154276",
+  "title": "cli/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/cli/cli",
+  "summary": "GitHub 官方命令行工具，提供从终端管理仓库、Issue、PR 等操作的能力。",
+  "content": "cli/cli 是 GitHub 官方发布的命令行工具，允许开发者直接在终端中完成仓库克隆、Issue 创建、Pull Request 管理、GitHub Actions 查看等操作，无需频繁切换浏览器。该项目使用 Go 语言开发，拥有超过 45,000 颗星，社区活跃，是提升 GitHub 工作流效率的核心工具之一。",
+  "tags": [
+    "GitHub CLI",
+    "命令行工具",
+    "Go",
+    "开发者工具",
+    "版本控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:44+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "cli",
+    "stars": 45470,
+    "forks": 8776,
+    "daily_stars": null,
+    "weekly_stars": 140,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

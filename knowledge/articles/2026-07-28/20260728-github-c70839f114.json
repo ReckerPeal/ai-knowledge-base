@@ -1,0 +1,36 @@
+{
+  "id": "20260728-github-c70839f114",
+  "title": "dbt-labs/dbt-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/dbt-labs/dbt-core",
+  "summary": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。",
+  "content": "dbt（data build tool）是一个开源的数据转换工具，它允许数据团队使用 SQL 或 Python 编写数据转换逻辑，并通过版本控制、测试和文档化等软件工程最佳实践来管理数据管道。dbt-core 是 dbt 的核心库，提供了数据建模、依赖管理、增量模型、测试框架等功能，支持与多种数据仓库（如 Snowflake、BigQuery、Redshift 等）集成。该仓库由 dbt-labs 维护，拥有超过 13,500 颗星，社区活跃，广泛应用于现代数据栈中。",
+  "tags": [
+    "dbt",
+    "数据转换",
+    "数据工程",
+    "数据建模",
+    "SQL",
+    "Python",
+    "开源",
+    "数据管道",
+    "ETL",
+    "ELT"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:31+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "dbt-labs",
+    "stars": 13532,
+    "forks": 2482,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

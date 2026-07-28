@@ -1,0 +1,34 @@
+{
+  "id": "20260728-github-6fb2a68ac8",
+  "title": "microsoft/azure-devops-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/azure-devops-mcp",
+  "summary": "微软官方推出的 Azure DevOps MCP 服务器，让 AI 代理能够直接调用 Azure DevOps 的 API 进行项目管理、代码仓库操作、流水线触发等任务。",
+  "content": "该项目是微软为 Azure DevOps 构建的 MCP（Model Context Protocol）服务器实现。它通过标准化的 MCP 协议，将 Azure DevOps 的丰富功能（如工作项管理、Git 仓库操作、构建与发布流水线、测试计划等）暴露给支持 MCP 的 AI 代理。开发者或 AI 系统可以通过自然语言或结构化指令，直接与 Azure DevOps 交互，实现自动化项目管理、代码审查、持续集成/持续部署（CI/CD）流程触发等场景。项目采用 TypeScript 编写，遵循 MCP 规范，易于集成到各种 AI 工作流中。",
+  "tags": [
+    "Azure DevOps",
+    "MCP",
+    "AI Agent",
+    "DevOps",
+    "TypeScript",
+    "微软",
+    "项目管理",
+    "CI/CD"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-28T19:52:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 1914,
+    "forks": 611,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
