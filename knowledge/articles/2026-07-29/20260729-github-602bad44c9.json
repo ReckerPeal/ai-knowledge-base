@@ -1,0 +1,31 @@
+{
+  "id": "20260729-github-602bad44c9",
+  "title": "Project-HAMi/HAMi",
+  "source": "github_trending",
+  "source_url": "https://github.com/Project-HAMi/HAMi",
+  "summary": "HAMi 是一个在 Kubernetes 上实现异构 GPU 共享的开源项目，旨在提高 GPU 资源的利用率和灵活性。",
+  "content": "HAMi 项目专注于解决 Kubernetes 集群中 GPU 资源利用率低的问题，通过支持异构 GPU（如 NVIDIA、AMD、Intel 等）的共享调度，允许用户将单个 GPU 分配给多个任务，或跨节点聚合 GPU 资源。项目基于 Go 语言开发，提供了自定义调度器、设备插件和监控工具，适用于 AI 训练、推理等场景。当前在 GitHub 上获得 4105 颗星和 668 个 Fork，每日新增约 19 颗星，显示出较高的社区关注度。",
+  "tags": [
+    "Kubernetes",
+    "GPU 共享",
+    "异构计算",
+    "资源调度",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-29T19:57:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Project-HAMi",
+    "stars": 4105,
+    "forks": 668,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

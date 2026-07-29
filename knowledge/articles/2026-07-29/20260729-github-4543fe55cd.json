@@ -1,0 +1,33 @@
+{
+  "id": "20260729-github-4543fe55cd",
+  "title": "Effect-TS/effect",
+  "source": "github_trending",
+  "source_url": "https://github.com/Effect-TS/effect",
+  "summary": "Effect-TS/effect 是一个用于构建生产级 TypeScript 应用的框架，旨在通过类型安全的方式处理副作用、错误和并发，提升开发效率和代码可靠性。",
+  "content": "Effect-TS/effect 是一个基于 TypeScript 的函数式编程库，专注于构建生产级应用。它提供了一套强大的工具来处理副作用、错误管理、并发和资源管理，强调类型安全和可组合性。该库的核心是 Effect 类型，它允许开发者以声明式方式描述计算，并自动处理异步操作、依赖注入和错误恢复。通过使用 Effect-TS，开发者可以编写更健壮、可测试和可维护的代码，特别适合需要高可靠性的后端服务、微服务和复杂业务逻辑的应用。GitHub 仓库显示其拥有 15065 颗星和 646 个 fork，近期日增 26 星，周增 106 星，表明社区活跃且持续增长。",
+  "tags": [
+    "TypeScript",
+    "函数式编程",
+    "副作用管理",
+    "错误处理",
+    "并发",
+    "生产级应用",
+    "Effect-TS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-29T19:56:55+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Effect-TS",
+    "stars": 15065,
+    "forks": 646,
+    "daily_stars": 26,
+    "weekly_stars": 106,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

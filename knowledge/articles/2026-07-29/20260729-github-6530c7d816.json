@@ -1,0 +1,33 @@
+{
+  "id": "20260729-github-6530c7d816",
+  "title": "google/gvisor",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/gvisor",
+  "summary": "gVisor 是 Google 开源的容器内核，为容器提供安全隔离的轻量级操作系统内核，增强容器安全性。",
+  "content": "gVisor 是 Google 开发的一个开源项目，旨在为容器提供一种轻量级、安全的操作系统内核。它通过在容器和主机内核之间插入一个用户空间内核，实现了对系统调用的拦截和重定向，从而增强了容器的隔离性和安全性。gVisor 特别适用于多租户环境或需要高安全性的容器部署场景。该项目使用 Go 语言编写，目前在 GitHub 上获得了超过 18,900 颗星，拥有 1,800 多个分支，是容器安全领域的重要工具。",
+  "tags": [
+    "gVisor",
+    "容器安全",
+    "Google",
+    "Go",
+    "容器内核",
+    "安全隔离",
+    "系统调用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-29T19:57:11+08:00",
+  "language": "中文",
+  "score": 9.0,
+  "metadata": {
+    "author": "google",
+    "stars": 18906,
+    "forks": 1812,
+    "daily_stars": null,
+    "weekly_stars": 84,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

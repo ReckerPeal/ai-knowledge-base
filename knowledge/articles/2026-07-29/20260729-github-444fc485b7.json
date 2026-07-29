@@ -1,0 +1,32 @@
+{
+  "id": "20260729-github-444fc485b7",
+  "title": "oauth2-proxy/oauth2-proxy",
+  "source": "github_trending",
+  "source_url": "https://github.com/oauth2-proxy/oauth2-proxy",
+  "summary": "OAuth2-Proxy 是一个反向代理，提供与 Google、Azure、OpenID Connect 等多种身份提供者的认证集成。",
+  "content": "OAuth2-Proxy 是一个用 Go 语言编写的反向代理服务器，用于为需要认证的 Web 应用提供统一的身份验证层。它支持多种身份提供者，包括 Google、Azure、GitHub、Keycloak 以及任何兼容 OpenID Connect 的提供商。该工具通过拦截请求并验证用户身份，将未认证的用户重定向到身份提供者进行登录，认证通过后将请求转发到后端服务。它广泛应用于微服务架构、Kubernetes 集群以及需要集中式认证管理的场景。项目在 GitHub 上拥有 14770 颗星和 2163 个分支，社区活跃，持续维护。",
+  "tags": [
+    "反向代理",
+    "身份验证",
+    "OAuth2",
+    "OpenID Connect",
+    "Go",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-29T19:57:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "oauth2-proxy",
+    "stars": 14770,
+    "forks": 2163,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

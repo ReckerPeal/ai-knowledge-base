@@ -1,0 +1,31 @@
+{
+  "id": "20260729-github-0f3adcde57",
+  "title": "benbjohnson/litestream",
+  "source": "github_trending",
+  "source_url": "https://github.com/benbjohnson/litestream",
+  "summary": "Litestream 是一个为 SQLite 提供流式复制的工具，旨在实现 SQLite 数据库的实时备份和高可用性。",
+  "content": "Litestream 是一个轻量级的开源工具，专为 SQLite 数据库设计，提供流式复制功能。它通过持续监控 SQLite 数据库的写入操作，并将变更实时复制到远程存储（如 S3、GCS 等），从而实现数据库的增量备份和灾难恢复。该项目由 benbjohnson 开发，在 GitHub 上获得了超过 14,000 颗星，表明其受到广泛关注。Litestream 的核心优势在于其简单性——无需复杂的配置即可为 SQLite 添加企业级备份能力，同时保持 SQLite 的轻量和嵌入式特性。它适用于需要高可用性但不想迁移到大型数据库系统的场景，如边缘计算、小型 Web 应用或开发环境。",
+  "tags": [
+    "SQLite",
+    "流式复制",
+    "备份",
+    "高可用性",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-29T19:57:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "benbjohnson",
+    "stars": 14126,
+    "forks": 382,
+    "daily_stars": 54,
+    "weekly_stars": 162,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
