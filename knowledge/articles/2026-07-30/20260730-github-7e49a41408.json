@@ -1,0 +1,31 @@
+{
+  "id": "20260730-github-7e49a41408",
+  "title": "LLM Honeypot",
+  "source": "rss",
+  "source_url": "https://llm2human.pages.dev/",
+  "summary": "LLM Honeypot 是一个利用大语言模型（LLM）构建的蜜罐系统，旨在通过模拟交互来检测和分析恶意AI行为。该项目在Hacker News上获得287分和85条评论，表明社区对其高度关注。",
+  "content": "LLM Honeypot 项目通过部署一个看似真实的LLM服务，吸引并记录恶意AI代理或自动化脚本的交互行为。其核心价值在于为AI安全研究提供数据，帮助识别针对LLM的滥用模式，如提示注入、数据窃取或模型操纵。该项目可能包含一个模拟的LLM端点，用于捕获攻击者的请求，并分析其意图和技术。",
+  "tags": [
+    "LLM",
+    "Honeypot",
+    "AI安全",
+    "蜜罐",
+    "恶意AI检测",
+    "提示注入",
+    "安全研究"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-29T22:51:03+00:00",
+  "collected_at": "2026-07-30T19:47:19+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

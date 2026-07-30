@@ -1,0 +1,34 @@
+{
+  "id": "20260730-github-f34ee41c9e",
+  "title": "Dicklesworthstone/pi_agent_rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+  "summary": "Dicklesworthstone/pi_agent_rust 是一个用 Rust 编写的高性能 AI 编码代理 CLI 工具，强调零不安全代码，确保内存安全与性能。",
+  "content": "该仓库由 Dicklesworthstone 开发，基于 Rust 语言实现了一个高性能的 AI 编码代理命令行界面。其核心特点是零不安全代码（zero unsafe code），这意味着所有内存操作都通过 Rust 的安全抽象完成，避免了常见的内存错误。项目在 GitHub 上获得 1447 颗星和 171 个分支，周增长 58 颗星，属于 Rust 语言的热门项目。该工具旨在为开发者提供高效的 AI 辅助编码体验，适合需要高性能和安全性的场景。",
+  "tags": [
+    "Rust",
+    "AI",
+    "CLI",
+    "编码代理",
+    "高性能",
+    "零不安全代码",
+    "内存安全",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-30T19:47:17+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Dicklesworthstone",
+    "stars": 1447,
+    "forks": 171,
+    "daily_stars": null,
+    "weekly_stars": 58,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260730-github-157239408e",
+  "title": "UditAkhourii/adhd",
+  "source": "github_trending",
+  "source_url": "https://github.com/UditAkhourii/adhd",
+  "summary": "ADHD 是一个为编码代理设计的技能包，基于 Claude 和 Codex Agent SDK 构建，采用带剪枝的思维树方法。它能在不同认知框架下并行发散思维，通过评分、剪枝陷阱和深化幸存路径，提升创意和跨学科工作的效率。",
+  "content": "该项目名为 ADHD，是一个针对编码代理的技能包。它利用树状思维（Tree-of-thought）策略，结合剪枝技术，在 Claude 和 Codex Agent SDK 上运行。核心机制是：在多个认知框架下并行生成发散性思维分支，对每个分支进行评分，剪除无效或陷阱路径，并深化有潜力的分支。这种设计特别适合需要创造性思维和跨学科协作的任务，能显著提升代理的决策质量和问题解决能力。",
+  "tags": [
+    "ADHD",
+    "编码代理",
+    "思维树",
+    "剪枝",
+    "Claude",
+    "Codex Agent SDK",
+    "创意工作",
+    "跨学科"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-30T19:47:15+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "UditAkhourii",
+    "stars": 2795,
+    "forks": 215,
+    "daily_stars": null,
+    "weekly_stars": 996,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

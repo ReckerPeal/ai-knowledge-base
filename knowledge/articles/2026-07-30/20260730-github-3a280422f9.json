@@ -1,0 +1,31 @@
+{
+  "id": "20260730-github-3a280422f9",
+  "title": "openshift/origin",
+  "source": "github_trending",
+  "source_url": "https://github.com/openshift/origin",
+  "summary": "OpenShift 的合规性测试套件，用于验证集群是否符合 OpenShift 标准。",
+  "content": "openshift/origin 是 OpenShift 容器平台的核心仓库，提供了一套全面的合规性测试套件（Conformance test suite），用于验证 OpenShift 集群的部署、配置和功能是否符合官方规范。该项目使用 Go 语言开发，拥有 8674 颗星和 4792 个分支，是 GitHub 上 Go 语言热点项目之一。它帮助开发者确保其 OpenShift 环境的一致性和可靠性。",
+  "tags": [
+    "OpenShift",
+    "合规性测试",
+    "容器平台",
+    "Go",
+    "Kubernetes"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-30T19:47:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openshift",
+    "stars": 8674,
+    "forks": 4792,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

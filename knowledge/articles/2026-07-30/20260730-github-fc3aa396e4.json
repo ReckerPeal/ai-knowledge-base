@@ -1,0 +1,32 @@
+{
+  "id": "20260730-github-fc3aa396e4",
+  "title": "styled-components/styled-components",
+  "source": "github_trending",
+  "source_url": "https://github.com/styled-components/styled-components",
+  "summary": "styled-components 是一个为 React 应用提供快速、表达力强的样式解决方案的库，支持服务端组件、客户端组件、流式 SSR 和 React Native，统一 API 设计。",
+  "content": "styled-components 是 React 生态中流行的 CSS-in-JS 库，允许开发者使用模板字面量编写组件级样式。它通过标签模板语法将样式与组件绑定，自动生成唯一类名，避免样式冲突。该库支持服务端渲染（SSR）和流式 SSR，兼容 React Native，提供一致的开发体验。其核心优势包括动态样式、主题支持、代码分割和自动前缀。当前仓库由 styled-components 团队维护，拥有 41k+ Star 和 2.6k Fork，社区活跃。",
+  "tags": [
+    "React",
+    "CSS-in-JS",
+    "样式化组件",
+    "TypeScript",
+    "服务端渲染",
+    "React Native"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-30T19:47:06+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "styled-components",
+    "stars": 41126,
+    "forks": 2614,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

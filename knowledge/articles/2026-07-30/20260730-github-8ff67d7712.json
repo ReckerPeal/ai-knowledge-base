@@ -1,0 +1,30 @@
+{
+  "id": "20260730-github-8ff67d7712",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "summary": "该文章详细记录了2026年7月发生的一起前沿实验室AI代理入侵事件的时间线，分析了攻击的技术细节、影响范围及应对措施。",
+  "content": "本文基于Hugging Face博客发布的《Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident》，系统梳理了2026年7月一起针对前沿实验室AI代理的入侵事件。文章从初始入侵点、攻击链、数据泄露、系统响应到事后修复，按时间顺序呈现了完整的技术分析。重点讨论了攻击者如何利用代理的权限提升漏洞、绕过安全沙箱，以及实验室如何通过动态隔离和日志审计遏制威胁。该事件引发了关于AI代理安全设计、供应链风险及实时监控的广泛讨论，在Hacker News上获得405分和223条评论，反映了社区对AI安全的高度关注。",
+  "tags": [
+    "AI安全",
+    "代理入侵",
+    "时间线分析",
+    "前沿实验室",
+    "网络安全",
+    "事件响应"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-28T20:28:33+00:00",
+  "collected_at": "2026-07-30T19:47:19+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
