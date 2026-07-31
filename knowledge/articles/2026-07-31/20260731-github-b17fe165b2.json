@@ -1,0 +1,32 @@
+{
+  "id": "20260731-github-b17fe165b2",
+  "title": "cocoindex-io/cocoindex",
+  "source": "github_trending",
+  "source_url": "https://github.com/cocoindex-io/cocoindex",
+  "summary": "cocoindex 是一个面向长时程智能体的增量引擎，旨在高效处理持续更新的数据流，为长期运行的 AI 代理提供实时索引和状态管理能力。",
+  "content": "cocoindex 是一个用 Rust 编写的开源项目，专注于为长时程（long horizon）智能体提供增量计算引擎。其核心设计理念是支持对动态数据源进行持续、增量的索引和更新，使得智能体能够在长时间运行过程中保持对最新信息的感知，而无需重复处理全量数据。该项目在 GitHub 上受到广泛关注，已获得超过 1.1 万星标，表明其在 AI 基础设施领域具有较高的认可度。\n\n主要特点包括：\n- 增量处理：仅处理新增或变更的数据，大幅降低计算开销。\n- 面向智能体：专为需要长期运行、持续学习或实时响应的 AI 代理设计。\n- 高性能：基于 Rust 实现，提供内存安全和并发性能优势。\n- 易于集成：可作为数据管道或智能体框架的组件使用。\n\n该项目适合用于构建实时推荐系统、动态知识库、监控代理等场景，尤其适合需要处理持续数据流的 AI 应用。",
+  "tags": [
+    "Rust",
+    "增量引擎",
+    "AI智能体",
+    "数据索引",
+    "实时处理",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "cocoindex-io",
+    "stars": 11133,
+    "forks": 861,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

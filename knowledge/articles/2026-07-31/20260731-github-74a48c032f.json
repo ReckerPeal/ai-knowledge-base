@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-74a48c032f",
+  "title": "nolabs-ai/nono",
+  "source": "github_trending",
+  "source_url": "https://github.com/nolabs-ai/nono",
+  "summary": "nono 是一个 Rust 编写的 AI 代理沙箱工具，可在数秒内完成任意 AI 代理的隔离运行，无需任何配置，且零延迟。",
+  "content": "nono 是一个专注于 AI 代理安全隔离的轻量级沙箱解决方案，采用 Rust 语言开发，强调极简部署和即时响应。其核心优势在于：\n- **零配置**：无需复杂的环境搭建，即可快速启动 AI 代理。\n- **零延迟**：沙箱启动和运行不引入额外性能开销，适合实时交互场景。\n- **安全隔离**：为不可信的 AI 代理提供独立的运行环境，防止对宿主系统造成影响。\n该项目在 GitHub 上表现活跃，已获得 3375 星标，近期日增 52 星，显示出社区的高度关注。适合需要快速测试或运行第三方 AI 代理的开发者，尤其适用于安全敏感或资源受限的环境。",
+  "tags": [
+    "AI代理",
+    "沙箱",
+    "Rust",
+    "安全隔离",
+    "零配置",
+    "零延迟",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "nolabs-ai",
+    "stars": 3375,
+    "forks": 229,
+    "daily_stars": 52,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

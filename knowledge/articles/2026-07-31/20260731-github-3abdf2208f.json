@@ -1,0 +1,35 @@
+{
+  "id": "20260731-github-3abdf2208f",
+  "title": "microsoft/agent-governance-toolkit",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "summary": "microsoft/agent-governance-toolkit 是一个用于自主 AI 代理的治理工具包，提供策略执行、零信任身份、执行沙箱和可靠性工程等功能，全面覆盖 OWASP Agentic Top 10 安全风险。",
+  "content": "## 项目概述\nmicrosoft/agent-governance-toolkit 是微软发布的一个开源工具包，旨在为自主 AI 代理提供全面的治理和安全保障。该项目针对 AI 代理在真实环境中面临的安全与可靠性挑战，提供了一套完整的解决方案。\n\n## 核心功能\n- **策略执行 (Policy Enforcement)**：确保 AI 代理的行为符合预设的组织策略和合规要求。\n- **零信任身份 (Zero-Trust Identity)**：为每个代理提供独立的身份验证和授权机制，遵循零信任安全模型，防止身份冒充和越权访问。\n- **执行沙箱 (Execution Sandboxing)**：将代理的执行环境隔离在沙箱中，限制其访问敏感资源，防止恶意操作或意外破坏。\n- **可靠性工程 (Reliability Engineering)**：提供监控、容错和自愈机制，确保代理在长时间运行中保持稳定可靠。\n\n## 安全覆盖\n项目声称覆盖了 OWASP Agentic Top 10 的全部 10 项安全风险，包括但不限于提示注入、不安全的输出处理、过度代理行为等，为代理应用提供了全面的安全基线。\n\n## 技术栈与语言\n- 主要语言：Python\n- 项目由微软维护，拥有 5523 颗星和 875 个 fork，社区活跃度较高。\n\n## 适用场景\n- 企业级 AI 代理部署\n- 需要严格合规的金融、医疗等行业\n- 多代理协作系统\n- 需要高可靠性的自动化任务执行\n\n## 总结\n该工具包为 AI 代理的治理提供了开箱即用的解决方案，尤其适合对安全性和可靠性有高要求的生产环境。",
+  "tags": [
+    "AI Agent",
+    "Governance",
+    "Security",
+    "Zero-Trust",
+    "Sandboxing",
+    "OWASP",
+    "Python",
+    "Microsoft",
+    "Reliability"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 5523,
+    "forks": 875,
+    "daily_stars": null,
+    "weekly_stars": 614,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

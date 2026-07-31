@@ -1,0 +1,32 @@
+{
+  "id": "20260731-github-932e55e2af",
+  "title": "agavra/tuicr",
+  "source": "github_trending",
+  "source_url": "https://github.com/agavra/tuicr",
+  "summary": "tuicr 是一个基于 Rust 的代码审查终端界面（TUI）工具，支持 Vim 键位绑定，旨在提升代码审查效率。",
+  "content": "tuicr 是一个用 Rust 编写的代码审查终端界面（TUI）工具，其核心特性是支持 Vim 键位绑定，为习惯 Vim 操作的开发者提供高效的代码审查体验。该项目在 GitHub 上表现活跃，目前获得 2019 颗星，167 个 fork，单日新增星标 190 颗，显示出较强的社区关注度。作为 Rust 生态中的新兴工具，tuicr 结合了终端界面的轻量性和 Vim 的高效操作，适合开发者快速浏览和审查代码差异。其设计理念可能借鉴了现代 TUI 框架（如 ratatui），并针对代码审查场景进行了优化。对于追求命令行效率的开发者而言，tuicr 是一个值得关注的开源项目。",
+  "tags": [
+    "Rust",
+    "TUI",
+    "代码审查",
+    "Vim",
+    "终端工具",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "agavra",
+    "stars": 2019,
+    "forks": 167,
+    "daily_stars": 190,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260731-github-b28412bb01",
+  "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+  "source": "rss",
+  "source_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+  "summary": "本文探讨了一种新型的AI安全威胁：基于文档的AI蠕虫，它能够通过Microsoft Copilot for Word自我传播。文章分析了这种蠕虫的工作原理、潜在风险以及应对措施，并引发了关于AI系统安全性的广泛讨论。",
+  "content": "本文详细介绍了文档型AI蠕虫的概念，这种蠕虫利用AI助手（如Microsoft Copilot for Word）的上下文处理能力，通过恶意文档在用户之间传播。文章指出，攻击者可以构造包含恶意指令的文档，当用户使用Copilot处理这些文档时，蠕虫会诱导AI执行有害操作，如窃取数据、发送垃圾邮件或进一步传播自身。文章还讨论了这种攻击的可行性、影响范围以及防御策略，包括加强输入验证、限制AI权限和提升用户意识等。该文在Hacker News上引发了热烈讨论，反映了社区对AI安全问题的关注。",
+  "tags": [
+    "AI安全",
+    "AI蠕虫",
+    "Copilot",
+    "文档安全",
+    "网络安全",
+    "恶意软件"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-29T11:44:33+00:00",
+  "collected_at": "2026-07-31T19:54:14+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

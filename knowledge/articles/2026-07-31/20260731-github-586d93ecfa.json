@@ -1,0 +1,35 @@
+{
+  "id": "20260731-github-586d93ecfa",
+  "title": "diegosouzapw/OmniRoute",
+  "source": "github_trending",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "summary": "OmniRoute 是一个免费的 MIT 许可 AI 网关，通过单一端点接入 290+ 提供商（其中 90+ 免费）和 500+ 模型，支持 Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax 等。它与 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot 等工具兼容，具备配额感知的自动回退、RTK+Caveman 压缩（节省 15-95% token）、MCP/A2A 支持以及桌面/PWA 应用。项目由 500+ 贡献者共同构建。",
+  "content": "## 项目概述\n\nOmniRoute 是一个开源的 AI 网关，旨在简化对多种 AI 模型的访问。它提供一个统一的 API 端点，支持超过 290 家提供商（其中 90 多家免费）和 500 多个模型，包括 Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax 等主流模型。\n\n## 核心特性\n\n- **统一接入**：一个端点即可访问所有支持的模型，无需为每个提供商单独配置。\n- **广泛兼容**：可与 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot 等流行开发工具无缝集成。\n- **智能回退**：基于配额感知的自动回退机制，确保请求在提供商不可用时自动切换到备用提供商。\n- **高效压缩**：采用 RTK+Caveman 压缩技术，可节省 15-95% 的 token 消耗，降低成本。\n- **高级协议**：支持 MCP（Model Context Protocol）和 A2A（Agent-to-Agent）协议，便于构建复杂的 AI 应用。\n- **多端支持**：提供桌面应用和 PWA（渐进式 Web 应用），方便用户在不同设备上使用。\n\n## 技术栈与许可\n\n- 语言：TypeScript\n- 许可：MIT（完全免费，可自由使用和修改）\n- 社区：由 500+ 贡献者共同维护，活跃度高\n\n## 适用场景\n\n- 开发者需要在一个应用中集成多个 AI 模型。\n- 希望降低 AI API 调用成本，通过压缩和智能路由优化 token 使用。\n- 构建需要高可用性的 AI 服务，利用自动回退避免单点故障。\n\n## 快速上手\n\n（此处可补充安装和配置示例，但原摘要未提供具体步骤，建议参考仓库 README）\n\n## 总结\n\nOmniRoute 是一个功能强大且免费的 AI 网关，适合个人开发者和企业使用，能够显著简化多模型集成和管理流程。",
+  "tags": [
+    "AI Gateway",
+    "Open Source",
+    "TypeScript",
+    "Multi-Provider",
+    "Token Compression",
+    "Auto-Fallback",
+    "MCP",
+    "A2A",
+    "Developer Tools"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:09+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "diegosouzapw",
+    "stars": 35604,
+    "forks": 4583,
+    "daily_stars": null,
+    "weekly_stars": 8464,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

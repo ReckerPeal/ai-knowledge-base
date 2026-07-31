@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-b500d8091d",
+  "title": "Ed1s0nZ/CyberStrikeAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+  "summary": "CyberStrikeAI 是一个 AI 原生的网络安全行动系统，将意图转化为受治理的执行，将证据转化为可操作记忆，并持续优化每次操作。",
+  "content": "CyberStrikeAI 是一个用 Go 语言编写的 AI 原生网络安全平台，旨在将安全操作从被动响应转变为主动、自适应的行动系统。其核心理念是：意图驱动执行、证据驱动记忆、操作驱动改进。\n\n该系统通过 AI 代理将安全分析师的意图（如“检测并响应威胁”）转化为具体的、受治理的执行步骤，确保操作符合安全策略和合规要求。同时，它将安全事件中的证据（如日志、指标、工件）转化为结构化的“操作记忆”，使系统能够从历史操作中学习，不断优化响应策略和自动化流程。\n\nCyberStrikeAI 的设计强调闭环反馈：每次操作都会产生新的证据和结果，这些数据被用于改进未来的决策和执行，形成一个持续进化的安全智能体。该平台适用于需要高度自动化和智能化的安全运营中心（SOC），能够显著提升威胁检测、响应和缓解的效率与准确性。\n\n项目在 GitHub 上表现活跃，拥有 5417 颗星和 868 个 fork，日增星约 29 颗，表明社区关注度较高。语言为 Go，适合构建高性能、并发的安全工具。",
+  "tags": [
+    "AI-native",
+    "cybersecurity",
+    "Go",
+    "security operations",
+    "automation",
+    "threat response",
+    "adaptive system"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Ed1s0nZ",
+    "stars": 5417,
+    "forks": 868,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

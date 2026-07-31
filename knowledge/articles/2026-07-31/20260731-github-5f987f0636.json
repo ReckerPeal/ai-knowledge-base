@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-5f987f0636",
+  "title": "tokio-rs/topcoat",
+  "source": "github_trending",
+  "source_url": "https://github.com/tokio-rs/topcoat",
+  "summary": "tokio-rs/topcoat 是一个基于 Rust 的、开箱即用的 Web 应用开发框架，由 tokio 团队维护，旨在提供完整的工具链和组件，帮助开发者快速构建高性能的 Web 应用。",
+  "content": "topcoat 是 tokio-rs 组织下的一个新兴项目，定位为“batteries-included”的 Web 框架，意味着它内置了构建现代 Web 应用所需的常用功能，如路由、中间件、异步处理、数据库集成等，减少了开发者选择和集成第三方库的负担。该项目基于 Rust 语言，充分利用了 Rust 的内存安全和并发性能优势，适合构建高可靠、高并发的服务端应用。目前该项目在 GitHub 上已获得近 4000 星，周增长超过 1200 星，显示出社区的高度关注和活跃度。对于 Rust 生态而言，topcoat 有望成为类似 Python 的 Django 或 JavaScript 的 Next.js 那样的全栈解决方案，进一步降低 Rust Web 开发的门槛。",
+  "tags": [
+    "Rust",
+    "Web框架",
+    "tokio",
+    "全栈",
+    "异步",
+    "高性能",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:11+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tokio-rs",
+    "stars": 3997,
+    "forks": 136,
+    "daily_stars": null,
+    "weekly_stars": 1263,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

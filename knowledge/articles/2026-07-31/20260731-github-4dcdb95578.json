@@ -1,0 +1,32 @@
+{
+  "id": "20260731-github-4dcdb95578",
+  "title": "NVIDIA/OpenShell",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "summary": "OpenShell 是 NVIDIA 推出的安全、私密的自主 AI 代理运行时，旨在为自主 AI 代理提供隔离的执行环境，确保安全性和隐私性。",
+  "content": "OpenShell 是 NVIDIA 开发的一个开源项目，专注于为自主 AI 代理提供安全、私密的运行时环境。它通过隔离执行、权限控制和资源限制等机制，确保 AI 代理在运行过程中不会对系统或数据造成威胁。该项目使用 Rust 语言编写，强调性能和内存安全。OpenShell 适用于需要高安全性的 AI 应用场景，如自动化任务、数据处理等。其 GitHub 仓库已获得 7921 颗星和 1114 次 fork，显示出社区的广泛关注。",
+  "tags": [
+    "AI",
+    "自主代理",
+    "安全运行时",
+    "隐私保护",
+    "Rust",
+    "NVIDIA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:11+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 7921,
+    "forks": 1114,
+    "daily_stars": null,
+    "weekly_stars": 146,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

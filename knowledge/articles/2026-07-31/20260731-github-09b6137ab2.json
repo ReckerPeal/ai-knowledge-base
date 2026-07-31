@@ -1,0 +1,32 @@
+{
+  "id": "20260731-github-09b6137ab2",
+  "title": "bruits/satteri",
+  "source": "github_trending",
+  "source_url": "https://github.com/bruits/satteri",
+  "summary": "satteri 是一个面向 JavaScript 生态系统的高性能 Markdown 和 MDX 处理工具，使用 Rust 编写，旨在提供极致的解析与渲染速度。",
+  "content": "satteri 是一个用 Rust 实现的高性能 Markdown 和 MDX 处理库，专为 JavaScript 生态设计。它利用 Rust 的内存安全和并发优势，实现了极快的解析速度，同时通过 WASM 或 N-API 与 JavaScript 无缝集成。该项目在 GitHub 上迅速获得关注（星标 1059，日增 18），表明开发者对高性能 Markdown 处理的需求强烈。satteri 可能支持标准 Markdown 语法、MDX 组件扩展、自定义插件等特性，适合用于构建静态站点生成器、文档工具或实时编辑器。其性能优势在于减少解析时间，提升构建效率，尤其适合大型文档项目。",
+  "tags": [
+    "Markdown",
+    "MDX",
+    "Rust",
+    "高性能",
+    "JavaScript",
+    "WASM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "bruits",
+    "stars": 1059,
+    "forks": 27,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

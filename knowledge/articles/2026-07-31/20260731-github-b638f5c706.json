@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-b638f5c706",
+  "title": "github/gh-aw",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-aw",
+  "summary": "GitHub Agentic Workflows 是一个由 GitHub 官方发布的仓库，旨在提供一套用于构建智能体工作流的工具和最佳实践。该项目基于 Go 语言实现，当前在 GitHub 上已获得 4839 颗星和 472 个 fork，周增长 45 星，显示出社区的高度关注。",
+  "content": "## 项目概述\n\n**GitHub Agentic Workflows (gh-aw)** 是 GitHub 官方推出的一个开源项目，专注于简化智能体（Agent）工作流的构建与部署。它提供了一套标准化的流程定义、执行引擎和集成接口，帮助开发者快速搭建自动化、可扩展的 AI 驱动工作流。\n\n## 核心特性\n\n- **工作流编排**：支持定义多步骤的智能体任务，包括条件分支、循环和并行执行。\n- **可扩展性**：通过插件机制，允许集成自定义工具和外部 API。\n- **可观测性**：内置日志和监控，便于追踪工作流执行状态。\n- **与 GitHub 生态集成**：无缝对接 GitHub Actions、Copilot 等产品。\n\n## 技术栈\n\n- **语言**：Go（主要实现语言），利用其高并发和跨平台特性。\n- **架构**：采用微服务风格，核心引擎与执行器分离。\n\n## 社区与热度\n\n- **Stars**: 4839（周增长 45）\n- **Forks**: 472\n- **分类**: GitHub 热点 · Go\n\n## 适用场景\n\n- 自动化代码审查与合并流程\n- 智能问题分类与路由\n- 持续集成中的动态任务调度\n- 基于 AI 的代码生成与验证流水线\n\n## 快速开始\n\n1. 安装 Go 1.21+ 环境\n2. 克隆仓库：`git clone https://github.com/github/gh-aw.git`\n3. 运行示例：`go run examples/simple-workflow.go`\n\n## 总结\n\n该项目体现了 GitHub 在智能体工作流领域的前瞻性探索，对于希望构建自动化 AI 流程的开发者具有很高的参考价值。",
+  "tags": [
+    "GitHub",
+    "Agentic Workflows",
+    "Go",
+    "自动化",
+    "AI",
+    "工作流引擎",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-07-31T19:54:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 4839,
+    "forks": 472,
+    "daily_stars": null,
+    "weekly_stars": 45,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
