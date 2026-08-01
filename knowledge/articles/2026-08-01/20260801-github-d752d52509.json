@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-d752d52509",
+  "title": "googleworkspace/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/googleworkspace/cli",
+  "summary": "Google Workspace CLI 是一个统一的命令行工具，用于管理 Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等 Google Workspace 服务。它基于 Google Discovery Service 动态构建，并包含 AI 代理技能。",
+  "content": "## Google Workspace CLI 分析\n\n### 项目概述\nGoogle Workspace CLI 是 Google 官方推出的命令行工具，旨在通过一个统一的接口操作 Google Workspace 的多个核心服务，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 和 Admin 等。该项目在 GitHub 上拥有超过 30k 星标，显示出较高的社区关注度。\n\n### 技术特点\n- **动态构建**：基于 Google Discovery Service 自动生成 API 客户端，使得工具能够快速适配 Google 服务的 API 更新。\n- **AI 集成**：内置 AI 代理技能，可能支持自然语言交互或智能任务自动化，提升用户体验。\n- **语言实现**：使用 Rust 编写，具备高性能和内存安全特性，适合命令行工具场景。\n\n### 功能价值\n- **效率提升**：用户无需在多个 Web 界面间切换，通过命令行即可完成文件上传、邮件发送、日历管理等操作。\n- **自动化友好**：易于集成到脚本和 CI/CD 流程中，适合开发者和运维人员。\n- **AI 能力**：AI 代理技能可能使工具能理解复杂指令，进一步降低使用门槛。\n\n### 社区与热度\n- 星标数：30,126，日增 29 星，表明持续受到关注。\n- 分叉数：1,763，说明有不少开发者基于此进行二次开发或贡献。\n- 分类为 GitHub 热点 Rust 项目，反映了 Rust 在工具链领域的流行趋势。\n\n### 潜在应用场景\n- 个人效率工具：快速管理个人 Google 账户。\n- 企业自动化：批量处理文档、邮件、日历事件等。\n- AI 助手后端：作为 AI 代理的执行工具，实现自然语言驱动的操作。\n\n### 总结\nGoogle Workspace CLI 是一个功能强大且活跃的开源项目，结合了 Rust 的性能和 AI 的智能，为 Google Workspace 用户提供了高效、可脚本化的操作方式。其动态 API 构建机制和官方支持保证了长期可用性，值得关注和使用。",
+  "tags": [
+    "Google Workspace",
+    "CLI",
+    "Rust",
+    "AI",
+    "自动化",
+    "命令行工具",
+    "Google API"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:04+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "googleworkspace",
+    "stars": 30126,
+    "forks": 1763,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

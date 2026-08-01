@@ -1,0 +1,34 @@
+{
+  "id": "20260801-github-6849c10f97",
+  "title": "heroiclabs/nakama",
+  "source": "github_trending",
+  "source_url": "https://github.com/heroiclabs/nakama",
+  "summary": "Nakama 是一个可扩展的开源游戏后端服务器，提供多人游戏、匹配、排行榜、聊天和社交功能。",
+  "content": "Nakama 由 Heroic Labs 开发，是一个用 Go 语言编写的开源游戏后端服务器。它旨在为游戏开发者提供一套完整的后端解决方案，包括实时多人游戏、匹配机制、排行榜、聊天系统以及社交功能（如好友、群组等）。Nakama 支持水平扩展，能够处理大规模并发用户，适合从独立游戏到大型多人在线游戏的各种规模。其内置的存储和缓存层（基于 CockroachDB 和 Redis）确保了数据的一致性和高性能。此外，Nakama 提供了丰富的客户端 SDK（如 Unity、Unreal、JavaScript 等），方便开发者快速集成。该项目在 GitHub 上拥有超过 13k 星标，社区活跃，持续更新，是游戏后端领域的热门选择。",
+  "tags": [
+    "游戏后端",
+    "多人游戏",
+    "匹配",
+    "排行榜",
+    "聊天",
+    "社交",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "heroiclabs",
+    "stars": 13077,
+    "forks": 1460,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

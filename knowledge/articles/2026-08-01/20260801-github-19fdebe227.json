@@ -1,0 +1,34 @@
+{
+  "id": "20260801-github-19fdebe227",
+  "title": "huggingface/candle",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/candle",
+  "summary": "huggingface/candle 是一个极简的 Rust 机器学习框架，由 Hugging Face 团队开发，旨在提供高性能、轻量级的 ML 工具。",
+  "content": "Candle 是 Hugging Face 推出的 Rust 机器学习框架，强调极简设计和性能优化。它支持 CPU 和 GPU（CUDA）后端，提供类似 PyTorch 的 API，但更轻量、内存占用更低。该框架适合嵌入式设备和需要低延迟的场景，同时利用 Rust 的内存安全特性减少运行时错误。目前项目在 GitHub 上已获得超过 2 万星标，社区活跃，是 Rust 生态中重要的 ML 基础设施。",
+  "tags": [
+    "Rust",
+    "机器学习",
+    "框架",
+    "Hugging Face",
+    "极简",
+    "高性能",
+    "CUDA",
+    "嵌入式"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:04+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 20812,
+    "forks": 1690,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

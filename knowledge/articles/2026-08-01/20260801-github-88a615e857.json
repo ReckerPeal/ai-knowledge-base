@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-88a615e857",
+  "title": "langchain-ai/deepagents",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/deepagents",
+  "summary": "langchain-ai/deepagents 是一个开源的、开箱即用的智能体（Agent）开发框架，旨在为开发者提供完整的工具链，简化复杂 AI 智能体的构建与部署。",
+  "content": "## 项目简介\n\n**deepagents** 是 LangChain 团队推出的一个“电池全包”（batteries-included）的智能体框架，它基于 LangChain 生态，提供了一套预置的组件和最佳实践，让开发者能够快速构建、测试和部署生产级的 AI 智能体。\n\n## 核心特性\n\n- **开箱即用**：内置了常用的工具、记忆管理、规划器、执行器等模块，减少了从零搭建的繁琐工作。\n- **高度可扩展**：基于 LangChain 的标准接口，可以轻松集成自定义工具、模型和外部数据源。\n- **生产级设计**：注重可观测性、错误处理和性能优化，适合实际业务场景。\n- **社区驱动**：由 LangChain 官方维护，拥有活跃的社区和持续的更新。\n\n## 技术栈\n\n- **语言**：Python\n- **基础库**：LangChain、LangGraph（用于构建有状态的智能体流程）\n- **模型支持**：支持 OpenAI、Anthropic 等主流 LLM，以及本地模型。\n\n## 适用场景\n\n- 构建客服机器人、个人助理、代码生成助手等。\n- 需要多步骤推理、工具调用和记忆管理的复杂任务。\n- 希望快速原型验证并平滑过渡到生产环境的团队。\n\n## 快速开始\n\n```bash\npip install deepagents\n```\n\n然后参考官方文档创建你的第一个智能体。\n\n## 社区与资源\n\n- GitHub 仓库：https://github.com/langchain-ai/deepagents\n- 文档与示例：仓库内包含详细的 README 和示例代码。\n\n## 总结\n\ndeepagents 为 Python 开发者提供了一个强大且易用的智能体开发框架，尤其适合已经使用 LangChain 生态的团队。其“电池全包”的理念大大降低了开发门槛，同时保持了灵活性。",
+  "tags": [
+    "AI Agent",
+    "LangChain",
+    "Python",
+    "智能体框架",
+    "开源",
+    "生产级",
+    "工具调用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:11:59+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 27187,
+    "forks": 3805,
+    "daily_stars": 111,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-efa0486eba",
+  "title": "modelcontextprotocol/python-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/python-sdk",
+  "summary": "modelcontextprotocol/python-sdk 是 Model Context Protocol (MCP) 的官方 Python SDK，用于构建 MCP 服务器和客户端。该项目在 GitHub 上拥有 23.8k 星标，近期周增 127 星，是 AI 工具集成领域的热门项目。",
+  "content": "## 项目概述\n\n**modelcontextprotocol/python-sdk** 是 Model Context Protocol (MCP) 的官方 Python 实现，旨在为开发者提供一套标准化的工具，用于构建 MCP 服务器和客户端。MCP 是一种开放协议，用于在 AI 模型与外部数据源、工具之间建立安全、可控的连接，类似于 AI 应用的 USB-C 接口。\n\n## 核心功能\n\n- **服务器端支持**：提供 `FastMCP` 等高级 API，简化服务器开发，支持工具、资源和提示的注册与管理。\n- **客户端支持**：提供 `ClientSession` 等类，方便连接 MCP 服务器并调用其暴露的工具。\n- **传输层**：支持 stdio 和 SSE (Server-Sent Events) 两种传输方式，适应本地和远程场景。\n- **类型安全**：基于 Pydantic 模型定义数据结构，确保类型校验和序列化。\n- **异步支持**：全面支持 asyncio，适合高并发场景。\n\n## 技术亮点\n\n- **官方维护**：由 MCP 核心团队维护，保证与协议规范同步。\n- **社区活跃**：23.8k 星标和 3.7k fork 表明其广泛使用和认可。\n- **文档完善**：提供详细文档和示例，降低上手门槛。\n\n## 适用场景\n\n- 构建 AI 助手的数据接入层，如让 LLM 访问数据库、文件系统或外部 API。\n- 开发 MCP 服务器，为 Claude 等模型提供自定义工具。\n- 集成多个 AI 服务，实现统一工具调用接口。\n\n## 总结\n\n该 SDK 是 MCP 生态的基石，对于希望在 Python 中实现 MCP 的开发者来说，是首选工具。其设计简洁、功能全面，适合从原型到生产环境的各类项目。",
+  "tags": [
+    "MCP",
+    "Python SDK",
+    "AI 集成",
+    "协议",
+    "服务器",
+    "客户端",
+    "工具调用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:09+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 23831,
+    "forks": 3729,
+    "daily_stars": null,
+    "weekly_stars": 127,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

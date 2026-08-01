@@ -1,0 +1,31 @@
+{
+  "id": "20260801-github-0f97b56128",
+  "title": "google-labs-code/design.md",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-labs-code/design.md",
+  "summary": "DESIGN.md 是一个格式规范，用于向编码代理描述视觉身份，使代理能够持久、结构化地理解设计系统。",
+  "content": "DESIGN.md 由 Google Labs 提出，旨在解决编码代理（如 AI 编程助手）在生成代码时缺乏对设计系统一致理解的问题。该规范定义了一种结构化格式，将视觉身份（包括颜色、字体、间距、组件风格等）以 Markdown 文件形式呈现，使代理在开发过程中能够持续参考并遵循设计约束。该仓库提供了规范文档、示例和工具支持，帮助团队将设计系统无缝集成到 AI 辅助开发流程中。",
+  "tags": [
+    "设计系统",
+    "AI 编程",
+    "格式规范",
+    "视觉身份",
+    "Google Labs"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:02+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "google-labs-code",
+    "stars": 26833,
+    "forks": 2181,
+    "daily_stars": 105,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260801-github-7a6e11f89f",
+  "title": "kangarooking/cangjie-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/kangarooking/cangjie-skill",
+  "summary": "cangjie-skill 是一个将书籍、长视频、播客等高价值内容蒸馏为可执行 Agent Skills 的工具，帮助用户高效提取和复用知识。",
+  "content": "## 项目概述\n\ncangjie-skill 是一个专注于知识蒸馏的开源项目，旨在将书籍、长视频、播客等高价值内容转化为可执行的 Agent Skills。该项目通过自动化流程，帮助用户从海量信息中提取核心知识，并将其结构化，以便于在 AI 代理（Agent）中直接使用。\n\n## 核心功能\n\n- **内容蒸馏**：支持从多种格式（如文本、音视频）中提取关键信息，生成精炼的技能描述。\n- **Agent 集成**：生成的 Skills 可直接嵌入 AI 代理的工作流，提升自动化任务执行效率。\n- **高价值内容处理**：针对长篇幅内容（如书籍、播客）进行深度解析，确保知识密度和实用性。\n\n## 技术亮点\n\n- 基于 Python 实现，易于扩展和定制。\n- 项目在 GitHub 上表现活跃，短期内获得较高关注（日增星 320），反映出市场对知识管理工具的需求。\n\n## 适用场景\n\n- 个人知识管理：将阅读或收听的内容转化为可复用的技能库。\n- AI 代理开发：为代理提供预训练的技能模块，减少手动配置。\n- 内容创作者：快速提炼素材，生成结构化摘要或行动指南。",
+  "tags": [
+    "知识蒸馏",
+    "Agent Skills",
+    "内容处理",
+    "Python",
+    "AI 代理",
+    "知识管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:11:59+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kangarooking",
+    "stars": 5857,
+    "forks": 745,
+    "daily_stars": 320,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

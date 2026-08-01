@@ -1,0 +1,32 @@
+{
+  "id": "20260801-github-8d5023437e",
+  "title": "versenilvis/IRIS",
+  "source": "github_trending",
+  "source_url": "https://github.com/versenilvis/IRIS",
+  "summary": "IRIS 是一个为终端设计的 shell 自动补全工具，旨在提升命令行操作效率。",
+  "content": "IRIS 是一个用 Go 语言开发的终端 shell 自动补全工具。它通过智能分析和预测用户输入，提供实时的命令、参数和路径补全建议，从而减少打字错误并加快命令执行速度。该项目在 GitHub 上表现活跃，短期内获得大量关注（日增星 113 颗），表明其解决了开发者日常使用终端时的痛点。IRIS 可能支持多种 shell（如 Bash、Zsh、Fish），并利用机器学习或规则引擎来优化补全准确性。对于频繁使用命令行的开发者、运维人员及 DevOps 工程师而言，IRIS 有望显著提升工作效率。",
+  "tags": [
+    "shell",
+    "自动补全",
+    "终端工具",
+    "Go",
+    "开发者效率",
+    "命令行"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "versenilvis",
+    "stars": 1076,
+    "forks": 33,
+    "daily_stars": 113,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20260801-github-86b3f3aeee",
+  "title": "adithyan-ak/AgentHound",
+  "source": "github_trending",
+  "source_url": "https://github.com/adithyan-ak/AgentHound",
+  "summary": "AgentHound 是一个针对 AI 代理基础设施的进攻性安全框架，提供侦察、凭证窃取、模型外渗、投毒和攻击路径分析等功能，覆盖 MCP、A2A、网关和 AI 服务，被誉为“代理栈的 BloodHound”。",
+  "content": "AgentHound 是一个专为 AI 代理基础设施设计的进攻性安全框架，旨在帮助安全研究人员和红队评估 AI 代理生态系统的安全性。它支持多种核心功能：\n- **侦察（Recon）**：自动发现和映射 AI 代理、服务及网关的拓扑结构。\n- **凭证窃取（Credential Looting）**：提取代理运行过程中存储或传输的敏感凭证。\n- **模型外渗（Model Exfiltration）**：模拟攻击者窃取 AI 模型权重或配置数据。\n- **投毒（Poisoning）**：测试对训练数据或模型输入的投毒攻击。\n- **攻击路径分析（Attack-Path Analysis）**：可视化并分析从初始访问到目标达成的攻击链。\n\n该框架覆盖了多种协议和组件，包括 MCP（Model Context Protocol）、A2A（Agent-to-Agent）、网关以及各类 AI 服务。其设计灵感来源于 Active Directory 安全分析工具 BloodHound，因此被称为“代理栈的 BloodHound”，旨在为 AI 代理环境提供类似的可视化攻击面分析。\n\n项目使用 Go 语言开发，目前在 GitHub 上已获得 155 颗星和 32 个 fork，近期日增星 25 颗，显示出社区对其关注度正在上升。该工具适用于安全测试、合规审计以及 AI 基础设施的防御加固。",
+  "tags": [
+    "AI安全",
+    "进攻性安全",
+    "代理基础设施",
+    "MCP",
+    "A2A",
+    "攻击路径分析",
+    "Go",
+    "红队",
+    "安全框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:06+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "adithyan-ak",
+    "stars": 155,
+    "forks": 32,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260801-github-b1db5a1ca6",
+  "title": "paritytech/polkadot-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/paritytech/polkadot-sdk",
+  "summary": "Parity Polkadot SDK 是用于构建 Polkadot 区块链生态系统的官方开发工具包，由 Parity Technologies 维护，采用 Rust 语言开发。",
+  "content": "Polkadot SDK 是 Parity Technologies 推出的区块链开发框架，旨在支持 Polkadot 及平行链的构建。它提供了 Substrate 框架、共识机制、网络层等核心组件，使开发者能够快速搭建自定义区块链。该 SDK 集成了模块化设计，支持跨链消息传递（XCMP）、治理、质押等功能，是 Polkadot 生态开发的基础。项目在 GitHub 上拥有 2792 颗星和 1220 个 fork，社区活跃，持续更新。",
+  "tags": [
+    "Polkadot",
+    "区块链",
+    "SDK",
+    "Substrate",
+    "Rust",
+    "Parity"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:04+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "paritytech",
+    "stars": 2792,
+    "forks": 1220,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

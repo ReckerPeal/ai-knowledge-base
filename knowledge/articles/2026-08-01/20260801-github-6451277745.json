@@ -1,0 +1,31 @@
+{
+  "id": "20260801-github-6451277745",
+  "title": "rclone/rclone",
+  "source": "github_trending",
+  "source_url": "https://github.com/rclone/rclone",
+  "summary": "rclone 是一个开源的命令行云存储同步工具，被誉为“云存储的 rsync”，支持 Google Drive、S3、Dropbox 等众多云存储服务，实现文件的上传、下载、同步和加密等功能。",
+  "content": "rclone 是一个用 Go 语言编写的命令行程序，用于与云存储服务进行文件同步和管理。它支持超过 40 种云存储提供商，包括 Google Drive、Amazon S3、Dropbox、Backblaze B2、One Drive、Swift、Hubic、Wasabi、Google Cloud Storage、Azure Blob、Azure Files 和 Yandex Files 等。rclone 的核心功能包括：\n- 文件同步：在本地和云存储之间双向同步文件，支持增量同步和校验。\n- 文件传输：支持上传、下载、复制和移动文件，支持断点续传和限速。\n- 加密：提供客户端加密功能，确保数据在云端的安全。\n- 挂载：可以通过 FUSE 将云存储挂载为本地磁盘，方便访问。\n- 多平台支持：支持 Windows、macOS、Linux 和 FreeBSD 等操作系统。\n- 脚本友好：提供丰富的命令行选项，便于自动化集成。\n\n该项目在 GitHub 上拥有超过 5.8 万星标，社区活跃，持续更新，是云存储管理领域的标杆工具。",
+  "tags": [
+    "云存储",
+    "文件同步",
+    "命令行工具",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:16+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "rclone",
+    "stars": 58863,
+    "forks": 5275,
+    "daily_stars": null,
+    "weekly_stars": 204,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260801-github-5821c3a262",
+  "title": "cloudflare/cloudflared",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/cloudflared",
+  "summary": "Cloudflare Tunnel 客户端，用于建立安全隧道连接。",
+  "content": "cloudflared 是 Cloudflare 官方提供的 Tunnel 客户端，允许用户通过 Cloudflare 网络将本地服务安全地暴露到公网，无需开放入站端口。它支持多种协议，广泛应用于开发测试、远程访问和边缘计算场景。该项目在 GitHub 上拥有超过 1.5 万星标，社区活跃，持续更新。",
+  "tags": [
+    "Cloudflare",
+    "Tunnel",
+    "Go",
+    "网络",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 15047,
+    "forks": 1372,
+    "daily_stars": null,
+    "weekly_stars": 93,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

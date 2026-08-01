@@ -1,0 +1,29 @@
+{
+  "id": "20260801-github-c6b43e6ef1",
+  "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+  "source": "rss",
+  "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+  "summary": "本文介绍了作者在 Rust 中编写 PHP 虚拟机（VM）的实践，并强调了 AI 辅助开发在其中的重要作用。文章可能涉及 PHP 虚拟机架构、Rust 实现细节以及 AI 工具如何提升开发效率。",
+  "content": "本文详细记录了作者使用 Rust 语言编写 PHP 虚拟机的过程，并特别强调了 AI 辅助工具在开发中的关键作用。文章可能涵盖以下方面：\n- PHP 虚拟机的核心组件（如执行引擎、内存管理、操作码处理）在 Rust 中的实现策略。\n- 利用 Rust 的内存安全性和高性能特性来构建可靠的 VM。\n- AI 工具（如代码生成、自动补全、错误检测）如何加速开发流程，减少重复劳动。\n- 遇到的挑战与解决方案，以及性能优化经验。\n- 对 Rust 与 PHP 生态结合的展望。",
+  "tags": [
+    "PHP",
+    "Rust",
+    "虚拟机",
+    "AI辅助开发",
+    "性能优化"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-29T09:02:35-05:00",
+  "collected_at": "2026-08-01T19:12:16+08:00",
+  "language": "zh-CN",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

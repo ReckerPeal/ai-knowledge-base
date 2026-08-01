@@ -1,0 +1,32 @@
+{
+  "id": "20260801-github-0f3adcde57",
+  "title": "benbjohnson/litestream",
+  "source": "github_trending",
+  "source_url": "https://github.com/benbjohnson/litestream",
+  "summary": "Litestream 是一个为 SQLite 提供流式复制的开源工具，能够将 SQLite 数据库的变更实时复制到 S3 等对象存储或文件系统，实现灾难恢复和高可用性。",
+  "content": "Litestream 是 Go 语言编写的一个轻量级工具，专注于解决 SQLite 数据库在生产环境中的复制和备份问题。它通过持续监控 SQLite 的 WAL（预写日志）文件，将新增的变更记录实时复制到远程存储（如 Amazon S3、Google Cloud Storage 或本地磁盘），从而提供近乎实时的增量备份和灾难恢复能力。\n\n该项目由 Ben Johnson 开发，在 GitHub 上拥有超过 1.4 万星标，社区活跃。其核心优势在于：\n- 零配置：无需修改应用代码，只需运行 litestream 命令即可。\n- 低开销：基于 WAL 的增量复制，对数据库性能影响极小。\n- 高可靠性：支持自动重试、校验和验证，确保数据一致性。\n- 灵活性：支持多种存储后端，并可与 systemd 集成实现自动启动。\n\nLitestream 适用于需要轻量级、单机数据库但希望获得更高数据安全性的场景，如边缘计算、嵌入式应用或小型 Web 服务。它弥补了 SQLite 在并发写和远程复制方面的不足，是许多开发者的首选备份方案。",
+  "tags": [
+    "SQLite",
+    "流式复制",
+    "备份",
+    "Go",
+    "数据库",
+    "高可用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:12:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "benbjohnson",
+    "stars": 14151,
+    "forks": 384,
+    "daily_stars": null,
+    "weekly_stars": 194,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

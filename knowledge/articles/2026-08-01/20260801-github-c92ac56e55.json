@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-c92ac56e55",
+  "title": "deepfakes/faceswap",
+  "source": "github_trending",
+  "source_url": "https://github.com/deepfakes/faceswap",
+  "summary": "deepfakes/faceswap 是一个基于深度学习的开源人脸交换工具，旨在为所有人提供简单易用的 Deepfakes 软件。该项目在 GitHub 上拥有 57k+ 星标，是目前最流行的人脸合成项目之一。",
+  "content": "deepfakes/faceswap 是一个用 Python 编写的开源项目，专注于利用深度学习技术实现人脸交换（Deepfakes）。该项目提供了完整的训练和转换流程，支持自定义数据集和模型，用户可以通过命令行或图形界面操作。\n\n项目的主要功能包括：\n- 人脸检测与对齐\n- 人脸交换模型的训练（基于 GAN 等架构）\n- 视频和图片中的人脸替换\n- 支持多种后端（如 TensorFlow、PyTorch）\n\n该项目在 GitHub 上非常受欢迎，拥有 57,170 颗星和 13,486 次 fork，近期日增星约 93 颗，表明其活跃度和社区关注度较高。\n\n需要注意的是，Deepfakes 技术可能被用于制造虚假信息或侵犯隐私，因此项目强调仅供学习和研究使用，用户需遵守相关法律法规和道德准则。",
+  "tags": [
+    "deepfakes",
+    "faceswap",
+    "深度学习",
+    "人脸交换",
+    "Python",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-01T19:11:59+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "deepfakes",
+    "stars": 57170,
+    "forks": 13486,
+    "daily_stars": 93,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
