@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-345619d775",
+  "title": "microsoft/flint-chart",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/flint-chart",
+  "summary": "Flint 是微软推出的可视化语言，旨在让 AI 代理能够从简单、可人工编辑的图表规格中可靠地生成富有表现力且美观的图表。",
+  "content": "Flint（flint-chart）是微软开源的一个可视化语言项目，核心目标是提升 AI 代理生成图表的可靠性和表现力。它允许用户通过简洁、人类可编辑的图表规格（chart specs）来描述图表，AI 代理基于这些规格自动生成高质量的可视化结果。该项目使用 TypeScript 编写，在 GitHub 上受到广泛关注，当前获得 2982 星标和 149 个 fork，近期日增星标数达 291，显示出较强的社区热度。Flint 的设计理念强调规格的简单性和可编辑性，降低了 AI 生成图表的门槛，同时保证了输出图表的表达力和美观度，适用于数据可视化、AI 辅助报告生成等场景。",
+  "tags": [
+    "可视化",
+    "AI",
+    "TypeScript",
+    "图表生成",
+    "微软",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:43+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 2982,
+    "forks": 149,
+    "daily_stars": 291,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20260802-github-3abdf2208f",
+  "title": "microsoft/agent-governance-toolkit",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "summary": "微软开源的 AI Agent 治理工具包，为自主 AI 智能体提供策略执行、零信任身份、执行沙箱和可靠性工程能力，全面覆盖 OWASP Agentic Top 10 安全风险。",
+  "content": "## 项目概述\n\n**microsoft/agent-governance-toolkit** 是微软推出的开源工具包，旨在解决自主 AI 智能体在部署和运行过程中的治理与安全问题。该项目提供了一套完整的治理框架，涵盖策略执行、零信任身份认证、执行沙箱隔离以及可靠性工程等核心能力，并明确对标 OWASP Agentic Top 10 安全风险清单，确保智能体在复杂环境中的安全性和合规性。\n\n## 核心功能\n\n- **策略执行 (Policy Enforcement)**：支持定义和强制实施智能体行为策略，确保其操作符合组织规范和法律法规。\n- **零信任身份 (Zero-Trust Identity)**：为每个智能体提供独立的身份认证和授权机制，遵循零信任安全模型，最小化权限暴露。\n- **执行沙箱 (Execution Sandboxing)**：将智能体的运行环境隔离在沙箱中，限制其对系统资源的访问，防止恶意或意外操作造成破坏。\n- **可靠性工程 (Reliability Engineering)**：提供监控、日志、故障恢复等可靠性保障机制，确保智能体长期稳定运行。\n\n## 技术亮点\n\n- **全面覆盖 OWASP Agentic Top 10**：项目明确针对智能体特有的十大安全风险（如提示注入、数据泄露、权限滥用等）提供防护措施，是当前少数系统性应对该标准的开源方案。\n- **微软背书**：由微软官方维护，代码质量和社区支持有保障，适合企业级应用。\n- **Python 生态**：基于 Python 开发，易于集成到现有 AI 工作流中。\n\n## 适用场景\n\n- 企业部署自主 AI 助手或智能体时，需要满足安全合规要求。\n- 开发涉及敏感数据或关键业务操作的智能体应用。\n- 研究智能体安全治理框架，或作为 OWASP Agentic Top 10 的参考实现。\n\n## 社区与热度\n\n- 当前 GitHub 星标 5563，周增 652 星，说明项目近期受到广泛关注。\n- 拥有 894 个 fork，社区活跃度较高。\n\n## 总结\n\n该工具包为 AI 智能体的安全治理提供了开箱即用的解决方案，尤其适合对安全性要求高的企业场景。其与 OWASP 标准的对齐使其成为智能体安全领域的重要参考项目。",
+  "tags": [
+    "AI Agent",
+    "治理",
+    "安全",
+    "零信任",
+    "沙箱",
+    "OWASP",
+    "微软",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:50+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 5563,
+    "forks": 894,
+    "daily_stars": null,
+    "weekly_stars": 652,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

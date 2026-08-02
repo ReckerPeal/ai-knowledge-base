@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-2aac2a1cf3",
+  "title": "superplanehq/superplane",
+  "source": "github_trending",
+  "source_url": "https://github.com/superplanehq/superplane",
+  "summary": "Superplane 是面向智能体工程的开源控制平面。",
+  "content": "Superplane 是一个开源的控制平面，专为智能体工程（agentic engineering）设计。它旨在为构建、部署和管理 AI 智能体提供统一的基础设施层，类似于 Kubernetes 对容器编排的作用。该项目使用 Go 语言开发，目前在 GitHub 上已获得 4385 颗星，显示出社区的高度关注。其核心功能可能包括智能体的生命周期管理、任务调度、资源分配、可观测性以及与现有开发工具的集成。对于希望在生产环境中大规模运行 AI 智能体的团队而言，Superplane 提供了一种标准化的方式来简化复杂性和提升运维效率。",
+  "tags": [
+    "控制平面",
+    "智能体工程",
+    "AI基础设施",
+    "开源",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "superplanehq",
+    "stars": 4385,
+    "forks": 425,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

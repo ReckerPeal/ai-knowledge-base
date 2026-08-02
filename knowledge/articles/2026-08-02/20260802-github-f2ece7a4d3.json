@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-f2ece7a4d3",
+  "title": "Hmbown/CodeWhale",
+  "source": "github_trending",
+  "source_url": "https://github.com/Hmbown/CodeWhale",
+  "summary": "CodeWhale 是一个开源的、社区驱动的智能体（Agent）框架，旨在为开发者提供灵活、可扩展的自动化任务执行能力。该项目使用 Rust 语言开发，强调性能与安全性，并鼓励社区贡献以持续演进。",
+  "content": "CodeWhale 是一个开源的、社区驱动的智能体（Agent）框架，基于 Rust 语言构建，旨在为开发者提供高效、安全的自动化任务执行环境。其核心设计理念是“社区驱动”，意味着项目的发展方向、功能迭代和生态建设均由社区成员共同参与和推动，确保工具能够贴近实际需求并快速响应变化。\n\n作为“agent harness”，CodeWhale 提供了一套完整的工具链，用于构建、部署和管理智能体。它可能包含任务调度、上下文管理、工具调用接口、日志记录、错误处理等模块，使开发者能够专注于业务逻辑而无需从零搭建基础设施。Rust 语言的选择带来了内存安全、高性能和并发优势，特别适合需要高可靠性和低延迟的自动化场景。\n\n该项目在 GitHub 上表现活跃，已获得超过 4 万颗星，显示出强大的社区认可度。其开源特性允许任何人审查代码、提交改进建议或贡献新功能，从而形成良性循环。对于希望构建自定义智能体或集成自动化能力的开发者而言，CodeWhale 提供了一个坚实的起点，并可通过社区支持获得持续更新和最佳实践。",
+  "tags": [
+    "agent",
+    "rust",
+    "open-source",
+    "community-driven",
+    "automation",
+    "harness"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Hmbown",
+    "stars": 40334,
+    "forks": 3486,
+    "daily_stars": 37,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

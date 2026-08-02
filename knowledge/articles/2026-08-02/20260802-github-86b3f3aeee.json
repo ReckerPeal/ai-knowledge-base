@@ -1,0 +1,34 @@
+{
+  "id": "20260802-github-86b3f3aeee",
+  "title": "adithyan-ak/AgentHound",
+  "source": "github_trending",
+  "source_url": "https://github.com/adithyan-ak/AgentHound",
+  "summary": "AgentHound 是一个针对 AI 智能体基础设施的进攻性安全框架，提供侦察、凭证窃取、模型外泄、投毒和攻击路径分析等功能，覆盖 MCP、A2A、网关和 AI 服务，被誉为“智能体栈的 BloodHound”。",
+  "content": "AgentHound 是一个专注于 AI 智能体基础设施的进攻性安全框架，旨在帮助安全研究人员和红队评估 AI 系统的安全性。它支持对 MCP（Model Context Protocol）、A2A（Agent-to-Agent）协议、网关和 AI 服务进行全面的安全测试，包括侦察、凭证窃取、模型外泄、投毒和攻击路径分析。该项目由 adithyan-ak 开发，使用 Go 语言编写，目前在 GitHub 上获得 191 颗星和 44 个 fork，近期热度上升（日增 37 星）。它被视为“智能体栈的 BloodHound”，即像 BloodHound 分析 Active Directory 攻击路径一样，AgentHound 用于分析 AI 智能体环境的攻击路径。该工具对于理解 AI 基础设施的安全风险、进行渗透测试和安全审计具有重要价值。",
+  "tags": [
+    "AI安全",
+    "进攻性安全",
+    "智能体",
+    "MCP",
+    "A2A",
+    "渗透测试",
+    "红队",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "adithyan-ak",
+    "stars": 191,
+    "forks": 44,
+    "daily_stars": 37,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

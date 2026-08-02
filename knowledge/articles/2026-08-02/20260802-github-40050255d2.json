@@ -1,0 +1,36 @@
+{
+  "id": "20260802-github-40050255d2",
+  "title": "tonhowtf/omniget",
+  "source": "github_trending",
+  "source_url": "https://github.com/tonhowtf/omniget",
+  "summary": "omniget 是一款免费开源的桌面应用，支持从 1800+ 网站下载 Udemy、Hotmart 课程、YouTube 视频、音乐和电子书，无需终端操作，内置课程播放器、PDF/EPUB 阅读器和音乐库，基于 yt-dlp 构建，文件保存在本地，支持 Windows、macOS 和 Linux。",
+  "content": "omniget 是一个跨平台的桌面下载工具，旨在简化数字内容的获取。它整合了 yt-dlp 的强大下载能力，并提供了友好的图形界面，用户无需命令行即可从超过 1800 个网站下载内容。该应用特别针对在线教育领域，支持 Udemy 和 Hotmart 课程，同时也覆盖 YouTube 视频、音乐和电子书。内置的课程播放器、PDF/EPUB 阅读器和音乐库让用户能够直接在应用内管理并播放已下载的内容。所有下载的文件均保存在用户本地，保障了数据隐私。项目使用 Rust 编写，在 GitHub 上获得了 8270 颗星和 700 个 fork，周增长 499 星，显示出较高的社区关注度。",
+  "tags": [
+    "下载工具",
+    "桌面应用",
+    "yt-dlp",
+    "在线课程",
+    "视频下载",
+    "音乐下载",
+    "电子书",
+    "跨平台",
+    "Rust",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tonhowtf",
+    "stars": 8270,
+    "forks": 700,
+    "daily_stars": null,
+    "weekly_stars": 499,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

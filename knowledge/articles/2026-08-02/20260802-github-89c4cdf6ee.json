@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-89c4cdf6ee",
+  "title": "wezterm/wezterm",
+  "source": "github_trending",
+  "source_url": "https://github.com/wezterm/wezterm",
+  "summary": "WezTerm 是一个由 @wez 用 Rust 编写的 GPU 加速跨平台终端模拟器和多路复用器。",
+  "content": "WezTerm 是一个高性能的跨平台终端模拟器，利用 GPU 加速渲染，提供流畅的显示效果。它支持多路复用（multiplexing），允许用户在一个终端窗口中管理多个会话。项目使用 Rust 语言实现，强调安全性和性能。该仓库在 GitHub 上拥有 28,100 颗星和 1,636 个 fork，近期每日新增约 19 颗星，显示出持续的热度。WezTerm 支持丰富的自定义配置，包括字体、颜色、快捷键等，并内置了 SSH、分屏、标签页等功能。它适用于 Linux、macOS 和 Windows 平台，是开发者常用的终端工具之一。",
+  "tags": [
+    "终端模拟器",
+    "GPU加速",
+    "多路复用",
+    "Rust",
+    "跨平台",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "wezterm",
+    "stars": 28100,
+    "forks": 1636,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

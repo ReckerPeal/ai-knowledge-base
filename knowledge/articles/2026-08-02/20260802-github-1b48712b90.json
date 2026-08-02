@@ -1,0 +1,33 @@
+{
+  "id": "20260802-github-1b48712b90",
+  "title": "andrewyng/aisuite",
+  "source": "github_trending",
+  "source_url": "https://github.com/andrewyng/aisuite",
+  "summary": "aisuite 是一个由 Andrew Ng 开发的开源 Python 库，提供统一的简单接口，用于访问多个生成式 AI 提供商，简化了不同 AI 模型之间的切换和集成。",
+  "content": "aisuite 是一个轻量级的 Python 库，旨在为多个生成式 AI 提供商提供统一、简洁的接口。它由知名 AI 专家 Andrew Ng 创建，目前在 GitHub 上已获得超过 15,000 颗星，显示出社区的高度关注。该库的核心价值在于抽象化不同 AI 提供商（如 OpenAI、Anthropic、Google 等）的 API 差异，使开发者能够通过一致的代码风格调用不同模型，从而降低切换成本并提高开发效率。aisuite 特别适合需要快速原型开发或希望避免供应商锁定的场景。其设计哲学强调简单性，用户只需几行代码即可完成模型调用。此外，该项目积极维护，近期周增星数达到 584，表明其活跃度和受欢迎程度持续上升。对于 Python 开发者而言，aisuite 是一个值得关注和尝试的工具。",
+  "tags": [
+    "AI",
+    "生成式AI",
+    "Python",
+    "统一接口",
+    "多提供商",
+    "开源",
+    "Andrew Ng"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:50+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "andrewyng",
+    "stars": 15869,
+    "forks": 1681,
+    "daily_stars": null,
+    "weekly_stars": 584,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

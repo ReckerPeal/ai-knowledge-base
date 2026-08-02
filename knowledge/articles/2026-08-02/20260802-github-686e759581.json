@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-686e759581",
+  "title": "ruffle-rs/ruffle",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruffle-rs/ruffle",
+  "summary": "Ruffle 是一个用 Rust 编写的 Flash Player 模拟器，旨在通过 WebAssembly 在浏览器中安全运行 Flash 内容，同时提供桌面端支持。",
+  "content": "Ruffle 是一个用 Rust 编写的 Flash Player 模拟器，它通过 WebAssembly 技术在现代浏览器中运行 Flash 内容，无需安装插件，从而解决了 Flash 停止维护后的兼容性问题。该项目支持 ActionScript 1/2/3 和大部分 Flash 功能，并提供了桌面端应用。Ruffle 在 GitHub 上拥有超过 1.8 万星标，社区活跃，持续更新，是 Flash 内容存档和迁移的重要工具。",
+  "tags": [
+    "Flash",
+    "模拟器",
+    "Rust",
+    "WebAssembly",
+    "浏览器扩展"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ruffle-rs",
+    "stars": 18379,
+    "forks": 1054,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

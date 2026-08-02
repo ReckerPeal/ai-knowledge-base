@@ -1,0 +1,36 @@
+{
+  "id": "20260802-github-ab15f474a2",
+  "title": "bytedance/deer-flow",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "summary": "deer-flow 是字节跳动开源的一个长时程 SuperAgent 框架，能够自主完成研究、编码和创作等复杂任务。它通过沙箱、记忆、工具、技能、子代理和消息网关等组件，处理从几分钟到数小时不等的多层级任务。",
+  "content": "deer-flow 是一个面向长时程任务的开源智能体框架，由字节跳动开发并维护。其核心设计目标是让 AI 代理能够处理需要持续数分钟到数小时的复杂任务，而不仅仅是简单的单步交互。\n\n该框架提供了丰富的组件来支持任务的执行：\n- **沙箱（Sandboxes）**：为代码执行和任务运行提供隔离环境，确保安全性和稳定性。\n- **记忆（Memories）**：支持长期和短期记忆，使代理能够跨步骤保留上下文信息。\n- **工具（Tools）**：集成外部 API 和功能，扩展代理的能力边界。\n- **技能（Skills）**：封装可复用的能力模块，提高任务执行效率。\n- **子代理（Subagents）**：允许任务分解和并行处理，提升复杂任务的完成能力。\n- **消息网关（Message Gateway）**：负责代理与外部系统之间的通信，确保消息传递的可靠性和实时性。\n\ndeer-flow 的设计哲学是提供一个灵活、可扩展的框架，适用于从自动化研究到软件开发的多种场景。它已经在 GitHub 上获得了近 8 万星标，显示出社区的高度认可。\n\n该项目的技术栈基于 Python，适合开发者快速集成和二次开发。无论是个人开发者还是企业团队，都可以利用 deer-flow 构建强大的 AI 代理应用。",
+  "tags": [
+    "AI Agent",
+    "SuperAgent",
+    "长时程任务",
+    "自动化",
+    "Python",
+    "字节跳动",
+    "开源框架",
+    "沙箱",
+    "记忆系统",
+    "子代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:40+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "bytedance",
+    "stars": 78896,
+    "forks": 10764,
+    "daily_stars": 209,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-f33d1256ee",
+  "title": "1jehuang/jcode",
+  "source": "github_trending",
+  "source_url": "https://github.com/1jehuang/jcode",
+  "summary": "jcode 是一个以极高内存效率著称的 Rust 编程语言项目，在 GitHub 上获得了超过 1.5 万颗星，近期热度持续上升。",
+  "content": "## 项目概述\njcode 是一个用 Rust 编写的开源项目，其核心卖点是“最节省内存的测试工具”（The most RAM efficient harness）。该项目在 GitHub 上表现亮眼，目前拥有 15,098 颗星和 1,672 个 fork，周增长星数达 3,548 颗，显示出强劲的社区关注度。\n\n## 技术亮点\n- **内存效率**：项目宣称在同类工具中内存占用最低，这对于资源受限的环境或大规模测试场景尤为重要。\n- **Rust 语言**：利用 Rust 的内存安全特性和零成本抽象，实现了高性能与低资源消耗的平衡。\n- **测试工具定位**：从名称和描述推测，它可能是一个测试框架或测试运行器，专注于优化测试执行时的内存使用。\n\n## 社区与热度\n- 该项目入选 GitHub 热点（Rust 分类），反映了其在开发者社区中的影响力。\n- 周增长星数超过 3,500，说明近期获得了大量关注，可能源于新功能发布或社区推荐。\n\n## 适用场景\n适合对内存占用敏感的开发环境，例如嵌入式系统、容器化测试、或需要并行运行大量测试的 CI/CD 流水线。",
+  "tags": [
+    "Rust",
+    "内存效率",
+    "测试工具",
+    "GitHub热点",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "1jehuang",
+    "stars": 15098,
+    "forks": 1672,
+    "daily_stars": null,
+    "weekly_stars": 3548,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

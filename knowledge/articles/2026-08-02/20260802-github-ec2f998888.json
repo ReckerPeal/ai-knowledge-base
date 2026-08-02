@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-ec2f998888",
+  "title": "nrwl/nx",
+  "source": "github_trending",
+  "source_url": "https://github.com/nrwl/nx",
+  "summary": "Nx 是一个 Monorepo 平台，旨在提升开发者和 AI 代理的效率。它优化构建、扩展 CI，并自动修复失败的 PR，从而将交付时间缩短一半。",
+  "content": "Nx 是一个强大的 Monorepo 构建系统，由 Nrwl 团队开发，使用 TypeScript 编写。它提供了先进的构建优化、智能缓存、任务编排和分布式 CI 支持。Nx 不仅支持前端框架（如 React、Angular、Vue），还支持 Node.js 等后端技术栈。其核心优势包括：\n- **构建优化**：通过增量构建和缓存，显著减少重复计算，加速构建过程。\n- **CI 扩展**：支持远程缓存和分布式任务执行，使 CI 流水线能够轻松扩展，处理大型项目。\n- **自动修复 PR**：利用 AI 能力自动分析和修复失败的 Pull Request，减少人工干预。\n- **开发者体验**：提供丰富的命令行工具和可视化依赖图，帮助开发者理解和管理项目结构。\n- **AI 集成**：Nx 的设计考虑到了 AI 代理的协作，使其能够更高效地执行任务。\n\n该项目在 GitHub 上拥有 29k+ 星标，社区活跃，是 Monorepo 领域的领先工具之一。",
+  "tags": [
+    "Monorepo",
+    "构建工具",
+    "CI/CD",
+    "TypeScript",
+    "AI",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:43+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "nrwl",
+    "stars": 29170,
+    "forks": 2930,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

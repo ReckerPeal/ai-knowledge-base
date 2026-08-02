@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-9146ff1756",
+  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "source": "rss",
+  "source_url": "https://openai.com/index/avatarin",
+  "summary": "avatarin 利用 OpenAI 的 GPT-Realtime 为山田电机（Yamada Denki）的顾客提供 24/7 多语言支持。在两周内，有 30,000 人使用了该智能体，92% 的调研反馈为正面。",
+  "content": "## 背景\navatarin 是一家专注于远程呈现和机器人技术的公司，近期与日本家电零售商山田电机合作，部署了一款基于 GPT-Realtime 的零售智能体。该智能体旨在为顾客提供全天候的多语言购物支持，解决传统人工客服时间限制和多语言需求的问题。\n\n## 技术实现\n- **核心模型**：使用 OpenAI 的 GPT-Realtime，支持实时语音交互和自然语言理解。\n- **多语言支持**：能够处理多种语言的查询，满足国际游客和本地顾客的需求。\n- **部署周期**：从开发到上线仅用两周时间，体现了 GPT-Realtime 的易用性和快速集成能力。\n\n## 成果与影响\n- **用户规模**：两周内吸引了 30,000 名用户使用，显示出较高的市场接受度。\n- **用户反馈**：92% 的调研反馈为正面，表明智能体在解决用户问题方面表现出色。\n- **运营效率**：24/7 可用性减少了人工客服压力，同时提升了顾客满意度。\n\n## 意义与展望\n该案例展示了 GPT-Realtime 在零售行业的实际应用潜力，为其他企业提供了参考。未来，avatarin 计划将该技术扩展到更多场景，如远程协助和自动化服务，进一步推动人机协作。",
+  "tags": [
+    "GPT-Realtime",
+    "零售智能体",
+    "多语言支持",
+    "OpenAI",
+    "avatarin",
+    "客户服务",
+    "实时交互"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "collected_at": "2026-08-02T19:12:58+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

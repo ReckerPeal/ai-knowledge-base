@@ -1,0 +1,34 @@
+{
+  "id": "20260802-github-86f68b212c",
+  "title": "abus-aikorea/voice-pro",
+  "source": "github_trending",
+  "source_url": "https://github.com/abus-aikorea/voice-pro",
+  "summary": "voice-pro 是一个面向创作者和开发者的 Gradio WebUI，集成了多种先进的语音技术，包括 TTS（Edge-TTS、kokoro）、零样本语音克隆（E2 & F5-TTS、CosyVoice）、Whisper 音频处理、YouTube 下载、Demucs 人声分离和多语言翻译。",
+  "content": "voice-pro 是一个基于 Python 的 Gradio WebUI 项目，旨在为创作者和开发者提供一站式语音处理解决方案。其核心功能包括：\n- **文本转语音 (TTS)**：支持 Edge-TTS 和 kokoro 引擎，可生成高质量语音。\n- **零样本语音克隆**：集成 E2 & F5-TTS 和 CosyVoice，无需训练即可克隆任意说话人声音。\n- **音频处理**：使用 Whisper 进行语音识别和转写，支持音频文件处理。\n- **内容获取**：内置 YouTube 下载功能，方便获取视频音频。\n- **人声分离**：集成 Demucs，可分离人声和伴奏。\n- **多语言翻译**：支持多语言翻译，便于跨语言内容创作。\n该项目在 GitHub 上拥有 11939 星和 1734 个 fork，近期日增 58 星，显示出较高的社区关注度。适合需要快速构建语音相关应用的开发者，以及需要处理音频内容的创作者。",
+  "tags": [
+    "TTS",
+    "语音克隆",
+    "Gradio",
+    "Whisper",
+    "Demucs",
+    "YouTube",
+    "多语言翻译",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:40+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "abus-aikorea",
+    "stars": 11939,
+    "forks": 1734,
+    "daily_stars": 58,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

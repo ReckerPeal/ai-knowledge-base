@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-958c3c31b3",
+  "title": "AlexxIT/go2rtc",
+  "source": "github_trending",
+  "source_url": "https://github.com/AlexxIT/go2rtc",
+  "summary": "go2rtc 是一个终极摄像头流媒体应用，支持多种协议和流媒体功能，旨在简化摄像头视频流的接入和转发。",
+  "content": "go2rtc 是一个用 Go 语言编写的开源项目，专注于摄像头流媒体处理。它支持多种流媒体协议（如 RTSP、RTMP、HLS、WebRTC 等），能够将不同来源的摄像头视频流统一转换为 WebRTC 或其他格式，以便在浏览器或移动设备上实时播放。该项目提供了简单的配置和 API，支持硬件加速、多路流管理、录制和转码等功能，适用于家庭监控、智能家居和视频集成场景。其设计目标是成为摄像头流媒体的终极解决方案，具有高性能和低延迟的特点。",
+  "tags": [
+    "摄像头",
+    "流媒体",
+    "RTSP",
+    "WebRTC",
+    "Go",
+    "视频处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "AlexxIT",
+    "stars": 13679,
+    "forks": 1212,
+    "daily_stars": 44,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-57bbe9cb5d",
+  "title": "microsoft/TRELLIS.2",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/TRELLIS.2",
+  "summary": "TRELLIS.2 是微软发布的一个用于 3D 生成的原生且紧凑的结构化潜空间模型，旨在提升 3D 内容生成的效率与质量。",
+  "content": "TRELLIS.2 是微软开源的一个 3D 生成项目，其核心创新在于引入了“原生且紧凑的结构化潜空间”（Native and Compact Structured Latents），以解决传统 3D 生成中潜空间表示冗余、计算开销大的问题。该项目在 GitHub 上获得超过 1 万星标，周增长近 900 星，显示出社区的高度关注。TRELLIS.2 可能基于扩散模型或自回归模型，通过将 3D 数据压缩为结构化潜码，实现更高效的生成和更好的几何细节保留。该仓库主要使用 Python 编写，适合对 3D 生成、计算机视觉和生成式 AI 感兴趣的研究者与开发者。",
+  "tags": [
+    "3D生成",
+    "结构化潜空间",
+    "微软",
+    "生成模型",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:50+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 10063,
+    "forks": 1207,
+    "daily_stars": null,
+    "weekly_stars": 898,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

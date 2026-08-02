@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-cfa19f8417",
+  "title": "kgretzky/evilginx2",
+  "source": "github_trending",
+  "source_url": "https://github.com/kgretzky/evilginx2",
+  "summary": "evilginx2 是一个独立的中间人攻击框架，用于网络钓鱼登录凭据和会话 Cookie，从而绕过双因素认证。",
+  "content": "evilginx2 是一个用 Go 语言编写的独立中间人攻击框架，主要用于网络钓鱼攻击。它通过充当反向代理，在用户与真实网站之间建立中间人会话，从而窃取登录凭据和会话 Cookie。由于它能够捕获会话 Cookie，因此可以绕过双因素认证（2FA）的保护。该工具通常用于红队演练和安全测试，以评估组织对钓鱼攻击的防御能力。项目在 GitHub 上拥有超过 15,000 星标，表明其受到安全社区的广泛关注。",
+  "tags": [
+    "中间人攻击",
+    "网络钓鱼",
+    "双因素认证绕过",
+    "Go",
+    "安全工具",
+    "红队"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kgretzky",
+    "stars": 15411,
+    "forks": 2687,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

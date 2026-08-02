@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-f06414b510",
+  "title": "modelcontextprotocol/typescript-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/typescript-sdk",
+  "summary": "modelcontextprotocol/typescript-sdk 是 Model Context Protocol (MCP) 的官方 TypeScript SDK，用于构建 MCP 服务器和客户端。该项目在 GitHub 上拥有 13040 颗星和 2039 个 fork，近期周增星 97 颗，是 TypeScript 生态中实现 MCP 的核心工具库。",
+  "content": "## 项目概述\n\nmodelcontextprotocol/typescript-sdk 是 Model Context Protocol (MCP) 的官方 TypeScript SDK，为开发者提供了构建 MCP 服务器和客户端的完整工具集。MCP 是一种开放协议，旨在标准化 AI 模型与外部数据源、工具之间的交互方式，类似于 AI 应用中的 USB-C 接口。\n\n## 核心功能\n\n- **服务器端支持**：提供创建 MCP 服务器的 API，支持暴露工具、资源和提示模板，使 AI 模型能够安全地访问外部能力。\n- **客户端支持**：提供连接 MCP 服务器的客户端库，支持发现和调用远程工具，适用于构建 AI 助手或集成开发环境。\n- **类型安全**：基于 TypeScript 编写，提供完整的类型定义，确保开发时的类型检查和 IDE 智能提示。\n- **传输层抽象**：支持多种传输方式（如 stdio、HTTP/SSE），便于在不同环境中部署。\n\n## 技术亮点\n\n- **官方维护**：由 Model Context Protocol 官方团队维护，确保与协议规范同步更新。\n- **社区活跃**：13040 颗星和 2039 个 fork 表明项目受到广泛关注，周增星 97 颗显示持续热度。\n- **生态基础**：作为 MCP 的 TypeScript 参考实现，是构建 AI 工具链的重要基石。\n\n## 适用场景\n\n- 开发 AI 助手或聊天机器人，需要集成外部工具（如数据库、API、文件系统）。\n- 构建 IDE 插件或开发工具，使 AI 能够理解代码库和上下文。\n- 实现 AI 代理系统，需要动态调用外部服务。\n\n## 总结\n\n该 SDK 是 TypeScript 开发者进入 MCP 生态的入口，适合需要将 AI 能力与外部世界连接的场景。其官方地位和活跃社区保证了项目的可靠性和前瞻性。",
+  "tags": [
+    "TypeScript",
+    "Model Context Protocol",
+    "SDK",
+    "AI",
+    "MCP",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-02T19:12:53+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 13040,
+    "forks": 2039,
+    "daily_stars": null,
+    "weekly_stars": 97,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

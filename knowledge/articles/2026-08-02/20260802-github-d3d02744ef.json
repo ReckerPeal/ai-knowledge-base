@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-d3d02744ef",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "本文详细介绍了从自有可路由 IPv4 地址段开始自托管电子邮件的完整过程，强调了这一方式的复杂性和挑战性，并提供了相关的技术细节和操作指南。",
+  "content": "文章标题为“Self-hosting email the hard way from your own routable IPv4 block up”，作者分享了从零开始自托管电子邮件的经验。内容涵盖获取和配置自有 IPv4 地址段、设置反向 DNS、邮件服务器软件选择、SPF/DKIM/DMARC 等认证机制、以及应对 IP 信誉和黑名单问题的策略。文章还讨论了自托管邮件的优缺点，并提供了实用的建议和资源链接。",
+  "tags": [
+    "self-hosting",
+    "email",
+    "IPv4",
+    "邮件服务器",
+    "DNS",
+    "SPF",
+    "DKIM",
+    "DMARC"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-08T16:47:00-05:00",
+  "collected_at": "2026-08-02T19:12:58+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
