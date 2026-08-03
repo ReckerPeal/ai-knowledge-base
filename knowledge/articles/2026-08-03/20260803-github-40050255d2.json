@@ -1,0 +1,35 @@
+{
+  "id": "20260803-github-40050255d2",
+  "title": "tonhowtf/omniget",
+  "source": "github_trending",
+  "source_url": "https://github.com/tonhowtf/omniget",
+  "summary": "omniget 是一款免费开源的桌面应用，支持从 1800+ 网站下载 Udemy、Hotmart 课程、YouTube 视频、音乐和电子书，无需使用终端。内置课程播放器、PDF/EPUB 阅读器和音乐库，基于 yt-dlp 构建，支持 Windows、macOS 和 Linux，所有文件均保存在本地。",
+  "content": "## 项目概述\n\nomniget 是一个跨平台的桌面下载工具，旨在简化从多个在线平台获取内容的过程。它支持下载 Udemy 和 Hotmart 的课程、YouTube 视频、音乐和电子书，覆盖超过 1800 个网站。用户无需使用命令行，通过图形界面即可完成下载操作。\n\n## 核心功能\n\n- **多平台下载**：支持 Udemy、Hotmart、YouTube 等主流平台，以及大量其他网站。\n- **内置播放器**：集成课程播放器，方便用户直接观看下载的课程。\n- **阅读器支持**：内置 PDF/EPUB 阅读器，便于阅读电子书。\n- **音乐库管理**：提供音乐库功能，管理下载的音乐文件。\n- **本地存储**：所有下载的文件均保存在用户本地计算机，保护隐私。\n\n## 技术实现\n\n- **基于 yt-dlp**：利用 yt-dlp 强大的下载能力，支持多种协议和网站。\n- **跨平台框架**：使用 Rust 开发，确保在 Windows、macOS 和 Linux 上高效运行。\n- **开源免费**：项目完全开源，用户可以自由使用和修改。\n\n## 适用场景\n\n- 教育工作者和学生：下载在线课程以便离线学习。\n- 内容创作者：备份自己的视频或音频内容。\n- 普通用户：下载喜欢的音乐、视频和电子书，方便离线欣赏。\n\n## 项目亮点\n\n- **无需终端**：图形界面友好，适合非技术用户。\n- **高星关注**：在 GitHub 上获得 8322 星，社区活跃。\n- **持续更新**：每周获得大量 star，表明项目活跃且受欢迎。\n\n## 总结\n\nomniget 是一个功能强大且易用的下载工具，适合需要从多个平台获取内容的用户。其开源特性和跨平台支持使其成为值得尝试的解决方案。",
+  "tags": [
+    "下载工具",
+    "开源",
+    "跨平台",
+    "yt-dlp",
+    "Rust",
+    "桌面应用",
+    "课程下载",
+    "音乐下载",
+    "电子书"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tonhowtf",
+    "stars": 8322,
+    "forks": 708,
+    "daily_stars": null,
+    "weekly_stars": 474,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

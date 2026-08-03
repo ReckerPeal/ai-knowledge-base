@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-f06414b510",
+  "title": "modelcontextprotocol/typescript-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/typescript-sdk",
+  "summary": "Model Context Protocol（MCP）的官方 TypeScript SDK，用于构建 MCP 服务器和客户端。",
+  "content": "该仓库是 Model Context Protocol（MCP）的官方 TypeScript SDK，提供了一套完整的工具和类型定义，帮助开发者使用 TypeScript 语言快速构建符合 MCP 规范的服务器和客户端。MCP 是一种开放协议，旨在标准化 AI 模型与外部数据源、工具之间的交互方式。该 SDK 封装了协议细节，提供了高层 API，支持多种传输方式（如 stdio、HTTP/SSE），并包含错误处理、日志、认证等辅助功能。当前仓库在 GitHub 上拥有 13k+ stars，社区活跃，是 MCP 生态中 TypeScript 开发者的首选库。",
+  "tags": [
+    "MCP",
+    "TypeScript",
+    "SDK",
+    "AI",
+    "协议",
+    "服务器",
+    "客户端"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:20+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 13048,
+    "forks": 2044,
+    "daily_stars": null,
+    "weekly_stars": 99,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

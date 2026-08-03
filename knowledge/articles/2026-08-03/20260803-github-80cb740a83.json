@@ -1,0 +1,31 @@
+{
+  "id": "20260803-github-80cb740a83",
+  "title": "clockworklabs/SpacetimeDB",
+  "source": "github_trending",
+  "source_url": "https://github.com/clockworklabs/SpacetimeDB",
+  "summary": "SpacetimeDB 是一个以‘光速开发’为理念的实时数据库平台，基于 Rust 构建，旨在将应用逻辑与数据库深度融合，简化后端开发。",
+  "content": "SpacetimeDB 由 clockworklabs 开发，是一个开源的实时数据库系统，其核心理念是‘Development at the speed of light’（光速开发）。它允许开发者直接在数据库内部运行应用逻辑（如用 Rust 编写模块），从而减少传统架构中客户端、服务器和数据库之间的通信开销，实现低延迟的实时数据同步。该项目在 GitHub 上表现活跃，已获得约 2.5 万星标，周增星标 146，显示出较强的社区关注度。其技术栈以 Rust 为主，适合需要高并发、实时更新的应用场景，如游戏、协作工具和物联网。",
+  "tags": [
+    "实时数据库",
+    "Rust",
+    "后端开发",
+    "低延迟",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "clockworklabs",
+    "stars": 24972,
+    "forks": 1034,
+    "daily_stars": null,
+    "weekly_stars": 146,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

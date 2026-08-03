@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-1926cee977",
+  "title": "opengeos/GeoLibre",
+  "source": "github_trending",
+  "source_url": "https://github.com/opengeos/GeoLibre",
+  "summary": "GeoLibre 是一个轻量级、云原生的 GIS 平台，用于可视化、探索和分析地理空间数据。它支持在 Web 浏览器、桌面、移动设备以及 Jupyter 笔记本中运行。",
+  "content": "GeoLibre 是一个基于 TypeScript 构建的开源地理信息系统（GIS）平台，旨在提供轻量级、云原生的地理空间数据解决方案。其核心优势在于跨平台运行能力，用户无需安装复杂软件即可在浏览器、桌面、移动设备及 Jupyter 笔记本中直接使用，极大降低了 GIS 的使用门槛。该项目由 opengeos 团队维护，在 GitHub 上已获得 5084 颗星和 507 个 fork，近期周增长 2933 颗星，显示出较高的社区关注度。GeoLibre 可能集成了现代前端技术栈，支持常见地理数据格式（如 GeoJSON、Shapefile）的加载与交互式分析，适合科研、教育及快速原型开发场景。其云原生特性意味着可无缝集成到云端工作流中，支持大规模数据可视化。对于开发者而言，该项目提供了灵活的扩展接口，可定制化构建专属 GIS 应用。",
+  "tags": [
+    "GIS",
+    "地理空间",
+    "云原生",
+    "TypeScript",
+    "可视化",
+    "Jupyter",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:20+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "opengeos",
+    "stars": 5084,
+    "forks": 507,
+    "daily_stars": null,
+    "weekly_stars": 2933,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260803-github-cc8e132c61",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "summary": "OpenAI 博客文章介绍了通过启用两个 API 设置，将 GPT-5.6 在 ARC-AGI-3 基准上的得分提高了三倍，同时提升了效率。",
+  "content": "本文详细阐述了如何通过调整两个 API 设置来显著提升 GPT-5.6 在 ARC-AGI-3 基准测试上的表现。这两个设置分别是：保留推理（retaining reasoning）和启用压缩（enabling compaction）。保留推理允许模型在生成过程中保留中间推理步骤，从而增强复杂问题的解决能力；启用压缩则通过压缩上下文信息，减少 token 消耗，提高推理效率。实验结果表明，这两项设置结合使用，不仅将得分提高了三倍，还降低了计算成本，为实际应用提供了优化方向。",
+  "tags": [
+    "OpenAI",
+    "GPT-5.6",
+    "ARC-AGI-3",
+    "API设置",
+    "推理优化",
+    "效率提升"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-29T15:00:00+00:00",
+  "collected_at": "2026-08-03T20:52:25+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

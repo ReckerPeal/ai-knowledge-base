@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-55adc2b2d1",
+  "title": "AlistGo/alist",
+  "source": "github_trending",
+  "source_url": "https://github.com/AlistGo/alist",
+  "summary": "AlistGo/alist 是一个基于 Go 语言开发的文件列表/WebDAV 程序，支持多种存储后端，前端使用 Solidjs。该项目在 GitHub 上拥有近 5 万星标，是当前热门的 Go 语言项目。",
+  "content": "AlistGo/alist 是一个功能强大的文件列表和 WebDAV 服务器程序，由 Go 语言编写，前端采用 Solidjs 框架。它支持多种存储后端，包括本地磁盘、云存储（如阿里云盘、OneDrive、Google Drive 等）以及 FTP、SFTP 等协议，用户可以通过统一的 Web 界面或 WebDAV 协议访问和管理分散在不同存储中的文件。该项目在 GitHub 上广受欢迎，拥有约 5 万星标和近 8000 次 fork，社区活跃，持续更新。其核心优势在于多存储聚合、易于部署（单二进制文件）、跨平台支持以及丰富的扩展性。对于需要统一管理多来源文件的个人或团队，Alist 提供了高效、开源的解决方案。",
+  "tags": [
+    "Go",
+    "WebDAV",
+    "文件列表",
+    "多存储",
+    "Solidjs",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:15+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "AlistGo",
+    "stars": 49989,
+    "forks": 7943,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

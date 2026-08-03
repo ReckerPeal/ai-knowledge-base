@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-c4a2d47c7c",
+  "title": "passteque/gluetun",
+  "source": "github_trending",
+  "source_url": "https://github.com/passteque/gluetun",
+  "summary": "Gluetun 是一个轻量级 Docker 容器中的 VPN 客户端，支持多种 VPN 提供商，使用 Go 语言编写，支持 OpenVPN 和 WireGuard 协议，内置 DNS over TLS 和多个代理服务器。",
+  "content": "Gluetun 是一个基于 Docker 的 VPN 客户端，旨在简化 VPN 连接管理。它支持多种 VPN 提供商，并允许用户通过环境变量进行配置。Gluetun 使用 OpenVPN 或 WireGuard 协议，提供 DNS over TLS 以增强隐私，并内置 HTTP、SOCKS5 等代理服务器，方便容器内其他应用通过 VPN 访问网络。该项目在 GitHub 上拥有 15k+ 星标，社区活跃，适合需要稳定、可配置 VPN 连接的用户。",
+  "tags": [
+    "VPN",
+    "Docker",
+    "Go",
+    "OpenVPN",
+    "WireGuard",
+    "DNS over TLS",
+    "代理服务器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "passteque",
+    "stars": 15056,
+    "forks": 606,
+    "daily_stars": null,
+    "weekly_stars": 83,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

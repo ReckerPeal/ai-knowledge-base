@@ -1,0 +1,32 @@
+{
+  "id": "20260803-github-0407a30dba",
+  "title": "github/gh-stack",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-stack",
+  "summary": "GitHub Stacked PRs 是一个由 GitHub 官方开发的工具，用于简化堆叠式拉取请求（Stacked PRs）的创建和管理流程。它基于 Go 语言实现，旨在帮助开发者更高效地处理复杂的多分支代码审查场景。",
+  "content": "## 项目概述\nGitHub Stacked PRs（gh-stack）是 GitHub 官方推出的命令行工具，用于支持堆叠式拉取请求（Stacked PRs）的工作流。堆叠式 PR 是一种将多个相关变更按依赖顺序排列的代码审查方式，特别适用于大型功能开发或需要分步审查的场景。\n\n## 核心功能\n- **自动创建堆叠 PR**：根据分支依赖关系自动生成一系列有序的 PR，减少手动操作。\n- **简化依赖管理**：自动处理 PR 之间的依赖关系，确保每个 PR 只包含其对应的变更。\n- **高效更新**：当基础分支更新时，自动重新基于最新代码，减少冲突。\n- **与 GitHub 深度集成**：作为 GitHub 官方工具，与 GitHub 的 API 和 CLI 无缝协作。\n\n## 技术特点\n- **语言**：Go，具有高性能和良好的跨平台支持。\n- **易用性**：作为 GitHub CLI 的扩展，安装简单，命令直观。\n- **社区关注**：在 GitHub 上获得 951 星，近期增长迅速（日增 174 星），表明开发者对堆叠 PR 工作流的需求旺盛。\n\n## 适用场景\n- 大型功能开发，需要将代码拆分为多个可独立审查的 PR。\n- 团队协作中，希望提高代码审查的效率和清晰度。\n- 需要频繁更新基础分支并保持 PR 同步的开发者。\n\n## 总结\ngh-stack 为 GitHub 用户提供了一种更结构化的 PR 管理方式，尤其适合复杂项目。其官方背景和 Go 语言实现保证了可靠性和性能，是值得关注的开发工具。",
+  "tags": [
+    "GitHub",
+    "Stacked PRs",
+    "Go",
+    "开发工具",
+    "代码审查",
+    "CLI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 951,
+    "forks": 40,
+    "daily_stars": 174,
+    "weekly_stars": 353,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-3f7f2e4444",
+  "title": "Dicklesworthstone/destructive_command_guard",
+  "source": "github_trending",
+  "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "summary": "Destructive Command Guard (dcg) 是一个用 Rust 编写的开源工具，旨在阻止代理（如 AI 助手）执行危险的 git 和 shell 命令，从而保护系统安全。",
+  "content": "## 项目概述\n\n**Destructive Command Guard (dcg)** 是一个安全防护工具，专门用于拦截和阻止代理（例如 AI 编程助手、自动化脚本）执行可能造成破坏的 git 命令（如 `git push --force`）或 shell 命令（如 `rm -rf`）。它通过预定义的危险命令规则，在命令执行前进行检测和阻断，有效防止意外数据丢失或系统损坏。\n\n## 核心功能\n\n- **危险命令拦截**：内置常见危险 git 和 shell 命令的黑名单，如强制推送、递归删除、格式化磁盘等。\n- **代理友好**：专为 AI 代理设计，可无缝集成到自动化工作流中，提供安全屏障。\n- **轻量高效**：基于 Rust 实现，性能优异，资源占用低。\n- **可配置**：允许用户自定义危险命令列表，灵活适应不同场景。\n\n## 技术亮点\n\n- **语言**：Rust，保证了内存安全和执行效率。\n- **设计理念**：以“默认拒绝”为原则，仅放行明确安全的命令，最大程度降低风险。\n- **适用场景**：CI/CD 管道、AI 代码生成工具、远程执行环境等。\n\n## 项目热度\n\n- **Stars**：5544（截至收集日），近期增长迅速（日增约 19 星）。\n- **Forks**：220，社区关注度较高。\n- **分类**：GitHub 热点 · Rust，属于安全工具领域。\n\n## 总结\n\ndcg 为 AI 代理和自动化脚本提供了一道关键的安全防线，尤其适合需要执行不可信命令的环境。其 Rust 实现保证了高性能，而简单的配置方式降低了使用门槛。对于关注 AI 安全或自动化运维的开发者，这是一个值得关注的项目。",
+  "tags": [
+    "Rust",
+    "安全",
+    "AI代理",
+    "命令拦截",
+    "git",
+    "shell",
+    "防护工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:12+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Dicklesworthstone",
+    "stars": 5544,
+    "forks": 220,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

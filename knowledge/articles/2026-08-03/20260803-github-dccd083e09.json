@@ -1,0 +1,32 @@
+{
+  "id": "20260803-github-dccd083e09",
+  "title": "atuinsh/atuin",
+  "source": "github_trending",
+  "source_url": "https://github.com/atuinsh/atuin",
+  "summary": "atuin 是一个用 Rust 编写的开源工具，旨在让 shell 变得神奇，通过 SQLite 数据库存储 shell 历史记录，提供快速搜索、加密同步和统计功能。",
+  "content": "atuin 是一个用 Rust 编写的开源工具，旨在让 shell 变得神奇。它通过 SQLite 数据库存储 shell 历史记录，提供快速搜索、加密同步和统计功能。该工具支持多种 shell（如 bash、zsh、fish），并允许用户通过快捷键模糊搜索历史命令，同时提供端到端加密的同步服务，确保历史记录的安全。atuin 在 GitHub 上拥有超过 3 万星标，社区活跃，持续更新。",
+  "tags": [
+    "Rust",
+    "shell",
+    "历史记录",
+    "SQLite",
+    "加密同步",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-03T20:52:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "atuinsh",
+    "stars": 30996,
+    "forks": 916,
+    "daily_stars": null,
+    "weekly_stars": 206,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
