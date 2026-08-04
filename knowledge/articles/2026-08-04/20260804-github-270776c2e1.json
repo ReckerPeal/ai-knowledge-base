@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-270776c2e1",
+  "title": "uber/ADR",
+  "source": "github_trending",
+  "source_url": "https://github.com/uber/ADR",
+  "summary": "ADR 是 Uber 开源的企业级 AI 代理安全框架，通过可观测性、安全基准测试和威胁检测来保护 AI 代理，已在 Uber 内部部署。",
+  "content": "## ADR：企业级 AI 代理安全框架\n\nADR（Agent Defense & Response）是 Uber 开源的安全框架，旨在保护企业级 AI 代理免受各种威胁。它通过以下核心能力实现安全防护：\n\n- **可观测性**：提供对 AI 代理行为的全面监控和日志记录，帮助安全团队实时了解代理的活动状态。\n- **安全基准测试**：内置一套基准测试工具，用于评估 AI 代理的安全性，发现潜在漏洞。\n- **威胁检测**：利用先进的检测算法识别恶意行为或异常模式，及时发出警报并采取响应措施。\n\nADR 已在 Uber 生产环境中部署，证明了其在真实场景下的可靠性和有效性。该框架使用 Python 编写，适合集成到现有的 AI 基础设施中。\n\n## 主要特点\n\n- **企业级设计**：专为大规模企业环境设计，满足高可用性和安全性要求。\n- **开源**：代码托管在 GitHub，社区可自由使用和贡献。\n- **实战验证**：经过 Uber 内部大规模部署的检验。\n\n## 适用场景\n\n- 企业 AI 代理的安全监控\n- AI 系统安全评估与合规\n- 威胁情报与应急响应\n\n## 快速开始\n\n用户可以通过 GitHub 仓库获取源码，并按照文档进行安装和配置。建议先运行安全基准测试，了解当前 AI 代理的安全状况。",
+  "tags": [
+    "AI安全",
+    "可观测性",
+    "威胁检测",
+    "安全基准",
+    "Uber",
+    "Python",
+    "企业级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:11+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "uber",
+    "stars": 512,
+    "forks": 60,
+    "daily_stars": 140,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

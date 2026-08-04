@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-4c2682aabb",
+  "title": "django/django",
+  "source": "github_trending",
+  "source_url": "https://github.com/django/django",
+  "summary": "Django 是一个为追求完美并面临截止日期的开发者设计的高级 Python Web 框架，它鼓励快速开发和简洁实用的设计。",
+  "content": "Django 是一个开源的高级 Python Web 框架，遵循模型-模板-视图（MTV）架构模式，旨在简化 Web 开发过程，让开发者能够专注于编写应用逻辑，而无需重复造轮子。它提供了丰富的内置功能，包括对象关系映射（ORM）、自动化的管理后台、用户认证系统、表单处理、安全防护（如 CSRF、XSS 防护）等。Django 强调 DRY（Don't Repeat Yourself）原则和可复用性，使得代码更加整洁和可维护。该框架拥有庞大的社区和丰富的第三方库，广泛应用于各类 Web 应用开发，从简单的博客到复杂的企业级系统。其设计哲学是“为追求完美并面临截止日期的开发者而设计”，即在保证开发效率的同时，不牺牲代码质量和安全性。",
+  "tags": [
+    "Python",
+    "Web框架",
+    "Django",
+    "后端开发",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:11+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "django",
+    "stars": 88319,
+    "forks": 34098,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

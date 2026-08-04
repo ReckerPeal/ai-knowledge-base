@@ -1,0 +1,34 @@
+{
+  "id": "20260804-github-4a4d21f2bb",
+  "title": "LargeModGames/spotatui",
+  "source": "github_trending",
+  "source_url": "https://github.com/LargeModGames/spotatui",
+  "summary": "spotatui 是一个用 Rust 编写的快速、独立的终端音乐播放器，支持原生 Spotify 流媒体播放，以及本地音乐、Subsonic、电台和 YouTube 等音乐源。",
+  "content": "spotatui 是一个用 Rust 编写的快速、独立的终端音乐播放器，支持原生 Spotify 流媒体播放，以及本地音乐、Subsonic、电台和 YouTube 等音乐源。该项目在 GitHub 上获得了 1133 颗星和 218 个 fork，近期每日新增约 2 颗星，属于 GitHub 热点项目中的 Rust 类别。\n\nspotatui 的主要特点包括：\n- **多源支持**：除了 Spotify 原生流媒体，还支持本地音乐文件、Subsonic 服务器、网络电台和 YouTube 视频/音频，满足不同用户的需求。\n- **终端界面**：基于终端 UI，适合喜欢命令行操作的用户，无需图形界面即可享受音乐。\n- **高性能**：采用 Rust 编写，保证了运行速度和资源占用效率，适合在资源受限的环境中运行。\n- **独立运行**：不依赖外部服务或复杂配置，开箱即用，简化了安装和使用流程。\n\n该工具适合开发者、终端爱好者以及希望摆脱图形界面束缚的用户。其代码开源，社区活跃，未来可能持续增加新功能和优化性能。",
+  "tags": [
+    "Rust",
+    "终端音乐播放器",
+    "Spotify",
+    "本地音乐",
+    "Subsonic",
+    "YouTube",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "LargeModGames",
+    "stars": 1133,
+    "forks": 218,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

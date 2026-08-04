@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-830b6ec3fd",
+  "title": "reduxjs/redux",
+  "source": "github_trending",
+  "source_url": "https://github.com/reduxjs/redux",
+  "summary": "Redux 是一个用于可预测全局状态管理的 JavaScript 库，由 Redux 团队维护，在 GitHub 上拥有 61.5k 星标，是前端状态管理领域的事实标准。",
+  "content": "Redux 是一个广受欢迎的 JavaScript 状态管理库，其核心理念是单一数据源、状态只读、使用纯函数进行修改，从而确保状态变化的可预测性。它常与 React 搭配使用，但也可独立用于任何框架或原生 JavaScript。Redux 提供了强大的开发工具支持，如时间旅行调试和状态持久化，适用于大型复杂应用的状态管理。尽管近年来出现了如 Zustand 等更轻量的替代方案，Redux 依然凭借其成熟的生态和社区支持，在企业和大型项目中占据重要地位。",
+  "tags": [
+    "Redux",
+    "状态管理",
+    "JavaScript",
+    "TypeScript",
+    "前端开发",
+    "React",
+    "可预测状态"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:14+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "reduxjs",
+    "stars": 61509,
+    "forks": 15204,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

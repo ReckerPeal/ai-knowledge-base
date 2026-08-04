@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-99c58b0dd0",
+  "title": "angular/angular",
+  "source": "github_trending",
+  "source_url": "https://github.com/angular/angular",
+  "summary": "Angular 是一个由 Google 维护的现代 Web 应用开发框架，旨在帮助开发者自信地交付高质量、可扩展的 Web 应用。它提供完整的工具链，包括组件化架构、依赖注入、路由、表单处理、HTTP 客户端等，并支持响应式编程和跨平台开发。",
+  "content": "Angular 是一个基于 TypeScript 的开源前端框架，由 Google 的 Angular 团队维护。它采用组件化架构，通过模板、装饰器和依赖注入简化开发流程。框架内置了丰富的功能模块，如路由（Router）、表单（Forms）、HTTP 客户端（HttpClient）以及状态管理方案（如 NgRx）。Angular 强调可测试性和可维护性，提供单元测试和端到端测试工具。其最新的 Ivy 编译器显著提升了构建速度和包体积优化。Angular 还支持服务端渲染（Angular Universal）和移动端开发（Ionic 等集成），适用于企业级复杂应用。该仓库是 Angular 框架的核心代码库，拥有超过 10 万星标，社区活跃，版本迭代频繁。",
+  "tags": [
+    "Angular",
+    "前端框架",
+    "TypeScript",
+    "Web开发",
+    "Google",
+    "组件化",
+    "SPA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:14+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "angular",
+    "stars": 100701,
+    "forks": 27382,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-a53af4b5fc",
+  "title": "openai/codex",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/codex",
+  "summary": "OpenAI Codex 是一个轻量级编码代理，直接在终端中运行，旨在提供高效的代码辅助能力。",
+  "content": "OpenAI Codex 是由 OpenAI 开发的一个轻量级编码代理，它运行在用户的终端环境中，无需复杂的图形界面即可提供代码生成、补全和修改等辅助功能。该项目使用 Rust 语言编写，强调性能和轻量化设计。作为 GitHub 上的热门项目，它获得了超过 10 万星标，显示出开发者社区的高度关注。Codex 的核心优势在于其终端集成方式，使得开发者可以在熟悉的命令行工作流中无缝使用 AI 编码助手，减少上下文切换，提升开发效率。该项目可能集成了 OpenAI 的先进语言模型，能够理解自然语言指令并生成相应的代码片段，适用于多种编程任务。",
+  "tags": [
+    "AI编码代理",
+    "终端工具",
+    "Rust",
+    "OpenAI",
+    "代码生成",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:27+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "openai",
+    "stars": 103818,
+    "forks": 15675,
+    "daily_stars": null,
+    "weekly_stars": 1862,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

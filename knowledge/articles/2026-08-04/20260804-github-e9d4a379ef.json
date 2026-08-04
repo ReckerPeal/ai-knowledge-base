@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-e9d4a379ef",
+  "title": "gtsteffaniak/filebrowser",
+  "source": "github_trending",
+  "source_url": "https://github.com/gtsteffaniak/filebrowser",
+  "summary": "📂 Web File Browser 是一个基于 Go 语言开发的轻量级网页文件管理工具，提供简洁直观的 Web 界面，支持文件浏览、上传、下载、编辑等操作，适合个人或团队快速部署使用。",
+  "content": "该项目是一个用 Go 编写的开源 Web 文件浏览器，旨在通过浏览器轻松管理服务器上的文件。它具备以下核心特性：\n- 跨平台支持，可运行于 Linux、macOS、Windows 等系统；\n- 提供响应式 Web 界面，支持移动端访问；\n- 支持文件上传、下载、删除、重命名、移动、复制等基本操作；\n- 内置文本编辑器，可在线编辑代码或文档；\n- 支持用户认证和权限管理，保障文件安全；\n- 可配置为独立服务或嵌入其他应用。\n项目代码结构清晰，使用 Go 标准库和少量第三方依赖，易于扩展和二次开发。当前在 GitHub 上获得 7654 颗星，周增 124 星，社区活跃度较高。",
+  "tags": [
+    "Go",
+    "文件管理",
+    "Web界面",
+    "开源工具",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gtsteffaniak",
+    "stars": 7654,
+    "forks": 402,
+    "daily_stars": null,
+    "weekly_stars": 124,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

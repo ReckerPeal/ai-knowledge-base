@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-e7c4f36d98",
+  "title": "huangruiteng/loopx",
+  "source": "github_trending",
+  "source_url": "https://github.com/huangruiteng/loopx",
+  "summary": "Loopx 是一个轻量级的循环工程状态内核，专为长期运行的 AI 智能体团队设计。它提供与智能体循环无关的解决方案，兼容 Codex、Claude Code 等编码智能体，并具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接等核心功能。",
+  "content": "## 项目概述\nLoopx 是一个面向长期运行的 AI 智能体团队的轻量级循环工程状态内核。它旨在解决多智能体协作中状态管理、任务持久化和可验证性问题，使 AI 智能体能够高效、可靠地完成复杂任务。\n\n## 核心特性\n- **智能体循环无关**：不绑定特定智能体框架，可无缝集成 Codex、Claude Code 等主流编码智能体。\n- **持久目标**：确保长期任务的目标不丢失，支持跨会话恢复。\n- **配额感知自动唤醒**：根据资源配额自动调度智能体，优化资源利用。\n- **可执行待办事项**：将任务分解为可执行的待办项，并跟踪执行状态。\n- **证据日志**：记录每个步骤的执行证据，增强可追溯性。\n- **可验证交接**：支持智能体之间的任务交接，并验证交接的完整性。\n\n## 技术实现\n- **语言**：Python\n- **架构**：轻量级内核设计，强调可扩展性和可嵌入性。\n- **兼容性**：通过抽象接口支持多种智能体循环，降低集成成本。\n\n## 适用场景\n- 需要长期运行的 AI 智能体团队（如自动化运维、持续集成）。\n- 多智能体协作任务，需要状态同步和任务交接。\n- 对任务可追溯性和验证有严格要求的场景。\n\n## 社区反馈\n该项目在 GitHub 上表现活跃，获得 1411 颗星和 96 个 fork，单日新增星标 618，显示出较强的社区关注度。",
+  "tags": [
+    "AI Agent",
+    "状态管理",
+    "循环工程",
+    "Python",
+    "多智能体",
+    "任务调度",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:11+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "huangruiteng",
+    "stars": 1411,
+    "forks": 96,
+    "daily_stars": 618,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

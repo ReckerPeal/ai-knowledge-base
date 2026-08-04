@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-621644f8ff",
+  "title": "PyO3/pyo3",
+  "source": "github_trending",
+  "source_url": "https://github.com/PyO3/pyo3",
+  "summary": "PyO3 是一个用于在 Rust 中绑定 Python 解释器的库，允许开发者用 Rust 编写 Python 扩展模块，并实现 Rust 与 Python 之间的无缝互操作。",
+  "content": "PyO3 是 Rust 生态中最流行的 Python 绑定库，它提供了从 Rust 调用 Python 代码以及从 Python 调用 Rust 代码的双向支持。该项目由 PyO3 组织维护，目前在 GitHub 上拥有约 1.6 万星标，社区活跃。\n\n主要特性包括：\n- 支持 Python 3.7 及以上版本，以及 PyPy 的部分支持。\n- 提供宏（如 #[pyfunction]、#[pymodule]）简化扩展模块的编写。\n- 支持异步函数、类、异常处理等高级特性。\n- 与 maturin 等构建工具集成，简化打包流程。\n\n该库广泛应用于需要高性能计算的场景，例如数据科学、机器学习、系统工具等，让开发者能够利用 Rust 的内存安全和性能优势，同时保留 Python 的易用性。\n\n近期趋势显示，项目每日新增星标约 6 个，表明其持续受到关注。对于希望提升 Python 扩展性能的开发者来说，PyO3 是一个值得深入学习的工具。",
+  "tags": [
+    "Rust",
+    "Python",
+    "绑定",
+    "互操作",
+    "扩展模块",
+    "性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "PyO3",
+    "stars": 15987,
+    "forks": 1003,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

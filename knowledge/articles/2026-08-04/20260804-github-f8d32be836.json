@@ -1,0 +1,34 @@
+{
+  "id": "20260804-github-f8d32be836",
+  "title": "facebook/astryx",
+  "source": "github_trending",
+  "source_url": "https://github.com/facebook/astryx",
+  "summary": "Astryx 是 Facebook 开源的一个完全可定制且面向智能体（agent-ready）的设计系统，基于 TypeScript 构建，旨在为现代 Web 应用提供灵活、可扩展的 UI 组件和设计令牌。",
+  "content": "Astryx 是 Facebook 推出的开源设计系统，采用 TypeScript 编写，强调“完全可定制”和“面向智能体”（agent-ready）两大特性。它提供了一套可复用的 UI 组件、设计令牌（design tokens）和主题机制，允许开发者深度定制视觉风格，同时保持代码的可维护性。其“agent-ready”特性意味着系统设计考虑了与 AI 代理（如自动化测试、辅助开发工具）的集成，可能通过标准化的数据属性或 API 暴露组件结构，便于智能体理解和操作。该项目在 GitHub 上表现活跃，拥有 11.5k 星标，近期日增 162 星，显示出社区关注度较高。适合需要高度定制化设计系统、并希望未来与 AI 工具链协同的团队采用。",
+  "tags": [
+    "设计系统",
+    "TypeScript",
+    "开源",
+    "Facebook",
+    "可定制",
+    "agent-ready",
+    "UI组件",
+    "前端开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:14+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "facebook",
+    "stars": 11531,
+    "forks": 978,
+    "daily_stars": 162,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

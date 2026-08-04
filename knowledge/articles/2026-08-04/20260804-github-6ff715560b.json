@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-6ff715560b",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss",
+  "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "summary": "JFrog 研究团队发布文章，探讨 SQLite 关键 CVE 与 LLM 生成代码质量之间的关系，引发 Hacker News 社区热议（713 分，365 条评论）。",
+  "content": "本文由 JFrog 研究团队撰写，标题为“SQLite Critical CVEs or LLM Slop?”，发布于 2026 年 8 月 3 日。文章聚焦于 SQLite 数据库中的关键 CVE（通用漏洞披露）问题，并质疑这些漏洞是否源于 LLM（大语言模型）生成的代码质量不佳（即“LLM Slop”）。文章在 Hacker News 上获得高度关注，评论数达 365 条，表明社区对 AI 生成代码的安全性和可靠性存在广泛讨论。内容可能涉及对 SQLite 漏洞的具体分析、LLM 在代码生成中的潜在风险，以及如何平衡 AI 辅助开发与安全审查。",
+  "tags": [
+    "SQLite",
+    "CVE",
+    "LLM",
+    "安全漏洞",
+    "AI代码生成",
+    "JFrog",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-03T11:28:54+00:00",
+  "collected_at": "2026-08-04T19:59:29+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

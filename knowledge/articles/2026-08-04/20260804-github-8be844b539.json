@@ -1,0 +1,34 @@
+{
+  "id": "20260804-github-8be844b539",
+  "title": "czlonkowski/n8n-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/czlonkowski/n8n-mcp",
+  "summary": "czlonkowski/n8n-mcp 是一个为 Claude Desktop、Claude Code、Windsurf 和 Cursor 等 AI 编程助手提供 MCP（模型上下文协议）服务的开源项目，旨在让这些工具能够直接构建 n8n 工作流。该项目使用 TypeScript 编写，在 GitHub 上获得了超过 2.2 万颗星，近期热度持续上升。",
+  "content": "## 项目概述\n\nn8n-mcp 是一个基于 MCP（Model Context Protocol）的服务器实现，它允许 AI 助手（如 Claude Desktop、Claude Code、Windsurf 和 Cursor）通过自然语言指令来创建和管理 n8n 工作流。n8n 是一个流行的开源工作流自动化工具，而此项目将 AI 能力与 n8n 的自动化功能无缝集成，使用户无需手动拖拽节点，只需描述需求即可生成工作流。\n\n## 核心功能\n\n- **AI 驱动的工作流生成**：用户可以通过对话方式描述工作流需求，AI 自动生成对应的 n8n 工作流 JSON 配置。\n- **多平台支持**：兼容 Claude Desktop、Claude Code、Windsurf 和 Cursor 等主流 AI 编程工具。\n- **基于 MCP 标准**：遵循 MCP 协议，确保与各种 AI 客户端的安全、标准化交互。\n- **TypeScript 实现**：代码使用 TypeScript 编写，提供类型安全性和良好的可维护性。\n\n## 技术亮点\n\n- **MCP 集成**：利用 MCP 协议实现 AI 与 n8n 的桥接，展示了 MCP 在自动化领域的实际应用。\n- **高人气**：在 GitHub 上获得 22,573 颗星和 3,598 次 fork，日增星约 89 颗，表明社区关注度极高。\n- **生态融合**：将 AI 编程助手与工作流自动化工具结合，代表了低代码/无代码与 AI 结合的趋势。\n\n## 适用场景\n\n- 开发者希望快速构建 n8n 工作流，减少手动配置时间。\n- 团队利用 AI 助手进行自动化流程设计，提升效率。\n- 对 MCP 协议感兴趣的开发者，可作为学习参考。\n\n## 总结\n\nn8n-mcp 是一个创新性的开源项目，它通过 MCP 协议将 AI 能力注入 n8n 工作流构建过程，极大地降低了自动化流程的创建门槛。其高星数和活跃增长表明市场对 AI 辅助自动化工具的需求旺盛。对于使用 n8n 的开发者或对 AI 集成感兴趣的工程师，这是一个值得关注和尝试的项目。",
+  "tags": [
+    "MCP",
+    "n8n",
+    "AI",
+    "工作流自动化",
+    "TypeScript",
+    "Claude",
+    "Cursor",
+    "Windsurf"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:14+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "czlonkowski",
+    "stars": 22573,
+    "forks": 3598,
+    "daily_stars": 89,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

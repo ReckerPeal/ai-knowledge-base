@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-d6943786f5",
+  "title": "python/mypy",
+  "source": "github_trending",
+  "source_url": "https://github.com/python/mypy",
+  "summary": "mypy 是 Python 的可选静态类型检查器，旨在结合动态语言的灵活性与静态类型的安全性。",
+  "content": "mypy 是 Python 生态中最流行的静态类型检查工具之一，由 Python 官方组织维护。它允许开发者逐步为代码添加类型注解，并在不改变运行时行为的前提下，通过静态分析捕获类型错误，提升代码质量和可维护性。mypy 支持 PEP 484 类型注解语法，兼容大部分 Python 3 特性，并提供了丰富的配置选项和插件机制，可集成到主流 IDE 和 CI 流程中。该项目在 GitHub 上拥有超过 2 万星标，社区活跃，持续迭代。",
+  "tags": [
+    "Python",
+    "静态类型",
+    "类型检查",
+    "mypy",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:11+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "python",
+    "stars": 20572,
+    "forks": 3267,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

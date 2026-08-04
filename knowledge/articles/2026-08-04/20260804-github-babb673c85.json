@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-babb673c85",
+  "title": "prisma/prisma",
+  "source": "github_trending",
+  "source_url": "https://github.com/prisma/prisma",
+  "summary": "Prisma 是面向 Node.js 和 TypeScript 的下一代 ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB 等多种数据库。",
+  "content": "Prisma 是一个现代化的数据库工具集，旨在简化数据库访问和迁移。它提供类型安全的查询构建器、自动迁移工具和直观的数据建模语言，支持多种主流数据库。Prisma 的核心优势包括：\n- 类型安全：与 TypeScript 深度集成，编译时检查查询错误。\n- 直观的 Prisma Schema 语言，用于定义数据模型和关系。\n- 自动生成迁移文件，简化数据库演进。\n- 支持关系型和非关系型数据库，包括 PostgreSQL、MySQL、SQLite、MongoDB 等。\n- 提供 Prisma Studio 可视化界面，方便数据浏览和编辑。\n- 活跃的社区和丰富的文档，适合从简单应用到复杂微服务架构。",
+  "tags": [
+    "ORM",
+    "Node.js",
+    "TypeScript",
+    "数据库",
+    "Prisma"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:14+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "prisma",
+    "stars": 47524,
+    "forks": 2515,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-68d13328cd",
+  "title": "ccfos/nightingale",
+  "source": "github_trending",
+  "source_url": "https://github.com/ccfos/nightingale",
+  "summary": "Nightingale 是一个开源监控告警系统，其定位类似于 Grafana 之于可视化，即专注于监控与告警领域的一站式解决方案。",
+  "content": "Nightingale 是一个用 Go 语言开发的开源监控告警平台，旨在成为监控与告警领域的核心基础设施。其核心定位是：正如 Grafana 是可视化领域的标准工具，Nightingale 致力于成为监控与告警领域的标准工具。该项目由 ccfos 组织维护，在 GitHub 上拥有 13210 颗星和 1746 个 fork，显示出较高的社区活跃度和认可度。该项目主要面向需要统一监控、告警、事件管理的团队，提供从数据采集、指标存储、告警规则配置到通知触发的完整链路。其技术栈基于 Go，适合对性能有要求的生产环境。",
+  "tags": [
+    "监控",
+    "告警",
+    "Go",
+    "开源",
+    "运维",
+    "可观测性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ccfos",
+    "stars": 13210,
+    "forks": 1746,
+    "daily_stars": null,
+    "weekly_stars": 51,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

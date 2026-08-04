@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-023f1cbbc0",
+  "title": "rust-lang/rust-clippy",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust-clippy",
+  "summary": "rust-clippy 是 Rust 官方提供的静态分析工具，通过一系列 lint 规则帮助开发者捕获常见错误并改进代码质量。",
+  "content": "rust-clippy 是 Rust 生态中最重要的代码质量工具之一，由 Rust 官方团队维护。它提供超过 500 条 lint 规则，覆盖正确性、性能、风格、可读性等多个维度，能够自动检测代码中的常见错误、反模式和不规范写法。作为 rustc 的增强插件，Clippy 通过 cargo clippy 命令即可集成到现有项目中，并支持自定义 lint 配置和抑制。该项目在 GitHub 上拥有 13420 颗星和 2095 个 fork，每日新增约 9 颗星，持续活跃。其官方文档（doc.rust-lang.org/clippy/）提供了完整的规则说明和使用指南。对于 Rust 开发者而言，Clippy 是提升代码健壮性和可维护性的必备工具，尤其适合在 CI 流程中作为质量门禁。",
+  "tags": [
+    "Rust",
+    "静态分析",
+    "代码质量",
+    "Lint",
+    "开发工具",
+    "官方工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:16+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 13420,
+    "forks": 2095,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

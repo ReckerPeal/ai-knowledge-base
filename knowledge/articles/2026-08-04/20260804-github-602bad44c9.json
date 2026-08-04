@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-602bad44c9",
+  "title": "Project-HAMi/HAMi",
+  "source": "github_trending",
+  "source_url": "https://github.com/Project-HAMi/HAMi",
+  "summary": "HAMi 是一个用于 Kubernetes 的异构 GPU 共享解决方案，旨在提高 GPU 资源利用率，支持多种 GPU 厂商。",
+  "content": "HAMi（Heterogeneous GPU Sharing on Kubernetes）是一个开源项目，专注于在 Kubernetes 集群中实现异构 GPU 的共享和调度。它允许用户将物理 GPU 划分为多个虚拟 GPU 实例，供多个任务或租户使用，从而显著提升 GPU 资源的利用效率。HAMi 支持多种 GPU 厂商（如 NVIDIA、AMD、Intel 等），并提供统一的接口和调度策略，简化了异构 GPU 环境下的资源管理。该项目在 GitHub 上拥有 4178 颗星，近期获得较高关注，表明其在 AI 基础设施领域具有重要价值。",
+  "tags": [
+    "Kubernetes",
+    "GPU共享",
+    "异构计算",
+    "资源调度",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-04T19:59:19+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Project-HAMi",
+    "stars": 4178,
+    "forks": 711,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
