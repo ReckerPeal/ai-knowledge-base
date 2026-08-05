@@ -1,0 +1,31 @@
+{
+  "id": "20260805-github-f4c2734d86",
+  "title": "authzed/spicedb",
+  "source": "github_trending",
+  "source_url": "https://github.com/authzed/spicedb",
+  "summary": "SpiceDB 是一个开源的、受 Google Zanzibar 启发的数据库，用于可扩展地存储和查询细粒度的授权数据。",
+  "content": "SpiceDB 是一个开源的授权数据库，其设计灵感来源于 Google 的 Zanzibar 系统，旨在解决大规模分布式系统中的细粒度授权问题。它提供了可扩展的存储和查询能力，支持复杂的权限模型，如关系元组（relationship tuples）和基于集合的权限评估。SpiceDB 采用 Go 语言编写，具有高性能和低延迟的特点，适用于需要精细权限控制的现代应用，如多租户 SaaS、微服务架构等。该项目在 GitHub 上拥有 6914 颗星，活跃度较高，是 Go 语言生态中备受关注的授权解决方案。",
+  "tags": [
+    "授权数据库",
+    "Zanzibar",
+    "细粒度权限",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:41+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "authzed",
+    "stars": 6914,
+    "forks": 408,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260805-github-5e80982431",
+  "title": "ovexro/dockpanel",
+  "source": "github_trending",
+  "source_url": "https://github.com/ovexro/dockpanel",
+  "summary": "DockPanel 是一个基于 Rust 和 React 构建的现代服务器管理面板，集成了网站、数据库、Docker 应用、Git 部署、邮件、DNS、监控、备份和安全功能于一体。",
+  "content": "DockPanel 是一个开源的服务器管理面板，旨在提供一站式的服务器管理解决方案。它采用 Rust 作为后端语言，React 作为前端框架，确保了高性能和现代化的用户体验。该面板支持多种核心功能：\n- **网站管理**：支持创建和管理网站，包括配置域名、SSL 证书等。\n- **数据库管理**：提供数据库的创建、备份和监控功能。\n- **Docker 应用**：集成 Docker 容器管理，方便部署和管理容器化应用。\n- **Git 部署**：支持通过 Git 仓库自动部署应用，简化开发流程。\n- **邮件服务**：内置邮件服务器管理，支持邮件收发和配置。\n- **DNS 管理**：提供 DNS 记录管理，方便域名解析配置。\n- **监控与备份**：实时监控服务器资源，支持定期备份数据。\n- **安全功能**：提供防火墙、访问控制等安全措施。\n\n该项目在 GitHub 上受到关注，目前获得 852 颗星和 127 个 fork，近期每日新增约 53 颗星，显示出较高的活跃度和社区认可度。",
+  "tags": [
+    "Rust",
+    "React",
+    "服务器管理",
+    "Docker",
+    "DevOps",
+    "监控",
+    "备份",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:39+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ovexro",
+    "stars": 852,
+    "forks": 127,
+    "daily_stars": 53,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-32f1cc1ea2",
+  "title": "roboflow/supervision",
+  "source": "github_trending",
+  "source_url": "https://github.com/roboflow/supervision",
+  "summary": "roboflow/supervision 是一个专注于提供可复用计算机视觉工具的开源项目，旨在简化视觉任务的开发流程。该项目由 roboflow 团队维护，在 GitHub 上拥有超过 4.8 万星标，近期热度持续上升。",
+  "content": "## 项目概述\nroboflow/supervision 是一个面向计算机视觉开发者的工具库，其核心理念是“编写可复用的计算机视觉工具”。该项目由 roboflow 团队创建，旨在帮助开发者快速构建和部署视觉应用，减少重复性工作。\n\n## 主要特点\n- **可复用性**：提供模块化工具，覆盖目标检测、跟踪、标注等常见任务，方便集成到不同项目中。\n- **易用性**：设计简洁，API 友好，适合快速原型开发和生产部署。\n- **社区活跃**：在 GitHub 上获得 48,756 星标和 4,610 次 fork，每日新增星标约 132，表明社区关注度较高。\n\n## 技术栈\n- 主要使用 Python 语言，与主流深度学习框架（如 PyTorch、TensorFlow）兼容。\n- 依赖 OpenCV 等视觉库，提供图像处理和视频流支持。\n\n## 适用场景\n- 目标检测与跟踪\n- 图像分割与标注\n- 视频分析\n- 模型部署后的后处理工具\n\n## 总结\nsupervision 项目为计算机视觉开发者提供了一套高效、可复用的工具集，降低了开发门槛，适合从研究到工业应用的多种场景。其持续的星标增长反映了社区的认可和需求。",
+  "tags": [
+    "计算机视觉",
+    "Python",
+    "工具库",
+    "目标检测",
+    "图像处理",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:34+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "roboflow",
+    "stars": 48756,
+    "forks": 4610,
+    "daily_stars": 132,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

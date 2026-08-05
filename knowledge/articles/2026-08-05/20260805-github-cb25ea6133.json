@@ -1,0 +1,33 @@
+{
+  "id": "20260805-github-cb25ea6133",
+  "title": "hyperium/hyper",
+  "source": "github_trending",
+  "source_url": "https://github.com/hyperium/hyper",
+  "summary": "hyperium/hyper 是一个用 Rust 编写的高性能 HTTP 库，旨在提供安全、正确且符合标准的 HTTP/1 和 HTTP/2 实现。它既可作为客户端也可作为服务器端的基础库，被广泛应用于 Rust 生态中的众多知名项目（如 reqwest、axum 等）。",
+  "content": "hyper 是 Rust 生态中最核心的 HTTP 库之一，由 hyperium 组织维护。它提供了底层的 HTTP/1 和 HTTP/2 协议实现，强调正确性、安全性和性能。hyper 的设计目标是成为一个通用的、可扩展的协议层，允许上层框架（如 axum、warp）或应用直接使用。\n\n主要特点：\n- 支持 HTTP/1 和 HTTP/2，并计划支持 HTTP/3。\n- 异步非阻塞 I/O，基于 tokio 运行时。\n- 类型安全的 API，利用 Rust 的所有权和生命周期保证内存安全。\n- 高度可定制，支持自定义连接、TLS、中间件等。\n- 在客户端和服务器端均有广泛应用，例如 reqwest 客户端库和 axum 服务器框架都基于 hyper。\n\n该项目在 GitHub 上拥有超过 16k 星标，社区活跃，是 Rust Web 开发的重要基石。其代码质量高，文档详尽，适合作为学习 Rust 异步编程和协议实现的参考。",
+  "tags": [
+    "Rust",
+    "HTTP",
+    "异步",
+    "网络库",
+    "hyper",
+    "tokio",
+    "Web框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:39+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "hyperium",
+    "stars": 16255,
+    "forks": 1781,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

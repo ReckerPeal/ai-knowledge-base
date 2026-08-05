@@ -1,0 +1,33 @@
+{
+  "id": "20260805-github-72ea32f14e",
+  "title": "yvgude/lean-ctx",
+  "source": "github_trending",
+  "source_url": "https://github.com/yvgude/lean-ctx",
+  "summary": "LeanCTX 是一个用 Rust 编写的本地优先上下文智能层，为 AI 代理提供上下文管理能力。它通过单个二进制文件控制 AI 的读取内容、记忆学习、访问保护和保存证明，可减少 60-90% 的 token 消耗，并支持 76 个 MCP 工具和 30+ 代理。",
+  "content": "## LeanCTX：AI 代理的上下文智能层\n\nLeanCTX（Lean Context）是一个开源项目，旨在解决 AI 代理在上下文管理方面的痛点。它作为一个本地优先的 Rust 二进制文件，充当 AI 代理的“上下文大脑”，核心功能包括：\n\n- **读取控制**：决定 AI 代理可以访问哪些数据，避免无关信息干扰。\n- **记忆管理**：记住关键学习内容，减少重复 token 消耗。\n- **访问保护**：守护敏感数据，确保 AI 只接触授权信息。\n- **保存证明**：提供可验证的保存记录，增强可信度。\n\n### 核心优势\n- **Token 效率**：通过智能上下文筛选，减少 60-90% 的 token 使用，显著降低成本。\n- **本地优先**：所有处理在本地完成，保护数据隐私。\n- **生态兼容**：支持 76 个 MCP（Model Context Protocol）工具和 30+ 代理，易于集成。\n\n### 技术亮点\n- 使用 Rust 编写，性能高且内存安全。\n- 采用 MCP 协议，与主流 AI 工具链无缝对接。\n- 设计为单二进制部署，简化安装和运维。\n\n### 适用场景\n- 企业级 AI 应用，需要精细控制上下文和成本。\n- 隐私敏感场景，要求数据不出本地。\n- 多代理协作系统，需要统一上下文管理。\n\n该项目在 GitHub 上已获得 3500+ stars，社区活跃，适合 Rust 开发者和 AI 基础设施工程师关注。",
+  "tags": [
+    "Rust",
+    "AI代理",
+    "上下文管理",
+    "MCP",
+    "本地优先",
+    "Token优化",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:39+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "yvgude",
+    "stars": 3500,
+    "forks": 314,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

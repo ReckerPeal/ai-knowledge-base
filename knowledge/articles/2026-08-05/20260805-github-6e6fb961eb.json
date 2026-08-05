@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速且节省磁盘空间的包管理器。",
+  "content": "pnpm 是一个快速且节省磁盘空间的包管理器，其核心优势在于通过硬链接和符号链接机制，将依赖项存储在全局内容可寻址存储中，从而避免重复下载和占用额外磁盘空间。它支持 npm 生态，兼容 package.json 和 lockfile，并提供严格的依赖隔离，确保项目依赖的确定性。该工具使用 Rust 编写，性能优异，适用于大型 monorepo 项目。",
+  "tags": [
+    "pnpm",
+    "包管理器",
+    "Rust",
+    "磁盘空间",
+    "依赖管理",
+    "monorepo"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:39+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 35977,
+    "forks": 1616,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

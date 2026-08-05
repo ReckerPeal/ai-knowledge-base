@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-a53af4b5fc",
+  "title": "openai/codex",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/codex",
+  "summary": "openai/codex 是一个轻量级编码代理，运行在终端中，基于 Rust 开发，在 GitHub 上获得超过 10 万星标，成为当前热点项目。",
+  "content": "## 项目概述\n\nopenai/codex 是 OpenAI 推出的一个轻量级编码代理，设计用于在终端环境中运行，帮助开发者通过自然语言或代码提示自动完成编码任务。该项目以 Rust 语言编写，强调性能与可靠性。\n\n## 核心特性\n\n- **终端原生**：直接在终端中运行，无需额外 GUI，适合命令行工作流。\n- **轻量级**：资源占用低，启动快速，易于集成到现有开发环境。\n- **智能编码**：基于 OpenAI 的模型能力，能够理解代码上下文并生成建议或执行操作。\n\n## 技术栈\n\n- **语言**：Rust\n- **平台**：跨平台支持（Linux、macOS、Windows）\n\n## 社区与热度\n\n- **星标数**：104,086（截至收集日）\n- **复刻数**：15,722\n- **日增星标**：277，周增星标：1,874，增长迅速，反映开发者对其高度关注。\n\n## 适用场景\n\n- 快速原型开发\n- 代码补全与重构\n- 自动化脚本生成\n- 学习与实验 AI 编程助手\n\n## 总结\n\nopenai/codex 作为 OpenAI 在编码代理领域的新尝试，凭借其轻量设计和终端集成，有望成为开发者日常工具链中的重要一环。",
+  "tags": [
+    "AI编码代理",
+    "终端工具",
+    "Rust",
+    "OpenAI",
+    "开发者工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:39+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "openai",
+    "stars": 104086,
+    "forks": 15722,
+    "daily_stars": 277,
+    "weekly_stars": 1874,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

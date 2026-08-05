@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-452124a1ec",
+  "title": "github/github-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/github-mcp-server",
+  "summary": "GitHub 官方 MCP Server，为 AI 助手提供标准化的 GitHub API 访问接口。",
+  "content": "该仓库是 GitHub 官方发布的 MCP（Model Context Protocol）服务器实现，旨在为 AI 助手（如 Claude、Copilot 等）提供标准化的 GitHub API 访问能力。通过 MCP 协议，AI 模型可以安全地调用 GitHub 的各类功能，包括仓库管理、Issue 操作、Pull Request 处理、代码搜索等。项目采用 Go 语言编写，具有高性能和低资源消耗的特点，支持通过 SSE（Server-Sent Events）或 stdio 等方式与客户端通信。作为官方实现，它提供了完善的认证机制（支持个人访问令牌和 OAuth），并遵循 GitHub API 的最佳实践。该项目在 GitHub 上拥有超过 3 万星标，是 AI 编程工具链中的重要基础设施。",
+  "tags": [
+    "MCP",
+    "GitHub",
+    "AI",
+    "Go",
+    "API",
+    "官方"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-05T19:53:41+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "github",
+    "stars": 31971,
+    "forks": 4722,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
