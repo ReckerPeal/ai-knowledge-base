@@ -1,0 +1,33 @@
+{
+  "id": "20260806-github-a58fde932d",
+  "title": "virgiliojr94/book-to-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/virgiliojr94/book-to-skill",
+  "summary": "book-to-skill 是一个将任意技术书籍 PDF 转换为 Claude Code 技能的工具，方便用户在学习、参考和工作中直接使用。",
+  "content": "book-to-skill 项目旨在将技术书籍的 PDF 文件转化为 Claude Code 可用的技能（skill），从而让用户能够以交互式的方式学习和参考书籍内容。该项目基于 Python 实现，通过解析 PDF 并生成结构化的技能文件，使得 Claude Code 能够理解书籍内容并辅助用户进行编程、问题解答等任务。该工具特别适合开发者将经典技术书籍转化为可查询的知识库，提升学习效率和工作流集成度。项目在 GitHub 上获得了较高关注（17295 stars），近期增长迅速（周增 4596 stars），表明其具有较高的实用价值和社区认可度。",
+  "tags": [
+    "PDF",
+    "Claude Code",
+    "技能生成",
+    "技术书籍",
+    "知识管理",
+    "Python",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "virgiliojr94",
+    "stars": 17295,
+    "forks": 1837,
+    "daily_stars": null,
+    "weekly_stars": 4596,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

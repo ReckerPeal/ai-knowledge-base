@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-2cf2dfbc7e",
+  "title": "akuity/kargo",
+  "source": "github_trending",
+  "source_url": "https://github.com/akuity/kargo",
+  "summary": "Kargo 是一个面向 Kubernetes 的应用生命周期编排工具，旨在简化和自动化应用从构建到部署的整个流程。它通过 GitOps 方式管理应用发布，支持渐进式交付、多环境部署和策略驱动的人工审批，帮助团队实现更安全、更高效的持续交付。",
+  "content": "Kargo 是一个开源的应用生命周期编排平台，专注于 Kubernetes 环境下的持续交付（CD）和渐进式交付。它由 akuity 团队开发，使用 Go 语言编写，目前在 GitHub 上已获得 3472 颗星和 408 个 fork，近期增长迅速（日增 24 星）。\n\nKargo 的核心功能包括：\n- **应用编排**：将应用从构建、测试到部署的整个生命周期进行编排，支持多环境（如 staging、production）的自动或手动推进。\n- **GitOps 原生**：以 Git 作为单一事实来源，通过 Pull Request 或自动同步触发部署，确保声明式配置与实际状态一致。\n- **渐进式交付**：支持金丝雀发布、蓝绿部署等策略，通过分析指标（如成功率、延迟）自动决定是否继续推进或回滚。\n- **策略驱动**：允许定义审批策略，例如需要人工批准才能进入生产环境，增强治理和合规性。\n- **与 Argo CD 集成**：Kargo 可以无缝集成 Argo CD，利用其强大的同步和回滚能力，同时补充更高级的编排逻辑。\n\nKargo 的架构设计强调可扩展性和易用性，提供 CLI 和 Web UI 两种交互方式。它适用于需要复杂发布流程的企业级场景，尤其适合采用微服务和多环境部署的团队。\n\n该项目在 GitHub 上活跃，社区持续贡献，文档完善，适合作为现代 CI/CD 工具链的一部分。",
+  "tags": [
+    "Kubernetes",
+    "GitOps",
+    "持续交付",
+    "渐进式交付",
+    "应用编排",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:05+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "akuity",
+    "stars": 3472,
+    "forks": 408,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

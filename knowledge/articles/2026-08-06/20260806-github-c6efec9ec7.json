@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-c6efec9ec7",
+  "title": "modelcontextprotocol/rust-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/rust-sdk",
+  "summary": "modelcontextprotocol/rust-sdk 是 Model Context Protocol (MCP) 的官方 Rust SDK，为 Rust 开发者提供标准化的 MCP 客户端和服务器实现。该项目在 GitHub 上拥有 3761 颗星和 585 个分支，近期周增 57 星，表明其活跃度和社区关注度较高。",
+  "content": "## 项目概述\n\nmodelcontextprotocol/rust-sdk 是 Model Context Protocol (MCP) 的官方 Rust 实现。MCP 是一种开放协议，旨在标准化 AI 模型与外部数据源、工具之间的交互方式。该 SDK 为 Rust 开发者提供了构建 MCP 客户端和服务器的完整工具集，使得 AI 应用能够无缝集成各种数据源和工具。\n\n## 主要功能\n\n- **客户端支持**：提供完整的 MCP 客户端实现，支持与 MCP 服务器进行通信，包括资源访问、工具调用和提示词管理。\n- **服务器支持**：允许开发者快速构建 MCP 服务器，暴露自定义资源和工具给 AI 模型。\n- **类型安全**：利用 Rust 的强类型系统，确保协议消息的准确性和可靠性。\n- **异步支持**：基于 Rust 的异步生态，提供高效的并发处理能力。\n\n## 技术亮点\n\n- **官方维护**：由 MCP 官方组织维护，确保与协议规范的同步更新。\n- **社区活跃**：在 GitHub 上获得 3761 颗星，周增 57 星，显示持续的关注和贡献。\n- **跨平台**：Rust 语言特性使其可编译到多种平台，适合嵌入式和高性能场景。\n\n## 适用场景\n\n- 开发需要与 AI 模型交互的 Rust 应用，如智能代理、自动化工具。\n- 构建自定义 MCP 服务器，为 AI 模型提供特定领域的数据或功能。\n- 研究 MCP 协议或参与其生态建设。\n\n## 总结\n\n作为官方 SDK，rust-sdk 是 Rust 开发者接入 MCP 生态的首选工具，其活跃的社区和官方支持保证了项目的可靠性和前瞻性。",
+  "tags": [
+    "Rust",
+    "MCP",
+    "AI",
+    "SDK",
+    "协议",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:13+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 3761,
+    "forks": 585,
+    "daily_stars": null,
+    "weekly_stars": 57,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260806-github-72ea32f14e",
+  "title": "yvgude/lean-ctx",
+  "source": "github_trending",
+  "source_url": "https://github.com/yvgude/lean-ctx",
+  "summary": "LeanCTX 是一个用 Rust 编写的本地上下文智能层，用于 AI 代理，通过控制 AI 的读取内容、记忆学习、访问保护和保存证明，实现 60-90% 的 token 节省，并支持 76 个 MCP 工具和 30+ 代理。",
+  "content": "LeanCTX（Lean Context）是一个面向 AI 代理的上下文智能层，以单个本地 Rust 二进制文件的形式运行。其核心功能包括：\n- **控制读取**：决定 AI 代理可以访问哪些上下文，过滤无关信息。\n- **记忆学习**：记录代理的学习成果，实现长期记忆。\n- **访问保护**：守护代理接触的数据，确保安全边界。\n- **保存证明**：提供可验证的保存记录，增强可信度。\n\n该工具宣称可减少 60-90% 的 token 消耗，并集成了 76 个 MCP（Model Context Protocol）工具，支持 30 多种代理框架。采用本地优先（local-first）设计，强调数据隐私和离线可用性。项目在 GitHub 上获得 3524 星，近期日增 20 星，属于 Rust 生态中的热门项目。",
+  "tags": [
+    "Rust",
+    "AI代理",
+    "上下文管理",
+    "MCP",
+    "本地优先",
+    "token优化",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:03+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "yvgude",
+    "stars": 3524,
+    "forks": 319,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

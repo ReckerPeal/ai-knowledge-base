@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-3d2ecb3de5",
+  "title": "EFForg/rayhunter",
+  "source": "github_trending",
+  "source_url": "https://github.com/EFForg/rayhunter",
+  "summary": "EFForg/rayhunter 是一个用 Rust 编写的工具，用于在 Orbic 移动热点上检测基站模拟器（IMSI 捕获器）。",
+  "content": "rayhunter 由电子前沿基金会（EFF）开发，旨在帮助用户识别和防范伪基站（如 IMSI 捕获器）的威胁。该工具运行在 Orbic 移动热点设备上，通过分析无线信号特征来检测可疑的基站模拟行为。项目采用 Rust 语言实现，强调安全性和性能。该仓库在 GitHub 上受到广泛关注，拥有 5441 颗星和 450 个 fork，反映了社区对隐私保护工具的需求。",
+  "tags": [
+    "Rust",
+    "安全",
+    "隐私保护",
+    "基站模拟器检测",
+    "IMSI 捕获器",
+    "移动热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:03+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "EFForg",
+    "stars": 5441,
+    "forks": 450,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

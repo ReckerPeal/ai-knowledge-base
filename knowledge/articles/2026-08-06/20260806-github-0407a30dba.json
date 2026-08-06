@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-0407a30dba",
+  "title": "github/gh-stack",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-stack",
+  "summary": "gh-stack 是 GitHub 官方推出的命令行工具，用于简化堆叠式 Pull Request（Stacked PRs）的创建与管理流程，提升大型代码变更的审查效率。",
+  "content": "## 项目概述\n\ngh-stack 是 GitHub 官方发布的 Go 语言命令行工具，旨在解决大型功能开发中多个相互依赖的 Pull Request 难以管理的问题。通过堆叠式 PR 工作流，开发者可以将一个大型变更拆分为多个小型的、逻辑独立的 PR，每个 PR 基于前一个 PR 的分支，从而加快代码审查和合并速度。\n\n## 核心功能\n\n- **堆叠式 PR 管理**：自动创建、更新和重新排序堆叠的 PR，保持依赖关系清晰。\n- **简化操作**：一条命令即可完成 PR 的创建、同步和状态查看，减少手动 Git 操作。\n- **与 GitHub 深度集成**：利用 GitHub API 实现 PR 状态跟踪和分支管理。\n\n## 技术特性\n\n- **语言**：Go，编译为单一二进制，跨平台支持。\n- **架构**：基于 GitHub CLI 扩展机制，可无缝集成到现有工作流。\n- **性能**：高效处理大量 PR 和分支，适合大型项目。\n\n## 适用场景\n\n- 大型功能开发，需要拆分为多个可独立审查的 PR。\n- 团队协作中需要频繁更新依赖 PR 的场景。\n- 希望提升代码审查效率、减少合并冲突的团队。\n\n## 快速上手\n\n1. 安装：`gh extension install github/gh-stack`\n2. 创建堆叠：`gh stack new`\n3. 更新堆叠：`gh stack sync`\n4. 查看状态：`gh stack status`\n\n## 社区与热度\n\n- 当前获得 1115 星，周增长 515 星，显示出较高的社区关注度。\n- 由 GitHub 官方维护，可靠性有保障。",
+  "tags": [
+    "GitHub",
+    "Stacked PR",
+    "命令行工具",
+    "Go",
+    "开发效率",
+    "代码审查"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 1115,
+    "forks": 47,
+    "daily_stars": null,
+    "weekly_stars": 515,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

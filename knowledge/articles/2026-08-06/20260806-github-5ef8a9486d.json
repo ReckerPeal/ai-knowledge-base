@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-5ef8a9486d",
+  "title": "rust-lang/cargo",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/cargo",
+  "summary": "Cargo 是 Rust 编程语言的官方包管理器，负责依赖管理、构建、测试和发布等核心任务。",
+  "content": "Cargo 是 Rust 生态系统的核心工具，由 rust-lang 组织维护。它提供了项目初始化、依赖解析、编译构建、测试运行、文档生成以及发布到 crates.io 等功能。Cargo 通过 Cargo.toml 文件声明项目元数据和依赖，支持语义化版本控制、锁定文件（Cargo.lock）确保可重现构建。其设计强调易用性和可靠性，是 Rust 开发者日常开发不可或缺的组成部分。该仓库在 GitHub 上拥有超过 1.5 万星标，社区活跃，持续迭代。",
+  "tags": [
+    "Rust",
+    "包管理器",
+    "Cargo",
+    "依赖管理",
+    "构建工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:13+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 15343,
+    "forks": 3008,
+    "daily_stars": null,
+    "weekly_stars": 53,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

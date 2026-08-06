@@ -1,0 +1,33 @@
+{
+  "id": "20260806-github-dcd3b85e5f",
+  "title": "playcanvas/supersplat",
+  "source": "github_trending",
+  "source_url": "https://github.com/playcanvas/supersplat",
+  "summary": "playcanvas/supersplat 是一个基于 TypeScript 的 3D 高斯泼溅编辑器，用于编辑和查看 3D 高斯泼溅场景。",
+  "content": "## 项目简介\n\n**playcanvas/supersplat** 是一个开源的 3D 高斯泼溅（3D Gaussian Splatting）编辑器，由 PlayCanvas 团队开发。它提供了一个直观的界面，用于加载、编辑和导出 3D 高斯泼溅模型，广泛应用于实时渲染、虚拟现实和数字孪生等领域。\n\n## 核心功能\n\n- **3D 高斯泼溅编辑**：支持对高斯泼溅场景进行精细编辑，包括选择、变换、删除和属性调整。\n- **实时预览**：基于 WebGL/WebGPU 的实时渲染，提供即时反馈。\n- **导入导出**：支持多种格式（如 .ply、.splat）的导入和导出，方便与其他工具集成。\n- **场景管理**：支持多场景切换、图层管理和历史记录撤销/重做。\n\n## 技术亮点\n\n- **TypeScript 编写**：提供类型安全，代码可维护性强。\n- **高性能渲染**：利用 GPU 加速，支持大规模点云数据。\n- **模块化架构**：易于扩展和定制，适合二次开发。\n\n## 社区与热度\n\n- **GitHub 星标**：9,796（持续增长中）\n- **分支数**：1,100\n- **日增星标**：15，热度稳定。\n\n## 适用场景\n\n- 3D 内容创作与编辑\n- 实时渲染应用开发\n- 科研与教育（如计算机视觉、图形学）\n\n## 总结\n\nSupersplat 是一个功能强大且活跃的 3D 高斯泼溅编辑器，适合开发者、艺术家和研究人员使用。其开源特性和活跃社区使其成为该领域的重要工具。",
+  "tags": [
+    "3D高斯泼溅",
+    "编辑器",
+    "TypeScript",
+    "实时渲染",
+    "WebGL",
+    "PlayCanvas",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "playcanvas",
+    "stars": 9796,
+    "forks": 1100,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

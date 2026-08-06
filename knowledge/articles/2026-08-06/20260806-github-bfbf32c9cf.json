@@ -1,0 +1,35 @@
+{
+  "id": "20260806-github-bfbf32c9cf",
+  "title": "promptfoo/promptfoo",
+  "source": "github_trending",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "promptfoo 是一个用于测试和评估 AI 提示词、代理和 RAG 系统的开源工具，支持红队攻击、渗透测试和漏洞扫描，可对比 GPT、Claude、Gemini、DeepSeek 等模型的性能，提供简单的声明式配置，并集成命令行和 CI/CD，被 OpenAI 和 Anthropic 使用。",
+  "content": "promptfoo 是一个功能强大的 AI 测试与评估平台，旨在帮助开发者系统性地验证和优化提示词、代理（agents）以及检索增强生成（RAG）系统的性能与安全性。\n\n**核心功能**：\n- **提示词测试**：支持对单个或多个提示词进行批量测试，比较不同模型（如 GPT、Claude、Gemini、DeepSeek 等）的输出质量。\n- **代理与 RAG 评估**：提供针对复杂代理流程和 RAG 管道的评估框架，确保整体系统的准确性和可靠性。\n- **红队与安全测试**：内置红队攻击、渗透测试和漏洞扫描功能，帮助识别 AI 应用中的潜在安全风险，如提示注入、越狱等。\n- **声明式配置**：使用简单的 YAML 或 JSON 配置文件定义测试用例、模型参数和评估指标，降低使用门槛。\n- **命令行与 CI/CD 集成**：提供 CLI 工具，可轻松集成到持续集成/持续部署（CI/CD）流水线中，实现自动化测试和回归检测。\n\n**技术特点**：\n- 基于 TypeScript 开发，拥有良好的类型安全和模块化设计。\n- 支持多种主流 LLM 提供商，并允许自定义模型接入。\n- 提供丰富的评估指标（如准确率、延迟、成本等）和可视化报告。\n\n**社区与采用**：\n- 在 GitHub 上拥有约 24k 星标，被 OpenAI 和 Anthropic 等领先 AI 公司采用，证明了其在行业内的实用性和可靠性。\n- 活跃的社区贡献和持续的更新，确保工具紧跟 AI 技术发展。\n\n**适用场景**：\n- 开发者在发布 AI 应用前进行全面的质量保障。\n- 安全团队对 AI 系统进行红队演练和安全审计。\n- 研究人员对比不同模型和提示策略的效果。",
+  "tags": [
+    "AI测试",
+    "提示词工程",
+    "红队攻击",
+    "安全扫描",
+    "RAG评估",
+    "LLM比较",
+    "CI/CD",
+    "TypeScript",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:00+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "promptfoo",
+    "stars": 23995,
+    "forks": 2164,
+    "daily_stars": 54,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

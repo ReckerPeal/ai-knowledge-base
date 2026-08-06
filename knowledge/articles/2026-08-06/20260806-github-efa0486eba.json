@@ -1,0 +1,33 @@
+{
+  "id": "20260806-github-efa0486eba",
+  "title": "modelcontextprotocol/python-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/python-sdk",
+  "summary": "modelcontextprotocol/python-sdk 是 Model Context Protocol (MCP) 的官方 Python SDK，用于构建 MCP 服务器和客户端。该项目在 GitHub 上拥有 23.9k 星标和 3.7k fork，近期周增星 131，是 Python 生态中实现 MCP 的核心工具。",
+  "content": "### 项目概述\nModel Context Protocol (MCP) 是一种开放协议，旨在标准化 AI 模型与外部数据源、工具之间的交互。python-sdk 是 MCP 的官方 Python 实现，提供服务器和客户端的开发接口，使开发者能够轻松地将 AI 应用与各种上下文源（如数据库、API、文件系统）集成。\n\n### 核心功能\n- **服务器端**：支持创建 MCP 服务器，暴露工具、资源和提示模板，供 AI 模型调用。\n- **客户端**：提供客户端库，用于连接 MCP 服务器，发送请求并处理响应。\n- **传输层**：支持多种传输方式（如 stdio、HTTP），适应不同部署场景。\n- **类型安全**：基于 Pydantic 模型，确保数据验证和序列化。\n\n### 技术特点\n- **官方维护**：由 MCP 组织维护，保证与协议规范的同步更新。\n- **异步支持**：基于 asyncio，支持高并发场景。\n- **易用性**：提供高层 API，简化开发流程。\n\n### 适用场景\n- 构建 AI 助手，接入自定义工具或数据源。\n- 开发 MCP 服务器，为多个客户端提供统一接口。\n- 集成到现有 Python 项目中，增强 AI 能力。\n\n### 社区与热度\n该项目在 GitHub 上热度较高，星标数超过 23k，周增星 131，表明其活跃度和认可度。适合关注 AI 基础设施的开发者学习和使用。",
+  "tags": [
+    "Model Context Protocol",
+    "Python SDK",
+    "AI 集成",
+    "服务器",
+    "客户端",
+    "异步",
+    "官方库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 23907,
+    "forks": 3748,
+    "daily_stars": null,
+    "weekly_stars": 131,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

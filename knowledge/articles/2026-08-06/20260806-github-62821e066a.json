@@ -1,0 +1,33 @@
+{
+  "id": "20260806-github-62821e066a",
+  "title": "Koenkk/zigbee2mqtt",
+  "source": "github_trending",
+  "source_url": "https://github.com/Koenkk/zigbee2mqtt",
+  "summary": "Zigbee2MQTT 是一个开源项目，旨在将 Zigbee 设备桥接到 MQTT，从而摆脱对专有 Zigbee 网关的依赖。它支持大量 Zigbee 设备，并提供灵活、可扩展的智能家居集成方案。",
+  "content": "Zigbee2MQTT 是一个用 TypeScript 编写的开源桥接工具，它允许用户通过 MQTT 协议直接控制 Zigbee 设备，无需使用厂商专有的桥接器。该项目在 GitHub 上拥有超过 15,000 颗星，社区活跃，每周新增约 136 颗星。它支持广泛的 Zigbee 设备，包括传感器、开关、灯具等，并提供了详细的文档和配置选项。通过 Zigbee2MQTT，用户可以轻松地将 Zigbee 设备集成到 Home Assistant 等智能家居平台中，实现本地化、可定制的自动化控制。该项目的核心优势在于其开放性和兼容性，避免了厂商锁定，并降低了智能家居部署的成本和复杂度。",
+  "tags": [
+    "Zigbee",
+    "MQTT",
+    "智能家居",
+    "开源",
+    "TypeScript",
+    "桥接",
+    "Home Assistant"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:10+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "Koenkk",
+    "stars": 15475,
+    "forks": 1977,
+    "daily_stars": null,
+    "weekly_stars": 136,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

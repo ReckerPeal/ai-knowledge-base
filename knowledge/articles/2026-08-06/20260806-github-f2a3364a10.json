@@ -1,0 +1,29 @@
+{
+  "id": "20260806-github-f2a3364a10",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "summary": "Hugging Face 博客发布文章，介绍 vLLM 与 Transformers 建模后端的原生速度集成，旨在提升大模型推理性能。",
+  "content": "该文章来自 Hugging Face 官方博客，主题为“Native-speed vLLM transformers modeling backend”。文章主要探讨了 vLLM 作为高性能推理引擎，如何与 Hugging Face Transformers 库的建模后端进行原生集成，以实现接近原生速度的模型推理。内容可能涉及 vLLM 的架构优势、与 Transformers 的兼容性改进、性能对比数据以及使用示例。该集成旨在简化用户从 Transformers 到 vLLM 的迁移，同时保持模型定义的统一性，并显著提升推理吞吐量和降低延迟。",
+  "tags": [
+    "vLLM",
+    "Transformers",
+    "推理性能",
+    "Hugging Face",
+    "大语言模型"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "collected_at": "2026-08-06T19:59:16+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

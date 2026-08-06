@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-f7cfdfd7bc",
+  "title": "alibaba/open-code-review",
+  "source": "github_trending",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "summary": "阿里巴巴开源的高效代码审查工具，采用混合架构（确定性流水线+LLM Agent），提供精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic API。",
+  "content": "## 项目概述\nopen-code-review 是阿里巴巴开源的代码审查工具，旨在提供快速、高效且经过大规模验证的代码审查能力。它采用混合架构，结合确定性流水线和LLM Agent，能够生成精确的行级评论，帮助开发者在代码合并前发现潜在问题。\n\n## 核心特性\n- **混合架构**：确定性流水线负责规则检查，LLM Agent负责语义理解和上下文分析，两者协同工作。\n- **精确行级评论**：直接在代码行上给出评论，提高审查效率。\n- **内置多语言规则集**：涵盖NPE（空指针异常）、线程安全、XSS、SQL注入等常见问题，支持多种编程语言。\n- **兼容性**：兼容OpenAI和Anthropic的API，方便集成到现有工作流。\n\n## 技术亮点\n- 在阿里巴巴内部大规模使用，经过实战检验，性能稳定。\n- 确定性流水线确保规则检查的准确性和可重复性，LLM Agent提供灵活的语义分析。\n- 支持自定义规则集，满足不同团队的需求。\n\n## 适用场景\n- 代码审查流程自动化，提升审查效率和准确性。\n- 作为CI/CD流水线的一部分，在代码合并前自动检查。\n- 辅助人工审查，减少重复性工作，让开发者专注于逻辑和设计问题。\n\n## 总结\nopen-code-review 是一个功能强大、性能优异的代码审查工具，适合中大型团队使用，尤其适合需要快速反馈和高质量代码的场景。",
+  "tags": [
+    "代码审查",
+    "LLM",
+    "阿里巴巴",
+    "Go",
+    "静态分析",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "alibaba",
+    "stars": 19302,
+    "forks": 1327,
+    "daily_stars": null,
+    "weekly_stars": 3293,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

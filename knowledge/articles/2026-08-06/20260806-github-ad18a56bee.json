@@ -1,0 +1,34 @@
+{
+  "id": "20260806-github-ad18a56bee",
+  "title": "tirth8205/code-review-graph",
+  "source": "github_trending",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "summary": "code-review-graph 是一个本地优先的代码智能图工具，专为 MCP（模型上下文协议）和 CLI 设计。它构建代码库的持久化映射，使 AI 编码工具只读取关键信息，在代码审查和大仓库工作流中实现了可衡量的上下文缩减。",
+  "content": "## 项目概述\n\ncode-review-graph 是一个本地优先的代码智能图工具，旨在优化 AI 编码工具（如 MCP 客户端）的上下文使用。它通过构建代码库的持久化图结构，让 AI 工具只读取与当前任务相关的代码片段，从而显著减少上下文窗口的占用。\n\n## 核心特性\n\n- **本地优先**：所有数据存储在本地，保护代码隐私，无需上传到云端。\n- **MCP 集成**：作为 MCP 服务器，为 AI 助手提供结构化的代码查询接口。\n- **CLI 支持**：提供命令行工具，方便开发者手动构建和查询代码图。\n- **上下文缩减**：在代码审查和大仓库工作流中，通过基准测试验证了上下文使用量的显著降低。\n\n## 技术实现\n\n- **语言**：Python\n- **架构**：图数据库或类似结构，存储代码实体（如函数、类）及其关系。\n- **接口**：MCP 协议 + CLI 命令。\n\n## 应用场景\n\n- **代码审查**：AI 审查时只获取相关函数和依赖，减少无关代码干扰。\n- **大型仓库导航**：快速定位关键代码，避免加载整个仓库。\n- **AI 辅助开发**：为 Copilot 等工具提供精准的上下文，提升生成质量。\n\n## 社区与热度\n\n- **Star 数**：28,809（增长迅速，日增 232）\n- **Fork 数**：2,671\n- **分类**：GitHub 热点 · Python\n\n## 总结\n\n该项目解决了 AI 工具在处理大型代码库时的上下文瓶颈问题，通过本地图结构实现高效、精准的代码检索，是 AI 辅助开发领域的重要基础设施。",
+  "tags": [
+    "AI",
+    "代码智能",
+    "MCP",
+    "CLI",
+    "代码审查",
+    "本地优先",
+    "Python",
+    "上下文优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:58:58+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "tirth8205",
+    "stars": 28809,
+    "forks": 2671,
+    "daily_stars": 232,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

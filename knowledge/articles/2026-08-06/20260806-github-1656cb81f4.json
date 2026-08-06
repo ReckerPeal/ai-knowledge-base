@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-1656cb81f4",
+  "title": "CyberTimon/RapidRAW",
+  "source": "github_trending",
+  "source_url": "https://github.com/CyberTimon/RapidRAW",
+  "summary": "RapidRAW 是一款注重性能、界面美观、非破坏性且 GPU 加速的 RAW 图像编辑器。",
+  "content": "RapidRAW 是一个基于 TypeScript 构建的开源 RAW 图像编辑器，其核心设计理念是性能优先。它利用 GPU 加速技术，提供流畅的编辑体验。非破坏性编辑意味着原始 RAW 文件不会被修改，所有调整都以参数形式保存，可随时撤销或重新编辑。该项目在 GitHub 上获得了 9229 颗星，周增长 205 颗，显示出较高的社区关注度。其技术栈可能涉及 WebGPU 或 WebGL 等图形 API，以及现代前端框架。对于摄影爱好者和开发者而言，RapidRAW 提供了一个高性能、可扩展的 RAW 处理解决方案。",
+  "tags": [
+    "RAW图像编辑器",
+    "GPU加速",
+    "非破坏性编辑",
+    "TypeScript",
+    "图像处理",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-06T19:59:10+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "CyberTimon",
+    "stars": 9229,
+    "forks": 476,
+    "daily_stars": null,
+    "weekly_stars": 205,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
