@@ -1,0 +1,34 @@
+{
+  "id": "20260807-github-72ea32f14e",
+  "title": "yvgude/lean-ctx",
+  "source": "github_trending",
+  "source_url": "https://github.com/yvgude/lean-ctx",
+  "summary": "LeanCTX (Lean Context) 是一个面向 AI 代理的上下文智能层，以单个本地 Rust 二进制文件的形式，控制 AI 能读取的内容、记忆所学知识、保护所接触的数据，并证明所保存的信息。通过减少 60-90% 的 token 消耗，它集成了 76 个 MCP 工具，支持 30+ 代理，并采用本地优先架构。",
+  "content": "## 项目概述\n\nLeanCTX 是一个专为 AI 代理设计的上下文管理工具，核心定位是“上下文智能层”。它通过一个轻量级的本地 Rust 二进制文件，为 AI 代理提供精细化的上下文控制能力，旨在解决 AI 应用中上下文管理混乱、token 消耗过高以及数据安全难以保障等问题。\n\n## 核心功能\n\n1. **上下文控制**：精确决定 AI 代理可以读取哪些信息，避免无关数据干扰模型判断。\n2. **记忆管理**：自动记录和整理 AI 代理学习到的关键信息，形成可持续利用的知识库。\n3. **安全防护**：对 AI 代理接触的数据进行权限管控，防止敏感信息泄露。\n4. **可验证性**：提供保存数据的证明机制，确保数据操作的可追溯性和完整性。\n\n## 技术亮点\n\n- **性能优化**：通过智能上下文筛选，实现 60-90% 的 token 消耗削减，显著降低 API 调用成本。\n- **生态集成**：内置 76 个 MCP (Model Context Protocol) 工具，兼容 30+ 主流 AI 代理框架。\n- **本地优先**：所有处理均在本地完成，保障数据隐私，减少云端依赖。\n- **Rust 实现**：利用 Rust 的高性能和内存安全特性，确保工具运行稳定高效。\n\n## 适用场景\n\n- 需要精细控制 AI 输入上下文的企业级应用\n- 对 token 成本敏感的大规模 AI 调用场景\n- 涉及敏感数据需要严格权限管理的 AI 系统\n- 希望构建可审计 AI 操作流程的开发团队\n\n## 项目状态\n\n该项目在 GitHub 上表现活跃，已获得 3536 星标和 323 次 fork，近期日均新增星标 26 个，显示出较强的社区关注度和增长潜力。",
+  "tags": [
+    "Rust",
+    "AI代理",
+    "上下文管理",
+    "MCP工具",
+    "本地优先",
+    "Token优化",
+    "数据安全",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "yvgude",
+    "stars": 3536,
+    "forks": 323,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

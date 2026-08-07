@@ -1,0 +1,33 @@
+{
+  "id": "20260807-github-cd661dd6c1",
+  "title": "larksuite/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/larksuite/cli",
+  "summary": "larksuite/cli 是飞书官方推出的命令行工具，专为人类和 AI Agent 设计，覆盖消息、文档、多维表格、日历、邮件、任务、会议等核心业务域，提供 200+ 命令和 20+ AI Agent 技能。",
+  "content": "## 项目概述\nlarksuite/cli 是飞书（Lark）官方维护的 CLI 工具，旨在通过命令行高效操作飞书的核心业务功能。该工具不仅面向开发者，还特别针对 AI Agent 场景进行了优化，支持 200+ 命令和 20+ AI Agent 技能，覆盖消息（Messenger）、文档（Docs）、多维表格（Base）、电子表格（Sheets）、日历（Calendar）、邮件（Mail）、任务（Tasks）、会议（Meetings）等核心业务域。\n\n## 技术特点\n- **官方维护**：由 larksuite 团队直接维护，确保与飞书 API 的同步和稳定性。\n- **双模式设计**：既适合人类交互式使用，也支持 AI Agent 自动化调用，降低集成门槛。\n- **广泛覆盖**：涵盖飞书主要业务模块，提供丰富的命令集，满足多样化需求。\n- **AI 友好**：内置 20+ AI Agent 技能，便于将飞书能力嵌入智能工作流。\n\n## 适用场景\n- 开发者快速操作飞书资源（如创建文档、发送消息）。\n- AI Agent 集成飞书能力，实现自动化办公。\n- 运维和脚本化场景，通过命令行批量处理飞书数据。\n\n## 社区与热度\n该项目在 GitHub 上拥有 16k+ Star，近期日增 41 Star，显示出较高的社区关注度。语言为 Go，适合对性能有要求的场景。",
+  "tags": [
+    "CLI",
+    "飞书",
+    "Lark",
+    "AI Agent",
+    "Go",
+    "官方工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "larksuite",
+    "stars": 16251,
+    "forks": 1299,
+    "daily_stars": 41,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

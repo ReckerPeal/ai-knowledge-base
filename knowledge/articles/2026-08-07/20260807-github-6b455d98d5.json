@@ -1,0 +1,32 @@
+{
+  "id": "20260807-github-6b455d98d5",
+  "title": "YouROK/TorrServer",
+  "source": "github_trending",
+  "source_url": "https://github.com/YouROK/TorrServer",
+  "summary": "TorrServer 是一个基于 Go 语言实现的种子流媒体服务器，支持在线播放种子文件内容，无需完整下载即可观看视频。",
+  "content": "TorrServer 是一个用 Go 语言编写的种子流媒体服务器，它允许用户通过 HTTP 协议在线播放种子文件中的视频内容，而无需等待完整下载。该项目在 GitHub 上拥有 2877 颗星，343 个 fork，近期日增星 20 颗，显示出较高的社区关注度。其核心功能包括：支持多种视频格式、提供 Web 界面进行管理、支持多用户并发访问、可集成到 Kodi 等播放器中。TorrServer 通过将种子文件转换为可流式传输的 HTTP 流，解决了传统种子下载需等待完整文件的问题，特别适合大文件或即时观看场景。项目采用 Go 语言开发，具有高性能和跨平台特性，部署简单，适合个人或小团队自建流媒体服务。",
+  "tags": [
+    "Go",
+    "种子流媒体",
+    "Torrent",
+    "流媒体服务器",
+    "在线播放",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "YouROK",
+    "stars": 2877,
+    "forks": 343,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

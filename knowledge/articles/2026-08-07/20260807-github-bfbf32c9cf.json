@@ -1,0 +1,34 @@
+{
+  "id": "20260807-github-bfbf32c9cf",
+  "title": "promptfoo/promptfoo",
+  "source": "github_trending",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "promptfoo 是一个用于测试提示词、智能体（agents）和 RAG（检索增强生成）系统的开源工具，支持对 GPT、Claude、Gemini、DeepSeek 等主流大模型进行性能对比，并提供红队测试、渗透测试和漏洞扫描功能。它采用简单的声明式配置，支持命令行和 CI/CD 集成，已被 OpenAI 和 Anthropic 等公司使用。",
+  "content": "promptfoo 是一个功能强大的 AI 测试与安全评估平台，旨在帮助开发者系统性地验证和优化基于大语言模型的应用。其核心功能包括：\n\n1. **提示词测试**：通过声明式配置文件定义测试用例，批量评估不同提示词对模型输出的影响，支持自动化回归测试。\n2. **智能体与 RAG 评估**：针对复杂的智能体工作流和检索增强生成系统，提供端到端的性能测试，确保系统在真实场景下的准确性和可靠性。\n3. **红队与安全扫描**：内置红队测试和漏洞扫描能力，可自动生成对抗性输入，检测提示注入、越狱攻击等安全风险，帮助加固 AI 应用。\n4. **多模型对比**：支持同时测试 GPT、Claude、Gemini、DeepSeek 等多个主流模型，输出对比结果，便于选择最优模型或进行迁移评估。\n5. **易用性与集成**：提供简洁的 YAML/JSON 配置格式，支持命令行工具和 CI/CD 流水线集成，可无缝嵌入现有开发流程。\n\n该项目在 GitHub 上拥有超过 2.4 万星标，社区活跃，已被 OpenAI、Anthropic 等头部 AI 公司采用，是 AI 工程领域的重要基础设施。",
+  "tags": [
+    "AI测试",
+    "提示词工程",
+    "红队测试",
+    "安全扫描",
+    "RAG评估",
+    "多模型对比",
+    "CI/CD",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:21+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "promptfoo",
+    "stars": 24040,
+    "forks": 2165,
+    "daily_stars": 48,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

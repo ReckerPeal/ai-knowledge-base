@@ -1,0 +1,32 @@
+{
+  "id": "20260807-github-f23da9f705",
+  "title": "langchain-ai/open-swe",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/open-swe",
+  "summary": "langchain-ai/open-swe 是一个开源的异步编码代理项目，旨在提供高效的自动化代码生成与处理能力。该项目基于 Python 实现，在 GitHub 上获得了超过 1 万星标，显示出社区的高度关注。",
+  "content": "## 项目概述\n\n**open-swe** 是由 langchain-ai 团队开发的开源异步编码代理（Asynchronous Coding Agent）。它利用异步编程模型，旨在提升代码生成、修改和审查等任务的效率与响应速度。该项目在 GitHub 上表现活跃，拥有 10498 个星标和 1220 个分支，近期日增星标约 30 个，表明其持续受到开发者社区的欢迎。\n\n## 技术特点\n\n- **异步架构**：采用异步 I/O 和并发处理，能够同时处理多个编码任务，提高吞吐量。\n- **开源可扩展**：基于 Python 构建，易于集成到现有开发工作流中，支持自定义扩展。\n- **智能编码**：可能集成大语言模型（LLM）能力，实现代码理解、生成和优化。\n\n## 应用场景\n\n- 自动化代码审查与修复\n- 辅助开发者进行快速原型开发\n- 在 CI/CD 流程中实现智能代码检查\n\n## 社区与影响\n\n项目由 langchain-ai 维护，该组织以开发 LangChain 框架而闻名，因此 open-swe 可能受益于 LangChain 生态，吸引大量 AI 开发者关注。其高星标数反映了市场对智能编码工具的需求。",
+  "tags": [
+    "异步编程",
+    "编码代理",
+    "AI 代码生成",
+    "Python",
+    "开源工具",
+    "LangChain"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 10498,
+    "forks": 1220,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

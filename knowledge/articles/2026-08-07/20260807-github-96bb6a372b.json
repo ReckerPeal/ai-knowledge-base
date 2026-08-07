@@ -1,0 +1,32 @@
+{
+  "id": "20260807-github-96bb6a372b",
+  "title": "aws/agent-toolkit-for-aws",
+  "source": "github_trending",
+  "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "summary": "AWS 官方支持的 MCP 服务器、技能和插件工具包，帮助 AI 代理在 AWS 上构建应用。",
+  "content": "该仓库是 AWS 官方发布的 agent-toolkit-for-aws，旨在为 AI 代理（如 Claude、Copilot 等）提供与 AWS 服务交互的标准工具集。它包含 MCP（Model Context Protocol）服务器、技能（skills）和插件（plugins），使 AI 代理能够安全、高效地调用 AWS API，执行云资源管理、数据分析、机器学习等任务。项目采用 Python 编写，目前获得 2259 星标，近期热度上升（日增 17 星），适合开发者集成 AWS 能力到 AI 工作流中。",
+  "tags": [
+    "AWS",
+    "MCP",
+    "AI代理",
+    "Python",
+    "云服务",
+    "工具包"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "aws",
+    "stars": 2259,
+    "forks": 227,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

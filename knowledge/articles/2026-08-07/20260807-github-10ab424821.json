@@ -1,0 +1,31 @@
+{
+  "id": "20260807-github-10ab424821",
+  "title": "moghtech/komodo",
+  "source": "github_trending",
+  "source_url": "https://github.com/moghtech/komodo",
+  "summary": "Komodo 是一个用 Rust 编写的工具，用于在多台服务器上构建和部署软件，提供集中化的部署管理能力。",
+  "content": "Komodo 是一个开源工具，旨在简化多服务器环境下的软件构建与部署流程。它采用 Rust 语言开发，具备高性能和安全性。该项目在 GitHub 上受到广泛关注，拥有超过 1.1 万星标，显示出社区的高度认可。Komodo 的核心功能包括：\n- 多服务器管理：支持在多个服务器上统一管理部署任务。\n- 构建与部署：提供自动化构建和部署流程，减少人工操作。\n- 集中控制：通过单一界面或 API 控制所有服务器上的操作。\n- 可扩展性：基于 Rust 的架构，易于扩展和定制。\n该项目适合需要管理复杂服务器集群的开发者或运维团队，尤其适用于微服务架构和持续交付场景。",
+  "tags": [
+    "Rust",
+    "部署工具",
+    "多服务器",
+    "DevOps",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "moghtech",
+    "stars": 11857,
+    "forks": 375,
+    "daily_stars": null,
+    "weekly_stars": 104,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260807-github-d04cc35bd3",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "source": "rss",
+  "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "summary": "OpenAI 在六个月内构建了 GPT-Live 实时语音交互系统，采用无轮次语音模型和低延迟架构，实现了更快速、更自然的连续对话。",
+  "content": "OpenAI 的 GPT-Live 系统通过无轮次语音模型和低延迟架构，实现了连续语音交互。该系统在六个月内完成构建，旨在提供更快速、更自然的对话体验。其核心创新在于取消了传统的轮次切换机制，允许用户和 AI 同时说话或打断，从而模拟真实对话的流畅性。低延迟架构确保了响应速度，使交互几乎无感知延迟。这一技术突破有望推动语音 AI 在客服、助手等领域的应用。",
+  "tags": [
+    "OpenAI",
+    "GPT-Live",
+    "语音交互",
+    "实时系统",
+    "低延迟",
+    "无轮次模型"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-03T07:00:00+00:00",
+  "collected_at": "2026-08-07T18:45:35+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

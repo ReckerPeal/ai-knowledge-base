@@ -1,0 +1,32 @@
+{
+  "id": "20260807-github-3f7f2e4444",
+  "title": "Dicklesworthstone/destructive_command_guard",
+  "source": "github_trending",
+  "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "summary": "Destructive Command Guard (dcg) 是一个用 Rust 编写的开源工具，旨在阻止代理（如 AI 助手）执行危险的 git 和 shell 命令，从而保护系统安全。",
+  "content": "## 项目概述\nDestructive Command Guard (dcg) 是一个安全防护工具，专门用于拦截和阻止代理（如 AI 编程助手、自动化脚本）执行具有破坏性的 git 和 shell 命令。它通过预定义的规则集或自定义策略，在命令执行前进行检测，防止误操作或恶意行为导致的数据丢失、系统损坏等风险。\n\n## 核心功能\n- **命令拦截**：实时监控并阻止危险命令，如 `git push --force`、`rm -rf` 等。\n- **策略配置**：支持用户自定义允许或禁止的命令列表，灵活适应不同场景。\n- **日志记录**：记录所有被拦截的命令，便于审计和回溯。\n- **轻量高效**：基于 Rust 实现，性能开销低，适合集成到各种代理环境中。\n\n## 技术亮点\n- **语言优势**：Rust 的内存安全和并发特性保证了工具的稳定性和性能。\n- **易集成**：提供简单的 CLI 接口，可轻松嵌入到现有工作流中。\n- **社区关注**：在 GitHub 上获得 5672 星，近期日增 75 星，表明其需求旺盛。\n\n## 适用场景\n- AI 编程助手（如 Copilot、Codex）的安全防护。\n- CI/CD 流水线中的命令安全校验。\n- 自动化脚本执行前的风险控制。\n\n## 总结\n该工具填补了 AI 代理安全领域的空白，通过主动拦截危险命令，降低了自动化操作带来的风险，是开发者和团队保障系统安全的有力工具。",
+  "tags": [
+    "Rust",
+    "安全",
+    "命令行",
+    "AI代理",
+    "Git",
+    "防护工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Dicklesworthstone",
+    "stars": 5672,
+    "forks": 221,
+    "daily_stars": 75,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

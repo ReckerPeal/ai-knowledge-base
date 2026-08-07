@@ -1,0 +1,31 @@
+{
+  "id": "20260807-github-2cf2dfbc7e",
+  "title": "akuity/kargo",
+  "source": "github_trending",
+  "source_url": "https://github.com/akuity/kargo",
+  "summary": "Kargo 是一个面向 Kubernetes 的应用生命周期编排工具，旨在通过 GitOps 方式简化和自动化应用从构建到部署的整个流程。",
+  "content": "Kargo 是 akuity 团队开发的一个开源项目，专注于 Kubernetes 环境下的应用生命周期编排。它提供了一种声明式的方法来管理应用的交付流程，包括构建、测试、部署和推广等阶段。Kargo 的核心优势在于其与 GitOps 理念的深度集成，允许用户通过 Git 仓库来定义和跟踪应用的状态，从而实现可审计、可回滚的持续交付。该项目在 GitHub 上表现活跃，当前获得 3507 颗星和 409 个 fork，近期日增星约 38 颗，显示出社区的高度关注。Kargo 使用 Go 语言开发，适合需要复杂应用编排和跨环境部署的团队，尤其适用于多集群或边缘计算场景。",
+  "tags": [
+    "Kubernetes",
+    "GitOps",
+    "应用编排",
+    "持续交付",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-07T18:45:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "akuity",
+    "stars": 3507,
+    "forks": 409,
+    "daily_stars": 38,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
