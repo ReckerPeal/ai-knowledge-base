@@ -1,0 +1,34 @@
+{
+  "id": "20260808-github-afa09f3435",
+  "title": "pimalaya/himalaya",
+  "source": "github_trending",
+  "source_url": "https://github.com/pimalaya/himalaya",
+  "summary": "pimalaya/himalaya 是一个用 Rust 编写的命令行电子邮件管理工具，支持多账户、邮件收发、文件夹管理等操作，目前在 GitHub 上获得 6964 星，属于 Rust 生态中的热门项目。",
+  "content": "## 项目概述\nhimalaya 是一个基于 Rust 的命令行电子邮件客户端，旨在提供高效、可脚本化的邮件管理体验。它支持多账户配置、邮件列表查看、邮件读写、文件夹操作、附件管理等功能，并可通过命令行管道与其他工具集成。\n\n## 技术特点\n- **语言与性能**：使用 Rust 编写，内存安全且性能优异，启动速度快。\n- **协议支持**：支持 IMAP 和 SMTP 协议，兼容主流邮件服务商。\n- **可扩展性**：提供丰富的命令行选项，支持 JSON 输出，便于脚本和自动化。\n- **配置管理**：通过 TOML 配置文件管理多账户，支持加密密码存储。\n\n## 社区与热度\n- 当前星标数：6964，分支数：225。\n- 近期增长：日增 29 星，周增 163 星，月增数据未提供，但整体热度持续上升。\n- 分类：GitHub 热点 · Rust，反映了 Rust 在 CLI 工具领域的受欢迎程度。\n\n## 适用场景\n适合开发者、系统管理员和喜欢终端操作的用户，用于快速处理邮件、集成到工作流或进行邮件数据自动化处理。",
+  "tags": [
+    "Rust",
+    "CLI",
+    "电子邮件",
+    "IMAP",
+    "SMTP",
+    "命令行工具",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:43+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "pimalaya",
+    "stars": 6964,
+    "forks": 225,
+    "daily_stars": 29,
+    "weekly_stars": 163,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

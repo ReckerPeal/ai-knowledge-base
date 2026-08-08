@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-109df1f90f",
+  "title": "sundowndev/phoneinfoga",
+  "source": "github_trending",
+  "source_url": "https://github.com/sundowndev/phoneinfoga",
+  "summary": "phoneinfoga 是一个用于电话号码信息收集的框架，支持多种扫描和侦察功能。",
+  "content": "phoneinfoga 是一个用 Go 语言编写的开源信息收集框架，专注于电话号码的侦察与情报收集。它能够通过多个数据源（如国家代码、运营商、地理位置等）对电话号码进行扫描，提供包括号码验证、位置追踪、运营商识别、以及关联社交媒体账号等在内的多种功能。该项目在 GitHub 上拥有超过 17k 星标，社区活跃，适合安全研究人员、渗透测试人员以及隐私保护爱好者使用。其模块化设计允许用户自定义扫描流程，并支持命令行界面和 Web 界面。",
+  "tags": [
+    "电话号码",
+    "信息收集",
+    "OSINT",
+    "Go",
+    "安全工具",
+    "侦察"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "sundowndev",
+    "stars": 17404,
+    "forks": 5438,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

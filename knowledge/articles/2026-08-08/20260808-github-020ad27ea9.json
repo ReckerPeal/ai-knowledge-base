@@ -1,0 +1,38 @@
+{
+  "id": "20260808-github-020ad27ea9",
+  "title": "open-mercato/open-mercato",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-mercato/open-mercato",
+  "summary": "open-mercato 是一个为 AI 设计的 AI 工程基础框架，将数百个架构和领域决策（如多租户、RBAC、事件流、定价、销售管道、CRM/ERP 流程）固化为约定和规范，使 AI 代理（如 Cursor、Claude Code、Codex）无需重新发明即可做出架构决策，从而用 AI 代理快速交付生产级应用。",
+  "content": "## 项目概述\n\nopen-mercato 是一个 AI 工程基础框架，旨在利用 AI 代理（如 Cursor、Claude Code、Codex）快速构建生产级应用。该框架将大量架构和领域决策（如多租户、RBAC、事件流、定价、销售管道、CRM/ERP 流程）预先固化为约定和规范，使 AI 代理能够直接遵循这些规范进行开发，避免重复设计，提高开发效率和一致性。\n\n## 核心特性\n\n- **AI 原生设计**：框架本身由 AI 构建，并为 AI 代理优化，支持自然语言驱动的开发。\n- **预置决策**：涵盖多租户、RBAC、事件流、定价、销售管道、CRM/ERP 等数百个架构和领域决策，作为默认约定。\n- **代理友好**：AI 代理可直接基于规范生成代码，减少架构设计偏差。\n- **生产级输出**：旨在帮助开发者用 AI 代理快速交付生产级应用。\n\n## 技术栈\n\n- 主要语言：TypeScript\n- 框架类型：AI 工程基础框架\n\n## 项目状态\n\n- 星标数：1580\n- Fork 数：353\n- 日增星标：11\n- 类别：GitHub 热点 · TypeScript\n\n## 适用场景\n\n- 需要快速搭建生产级 AI 应用的团队\n- 希望利用 AI 代理进行架构决策和代码生成的开发者\n- 需要统一架构规范的多租户 SaaS 应用开发",
+  "tags": [
+    "AI",
+    "AI工程",
+    "框架",
+    "TypeScript",
+    "多租户",
+    "RBAC",
+    "事件流",
+    "CRM",
+    "ERP",
+    "AI代理",
+    "生产级应用",
+    "架构决策"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "open-mercato",
+    "stars": 1580,
+    "forks": 353,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

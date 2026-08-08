@@ -1,0 +1,36 @@
+{
+  "id": "20260808-github-30905c3403",
+  "title": "wshobson/agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/wshobson/agents",
+  "summary": "wshobson/agents 是一个多工具集成的智能体插件市场，支持 Claude Code、Codex CLI、Cursor、OpenCode、GitHub Copilot 和 Gemini CLI 等多种开发工具。",
+  "content": "## 项目概述\n\nwshobson/agents 是一个面向多开发环境的智能体插件市场，旨在为 Claude Code、Codex CLI、Cursor、OpenCode、GitHub Copilot 和 Gemini CLI 等主流 AI 编程工具提供统一的插件分发和集成平台。该项目在 GitHub 上获得了 38610 颗星，拥有 4119 个 fork，近期日增星 58 颗，显示出较高的社区关注度。\n\n## 核心功能\n\n- **多工具支持**：覆盖 Claude Code、Codex CLI、Cursor、OpenCode、GitHub Copilot 和 Gemini CLI 等六种主流 AI 编程工具，用户可以在不同工具间无缝切换和复用插件。\n- **插件市场**：提供丰富的智能体插件，用户可以根据需求安装、配置和管理插件，扩展工具的功能。\n- **统一管理**：通过一个平台集中管理多个工具的插件，简化了配置和更新流程，提高了开发效率。\n\n## 技术亮点\n\n- **Python 实现**：项目主要使用 Python 编写，便于扩展和维护。\n- **插件化架构**：采用插件化设计，支持第三方开发者贡献插件，生态活跃。\n- **跨平台兼容**：适配多种 CLI 工具，体现了良好的抽象和兼容性设计。\n\n## 适用场景\n\n- 开发者需要在多个 AI 编程工具之间切换，并希望统一管理插件配置。\n- 团队希望标准化 AI 工具链，减少重复配置成本。\n- 对智能体插件开发感兴趣的开发者，可以参考该项目学习插件化设计模式。\n\n## 社区与热度\n\n项目在 GitHub 上表现突出，拥有 3.8 万+ 星标，日增星 58 颗，说明其持续受到开发者关注。活跃的社区和丰富的插件生态使其成为 AI 编程工具领域的重要项目之一。",
+  "tags": [
+    "AI",
+    "智能体",
+    "插件市场",
+    "Claude Code",
+    "Codex CLI",
+    "Cursor",
+    "OpenCode",
+    "GitHub Copilot",
+    "Gemini CLI",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:38+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "wshobson",
+    "stars": 38610,
+    "forks": 4119,
+    "daily_stars": 58,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-c57da82c6b",
+  "title": "coder/coder",
+  "source": "github_trending",
+  "source_url": "https://github.com/coder/coder",
+  "summary": "coder/coder 是一个为开发者和他们的代理提供安全环境的开源项目。它允许开发者在云端创建一致的开发环境，并支持代理（如 AI 编码助手）安全地访问这些环境。该项目使用 Go 语言编写，在 GitHub 上拥有超过 1.4 万星标，近期热度持续上升。",
+  "content": "## 项目概述\ncoder/coder 是一个开源项目，旨在为开发者和他们的代理（如 AI 编码助手）提供安全、一致的开发环境。它通过基础设施即代码的方式，将开发环境定义为代码，支持在云端或本地创建可复现的环境，并确保代理可以安全地访问这些环境，同时保持安全性和合规性。\n\n## 核心功能\n- **环境即代码**：使用 Terraform 定义开发环境，支持多种云平台和本地环境。\n- **安全访问**：提供基于角色的访问控制（RBAC）和审计日志，确保只有授权用户和代理可以访问环境。\n- **代理支持**：为 AI 编码助手等代理提供安全的 API 接口，使其能够与开发环境交互，同时保护敏感数据。\n- **协作与共享**：支持团队共享环境，促进协作开发。\n\n## 技术栈\n- 语言：Go\n- 基础设施：Terraform\n- 架构：客户端-服务器模型，支持 Web IDE 和 CLI 访问\n\n## 项目热度\n- 星标数：14,093\n- 分支数：1,429\n- 日增星标：28，表明近期关注度较高\n\n## 适用场景\n- 团队需要统一开发环境，减少“在我机器上能跑”的问题。\n- 需要为 AI 代理提供安全的代码访问和操作环境。\n- 希望实现开发环境的自动化管理和审计。",
+  "tags": [
+    "开发环境",
+    "安全",
+    "代理",
+    "Go",
+    "Terraform",
+    "云开发",
+    "AI编码助手"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "coder",
+    "stars": 14093,
+    "forks": 1429,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

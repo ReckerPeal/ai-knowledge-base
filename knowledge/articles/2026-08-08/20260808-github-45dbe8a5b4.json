@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-45dbe8a5b4",
+  "title": "kubernetes-sigs/kind",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/kind",
+  "summary": "kind 是一个使用 Docker 容器运行本地 Kubernetes 集群的工具，主要用于测试目的。",
+  "content": "kind（Kubernetes IN Docker）是 Kubernetes SIGs 维护的开源项目，它通过 Docker 容器来模拟 Kubernetes 节点，从而在本地快速创建和运行 Kubernetes 集群。该项目主要面向开发者和测试人员，用于在本地环境进行 Kubernetes 的测试和开发工作。kind 支持多节点集群、高可用集群等配置，并且与 Kubernetes 官方工具链（如 kubectl）无缝集成。其设计目标是轻量、快速、易于使用，适合 CI/CD 流水线中的集成测试。项目采用 Go 语言开发，目前拥有超过 1.5 万颗星，社区活跃。",
+  "tags": [
+    "Kubernetes",
+    "Docker",
+    "本地集群",
+    "测试工具",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 15407,
+    "forks": 1781,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

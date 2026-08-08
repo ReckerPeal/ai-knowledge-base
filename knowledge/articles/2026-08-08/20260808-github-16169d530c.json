@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-16169d530c",
+  "title": "ayghri/i-have-adhd",
+  "source": "github_trending",
+  "source_url": "https://github.com/ayghri/i-have-adhd",
+  "summary": "该项目是一个用于阻止编码代理（coding agent）隐藏答案的技能，提供对ADHD友好的输出格式。",
+  "content": "## 项目概述\n\n**i-have-adhd** 是一个针对编码代理（如 AI 编程助手）的辅助技能，旨在解决用户在获取答案时因信息冗长或隐藏而导致的注意力分散问题。它通过优化输出方式，使回答更加直接、简洁，特别适合注意力缺陷多动障碍（ADHD）用户或偏好高效信息获取的开发者。\n\n## 核心功能\n\n- **阻止隐藏答案**：确保编码代理在回答时直接给出核心结论，避免将关键信息埋藏在长篇解释中。\n- **ADHD友好输出**：采用短句、列表、高亮等格式，减少认知负担，提升信息可读性。\n- **易于集成**：作为技能（skill）可轻松集成到主流编码代理工作流中。\n\n## 技术要点\n\n- 语言：Python\n- 项目类型：GitHub 热点项目，当前星标数 18,299，周增 3,497，增长迅速。\n- 适用场景：AI 辅助编程、代码审查、技术问答等需要快速获取答案的场景。\n\n## 使用价值\n\n对于开发者而言，该工具能显著提升与 AI 代理交互的效率，减少信息筛选时间，尤其适合需要快速决策或容易分心的用户。其设计理念也反映了 AI 交互中“以用户为中心”的趋势。",
+  "tags": [
+    "ADHD",
+    "编码代理",
+    "AI辅助编程",
+    "输出优化",
+    "Python",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:48+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ayghri",
+    "stars": 18299,
+    "forks": 1064,
+    "daily_stars": null,
+    "weekly_stars": 3497,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

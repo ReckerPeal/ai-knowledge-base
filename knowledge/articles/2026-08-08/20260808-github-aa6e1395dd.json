@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-aa6e1395dd",
+  "title": "cloudflare/pingora",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/pingora",
+  "summary": "Cloudflare 开源的 Pingora 是一个用于构建快速、可靠且可演进网络服务的高性能 Rust 库。它基于 Cloudflare 内部生产环境验证的代理架构，提供了异步、多线程、无惧阻塞的框架，支持 HTTP/1 和 HTTP/2，并具备强大的可观测性和可扩展性。该项目在 GitHub 上拥有超过 2.7 万星标，是 Rust 网络编程领域的热门项目。",
+  "content": "## 项目概述\nPingora 是 Cloudflare 开源的一个 Rust 库，旨在帮助开发者构建快速、可靠且可演进的网络服务。它源自 Cloudflare 内部用于处理全球流量的核心代理系统，经过生产环境大规模验证，现已开源供社区使用。\n\n## 核心特性\n- **高性能**：基于异步 Rust 和多线程架构，无惧阻塞，能够高效处理大量并发连接。\n- **可靠性**：内置优雅重启、平滑升级、负载均衡和故障转移机制，确保服务高可用。\n- **可演进性**：模块化设计，支持通过过滤器链和自定义阶段轻松扩展功能，便于迭代升级。\n- **协议支持**：原生支持 HTTP/1 和 HTTP/2，并兼容 TLS 和 gRPC。\n- **可观测性**：提供丰富的指标和日志接口，方便监控和调试。\n\n## 技术架构\nPingora 采用类似 Nginx 的事件驱动模型，但利用 Rust 的所有权和生命周期保证内存安全，避免常见的内存错误。其核心抽象包括：\n- `Service`：定义服务入口和配置。\n- `Server`：管理监听器和连接。\n- `Filter`：处理请求和响应的中间件。\n- `Upstream`：管理后端连接池和健康检查。\n\n## 应用场景\n- 构建反向代理、API 网关、边缘服务器。\n- 替代 Nginx/Envoy 等传统代理，获得更高性能和安全性。\n- 用于 CDN、负载均衡、微服务网关等场景。\n\n## 社区与热度\n该项目在 GitHub 上获得 27,156 星标和 1,706 次 fork，每日新增约 14 星，属于 Rust 生态中的明星项目。Cloudflare 持续维护并更新，社区活跃。\n\n## 快速开始\n在 `Cargo.toml` 中添加依赖：\n```toml\n[dependencies]\npingora = \"0.3\"\n```\n然后参考官方示例创建自定义服务。\n\n## 总结\nPingora 是 Rust 网络编程领域的重要开源项目，适合需要高性能、高可靠网络服务的团队。其生产级特性与活跃社区使其成为构建下一代网络基础设施的理想选择。",
+  "tags": [
+    "Rust",
+    "网络服务",
+    "反向代理",
+    "Cloudflare",
+    "异步编程",
+    "HTTP/2",
+    "开源库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:43+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 27156,
+    "forks": 1706,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

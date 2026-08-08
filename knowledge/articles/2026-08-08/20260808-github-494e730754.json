@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-494e730754",
+  "title": "PrimeIntellect-ai/prime-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "summary": "PrimeIntellect-ai/prime-agent 是一个自改进的 RLM（强化学习智能体）代理，专为编码工作流和长期自主任务设计。该项目在 GitHub 上迅速走红，日增星超 2200，总星数达 7383，显示出社区对其高度关注。",
+  "content": "## 项目概述\nprime-agent 是一个基于 TypeScript 开发的智能代理，核心特性是“自改进”（self-improving），即通过强化学习（RLM，Reinforcement Learning for Machines）不断优化自身在编码和长期任务中的表现。它旨在处理复杂的编码工作流，并能自主执行长时间运行的任务，减少人工干预。\n\n## 技术亮点\n- **自改进机制**：利用强化学习循环，代理能从过往经验中学习，提升任务完成效率与准确性。\n- **编码工作流支持**：针对代码生成、调试、重构等场景优化，可集成到开发流程中。\n- **长期自主性**：设计用于长时间运行的任务，具备状态管理和错误恢复能力。\n\n## 社区与热度\n- 当前星标数：7,383，分叉数：614，日增星 2,293，表明项目处于爆发增长期。\n- 语言：TypeScript，适合熟悉前端/全栈的开发者参与。\n- 类别：GitHub 热点 · TypeScript，属于 AI 代理领域的前沿项目。\n\n## 潜在应用\n- 自动化代码审查与修复\n- 持续集成中的智能任务执行\n- 复杂项目中的自主开发辅助\n\n## 总结\nprime-agent 代表了 AI 代理在软件开发领域的新方向，其自改进特性可能引领下一代开发工具。对于关注 AI 和自动化编程的开发者，这是一个值得深入研究的项目。",
+  "tags": [
+    "AI代理",
+    "强化学习",
+    "编码自动化",
+    "TypeScript",
+    "自主任务",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "PrimeIntellect-ai",
+    "stars": 7383,
+    "forks": 614,
+    "daily_stars": 2293,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

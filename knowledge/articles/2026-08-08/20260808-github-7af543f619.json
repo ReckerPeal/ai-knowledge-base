@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-7af543f619",
+  "title": "openbao/openbao",
+  "source": "github_trending",
+  "source_url": "https://github.com/openbao/openbao",
+  "summary": "OpenBao 是一个用于管理、存储和分发敏感数据（如密钥、证书和令牌）的软件解决方案。",
+  "content": "OpenBao 是一个开源项目，旨在提供安全、可靠的敏感数据管理服务。它支持密钥、证书和令牌的存储与分发，适用于云原生环境。该项目基于 Go 语言开发，具有高可扩展性和安全性。OpenBao 是 HashiCorp Vault 的一个分支，由社区维护，强调开放治理和透明性。其功能包括动态密钥生成、加密即服务、租约管理和访问控制等。",
+  "tags": [
+    "OpenBao",
+    "密钥管理",
+    "证书管理",
+    "敏感数据",
+    "Go",
+    "云原生",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openbao",
+    "stars": 6963,
+    "forks": 528,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-0407a30dba",
+  "title": "github/gh-stack",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-stack",
+  "summary": "gh-stack 是 GitHub 官方推出的命令行工具，用于简化堆叠式拉取请求（Stacked PRs）的创建与管理。它基于 Go 语言开发，旨在帮助开发者高效处理依赖多个分支的复杂变更，通过自动同步和重排提交，提升代码审查与合并流程的效率。",
+  "content": "## 项目概述\ngh-stack 是 GitHub 官方发布的扩展工具，专为支持堆叠式 PR 工作流而设计。堆叠式 PR 是一种将大型变更拆分为多个相互依赖的小型 PR 的实践，每个 PR 基于前一个 PR 的分支，从而便于逐步审查和合并。该工具通过命令行界面提供直观的操作，自动处理分支同步、提交重排和 PR 更新，减少手动管理多个分支的负担。\n\n## 核心功能\n- **自动同步**：当基础分支更新时，自动将变更应用到所有依赖的 PR 分支。\n- **提交重排**：智能调整提交顺序，确保每个 PR 只包含其对应的变更。\n- **状态跟踪**：清晰展示每个 PR 的依赖关系和状态，便于团队协作。\n- **集成 GitHub CLI**：无缝集成 gh 命令，无需额外配置。\n\n## 技术亮点\n- 使用 Go 语言开发，具备高性能和跨平台特性。\n- 遵循 GitHub 官方设计规范，与现有 GitHub CLI 生态完美融合。\n- 开源免费，社区活跃，持续迭代。\n\n## 适用场景\n- 大型功能开发，需要拆分为多个可独立审查的 PR。\n- 团队协作中，需要避免长生命周期分支带来的合并冲突。\n- 希望提升代码审查效率，加快 CI 反馈循环的开发者。\n\n## 快速上手\n安装后，通过 `gh stack` 命令即可开始使用。支持创建新堆栈、添加 PR、查看状态等操作，详细文档可参考仓库 README。\n\n## 总结\ngh-stack 为 GitHub 用户提供了一种高效管理堆叠式 PR 的解决方案，尤其适合中大型项目团队。其官方背景和 Go 语言实现保证了稳定性和性能，是值得尝试的现代化开发工具。",
+  "tags": [
+    "GitHub",
+    "Stacked PRs",
+    "CLI",
+    "Go",
+    "开发工具",
+    "代码审查",
+    "工作流"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:55+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 1174,
+    "forks": 50,
+    "daily_stars": null,
+    "weekly_stars": 499,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

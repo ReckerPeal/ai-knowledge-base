@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-f5e26da084",
+  "title": "jackc/pgx",
+  "source": "github_trending",
+  "source_url": "https://github.com/jackc/pgx",
+  "summary": "pgx 是 Go 语言的高性能 PostgreSQL 驱动和工具包，由 jackc 开发，在 GitHub 上拥有超过 1.4 万星标。",
+  "content": "pgx 是 Go 语言中一个功能强大的 PostgreSQL 驱动和工具包，它提供了比标准库 database/sql 更高级的接口，同时保持了对底层协议的高性能访问。pgx 支持 PostgreSQL 的许多高级特性，如原生 JSON 支持、批量操作、异步通知、复制协议等。它既可以作为纯驱动使用，也可以作为功能完整的工具包，帮助开发者更高效地构建数据库应用。该项目在 GitHub 上非常受欢迎，拥有 14112 颗星和 1098 个 fork，每日新增约 3 颗星，表明其持续受到关注。",
+  "tags": [
+    "PostgreSQL",
+    "Go",
+    "数据库驱动",
+    "工具包",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "jackc",
+    "stars": 14112,
+    "forks": 1098,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

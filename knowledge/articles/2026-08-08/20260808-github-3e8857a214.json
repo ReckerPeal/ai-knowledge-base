@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-3e8857a214",
+  "title": "cloudflare/computer",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/computer",
+  "summary": "Cloudflare 推出的开源项目，旨在为 AI 代理提供计算机操作能力，使其能像人类一样使用计算机。",
+  "content": "该项目由 Cloudflare 开发，使用 TypeScript 编写，核心目标是赋予 AI 代理（agent）操作计算机的能力，使其能够执行诸如打开应用、浏览网页、点击按钮等任务。项目在 GitHub 上迅速获得关注，当前已收获 6148 颗星，日增星 872 颗，显示出社区的高度兴趣。该工具可能基于 Cloudflare 的 Workers 或边缘计算平台，提供安全的沙箱环境，让 AI 代理能够与操作系统交互。对于开发者而言，该项目有望简化 AI 自动化流程，推动智能代理在真实计算机环境中的应用。",
+  "tags": [
+    "AI代理",
+    "计算机操作",
+    "Cloudflare",
+    "自动化",
+    "TypeScript",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 6148,
+    "forks": 307,
+    "daily_stars": 872,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

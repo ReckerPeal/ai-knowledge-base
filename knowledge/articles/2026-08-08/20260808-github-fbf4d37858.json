@@ -1,0 +1,35 @@
+{
+  "id": "20260808-github-fbf4d37858",
+  "title": "bettercap/bettercap",
+  "source": "github_trending",
+  "source_url": "https://github.com/bettercap/bettercap",
+  "summary": "bettercap 是一个功能强大的网络攻击与侦察框架，支持 802.11、BLE、HID、CAN-bus、IPv4 和 IPv6 等多种协议，被誉为网络渗透测试的“瑞士军刀”。",
+  "content": "bettercap 是一个用 Go 语言编写的开源网络攻击与侦察框架，旨在为安全研究人员和渗透测试人员提供一套全面的工具集。它支持多种网络协议和接口，包括 Wi-Fi (802.11)、蓝牙低功耗 (BLE)、人机接口设备 (HID)、控制器局域网 (CAN-bus) 以及 IPv4/IPv6 网络。其核心功能包括网络侦察、中间人攻击 (MITM)、流量嗅探、数据包注入等。该项目在 GitHub 上拥有近 2 万星标，社区活跃，持续更新，是网络安全领域的重要工具之一。",
+  "tags": [
+    "网络安全",
+    "渗透测试",
+    "MITM",
+    "网络侦察",
+    "Go",
+    "802.11",
+    "BLE",
+    "HID",
+    "CAN-bus"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-08T18:24:55+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "bettercap",
+    "stars": 19745,
+    "forks": 1702,
+    "daily_stars": null,
+    "weekly_stars": 180,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
