@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-5a94f36afb",
+  "title": "goauthentik/authentik",
+  "source": "github_trending",
+  "source_url": "https://github.com/goauthentik/authentik",
+  "summary": "authentik 是一个开源的身份认证粘合层，旨在将各种身份验证和授权需求整合到一个统一的平台中。它提供了灵活的身份提供者、单点登录（SSO）、多因素认证（MFA）等功能，支持与现有系统集成，是构建现代应用认证基础设施的理想选择。",
+  "content": "## 项目概述\n\n**authentik** 是一个开源的身份认证粘合层，由 goauthentik 团队开发，使用 Python 编写。它旨在解决现代应用和基础设施中复杂的身份验证与授权问题，通过提供一个集中式的认证平台，将不同的身份源、应用和用户管理整合在一起。\n\n## 核心功能\n\n- **统一认证**：支持多种身份提供者（如 LDAP、OAuth2、SAML、OpenID Connect），可作为中央认证服务。\n- **单点登录（SSO）**：用户只需登录一次，即可访问多个关联应用。\n- **多因素认证（MFA）**：内置 TOTP、WebAuthn 等 MFA 支持，增强安全性。\n- **用户与权限管理**：提供用户、组、权限的精细管理，支持基于角色的访问控制（RBAC）。\n- **可扩展性**：通过插件和 API 轻松集成到现有系统，支持自定义流程。\n- **可视化界面**：提供直观的 Web 管理界面，简化配置和监控。\n\n## 技术亮点\n\n- **语言与框架**：基于 Python 和 Django，利用其成熟生态。\n- **架构设计**：采用模块化设计，核心服务与可插拔组件分离，便于维护和扩展。\n- **安全性**：遵循安全最佳实践，支持加密存储、审计日志等。\n\n## 适用场景\n\n- 企业应用需要统一身份认证和访问控制。\n- 微服务架构中需要集中式认证网关。\n- 希望替换或整合现有认证系统（如 Keycloak、FreeIPA）的场景。\n\n## 社区与热度\n\n该项目在 GitHub 上拥有超过 2.4 万星标，近期日增星标约 467，周增约 1334，显示出强劲的增长势头和社区活跃度。",
+  "tags": [
+    "身份认证",
+    "单点登录",
+    "多因素认证",
+    "Python",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "goauthentik",
+    "stars": 24097,
+    "forks": 1848,
+    "daily_stars": 467,
+    "weekly_stars": 1334,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

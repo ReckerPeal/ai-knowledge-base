@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-7bf176cb80",
+  "title": "kyutai-labs/pocket-tts",
+  "source": "github_trending",
+  "source_url": "https://github.com/kyutai-labs/pocket-tts",
+  "summary": "Pocket-TTS 是一个轻量级文本转语音（TTS）模型，专为在 CPU 上高效运行而设计，旨在让 TTS 功能可以轻松集成到边缘设备或移动应用中。",
+  "content": "Pocket-TTS 由 kyutai-labs 开发，是一个专注于在 CPU 上运行的文本转语音（TTS）模型。其核心优势在于轻量化和高效性，使得 TTS 功能不再依赖强大的 GPU 或云端服务，而是可以直接在本地设备（如手机、嵌入式设备）上运行。该项目在 GitHub 上获得了 8189 颗星，日增 83 颗，显示出较高的社区关注度。Pocket-TTS 可能采用了模型压缩或蒸馏技术，以在保持语音质量的同时大幅降低计算资源需求。对于开发者而言，Pocket-TTS 提供了在资源受限环境下部署语音合成的可能性，适用于离线语音助手、无障碍工具、智能家居等场景。",
+  "tags": [
+    "TTS",
+    "CPU",
+    "轻量级",
+    "边缘计算",
+    "语音合成",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kyutai-labs",
+    "stars": 8189,
+    "forks": 828,
+    "daily_stars": 83,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

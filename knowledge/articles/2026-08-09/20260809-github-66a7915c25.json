@@ -1,0 +1,33 @@
+{
+  "id": "20260809-github-66a7915c25",
+  "title": "sharkdp/bat",
+  "source": "github_trending",
+  "source_url": "https://github.com/sharkdp/bat",
+  "summary": "sharkdp/bat 是一个用 Rust 编写的 cat 命令克隆工具，带有语法高亮和 Git 集成等增强功能，在 GitHub 上拥有超过 6 万星标，是当前热门的命令行工具。",
+  "content": "bat 是一个 cat 命令的现代化替代品，它扩展了传统 cat 的功能，提供了语法高亮、行号显示、Git 集成（在修改行旁显示标记）以及自动分页等特性。该项目使用 Rust 语言开发，以其高性能和可靠性著称。bat 支持多种文件类型，并能自动检测语言进行高亮，同时支持自定义主题和配置。它还可以作为其他命令的查看器，例如与 grep 或 find 结合使用。bat 在 GitHub 上非常受欢迎，拥有超过 6 万星标，每周新增约 200 星标，显示出持续的热度和社区活跃度。对于开发者来说，bat 是日常终端操作的得力工具，尤其适合查看代码和日志文件。",
+  "tags": [
+    "Rust",
+    "命令行工具",
+    "cat替代",
+    "语法高亮",
+    "Git集成",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:20+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "sharkdp",
+    "stars": 60153,
+    "forks": 1631,
+    "daily_stars": null,
+    "weekly_stars": 202,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

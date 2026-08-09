@@ -1,0 +1,34 @@
+{
+  "id": "20260809-github-b5ab28279e",
+  "title": "Dokploy/dokploy",
+  "source": "github_trending",
+  "source_url": "https://github.com/Dokploy/dokploy",
+  "summary": "Dokploy 是一个开源的部署平台，旨在作为 Vercel、Netlify 和 Heroku 的替代方案。它允许用户在自己的服务器上部署应用，提供类似 PaaS 的体验，支持多种框架和语言。",
+  "content": "Dokploy 是一个开源项目，用 TypeScript 编写，目前在 GitHub 上拥有超过 36k 星标。它定位为 Vercel、Netlify 和 Heroku 的替代品，意味着用户可以通过 Dokploy 在自有基础设施上实现类似这些商业平台的部署功能。该项目可能提供诸如自动构建、持续部署、环境管理、域名绑定等功能，同时强调数据自主权和成本控制。由于是开源项目，用户可以自行托管，避免供应商锁定。其技术栈基于 TypeScript，可能涉及 Docker 或 Kubernetes 等容器化技术。该项目在 GitHub 趋势榜上表现活跃，每日新增星标约 23 个，显示出社区关注度较高。",
+  "tags": [
+    "开源",
+    "部署平台",
+    "Vercel替代",
+    "Netlify替代",
+    "Heroku替代",
+    "TypeScript",
+    "自托管",
+    "PaaS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:09+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Dokploy",
+    "stars": 36451,
+    "forks": 2836,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

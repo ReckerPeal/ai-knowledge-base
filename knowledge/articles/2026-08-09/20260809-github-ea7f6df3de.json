@@ -1,0 +1,30 @@
+{
+  "id": "20260809-github-ea7f6df3de",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "summary": "LFM2.5-2.6B 是 Liquid AI 发布的一款轻量级语言模型，旨在实现本地代理的广泛部署。该模型仅有 26 亿参数，却能在资源受限的边缘设备上高效运行，支持多种本地推理场景，为开发者提供了低成本、高隐私的 AI 解决方案。",
+  "content": "Liquid AI 推出的 LFM2.5-2.6B 模型，参数规模为 2.6B，专为本地代理部署而优化。该模型在保持高性能的同时，显著降低了计算资源需求，使得在边缘设备（如手机、物联网设备）上运行复杂 AI 任务成为可能。其设计重点包括：\n- 高效推理：通过模型压缩和架构优化，实现低延迟、低内存占用。\n- 本地化部署：支持完全离线运行，保障数据隐私，减少云端依赖。\n- 多场景适用：适用于智能家居、移动助手、工业自动化等本地代理场景。\n- 易集成：提供标准接口，便于开发者快速集成到现有应用中。\n该模型的发布标志着轻量级模型在本地 AI 应用中的新突破，为边缘计算和隐私敏感型应用提供了理想选择。",
+  "tags": [
+    "LFM2.5-2.6B",
+    "本地代理",
+    "轻量级模型",
+    "边缘计算",
+    "模型部署",
+    "Liquid AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-04T13:58:29+00:00",
+  "collected_at": "2026-08-09T18:26:22+08:00",
+  "language": "zh-CN",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

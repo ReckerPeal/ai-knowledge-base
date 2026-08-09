@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-eaf632ed81",
+  "title": "ClementTsang/bottom",
+  "source": "github_trending",
+  "source_url": "https://github.com/ClementTsang/bottom",
+  "summary": "bottom 是一个用 Rust 编写的跨平台图形化进程/系统监视器，提供直观的终端界面来实时查看系统资源使用情况。",
+  "content": "bottom（简称 btm）是一个用 Rust 开发的跨平台图形化进程/系统监视器，旨在提供比传统工具（如 top、htop）更现代、更直观的终端界面。它支持 Linux、macOS 和 Windows，能够实时显示 CPU、内存、磁盘、网络等系统资源的使用情况，并以图表和列表形式呈现。该项目在 GitHub 上拥有 13866 颗星，370 个 fork，近期每日新增约 8 颗星，属于活跃维护的热门项目。其核心优势在于跨平台一致性、丰富的可视化组件（如 CPU 历史图、进程树）以及可定制性。对于系统管理员、开发者和性能调优人员来说，bottom 是一个高效且美观的监控工具。",
+  "tags": [
+    "Rust",
+    "系统监控",
+    "跨平台",
+    "终端UI",
+    "进程管理",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:11+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ClementTsang",
+    "stars": 13866,
+    "forks": 370,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

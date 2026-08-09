@@ -1,0 +1,33 @@
+{
+  "id": "20260809-github-487f5e4258",
+  "title": "cloud-hypervisor/cloud-hypervisor",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+  "summary": "cloud-hypervisor 是一个面向现代云工作负载的虚拟机监视器（VMM），用 Rust 编写，强调安全性和最小化资源占用。它支持 CPU、内存和设备热插拔，可运行 Windows 和 Linux 客户机，并通过 vhost-user 实现设备卸载。",
+  "content": "## 项目概述\ncloud-hypervisor 是一个专为现代云工作负载设计的虚拟机监视器（VMM），其核心目标是提供安全、高效且功能完整的虚拟化解决方案。项目采用 Rust 语言开发，充分利用 Rust 的内存安全特性来增强系统安全性。\n\n## 主要特性\n- **热插拔支持**：支持 CPU、内存和设备的动态热插拔，便于云环境中的资源弹性调整。\n- **多操作系统支持**：能够运行 Windows 和 Linux 客户机，满足多样化工作负载需求。\n- **设备卸载**：通过 vhost-user 协议实现设备卸载，提高 I/O 性能并减少虚拟化开销。\n- **紧凑体积**：设计上追求最小化资源占用，适合资源受限的云环境。\n- **安全优先**：Rust 语言的内存安全保证，加上严格的安全设计，降低安全风险。\n\n## 技术架构\ncloud-hypervisor 采用现代 VMM 架构，将虚拟化核心逻辑与设备模拟分离，支持多种后端。其代码库结构清晰，模块化程度高，便于扩展和维护。\n\n## 应用场景\n- 云服务商构建轻量级虚拟化平台\n- 边缘计算和容器场景下的安全隔离\n- 需要快速启动和低开销的虚拟化环境\n\n## 社区与热度\n该项目在 GitHub 上拥有 6081 颗星和 734 个 fork，近期每日新增约 12 颗星，表明社区活跃度较高。项目持续更新，适合关注虚拟化技术的开发者参与贡献。",
+  "tags": [
+    "virtualization",
+    "VMM",
+    "Rust",
+    "cloud",
+    "hotplug",
+    "vhost-user",
+    "security"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:11+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloud-hypervisor",
+    "stars": 6081,
+    "forks": 734,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

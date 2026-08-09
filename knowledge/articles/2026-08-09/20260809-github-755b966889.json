@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-755b966889",
+  "title": "anthropics/claude-code-security-review",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code-security-review",
+  "summary": "这是一个由 Anthropic 开发的 AI 驱动的安全审查 GitHub Action，利用 Claude 分析代码变更中的安全漏洞。",
+  "content": "## 项目概述\n\n**claude-code-security-review** 是一个由 Anthropic 官方推出的 GitHub Action，旨在通过 AI 技术自动化代码安全审查。它利用 Claude 模型分析每次代码提交或拉取请求中的变更，识别潜在的安全漏洞，并提供修复建议。该项目以 Python 为主要语言，集成到 GitHub Actions 工作流中，帮助开发团队在开发早期发现安全问题。\n\n## 核心功能\n\n- **AI 安全分析**：使用 Claude 模型对代码变更进行深度分析，检测常见漏洞（如注入、XSS、不安全的反序列化等）。\n- **自动化集成**：作为 GitHub Action，可无缝集成到现有 CI/CD 流程中，每次 push 或 PR 自动触发审查。\n- **详细报告**：生成包含漏洞描述、风险等级和修复建议的审查报告，并可直接在 PR 评论中展示。\n- **可配置性**：支持自定义审查规则、忽略路径和严重级别阈值，适应不同项目的需求。\n\n## 技术亮点\n\n- **基于 Claude API**：利用 Anthropic 强大的语言模型，理解代码上下文，提供精准的安全分析。\n- **轻量级部署**：无需额外基础设施，只需在 GitHub 仓库中配置 workflow 文件即可。\n- **开源社区支持**：项目拥有 5825 星标和 627 个 fork，社区活跃，持续更新。\n\n## 适用场景\n\n- 开发团队希望在 CI 流程中增加安全审查环节，减少人工代码审计成本。\n- 开源项目维护者需要快速筛查外部贡献者的代码安全性。\n- 安全团队希望利用 AI 辅助工具提升漏洞检测效率。\n\n## 快速开始\n\n1. 在仓库中创建 `.github/workflows/security-review.yml` 文件。\n2. 配置 workflow 使用 `anthropics/claude-code-security-review` action，并设置必要的 API 密钥。\n3. 推送代码或创建 PR，即可自动触发安全审查。\n\n## 总结\n\n该项目展示了 AI 在 DevSecOps 领域的应用潜力，通过自动化安全审查，帮助开发者更高效地交付安全代码。对于重视安全性的团队，这是一个值得尝试的工具。",
+  "tags": [
+    "AI",
+    "安全审查",
+    "GitHub Action",
+    "Claude",
+    "DevSecOps",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 5825,
+    "forks": 627,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

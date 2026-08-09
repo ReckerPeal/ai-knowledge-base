@@ -1,0 +1,33 @@
+{
+  "id": "20260809-github-3a4ad9e5ba",
+  "title": "android/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/android/skills",
+  "summary": "android/skills 是一个由 Android 官方团队维护的开源项目，旨在为 Android 开发者提供系统化的技能学习路径和最佳实践指南。该项目通过结构化的文档和示例代码，覆盖从基础到高级的 Android 开发技能，帮助开发者提升开发效率和应用质量。",
+  "content": "android/skills 是 Android 官方推出的技能图谱项目，其核心目标是构建一个全面、可操作的 Android 开发技能体系。项目内容涵盖多个关键领域：\n- **基础技能**：包括 Kotlin 语言基础、Android 组件（Activity、Service、BroadcastReceiver、ContentProvider）、UI 开发（Jetpack Compose 和传统 View 体系）等。\n- **架构与模式**：推荐使用 MVVM、Repository 模式，并集成 Jetpack 库（如 ViewModel、LiveData、Room、DataStore）来构建可测试、可维护的应用。\n- **性能优化**：提供关于内存管理、启动优化、布局优化、电量消耗等方面的最佳实践。\n- **工具链**：涵盖 Gradle 构建配置、Android Studio 使用技巧、调试与性能分析工具（如 Profiler、Perfetto）。\n- **测试与质量**：强调单元测试、UI 测试（Espresso、Compose Test）以及静态分析工具（Lint）的应用。\n- **现代开发趋势**：包括 Kotlin 协程、Flow 异步流、依赖注入（Hilt）、模块化架构等。\n\n该项目以 Markdown 文档和示例代码形式呈现，每个技能点都配有清晰的说明和可运行的代码片段，适合不同水平的开发者按需学习。作为官方项目，其内容具有权威性和时效性，是 Android 开发者提升技能的重要参考资源。",
+  "tags": [
+    "Android",
+    "技能图谱",
+    "Kotlin",
+    "Jetpack",
+    "最佳实践",
+    "官方文档",
+    "开发指南"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:15+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "android",
+    "stars": 6639,
+    "forks": 388,
+    "daily_stars": null,
+    "weekly_stars": 201,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

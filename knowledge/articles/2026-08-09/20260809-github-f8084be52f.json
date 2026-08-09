@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-f8084be52f",
+  "title": "rust-lang/mdBook",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/mdBook",
+  "summary": "mdBook 是一个用 Rust 实现的命令行工具，用于从 Markdown 文件创建书籍，功能类似于 GitBook，但性能更优、更轻量。",
+  "content": "mdBook 是 Rust 官方社区维护的开源项目，旨在将 Markdown 文档转换为静态网站或电子书格式。它支持目录结构、章节导航、搜索、代码高亮、自定义主题等特性，常用于编写技术文档、教程或开源书籍。与 GitBook 相比，mdBook 完全基于 Rust 编写，具有更快的构建速度和更低的资源占用，且无需 Node.js 环境。该项目在 GitHub 上拥有超过 2.2 万星标，社区活跃，持续迭代。",
+  "tags": [
+    "Rust",
+    "Markdown",
+    "文档生成",
+    "静态网站",
+    "技术写作",
+    "GitBook替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:20+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 22060,
+    "forks": 1884,
+    "daily_stars": null,
+    "weekly_stars": 42,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260809-github-ef11392eec",
+  "title": "reacherhq/check-if-email-exists",
+  "source": "github_trending",
+  "source_url": "https://github.com/reacherhq/check-if-email-exists",
+  "summary": "reacherhq/check-if-email-exists 是一个用 Rust 编写的开源工具，用于在不发送任何邮件的情况下检查电子邮件地址是否存在。该项目附带一个 HTTP 后端，方便集成到其他服务中。",
+  "content": "## 项目概述\n\ncheck-if-email-exists 是一个基于 Rust 的高性能电子邮件验证工具，其核心功能是无需实际发送邮件即可判断邮箱地址的有效性。该项目在 GitHub 上拥有超过 9300 颗星，受到开发者社区的广泛关注。\n\n## 技术特点\n\n- **语言与性能**：使用 Rust 编写，保证了内存安全和极高的执行效率，适合处理大规模邮箱验证请求。\n- **HTTP 后端**：内置 HTTP 接口，允许开发者通过 REST API 轻松集成到现有系统，无需直接调用底层库。\n- **无邮件发送**：通过 SMTP 协议探测、DNS 查询等多种技术手段，在不打扰收件人的前提下完成验证。\n\n## 应用场景\n\n- 用户注册时的邮箱有效性预检，减少无效账号。\n- 邮件营销前的名单清洗，降低退信率。\n- 数据清洗和 CRM 系统中的邮箱数据质量提升。\n\n## 社区与维护\n\n项目由 reacherhq 团队维护，当前周增星约 75 颗，显示出持续的活跃度。Rust 语言特性使其在安全性和并发处理上具有天然优势，适合作为微服务部署。\n\n## 总结\n\n该工具为开发者提供了一个可靠、高效的邮箱验证解决方案，尤其适合需要高并发和低资源消耗的场景。其 HTTP 后端设计降低了使用门槛，是 Rust 生态中一个实用的开源项目。",
+  "tags": [
+    "Rust",
+    "邮箱验证",
+    "HTTP API",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:20+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "reacherhq",
+    "stars": 9306,
+    "forks": 674,
+    "daily_stars": null,
+    "weekly_stars": 75,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

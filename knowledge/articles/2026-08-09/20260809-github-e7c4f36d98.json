@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-e7c4f36d98",
+  "title": "huangruiteng/loopx",
+  "source": "github_trending",
+  "source_url": "https://github.com/huangruiteng/loopx",
+  "summary": "LoopX 是一个轻量级的循环工程状态内核，专为长时间运行的 AI 智能体团队设计。它提供与智能体循环无关的解决方案，兼容 Codex、Claude Code 等编码智能体，并具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接等核心功能。",
+  "content": "LoopX 是一个面向长期运行的 AI 智能体团队的轻量级循环工程状态内核。其核心设计理念是“智能体循环无关”，即不绑定特定智能体框架，可无缝适配 Codex、Claude Code 等主流编码智能体。\n\n主要特性包括：\n- **持久目标**：确保智能体在长时间运行中保持目标一致性，避免因上下文丢失或中断导致任务偏离。\n- **配额感知自动唤醒**：根据资源配额（如 API 调用次数、时间预算）自动决定何时唤醒智能体，优化资源利用。\n- **可执行待办事项**：将复杂任务拆解为可执行的待办项，支持动态更新和优先级管理。\n- **证据日志**：记录每个决策和操作的可追溯证据，便于审计和调试。\n- **可验证交接**：支持智能体之间的任务交接，并通过验证机制确保交接的完整性和正确性。\n\nLoopX 适用于需要多智能体协作、长时间运行或复杂任务编排的场景，尤其适合 AI 编程助手、自动化工作流等。其轻量级设计使其易于集成到现有系统中。",
+  "tags": [
+    "AI Agent",
+    "循环工程",
+    "状态内核",
+    "多智能体协作",
+    "任务编排",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-09T18:26:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "huangruiteng",
+    "stars": 3639,
+    "forks": 298,
+    "daily_stars": 243,
+    "weekly_stars": 3398,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
