@@ -1,0 +1,33 @@
+{
+  "id": "20260810-github-c6efec9ec7",
+  "title": "modelcontextprotocol/rust-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/rust-sdk",
+  "summary": "Model Context Protocol 官方 Rust SDK，为 Rust 开发者提供标准化的模型上下文协议实现。",
+  "content": "该仓库是 Model Context Protocol (MCP) 的官方 Rust SDK，旨在为 Rust 开发者提供标准化的模型上下文协议实现。MCP 是一种开放协议，用于标准化应用程序与 AI 模型之间的上下文信息交换，使 AI 应用能够更高效地集成和共享上下文数据。该 SDK 封装了 MCP 的核心功能，包括客户端/服务器通信、上下文管理、工具调用等，支持异步操作，并提供了丰富的 API 和示例。项目当前在 GitHub 上拥有 3777 颗星和 597 个 fork，周增长 42 颗星，显示出社区的高度关注和活跃度。该 SDK 适合用于构建 Rust 原生的 AI 应用，或作为其他语言 SDK 的参考实现。",
+  "tags": [
+    "Rust",
+    "Model Context Protocol",
+    "AI",
+    "SDK",
+    "官方",
+    "协议",
+    "上下文管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 3777,
+    "forks": 597,
+    "daily_stars": null,
+    "weekly_stars": 42,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260810-github-412373dd75",
+  "title": "tokio-rs/tokio",
+  "source": "github_trending",
+  "source_url": "https://github.com/tokio-rs/tokio",
+  "summary": "Tokio 是一个用于编写可靠异步应用程序的 Rust 运行时，提供 I/O、网络、调度、定时器等功能。",
+  "content": "Tokio 是 Rust 生态中最流行的异步运行时，基于事件驱动模型，提供多线程调度器、非阻塞 I/O、定时器、同步原语等核心组件。它使开发者能够以同步风格编写异步代码，同时保持高性能和可靠性。Tokio 广泛用于网络服务、微服务、数据库客户端等场景，是构建高并发应用的基石。",
+  "tags": [
+    "Rust",
+    "异步运行时",
+    "网络编程",
+    "并发",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:51+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "tokio-rs",
+    "stars": 32885,
+    "forks": 3195,
+    "daily_stars": null,
+    "weekly_stars": 140,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

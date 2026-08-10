@@ -1,0 +1,34 @@
+{
+  "id": "20260810-github-c29f496b0a",
+  "title": "warp-tech/warpgate",
+  "source": "github_trending",
+  "source_url": "https://github.com/warp-tech/warpgate",
+  "summary": "warpgate 是一个完全透明的 SSH、HTTPS、Kubernetes、MySQL 和 Postgres 堡垒机/PAM 解决方案，无需额外的客户端软件。",
+  "content": "warpgate 是一个用 Rust 编写的开源项目，旨在提供一种无需额外客户端软件的透明访问控制解决方案。它支持 SSH、HTTPS、Kubernetes、MySQL 和 Postgres 等多种协议，可作为堡垒机（Bastion）或特权访问管理（PAM）工具使用。其核心优势在于透明性，用户无需安装特定客户端即可使用现有工具连接，同时提供集中认证、审计和访问控制功能。该项目在 GitHub 上拥有 7536 颗星和 333 个 fork，近期周增星 82 颗，显示出较高的社区关注度。",
+  "tags": [
+    "SSH",
+    "堡垒机",
+    "PAM",
+    "Kubernetes",
+    "MySQL",
+    "Postgres",
+    "Rust",
+    "访问控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "warp-tech",
+    "stars": 7536,
+    "forks": 333,
+    "daily_stars": null,
+    "weekly_stars": 82,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

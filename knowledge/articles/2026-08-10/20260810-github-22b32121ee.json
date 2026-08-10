@@ -1,0 +1,30 @@
+{
+  "id": "20260810-github-22b32121ee",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "summary": "Anthropic 发布了一篇关于语言模型中全局工作空间（Global Workspace）的研究文章，探讨了如何通过类似认知科学中的全局工作空间理论来增强语言模型的推理和整合能力。",
+  "content": "该研究由 Anthropic 提出，借鉴了认知科学中的全局工作空间理论（Global Workspace Theory），旨在解决大型语言模型在处理复杂任务时信息整合不足的问题。文章可能讨论了在模型内部构建一个全局工作空间，使得不同模块或注意力头能够共享信息，从而提升模型的推理一致性、上下文理解能力以及多步骤任务的表现。具体技术细节可能涉及模型架构的改进、训练策略的调整，或对现有 Transformer 结构的扩展。该研究发表于 2026 年，反映了 AI 领域对模型内部机制可解释性和效率的持续关注。",
+  "tags": [
+    "语言模型",
+    "全局工作空间",
+    "Anthropic",
+    "认知科学",
+    "模型架构",
+    "推理能力"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-07T13:26:18-05:00",
+  "collected_at": "2026-08-10T19:01:53+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

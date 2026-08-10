@@ -1,0 +1,36 @@
+{
+  "id": "20260810-github-e92215021f",
+  "title": "Zackriya-Solutions/meetily",
+  "source": "github_trending",
+  "source_url": "https://github.com/Zackriya-Solutions/meetily",
+  "summary": "Meetily 是一款注重隐私的 AI 会议助手，基于 Rust 构建，支持 4 倍速的 Parakeet/Whisper 实时转录、说话人分离和 Ollama 摘要功能。所有处理均在本地完成，无需云端服务。它是 macOS 和 Windows 上排名第一的自托管开源 AI 会议记录工具，帮助用户轻松撰写会议纪要。",
+  "content": "Meetily 是一个开源、自托管的 AI 会议助手，专为注重隐私的用户设计。其核心优势在于完全本地化的处理流程，确保会议数据不出设备，杜绝隐私泄露风险。\n\n**主要特性：**\n- **高速实时转录**：利用 Parakeet/Whisper 模型，实现 4 倍速的实时语音转文字，显著提升转录效率。\n- **说话人分离**：自动识别并区分不同发言者，使会议记录条理清晰。\n- **本地 AI 摘要**：集成 Ollama，在本地生成会议摘要，无需连接外部 AI 服务。\n- **跨平台支持**：提供 macOS 和 Windows 版本，满足主流桌面用户需求。\n\n**技术栈与架构：**\n- 基于 Rust 开发，保证了高性能和内存安全，适合处理实时音频流。\n- 采用模块化设计，便于扩展和定制。\n- 完全离线运行，不依赖云服务，符合企业级隐私合规要求。\n\n**适用场景：**\n- 需要高度保密会议内容的团队（如法务、医疗、研发）。\n- 希望降低转录成本、避免订阅费用的个人或中小企业。\n- 对实时性和准确性要求较高的会议记录场景。\n\n**项目热度：** 在 GitHub 上获得 28.8k 星标，日增近 200 星，显示出社区的高度认可和活跃度。",
+  "tags": [
+    "AI会议助手",
+    "隐私保护",
+    "本地处理",
+    "Rust",
+    "实时转录",
+    "说话人分离",
+    "Ollama",
+    "开源",
+    "自托管",
+    "Whisper"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Zackriya-Solutions",
+    "stars": 28795,
+    "forks": 3038,
+    "daily_stars": 194,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

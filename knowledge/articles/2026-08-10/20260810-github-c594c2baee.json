@@ -1,0 +1,36 @@
+{
+  "id": "20260810-github-c594c2baee",
+  "title": "apify/crawlee",
+  "source": "github_trending",
+  "source_url": "https://github.com/apify/crawlee",
+  "summary": "Crawlee 是一个用于 Node.js 的网页抓取和浏览器自动化库，支持 JavaScript 和 TypeScript，旨在构建可靠的爬虫。它可以从网站提取数据，用于 AI、LLM、RAG 或 GPT 等应用，并支持下载 HTML、PDF、JPG、PNG 等文件。Crawlee 兼容 Puppeteer、Playwright、Cheerio、JSDOM 和原始 HTTP，支持有头和无头模式，并具有代理轮换功能。",
+  "content": "Crawlee 是 Apify 开发的开源库，专为 Node.js 设计，用于网页抓取和浏览器自动化。它提供统一的接口，支持多种抓取工具（如 Puppeteer、Playwright、Cheerio、JSDOM 和原始 HTTP），允许开发者根据需求选择最合适的工具。Crawlee 支持有头（headful）和无头（headless）浏览器模式，方便调试和部署。其核心优势包括：自动管理并发、重试、请求队列、数据存储和代理轮换，帮助开发者构建稳定高效的爬虫。Crawlee 特别强调数据提取的用途，可直接为 AI 模型（如 LLM、RAG、GPT）提供训练或推理数据，支持下载多种文件格式。项目在 GitHub 上拥有超过 25k 星标，社区活跃，持续更新。",
+  "tags": [
+    "web scraping",
+    "browser automation",
+    "Node.js",
+    "TypeScript",
+    "Puppeteer",
+    "Playwright",
+    "Cheerio",
+    "JSDOM",
+    "proxy rotation",
+    "AI data extraction"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:39+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "apify",
+    "stars": 25324,
+    "forks": 1610,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

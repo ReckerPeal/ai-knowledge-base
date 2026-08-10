@@ -1,0 +1,33 @@
+{
+  "id": "20260810-github-51a9d878e7",
+  "title": "autobrr/qui",
+  "source": "github_trending",
+  "source_url": "https://github.com/autobrr/qui",
+  "summary": "autobrr/qui 是一个基于 Go 语言开发的快速、单二进制 qBittorrent Web UI，支持管理多个实例、自动化种子工作流以及跨 tracker 进行 cross-seed 操作。",
+  "content": "## 项目概述\n\n**autobrr/qui** 是一个专为 qBittorrent 用户设计的现代化 Web 界面，采用 Go 语言编写，以单二进制文件形式分发，易于部署。其核心优势在于高性能和轻量级，同时提供了丰富的功能来增强 qBittorrent 的使用体验。\n\n## 主要特性\n\n- **多实例管理**：支持同时连接和管理多个 qBittorrent 实例，方便用户集中控制不同的下载服务器或配置。\n- **自动化工作流**：内置自动化规则，可基于 torrent 属性（如 tracker、大小、分类等）自动执行操作，如自动分类、标签、限速或触发外部脚本。\n- **Cross-seed 支持**：集成 cross-seed 功能，帮助用户在不同 tracker 之间自动查找并做种，提高资源利用率。\n- **快速响应**：采用 Go 的高并发特性，界面操作流畅，资源占用低。\n- **单二进制部署**：无需额外依赖，下载即可运行，适合 Docker 或裸机部署。\n\n## 技术架构\n\n- **语言**：Go\n- **前端**：基于现代 JavaScript 框架（如 React 或 Vue）构建响应式界面，通过 REST API 与后端通信。\n- **后端**：Go 编写的 HTTP 服务，负责与 qBittorrent 的 Web API 交互，并实现业务逻辑。\n\n## 适用场景\n\n- 需要统一管理多个 qBittorrent 实例的 PT 玩家或下载爱好者。\n- 希望自动化种子管理流程，减少手动操作的用户。\n- 需要跨 tracker 做种优化资源分享的进阶用户。\n\n## 社区与热度\n\n该项目在 GitHub 上拥有 4339 星，周增长 47 星，表明其受到广泛关注和认可。作为 autobrr 生态的一部分，它与 autobrr（一个自动化种子获取工具）协同工作，形成完整的自动化下载管理方案。",
+  "tags": [
+    "qBittorrent",
+    "Web UI",
+    "Go",
+    "多实例管理",
+    "自动化",
+    "cross-seed",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "autobrr",
+    "stars": 4339,
+    "forks": 146,
+    "daily_stars": null,
+    "weekly_stars": 47,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260810-github-81c40dc227",
+  "title": "mufeedvh/code2prompt",
+  "source": "github_trending",
+  "source_url": "https://github.com/mufeedvh/code2prompt",
+  "summary": "code2prompt 是一个用 Rust 编写的命令行工具，可将整个代码库转换为单个 LLM 提示词，包含源代码树、提示词模板和令牌计数功能。",
+  "content": "code2prompt 是一个 CLI 工具，旨在帮助开发者将代码库高效地转换为适合大型语言模型（LLM）的提示词。它能够生成包含源代码树结构的完整提示词，支持自定义提示词模板，并提供令牌计数功能，帮助用户控制提示词长度。该工具用 Rust 编写，性能高效，适合处理大型代码库。",
+  "tags": [
+    "CLI",
+    "LLM",
+    "Rust",
+    "代码库",
+    "提示词",
+    "令牌计数"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "mufeedvh",
+    "stars": 7564,
+    "forks": 438,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

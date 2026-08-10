@@ -1,0 +1,35 @@
+{
+  "id": "20260810-github-222cc9a736",
+  "title": "kenn-io/msgvault",
+  "source": "github_trending",
+  "source_url": "https://github.com/kenn-io/msgvault",
+  "summary": "msgvault 是一个用 Go 编写的开源工具，用于归档终身邮件和聊天记录，支持离线搜索、分析和 AI 查询，基于 SQLite 和 DuckDB 构建。",
+  "content": "msgvault 是一个面向个人数据长期保存的解决方案，旨在将邮件和聊天记录集中归档，并提供强大的离线搜索、统计分析和 AI 驱动的自然语言查询能力。项目采用 Go 语言开发，底层使用 SQLite 和 DuckDB 作为存储与查询引擎，兼顾轻量级与高性能。该工具适合注重隐私、希望自主掌控历史消息数据的用户，可本地运行，无需依赖云服务。当前在 GitHub 上已获得近 2000 星标，社区关注度较高。",
+  "tags": [
+    "Go",
+    "邮件归档",
+    "聊天记录",
+    "离线搜索",
+    "SQLite",
+    "DuckDB",
+    "AI查询",
+    "数据分析",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kenn-io",
+    "stars": 1988,
+    "forks": 136,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

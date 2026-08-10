@@ -1,0 +1,33 @@
+{
+  "id": "20260810-github-876f4401e1",
+  "title": "google/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/skills",
+  "summary": "google/skills 是 Google 官方发布的 Agent Skills 库，旨在为 Google 产品和技术提供标准化的技能定义与实现，支持 AI 代理在 Google 生态中执行复杂任务。",
+  "content": "## 项目概述\ngoogle/skills 是 Google 官方推出的开源项目，专注于为 Google 产品和技术提供 Agent Skills（代理技能）。Agent Skills 是一种标准化的能力封装，使 AI 代理能够调用 Google 服务（如搜索、地图、云端 API 等）完成特定任务。该项目基于 Python 实现，提供了丰富的技能库和示例，帮助开发者快速构建与 Google 生态集成的智能代理。\n\n## 核心特点\n- **官方支持**：由 Google 维护，确保与 Google 产品（如 Google Cloud、Workspace、Android 等）的兼容性和最新性。\n- **标准化技能**：定义统一的技能接口和元数据，便于代理理解和调用。\n- **可扩展性**：支持自定义技能，开发者可根据需求扩展。\n- **社区活跃**：GitHub 星标 17,497，近期增长迅速（日增 528 星），表明社区关注度高。\n\n## 技术架构\n项目采用 Python 编写，可能包含以下模块：\n- 技能定义（Skill definitions）：描述技能的名称、输入输出、依赖关系。\n- 执行引擎（Execution engine）：负责调度和运行技能。\n- 集成层（Integration layer）：与 Google API 交互的客户端。\n\n## 应用场景\n- 构建个人 AI 助手，集成 Google 日历、Gmail 等。\n- 开发企业级自动化流程，调用 Google Cloud 服务。\n- 研究 Agent 技术，作为参考实现。\n\n## 快速开始\n开发者可通过 pip 安装或克隆仓库，参考示例代码创建自己的技能。具体文档和 API 参考可在仓库 README 中查看。\n\n## 总结\ngoogle/skills 是 Google 在 AI Agent 领域的重要布局，为开发者提供了与 Google 生态无缝集成的标准化技能方案，具有较高的实用价值和社区影响力。",
+  "tags": [
+    "Agent Skills",
+    "Google",
+    "AI代理",
+    "Python",
+    "开源",
+    "自动化",
+    "API集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:37+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 17497,
+    "forks": 1403,
+    "daily_stars": 528,
+    "weekly_stars": 1626,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260810-github-53958cf51f",
+  "title": "block/buzz",
+  "source": "github_trending",
+  "source_url": "https://github.com/block/buzz",
+  "summary": "Buzz 是一个基于 Rust 构建的群智通信平台，旨在实现去中心化的信息交流与协作。该项目在 GitHub 上表现活跃，拥有超过 2.5 万星标，近期周增星标近 5000，显示出强劲的社区关注度。",
+  "content": "## 项目概述\nBuzz 是一个由 block 团队开发的群智通信平台（Hive Mind Communication Platform），采用 Rust 语言编写。其核心理念是构建一个去中心化的通信系统，允许用户以类似蜂群思维的方式高效协作和共享信息。\n\n## 技术特点\n- **语言与性能**：基于 Rust 开发，保证了内存安全和并发性能，适合高吞吐量的通信场景。\n- **去中心化架构**：平台设计强调去中心化，可能采用 P2P 或分布式网络协议，减少对中心服务器的依赖。\n- **群智协作**：通过特定的通信协议和数据结构，支持大规模用户间的信息同步与聚合，实现集体智能。\n\n## 社区与热度\n- **星标数**：25,883（截至收集日），周增长 4,712，表明近期关注度显著上升。\n- **复刻数**：3,056，说明不少开发者基于此项目进行二次开发或研究。\n- **分类**：GitHub 热点 · Rust，属于 Rust 生态中的热门项目。\n\n## 潜在应用场景\n- 去中心化社交网络\n- 实时协作工具\n- 分布式决策系统\n- 物联网设备间通信\n\n## 总结\nBuzz 作为 Rust 生态中的明星项目，凭借其创新的群智通信理念和活跃的社区支持，正在成为去中心化通信领域的重要参考实现。对于研究 Rust 并发编程、P2P 网络或分布式系统的开发者具有较高的学习价值。",
+  "tags": [
+    "Rust",
+    "去中心化",
+    "通信平台",
+    "群智",
+    "P2P",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "block",
+    "stars": 25883,
+    "forks": 3056,
+    "daily_stars": null,
+    "weekly_stars": 4712,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

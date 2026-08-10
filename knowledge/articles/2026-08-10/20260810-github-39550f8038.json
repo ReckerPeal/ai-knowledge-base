@@ -1,0 +1,36 @@
+{
+  "id": "20260810-github-39550f8038",
+  "title": "screenpipe/screenpipe",
+  "source": "github_trending",
+  "source_url": "https://github.com/screenpipe/screenpipe",
+  "summary": "screenpipe 是一个由 YC (S26) 支持的 Rust 项目，能够 24/7 录制屏幕并集成到 AI 代理中，支持本地、私有和安全运行，可连接 OpenClaw、Hermes agent 及 100+ 应用。",
+  "content": "screenpipe 是一个开源的屏幕录制与 AI 代理集成工具，基于 Rust 开发，旨在为用户提供持续、本地化的屏幕数据捕获能力。该项目由 YC (S26) 孵化，强调隐私与安全，所有数据默认在本地处理，不依赖云端。其核心功能是 24/7 不间断录制屏幕，并将录制的数据无缝接入各类 AI 代理（如 OpenClaw、Hermes agent），同时支持与超过 100 种应用的集成，极大扩展了自动化工作流的可能性。该项目在 GitHub 上表现活跃，已获得 20,876 颗星和 2,085 次 fork，日增星约 31 颗，显示出社区的高度关注。对于开发者而言，screenpipe 提供了一种全新的方式，让 AI 代理能够实时感知用户屏幕内容，从而执行更智能的任务，如自动记录、分析、提醒等。其技术栈以 Rust 为主，保证了高性能和内存安全，适合长时间运行。",
+  "tags": [
+    "screenpipe",
+    "屏幕录制",
+    "AI代理",
+    "Rust",
+    "本地优先",
+    "隐私安全",
+    "YC",
+    "开源工具",
+    "自动化",
+    "集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "screenpipe",
+    "stars": 20876,
+    "forks": 2085,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

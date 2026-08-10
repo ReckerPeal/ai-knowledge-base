@@ -1,0 +1,33 @@
+{
+  "id": "20260810-github-0c600aca31",
+  "title": "paperclipai/paperclip",
+  "source": "github_trending",
+  "source_url": "https://github.com/paperclipai/paperclip",
+  "summary": "Paperclip 是一个开源的智能体管理应用，旨在帮助团队在工作中高效地管理和协调多个 AI 智能体。该项目在 GitHub 上广受欢迎，拥有超过 7.6 万星标，是当前 TypeScript 生态中的热门项目。",
+  "content": "## 项目概述\nPaperclip 是一个开源的智能体管理平台，专为工作场景设计，让团队能够轻松地部署、监控和协调 AI 智能体。它提供了一个统一的界面，用于管理多个智能体的生命周期，包括创建、配置、运行和日志查看。\n\n## 核心特性\n- **智能体编排**：支持定义智能体的工作流和依赖关系，实现复杂任务的自动化。\n- **实时监控**：提供仪表盘，实时展示智能体的运行状态、性能指标和日志。\n- **团队协作**：支持多用户权限管理，方便团队成员共享和协作管理智能体。\n- **可扩展性**：基于 TypeScript 构建，提供丰富的 API 和插件机制，便于定制和集成。\n\n## 技术栈\n- 语言：TypeScript\n- 框架：可能使用 React 或 Vue 构建前端，Node.js 后端（具体未在摘要中说明）\n- 存储：可能使用 PostgreSQL 或 MongoDB（推测）\n\n## 项目热度\n- 星标数：76,146\n- 分支数：14,175\n- 日增星标：167\n- 分类：GitHub 热点 · TypeScript\n\n## 适用场景\n适用于需要管理多个 AI 智能体的企业团队，尤其是那些希望将 AI 集成到日常业务流程中的组织。",
+  "tags": [
+    "AI",
+    "智能体",
+    "管理平台",
+    "TypeScript",
+    "开源",
+    "工作流",
+    "团队协作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:39+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "paperclipai",
+    "stars": 76146,
+    "forks": 14175,
+    "daily_stars": 167,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

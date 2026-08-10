@@ -1,0 +1,35 @@
+{
+  "id": "20260810-github-3a4ad9e5ba",
+  "title": "android/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/android/skills",
+  "summary": "android/skills 是 Android 官方维护的技能与学习路径仓库，旨在为开发者提供系统化的 Android 开发技能图谱、学习路线和最佳实践指南。该仓库以清晰的结构组织内容，涵盖从基础到高级的 Android 开发知识，包括 UI、架构、性能、测试、工具链等主题，帮助开发者按需学习和提升。",
+  "content": "android/skills 是 Android 官方团队在 GitHub 上维护的一个开源仓库，其核心目标是提供一套结构化的技能地图和学习路径，帮助 Android 开发者系统性地掌握现代 Android 开发所需的知识与技能。仓库内容以 Markdown 文件组织，按主题分类，例如：\n- **基础技能**：Kotlin 语言、Android 组件（Activity、Fragment、Service 等）、布局与资源。\n- **UI 开发**：Jetpack Compose、Material Design、自定义 View、动画。\n- **架构与模式**：MVVM、Repository 模式、依赖注入（Hilt）、协程与 Flow。\n- **数据与网络**：Room、DataStore、Retrofit、GraphQL。\n- **性能与优化**：启动优化、内存管理、电量优化、渲染性能。\n- **测试与调试**：单元测试、UI 测试、性能剖析工具。\n- **工具链**：Gradle、Android Studio、CI/CD。\n\n仓库还提供了学习路径建议，从入门到进阶，并附有官方文档链接和示例代码。它适合所有水平的开发者，无论是初学者还是资深工程师，都能从中找到对应的学习资源。该项目在 GitHub 上拥有 6661 星和 392 个 fork，周增 208 星，表明其受到社区广泛关注和认可。",
+  "tags": [
+    "Android",
+    "学习路径",
+    "技能图谱",
+    "Kotlin",
+    "Jetpack",
+    "架构",
+    "性能优化",
+    "测试",
+    "官方仓库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-10T19:01:46+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "android",
+    "stars": 6661,
+    "forks": 392,
+    "daily_stars": null,
+    "weekly_stars": 208,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
