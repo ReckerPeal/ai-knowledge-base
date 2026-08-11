@@ -1,0 +1,33 @@
+{
+  "id": "20260811-github-794a1823fe",
+  "title": "FalkorDB/FalkorDB",
+  "source": "github_trending",
+  "source_url": "https://github.com/FalkorDB/FalkorDB",
+  "summary": "FalkorDB 是一个超高速图数据库，底层使用 GraphBLAS 实现稀疏邻接矩阵图表示，旨在为 LLM 提供最佳知识图谱（GraphRAG）。",
+  "content": "FalkorDB 是一个用 Rust 编写的高性能图数据库，其核心创新在于利用 GraphBLAS 库进行稀疏邻接矩阵的图表示和运算，从而实现了极快的图查询和分析能力。该项目的主要目标是成为大型语言模型（LLM）的最佳知识图谱后端，即支持 GraphRAG（基于图的检索增强生成）场景。通过将知识图谱与 LLM 结合，FalkorDB 能够为 AI 应用提供结构化、可解释的知识检索，增强模型的推理和回答能力。该仓库在 GitHub 上表现活跃，拥有 5498 颗星和 426 个 fork，近期周增星 418 颗，显示出社区的高度关注。",
+  "tags": [
+    "图数据库",
+    "GraphBLAS",
+    "GraphRAG",
+    "知识图谱",
+    "LLM",
+    "Rust",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "FalkorDB",
+    "stars": 5498,
+    "forks": 426,
+    "daily_stars": null,
+    "weekly_stars": 418,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

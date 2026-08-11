@@ -1,0 +1,35 @@
+{
+  "id": "20260811-github-5a94f36afb",
+  "title": "goauthentik/authentik",
+  "source": "github_trending",
+  "source_url": "https://github.com/goauthentik/authentik",
+  "summary": "authentik 是一个开源的身份认证提供者，旨在作为您所需的认证粘合剂，灵活集成到现有基础设施中。",
+  "content": "authentik 是一个功能强大的开源身份认证解决方案，它将自己定位为“您所需的认证粘合剂”，强调其灵活性和集成能力。该项目基于 Python 开发，在 GitHub 上获得了超过 2.4 万颗星，并持续受到关注（周增长近 2000 星）。它支持多种认证协议（如 OAuth2、SAML、LDAP），并提供用户管理、单点登录（SSO）、多因素认证（MFA）等核心功能。其设计目标是让开发者能够轻松地将其嵌入到各种应用和服务中，无论是传统架构还是云原生环境。通过可配置的流程和策略，authentik 可以适应复杂的认证需求，同时保持部署的简洁性。",
+  "tags": [
+    "身份认证",
+    "开源",
+    "Python",
+    "SSO",
+    "OAuth2",
+    "SAML",
+    "LDAP",
+    "MFA",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:52+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "goauthentik",
+    "stars": 24566,
+    "forks": 1881,
+    "daily_stars": null,
+    "weekly_stars": 1912,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

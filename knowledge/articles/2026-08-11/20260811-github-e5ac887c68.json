@@ -1,0 +1,35 @@
+{
+  "id": "20260811-github-e5ac887c68",
+  "title": "NanmiCoder/MediaCrawler",
+  "source": "github_trending",
+  "source_url": "https://github.com/NanmiCoder/MediaCrawler",
+  "summary": "MediaCrawler 是一个基于 Python 的多平台爬虫工具，支持小红书、抖音、快手、B 站、微博、百度贴吧和知乎等主流社交媒体平台，能够抓取帖子、视频、评论等数据。该项目在 GitHub 上拥有超过 6 万星标，近期热度持续上升。",
+  "content": "MediaCrawler 是一个功能强大的社交媒体数据采集工具，专为开发者和研究人员设计。它支持以下平台和数据类型：\n- 小红书：笔记和评论\n- 抖音：视频和评论\n- 快手：视频和评论\n- B 站：视频和评论\n- 微博：帖子和评论\n- 百度贴吧：帖子和评论回复\n- 知乎：问答文章和评论\n\n该项目使用 Python 编写，提供了统一的接口来抓取不同平台的数据，极大简化了多平台数据采集的复杂度。目前该项目在 GitHub 上已获得 61,619 颗星和 12,074 次 fork，日均新增星标 259 颗，显示出社区的高度认可和活跃维护。\n\n主要特点包括：\n- 多平台支持：覆盖国内主流内容平台\n- 数据全面：可获取帖子/视频/笔记内容及评论\n- 易于扩展：模块化设计，方便添加新平台\n- 活跃社区：持续更新和优化\n\n适用场景包括舆情分析、市场调研、学术研究等。需要注意的是，使用爬虫工具时应遵守相关平台的使用条款和法律法规，尊重数据隐私和版权。",
+  "tags": [
+    "爬虫",
+    "社交媒体",
+    "数据采集",
+    "Python",
+    "小红书",
+    "抖音",
+    "B站",
+    "微博",
+    "知乎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:43+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "NanmiCoder",
+    "stars": 61619,
+    "forks": 12074,
+    "daily_stars": 259,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

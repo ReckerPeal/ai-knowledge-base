@@ -1,0 +1,33 @@
+{
+  "id": "20260811-github-b3a404e8e5",
+  "title": "DayuanJiang/next-ai-draw-io",
+  "source": "github_trending",
+  "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+  "summary": "next-ai-draw-io 是一个基于 Next.js 的 Web 应用，将 AI 能力与 draw.io 图表编辑功能相结合，用户可以通过自然语言指令创建、修改和增强图表，实现 AI 辅助的可视化设计。",
+  "content": "## 项目概述\nnext-ai-draw-io 是一个使用 Next.js 构建的 Web 应用，它集成了 AI 能力与 draw.io 图表编辑器。该项目允许用户通过自然语言命令来创建、修改和增强图表，从而简化图表设计流程，提升效率。\n\n## 核心功能\n- **自然语言交互**：用户可以用自然语言描述图表需求，AI 自动生成或修改图表。\n- **AI 辅助可视化**：利用 AI 技术辅助用户进行图表布局、样式调整和内容增强。\n- **集成 draw.io**：基于 draw.io 强大的图表编辑能力，提供丰富的图形和模板。\n\n## 技术栈\n- **前端框架**：Next.js（React）\n- **语言**：TypeScript\n- **图表库**：draw.io（集成）\n- **AI 服务**：可能集成 OpenAI 或其他 AI 模型（具体未在摘要中说明）\n\n## 项目热度\n该项目在 GitHub 上表现突出，拥有 34,585 颗星，3,723 个 fork，日增星约 79 颗，属于 TypeScript 热门项目。\n\n## 适用场景\n- 快速创建专业图表（如流程图、架构图、思维导图等）\n- 通过对话方式迭代图表设计\n- 降低图表工具使用门槛，适合非专业设计人员\n\n## 总结\nnext-ai-draw-io 是一个创新性的 AI+图表工具，它结合了自然语言处理和 draw.io 的编辑能力，为用户提供了一种全新的图表创建方式。该项目在 GitHub 上受到广泛关注，具有较高的实用价值和发展潜力。",
+  "tags": [
+    "Next.js",
+    "AI",
+    "draw.io",
+    "图表",
+    "自然语言处理",
+    "TypeScript",
+    "Web应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:45+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "DayuanJiang",
+    "stars": 34585,
+    "forks": 3723,
+    "daily_stars": 79,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

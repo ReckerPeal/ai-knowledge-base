@@ -1,0 +1,34 @@
+{
+  "id": "20260811-github-bca4cdce2b",
+  "title": "servo/servo",
+  "source": "github_trending",
+  "source_url": "https://github.com/servo/servo",
+  "summary": "Servo 是一个用 Rust 编写的开源网页浏览器引擎项目，旨在为开发者提供轻量级、高性能的嵌入式 Web 技术替代方案。该项目在 GitHub 上拥有 37,673 颗星，近期周增 96 星，显示出活跃的社区关注度。",
+  "content": "Servo 是一个由 Mozilla 发起、现由社区驱动的网页浏览器引擎，完全使用 Rust 语言编写。其核心目标是利用 Rust 的内存安全特性和并发优势，构建一个模块化、高性能的浏览器引擎，使开发者能够轻松地将 Web 技术嵌入到各种应用程序中，例如桌面应用、移动应用、物联网设备等。\n\n该项目强调轻量级和高性能，旨在解决传统浏览器引擎（如 WebKit、Blink）在嵌入场景中体积庞大、资源占用高的问题。Servo 采用多进程架构和并行渲染技术，能够充分利用多核 CPU 性能，提升页面加载和渲染速度。\n\n在 GitHub 上，Servo 仓库拥有 37,673 颗星和 3,744 个 fork，周增星数 96，表明项目持续获得开发者关注。项目语言为 Rust，属于 GitHub 热点分类中的 Rust 类别。\n\nServo 的模块化设计允许开发者按需选择组件，例如仅使用布局引擎或渲染器，从而减少集成成本。此外，Servo 还支持 WebAssembly 和 WebGPU 等现代 Web 标准，为未来 Web 应用提供更强大的性能基础。\n\n对于希望将 Web 技术嵌入到原生应用中的开发者，Servo 提供了一个有吸引力的替代方案，尤其适合对性能、安全性和资源占用有严格要求的场景。",
+  "tags": [
+    "Rust",
+    "浏览器引擎",
+    "Web 技术",
+    "高性能",
+    "嵌入式",
+    "开源",
+    "Servo",
+    "并行渲染"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "servo",
+    "stars": 37673,
+    "forks": 3744,
+    "daily_stars": null,
+    "weekly_stars": 96,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

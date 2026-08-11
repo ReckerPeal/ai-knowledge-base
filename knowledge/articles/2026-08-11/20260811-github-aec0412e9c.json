@@ -1,0 +1,33 @@
+{
+  "id": "20260811-github-aec0412e9c",
+  "title": "3b1b/manim",
+  "source": "github_trending",
+  "source_url": "https://github.com/3b1b/manim",
+  "summary": "3b1b/manim 是一个用于创建解释性数学视频的动画引擎，由知名数学教育博主 3Blue1Brown 开发，在 GitHub 上拥有近 9 万星标，是当前最热门的 Python 项目之一。",
+  "content": "## 项目简介\nmanim 是一个强大的 Python 动画引擎，专为制作解释性数学视频而设计。它由 3Blue1Brown（Grant Sanderson）开发，旨在通过编程方式生成高质量的数学动画，使复杂的数学概念变得直观易懂。\n\n## 核心功能\n- **数学对象渲染**：支持点、线、平面、函数图像、坐标系等数学对象的绘制与变换。\n- **动画系统**：提供丰富的动画效果，如平移、缩放、旋转、渐入渐出等，支持自定义动画序列。\n- **LaTeX 支持**：内置 LaTeX 排版，可渲染数学公式和符号。\n- **场景管理**：通过 Scene 类组织动画，支持多场景切换和视频合成。\n\n## 技术特点\n- **基于 Python**：易于学习和扩展，适合教育者和开发者使用。\n- **高质量输出**：生成视频支持 4K 分辨率，适合 YouTube 等平台发布。\n- **社区活跃**：拥有大量贡献者和衍生版本（如 manimgl、manimce），持续迭代。\n\n## 应用场景\n- 数学教育视频制作\n- 科学可视化\n- 技术演示和讲座\n\n## 项目热度\n- 星标数：89,926\n- 分支数：7,465\n- 日增星标：381（截至 2026-08-11）\n- 属于 GitHub 热点 Python 项目，受到广泛关注。",
+  "tags": [
+    "manim",
+    "数学动画",
+    "Python",
+    "可视化",
+    "教育",
+    "3Blue1Brown",
+    "动画引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:43+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "3b1b",
+    "stars": 89926,
+    "forks": 7465,
+    "daily_stars": 381,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-085a8d8489",
+  "title": "sopaco/deepwiki-rs",
+  "source": "github_trending",
+  "source_url": "https://github.com/sopaco/deepwiki-rs",
+  "summary": "deepwiki-rs 是一个用 Rust 编写的开源工具，旨在将源代码自动转换为清晰、准确的技术文档，并生成适合 AI 代理使用的上下文信息。它能在几分钟内为人类团队和智能代理提供结构化的文档，提升代码可理解性和协作效率。",
+  "content": "deepwiki-rs 是一个基于 Rust 的代码文档生成工具，其核心功能是分析源代码结构，自动生成高质量的技术文档和 AI 友好的上下文。该工具特别强调输出的结构化程度，确保文档既适合人类阅读，也能被 AI 代理直接用于代码理解、任务执行等场景。\n\n主要特点包括：\n- 自动生成准确的 API 文档、模块说明和代码逻辑概述。\n- 输出格式标准化，便于集成到开发工作流或 AI 工具链中。\n- 支持多种编程语言（基于 Rust 实现，但可解析多种语言）。\n- 强调速度与效率，能在几分钟内完成大型项目的文档生成。\n\n该项目在 GitHub 上受到广泛关注，拥有 1678 颗星和 189 个 fork，近期日增星 51 颗，显示出社区活跃度和需求。适合开发者用于快速维护项目文档，或为 AI 编程助手提供高质量的代码上下文。",
+  "tags": [
+    "Rust",
+    "文档生成",
+    "AI",
+    "代码分析",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:47+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "sopaco",
+    "stars": 1678,
+    "forks": 189,
+    "daily_stars": 51,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

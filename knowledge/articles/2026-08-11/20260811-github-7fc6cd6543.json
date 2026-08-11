@@ -1,0 +1,33 @@
+{
+  "id": "20260811-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "TecharoHQ/anubis 是一个用 Go 编写的开源项目，旨在通过评估传入 HTTP 请求的“灵魂”来阻止 AI 爬虫。它通过分析请求特征，识别并拦截来自 AI 模型的自动爬虫，保护网站内容不被未经授权的抓取。该项目在 GitHub 上受到广泛关注，拥有超过 2.1 万星标。",
+  "content": "## 项目概述\n\nTecharoHQ/anubis 是一个用 Go 语言开发的开源工具，其核心功能是“称量传入 HTTP 请求的灵魂”，以此识别并阻止 AI 爬虫。它通过分析请求的多种特征，如行为模式、来源 IP、请求头等，来判断请求是否来自 AI 驱动的爬虫程序，并采取相应措施（如返回验证码、拒绝访问）来保护网站资源。\n\n## 技术特点\n\n- **语言**: Go，具有高性能和并发处理能力，适合处理大量 HTTP 请求。\n- **核心机制**: 基于请求特征分析，可能结合机器学习或规则引擎，实现智能识别。\n- **部署方式**: 可作为反向代理或中间件集成到现有 Web 服务中。\n\n## 应用场景\n\n- 保护网站内容不被 AI 爬虫抓取，防止数据被用于训练模型或未经授权使用。\n- 减少服务器资源消耗，因为 AI 爬虫通常会产生大量无效请求。\n- 维护网站访问统计的准确性，过滤掉非人类流量。\n\n## 社区与热度\n\n- **星标数**: 21,309，说明项目受到开发者广泛认可。\n- **分叉数**: 677，表明有较多开发者参与二次开发或定制。\n- **日增星标**: 27，近期热度持续上升。\n\n## 总结\n\nanubis 为网站管理员提供了一种有效的工具来对抗日益增长的 AI 爬虫问题，其创新的思路和实用的功能使其在 GitHub 上迅速走红。",
+  "tags": [
+    "AI爬虫",
+    "反爬虫",
+    "Go",
+    "HTTP请求",
+    "网站保护",
+    "开源工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:50+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 21309,
+    "forks": 677,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

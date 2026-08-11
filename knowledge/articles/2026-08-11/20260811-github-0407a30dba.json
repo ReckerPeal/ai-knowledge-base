@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-0407a30dba",
+  "title": "github/gh-stack",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-stack",
+  "summary": "gh-stack 是 GitHub 官方推出的命令行工具，用于简化堆叠式拉取请求（Stacked PRs）的创建与管理。它允许开发者将多个相互依赖的变更拆分为独立的 PR，并自动处理分支间的依赖关系，从而提升代码审查效率和开发流程的清晰度。",
+  "content": "gh-stack 是 GitHub 官方发布的 Go 语言命令行工具，旨在解决大型功能开发中多个相关 PR 的管理难题。通过堆叠式 PR 工作流，开发者可以将一个大的变更拆分为多个小、可独立审查的 PR，每个 PR 基于前一个 PR 的分支，形成清晰的依赖链。该工具自动处理分支创建、同步和 PR 状态更新，减少了手动操作和冲突。其核心优势包括：简化复杂 PR 的审查流程、支持并行开发、提高合并速度。项目在 GitHub 上获得 1221 星，周增长 236 星，显示出社区的高度关注。适合需要频繁提交大型功能的团队采用。",
+  "tags": [
+    "GitHub",
+    "CLI",
+    "Stacked PR",
+    "开发工具",
+    "Go",
+    "代码审查"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:59+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 1221,
+    "forks": 59,
+    "daily_stars": null,
+    "weekly_stars": 236,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

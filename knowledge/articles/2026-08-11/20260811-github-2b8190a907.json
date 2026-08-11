@@ -1,0 +1,31 @@
+{
+  "id": "20260811-github-2b8190a907",
+  "title": "GyulyVGC/sniffnet",
+  "source": "github_trending",
+  "source_url": "https://github.com/GyulyVGC/sniffnet",
+  "summary": "sniffnet 是一款用 Rust 编写的网络流量监控工具，旨在让用户轻松、舒适地监控互联网流量。它提供了直观的界面和丰富的功能，帮助用户实时了解网络活动。",
+  "content": "sniffnet 是一个开源的网络监控工具，使用 Rust 语言开发，目前在 GitHub 上拥有超过 4 万星标，热度持续上升。该项目的主要目标是提供一个用户友好且功能强大的网络流量监控解决方案。\n\n**核心功能**：\n- 实时监控网络流量，显示上传/下载速度、数据包统计等信息。\n- 提供图形化界面，以图表和列表形式展示流量数据，便于用户分析。\n- 支持按协议、IP 地址、端口等维度过滤流量，帮助用户定位特定连接。\n- 可识别并显示连接的地理位置（基于 IP 库），增强可视化体验。\n- 支持自定义通知规则，在特定事件发生时提醒用户。\n\n**技术特点**：\n- 基于 Rust 开发，具有高性能和内存安全特性。\n- 使用跨平台框架（如 egui 或类似 GUI 库），支持 Windows、macOS 和 Linux。\n- 采用异步网络捕获技术，确保低资源占用。\n\n**适用场景**：\n- 个人用户监控家庭网络，了解设备活动。\n- 开发者调试网络应用，分析请求/响应。\n- 安全爱好者检测异常流量，辅助排查潜在威胁。\n\n**项目状态**：\n- 活跃维护中，社区贡献积极，持续更新功能和修复问题。\n- 提供详细的文档和安装指南，方便用户快速上手。",
+  "tags": [
+    "网络监控",
+    "Rust",
+    "流量分析",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:47+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "GyulyVGC",
+    "stars": 40491,
+    "forks": 1913,
+    "daily_stars": 64,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-c6efec9ec7",
+  "title": "modelcontextprotocol/rust-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/rust-sdk",
+  "summary": "Model Context Protocol（MCP）的官方 Rust SDK，提供类型安全的客户端和服务器实现，支持异步 I/O、流式传输和工具调用，适用于构建 AI 代理与外部工具集成的 Rust 应用。",
+  "content": "该仓库是 Model Context Protocol (MCP) 的官方 Rust SDK，旨在为 Rust 开发者提供与 MCP 规范一致的类型安全接口。它支持异步运行时（如 Tokio），提供客户端和服务器端组件，便于实现工具注册、资源访问和提示模板管理。SDK 强调内存安全与性能，适合构建高性能 AI 代理或集成外部数据源。当前仓库活跃，周增星 42，社区关注度较高。",
+  "tags": [
+    "Rust",
+    "MCP",
+    "AI",
+    "SDK",
+    "异步",
+    "协议"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 3788,
+    "forks": 599,
+    "daily_stars": null,
+    "weekly_stars": 42,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

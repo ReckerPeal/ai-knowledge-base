@@ -1,0 +1,31 @@
+{
+  "id": "20260811-github-afb2934b80",
+  "title": "apernet/hysteria",
+  "source": "github_trending",
+  "source_url": "https://github.com/apernet/hysteria",
+  "summary": "Hysteria 是一个功能强大、速度极快且抗审查的代理工具。",
+  "content": "Hysteria 是一个基于 Go 语言开发的高性能代理工具，以其卓越的速度和强大的抗审查能力著称。它采用自定义的 QUIC 协议（基于 UDP）进行数据传输，能够有效应对网络丢包和高延迟环境，提供比传统 TCP 代理更稳定的连接。项目在 GitHub 上拥有超过 2.2 万星标，社区活跃，持续更新。其核心特性包括：1) 基于 QUIC 的传输，显著提升弱网环境下的性能；2) 内置多种混淆和伪装技术，增强抗封锁能力；3) 支持客户端和服务端模式，易于部署和使用。Hysteria 适用于需要高速、稳定且绕过网络审查的场景，是科学上网和网络优化的热门选择。",
+  "tags": [
+    "代理",
+    "抗审查",
+    "QUIC",
+    "Go",
+    "网络工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:50+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "apernet",
+    "stars": 22295,
+    "forks": 2242,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

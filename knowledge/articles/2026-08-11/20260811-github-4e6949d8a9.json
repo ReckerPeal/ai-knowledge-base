@@ -1,0 +1,34 @@
+{
+  "id": "20260811-github-4e6949d8a9",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "source": "rss",
+  "source_url": "https://www.whodunnitai.com/",
+  "summary": "这是一个基于语音驱动的谋杀悬疑游戏，用户可以通过语音与AI嫌疑人进行实时对话和审讯。项目使用OpenAI的gpt-realtime-2.1模型通过WebRTC实现语音到语音的交互，并利用gpt-5-mini作为裁判来评估用户提供的证据是否有效。技术栈包括Next.js、MongoDB和Clerk，并设置了30分钟的时间限制以控制成本。",
+  "content": "该项目是一个创新的语音交互游戏，将AI语音代理技术与谋杀悬疑题材相结合。核心功能包括：\n- 语音审讯：用户通过语音与AI嫌疑人实时对话，使用OpenAI的gpt-realtime-2.1模型，通过WebRTC实现低延迟的语音交互。\n- 证据评估：当用户直接指控嫌疑人时，系统会调用工具捕获指控对象和用户陈述的证据列表，由gpt-5-mini裁判判断用户是否真正呈现了案件所需的关键证据，允许同义改写，但模糊怀疑或试探性提问不计入。\n- 成本控制：由于模型成本较高，对话绑定Clerk认证用户，并设置30分钟计时器限制使用时长。\n- 技术架构：前端使用Next.js，数据存储采用MongoDB，用户认证使用Clerk。\n\n该项目最初构思于2-3年前，当时AI语音代理尚处于早期阶段，作者近期重新审视并完善了该概念。在Hacker News上获得了203分和80条评论，社区反响积极。",
+  "tags": [
+    "语音AI",
+    "游戏",
+    "OpenAI",
+    "WebRTC",
+    "Next.js",
+    "MongoDB",
+    "Clerk",
+    "谋杀悬疑",
+    "实时交互",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-10T03:18:40+00:00",
+  "collected_at": "2026-08-11T18:44:59+08:00",
+  "language": "zh-CN",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

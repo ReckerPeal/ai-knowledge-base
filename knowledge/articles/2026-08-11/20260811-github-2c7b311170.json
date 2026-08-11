@@ -1,0 +1,33 @@
+{
+  "id": "20260811-github-2c7b311170",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "summary": "Firecrawl 是一个用于大规模搜索、抓取和交互网页的上下文 API，支持将网站内容转换为干净的 Markdown 或结构化数据，便于 AI 应用使用。",
+  "content": "Firecrawl 是一个强大的网页抓取和搜索 API，专为 AI 应用设计。它能够将任何网站转换为干净的 Markdown 或结构化数据，支持抓取单个页面、批量抓取、搜索、爬取整个网站，并提供交互式 API 用于与网页内容进行交互。该项目在 GitHub 上非常热门，拥有 165,523 颗星和 9,312 个 fork，近期日增星约 835 颗，显示出极高的社区关注度。Firecrawl 的主要特点包括：\n- 支持将网页转换为干净的 Markdown，便于 LLM 处理；\n- 提供搜索 API，可基于查询返回相关网页内容；\n- 支持批量抓取和爬取整个网站；\n- 提供交互式 API，可执行点击、表单填写等操作；\n- 支持多种输出格式（Markdown、JSON、HTML）；\n- 提供云服务和自托管选项，支持 Docker 部署。\n该工具适用于构建 AI 代理、RAG 系统、数据采集管道等场景，是开发者的热门选择。",
+  "tags": [
+    "web-scraping",
+    "API",
+    "AI",
+    "crawler",
+    "search",
+    "TypeScript",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-11T18:44:45+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "firecrawl",
+    "stars": 165523,
+    "forks": 9312,
+    "daily_stars": 835,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
