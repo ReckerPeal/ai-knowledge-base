@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-3b42e75165",
+  "title": "derailed/k9s",
+  "source": "github_trending",
+  "source_url": "https://github.com/derailed/k9s",
+  "summary": "derailed/k9s 是一个用 Go 编写的 Kubernetes CLI 工具，旨在以风格化的方式管理 Kubernetes 集群。它提供了终端 UI 来简化集群的监控和管理。",
+  "content": "k9s 是一个流行的 Kubernetes 命令行工具，它提供了一个基于终端的用户界面（TUI），用于实时监控和管理 Kubernetes 集群。该项目由 derailed 开发，使用 Go 语言编写，在 GitHub 上拥有超过 34k 的星标。k9s 的主要功能包括：\n\n- 快速查看和导航 Kubernetes 资源（Pods、Deployments、Services 等）。\n- 实时监控资源状态和日志。\n- 支持资源编辑、删除和端口转发等操作。\n- 提供自定义视图和别名，提高操作效率。\n- 支持多集群切换和上下文管理。\n\nk9s 的设计目标是让 Kubernetes 管理更加直观和高效，尤其适合在终端环境下工作的开发者和运维人员。该项目持续活跃，近期每日新增星标约 9 个，显示出社区的持续关注。",
+  "tags": [
+    "Kubernetes",
+    "CLI",
+    "Go",
+    "DevOps",
+    "Terminal UI",
+    "监控"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:20+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "derailed",
+    "stars": 34328,
+    "forks": 2249,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

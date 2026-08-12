@@ -1,0 +1,36 @@
+{
+  "id": "20260812-github-da7c582ec8",
+  "title": "can1357/oh-my-pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "summary": "oh-my-pi 是一个面向终端（Terminal）的 AI 编程代理（Coding Agent），基于 TypeScript 开发。它提供哈希锚定编辑（hash-anchored edits）、优化的工具调用框架（tool harness）、LSP（语言服务器协议）支持、Python 环境、浏览器操作以及子代理（subagents）等丰富功能，旨在提升终端内的 AI 辅助编程体验。",
+  "content": "## 项目概述\n\n**oh-my-pi** 是一个专为终端环境设计的 AI 编程代理，由开发者 can1357 创建。该项目在 GitHub 上获得了 24,106 颗星，周增长 2,133 颗，显示出较高的社区关注度。\n\n## 核心特性\n\n- **哈希锚定编辑（Hash-Anchored Edits）**：通过哈希值精确定位代码编辑位置，确保修改的准确性和可追溯性，避免传统文本匹配可能带来的误差。\n- **优化的工具调用框架（Optimized Tool Harness）**：提供高效的工具调用机制，使 AI 代理能够更流畅地执行各种终端命令和操作。\n- **LSP 支持**：集成语言服务器协议（Language Server Protocol），为多种编程语言提供智能代码补全、诊断和重构等高级功能。\n- **Python 支持**：内置 Python 环境，方便进行 Python 脚本编写、调试和运行。\n- **浏览器操作**：支持通过 AI 代理控制浏览器，实现网页自动化测试或数据抓取等任务。\n- **子代理（Subagents）**：允许创建和管理多个子代理，并行处理不同任务，提高复杂工作流的效率。\n\n## 技术栈与语言\n\n- 主要语言：TypeScript\n- 类别：GitHub 热点 · TypeScript\n\n## 适用场景\n\n- 终端重度用户和开发者，希望在命令行中直接获得 AI 辅助编程能力。\n- 需要自动化代码编辑、多语言支持、浏览器交互等高级功能的开发工作流。\n- 对 AI 代理工具链有深度定制需求的用户。\n\n## 社区与热度\n\n- 作者：can1357\n- Stars：24,106\n- Forks：2,290\n- 周增长 Stars：2,133\n- 收集时间：2026-08-12T18:55:25+08:00\n\n该项目凭借其创新的功能和活跃的社区，已成为终端 AI 编程代理领域的热门选择。",
+  "tags": [
+    "AI",
+    "Coding Agent",
+    "Terminal",
+    "TypeScript",
+    "LSP",
+    "Python",
+    "Browser Automation",
+    "Subagents",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:25+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "can1357",
+    "stars": 24106,
+    "forks": 2290,
+    "daily_stars": null,
+    "weekly_stars": 2133,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

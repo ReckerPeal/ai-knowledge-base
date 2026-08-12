@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-338c5bbdf5",
+  "title": "helm/helm",
+  "source": "github_trending",
+  "source_url": "https://github.com/helm/helm",
+  "summary": "Helm 是 Kubernetes 的包管理器，用于简化 Kubernetes 应用的部署和管理。",
+  "content": "Helm 是 Kubernetes 生态中广泛使用的包管理工具，类似于 Linux 系统中的 apt 或 yum。它通过定义 Chart（一种打包格式）来描述 Kubernetes 应用所需的资源，并支持版本管理、依赖管理和参数化配置。Helm 允许用户通过简单的命令（如 helm install、helm upgrade）来部署、升级和回滚应用，极大地简化了 Kubernetes 应用的运维复杂度。该项目由 Helm 社区维护，目前拥有超过 3 万颗星，是 Kubernetes 工具链中的核心组件之一。",
+  "tags": [
+    "Kubernetes",
+    "包管理器",
+    "DevOps",
+    "Go",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:29+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "helm",
+    "stars": 30148,
+    "forks": 7759,
+    "daily_stars": null,
+    "weekly_stars": 58,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

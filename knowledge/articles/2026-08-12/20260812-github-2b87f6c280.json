@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-2b87f6c280",
+  "title": "ai-dynamo/dynamo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ai-dynamo/dynamo",
+  "summary": "Dynamo 是一个数据中心规模的分布式推理服务框架，旨在高效管理和调度大规模 AI 模型的推理任务。",
+  "content": "Dynamo 是一个面向数据中心规模的分布式推理服务框架，由 ai-dynamo 团队开发，使用 Rust 语言编写。该框架专注于解决大规模 AI 模型推理中的性能、可扩展性和资源利用问题，适用于需要高吞吐量和低延迟的推理场景。其核心特性可能包括分布式调度、模型并行、动态批处理、弹性伸缩等，以支持在集群环境中高效运行多种模型。项目在 GitHub 上受到广泛关注，拥有 7741 颗星和 1434 个分支，显示出活跃的社区和开发进展。",
+  "tags": [
+    "分布式推理",
+    "推理服务框架",
+    "Rust",
+    "数据中心",
+    "AI基础设施",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:27+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ai-dynamo",
+    "stars": 7741,
+    "forks": 1434,
+    "daily_stars": null,
+    "weekly_stars": 63,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

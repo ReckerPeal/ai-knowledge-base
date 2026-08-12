@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-201fe558a4",
+  "title": "esengine/DeepSeek-Reasonix",
+  "source": "github_trending",
+  "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+  "summary": "DeepSeek-Reasonix 是一个基于 DeepSeek 的终端 AI 编程代理，专为前缀缓存稳定性而设计，可长期运行。",
+  "content": "DeepSeek-Reasonix 是一个用 Go 语言开发的终端 AI 编程代理，它利用 DeepSeek 模型的能力，为开发者提供智能编程辅助。该项目特别强调前缀缓存稳定性，这意味着它能够高效地利用缓存机制，减少重复计算，从而支持长时间稳定运行。它旨在成为开发者在终端中的得力助手，提升编码效率。该项目在 GitHub 上表现活跃，获得了大量关注。",
+  "tags": [
+    "AI编程代理",
+    "DeepSeek",
+    "终端工具",
+    "Go",
+    "缓存优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "esengine",
+    "stars": 34108,
+    "forks": 2237,
+    "daily_stars": null,
+    "weekly_stars": 3517,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

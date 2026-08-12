@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-74265fb602",
+  "title": "antvis/Infographic",
+  "source": "github_trending",
+  "source_url": "https://github.com/antvis/Infographic",
+  "summary": "antvis/Infographic 是一个基于 TypeScript 的信息图生成与渲染框架，旨在通过 AI 将文字转化为生动的可视化图表。该项目在 GitHub 上获得 6223 星标，近期热度上升迅速，日均新增星标 82 个。",
+  "content": "## 项目概述\nantvis/Infographic 是蚂蚁集团 AntV 团队开源的信息图生成与渲染框架，核心目标是利用 AI 技术将自然语言描述自动转化为美观、可交互的信息图。该项目采用 TypeScript 编写，提供了从数据到视觉呈现的完整流程，支持多种图表类型和自定义样式。\n\n## 主要特性\n- **AI 驱动**：集成大语言模型，用户只需输入文字描述，即可自动生成信息图结构。\n- **高效渲染**：基于 Canvas/SVG 的高性能渲染引擎，支持复杂动画和交互。\n- **灵活扩展**：提供插件机制，可自定义图表组件和布局算法。\n- **跨平台**：支持 Web 端和移动端，适配主流浏览器。\n\n## 技术架构\n- **前端框架**：使用 TypeScript 编写，模块化设计，易于集成到现有项目。\n- **AI 集成**：通过 API 调用大模型，解析用户意图并映射到图表配置。\n- **渲染层**：基于 G2 图形语法，支持数据绑定和响应式更新。\n\n## 应用场景\n- 数据新闻自动可视化\n- 商业报告快速生成\n- 教育领域知识图谱展示\n- 社交媒体内容创作\n\n## 社区与热度\n该项目在 GitHub 上表现活跃，拥有 6223 星标和 488 个 fork，近期每日新增星标约 82 个，显示出强劲的增长势头。适合前端开发者、数据可视化工程师和 AI 应用开发者关注。",
+  "tags": [
+    "TypeScript",
+    "信息图",
+    "AI生成",
+    "数据可视化",
+    "AntV",
+    "开源框架",
+    "渲染引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:15+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "antvis",
+    "stars": 6223,
+    "forks": 488,
+    "daily_stars": 82,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

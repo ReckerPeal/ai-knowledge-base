@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-2c650dc340",
+  "title": "omnigent-ai/omnigent",
+  "source": "github_trending",
+  "source_url": "https://github.com/omnigent-ai/omnigent",
+  "summary": "Omnigent 是一个开源的 AI 代理框架和元编排工具，能够协调 Claude Code、Codex、Cursor、Pi 等代理，支持自定义代理，无需重写即可切换底层工具，并强制执行策略和沙箱，支持多设备实时协作。",
+  "content": "Omnigent 是一个开源的 AI 代理框架和元编排工具，旨在统一管理多种 AI 代理（如 Claude Code、Codex、Cursor、Pi）以及自定义代理。其核心优势在于：\n\n1. **无缝切换**：用户可以在不同代理之间切换，无需重写现有代码，降低了迁移成本。\n2. **策略与沙箱**：内置策略执行和沙箱机制，确保代理行为符合安全规范，提升可控性。\n3. **实时协作**：支持从任何设备实时协作，方便团队共享和协同工作。\n\n该项目使用 Python 编写，在 GitHub 上表现活跃，已获得 8665 颗星和 1309 个 fork，近期日增星 160，显示出较强的社区关注度。适合需要管理多个 AI 代理的开发者和团队，尤其适用于复杂工作流编排场景。",
+  "tags": [
+    "AI Agent",
+    "框架",
+    "编排",
+    "开源",
+    "Python",
+    "沙箱",
+    "协作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:12+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "omnigent-ai",
+    "stars": 8665,
+    "forks": 1309,
+    "daily_stars": 160,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

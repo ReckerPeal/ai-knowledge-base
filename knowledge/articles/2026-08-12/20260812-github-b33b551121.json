@@ -1,0 +1,36 @@
+{
+  "id": "20260812-github-b33b551121",
+  "title": "krillinai/KrillinAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/krillinai/KrillinAI",
+  "summary": "KrillinAI 是一个基于 LLM 的 AI 视频翻译与配音工具，支持人类用户和 AI Agent 使用。它提供完整的处理流水线，包括视频下载、语音转录、翻译、TTS 配音、格式重排和封面生成，支持超过 100 种语言，并针对 YouTube、TikTok、Bilibili、抖音等主流平台进行了优化。该项目采用 Go 语言编写，提供 CLI 分阶段调用，便于集成和自动化。",
+  "content": "## 项目概述\nKrillinAI 是一个开源的 AI 视频翻译和配音工具，旨在为内容创作者和 AI Agent 提供一站式解决方案。它利用大型语言模型（LLMs）实现高质量的翻译和配音，覆盖从视频获取到最终成品的全流程。\n\n## 核心功能\n- **全链路处理**：下载视频 → 转录语音 → 翻译文本 → TTS 配音 → 重新格式化 → 生成封面。\n- **多语言支持**：支持 100+ 种语言的翻译和配音，满足全球化内容需求。\n- **平台优化**：针对 YouTube、TikTok、Bilibili、抖音、小红书、视频号等主流平台进行适配，确保输出格式兼容。\n- **CLI 分阶段调用**：提供命令行接口，允许用户按需执行各个阶段，便于集成到自动化工作流或 AI Agent 中。\n\n## 技术亮点\n- **基于 LLM**：利用大语言模型进行智能翻译，保证翻译质量和语境准确性。\n- **Go 语言实现**：高性能、低资源占用，适合部署在服务器或边缘设备。\n- **面向 AI Agent**：设计上考虑了 AI Agent 的调用需求，支持程序化交互。\n\n## 适用场景\n- 视频内容本地化：将视频快速翻译并配音成多种语言，扩大受众范围。\n- 自动化内容生产：作为 AI Agent 的组件，自动处理视频翻译任务。\n- 多平台分发：为不同平台生成适配格式的视频，提高发布效率。\n\n## 项目热度\n在 GitHub 上获得 10979 星，10979 个 fork，近期日增 155 星，显示出较强的社区关注度和活跃度。",
+  "tags": [
+    "AI视频翻译",
+    "配音工具",
+    "LLM",
+    "TTS",
+    "Go",
+    "CLI",
+    "多语言",
+    "自动化",
+    "AI Agent",
+    "视频处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:20+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "krillinai",
+    "stars": 10979,
+    "forks": 1029,
+    "daily_stars": 155,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

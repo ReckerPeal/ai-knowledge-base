@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-168c95fefd",
+  "title": "yamadashy/repomix",
+  "source": "github_trending",
+  "source_url": "https://github.com/yamadashy/repomix",
+  "summary": "Repomix 是一个强大的工具，可将整个代码仓库打包成单个 AI 友好的文件，便于将代码库输入到大型语言模型（LLM）或其他 AI 工具中，如 Claude、ChatGPT、DeepSeek、Perplexity、Gemini、Gemma、Llama、Grok 等。",
+  "content": "Repomix 是一个用 TypeScript 编写的开源工具，旨在解决将大型代码库提供给 AI 模型时的上下文限制问题。它通过将整个仓库压缩成一个结构化的文本文件，使得 AI 工具能够更高效地理解和处理代码。该工具支持多种流行的 AI 模型，并提供了灵活的配置选项，如忽略文件、自定义输出格式等。Repomix 在 GitHub 上拥有超过 27,000 颗星，社区活跃，持续更新，是 AI 辅助编程工作流中的重要工具。",
+  "tags": [
+    "AI",
+    "代码仓库",
+    "LLM",
+    "TypeScript",
+    "开发工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:15+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "yamadashy",
+    "stars": 27786,
+    "forks": 1483,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

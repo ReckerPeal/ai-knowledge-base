@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-1b5d0fc8dd",
+  "title": "firecrawl/pdf-inspector",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/pdf-inspector",
+  "summary": "firecrawl/pdf-inspector 是一个基于 Rust 的高性能 PDF 检查与分类库，能够智能区分扫描版和文本版 PDF，为文档处理流程提供路由决策支持。",
+  "content": "## 项目概述\nfirecrawl/pdf-inspector 是一个用 Rust 编写的快速 PDF 检查、分类和文本提取库。它能够智能检测 PDF 是扫描版还是文本版，从而帮助开发者做出更智能的文档处理路由决策。\n\n## 核心功能\n- **PDF 分类**：自动识别扫描版（图像型）和文本版（可搜索）PDF，便于后续处理流程的优化。\n- **文本提取**：高效提取 PDF 中的文本内容，支持后续的 NLP 或数据分析。\n- **高性能**：基于 Rust 的内存安全和并发特性，提供极快的处理速度，适合大规模文档处理场景。\n\n## 技术亮点\n- **Rust 生态**：利用 Rust 的强类型和零成本抽象，确保库的可靠性和性能。\n- **智能路由**：通过分类结果，可自动将扫描版 PDF 路由到 OCR 服务，将文本版 PDF 直接进行文本分析，节省计算资源。\n\n## 应用场景\n- 文档管理系统：自动分类和索引 PDF 文件。\n- 数据提取管道：在 RAG 或知识库构建中，优先处理文本型 PDF，对扫描件进行 OCR。\n- 合规审查：快速识别需要额外处理的扫描文档。\n\n## 社区与热度\n该项目在 GitHub 上表现活跃，已获得 14.8k 星标和 1k+ fork，周增长超过 5k 星标，显示出强烈的社区关注度。",
+  "tags": [
+    "PDF",
+    "Rust",
+    "文本提取",
+    "文档分类",
+    "OCR",
+    "高性能",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:27+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "firecrawl",
+    "stars": 14866,
+    "forks": 1025,
+    "daily_stars": null,
+    "weekly_stars": 5367,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

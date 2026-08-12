@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-f33d1256ee",
+  "title": "1jehuang/jcode",
+  "source": "github_trending",
+  "source_url": "https://github.com/1jehuang/jcode",
+  "summary": "jcode 是一个用 Rust 编写的高效代码执行与测试工具，号称“内存效率最高的测试框架”。它通过独特的内存管理策略，显著降低运行时的内存占用，适用于资源受限环境下的代码测试与执行。",
+  "content": "jcode 是一个用 Rust 编写的开源项目，旨在提供内存效率极高的代码执行与测试框架。其核心优势在于内存占用极低，通过优化内存分配和回收机制，使得在相同任务下比传统测试框架节省大量内存。该项目在 GitHub 上获得 17k+ 星标，日增星标 243，显示出社区的高度关注。主要特点包括：\n- 极低内存占用：采用自定义内存分配器，减少碎片和冗余。\n- 快速执行：利用 Rust 的零成本抽象和并行处理能力。\n- 易用性：提供简洁的 API，支持多种测试场景。\n- 适用场景：适合嵌入式开发、云函数等内存敏感环境。\n项目语言为 Rust，代码质量高，文档完善，适合对性能有极致要求的开发者使用。",
+  "tags": [
+    "Rust",
+    "测试框架",
+    "内存优化",
+    "高性能",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:17+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "1jehuang",
+    "stars": 17269,
+    "forks": 1940,
+    "daily_stars": 243,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

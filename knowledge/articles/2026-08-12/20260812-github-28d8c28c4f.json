@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-28d8c28c4f",
+  "title": "index-tts/index-tts",
+  "source": "github_trending",
+  "source_url": "https://github.com/index-tts/index-tts",
+  "summary": "IndexTTS 是一个工业级的可控、高效的零样本文本到语音合成系统。",
+  "content": "IndexTTS 是一个面向工业应用的可控且高效的零样本文本到语音（TTS）系统。它基于 Python 开发，在 GitHub 上获得了超过 2.2 万颗星，显示出较高的社区关注度。该系统的主要特点包括：\n- **零样本能力**：无需针对特定说话人进行训练，即可合成任意说话人的语音。\n- **可控性**：用户可以通过控制参数来调节语音的语调、情感、语速等特征。\n- **高效性**：在推理速度和资源占用方面进行了优化，适合工业级部署。\n- **应用场景**：适用于语音助手、有声书生成、影视配音、个性化语音合成等多种场景。\n该项目由 index-tts 团队维护，目前处于活跃开发状态，每日新增星标数较高，表明其受欢迎程度和更新频率。",
+  "tags": [
+    "text-to-speech",
+    "zero-shot",
+    "industrial",
+    "Python",
+    "AI",
+    "语音合成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-12T18:55:12+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "index-tts",
+    "stars": 22689,
+    "forks": 2757,
+    "daily_stars": 161,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
