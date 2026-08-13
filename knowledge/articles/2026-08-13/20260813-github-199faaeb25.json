@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-199faaeb25",
+  "title": "Agent-Field/pr-af",
+  "source": "github_trending",
+  "source_url": "https://github.com/Agent-Field/pr-af",
+  "summary": "pr-af 是一个开源的代码审查工具，在 Code-Review-Bench 基准测试中排名第一，使用 Go 语言开发，近期在 GitHub 上受到广泛关注。",
+  "content": "pr-af 是 Agent-Field 团队开发的一个开源代码审查工具，旨在提供高质量的自动化代码审查服务。该项目在 Code-Review-Bench 基准测试中表现优异，位列第一，表明其审查能力在同类工具中处于领先地位。项目使用 Go 语言编写，具备高性能和良好的并发处理能力。自发布以来，该项目在 GitHub 上迅速积累了 512 颗星和 54 个 fork，近期每日新增星标数达 48 颗，周增长 114 颗，显示出强劲的社区关注度和增长势头。该工具可能集成了先进的 AI 模型，能够自动分析代码变更、发现潜在问题并提供改进建议，适用于开发团队在 CI/CD 流程中集成代码审查，提升代码质量和开发效率。",
+  "tags": [
+    "代码审查",
+    "AI",
+    "Go",
+    "开源工具",
+    "Code-Review-Bench",
+    "开发效率"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:33+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Agent-Field",
+    "stars": 512,
+    "forks": 54,
+    "daily_stars": 48,
+    "weekly_stars": 114,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

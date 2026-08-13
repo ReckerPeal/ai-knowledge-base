@@ -1,0 +1,34 @@
+{
+  "id": "20260813-github-e6f38ed517",
+  "title": "stanfordnlp/dspy",
+  "source": "github_trending",
+  "source_url": "https://github.com/stanfordnlp/dspy",
+  "summary": "DSPy 是斯坦福大学 NLP 团队推出的框架，旨在通过编程方式而非提示词来构建语言模型应用，提供系统化的模块化编程接口，以优化提示词和权重，提升 LLM 应用的可靠性和可维护性。",
+  "content": "DSPy 是一个用于编程（而非提示）语言模型的框架，它改变了传统依赖手工编写提示词的方式，转而采用声明式编程和自动优化。其核心思想是将 LLM 应用分解为可组合的模块（如 dspy.ChainOfThought、dspy.ReAct），通过定义输入输出签名和验证指标，利用内置的优化器（如 BootstrapFewShot、MIPRO）自动调整提示词或微调模型权重，从而提升任务性能。该框架支持多种主流 LLM 后端（如 OpenAI、Anthropic、Hugging Face），并提供了丰富的工具和文档，适用于复杂推理、检索增强生成（RAG）等场景。DSPy 在 GitHub 上拥有超过 3.7 万星标，社区活跃，是当前 LLM 应用开发领域的重要工具之一。",
+  "tags": [
+    "DSPy",
+    "语言模型",
+    "提示词优化",
+    "编程框架",
+    "LLM",
+    "斯坦福",
+    "GitHub热点",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:35+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "stanfordnlp",
+    "stars": 37164,
+    "forks": 3210,
+    "daily_stars": null,
+    "weekly_stars": 523,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

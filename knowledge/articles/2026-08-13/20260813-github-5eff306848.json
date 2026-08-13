@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-5eff306848",
+  "title": "BoundaryML/baml",
+  "source": "github_trending",
+  "source_url": "https://github.com/BoundaryML/baml",
+  "summary": "BAML 是一种专为 AI 代理设计的编程语言，旨在简化代理的构建和部署。它提供类型安全的接口、结构化输出和与主流 LLM 的集成，使开发者能够更高效地开发可靠的 AI 应用。",
+  "content": "BAML（BoundaryML 开发的编程语言）专注于 AI 代理的开发，提供以下核心特性：\n- **类型安全**：通过编译时检查确保 LLM 输出的结构正确，减少运行时错误。\n- **结构化输出**：支持定义输出 schema，使 LLM 返回的数据可直接用于程序。\n- **多模型支持**：与 OpenAI、Anthropic 等主流 LLM 集成，可灵活切换。\n- **简化开发**：提供声明式语法，降低构建复杂代理的难度。\n该语言基于 Rust 实现，性能高效，适合生产环境。目前项目在 GitHub 上热度较高，获得近 9000 星，每日新增约 44 星，表明社区关注度持续上升。",
+  "tags": [
+    "AI代理",
+    "编程语言",
+    "Rust",
+    "LLM",
+    "结构化输出",
+    "类型安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:30+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "BoundaryML",
+    "stars": 8966,
+    "forks": 475,
+    "daily_stars": 44,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

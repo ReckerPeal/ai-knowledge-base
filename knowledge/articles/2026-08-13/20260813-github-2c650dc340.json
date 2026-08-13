@@ -1,0 +1,34 @@
+{
+  "id": "20260813-github-2c650dc340",
+  "title": "omnigent-ai/omnigent",
+  "source": "github_trending",
+  "source_url": "https://github.com/omnigent-ai/omnigent",
+  "summary": "Omnigent 是一个开源的 AI 智能体框架和元编排工具，能够统一协调 Claude Code、Codex、Cursor、Pi 等主流智能体及自定义智能体，无需重写代码即可切换底层执行环境，支持策略执行、沙箱隔离以及多设备实时协作。",
+  "content": "Omnigent 是一个开源的 AI 智能体框架和元编排工具，旨在解决多智能体协作和工具链碎片化问题。其核心功能包括：\n\n1. **统一编排**：通过元编排层，将 Claude Code、Codex、Cursor、Pi 等不同智能体纳入统一管理，用户可无缝切换底层执行引擎，无需修改业务逻辑。\n2. **策略与安全**：内置策略执行机制，可定义访问控制、操作限制等规则，并支持沙箱隔离，确保智能体在受控环境中运行。\n3. **实时协作**：支持从任何设备接入，实现多用户、多智能体的实时协同工作，提升团队效率。\n4. **扩展性**：允许用户自定义智能体，灵活适配不同场景。\n\n该项目在 GitHub 上表现活跃，已获得 8772 星标和 1320 次 fork，日增星标 173，显示出社区的高度关注。其技术栈基于 Python，适合开发者快速集成和二次开发。Omnigent 的出现为 AI 智能体管理提供了统一解决方案，降低了多工具切换的复杂度，尤其适合需要多智能体协作的企业级应用。",
+  "tags": [
+    "AI Agent",
+    "框架",
+    "编排",
+    "开源",
+    "Python",
+    "多智能体",
+    "沙箱",
+    "协作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:25+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "omnigent-ai",
+    "stars": 8772,
+    "forks": 1320,
+    "daily_stars": 173,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

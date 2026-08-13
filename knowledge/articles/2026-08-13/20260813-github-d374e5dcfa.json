@@ -1,0 +1,34 @@
+{
+  "id": "20260813-github-d374e5dcfa",
+  "title": "beenuar/AiSOC",
+  "source": "github_trending",
+  "source_url": "https://github.com/beenuar/AiSOC",
+  "summary": "AiSOC 是一个开源的 AI 驱动的安全运营中心（SOC），提供告警融合、紫队演练、代理辅助分诊和 MITRE ATT&CK 调查功能。项目采用 MIT 许可证，支持自托管，基于 Python 开发。",
+  "content": "## 项目概述\nAiSOC 是一个开源的安全运营中心（SOC）平台，利用人工智能技术增强安全运营能力。它旨在帮助安全团队更高效地处理告警、进行威胁调查和开展安全演练。\n\n## 核心功能\n- **告警融合**：将来自不同来源的安全告警进行关联和融合，减少噪音，提高告警质量。\n- **紫队演练**：支持红蓝对抗（紫队）演练，帮助团队测试和提升检测与响应能力。\n- **代理辅助分诊**：利用 AI 代理辅助安全分析师进行告警分诊，快速确定优先级和响应策略。\n- **MITRE ATT&CK 调查**：集成 MITRE ATT&CK 框架，支持基于攻击战术和技术的调查分析。\n\n## 技术特点\n- **开源与自托管**：采用 MIT 许可证，用户可以自由使用、修改和部署，支持自托管，保障数据隐私。\n- **Python 实现**：基于 Python 开发，便于扩展和集成到现有安全工具链。\n\n## 项目热度\n在 GitHub 上获得 2311 颗星，249 个 fork，周增长 591 颗星，显示出较高的社区关注度。\n\n## 适用场景\n适用于中小型安全团队、开源安全爱好者以及希望构建自主可控 SOC 的组织。",
+  "tags": [
+    "AI",
+    "安全运营中心",
+    "SOC",
+    "告警融合",
+    "紫队演练",
+    "MITRE ATT&CK",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:35+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "beenuar",
+    "stars": 2311,
+    "forks": 249,
+    "daily_stars": null,
+    "weekly_stars": 591,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

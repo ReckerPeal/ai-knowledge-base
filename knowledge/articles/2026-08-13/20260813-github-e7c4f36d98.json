@@ -1,0 +1,33 @@
+{
+  "id": "20260813-github-e7c4f36d98",
+  "title": "huangruiteng/loopx",
+  "source": "github_trending",
+  "source_url": "https://github.com/huangruiteng/loopx",
+  "summary": "LoopX 是一个轻量级的循环工程状态内核，专为长时间运行的 AI 智能体团队设计。它支持多种编码智能体（如 Codex、Claude Code 等），提供持久化目标、配额感知的自动唤醒、可执行的待办事项、证据日志和可验证的交接机制。",
+  "content": "## 项目概述\nLoopX 是一个面向长期运行的 AI 智能体团队的轻量级循环工程状态内核。它旨在解决多智能体协作中的状态管理和任务循环问题，提供统一的循环状态管理，使得不同编码智能体（如 Codex、Claude Code 等）能够无缝协作。\n\n## 核心特性\n- **智能体循环无关**：LoopX 不绑定特定智能体，支持 Codex、Claude Code 等多种编码智能体，具有高度的灵活性和可移植性。\n- **持久化目标**：支持长期目标的持久化存储，确保智能体在多次运行之间保持目标一致性。\n- **配额感知自动唤醒**：根据资源配额自动唤醒智能体，优化资源利用，避免不必要的计算开销。\n- **可执行待办事项**：提供可执行的待办事项列表，帮助智能体团队按优先级推进任务。\n- **证据日志**：记录任务执行的证据，增强可追溯性和审计能力。\n- **可验证交接**：支持智能体之间的可验证交接，确保任务状态和上下文的准确传递。\n\n## 技术实现\nLoopX 使用 Python 编写，代码结构清晰，易于扩展。它可能采用状态机或事件驱动架构来管理循环状态，并利用持久化存储（如数据库或文件系统）来保存目标和日志。\n\n## 应用场景\n- 多智能体协作的复杂任务自动化\n- 需要长期运行和状态保持的 AI 工作流\n- 跨不同编码智能体的统一任务管理\n\n## 社区与热度\n该项目在 GitHub 上获得 4531 星和 386 次 fork，周增长 2509 星，显示出较高的社区关注度和活跃度。",
+  "tags": [
+    "AI Agent",
+    "Loop Engineering",
+    "State Kernel",
+    "Multi-Agent",
+    "Python",
+    "Task Management",
+    "Automation"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:35+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "huangruiteng",
+    "stars": 4531,
+    "forks": 386,
+    "daily_stars": null,
+    "weekly_stars": 2509,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

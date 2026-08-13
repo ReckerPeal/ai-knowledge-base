@@ -1,0 +1,33 @@
+{
+  "id": "20260813-github-0b23a5b689",
+  "title": "NVIDIA-NeMo/Switchyard",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+  "summary": "NVIDIA-NeMo 推出的 Switchyard 是一个基于 Rust 的高性能 AI 推理网关，旨在为大规模模型部署提供低延迟、高吞吐的请求路由与流量管理能力。该项目在 GitHub 上迅速获得关注，一周内星标增长超过 500，体现了社区对其技术价值的认可。",
+  "content": "Switchyard 是 NVIDIA NeMo 团队开源的一个 AI 推理网关，使用 Rust 语言开发，专注于解决大规模模型推理场景下的性能瓶颈。它提供智能请求路由、动态负载均衡、优雅降级和可观测性等功能，支持多种推理后端（如 Triton、vLLM 等），并可通过声明式配置实现灵活的流量策略。其核心优势在于 Rust 带来的内存安全和并发性能，以及针对 GPU 推理优化的网络层设计。该项目适合需要高吞吐、低延迟的 AI 服务团队，可作为现有推理基础设施的补充或替代方案。",
+  "tags": [
+    "AI推理",
+    "网关",
+    "Rust",
+    "NVIDIA",
+    "高性能",
+    "负载均衡",
+    "大模型"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-13T18:56:30+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA-NeMo",
+    "stars": 1002,
+    "forks": 98,
+    "daily_stars": 421,
+    "weekly_stars": 520,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
