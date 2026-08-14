@@ -1,0 +1,33 @@
+{
+  "id": "20260814-github-2c0ae32bd7",
+  "title": "geekjourneyx/md2wechat-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/geekjourneyx/md2wechat-skill",
+  "summary": "md2wechat-skill 是一个用 Go 编写的命令行工具，可将 Markdown 文档一键排版并发布到微信公众号。它支持超过 40 种排版样式和专业主题，提供 AI 配图、批量发布和多账号管理功能，旨在简化公众号内容发布流程。",
+  "content": "## 项目简介\n\nmd2wechat-skill 是一个基于 Go 语言开发的 CLI 工具，专注于将 Markdown 格式的内容快速转换为适合微信公众号发布的排版，并支持直接发布。该项目在 GitHub 上受到广泛关注，目前已获得 3524 颗星和 402 次 fork，显示出其较高的实用性和社区认可度。\n\n## 核心功能\n\n- **一键排版与发布**：将 Markdown 文件转换为公众号文章格式，并可直接通过命令行发布，省去手动复制粘贴和排版的繁琐步骤。\n- **丰富的排版样式**：内置超过 40 种排版样式和专业主题，满足不同内容风格的需求，提升文章视觉呈现。\n- **AI 配图**：集成 AI 能力，自动为文章生成或推荐配图，增强内容吸引力。\n- **批量发布**：支持同时处理多篇文章，提高内容发布效率，适合内容运营者。\n- **多账号管理**：允许用户配置和管理多个微信公众号账号，方便在不同账号间切换发布。\n\n## 技术亮点\n\n- **Go 语言实现**：利用 Go 的高性能和跨平台特性，提供快速、稳定的命令行体验。\n- **开源社区活跃**：项目在 GitHub 上持续获得关注，每日新增星标数约 18，表明其迭代活跃且用户反馈积极。\n\n## 适用场景\n\n- 技术博客作者、内容创作者需要频繁发布公众号文章。\n- 运营团队需要批量管理多个公众号内容发布。\n- 希望简化排版流程、提升内容生产效率的个人或团队。\n\n## 总结\n\nmd2wechat-skill 通过命令行方式解决了公众号排版和发布的痛点，结合 AI 配图和批量操作，是一款高效实用的开源工具。对于 Go 开发者或内容运营者而言，该项目具有较高的学习和使用价值。",
+  "tags": [
+    "Markdown",
+    "微信公众号",
+    "CLI",
+    "排版工具",
+    "AI配图",
+    "批量发布",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "geekjourneyx",
+    "stars": 3524,
+    "forks": 402,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

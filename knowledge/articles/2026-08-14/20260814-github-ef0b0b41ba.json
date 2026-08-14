@@ -1,0 +1,36 @@
+{
+  "id": "20260814-github-ef0b0b41ba",
+  "title": "fastapi/full-stack-fastapi-template",
+  "source": "github_trending",
+  "source_url": "https://github.com/fastapi/full-stack-fastapi-template",
+  "summary": "fastapi/full-stack-fastapi-template 是一个全栈 Web 应用模板，集成了 FastAPI、React、SQLModel、PostgreSQL、Vite、Tailwind CSS、shadcn/ui、FastAPI Cloud 和 Docker Compose。",
+  "content": "该模板由 FastAPI 官方团队维护，旨在为开发者提供开箱即用的全栈开发起点。后端基于 FastAPI 和 SQLModel，数据库使用 PostgreSQL，前端采用 React 搭配 Vite 构建工具，样式使用 Tailwind CSS 和 shadcn/ui 组件库。项目支持 Docker Compose 一键部署，并集成了 FastAPI Cloud 便于云端发布。模板包含用户认证、API 路由、数据库迁移、前端路由等常见功能，适合快速搭建生产级应用。",
+  "tags": [
+    "FastAPI",
+    "React",
+    "SQLModel",
+    "PostgreSQL",
+    "Vite",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "Docker Compose",
+    "全栈模板",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:22+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "fastapi",
+    "stars": 44851,
+    "forks": 8927,
+    "daily_stars": 51,
+    "weekly_stars": 227,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

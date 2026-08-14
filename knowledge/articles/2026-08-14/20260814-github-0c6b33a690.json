@@ -1,0 +1,33 @@
+{
+  "id": "20260814-github-0c6b33a690",
+  "title": "containers/kubernetes-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/containers/kubernetes-mcp-server",
+  "summary": "kubernetes-mcp-server 是一个用于 Kubernetes 和 OpenShift 的 Model Context Protocol (MCP) 服务器，旨在通过 MCP 协议为 AI 助手提供与 Kubernetes 集群交互的能力。",
+  "content": "## 项目概述\n\nkubernetes-mcp-server 是由 containers 组织开发的一个开源项目，它实现了 Model Context Protocol (MCP) 服务器，专门用于 Kubernetes 和 OpenShift 环境。该项目允许 AI 助手（如 Claude、GPT 等）通过标准化的 MCP 协议与 Kubernetes 集群进行交互，从而简化集群管理和运维操作。\n\n## 核心功能\n\n- **MCP 协议支持**：作为 MCP 服务器，为 AI 模型提供标准化的工具调用接口。\n- **Kubernetes 集成**：支持对 Kubernetes 集群的查询、资源管理、日志获取等操作。\n- **OpenShift 兼容**：额外支持 OpenShift 平台的特有功能。\n- **安全认证**：支持多种 Kubernetes 认证方式，确保集群访问安全。\n\n## 技术栈\n\n- **语言**：Go（Golang），具有高性能和并发优势。\n- **依赖**：使用 Kubernetes 官方客户端库，以及 MCP 相关 SDK。\n\n## 项目热度\n\n- **Stars**：1957\n- **Forks**：414\n- **周增长**：61 stars（截至 2026-08-14）\n\n## 适用场景\n\n- 开发基于 AI 的 Kubernetes 运维助手。\n- 将自然语言查询转换为集群操作。\n- 自动化故障排查和资源优化。\n\n## 总结\n\n该项目是 AI 与云原生基础设施结合的代表性工具，通过 MCP 协议降低了 AI 操作 Kubernetes 的门槛，适合对 AIOps 感兴趣的开发者。",
+  "tags": [
+    "Kubernetes",
+    "MCP",
+    "OpenShift",
+    "AI",
+    "Go",
+    "云原生",
+    "运维"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:39+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "containers",
+    "stars": 1957,
+    "forks": 414,
+    "daily_stars": null,
+    "weekly_stars": 61,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

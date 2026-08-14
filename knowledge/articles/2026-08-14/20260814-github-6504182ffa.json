@@ -1,0 +1,38 @@
+{
+  "id": "20260814-github-6504182ffa",
+  "title": "windmill-labs/windmill",
+  "source": "github_trending",
+  "source_url": "https://github.com/windmill-labs/windmill",
+  "summary": "Windmill 是一个开源开发者平台，旨在将脚本转换为 Webhook、工作流和 UI，以驱动整个基础设施。它号称是比 Airflow 快 13 倍的最快工作流引擎，并作为 Retool 和 Temporal 的开源替代品。",
+  "content": "Windmill 是一个用 Rust 编写的开源开发者平台，旨在简化基础设施的构建和自动化。它允许开发者将简单的脚本（用 Python、TypeScript、Go、Bash 等编写）快速转换为强大的工作流、Webhook 和内部工具 UI。其核心优势在于极高性能的工作流引擎，官方宣称比 Airflow 快 13 倍，这得益于 Rust 的底层实现和优化的执行模型。Windmill 定位为 Retool（低代码内部工具）和 Temporal（工作流编排）的开源替代方案，提供更轻量、更高效的解决方案。它支持自托管，并提供了丰富的集成和 API，适用于构建内部工具、自动化运维、数据处理等场景。该项目在 GitHub 上拥有 17.5k 星标，社区活跃，持续迭代。",
+  "tags": [
+    "开源",
+    "开发者平台",
+    "工作流引擎",
+    "脚本转换",
+    "Webhook",
+    "UI",
+    "Rust",
+    "Airflow替代",
+    "Retool替代",
+    "Temporal替代",
+    "自托管",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "windmill-labs",
+    "stars": 17541,
+    "forks": 1069,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-be5c9968bc",
+  "title": "rivet-dev/actors",
+  "source": "github_trending",
+  "source_url": "https://github.com/rivet-dev/actors",
+  "summary": "Rivet Actors 是用于有状态工作负载的原语，专为 AI 智能体、协作应用和持久执行而构建。该项目由 rivet-dev 开发，使用 Rust 语言编写，目前在 GitHub 上已获得 6034 颗星，周增长 207 颗星，属于热门 Rust 项目。",
+  "content": "Rivet Actors 是一个面向有状态工作负载的编程原语，旨在简化 AI 智能体、协作应用和持久执行场景的开发。它提供了一种抽象，使得开发者能够轻松管理状态、处理并发和保证执行可靠性。该项目基于 Rust 实现，强调性能和安全性。其核心价值在于为现代分布式应用提供一种轻量级、可扩展的 actor 模型，特别适合需要长时间运行或有状态交互的 AI 应用。当前项目处于活跃开发阶段，社区关注度较高。",
+  "tags": [
+    "Rust",
+    "AI",
+    "actor-model",
+    "stateful-workloads",
+    "durable-execution",
+    "collaborative-apps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rivet-dev",
+    "stars": 6034,
+    "forks": 215,
+    "daily_stars": null,
+    "weekly_stars": 207,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

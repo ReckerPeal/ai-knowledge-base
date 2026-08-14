@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-740d68ba60",
+  "title": "waditu/czsc",
+  "source": "github_trending",
+  "source_url": "https://github.com/waditu/czsc",
+  "summary": "waditu/czsc 是一个基于缠中说禅理论的量化交易技术分析工具，支持股票和期货市场，使用 Rust 语言开发，在 GitHub 上拥有 5829 星标。",
+  "content": "## 项目概述\nczsc 是 waditu 开发的一个技术分析工具，核心实现缠中说禅（缠论）理论，用于股票和期货市场的量化交易分析。项目使用 Rust 编写，具备高性能和安全性。\n\n## 核心功能\n- **缠论分析**：实现缠论中的分型、笔、线段、中枢等核心概念，辅助识别市场趋势和买卖点。\n- **量化交易支持**：提供技术指标计算和信号生成，便于量化策略开发。\n- **多市场适用**：支持股票和期货等金融产品。\n\n## 技术特点\n- 使用 Rust 语言，性能优越，内存安全。\n- 模块化设计，易于扩展和集成。\n- 提供 API 接口，方便开发者调用。\n\n## 社区与热度\n- 在 GitHub 上获得 5829 星标和 1675 次 fork，近期日增 50 星，周增 126 星，热度较高。\n- 适合对缠论感兴趣的量化交易者和开发者。",
+  "tags": [
+    "缠论",
+    "技术分析",
+    "量化交易",
+    "Rust",
+    "股票",
+    "期货"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "waditu",
+    "stars": 5829,
+    "forks": 1675,
+    "daily_stars": 50,
+    "weekly_stars": 126,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

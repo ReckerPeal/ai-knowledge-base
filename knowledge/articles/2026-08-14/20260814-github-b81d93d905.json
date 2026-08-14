@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-b81d93d905",
+  "title": "CodebuffAI/freebuff",
+  "source": "github_trending",
+  "source_url": "https://github.com/CodebuffAI/freebuff",
+  "summary": "freebuff 是一个由 CodebuffAI 开发的开源免费编码代理项目，旨在提供自主的代码生成与编辑能力。该项目基于 TypeScript 构建，在 GitHub 上已获得超过 9200 颗星，近期增长迅速，周增星数达 681，显示出社区的高度关注。",
+  "content": "freebuff 是一个开源的免费编码代理（coding agent），它能够自主地理解代码库、生成代码、编辑文件并执行命令，帮助开发者自动化日常编码任务。该项目使用 TypeScript 编写，强调轻量级和易用性，适合集成到现有开发工作流中。其核心功能包括：\n- 自主代码生成：根据自然语言指令生成代码片段或完整函数。\n- 代码编辑：自动修改现有代码，支持重构和 bug 修复。\n- 命令执行：在沙盒环境中运行测试或构建命令，验证代码正确性。\n- 多语言支持：虽然项目本身是 TypeScript，但生成的代码支持多种编程语言。\n\n该项目在 GitHub 上表现活跃，拥有 9263 颗星和 1068 个 fork，周增星数 681，表明其受欢迎程度和社区贡献度。对于开发者而言，freebuff 可以作为 AI 辅助编程的免费替代方案，尤其适合希望自动化重复性任务或快速原型开发的场景。",
+  "tags": [
+    "AI编码代理",
+    "代码生成",
+    "开源",
+    "TypeScript",
+    "开发者工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:34+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "CodebuffAI",
+    "stars": 9263,
+    "forks": 1068,
+    "daily_stars": null,
+    "weekly_stars": 681,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

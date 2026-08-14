@@ -1,0 +1,31 @@
+{
+  "id": "20260814-github-199faaeb25",
+  "title": "Agent-Field/pr-af",
+  "source": "github_trending",
+  "source_url": "https://github.com/Agent-Field/pr-af",
+  "summary": "pr-af 是一个开源的代码审查工具，在 Code-Review-Bench 基准测试中排名第一。它基于 Go 语言开发，旨在提供高效、准确的代码审查服务。该项目在 GitHub 上受到广泛关注，拥有 538 颗星和 57 个 fork，近期每日新增星标约 19 颗，显示出强劲的增长势头。",
+  "content": "## 项目概述\n\n**pr-af** 是一个由 Agent-Field 团队开发的开源代码审查工具，专注于提升代码审查的自动化水平和准确性。它在 Code-Review-Bench 基准测试中取得了第一名的成绩，表明其在代码审查任务上的表现优于其他开源工具。\n\n## 技术特点\n\n- **语言**: 使用 Go 语言编写，具备高性能和并发处理能力，适合处理大规模代码库。\n- **核心功能**: 自动分析代码变更，识别潜在问题，提供改进建议，帮助开发者提高代码质量。\n- **基准表现**: 在 Code-Review-Bench 上排名第一，该基准测试评估代码审查工具在真实场景下的效果，包括缺陷检测、风格一致性等。\n\n## 社区与热度\n\n- **星标数**: 538（截至收集日期），每日增长约 19 颗，表明社区关注度持续上升。\n- **Fork 数**: 57，说明有开发者基于此项目进行二次开发或贡献。\n- **分类**: 属于 GitHub 热点项目中的 Go 语言类别，反映了其在开发者社区中的影响力。\n\n## 应用场景\n\n- 适用于个人开发者或团队在代码合并前进行自动化审查，减少人工审查负担。\n- 可集成到 CI/CD 流程中，实现代码质量的持续监控。\n- 对于开源项目维护者，可作为辅助工具提升代码审查效率。\n\n## 总结\n\npr-af 凭借其出色的基准表现和活跃的社区支持，成为代码审查领域值得关注的开源项目。其 Go 语言实现保证了性能，而开源许可允许广泛使用和定制。",
+  "tags": [
+    "代码审查",
+    "Go",
+    "开源工具",
+    "Code-Review-Bench",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Agent-Field",
+    "stars": 538,
+    "forks": 57,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

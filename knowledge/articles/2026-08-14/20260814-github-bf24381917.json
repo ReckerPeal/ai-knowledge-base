@@ -1,0 +1,33 @@
+{
+  "id": "20260814-github-bf24381917",
+  "title": "astaxie/TokenHub",
+  "source": "github_trending",
+  "source_url": "https://github.com/astaxie/TokenHub",
+  "summary": "TokenHub 是一个面向企业的私有 AI 网关，用于统一 AI 模型访问和治理，确保每个请求可控、可追踪、可归因。",
+  "content": "TokenHub 是一个开源项目，旨在为企业提供统一的 AI 模型访问和治理网关。它允许企业通过私有网关管理对多个 AI 模型的调用，实现请求级别的控制、追踪和归因。该项目的核心功能包括：\n- 统一模型接入：支持多种 AI 模型，提供统一的 API 接口。\n- 访问控制：基于 Token 的认证和授权，确保只有授权用户可调用。\n- 可观测性：记录每个请求的详细日志，便于追踪和审计。\n- 治理能力：支持配额管理、速率限制、成本控制等。\n- 安全合规：满足企业对数据隐私和合规性的要求。\n项目使用 Go 语言开发，具有高性能和易部署的特点。当前在 GitHub 上获得 1061 星，近期增长迅速（日增 56 星），表明社区关注度较高。",
+  "tags": [
+    "AI网关",
+    "模型治理",
+    "企业级",
+    "Go",
+    "开源",
+    "可观测性",
+    "访问控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "astaxie",
+    "stars": 1061,
+    "forks": 127,
+    "daily_stars": 56,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

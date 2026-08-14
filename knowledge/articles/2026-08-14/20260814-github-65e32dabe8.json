@@ -1,0 +1,33 @@
+{
+  "id": "20260814-github-65e32dabe8",
+  "title": "vllm-project/vllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "summary": "vLLM 是一个专为大型语言模型（LLMs）设计的高吞吐量、内存高效的推理与服务引擎。它通过先进的技术（如 PagedAttention）优化内存管理，显著提升推理性能，并支持多种主流模型架构，广泛应用于生产环境中的 LLM 部署。",
+  "content": "vLLM 是一个开源的 LLM 推理与服务引擎，旨在解决大模型部署中的吞吐量和内存瓶颈问题。其核心创新包括：\n- **PagedAttention**：一种基于分页的内存管理机制，类似操作系统虚拟内存，能有效减少 KV 缓存的内存浪费，支持更高并发。\n- **连续批处理**：动态调度请求，提高 GPU 利用率。\n- **模型兼容性**：支持 Hugging Face 上的主流模型（如 Llama、Mistral、Qwen 等），并提供与 OpenAI API 兼容的接口。\n- **高性能**：在吞吐量上比传统推理框架（如 Hugging Face Transformers）有数倍提升，同时保持低延迟。\n- **易用性**：提供 Python API 和 CLI，可快速部署为本地或云端服务。\n\n该项目在 GitHub 上拥有 89k+ stars，社区活跃，是当前 LLM 推理领域最受关注的项目之一。",
+  "tags": [
+    "LLM",
+    "推理引擎",
+    "高吞吐量",
+    "内存优化",
+    "PagedAttention",
+    "模型服务",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-14T18:52:19+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 89040,
+    "forks": 20676,
+    "daily_stars": 96,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
