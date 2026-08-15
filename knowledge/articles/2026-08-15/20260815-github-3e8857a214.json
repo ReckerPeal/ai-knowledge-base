@@ -1,0 +1,32 @@
+{
+  "id": "20260815-github-3e8857a214",
+  "title": "cloudflare/computer",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/computer",
+  "summary": "cloudflare/computer 是一个为 AI 代理提供计算机操作能力的开源项目，旨在让代理能够像人类一样使用计算机。",
+  "content": "## 项目概述\ncloudflare/computer 是 Cloudflare 推出的一个开源项目，旨在为 AI 代理（agent）提供计算机操作能力，使其能够像人类一样使用计算机。该项目在 GitHub 上迅速走红，目前拥有 8180 颗星，449 个 fork，周增长 2856 颗星，显示出极高的社区关注度。\n\n## 核心功能\n- **代理计算机操作**：为 AI 代理提供底层的计算机接口，使其能够执行诸如点击、输入、浏览等操作。\n- **云端集成**：基于 Cloudflare 的云基础设施，可能提供远程计算或浏览器自动化能力。\n- **开发者友好**：使用 TypeScript 编写，提供清晰的 API 和文档，方便开发者集成到自己的 AI 应用中。\n\n## 技术亮点\n- **语言**：TypeScript，类型安全，适合大型项目。\n- **架构**：可能采用浏览器自动化或虚拟桌面技术，具体实现细节需查看仓库。\n- **生态**：与 Cloudflare Workers、Pages 等产品可能深度集成，降低部署门槛。\n\n## 应用场景\n- **AI 助手**：让聊天机器人能够执行实际任务，如预订、填写表单。\n- **自动化测试**：模拟用户操作进行端到端测试。\n- **数据采集**：自动化浏览网页并提取信息。\n\n## 社区反响\n项目在 GitHub 上获得大量关注，周增长近 3000 星，表明开发者对 AI 代理落地应用的强烈兴趣。Cloudflare 的背书也增加了项目的可信度。\n\n## 总结\ncloudflare/computer 是一个极具潜力的项目，它填补了 AI 代理与真实计算机操作之间的空白，有望推动 AI 应用从对话走向行动。对于开发者而言，这是一个值得关注和尝试的开源工具。",
+  "tags": [
+    "AI代理",
+    "计算机操作",
+    "TypeScript",
+    "Cloudflare",
+    "自动化",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:16:09+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 8180,
+    "forks": 449,
+    "daily_stars": null,
+    "weekly_stars": 2856,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

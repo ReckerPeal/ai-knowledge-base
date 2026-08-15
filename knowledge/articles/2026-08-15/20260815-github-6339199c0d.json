@@ -1,0 +1,36 @@
+{
+  "id": "20260815-github-6339199c0d",
+  "title": "ilya-zlobintsev/LACT",
+  "source": "github_trending",
+  "source_url": "https://github.com/ilya-zlobintsev/LACT",
+  "summary": "LACT 是一个用 Rust 编写的 Linux GPU 配置和监控工具，支持 AMD、Intel 和 NVIDIA GPU，提供图形界面和命令行接口，允许用户调整风扇曲线、功耗限制、超频等参数，并实时监控 GPU 状态。",
+  "content": "LACT（Linux GPU Configuration And Monitoring Tool）是一个专为 Linux 系统设计的 GPU 管理工具，采用 Rust 语言开发，以其安全性和高性能著称。该工具支持 AMD、Intel 和 NVIDIA 三大主流 GPU 品牌，提供了图形用户界面（GUI）和命令行接口（CLI）两种交互方式，方便不同用户群体的使用。\n\n主要功能包括：\n- 实时监控 GPU 温度、核心频率、显存使用率、功耗等关键指标。\n- 调整风扇曲线，实现更精细的散热控制。\n- 设置功耗限制（TDP）和超频参数，满足性能调优需求。\n- 支持查看 GPU 的详细信息，如驱动版本、PCIe 状态等。\n\nLACT 在 GitHub 上已获得 5398 颗星和 140 个 fork，日增星 54 颗，显示出较高的社区关注度和活跃度。其采用 Rust 语言，保证了内存安全和运行效率，适合对系统稳定性和性能有要求的 Linux 用户。\n\n该工具特别适合 Linux 游戏玩家、内容创作者以及需要深度调优 GPU 的开发者，填补了 Linux 平台上 GPU 管理工具相对匮乏的空白。",
+  "tags": [
+    "Linux",
+    "GPU",
+    "监控",
+    "配置",
+    "Rust",
+    "AMD",
+    "Intel",
+    "NVIDIA",
+    "超频",
+    "风扇控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:16:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ilya-zlobintsev",
+    "stars": 5398,
+    "forks": 140,
+    "daily_stars": 54,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

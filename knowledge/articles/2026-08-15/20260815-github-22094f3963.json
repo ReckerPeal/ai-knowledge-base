@@ -1,0 +1,34 @@
+{
+  "id": "20260815-github-22094f3963",
+  "title": "volcengine/OpenViking",
+  "source": "github_trending",
+  "source_url": "https://github.com/volcengine/OpenViking",
+  "summary": "OpenViking 是字节跳动开源的自进化上下文数据库，专为 AI 智能体设计，统一了智能体记忆、知识 RAG 和技能管理。",
+  "content": "OpenViking 是一个面向 AI 智能体的自进化上下文数据库，旨在解决智能体在长期运行中遇到的记忆、知识检索和技能复用问题。它通过统一智能体记忆、知识 RAG 和技能管理，使智能体能够动态学习和适应，提升任务执行的准确性和效率。该项目由字节跳动（volcengine）开发，采用 Python 编写，目前在 GitHub 上已获得超过 2.8 万星标，显示出较高的社区关注度。其核心特性包括：\n- 自进化机制：数据库能够根据智能体的交互历史自动优化存储和检索策略。\n- 统一记忆：将短期和长期记忆整合，支持跨会话的上下文保持。\n- 知识 RAG：集成检索增强生成，提供精准的知识查询。\n- 技能管理：支持动态注册和调用技能，增强智能体的能力边界。\n该项目适合开发者构建复杂的 AI 智能体应用，尤其适用于需要持久化上下文和持续学习的场景。",
+  "tags": [
+    "AI Agent",
+    "上下文数据库",
+    "RAG",
+    "记忆管理",
+    "技能管理",
+    "自进化",
+    "字节跳动",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:15:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "volcengine",
+    "stars": 28469,
+    "forks": 2252,
+    "daily_stars": 64,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

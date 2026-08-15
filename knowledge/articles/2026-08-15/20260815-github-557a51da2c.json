@@ -1,0 +1,33 @@
+{
+  "id": "20260815-github-557a51da2c",
+  "title": "portainer/portainer",
+  "source": "github_trending",
+  "source_url": "https://github.com/portainer/portainer",
+  "summary": "Portainer 是一个轻量级的管理工具，旨在简化 Docker 和 Kubernetes 环境的管理。它提供了直观的 Web UI，使用户能够轻松部署、监控和运维容器化应用，无需深入掌握底层命令行工具。该项目在 GitHub 上拥有超过 38k 星标，是容器管理领域的热门开源项目。",
+  "content": "Portainer 是一个开源的容器管理平台，其核心目标是降低 Docker 和 Kubernetes 的使用门槛。它通过一个简洁的 Web 界面，让用户能够管理容器、镜像、网络、卷等资源，并支持多集群管理。Portainer 支持 Docker Swarm 和 Kubernetes，提供应用模板、用户权限管理、日志查看等功能。其架构分为服务器端和代理端，代理端可部署在远程节点上，实现集中管理。该项目使用 TypeScript 开发，前端基于 Angular，后端基于 Go，具有高度的可扩展性和社区活跃度。对于开发者和运维人员而言，Portainer 是简化容器运维的实用工具。",
+  "tags": [
+    "Docker",
+    "Kubernetes",
+    "容器管理",
+    "DevOps",
+    "Web UI",
+    "开源",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:16:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "portainer",
+    "stars": 38249,
+    "forks": 2876,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

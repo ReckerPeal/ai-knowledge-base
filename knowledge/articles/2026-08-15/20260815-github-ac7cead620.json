@@ -1,0 +1,32 @@
+{
+  "id": "20260815-github-ac7cead620",
+  "title": "newton-physics/newton",
+  "source": "github_trending",
+  "source_url": "https://github.com/newton-physics/newton",
+  "summary": "newton-physics/newton 是一个开源的、基于 NVIDIA Warp 构建的 GPU 加速物理仿真引擎，主要面向机器人学家和仿真研究人员。该仓库在 GitHub 上受到广泛关注，拥有 5381 颗星和 637 个 fork，近期每日新增星标约 13 颗，显示出持续的热度。",
+  "content": "## 项目概述\n\n**newton-physics/newton** 是一个专为机器人学和仿真研究设计的开源物理引擎，利用 NVIDIA Warp 实现 GPU 加速，能够高效处理复杂的物理仿真任务。该项目旨在为研究人员和开发者提供高性能、易用的仿真工具，支持大规模并行计算，适用于机器人运动学、动力学、碰撞检测等场景。\n\n## 技术特点\n\n- **GPU 加速**：基于 NVIDIA Warp，充分利用 GPU 并行计算能力，显著提升仿真速度。\n- **面向机器人学**：针对机器人仿真需求优化，支持关节、约束、传感器等常见元素。\n- **开源与可扩展**：代码开源，社区驱动，便于定制和扩展。\n\n## 社区与热度\n\n- **星标数**：5381，说明项目受到广泛认可。\n- **Fork 数**：637，表明有较多开发者参与或基于此项目二次开发。\n- **每日新增星标**：13，显示项目仍在持续吸引关注。\n\n## 适用场景\n\n- 机器人算法验证与测试\n- 物理仿真研究\n- 教育与学术研究\n\n## 总结\n\nnewton-physics/newton 是一个高性能、面向机器人领域的物理仿真引擎，凭借 GPU 加速和开源特性，有望成为机器人仿真领域的重要工具。",
+  "tags": [
+    "物理仿真",
+    "GPU加速",
+    "机器人学",
+    "NVIDIA Warp",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:15:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "newton-physics",
+    "stars": 5381,
+    "forks": 637,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

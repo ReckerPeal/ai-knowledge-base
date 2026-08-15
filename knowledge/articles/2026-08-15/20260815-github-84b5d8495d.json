@@ -1,0 +1,32 @@
+{
+  "id": "20260815-github-84b5d8495d",
+  "title": "google/osv-scanner",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/osv-scanner",
+  "summary": "osv-scanner 是 Google 开源的一款用 Go 编写的漏洞扫描器，它利用 osv.dev 提供的数据来检测项目依赖中的已知漏洞。",
+  "content": "osv-scanner 是 Google 开发的一款开源漏洞扫描工具，使用 Go 语言编写。它通过调用 osv.dev 的漏洞数据库，能够扫描项目依赖（如 Go modules、npm packages、Maven 依赖等）并报告其中存在的已知安全漏洞。该工具旨在为开发者提供快速、准确的依赖安全检测，帮助在开发早期发现并修复漏洞。其特点包括：支持多种生态系统的锁文件解析、与 CI/CD 集成、提供清晰的漏洞报告等。项目在 GitHub 上拥有超过 1 万星标，社区活跃，是依赖安全领域的重要工具。",
+  "tags": [
+    "漏洞扫描",
+    "安全",
+    "Go",
+    "依赖管理",
+    "osv.dev",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-15T18:16:14+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 10835,
+    "forks": 755,
+    "daily_stars": null,
+    "weekly_stars": 71,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
