@@ -1,0 +1,33 @@
+{
+  "id": "20260816-github-b01a8b2e6b",
+  "title": "denoland/celld",
+  "source": "github_trending",
+  "source_url": "https://github.com/denoland/celld",
+  "summary": "celld 是 Deno 团队推出的自托管、分布式 Durable Objects 实现，基于 Rust 构建，旨在为边缘计算和分布式应用提供持久化、可靠的状态管理能力。",
+  "content": "celld 是 Deno 团队（denoland）开发的一个开源项目，其核心定位是“self-hosted, distributed Durable Objects”，即自托管、分布式的持久化对象系统。该项目使用 Rust 语言编写，目前已在 GitHub 上获得 3703 颗星，周增长 1249 颗，显示出较高的社区关注度。\n\nDurable Objects 是一种将状态与逻辑绑定在一起的计算模型，最初由 Cloudflare 提出，用于在边缘节点上实现强一致性和持久化状态。celld 的目标是让开发者能够自托管这一模型，从而在自有基础设施上构建分布式应用，而无需依赖特定云厂商。\n\n该项目的主要特点包括：\n- 分布式架构：支持多节点部署，实现状态的高可用和水平扩展。\n- 持久化：对象状态持久化存储，确保重启后数据不丢失。\n- 自托管：用户可完全掌控部署环境，适合对数据主权和合规性有要求的场景。\n- Rust 实现：利用 Rust 的高性能和内存安全特性，提供稳定的运行时。\n\ncelld 的出现填补了自托管 Durable Objects 领域的空白，为边缘计算、实时协作、物联网等场景提供了新的基础设施选择。其代码库和文档仍在积极迭代中，适合对分布式系统感兴趣的开发者关注和贡献。",
+  "tags": [
+    "Rust",
+    "分布式系统",
+    "Durable Objects",
+    "自托管",
+    "边缘计算",
+    "持久化状态",
+    "Deno"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:16:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "denoland",
+    "stars": 3703,
+    "forks": 116,
+    "daily_stars": null,
+    "weekly_stars": 1249,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

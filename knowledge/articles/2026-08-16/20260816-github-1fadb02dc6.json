@@ -1,0 +1,33 @@
+{
+  "id": "20260816-github-1fadb02dc6",
+  "title": "coder/code-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/coder/code-server",
+  "summary": "code-server 是一个将 Visual Studio Code 运行在浏览器中的开源项目，允许用户通过浏览器访问完整的 VS Code 开发环境，支持远程开发、云端 IDE 等场景。",
+  "content": "code-server 是 coder 团队开发的开源工具，它基于 VS Code 的 Web 技术栈，将 VS Code 的完整功能封装为 Web 应用。用户只需在服务器上部署 code-server，即可通过浏览器访问开发环境，无需在本地安装 VS Code。该项目支持代码编辑、调试、终端、扩展安装等核心功能，并可通过 HTTPS 或自定义域名进行安全访问。它特别适合远程开发、云端开发、容器化开发等场景，也常用于教育、团队协作或临时开发环境。项目使用 TypeScript 编写，拥有近 7.9 万 Star，社区活跃，持续更新。",
+  "tags": [
+    "code-server",
+    "VS Code",
+    "浏览器IDE",
+    "远程开发",
+    "云端开发",
+    "TypeScript",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:59+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "coder",
+    "stars": 78868,
+    "forks": 6804,
+    "daily_stars": null,
+    "weekly_stars": 201,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

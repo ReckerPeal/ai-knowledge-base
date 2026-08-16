@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-f80afe6c01",
+  "title": "cachix/devenv",
+  "source": "github_trending",
+  "source_url": "https://github.com/cachix/devenv",
+  "summary": "devenv 是一个基于 Nix 的开发者环境管理工具，提供快速、声明式、可复现且可组合的开发环境配置。",
+  "content": "devenv 由 Cachix 团队开发，使用 Rust 编写，旨在简化 Nix 在开发环境中的使用。它允许开发者通过声明式配置（如 devenv.nix）定义项目所需的工具、服务、环境变量等，并自动生成可复现的开发环境。其核心优势包括：1）快速启动，利用 Nix 的缓存和惰性求值；2）可复现性，确保团队和 CI 环境一致；3）可组合性，支持模块化配置和复用。该项目在 GitHub 上拥有 7311 星，近期周增 75 星，受到开发者社区广泛关注。",
+  "tags": [
+    "Nix",
+    "开发者环境",
+    "声明式配置",
+    "Rust",
+    "开发工具",
+    "可复现构建"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:16:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "cachix",
+    "stars": 7311,
+    "forks": 542,
+    "daily_stars": null,
+    "weekly_stars": 75,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

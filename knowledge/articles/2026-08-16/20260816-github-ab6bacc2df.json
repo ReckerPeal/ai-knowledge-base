@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-ab6bacc2df",
+  "title": "cactus-compute/needle",
+  "source": "github_trending",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "summary": "cactus-compute/needle 是一个面向微型设备（如手机、可穿戴设备、智能家居和机器人）的14MB基础模型，旨在将AI能力部署到资源受限的边缘设备上。该项目在GitHub上表现活跃，短期内获得大量关注。",
+  "content": "## 项目概述\n\n**needle** 是由 cactus-compute 开发的一个轻量级基础模型，模型大小仅为14MB，专为微型设备设计，包括手机、可穿戴设备、智能家居和机器人等。其核心目标是让AI推理在资源受限的环境中高效运行，同时保持合理的性能。\n\n## 技术特点\n\n- **超轻量级**：14MB的模型体积，远小于传统大模型，适合嵌入式部署。\n- **广泛适用性**：覆盖多种微型设备场景，从移动端到物联网设备。\n- **高效推理**：针对低功耗、低内存环境优化，可能采用量化、剪枝或知识蒸馏等技术。\n\n## 项目热度\n\n- **Stars**: 6234（日增547，周增2488），增长迅速，表明社区关注度高。\n- **Forks**: 415，说明有一定数量的开发者参与二次开发。\n- **语言**: Python，便于研究和集成。\n\n## 潜在应用\n\n- 端侧AI助手（手机、手表）\n- 智能家居设备（语音控制、场景识别）\n- 机器人本地决策（避开障碍、目标识别）\n\n## 总结\n\nneedle 项目代表了AI模型小型化的前沿趋势，为微型设备提供可行的AI解决方案，具有较高的研究价值和应用潜力。",
+  "tags": [
+    "基础模型",
+    "微型设备",
+    "边缘计算",
+    "轻量级AI",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "cactus-compute",
+    "stars": 6234,
+    "forks": 415,
+    "daily_stars": 547,
+    "weekly_stars": 2488,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

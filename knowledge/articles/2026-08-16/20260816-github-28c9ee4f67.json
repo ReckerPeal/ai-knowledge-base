@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-28c9ee4f67",
+  "title": "megadose/holehe",
+  "source": "github_trending",
+  "source_url": "https://github.com/megadose/holehe",
+  "summary": "holehe 是一个开源工具，用于检查邮箱地址是否在 Twitter、Instagram 等网站上注册，并能通过“忘记密码”功能获取相关信息。",
+  "content": "holehe 是一个基于 Python 的开源工具，旨在帮助用户检测某个邮箱地址是否在多个在线平台上注册过。它通过模拟“忘记密码”流程，向目标网站发送请求，并根据响应判断邮箱是否存在于该平台。该工具支持包括 Twitter、Instagram 在内的众多网站，并能够提取与邮箱关联的账户信息。项目在 GitHub 上拥有超过 13k 星标，近期热度显著上升，表明其在隐私保护、账户安全审计和 OSINT（开源情报）领域具有较高价值。",
+  "tags": [
+    "邮箱检测",
+    "OSINT",
+    "隐私保护",
+    "账户安全",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "megadose",
+    "stars": 13207,
+    "forks": 1750,
+    "daily_stars": 382,
+    "weekly_stars": 1059,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

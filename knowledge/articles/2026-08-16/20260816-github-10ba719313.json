@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-10ba719313",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "summary": "Anthropics 官方发布的 Agent Skills 公共仓库，用于存储和共享智能体技能（Agent Skills）的定义、实现与最佳实践。该仓库旨在为 AI 智能体提供可复用的技能模块，支持开发者构建更强大的自主代理应用。",
+  "content": "该仓库是 Anthropic 公司公开的 Agent Skills 资源库，集中存放用于增强 AI 智能体能力的技能定义、示例代码和文档。Agent Skills 是一种可组合的模块化能力，允许智能体在运行时动态加载特定技能（如代码执行、网络搜索、文件操作等），从而扩展其功能边界。仓库结构清晰，包含多种技能的实现示例，并提供了详细的集成指南，帮助开发者快速将技能嵌入到基于 Claude 或其他模型的智能体系统中。该项目在 GitHub 上获得超过 16.9 万星标，周增长约 2682 星，反映出社区对标准化智能体技能生态的高度关注。",
+  "tags": [
+    "Agent Skills",
+    "Anthropic",
+    "AI 智能体",
+    "技能库",
+    "Claude",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:56+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 169617,
+    "forks": 20194,
+    "daily_stars": null,
+    "weekly_stars": 2682,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260816-github-08d65a3396",
+  "title": "superradcompany/microsandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/superradcompany/microsandbox",
+  "summary": "microsandbox 是一个基于 Rust 的轻量级、本地优先的 microVM 运行时和库，旨在提供快速、易用的沙箱环境。",
+  "content": "microsandbox 是一个开源的 microVM 运行时和库，采用 Rust 语言编写，强调易用性、速度和本地优先的设计理念。它允许开发者以极低的开销创建和管理轻量级虚拟机，适用于需要隔离环境的应用场景，如代码执行、依赖隔离、安全测试等。该项目在 GitHub 上受到广泛关注，当前已获得 7541 颗星，近期增长迅速（日增 32 星，周增 339 星），表明其社区活跃度和认可度较高。microsandbox 的核心优势在于其本地优先的特性，意味着它可以在本地环境中快速启动和运行，无需依赖云服务，适合开发者和边缘计算场景。作为 Rust 项目，它继承了 Rust 的内存安全和高性能特点，为系统级沙箱提供了可靠的基础。该项目由 superradcompany 维护，目前处于活跃开发阶段，适合对轻量级虚拟化、安全隔离感兴趣的开发者关注和贡献。",
+  "tags": [
+    "microVM",
+    "Rust",
+    "沙箱",
+    "本地优先",
+    "运行时",
+    "轻量级虚拟化",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "superradcompany",
+    "stars": 7541,
+    "forks": 401,
+    "daily_stars": 32,
+    "weekly_stars": 339,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

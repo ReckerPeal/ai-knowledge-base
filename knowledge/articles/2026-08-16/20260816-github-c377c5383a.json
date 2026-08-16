@@ -1,0 +1,34 @@
+{
+  "id": "20260816-github-c377c5383a",
+  "title": "compozy/compozy",
+  "source": "github_trending",
+  "source_url": "https://github.com/compozy/compozy",
+  "summary": "compozy 是一个面向 AI 代理的操作系统，允许用户将现有的代理 CLI（如 Claude Code、Codex、Gemini CLI、Cursor）插入其中，使它们组成一个团队，协同工作、分配任务、自动化运行作业和循环，并共享项目记忆，用户可通过浏览器进行全局控制。",
+  "content": "## 项目概述\n\ncompozy 是一个创新的开源项目，旨在为 AI 代理提供一个统一的操作系统层。它通过插件化架构，将多个独立的 AI 代理 CLI 集成到一个协作环境中，使它们能够像团队一样高效运作。\n\n## 核心功能\n\n- **代理集成**：支持接入 Claude Code、Codex、Gemini CLI、Cursor 等主流代理 CLI。\n- **任务协作**：代理之间可以自动拆分工作、互相传递任务，形成流水线。\n- **自动化执行**：支持在作业和循环上运行自动化任务，减少人工干预。\n- **共享记忆**：所有代理共享一个项目记忆，确保上下文一致性和知识复用。\n- **浏览器控制**：用户通过浏览器界面即可全面掌控所有代理的活动。\n\n## 技术特点\n\n- **语言**：使用 Go 语言开发，具备高性能和并发优势。\n- **架构**：插件化设计，易于扩展新的代理 CLI。\n- **生态**：与现有 AI 开发工具链无缝衔接，降低迁移成本。\n\n## 应用场景\n\n- 复杂项目的多代理协同开发\n- 自动化代码审查与测试\n- 持续集成中的智能任务分配\n- 团队知识管理与共享\n\n## 项目状态\n\n该项目在 GitHub 上表现活跃，已获得 2582 颗星，150 个 fork，近期每日新增约 9 颗星，显示出社区的高度关注。",
+  "tags": [
+    "AI代理",
+    "操作系统",
+    "协作",
+    "Go",
+    "自动化",
+    "CLI",
+    "多代理",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "compozy",
+    "stars": 2582,
+    "forks": 150,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

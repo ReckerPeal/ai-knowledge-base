@@ -1,0 +1,33 @@
+{
+  "id": "20260816-github-726825b5c8",
+  "title": "kubescape/kubescape",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubescape/kubescape",
+  "summary": "Kubescape 是一个开源的 Kubernetes 安全平台，支持 IDE、CI/CD 流水线和集群环境，提供风险分析、安全、合规和错误配置扫描功能，帮助 Kubernetes 用户和管理员节省时间、精力和资源。",
+  "content": "Kubescape 是一个开源的 Kubernetes 安全平台，旨在为 Kubernetes 用户和管理员提供全面的安全防护。它集成了风险分析、安全扫描、合规性检查和错误配置检测等功能，覆盖了从开发到生产的整个生命周期。\n\n主要特点包括：\n- **多环境支持**：可在 IDE、CI/CD 流水线和 Kubernetes 集群中运行，实现安全左移和持续监控。\n- **风险分析**：识别潜在的安全风险，如漏洞、权限配置不当等。\n- **安全扫描**：基于安全基准（如 NSA、CIS）进行扫描，发现不符合安全策略的配置。\n- **合规性检查**：支持多种合规标准（如 SOC 2、PCI DSS、HIPAA 等），帮助用户满足监管要求。\n- **错误配置检测**：检测 Kubernetes 资源中的错误配置，如资源限制缺失、特权容器等。\n\nKubescape 使用 Go 语言开发，拥有活跃的社区和较高的 GitHub 星标（11.6k+），适合各类 Kubernetes 用户采用。",
+  "tags": [
+    "Kubernetes",
+    "安全",
+    "开源",
+    "DevOps",
+    "合规",
+    "扫描",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:16:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubescape",
+    "stars": 11640,
+    "forks": 1006,
+    "daily_stars": null,
+    "weekly_stars": 63,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

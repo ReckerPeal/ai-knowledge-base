@@ -1,0 +1,31 @@
+{
+  "id": "20260816-github-43b9493716",
+  "title": "labstack/echo",
+  "source": "github_trending",
+  "source_url": "https://github.com/labstack/echo",
+  "summary": "Echo 是一个高性能、极简主义的 Go 语言 Web 框架，以其出色的路由性能和简洁的 API 设计而闻名，在 GitHub 上拥有超过 3.2 万星标。",
+  "content": "Echo 是 Go 社区中最受欢迎的 Web 框架之一，由 labstack 团队维护。它专注于高性能和极简设计，提供了丰富的功能特性，包括：\n- **高性能路由**：基于 Radix 树实现，支持参数路由、命名路由和路由分组。\n- **中间件支持**：内置多种常用中间件（如日志、恢复、CORS、JWT 认证等），并支持自定义中间件。\n- **数据绑定与验证**：支持请求数据自动绑定到结构体，并集成验证器。\n- **模板渲染**：支持多种模板引擎，方便构建动态页面。\n- **错误处理**：提供统一的错误处理机制，便于返回自定义错误响应。\n- **API 友好**：简洁的 API 设计，易于上手，适合构建 RESTful API 和微服务。\n\nEcho 在 GitHub 上拥有 32632 颗星和 2354 个 fork，每日新增约 6 颗星，显示出持续的社区关注度。其代码质量高，文档完善，是 Go 开发者构建高性能 Web 服务的首选框架之一。",
+  "tags": [
+    "Go",
+    "Web框架",
+    "高性能",
+    "极简",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:53+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "labstack",
+    "stars": 32632,
+    "forks": 2354,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

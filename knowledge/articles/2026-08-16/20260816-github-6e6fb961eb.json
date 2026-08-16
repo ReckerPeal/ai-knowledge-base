@@ -1,0 +1,31 @@
+{
+  "id": "20260816-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速且节省磁盘空间的包管理器，专为 JavaScript/TypeScript 项目设计。它通过硬链接和符号链接机制，将依赖项存储在全局内容可寻址存储中，从而避免重复下载，显著减少磁盘占用并提升安装速度。",
+  "content": "pnpm 是一个创新的 JavaScript 包管理器，其核心优势在于高效的磁盘空间利用和快速的安装性能。与传统包管理器（如 npm 和 Yarn）不同，pnpm 采用全局内容可寻址存储（Content-Addressable Store），所有依赖包只保存一份副本，并通过硬链接或符号链接在项目间共享，从而避免重复下载和存储。\n\n主要特性：\n- **磁盘空间高效**：同一依赖版本在多个项目中仅存储一次，节省大量磁盘空间。\n- **安装速度快**：通过并行下载和缓存机制，安装速度显著优于 npm 和 Yarn。\n- **严格的依赖隔离**：默认情况下，项目只能访问 package.json 中声明的依赖，避免幽灵依赖问题，提升项目可维护性。\n- **支持 monorepo**：内置工作区（workspace）支持，方便管理多包仓库。\n- **兼容性**：支持 npm 生态，可无缝切换。\n\n该项目在 GitHub 上拥有超过 36k 星标，社区活跃，是前端工程化领域的重要工具。",
+  "tags": [
+    "包管理器",
+    "JavaScript",
+    "前端工具",
+    "磁盘优化",
+    "Monorepo"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-16T18:15:50+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 36104,
+    "forks": 1649,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

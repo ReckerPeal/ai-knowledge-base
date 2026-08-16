@@ -1,0 +1,36 @@
+{
+  "id": "20260816-github-d3d02744ef",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "本文详细介绍了从自有可路由 IPv4 地址块开始，以最困难的方式自托管电子邮件的完整过程。内容涵盖 IP 地址申请、反向 DNS 配置、邮件服务器搭建、SPF/DKIM/DMARC 认证、以及应对垃圾邮件过滤等挑战，适合希望深度掌控邮件基础设施的技术人员。",
+  "content": "本文是一篇深度技术指南，作者以自身经验为基础，详细描述了从零开始自托管电子邮件的全过程，特别强调了使用自有可路由 IPv4 地址块（而非常见的 VPS 或云服务）的复杂性和技术细节。文章首先解释了为何选择自有 IP 块，包括更好的声誉控制和独立性，然后逐步介绍了 IP 地址申请流程（如通过 ARIN/RIPE 等 RIR）、路由配置、以及反向 DNS（PTR 记录）的设置，这是邮件服务器被接受的关键。接着，文章深入讲解了邮件服务器软件的选择（如 Postfix、Dovecot）和配置，包括 SMTP、IMAP/POP3 服务，以及 TLS 加密。为了确保邮件送达率，作者详细阐述了 SPF、DKIM 和 DMARC 三种认证机制的配置方法，并提供了测试和排错技巧。此外，文章还讨论了如何应对常见的垃圾邮件过滤策略，例如 IP 信誉管理、反馈循环（FBL）注册，以及处理黑名单问题。最后，作者分享了长期维护的经验，包括监控、日志分析和安全加固建议。整篇文章技术密度高，适合有 Linux 和网络基础、希望完全掌控邮件服务的读者，但同时也提醒了自托管的高门槛和持续维护成本。",
+  "tags": [
+    "自托管",
+    "电子邮件",
+    "IPv4",
+    "邮件服务器",
+    "Postfix",
+    "Dovecot",
+    "SPF",
+    "DKIM",
+    "DMARC",
+    "反向DNS",
+    "IP信誉",
+    "技术指南"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-08T16:47:00-05:00",
+  "collected_at": "2026-08-16T18:16:04+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
