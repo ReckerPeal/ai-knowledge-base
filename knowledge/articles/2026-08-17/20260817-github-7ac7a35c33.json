@@ -1,0 +1,32 @@
+{
+  "id": "20260817-github-7ac7a35c33",
+  "title": "bytecodealliance/wasmtime",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytecodealliance/wasmtime",
+  "summary": "Wasmtime 是一个轻量级、快速、安全且符合标准的 WebAssembly 运行时，由字节码联盟（Bytecode Alliance）开发，使用 Rust 语言编写。",
+  "content": "Wasmtime 是 Bytecode Alliance 推出的开源 WebAssembly 运行时，旨在提供高性能、安全且符合 WebAssembly 规范的执行环境。它基于 Cranelift 代码生成器，支持 JIT 编译，具有低内存占用和快速启动的特点。Wasmtime 强调安全性，通过沙箱隔离和内存安全保证，适用于边缘计算、插件系统、服务端应用等场景。该项目在 GitHub 上拥有超过 1.8 万星标，社区活跃，是 WebAssembly 系统级运行时的领先实现。",
+  "tags": [
+    "WebAssembly",
+    "Rust",
+    "运行时",
+    "JIT",
+    "沙箱",
+    "Bytecode Alliance"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:03+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "bytecodealliance",
+    "stars": 18526,
+    "forks": 1799,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

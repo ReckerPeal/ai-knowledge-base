@@ -1,0 +1,34 @@
+{
+  "id": "20260817-github-92b46e5fed",
+  "title": "kdlbs/kandev",
+  "source": "github_trending",
+  "source_url": "https://github.com/kdlbs/kandev",
+  "summary": "kandev 是一个基于 AI 的看板与开发环境，用于编排多个 AI 代理，支持代码审查、PR 创建等功能。它支持多提供商、可自托管且无遥测。",
+  "content": "kandev 是一个将 AI 与看板管理相结合的开发环境，旨在提升开发效率。其核心功能包括：\n- **多代理编排**：协调多个 AI 代理协同工作，完成复杂开发任务。\n- **代码审查与 PR 创建**：自动审查代码变更，并可直接创建 Pull Request。\n- **多提供商支持**：兼容多种 AI 服务提供商，灵活适配不同需求。\n- **自托管**：用户可自行部署，保障数据隐私。\n- **无遥测**：不收集用户数据，注重隐私保护。\n\n该项目使用 Go 语言开发，在 GitHub 上已获得 649 颗星，近期增长迅速（周增 84 星），属于 AI 开发工具领域的热门项目。",
+  "tags": [
+    "AI",
+    "看板",
+    "开发环境",
+    "多代理",
+    "代码审查",
+    "PR",
+    "自托管",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kdlbs",
+    "stars": 649,
+    "forks": 93,
+    "daily_stars": null,
+    "weekly_stars": 84,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

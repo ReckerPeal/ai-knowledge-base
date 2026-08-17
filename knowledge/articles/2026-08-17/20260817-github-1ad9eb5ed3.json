@@ -1,0 +1,32 @@
+{
+  "id": "20260817-github-1ad9eb5ed3",
+  "title": "sxyazi/yazi",
+  "source": "github_trending",
+  "source_url": "https://github.com/sxyazi/yazi",
+  "summary": "yazi 是一个基于 Rust 编写、采用异步 I/O 的极速终端文件管理器，凭借卓越性能在 GitHub 上获得 4.1 万星标，成为近期 Rust 生态中的热门项目。",
+  "content": "yazi 是一款用 Rust 语言开发的终端文件管理器，其核心设计目标是提供极致的速度和流畅的交互体验。项目充分利用 Rust 的内存安全特性和异步 I/O 模型，实现了高效的并发文件操作，即使在处理大量文件或远程文件系统时也能保持低延迟响应。yazi 的界面设计现代且可定制，支持多标签页、文件预览、模糊搜索、批量重命名等常用功能，同时提供了丰富的插件接口和主题系统，方便用户根据个人习惯进行深度配置。该项目在 GitHub 上已获得超过 4.1 万星标，日增星约 53 颗，显示出社区的高度认可和活跃的维护状态。对于追求效率的开发者或系统管理员而言，yazi 是一个值得尝试的现代化终端文件管理工具，尤其适合在资源受限或需要远程操作的环境中替代传统文件管理器。",
+  "tags": [
+    "Rust",
+    "终端文件管理器",
+    "异步I/O",
+    "高性能",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:03+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "sxyazi",
+    "stars": 41418,
+    "forks": 984,
+    "daily_stars": 53,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

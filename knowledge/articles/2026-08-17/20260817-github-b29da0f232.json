@@ -1,0 +1,34 @@
+{
+  "id": "20260817-github-b29da0f232",
+  "title": "pranshuparmar/witr",
+  "source": "github_trending",
+  "source_url": "https://github.com/pranshuparmar/witr",
+  "summary": "witr 是一个用 Go 编写的命令行工具，能够追踪任何进程、端口、容器或文件的来源，帮助用户理解系统上正在运行的内容及其启动原因。它提供 CLI 和 TUI 两种界面，便于快速定位问题。",
+  "content": "## 项目概述\n\nwitr（Why is this running?）是一个开源命令行工具，旨在回答“为什么这个在运行？”的问题。它通过追踪进程、端口、容器和文件的启动来源，帮助用户诊断系统状态，尤其适用于排查意外进程、端口占用或容器启动原因。\n\n## 核心功能\n\n- **进程追踪**：显示进程的启动命令、父进程链及环境变量。\n- **端口溯源**：找出占用特定端口的进程及其启动原因。\n- **容器分析**：追踪容器的启动来源和关联进程。\n- **文件关联**：查看文件被哪些进程打开或使用。\n- **双界面**：提供 CLI（命令行）和 TUI（终端界面）两种交互方式，适合不同用户偏好。\n\n## 技术亮点\n\n- **Go 语言实现**：编译为单一二进制，部署简单，性能高效。\n- **跨平台支持**：基于 Go 的跨平台特性，可在 Linux、macOS 等系统上运行。\n- **深度系统集成**：利用系统调用和内核接口获取进程信息，提供准确结果。\n\n## 适用场景\n\n- 系统管理员排查异常进程或端口占用。\n- 开发人员调试容器或服务启动问题。\n- 安全审计中追踪可疑活动的来源。\n\n## 项目状态\n\n该项目在 GitHub 上获得 21.5k 星标，周增约 1.1k，表明社区关注度较高。语言为 Go，属于 GitHub 热点项目。",
+  "tags": [
+    "Go",
+    "CLI",
+    "TUI",
+    "进程追踪",
+    "端口分析",
+    "容器诊断",
+    "系统工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pranshuparmar",
+    "stars": 21503,
+    "forks": 752,
+    "daily_stars": null,
+    "weekly_stars": 1095,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

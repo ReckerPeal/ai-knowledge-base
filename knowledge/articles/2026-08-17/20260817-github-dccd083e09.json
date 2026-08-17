@@ -1,0 +1,36 @@
+{
+  "id": "20260817-github-dccd083e09",
+  "title": "atuinsh/atuin",
+  "source": "github_trending",
+  "source_url": "https://github.com/atuinsh/atuin",
+  "summary": "Atuin 是一个用 Rust 编写的开源工具，旨在让你的 shell 变得更强大、更高效。它通过 SQLite 数据库替换 shell 的历史记录功能，提供跨会话、跨机器的命令历史同步、加密、搜索和统计等功能。该项目在 GitHub 上拥有超过 3.1 万星标，近期热度持续上升，是开发者提升命令行体验的热门选择。",
+  "content": "Atuin 是一个用 Rust 编写的开源工具，旨在让你的 shell 变得更强大、更高效。它通过 SQLite 数据库替换 shell 的历史记录功能，提供跨会话、跨机器的命令历史同步、加密、搜索和统计等功能。该项目在 GitHub 上拥有超过 3.1 万星标，近期热度持续上升，是开发者提升命令行体验的热门选择。\n\n## 核心功能\n- **历史记录增强**：使用 SQLite 存储命令历史，支持模糊搜索、正则搜索、上下文搜索（如目录、会话、主机等）。\n- **跨设备同步**：通过端到端加密将历史记录同步到自托管服务器或 Atuin 云服务，保证隐私安全。\n- **交互式界面**：提供类似 `Ctrl+R` 的交互式搜索界面，支持键盘快捷键和模糊匹配，提升操作效率。\n- **统计与洞察**：分析命令使用频率、常用目录等，帮助用户优化工作流。\n- **多 shell 支持**：支持 bash、zsh、fish、nu 等主流 shell，并可通过插件扩展。\n\n## 技术亮点\n- **Rust 实现**：性能高、内存安全，编译为单一二进制文件，易于安装和分发。\n- **SQLite 存储**：轻量级、无外部依赖，支持高效查询和索引。\n- **加密同步**：使用 AES-256-GCM 加密历史数据，密钥由用户管理，确保数据在传输和存储中的安全。\n- **插件系统**：允许用户编写自定义命令和集成，扩展性良好。\n\n## 适用场景\n- 开发者日常命令行操作，希望快速检索历史命令。\n- 需要在多台机器间同步命令历史，保持工作连续性。\n- 对命令行隐私有较高要求，希望本地或自托管同步。\n- 喜欢定制化 shell 环境的用户。\n\n## 快速上手\n- 安装：`curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh`（或通过包管理器）。\n- 初始化：在 shell 配置文件中添加 `eval \"$(atuin init zsh)\"`（以 zsh 为例）。\n- 使用：按 `Ctrl+R` 打开搜索界面，输入关键词即可模糊搜索历史命令。\n\n## 社区与热度\n- 在 GitHub 上拥有 31,290 星标和 938 个 fork，近期日增星标约 40，表明项目活跃且受关注。\n- 项目持续更新，社区贡献者众多，文档完善，适合学习和二次开发。\n\n## 总结\nAtuin 是一个功能强大且注重隐私的 shell 历史管理工具，通过 Rust 和 SQLite 提供了高效、安全的命令行体验。无论你是开发者还是系统管理员，都能从中受益。",
+  "tags": [
+    "shell",
+    "Rust",
+    "命令行工具",
+    "历史记录",
+    "同步",
+    "加密",
+    "SQLite",
+    "开发者工具",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:03+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "atuinsh",
+    "stars": 31290,
+    "forks": 938,
+    "daily_stars": 40,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

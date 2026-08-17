@@ -1,0 +1,33 @@
+{
+  "id": "20260817-github-9aeec529df",
+  "title": "browserbase/stagehand",
+  "source": "github_trending",
+  "source_url": "https://github.com/browserbase/stagehand",
+  "summary": "Stagehand 是一个用于构建浏览器代理的 SDK，旨在简化浏览器自动化任务的开发。它提供了高级 API 来操作浏览器，支持自然语言指令，并集成了 AI 能力，使开发者能够快速构建可靠的浏览器代理应用。",
+  "content": "## 项目概述\nStagehand 是 browserbase 团队开发的一个开源 SDK，专注于浏览器代理（Browser Agents）的构建。它基于 Playwright 构建，并引入了 AI 驱动的自然语言交互，使得开发者可以通过简单的指令控制浏览器，而无需编写繁琐的选择器。\n\n## 核心特性\n- **AI 驱动**：支持自然语言指令，自动解析用户意图并执行浏览器操作。\n- **简化开发**：提供高级 API，减少样板代码，提高开发效率。\n- **可靠性**：内置重试和错误处理机制，确保任务执行的稳定性。\n- **可扩展性**：支持自定义动作和插件，方便集成到现有项目中。\n\n## 技术栈\n- 语言：TypeScript\n- 底层：基于 Playwright 的浏览器自动化\n- AI 集成：支持 OpenAI 等模型，用于指令解析和决策\n\n## 适用场景\n- 网页自动化测试\n- 数据抓取\n- 智能表单填写\n- 浏览器操作辅助工具\n\n## 社区与热度\n该项目在 GitHub 上拥有 23.9k 星标，周增长 192 星，显示出较高的关注度和活跃的社区支持。",
+  "tags": [
+    "Browser Automation",
+    "AI",
+    "SDK",
+    "TypeScript",
+    "Playwright",
+    "Web Scraping",
+    "Natural Language Processing"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:10+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "browserbase",
+    "stars": 23958,
+    "forks": 1649,
+    "daily_stars": null,
+    "weekly_stars": 192,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

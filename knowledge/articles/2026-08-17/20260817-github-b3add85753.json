@@ -1,0 +1,34 @@
+{
+  "id": "20260817-github-b3add85753",
+  "title": "liustack/modlens",
+  "source": "github_trending",
+  "source_url": "https://github.com/liustack/modlens",
+  "summary": "ModLens 是首个为 DeepSeek Harness 打造的视觉插件，充当纯文本编码代理的视觉桥梁。用户粘贴图片即可获得结构化 JSON 证据（OCR、版面、语义），为 DeepSeek、GLM 等纯文本模型外挂视觉能力。",
+  "content": "ModLens 是一个创新的开源项目，旨在为纯文本编码代理（如 DeepSeek、GLM）提供视觉理解能力。它作为 DeepSeek Harness 的首个视觉插件，通过将图像转换为结构化 JSON 证据（包括 OCR 文本识别、版面分析和语义理解），使原本仅支持文本的模型能够处理视觉信息。该项目在 GitHub 上迅速走红，短期内获得大量关注（2662 stars，日增 517 stars），表明开发者社区对增强文本模型多模态能力的强烈需求。其核心价值在于：1) 弥合纯文本模型与视觉输入之间的鸿沟；2) 提供标准化的 JSON 输出，便于下游任务集成；3) 作为外挂插件，无需修改原有模型架构即可扩展功能。",
+  "tags": [
+    "DeepSeek",
+    "视觉插件",
+    "OCR",
+    "多模态",
+    "编码代理",
+    "JSON",
+    "TypeScript",
+    "AI工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:01+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "liustack",
+    "stars": 2662,
+    "forks": 73,
+    "daily_stars": 517,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

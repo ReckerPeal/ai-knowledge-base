@@ -1,0 +1,33 @@
+{
+  "id": "20260817-github-d046e10f48",
+  "title": "TencentCloud/TencentDB-Agent-Memory",
+  "source": "github_trending",
+  "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "summary": "TencentDB Agent Memory 是腾讯云推出的团队级 AI Agent 记忆中心，将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM 知识库、代码图谱），支持跨 Agent 和框架的治理、共享与装备。",
+  "content": "## 项目概述\nTencentDB Agent Memory 是一个面向 AI Agent 的团队级记忆中枢，旨在解决 Agent 记忆碎片化、难以复用和共享的问题。它通过将对话、文档和代码等原始数据转化为结构化的记忆资产，为多个 Agent 提供统一的记忆服务。\n\n## 核心功能\n- **四种记忆资产**：\n  - **Chat Memory**：保存对话历史，支持上下文感知。\n  - **Skill**：封装可复用的技能或工具调用。\n  - **LLM-Wiki**：构建知识库，供 LLM 查询。\n  - **Code-Graph**：分析代码结构，生成代码关系图谱。\n- **治理与共享**：提供权限管理和共享机制，确保记忆资产在团队内安全使用。\n- **跨框架兼容**：支持多种 Agent 框架，便于集成。\n\n## 技术亮点\n- 基于 TypeScript 开发，类型安全。\n- 采用模块化设计，易于扩展。\n- 与腾讯云生态集成，提供高可用和可扩展性。\n\n## 适用场景\n- 团队协作开发 AI Agent 应用。\n- 需要长期记忆和知识管理的智能助手。\n- 代码库分析和智能问答系统。\n\n## 项目热度\n- 星标数：22,476\n- Fork 数：2,049\n- 周增长星标：3,637（增长迅速）\n\n## 总结\n该项目为 AI Agent 提供了企业级的记忆解决方案，具有较高的实用价值和社区关注度。",
+  "tags": [
+    "AI Agent",
+    "记忆管理",
+    "知识库",
+    "代码图谱",
+    "TypeScript",
+    "腾讯云",
+    "团队协作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:10+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "TencentCloud",
+    "stars": 22476,
+    "forks": 2049,
+    "daily_stars": null,
+    "weekly_stars": 3637,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

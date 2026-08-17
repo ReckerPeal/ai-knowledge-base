@@ -1,0 +1,33 @@
+{
+  "id": "20260817-github-6096cc3a83",
+  "title": "HKUDS/CLI-Anything",
+  "source": "github_trending",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "summary": "CLI-Anything 是一个旨在将任意软件转化为 AI 智能体原生接口的开源项目，通过提供统一的命令行交互层，使大语言模型（LLM）能够直接操作各类软件，实现自动化任务。该项目由 HKUDS 团队开发，在 GitHub 上已获得 47,672 星标，近期热度极高（日增 384 星），并配套提供 CLI-Hub 平台（clianything.cc）作为工具分发与发现中心。",
+  "content": "## 项目概述\nCLI-Anything 的核心目标是“让所有软件成为智能体原生（Agent-Native）”。它通过为现有软件生成标准化的命令行接口（CLI），使 AI 智能体（如基于 LLM 的代理）能够以自然语言指令驱动软件执行复杂操作，从而打破传统 GUI 交互对 AI 的壁垒。\n\n## 核心特性\n- **通用适配**：支持将任意软件（包括 GUI 应用）封装为 CLI 工具，无需修改原软件代码。\n- **智能体友好**：生成的 CLI 接口遵循机器可读的规范，便于 LLM 理解参数、执行命令并解析输出。\n- **生态集成**：提供 CLI-Hub 在线平台，用于分享、发现和安装社区贡献的 CLI 适配器。\n- **开源活跃**：项目采用 Python 编写，拥有活跃的社区贡献，星标数快速增长，反映出开发者对 AI 自动化工具的强烈需求。\n\n## 技术价值\n该项目填补了 AI 智能体与现有软件生态之间的鸿沟，为构建自主工作流（如自动办公、数据处理、系统管理）提供了基础设施。其设计思路可启发更多“AI 原生”工具链的发展。\n\n## 适用场景\n- 开发者构建个人 AI 助手，自动化日常软件操作。\n- 企业将遗留系统快速接入 AI 工作流。\n- 研究机构探索智能体与工具交互的新范式。",
+  "tags": [
+    "AI Agent",
+    "CLI",
+    "自动化",
+    "LLM",
+    "工具集成",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:24:59+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "HKUDS",
+    "stars": 47672,
+    "forks": 4419,
+    "daily_stars": 384,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

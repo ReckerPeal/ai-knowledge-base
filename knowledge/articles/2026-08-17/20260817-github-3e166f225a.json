@@ -1,0 +1,33 @@
+{
+  "id": "20260817-github-3e166f225a",
+  "title": "mudler/LocalAI",
+  "source": "github_trending",
+  "source_url": "https://github.com/mudler/LocalAI",
+  "summary": "LocalAI 是一个开源 AI 引擎，支持在任意硬件上运行多种模型（LLM、视觉、语音、图像、视频），无需 GPU。",
+  "content": "LocalAI 是一个开源 AI 引擎，旨在提供本地化、无 GPU 依赖的 AI 推理解决方案。它支持运行多种类型的模型，包括大型语言模型（LLM）、视觉模型、语音模型、图像生成模型和视频模型。LocalAI 的设计目标是让用户能够在任何硬件上部署 AI 模型，无需专用 GPU，从而降低硬件门槛。该项目在 GitHub 上拥有 48.5k 星标和 4.3k 分叉，近期日增星标 23，表明其活跃度和社区关注度较高。LocalAI 使用 Go 语言开发，适合对本地 AI 推理、隐私保护或边缘计算感兴趣的用户。",
+  "tags": [
+    "AI引擎",
+    "开源",
+    "本地推理",
+    "无GPU",
+    "多模态",
+    "LLM",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:05+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "mudler",
+    "stars": 48522,
+    "forks": 4362,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

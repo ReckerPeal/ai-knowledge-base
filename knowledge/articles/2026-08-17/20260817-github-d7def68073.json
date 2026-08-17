@@ -1,0 +1,32 @@
+{
+  "id": "20260817-github-d7def68073",
+  "title": "velero-io/velero",
+  "source": "github_trending",
+  "source_url": "https://github.com/velero-io/velero",
+  "summary": "Velero 是一个用于备份和迁移 Kubernetes 应用程序及其持久化卷的开源工具。",
+  "content": "Velero 是一个功能强大的 Kubernetes 备份和迁移工具，它允许用户安全地备份和恢复 Kubernetes 集群中的应用程序及其持久化卷。它支持将备份数据存储在各种云存储或本地存储中，并提供灵活的调度和保留策略。Velero 还支持集群迁移，可以轻松地将应用程序从一个集群迁移到另一个集群。该项目在 GitHub 上拥有超过 10,000 颗星，是 Kubernetes 生态系统中备份和灾难恢复的流行选择。",
+  "tags": [
+    "Kubernetes",
+    "备份",
+    "迁移",
+    "持久化卷",
+    "灾难恢复",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:05+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "velero-io",
+    "stars": 10231,
+    "forks": 1597,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

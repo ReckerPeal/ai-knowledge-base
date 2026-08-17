@@ -1,0 +1,31 @@
+{
+  "id": "20260817-github-4e38edc476",
+  "title": "coreybutler/nvm-windows",
+  "source": "github_trending",
+  "source_url": "https://github.com/coreybutler/nvm-windows",
+  "summary": "nvm-windows 是一个专为 Windows 系统设计的 Node.js 版本管理工具，虽然名为 nvm，但使用 Go 语言编写，提供命令行界面，方便用户安装、切换和管理多个 Node.js 版本。",
+  "content": "nvm-windows 是 Windows 平台上的 Node.js 版本管理器，类似于 Unix 系统中的 nvm。它允许用户在同一台机器上安装多个 Node.js 版本，并随时切换默认版本，解决不同项目对 Node.js 版本依赖的问题。该项目由 coreybutler 开发，使用 Go 语言实现，具有较高的性能和跨平台兼容性。目前该项目在 GitHub 上拥有超过 47k 星标，社区活跃，是 Windows 开发者管理 Node.js 版本的首选工具。",
+  "tags": [
+    "Node.js",
+    "版本管理",
+    "Windows",
+    "Go",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "coreybutler",
+    "stars": 47370,
+    "forks": 3862,
+    "daily_stars": null,
+    "weekly_stars": 127,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

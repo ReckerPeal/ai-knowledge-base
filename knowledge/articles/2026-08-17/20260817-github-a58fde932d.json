@@ -1,0 +1,32 @@
+{
+  "id": "20260817-github-a58fde932d",
+  "title": "virgiliojr94/book-to-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/virgiliojr94/book-to-skill",
+  "summary": "book-to-skill 是一个将技术书籍 PDF 转化为 Claude Code 技能的工具，便于用户在学习、参考和工作中直接使用。该项目在 GitHub 上获得 22398 颗星，近期增长迅速。",
+  "content": "## 项目概述\nbook-to-skill 是一个开源工具，旨在将任何技术书籍的 PDF 文件转换为 Claude Code 技能（skill）。转换后的技能可以直接用于学习、参考和实际工作场景，提升开发者的知识获取效率。\n\n## 核心功能\n- **PDF 转换**：支持将任意技术书籍 PDF 转换为结构化的 Claude Code 技能格式。\n- **学习辅助**：转换后的技能便于用户系统学习和快速查阅。\n- **工作集成**：可直接在 Claude Code 环境中使用，辅助编码和问题解决。\n\n## 技术实现\n- 基于 Python 开发，利用 PDF 解析和自然语言处理技术提取内容。\n- 生成符合 Claude Code 技能规范的目录和文件结构。\n\n## 项目热度\n- 当前星标数：22398\n- 分支数：2361\n- 周增长星标：2875，表明近期关注度较高。\n\n## 适用场景\n- 开发者希望将经典技术书籍转化为可交互的参考工具。\n- 团队希望将内部文档或书籍整合到 AI 辅助开发流程中。\n\n## 总结\nbook-to-skill 为技术书籍的数字化利用提供了创新方案，结合 AI 助手提升学习和工作效率，值得关注。",
+  "tags": [
+    "PDF",
+    "Claude Code",
+    "技能转换",
+    "学习工具",
+    "Python",
+    "AI 辅助开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:07+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "virgiliojr94",
+    "stars": 22398,
+    "forks": 2361,
+    "daily_stars": null,
+    "weekly_stars": 2875,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

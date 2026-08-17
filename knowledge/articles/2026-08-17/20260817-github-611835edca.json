@@ -1,0 +1,31 @@
+{
+  "id": "20260817-github-611835edca",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "summary": "本文基于《Nature Reviews Drug Discovery》的一篇评论文章，探讨了人工智能在药物发现领域的现状、挑战与未来方向。文章指出，尽管AI在靶点识别、分子生成和临床试验设计等方面展现出潜力，但实际应用仍面临数据质量、模型可解释性和监管审批等障碍。作者强调，AI并非取代科学家，而是作为辅助工具加速研发流程，并呼吁行业建立标准化评估体系和跨学科合作。",
+  "content": "## 核心观点\n\n- **现状评估**：AI在药物发现中的应用已从概念验证进入早期落地阶段，尤其在靶点发现和化合物筛选上取得进展，但尚未出现颠覆性突破。\n- **关键挑战**：\n  - 数据碎片化与质量不均：生物医学数据分散、标注不一致，限制模型训练效果。\n  - 模型可解释性不足：深度学习模型的“黑箱”特性难以满足监管和临床信任要求。\n  - 验证周期长：药物研发的临床前和临床阶段耗时数年，AI预测结果需长期验证。\n- **未来路径**：\n  - 建立联邦学习框架，共享数据同时保护隐私。\n  - 开发可解释AI（XAI）技术，增强模型透明度。\n  - 推动AI与传统实验结合，形成“干湿闭环”迭代优化。\n  - 监管机构需制定AI辅助药物审批的明确指南。\n\n## 行业影响\n\n文章呼应了Hacker News社区的热议（184分，90条评论），反映了技术界对AI药物发现既期待又审慎的态度。作者认为，AI的长期价值在于降低研发成本、提高成功率，但需理性看待短期炒作。",
+  "tags": [
+    "AI药物发现",
+    "药物研发",
+    "人工智能",
+    "可解释性",
+    "数据质量",
+    "监管科学",
+    "Nature Reviews"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-15T19:12:53+00:00",
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

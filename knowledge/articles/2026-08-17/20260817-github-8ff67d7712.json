@@ -1,0 +1,30 @@
+{
+  "id": "20260817-github-8ff67d7712",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "summary": "该文章详细剖析了2026年7月发生的一起前沿实验室智能体入侵事件，提供了技术时间线，分析了攻击路径、漏洞利用及防御措施。",
+  "content": "文章以技术时间线的形式，完整复盘了2026年7月针对某前沿实验室的智能体入侵事件。内容涵盖攻击的初始入口、横向移动、权限提升、数据窃取等关键阶段，并深入分析了攻击者利用的智能体安全漏洞（如提示注入、工具滥用、沙箱逃逸等）。同时，文章总结了事件暴露出的安全设计缺陷，并提出了针对智能体系统的防御改进建议，包括强化身份验证、实施最小权限原则、加强行为监控与异常检测等。",
+  "tags": [
+    "智能体安全",
+    "入侵分析",
+    "时间线",
+    "前沿实验室",
+    "安全漏洞",
+    "防御措施"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

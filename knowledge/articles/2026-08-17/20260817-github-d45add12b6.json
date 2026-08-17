@@ -1,0 +1,33 @@
+{
+  "id": "20260817-github-d45add12b6",
+  "title": "fatedier/frp",
+  "source": "github_trending",
+  "source_url": "https://github.com/fatedier/frp",
+  "summary": "frp 是一个高性能反向代理应用，用于帮助用户将位于 NAT 或防火墙后的本地服务器暴露到互联网上。它支持 TCP、UDP、HTTP、HTTPS 等多种协议，并具备内网穿透、负载均衡、流量加密等功能。该项目在 GitHub 上拥有超过 10 万星标，是 Go 语言生态中非常流行的内网穿透工具。",
+  "content": "frp 是一个用 Go 语言编写的高性能反向代理应用，旨在解决内网穿透问题。它允许用户通过一台具有公网 IP 的服务器，将位于 NAT 或防火墙后的本地服务（如 Web 服务、SSH、数据库等）安全地暴露到互联网上。\n\n核心特性包括：\n- 支持 TCP、UDP、HTTP、HTTPS 等协议，可灵活配置端口映射。\n- 提供流量加密、认证、白名单等安全机制，保障通信安全。\n- 支持负载均衡，可将请求分发到多个后端服务。\n- 具备客户端和服务端模式，部署简单，跨平台支持（Windows、Linux、macOS 等）。\n- 提供 Web 管理界面，方便监控连接状态和配置。\n\nfrp 广泛应用于开发调试、远程办公、物联网设备管理、游戏联机等场景。其活跃的社区和丰富的文档使其成为内网穿透领域的首选工具之一。",
+  "tags": [
+    "反向代理",
+    "内网穿透",
+    "Go",
+    "NAT",
+    "防火墙",
+    "网络工具",
+    "开发调试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-17T18:25:15+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "fatedier",
+    "stars": 108831,
+    "forks": 15183,
+    "daily_stars": null,
+    "weekly_stars": 231,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
