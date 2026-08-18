@@ -1,0 +1,34 @@
+{
+  "id": "20260818-github-9c241fb43b",
+  "title": "anthropics/claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "summary": "Claude Code 是 Anthropic 推出的终端智能编码工具，通过自然语言交互，帮助开发者理解代码库、执行常规任务、解释复杂代码并处理 Git 工作流，显著提升编码效率。",
+  "content": "Claude Code 是 Anthropic 推出的终端智能编码工具，通过自然语言交互，帮助开发者理解代码库、执行常规任务、解释复杂代码并处理 Git 工作流，显著提升编码效率。该工具的核心优势在于其代理式（agentic）设计，能够自主理解项目结构，自动完成重复性开发任务，如代码重构、测试生成、依赖管理等。它深度集成 Git 操作，支持通过对话完成提交、分支管理、冲突解决等流程。Claude Code 基于 Claude 大语言模型，具备强大的代码理解和生成能力，适用于个人开发者及团队协作场景。该项目在 GitHub 上广受关注，拥有超过 14 万星标，日增星标约 139，反映出开发者对 AI 辅助编程工具的高度兴趣。其语言标注为 Python，但实际作为命令行工具，可支持多种编程语言项目。",
+  "tags": [
+    "AI编程",
+    "智能编码",
+    "终端工具",
+    "自然语言处理",
+    "Git工作流",
+    "Claude",
+    "Anthropic",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:28+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 141857,
+    "forks": 22768,
+    "daily_stars": 139,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

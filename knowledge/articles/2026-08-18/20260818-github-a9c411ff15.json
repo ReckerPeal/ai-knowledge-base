@@ -1,0 +1,32 @@
+{
+  "id": "20260818-github-a9c411ff15",
+  "title": "longbridge/gpui-component",
+  "source": "github_trending",
+  "source_url": "https://github.com/longbridge/gpui-component",
+  "summary": "gpui-component 是一个基于 GPUI 的 Rust 组件库，用于构建跨平台桌面应用。",
+  "content": "gpui-component 是 longbridge 团队开发的一个 Rust 组件库，旨在通过 GPUI 框架提供丰富的 UI 组件，帮助开发者快速构建跨平台桌面应用。该项目在 GitHub 上获得了 13136 颗星，788 个 fork，近期周增长 391 颗星，显示出较高的社区关注度。GPUI 是 Zed 编辑器背后的高性能 UI 框架，gpui-component 则在此基础上封装了常用组件，如按钮、输入框、列表等，简化了桌面应用的开发流程。该库强调跨平台能力，支持 Windows、macOS 和 Linux，适合需要原生性能和统一 UI 的 Rust 桌面项目。",
+  "tags": [
+    "Rust",
+    "GUI",
+    "GPUI",
+    "跨平台",
+    "桌面应用",
+    "组件库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:42+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "longbridge",
+    "stars": 13136,
+    "forks": 788,
+    "daily_stars": null,
+    "weekly_stars": 391,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

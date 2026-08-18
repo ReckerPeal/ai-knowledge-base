@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-2337cdfc20",
+  "title": "vercel-labs/deepsec",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/deepsec",
+  "summary": "Deepsec 是一个由 Vercel Labs 开发的安全加固工具，利用编码代理自动发现代码库中的安全漏洞。",
+  "content": "Deepsec 是一个开源的安全测试框架，旨在通过编码代理（coding agents）自动化地扫描和分析代码库，以识别潜在的安全漏洞。该项目由 Vercel Labs 维护，采用 TypeScript 编写，目前在 GitHub 上已获得 7719 颗星和 461 个 fork，周增长 1084 颗星，显示出较高的社区关注度。其核心功能可能包括：集成静态分析、动态测试或 AI 驱动的漏洞检测，帮助开发者在开发早期发现安全问题。该工具适用于希望提升代码安全性的开发团队，尤其适合使用现代 JavaScript/TypeScript 技术栈的项目。",
+  "tags": [
+    "security",
+    "code-analysis",
+    "vulnerability-detection",
+    "coding-agents",
+    "TypeScript",
+    "devtools",
+    "open-source"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 7719,
+    "forks": 461,
+    "daily_stars": null,
+    "weekly_stars": 1084,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

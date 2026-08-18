@@ -1,0 +1,32 @@
+{
+  "id": "20260818-github-e9333d9b04",
+  "title": "semantica-agi/semantica",
+  "source": "github_trending",
+  "source_url": "https://github.com/semantica-agi/semantica",
+  "summary": "semantica 是一个面向上下文与可问责 AI 系统的图原生基础设施，旨在为 AI 提供结构化的知识表示与推理能力。",
+  "content": "semantica 是一个开源的图原生基础设施项目，专注于为上下文感知和可问责的 AI 系统提供底层支持。该项目采用 Python 编写，通过图数据结构来组织和关联信息，使 AI 能够更好地理解上下文并实现可追溯的决策过程。其核心特性包括：\n- 图原生架构：利用图数据库和图算法来存储和查询知识，支持复杂的关系推理。\n- 上下文管理：为 AI 模型提供丰富的上下文信息，增强对用户意图和场景的理解。\n- 可问责性：通过记录决策路径和依赖关系，确保 AI 系统的行为可解释、可审计。\n- 开发者友好：提供简洁的 API 和文档，便于集成到现有 AI 工作流中。\n该项目在 GitHub 上表现活跃，短期内获得了大量关注，适合对 AI 基础设施、知识图谱和负责任 AI 感兴趣的开发者。",
+  "tags": [
+    "AI基础设施",
+    "知识图谱",
+    "图数据库",
+    "可问责AI",
+    "上下文感知",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:37+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "semantica-agi",
+    "stars": 8872,
+    "forks": 912,
+    "daily_stars": null,
+    "weekly_stars": 4746,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

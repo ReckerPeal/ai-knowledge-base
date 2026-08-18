@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-63891604f2",
+  "title": "Gitlawb/zero",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gitlawb/zero",
+  "summary": "zero 是一个以 Go 语言编写的编码代理（coding agent），强调用户对模型、机器和规则的高度可控性。它允许用户自定义模型、运行环境和规则，从而在自动化编码任务中实现个性化与灵活性。该项目在 GitHub 上近期获得较多关注，周增星数达 317。",
+  "content": "zero 是一个开源的编码代理工具，旨在为用户提供对编码自动化流程的完全控制。其核心特性包括：\n- **用户主导**：用户可以选择自己的模型（如本地或远程 LLM）、指定运行环境（如容器或虚拟机）以及定义自定义规则（如代码风格、安全策略）。\n- **灵活性**：支持多种模型后端，可适配不同硬件和云环境，适合个人开发者或团队集成。\n- **规则引擎**：允许用户通过配置文件或代码定义规则，使代理行为符合项目特定要求。\n- **Go 语言实现**：性能高效，易于部署为单一二进制文件。\n\n该项目在 GitHub 上已获得 1570 星和 167 个 fork，周增星 317，表明其受到开发者社区的积极关注。适合希望自动化编码流程但需要高度定制化的开发者。",
+  "tags": [
+    "coding-agent",
+    "Go",
+    "AI",
+    "自动化",
+    "自定义规则",
+    "模型控制",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Gitlawb",
+    "stars": 1570,
+    "forks": 167,
+    "daily_stars": null,
+    "weekly_stars": 317,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

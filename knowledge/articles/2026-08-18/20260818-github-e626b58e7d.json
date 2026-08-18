@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-e626b58e7d",
+  "title": "Lightricks/LTX-2",
+  "source": "github_trending",
+  "source_url": "https://github.com/Lightricks/LTX-2",
+  "summary": "LTX-2 是 Lightricks 发布的官方 Python 推理与 LoRA 训练工具包，用于音频-视频生成模型。该仓库提供模型推理和微调能力，支持用户基于预训练模型生成音视频内容，并通过 LoRA 技术进行高效定制。",
+  "content": "LTX-2 是 Lightricks 推出的音频-视频生成模型官方工具包，主要包含两大核心功能：\n1. **推理（Inference）**：提供预训练模型的加载与生成接口，支持从文本或音频输入生成同步的音视频内容。\n2. **LoRA 训练（LoRA Trainer）**：支持用户使用自定义数据对模型进行轻量级微调，通过低秩适配技术降低训练成本，实现个性化风格或内容定制。\n\n该仓库以 Python 为主要语言，面向开发者提供简洁的 API 和命令行工具，适合用于创意内容生成、影视预可视化、虚拟角色制作等场景。项目在 GitHub 上表现活跃，周增星标超 500，显示出社区高度关注。",
+  "tags": [
+    "audio-video generation",
+    "LoRA",
+    "inference",
+    "fine-tuning",
+    "generative model",
+    "Python",
+    "Lightricks"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:37+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Lightricks",
+    "stars": 9108,
+    "forks": 1436,
+    "daily_stars": null,
+    "weekly_stars": 544,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

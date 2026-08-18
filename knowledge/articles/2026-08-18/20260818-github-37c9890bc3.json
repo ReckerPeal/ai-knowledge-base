@@ -1,0 +1,30 @@
+{
+  "id": "20260818-github-37c9890bc3",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "summary": "Nunchaku 4-bit 扩散推理现已集成到 Diffusers 中，支持在消费级 GPU 上高效运行 Stable Diffusion 等模型。",
+  "content": "Nunchaku 是一个用于 4-bit 量化扩散模型推理的库，现已集成到 Hugging Face 的 Diffusers 库中。该集成使得用户可以在消费级 GPU 上以更低的显存占用和更快的速度运行扩散模型，同时保持生成质量。文章介绍了 Nunchaku 的工作原理、支持的模型架构、安装方法以及使用示例，并展示了与标准 FP16 推理的性能对比。",
+  "tags": [
+    "Nunchaku",
+    "4-bit量化",
+    "扩散模型",
+    "Diffusers",
+    "推理优化",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "collected_at": "2026-08-18T22:21:45+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

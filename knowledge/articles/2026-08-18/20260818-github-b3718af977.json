@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-b3718af977",
+  "title": "earendil-works/pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/earendil-works/pi",
+  "summary": "earendil-works/pi 是一个 AI 智能体工具包，提供统一的 LLM API、智能体循环、TUI 界面和编码智能体 CLI，旨在简化 AI 应用的开发与交互。",
+  "content": "## 项目概述\n\n**earendil-works/pi** 是一个开源的 AI 智能体工具包，基于 TypeScript 构建，在 GitHub 上拥有 92,946 颗星和 11,509 次 fork，近期周增长 5,834 颗星，热度极高。\n\n## 核心功能\n\n- **统一 LLM API**：提供一致的接口，方便接入多种大语言模型，降低切换成本。\n- **智能体循环（Agent Loop）**：内置自主决策与执行循环，支持任务分解、工具调用和结果反馈。\n- **TUI（终端用户界面）**：提供交互式终端界面，便于用户实时监控和操作智能体。\n- **编码智能体 CLI**：集成代码生成、修改和调试能力，可作为编程助手使用。\n\n## 技术特点\n\n- 使用 TypeScript 开发，类型安全，适合前端与 Node.js 生态。\n- 模块化设计，可灵活组合各组件。\n- 强调开发者体验，提供 CLI 和 TUI 两种交互方式。\n\n## 适用场景\n\n- 快速构建自定义 AI 助手或自动化工作流。\n- 在终端中高效进行编码辅助和代码审查。\n- 作为学习智能体架构的参考实现。\n\n## 社区与热度\n\n- 当前星标数接近 10 万，周增 5,834，表明社区活跃且认可度高。\n- 属于 GitHub 热点 TypeScript 项目，适合关注 AI 工具链的开发者。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "TypeScript",
+    "CLI",
+    "TUI",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-18T22:21:40+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "earendil-works",
+    "stars": 92946,
+    "forks": 11509,
+    "daily_stars": null,
+    "weekly_stars": 5834,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
