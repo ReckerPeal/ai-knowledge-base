@@ -1,0 +1,32 @@
+{
+  "id": "20260819-github-f5ca58ac8f",
+  "title": "ml-explore/mlx-lm",
+  "source": "github_trending",
+  "source_url": "https://github.com/ml-explore/mlx-lm",
+  "summary": "ml-explore/mlx-lm 是一个使用 MLX 框架运行大型语言模型（LLMs）的开源项目，旨在为 Apple 芯片提供高效的模型推理能力。",
+  "content": "ml-explore/mlx-lm 是 MLX 生态中的一个重要组件，专注于在 Apple Silicon（如 M 系列芯片）上运行和微调大型语言模型。它基于 MLX 框架构建，充分利用了 Apple 硬件的统一内存架构和 GPU 加速能力，使得在本地设备上高效运行 LLM 成为可能。该项目支持多种主流模型架构（如 Llama、Mistral 等），并提供了简洁的 API 和命令行工具，方便开发者进行模型加载、推理和微调。其目标是降低 LLM 在 Apple 平台上的使用门槛，推动边缘 AI 应用的发展。",
+  "tags": [
+    "MLX",
+    "LLM",
+    "Apple Silicon",
+    "模型推理",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ml-explore",
+    "stars": 6697,
+    "forks": 976,
+    "daily_stars": null,
+    "weekly_stars": 122,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

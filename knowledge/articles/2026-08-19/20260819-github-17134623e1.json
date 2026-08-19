@@ -1,0 +1,31 @@
+{
+  "id": "20260819-github-17134623e1",
+  "title": "zizmorcore/zizmor",
+  "source": "github_trending",
+  "source_url": "https://github.com/zizmorcore/zizmor",
+  "summary": "zizmor 是一个用于 GitHub Actions 的静态分析工具，旨在帮助开发者发现工作流中的安全问题和潜在缺陷。",
+  "content": "zizmor 是一个用 Rust 编写的静态分析工具，专门针对 GitHub Actions 工作流。它通过分析 workflow 文件，检测可能的安全漏洞、错误配置和不良实践，例如硬编码密钥、不安全的 shell 使用、权限过宽等。该项目在 GitHub 上获得了 6339 颗星，近期增长迅速（日增 36 星），表明其受到开发者社区的广泛关注。zizmor 的目标是提升 CI/CD 管道的安全性，适合在开发流程中集成，作为代码审查和 CI 安全扫描的补充。",
+  "tags": [
+    "静态分析",
+    "GitHub Actions",
+    "安全",
+    "CI/CD",
+    "Rust"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "zizmorcore",
+    "stars": 6339,
+    "forks": 237,
+    "daily_stars": 36,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

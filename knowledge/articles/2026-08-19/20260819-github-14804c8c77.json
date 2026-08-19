@@ -1,0 +1,34 @@
+{
+  "id": "20260819-github-14804c8c77",
+  "title": "aldinokemal/go-whatsapp-web-multidevice",
+  "source": "github_trending",
+  "source_url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+  "summary": "GOWA 是一个基于 Go 语言构建的 WhatsApp REST API 项目，支持多账户、Webhooks、MCP 和 Chatwoot 集成，并提供了用户界面。该项目旨在通过高效的 Go 语言实现，提供低内存占用的 WhatsApp 自动化解决方案。",
+  "content": "GOWA (go-whatsapp-web-multidevice) 是一个用 Go 语言编写的 WhatsApp REST API 服务，它允许开发者通过 HTTP 请求与 WhatsApp 进行交互。该项目的主要特点包括：\n\n- **多账户支持**：可以同时管理多个 WhatsApp 账户，方便进行多账号操作。\n- **Webhooks**：支持通过 Webhooks 接收消息和事件通知，便于集成到现有系统中。\n- **MCP (Model Context Protocol)**：支持 MCP 协议，可能用于与 AI 模型或外部服务进行上下文交互。\n- **Chatwoot 集成**：内置 Chatwoot 支持，可以无缝对接客户支持平台。\n- **用户界面**：提供简单的 UI 界面，方便用户进行配置和管理。\n- **高效内存使用**：利用 Go 语言的并发和内存管理优势，实现低资源消耗。\n\n该项目在 GitHub 上拥有 4648 颗星和 1105 个 fork，周增长 126 颗星，表明其受到广泛关注。它适用于需要自动化 WhatsApp 消息处理、客户服务、营销等场景。",
+  "tags": [
+    "Go",
+    "WhatsApp",
+    "REST API",
+    "多账户",
+    "Webhooks",
+    "MCP",
+    "Chatwoot",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "aldinokemal",
+    "stars": 4648,
+    "forks": 1105,
+    "daily_stars": null,
+    "weekly_stars": 126,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

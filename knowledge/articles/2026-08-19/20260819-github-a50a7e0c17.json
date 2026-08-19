@@ -1,0 +1,31 @@
+{
+  "id": "20260819-github-a50a7e0c17",
+  "title": "harness/harness",
+  "source": "github_trending",
+  "source_url": "https://github.com/harness/harness",
+  "summary": "Harness 开源项目是一个端到端的开发者平台，集成了源代码管理（SCM）、CI/CD 流水线、托管开发环境和制品仓库等功能。该项目在 GitHub 上拥有超过 3.8 万星标，近期周增星约 280，热度持续上升。",
+  "content": "Harness 是一个开源的开发者平台，旨在提供从代码提交到部署的完整工具链。其核心功能包括：\n- **源代码管理（SCM）**：支持代码托管、版本控制和协作。\n- **CI/CD 流水线**：自动化构建、测试和部署流程，提升交付效率。\n- **托管开发环境**：提供云端的开发环境，简化环境配置和团队协作。\n- **制品仓库**：管理构建产物和依赖，支持多种格式。\n\n该项目使用 Go 语言开发，架构注重可扩展性和性能。其开源版本允许开发者自托管，同时提供企业级功能。近期在 GitHub 上表现活跃，周增星约 280，累计星标超过 3.8 万，表明社区关注度较高。",
+  "tags": [
+    "开发者平台",
+    "CI/CD",
+    "源代码管理",
+    "制品仓库",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "harness",
+    "stars": 38023,
+    "forks": 3346,
+    "daily_stars": null,
+    "weekly_stars": 280,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

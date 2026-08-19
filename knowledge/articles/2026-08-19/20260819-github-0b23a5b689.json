@@ -1,0 +1,34 @@
+{
+  "id": "20260819-github-0b23a5b689",
+  "title": "NVIDIA-NeMo/Switchyard",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+  "summary": "Switchyard 是 NVIDIA NeMo 团队开发的一个 Rust 编写的 LLM 流量路由工具，允许应用在多个模型和提供商之间路由请求，同时保持 OpenAI 和 Anthropic API 的兼容性，从而实现灵活的模型选择、基准测试和成本/性能优化。",
+  "content": "Switchyard 是一个面向 LLM 应用的高性能流量路由层，由 NVIDIA NeMo 团队用 Rust 开发。它允许开发者在多个模型提供商（如 OpenAI、Anthropic 等）之间动态路由请求，而无需修改应用代码，因为其 API 与 OpenAI 和 Anthropic 原生兼容。主要功能包括：\n- 灵活模型选择：根据业务需求或策略选择最佳模型。\n- 基准测试：支持对多个模型进行性能对比。\n- 成本/性能优化：通过路由策略平衡成本与响应质量。\n- 高并发与低延迟：Rust 实现确保高性能。\n该项目在 GitHub 上获得 1891 星，近期增长迅速（周增 1611 星），表明社区关注度较高。",
+  "tags": [
+    "LLM",
+    "路由",
+    "NVIDIA",
+    "Rust",
+    "API兼容",
+    "成本优化",
+    "性能优化",
+    "基准测试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA-NeMo",
+    "stars": 1891,
+    "forks": 171,
+    "daily_stars": null,
+    "weekly_stars": 1611,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

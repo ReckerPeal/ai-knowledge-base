@@ -1,0 +1,34 @@
+{
+  "id": "20260819-github-a66426e24c",
+  "title": "DrewThomasson/ebook2audiobook",
+  "source": "github_trending",
+  "source_url": "https://github.com/DrewThomasson/ebook2audiobook",
+  "summary": "DrewThomasson/ebook2audiobook 是一个将电子书转换为有声书的开源工具，支持语音克隆和超过1158种语言，在GitHub上获得近2万星标，属于Python热点项目。",
+  "content": "## 项目概述\n\n**ebook2audiobook** 是一个基于 Python 的开源项目，旨在将电子书（如 EPUB、PDF 等格式）自动转换为高质量的有声书。该项目利用先进的文本转语音（TTS）技术，并支持**语音克隆**功能，允许用户使用自定义声音生成音频。此外，它宣称支持**1158+ 种语言**，覆盖全球绝大多数语言，极大扩展了有声书的可及性。\n\n## 核心功能\n\n- **电子书转有声书**：自动解析电子书内容，生成分章节的音频文件。\n- **语音克隆**：用户可提供样本音频，克隆特定说话人的声音，实现个性化朗读。\n- **多语言支持**：支持超过1158种语言，包括主流语言和小语种，满足全球化需求。\n- **批量处理**：可处理整本书籍，输出标准音频格式（如 MP3、M4B）。\n\n## 技术亮点\n\n- 基于 Python 生态，可能集成 Coqui TTS、OpenAI TTS 等库。\n- 采用模块化设计，便于扩展和定制。\n- 提供命令行界面（CLI）和可能的 Web 界面，方便不同用户使用。\n\n## 应用场景\n\n- 个人用户将电子书转换为有声书，方便通勤或运动时收听。\n- 教育领域制作多语言学习材料。\n- 无障碍服务，为视障人士提供有声读物。\n- 内容创作者快速生成有声版本。\n\n## 社区与热度\n\n- GitHub 星标数：19,872（截至收集日），日增约141星，表明项目近期受到广泛关注。\n- 分叉数：1,693，说明有较多开发者参与贡献或二次开发。\n- 属于 GitHub 热点 Python 项目，具有较高的活跃度和影响力。\n\n## 总结\n\nebook2audiobook 是一个功能强大、易于使用的开源工具，结合了语音克隆和多语言支持，为电子书转有声书提供了高效解决方案。其高星标和活跃社区证明了其价值，适合开发者、内容创作者和普通用户使用。",
+  "tags": [
+    "电子书",
+    "有声书",
+    "语音克隆",
+    "文本转语音",
+    "多语言",
+    "Python",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "DrewThomasson",
+    "stars": 19872,
+    "forks": 1693,
+    "daily_stars": 141,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

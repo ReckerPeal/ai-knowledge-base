@@ -1,0 +1,36 @@
+{
+  "id": "20260819-github-1681aa8803",
+  "title": "ongridio/ongrid",
+  "source": "github_trending",
+  "source_url": "https://github.com/ongridio/ongrid",
+  "summary": "ongrid 是一个运维 AI 代理，能够理解你的基础设施，定位根本原因，并直接从 Slack、Telegram、Lark 或 DingTalk 中修复问题。",
+  "content": "ongrid 是一个用 Go 语言编写的运维 AI 代理，旨在帮助团队自动化基础设施的故障排查和修复。它能够集成到 Slack、Telegram、Lark 和 DingTalk 等主流聊天平台，用户可以直接在聊天界面中与代理交互，获取基础设施的实时状态、诊断问题并执行修复操作。该工具的核心优势在于其智能化的根因分析能力，能够快速定位问题源头，减少人工排查时间。项目在 GitHub 上表现活跃，近期获得了较多关注，适合需要提升运维效率的团队。",
+  "tags": [
+    "AI Agent",
+    "运维",
+    "基础设施",
+    "Go",
+    "Slack",
+    "Telegram",
+    "Lark",
+    "DingTalk",
+    "根因分析",
+    "自动化修复"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ongridio",
+    "stars": 735,
+    "forks": 165,
+    "daily_stars": 9,
+    "weekly_stars": 101,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

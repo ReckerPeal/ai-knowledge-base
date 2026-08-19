@@ -1,0 +1,33 @@
+{
+  "id": "20260819-github-5eff306848",
+  "title": "BoundaryML/baml",
+  "source": "github_trending",
+  "source_url": "https://github.com/BoundaryML/baml",
+  "summary": "BAML 是一种专为 AI 智能体设计的编程语言，旨在简化 LLM 应用的开发流程。它通过类型安全的接口定义、提示词管理和结构化输出生成，帮助开发者更高效地构建、测试和部署基于大语言模型的应用。该项目在 GitHub 上广受关注，拥有超过 9000 颗星。",
+  "content": "BAML（BoundaryML 开发）是一种面向 AI 智能体的编程语言，其核心目标是解决 LLM 应用开发中的痛点，如提示词易碎、输出不可控、类型不安全等。BAML 提供了一种声明式语法，允许开发者定义数据模型、函数和提示词模板，并自动生成类型安全的客户端代码（支持 Python、TypeScript 等）。它内置了提示词版本管理、测试框架和输出校验功能，能够显著提升开发效率和可靠性。BAML 基于 Rust 实现，性能优异，适合构建复杂的 AI 工作流。该项目在 GitHub 上热度较高，周增星数达 154，反映了社区对其价值的认可。",
+  "tags": [
+    "AI 编程语言",
+    "LLM 应用开发",
+    "提示词工程",
+    "类型安全",
+    "Rust",
+    "智能体",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "BoundaryML",
+    "stars": 9038,
+    "forks": 481,
+    "daily_stars": null,
+    "weekly_stars": 154,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260819-github-46dd054ea9",
+  "title": "envoyproxy/gateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/envoyproxy/gateway",
+  "summary": "Envoy Gateway 是一个基于 Envoy Proxy 构建的应用网关，支持独立部署或作为 Kubernetes 集群内的网关运行。它利用 Envoy 的高性能代理能力，提供流量管理、安全策略和可观测性等功能，旨在简化现代云原生应用的入口流量管理。",
+  "content": "Envoy Gateway 是 Envoy Proxy 的官方网关实现，旨在为云原生环境提供统一的流量管理解决方案。它支持两种部署模式：作为独立进程运行，或作为 Kubernetes 的 Gateway API 实现。该项目利用 Envoy 的成熟特性，如动态配置、高级负载均衡、TLS 终止和可观测性，同时通过 Kubernetes 原生 CRD 提供声明式配置，简化了运维复杂度。它适用于微服务架构、边缘代理和南北向流量管理场景。",
+  "tags": [
+    "Envoy",
+    "Gateway",
+    "Kubernetes",
+    "API Gateway",
+    "Go",
+    "云原生",
+    "流量管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "envoyproxy",
+    "stars": 2965,
+    "forks": 842,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

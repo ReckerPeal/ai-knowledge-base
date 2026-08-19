@@ -1,0 +1,33 @@
+{
+  "id": "20260819-github-dd6a9d14a0",
+  "title": "Graphify-Labs/graphify",
+  "source": "github_trending",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "summary": "Graphify 是一个开源工具，能将代码库及其文档、SQL 模式、配置文件和 PDF 转换为可查询的知识图谱。它提供 /graphify 技能，支持 Claude Code、Cursor、Codex 和 Gemini CLI，采用本地确定性 AST 解析，每条边都有解释，无需向量存储。",
+  "content": "Graphify 是一个创新的开发者工具，旨在将复杂的代码库及其相关文档（如 SQL 模式、配置文件、PDF 等）转化为结构化的知识图谱，从而提升代码理解和查询效率。其核心特性包括：\n\n- **知识图谱构建**：通过本地确定性 AST（抽象语法树）解析，将代码实体（如函数、类、变量）及其关系（调用、依赖、继承等）提取为图谱节点和边，每条边都有明确的解释，确保可追溯性。\n- **多平台集成**：提供 /graphify 技能，可无缝集成到主流 AI 编程助手（Claude Code、Cursor、Codex、Gemini CLI）中，方便开发者直接在对话中查询代码库知识。\n- **无需向量存储**：与基于向量检索的方案不同，Graphify 采用确定性解析，不依赖向量数据库，降低了部署复杂度，同时保证解析结果的准确性和可解释性。\n- **广泛适用性**：支持多种代码语言和文档格式，适用于代码审查、项目 onboarding、文档生成、依赖分析等场景。\n\n该项目在 GitHub 上表现活跃，拥有超过 10 万星标，日增星标约 454，显示出社区的高度认可。其技术栈以 Python 为主，适合对代码智能和知识图谱感兴趣的开发者使用或贡献。",
+  "tags": [
+    "知识图谱",
+    "代码分析",
+    "AST解析",
+    "开发者工具",
+    "AI集成",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:09+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "Graphify-Labs",
+    "stars": 108184,
+    "forks": 10505,
+    "daily_stars": 454,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

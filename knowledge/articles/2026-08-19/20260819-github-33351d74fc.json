@@ -1,0 +1,33 @@
+{
+  "id": "20260819-github-33351d74fc",
+  "title": "semaphoreui/semaphore",
+  "source": "github_trending",
+  "source_url": "https://github.com/semaphoreui/semaphore",
+  "summary": "Semaphore 是一个现代化的 DevOps 工具管理平台，提供美观的用户界面和强大的 API，用于管理 Ansible、Terraform/OpenTofu/Terragrunt、PowerShell 等自动化工具。",
+  "content": "Semaphore 是一个开源的 DevOps 工具管理平台，旨在简化基础设施自动化和配置管理。它提供了一个现代化的 Web UI 和强大的 REST API，使用户能够集中管理多种自动化工具，包括 Ansible、Terraform、OpenTofu、Terragrunt 和 PowerShell。该项目的核心优势在于其统一的管理界面，允许用户创建、调度和监控自动化任务，同时支持团队协作和权限控制。Semaphore 使用 Go 语言开发，具有高性能和易于部署的特点。它适用于需要管理多个 DevOps 工具链的团队，能够显著提升自动化流程的可视化和可操作性。该项目在 GitHub 上拥有超过 14k 星标，社区活跃，持续更新。",
+  "tags": [
+    "DevOps",
+    "Ansible",
+    "Terraform",
+    "自动化",
+    "Go",
+    "CI/CD",
+    "基础设施即代码"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "semaphoreui",
+    "stars": 14035,
+    "forks": 1291,
+    "daily_stars": null,
+    "weekly_stars": 51,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

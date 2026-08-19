@@ -1,0 +1,32 @@
+{
+  "id": "20260819-github-90ed811ba1",
+  "title": "vitali87/code-graph-rag",
+  "source": "github_trending",
+  "source_url": "https://github.com/vitali87/code-graph-rag",
+  "summary": "code-graph-rag 是一个面向大型代码仓库（monorepo）的 RAG（检索增强生成）系统，结合 AI 与知识图谱技术，支持对多语言代码库进行查询、理解和编辑。",
+  "content": "## 项目概述\n\ncode-graph-rag 是一个专为大型代码仓库（monorepo）设计的 RAG（检索增强生成）系统。它利用 AI 和知识图谱技术，帮助开发者高效地查询、理解和编辑多语言代码库。该项目在 GitHub 上受到广泛关注，拥有 4664 颗星和 618 个 fork，近期增长迅速（周增 910 星）。\n\n## 核心功能\n\n- **智能查询**：通过自然语言查询代码库，快速定位相关代码片段。\n- **代码理解**：利用知识图谱构建代码间的依赖关系，帮助理解整体架构。\n- **代码编辑**：支持基于 AI 的代码修改建议，提升开发效率。\n- **多语言支持**：适用于多种编程语言，满足不同技术栈的需求。\n\n## 技术亮点\n\n- **知识图谱**：将代码结构（如函数、类、模块）映射为图节点，建立语义关联。\n- **RAG 架构**：结合检索与生成模型，提供精准的上下文响应。\n- **Monorepo 优化**：针对大型仓库的复杂依赖关系进行专门优化。\n\n## 适用场景\n\n- 大型项目的代码导航与重构\n- 自动化代码审查与文档生成\n- 新成员快速上手项目\n\n## 总结\n\ncode-graph-rag 为开发者提供了一种全新的代码交互方式，尤其适合复杂、多语言的 monorepo 项目。其知识图谱与 RAG 的结合，有望成为 AI 辅助编程的重要工具。",
+  "tags": [
+    "RAG",
+    "知识图谱",
+    "代码理解",
+    "Monorepo",
+    "AI 编程",
+    "多语言"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "vitali87",
+    "stars": 4664,
+    "forks": 618,
+    "daily_stars": null,
+    "weekly_stars": 910,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

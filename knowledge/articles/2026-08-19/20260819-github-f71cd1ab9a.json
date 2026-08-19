@@ -1,0 +1,35 @@
+{
+  "id": "20260819-github-f71cd1ab9a",
+  "title": "PostHog/posthog",
+  "source": "github_trending",
+  "source_url": "https://github.com/PostHog/posthog",
+  "summary": "PostHog 是构建自动驾驶产品的领先平台，提供 AI 可观测性、分析、会话回放、功能开关、实验、错误跟踪、日志等开发者工具，捕获代理诊断问题、发现机会和修复所需的所有上下文，并支持从 Slack、Web、桌面或 MCP 进行控制。",
+  "content": "PostHog 是一个开源的产品分析平台，旨在帮助团队构建自我驱动的产品。其核心功能包括：\n- **AI 可观测性**：监控 AI 代理的行为和性能，捕获上下文以诊断问题。\n- **产品分析**：提供事件追踪、漏斗分析、用户路径等。\n- **会话回放**：录制用户会话，帮助理解用户行为。\n- **功能开关**：灰度发布和功能管理。\n- **实验**：A/B 测试和实验分析。\n- **错误跟踪**：自动捕获前端和后端错误。\n- **日志管理**：集中日志查看和搜索。\n- **多渠道控制**：通过 Slack、Web、桌面应用或 MCP（Model Context Protocol）进行交互。\n\n该项目在 GitHub 上拥有 37.7k 星标，活跃度较高（日增 42 星），主要使用 Python 开发，适合需要全面产品洞察和 AI 调试能力的开发团队。",
+  "tags": [
+    "AI可观测性",
+    "产品分析",
+    "会话回放",
+    "功能开关",
+    "实验",
+    "错误跟踪",
+    "日志管理",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:09+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "PostHog",
+    "stars": 37773,
+    "forks": 3202,
+    "daily_stars": 42,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

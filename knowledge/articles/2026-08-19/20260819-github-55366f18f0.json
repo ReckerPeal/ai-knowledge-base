@@ -1,0 +1,31 @@
+{
+  "id": "20260819-github-55366f18f0",
+  "title": "Flowseal/tg-ws-proxy",
+  "source": "github_trending",
+  "source_url": "https://github.com/Flowseal/tg-ws-proxy",
+  "summary": "Flowseal/tg-ws-proxy 是一个本地 MTProto 代理服务器，用于部分绕过 Telegram 的加载限制。",
+  "content": "该项目提供了一个本地运行的 MTProto 代理服务器，旨在解决 Telegram 在某些网络环境下加载缓慢或无法连接的问题。通过将 Telegram 的流量通过 WebSocket 协议进行代理，它能够部分绕过网络封锁或限制，从而改善 Telegram 的访问速度和稳定性。项目使用 Python 编写，部署简单，适合个人或小型团队使用。",
+  "tags": [
+    "Telegram",
+    "MTProto",
+    "代理",
+    "WebSocket",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Flowseal",
+    "stars": 9330,
+    "forks": 465,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

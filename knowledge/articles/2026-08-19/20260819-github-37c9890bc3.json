@@ -1,0 +1,31 @@
+{
+  "id": "20260819-github-37c9890bc3",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "summary": "Hugging Face 博客文章介绍了将 Nunchaku 4-bit 扩散推理集成到 Diffusers 库中的方法，旨在通过 4-bit 量化技术降低扩散模型的推理成本，同时保持生成质量。",
+  "content": "本文详细说明了 Nunchaku 4-bit 扩散推理与 Diffusers 的集成方案。Nunchaku 是一种高效的 4-bit 量化推理引擎，专为扩散模型设计，能够在保持图像生成质量的同时显著减少内存占用和计算开销。文章可能涵盖以下要点：\n- 集成背景：扩散模型在图像生成中表现出色，但推理成本高，量化是降低资源消耗的有效手段。\n- 技术实现：介绍 Nunchaku 的 4-bit 量化方案，以及如何通过 Diffusers 的 pipeline 接口无缝集成，支持常见的扩散模型（如 Stable Diffusion 系列）。\n- 性能提升：通过量化，模型大小可减少约 75%，推理速度提升，适合边缘设备或实时应用。\n- 使用示例：提供代码示例，展示如何加载 Nunchaku 量化的模型并生成图像，同时保持与 Diffusers 生态的兼容性。\n- 未来展望：可能讨论进一步优化方向，如支持更多模型架构或结合其他加速技术。\n\n该集成降低了扩散模型的应用门槛，有利于在资源受限环境中部署高质量生成模型。",
+  "tags": [
+    "Nunchaku",
+    "4-bit量化",
+    "扩散模型",
+    "Diffusers",
+    "推理加速",
+    "模型压缩",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "collected_at": "2026-08-19T22:22:27+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

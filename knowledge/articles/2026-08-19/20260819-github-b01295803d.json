@@ -1,0 +1,36 @@
+{
+  "id": "20260819-github-b01295803d",
+  "title": "unslothai/unsloth",
+  "source": "github_trending",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "summary": "unslothai/unsloth 是一个用于运行和训练大型语言模型（LLM）及扩散模型的本地 UI 工具，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等多种模型。该项目在 GitHub 上拥有 73,754 颗星，近期周增星 3,636，热度较高。",
+  "content": "## 项目概述\n\nunslothai/unsloth 是一个开源项目，旨在提供一个本地化的用户界面（UI），用于运行和训练大型语言模型（LLM）以及扩散模型。该项目支持多种主流模型，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4 和 FLUX 等，覆盖了文本生成和图像生成领域。\n\n## 核心功能\n\n- **本地 UI**：提供用户友好的图形界面，方便用户无需编写代码即可操作模型。\n- **模型训练**：支持对 LLM 和扩散模型进行微调或训练，适合研究者和开发者。\n- **多模型支持**：兼容多种前沿模型，包括 Qwen、Kimi、MiniMax、Gemma、DeepSeek 和 FLUX。\n- **运行推理**：用户可以在本地运行模型进行推理任务，如文本生成、图像生成等。\n\n## 技术特点\n\n- **基于 Python**：项目使用 Python 开发，易于扩展和集成。\n- **高效优化**：unsloth 团队以优化模型训练速度著称，该项目可能继承了相关优化技术。\n- **开源社区**：拥有超过 7 万星标，社区活跃，持续更新。\n\n## 适用场景\n\n- **AI 研究者**：需要快速实验不同模型的训练和推理。\n- **开发者**：希望将 LLM 或扩散模型集成到本地应用中。\n- **爱好者**：对 AI 模型感兴趣，希望本地体验前沿模型。\n\n## 总结\n\nunsloth 是一个功能强大且易用的本地 AI 模型工具，支持多种模型，适合训练和推理。其高星标和活跃度表明其在社区中广受欢迎，是 AI 技术栈中值得关注的项目。",
+  "tags": [
+    "LLM",
+    "扩散模型",
+    "本地UI",
+    "模型训练",
+    "推理",
+    "Python",
+    "开源",
+    "Qwen",
+    "DeepSeek",
+    "FLUX"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "unslothai",
+    "stars": 73754,
+    "forks": 6663,
+    "daily_stars": null,
+    "weekly_stars": 3636,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

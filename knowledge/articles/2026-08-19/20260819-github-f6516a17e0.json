@@ -1,0 +1,33 @@
+{
+  "id": "20260819-github-f6516a17e0",
+  "title": "fish2018/pansou",
+  "source": "github_trending",
+  "source_url": "https://github.com/fish2018/pansou",
+  "summary": "PanSou 是一款高性能的网盘资源搜索 API 服务，支持 TG 频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。Docker 集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。",
+  "content": "PanSou 是一个基于 Go 语言开发的高性能网盘资源搜索 API 服务，旨在为用户提供快速、准确的网盘资源检索能力。其核心特性包括：\n\n- **多频道与插件支持**：支持接入多个 Telegram 频道和自定义插件，实现多渠道资源聚合搜索。\n- **并发搜索与智能排序**：系统设计以高性能和可扩展性为核心，能够并发处理多个搜索请求，并通过智能算法对结果进行排序，提升搜索体验。\n- **网盘类型分类**：对搜索结果按网盘类型（如百度网盘、阿里云盘等）进行分类，方便用户筛选。\n- **Docker 一键部署**：前后端集成于 Docker 镜像中，用户可通过简单命令快速启动服务，实现开箱即用。\n\n该项目在 GitHub 上拥有超过 1.4 万星标，属于热门 Go 项目。作者明确声明项目仅供学习研究使用，禁止用于任何盈利目的。",
+  "tags": [
+    "Go",
+    "网盘搜索",
+    "API",
+    "Docker",
+    "Telegram",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-19T22:22:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "fish2018",
+    "stars": 14272,
+    "forks": 3442,
+    "daily_stars": null,
+    "weekly_stars": 114,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
