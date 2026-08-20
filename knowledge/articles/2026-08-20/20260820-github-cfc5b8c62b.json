@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-cfc5b8c62b",
+  "title": "quickwit-oss/tantivy",
+  "source": "github_trending",
+  "source_url": "https://github.com/quickwit-oss/tantivy",
+  "summary": "Tantivy 是一个受 Apache Lucene 启发、用 Rust 编写的全文搜索引擎库，在 GitHub 上获得 15923 颗星，近期热度上升（日增 68 星）。",
+  "content": "Tantivy 是一个用 Rust 实现的高性能全文搜索引擎库，其设计灵感来源于 Java 生态中的 Apache Lucene。它提供了类似 Lucene 的索引和查询功能，但充分利用了 Rust 的内存安全、并发性和性能优势。Tantivy 支持分词、倒排索引、BM25 相关性评分、布尔查询、短语查询、模糊查询、范围查询等功能，并提供了丰富的 API 供开发者集成。该项目由 quickwit-oss 团队维护，目前已在 GitHub 上获得超过 1.5 万星标，显示出社区的高度认可。Tantivy 适合需要嵌入式全文搜索能力的 Rust 应用，也可作为构建更高级搜索服务的基础。其近期日增 68 星，表明项目正处于活跃增长期，可能因新功能发布或社区推广而受到更多关注。",
+  "tags": [
+    "Rust",
+    "全文搜索",
+    "搜索引擎",
+    "Lucene",
+    "倒排索引",
+    "BM25",
+    "嵌入式库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:21+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "quickwit-oss",
+    "stars": 15923,
+    "forks": 975,
+    "daily_stars": 68,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

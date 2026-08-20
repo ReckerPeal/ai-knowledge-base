@@ -1,0 +1,35 @@
+{
+  "id": "20260820-github-2d9977f041",
+  "title": "Wei-Shaw/sub2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/Wei-Shaw/sub2api",
+  "summary": "Sub2API 是一个一站式开源中转服务，旨在将 Claude、OpenAI、Gemini、Grok 等主流 AI 服务的订阅统一接入到一个 API 中，支持拼车共享，以更高效地分摊成本，并允许用户使用原生工具无缝使用这些服务。",
+  "content": "Sub2API 是一个用 Go 语言开发的开源项目，它提供了一个统一的中转层，使用户能够通过一个 API 密钥访问多个 AI 提供商的订阅服务。该项目的主要特点包括：\n\n- **统一接入**：支持 Claude、OpenAI、Gemini、Grok 等主流 AI 服务，用户无需为每个服务单独管理 API 密钥。\n- **拼车共享**：允许多个用户共享订阅，从而分摊成本，提高资源利用率。\n- **原生工具兼容**：用户可以使用现有的 OpenAI 兼容工具或客户端，无需修改代码即可无缝切换。\n- **开源与自托管**：用户可以自行部署，确保数据隐私和定制化需求。\n\n该项目在 GitHub 上表现活跃，拥有超过 37k 的星标，显示出社区的高度认可。其技术栈基于 Go，适合构建高性能的网络服务。",
+  "tags": [
+    "AI",
+    "API中转",
+    "订阅共享",
+    "Go",
+    "开源",
+    "Claude",
+    "OpenAI",
+    "Gemini",
+    "Grok"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:23+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Wei-Shaw",
+    "stars": 37806,
+    "forks": 7807,
+    "daily_stars": 149,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

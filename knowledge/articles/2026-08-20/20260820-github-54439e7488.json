@@ -1,0 +1,36 @@
+{
+  "id": "20260820-github-54439e7488",
+  "title": "microsoft/agent-framework",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-framework",
+  "summary": "微软推出的 agent-framework 是一个用于构建、编排和部署 AI 智能体及多智能体工作流的框架，支持 Python 和 .NET 两种语言。",
+  "content": "## 项目概述\n\n**agent-framework** 是微软开源的一个综合性框架，旨在简化 AI 智能体（Agent）及多智能体（Multi-Agent）系统的开发、编排与部署。该框架同时支持 Python 和 .NET，为不同技术栈的开发者提供统一的智能体开发体验。\n\n## 核心特性\n\n- **构建智能体**：提供丰富的工具和抽象，帮助开发者快速创建具备特定能力的 AI 智能体。\n- **编排工作流**：支持定义智能体之间的协作逻辑，实现复杂任务的自动化分解与执行。\n- **部署支持**：内置部署相关功能，便于将智能体应用集成到生产环境。\n- **多语言支持**：同时支持 Python 和 .NET，降低跨语言团队的使用门槛。\n\n## 技术亮点\n\n- **微软官方出品**：由微软维护，具有较高的可靠性和持续更新保障。\n- **社区热度高**：在 GitHub 上已获得 12,999 颗星，且近期增长迅速（日增 85 星，周增 239 星），表明其受到开发者广泛关注。\n- **多智能体支持**：针对多智能体场景进行了专门设计，适合构建复杂的 AI 协作系统。\n\n## 适用场景\n\n- 企业级 AI 应用开发\n- 自动化工作流编排\n- 多智能体协作系统研究\n- 跨平台（Python/.NET）AI 项目\n\n## 总结\n\n作为微软在 AI 智能体领域的重要开源项目，agent-framework 凭借其强大的功能、多语言支持和活跃的社区，成为构建 AI 智能体应用的有力选择。",
+  "tags": [
+    "AI",
+    "智能体",
+    "多智能体",
+    "框架",
+    "Python",
+    ".NET",
+    "微软",
+    "工作流",
+    "编排",
+    "部署"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 12999,
+    "forks": 2201,
+    "daily_stars": 85,
+    "weekly_stars": 239,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

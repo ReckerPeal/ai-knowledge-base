@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-405372ff69",
+  "title": "rhysd/actionlint",
+  "source": "github_trending",
+  "source_url": "https://github.com/rhysd/actionlint",
+  "summary": "actionlint 是一个用于检查 GitHub Actions 工作流文件的静态分析工具，帮助开发者发现语法错误、类型问题和不推荐用法。",
+  "content": "actionlint 是由 rhysd 开发的一个开源静态检查器，专门针对 GitHub Actions 工作流文件（.github/workflows/*.yml 或 *.yaml）。它能够解析工作流文件，检测其中的语法错误、表达式类型错误、无效的触发器、缺失的权限设置等问题，并提供详细的错误报告。该工具支持多种集成方式，包括命令行、编辑器插件和 CI 管道，旨在提升 GitHub Actions 工作流的可靠性和可维护性。项目使用 Go 语言编写，具有高性能和跨平台特性。",
+  "tags": [
+    "GitHub Actions",
+    "静态检查",
+    "CI/CD",
+    "Go",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:23+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "rhysd",
+    "stars": 4150,
+    "forks": 259,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

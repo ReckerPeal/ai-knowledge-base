@@ -1,0 +1,34 @@
+{
+  "id": "20260820-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "freellmapi 是一个 OpenAI 兼容的代理，将 28 家 LLM 提供商的免费额度（每月约 40 亿 token）整合到一个 /v1 端点之后，并支持任何自定义的 OpenAI 兼容端点。它提供智能路由、自动故障转移和加密密钥功能，仅用于个人实验。",
+  "content": "## 项目概述\n\n**freellmapi** 是一个基于 TypeScript 的开源项目，旨在通过一个统一的 OpenAI 兼容 API 端点，聚合多个 LLM 提供商的免费额度，从而降低个人实验和开发中的 API 成本。该项目在 GitHub 上获得了 18955 颗星，显示出较高的社区关注度。\n\n## 核心功能\n\n- **多提供商聚合**：整合 28 家 LLM 提供商的免费层，总计每月约 40 亿 token 的免费调用额度。\n- **OpenAI 兼容**：对外提供标准的 /v1 端点，支持任何 OpenAI 兼容的客户端，迁移成本低。\n- **智能路由**：根据请求自动选择最优的提供商，提高响应速度和成功率。\n- **自动故障转移**：当某个提供商不可用时，自动切换到其他可用提供商，保证服务稳定性。\n- **加密密钥管理**：API 密钥经过加密存储，增强安全性。\n- **自定义端点支持**：允许用户添加任何自定义的 OpenAI 兼容端点，扩展性良好。\n\n## 适用场景\n\n- **个人开发者**：在开发、测试或原型验证阶段，利用免费额度降低开销。\n- **学习与研究**：无需付费即可体验多种 LLM 的能力。\n- **小型项目**：对 token 消耗量不大的应用，可完全依赖免费层。\n\n## 注意事项\n\n- **仅限个人实验**：项目明确声明仅用于个人实验，不适用于生产环境或商业用途。\n- **免费额度限制**：不同提供商的免费额度、速率限制和使用条款可能不同，需自行了解。\n- **稳定性风险**：免费层服务可能随时调整或取消，依赖此代理可能面临服务中断风险。\n\n## 技术栈\n\n- **语言**：TypeScript\n- **架构**：代理服务器，转发请求到上游 LLM 提供商\n- **依赖**：可能涉及 HTTP 客户端、加密库等，具体见项目 package.json\n\n## 社区与维护\n\n- **作者**：tashfeenahmed\n- **星标数**：18955\n- **复刻数**：2771\n- **近期活跃**：日增星标 89，表明项目仍在持续获得关注。\n\n## 总结\n\nfreellmapi 为个人开发者提供了一个低成本、多提供商聚合的 LLM 访问方案，通过智能路由和故障转移提升了可用性。但受限于“仅个人实验”的定位，不适合生产环境。对于希望探索多种 LLM 的开发者来说，这是一个值得尝试的工具。",
+  "tags": [
+    "LLM",
+    "OpenAI",
+    "API代理",
+    "免费额度",
+    "TypeScript",
+    "智能路由",
+    "故障转移",
+    "聚合"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:18+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 18955,
+    "forks": 2771,
+    "daily_stars": 89,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

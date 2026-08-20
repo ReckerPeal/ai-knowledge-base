@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-2de478d131",
+  "title": "WecomTeam/wecom-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/WecomTeam/wecom-cli",
+  "summary": "wecom-cli 是一个基于 Rust 开发的企业微信开放平台命令行工具，旨在让人类用户和 AI Agent 都能在终端中高效操作企业微信。该项目在 GitHub 上获得 2899 星，近期热度持续上升。",
+  "content": "## 项目概述\n\nwecom-cli 是 WecomTeam 团队开源的企业微信命令行工具，使用 Rust 语言编写。它提供了一套完整的命令行接口，使用户能够通过终端直接操作企业微信的开放平台功能，包括消息发送、群管理、通讯录管理等。该工具的设计初衷是同时服务于人类用户和 AI Agent，使得自动化脚本和智能体能够无缝集成企业微信的通信能力。\n\n## 核心特性\n\n- **跨平台支持**：基于 Rust 构建，支持主流操作系统（Windows、macOS、Linux）。\n- **AI Agent 友好**：提供清晰的命令行输出和结构化数据格式，便于 AI 程序解析和调用。\n- **高效操作**：通过命令行快速完成企业微信的常见操作，无需打开图形界面。\n- **开放平台集成**：直接对接企业微信开放平台 API，支持自定义应用和通讯录管理。\n\n## 技术亮点\n\n- **Rust 性能**：利用 Rust 的内存安全和并发特性，确保工具的高性能和稳定性。\n- **易扩展性**：模块化设计，方便开发者添加新的命令和功能。\n- **文档完善**：提供详细的命令行帮助和示例，降低使用门槛。\n\n## 适用场景\n\n- **运维自动化**：在 CI/CD 流程中通过命令行发送通知或管理群组。\n- **AI 助手集成**：为 AI Agent 提供企业微信的交互入口，实现自动回复、消息推送等。\n- **开发者工具**：作为日常开发中快速测试企业微信 API 的辅助工具。\n\n## 社区与热度\n\n项目在 GitHub 上已获得 2899 星和 195 个 fork，近期每日新增星标约 34 个，表明其受到开发者社区的广泛关注。作为 Rust 生态中的企业微信工具，它填补了该领域的空白，具有较高的实用价值。",
+  "tags": [
+    "企业微信",
+    "命令行工具",
+    "Rust",
+    "AI Agent",
+    "开放平台",
+    "自动化",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:21+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "WecomTeam",
+    "stars": 2899,
+    "forks": 195,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

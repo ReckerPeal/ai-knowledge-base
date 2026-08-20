@@ -1,0 +1,32 @@
+{
+  "id": "20260820-github-4d766eb799",
+  "title": "github/spec-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/spec-kit",
+  "summary": "Spec-Kit 是 GitHub 官方推出的工具包，旨在帮助开发者快速上手规范驱动开发（Spec-Driven Development）。它提供了一套完整的工具链，支持从规范定义到代码生成的自动化流程，提升开发效率和一致性。",
+  "content": "Spec-Kit 是 GitHub 官方发布的一个工具包，专注于规范驱动开发（Spec-Driven Development）。它通过将 API 规范（如 OpenAPI）作为单一事实来源，自动生成客户端、服务端代码、文档和测试，从而减少手动编码错误，确保实现与规范一致。该工具包包含命令行界面（CLI）、代码生成器、校验器以及集成插件，支持多种语言和框架。其核心优势在于：\n- 简化规范到代码的转换流程，支持 OpenAPI 和 AsyncAPI 等规范。\n- 提供模板和插件机制，便于定制生成代码。\n- 内置校验功能，确保规范符合标准。\n- 与 CI/CD 集成，实现自动化验证和部署。\n该项目在 GitHub 上拥有超过 13 万星标，社区活跃，适合希望采用规范驱动开发模式的团队。",
+  "tags": [
+    "Spec-Driven Development",
+    "API 规范",
+    "代码生成",
+    "OpenAPI",
+    "开发者工具",
+    "GitHub 官方"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 130450,
+    "forks": 11715,
+    "daily_stars": null,
+    "weekly_stars": 3807,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

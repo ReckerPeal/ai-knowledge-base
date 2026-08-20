@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-e520424e43",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/multi-vector-encoder",
+  "summary": "本文介绍了使用 Sentence Transformers 实现多向量（晚期交互）嵌入模型的方法，重点讨论了 ColBERT 等模型的架构、训练和推理优化，并提供了代码示例和性能对比。",
+  "content": "本文详细阐述了多向量（晚期交互）嵌入模型在 Sentence Transformers 库中的实现与应用。文章首先解释了传统单向量嵌入模型的局限性，即无法充分捕捉细粒度的 token 级交互，而多向量模型（如 ColBERT）通过为每个 token 生成独立的向量，并在推理时采用晚期交互机制（MaxSim）计算相似度，从而显著提升了检索精度。\n\n文章重点介绍了如何在 Sentence Transformers 中加载和训练 ColBERT 模型，包括数据准备、损失函数选择（如 ColBERTLoss）以及训练技巧。此外，还讨论了推理时的优化策略，例如使用向量索引（如 Faiss）加速检索，以及如何通过降维或量化减少存储开销。\n\n文章提供了具体的代码示例，展示了如何加载预训练的 ColBERT 模型、编码查询和文档，并计算晚期交互得分。同时，作者对比了多向量模型与单向量模型在多个基准数据集上的性能，表明多向量模型在检索任务中通常具有更高的准确率，但代价是更大的存储和计算开销。\n\n最后，文章总结了多向量模型的适用场景，并给出了在资源受限环境下的实用建议，例如使用蒸馏或近似索引技术。整体而言，本文为希望利用晚期交互模型提升检索质量的开发者提供了全面的实践指南。",
+  "tags": [
+    "多向量嵌入",
+    "晚期交互",
+    "Sentence Transformers",
+    "ColBERT",
+    "信息检索",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "collected_at": "2026-08-20T22:24:33+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

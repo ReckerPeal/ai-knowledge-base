@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-3057d1bd55",
+  "title": "oxc-project/oxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/oxc-project/oxc",
+  "summary": "oxc-project/oxc 是一个用 Rust 编写的高性能 JavaScript 工具集合，旨在为 JavaScript 生态提供更快的解析器、压缩器、格式化器等基础工具。该项目在 GitHub 上获得 22384 星，近期热度持续上升，属于 Rust 语言在 JavaScript 工具链领域的重要开源项目。",
+  "content": "## 项目概述\noxc（Oxidation Compiler）是 oxc-project 组织下的核心项目，定位为“高性能 JavaScript 工具集合”。它使用 Rust 语言开发，充分利用 Rust 的内存安全和并发特性，旨在替代或优化现有的 JavaScript 工具链（如 Babel、ESLint、Prettier 等）中的性能瓶颈。\n\n## 核心特性\n- **高性能**：通过 Rust 实现，解析和转换速度远超传统 JavaScript 工具，适合大型项目。\n- **模块化设计**：包含多个子工具，如解析器（parser）、压缩器（minifier）、格式化器（formatter）等，可独立使用或集成。\n- **生态兼容**：目标是与现有 JavaScript 生态无缝对接，支持标准语法和常用插件。\n\n## 技术亮点\n- 使用 Rust 的零成本抽象和并行处理能力，提升编译和构建效率。\n- 提供 CLI 和库接口，便于开发者集成到构建流程中。\n- 活跃的社区贡献，持续优化性能和功能。\n\n## 应用场景\n- 大型前端项目的构建加速。\n- 需要快速解析和转换 JavaScript 代码的工具开发。\n- 作为下一代 JavaScript 工具链的基础组件。\n\n## 项目状态\n当前 stars 数达 22384，forks 1216，日增星约 13，表明社区关注度高。项目仍处于活跃开发阶段，适合关注 Rust 与 JavaScript 交叉领域的开发者参与。",
+  "tags": [
+    "Rust",
+    "JavaScript",
+    "工具链",
+    "高性能",
+    "编译器",
+    "开源",
+    "解析器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:21+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "oxc-project",
+    "stars": 22384,
+    "forks": 1216,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

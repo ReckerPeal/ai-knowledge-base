@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-a1ee8a10c2",
+  "title": "sinelaw/fresh",
+  "source": "github_trending",
+  "source_url": "https://github.com/sinelaw/fresh",
+  "summary": "fresh 是一个基于终端的集成开发环境（IDE）和文本编辑器，旨在提供简单、强大且快速的编辑体验。该项目使用 Rust 语言开发，目前在 GitHub 上已获得 8355 颗星，周增长 123 颗星，显示出较高的社区关注度。",
+  "content": "fresh 是一个用 Rust 编写的终端 IDE 和文本编辑器，其核心设计理念是“简单、强大、快速”。它试图在终端环境中提供类似现代 IDE 的功能，同时保持轻量级和高性能。该项目由 sinelaw 开发，在 GitHub 上拥有 8355 颗星和 311 个 fork，周增长 123 颗星，表明其正在获得越来越多的关注。\n\n作为终端应用，fresh 可能支持语法高亮、多光标编辑、代码折叠、搜索替换等常见编辑器功能，并可能通过插件系统扩展。Rust 语言的选择保证了内存安全和运行效率，适合追求低延迟和高响应性的终端工具。\n\n该项目适合喜欢在终端中工作的开发者，尤其是那些寻求替代传统编辑器（如 Vim、Emacs）或希望获得更现代体验的用户。其“简单”可能意味着易于上手，而“强大”则暗示功能丰富，“快速”则强调性能优化。\n\n由于摘要信息有限，具体功能细节（如是否支持 LSP、调试、Git 集成等）未明确，但鉴于其热度，值得进一步探索。",
+  "tags": [
+    "Rust",
+    "终端IDE",
+    "文本编辑器",
+    "开发工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:30+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "sinelaw",
+    "stars": 8355,
+    "forks": 311,
+    "daily_stars": null,
+    "weekly_stars": 123,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

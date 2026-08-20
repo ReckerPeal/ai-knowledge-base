@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-e9483d7107",
+  "title": "apify/apify-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/apify/apify-mcp-server",
+  "summary": "Apify MCP 服务器使 AI 代理能够利用 Apify Store 中数千个现成的爬虫、抓取器和自动化工具，从社交媒体、搜索引擎、地图、电商网站或任何其他网站提取数据。",
+  "content": "Apify MCP 服务器是一个基于 TypeScript 实现的开源项目，它通过模型上下文协议（MCP）将 AI 代理与 Apify 平台无缝集成。该服务器允许 AI 代理直接调用 Apify Store 中丰富的爬虫和自动化工具，从而高效地从社交媒体、搜索引擎、地图、电商网站等各类网站提取结构化数据。项目在 GitHub 上拥有 4342 颗星和 231 个 fork，周增长 843 颗星，显示出强劲的社区关注度。其核心价值在于降低了 AI 代理获取实时网页数据的门槛，适用于市场调研、舆情监控、价格追踪等场景。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "Web Scraping",
+    "Apify",
+    "TypeScript",
+    "数据提取",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "apify",
+    "stars": 4342,
+    "forks": 231,
+    "daily_stars": null,
+    "weekly_stars": 843,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

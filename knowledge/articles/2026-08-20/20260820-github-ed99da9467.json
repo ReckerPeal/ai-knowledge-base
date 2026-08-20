@@ -1,0 +1,35 @@
+{
+  "id": "20260820-github-ed99da9467",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "summary": "Anthropic-Cybersecurity-Skills 是一个为 AI 代理提供 817 项结构化网络安全技能的开源项目，映射到 6 个主流安全框架，支持 20 多个 AI 平台，覆盖 29 个安全领域，采用 Apache 2.0 许可证。",
+  "content": "## 项目概述\nAnthropic-Cybersecurity-Skills 是一个面向 AI 代理的网络安全技能库，包含 817 项结构化技能，旨在提升 AI 在网络安全任务中的能力。该项目由 mukul975 开发，在 GitHub 上获得超过 3 万星标，近期增长迅速。\n\n## 核心特性\n- **技能数量**：817 项结构化网络安全技能，覆盖广泛的安全操作场景。\n- **框架映射**：技能映射到 6 个主流安全框架，包括 MITRE ATT&CK（攻击战术）、NIST CSF 2.0（网络安全框架）、MITRE ATLAS（AI 威胁）、D3FEND（防御技术）、NIST AI RMF（AI 风险管理）和 MITRE F3（反欺诈）。\n- **标准兼容**：遵循 agentskills.io 标准，确保技能的可移植性和互操作性。\n- **平台支持**：兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 等 20 多个 AI 平台，方便集成到现有工作流。\n- **领域覆盖**：涵盖 29 个安全领域，如威胁检测、漏洞管理、事件响应、安全分析等。\n\n## 技术实现\n- **语言**：主要使用 Python 开发，便于扩展和集成。\n- **许可证**：Apache 2.0，允许自由使用和修改。\n\n## 应用场景\n- 为 AI 代理提供标准化的安全技能，用于自动化安全任务。\n- 作为安全团队的知识库，辅助安全分析和决策。\n- 集成到 AI 驱动的安全工具中，提升威胁检测和响应效率。\n\n## 社区与热度\n- 在 GitHub 上获得 30240 星标和 3593 次 fork，近期日增 676 星，周增 2545 星，显示出极高的社区关注度。\n- 项目活跃，适合安全研究人员和 AI 开发者参与贡献。",
+  "tags": [
+    "网络安全",
+    "AI代理",
+    "MITRE ATT&CK",
+    "NIST CSF",
+    "技能库",
+    "开源",
+    "Python",
+    "威胁检测",
+    "安全框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:16+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "mukul975",
+    "stars": 30240,
+    "forks": 3593,
+    "daily_stars": 676,
+    "weekly_stars": 2545,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

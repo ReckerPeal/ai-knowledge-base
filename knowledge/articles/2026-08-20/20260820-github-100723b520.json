@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-100723b520",
+  "title": "MakazhanAlpamys/Soup",
+  "source": "github_trending",
+  "source_url": "https://github.com/MakazhanAlpamys/Soup",
+  "summary": "Soup 是一个通过单一 YAML 配置文件微调大型语言模型（LLM）的工具，其核心亮点是采用分层流式训练技术，使得在仅有 4 GB 显存的笔记本电脑 GPU 上也能训练 8B 参数的模型。该项目在 GitHub 上迅速获得关注，一周内星标增长超过 1800。",
+  "content": "## 项目概述\nSoup 是一个面向 LLM 微调的开源工具，旨在降低大模型微调的门槛。用户只需编写一个 YAML 文件，即可配置并启动微调流程，无需编写复杂的训练脚本。\n\n## 核心技术\n项目采用**分层流式训练（Layer streaming）** 方法，通过将模型层分阶段加载到 GPU 内存中，并配合梯度检查点等技术，大幅降低显存占用。这使得原本需要多张高端显卡才能完成的 8B 参数模型微调，现在可以在 4 GB 显存的消费级笔记本 GPU 上运行。\n\n## 主要特点\n- **极简配置**：所有训练参数、数据集、模型架构等均通过 YAML 文件声明，易于版本管理和复用。\n- **低资源友好**：针对显存受限环境优化，支持单卡低显存训练。\n- **快速上手**：提供预置配置模板，用户可快速开始微调。\n\n## 适用场景\n- 个人开发者或小型团队在本地设备上微调开源 LLM。\n- 教学和研究场景中，需要低成本验证微调效果。\n- 对数据隐私敏感，需在本地完成模型定制的场景。\n\n## 项目热度\n该项目在 GitHub 上表现亮眼，当前获得 2496 星标和 367 个 fork，一周内星标增长 1802，显示出社区对低资源微调方案的强烈需求。",
+  "tags": [
+    "LLM",
+    "微调",
+    "YAML",
+    "低显存训练",
+    "分层流式",
+    "GitHub热点",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MakazhanAlpamys",
+    "stars": 2496,
+    "forks": 367,
+    "daily_stars": null,
+    "weekly_stars": 1802,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

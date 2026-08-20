@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-da7c582ec8",
+  "title": "can1357/oh-my-pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "summary": "oh-my-pi 是一个面向终端的 AI 编码代理，提供基于哈希锚定的编辑、优化的工具调用框架，并集成 LSP、Python、浏览器和子代理等能力。",
+  "content": "oh-my-pi 是一个用 TypeScript 编写的 AI 编码代理，专为终端环境设计。其核心特性包括：\n- **哈希锚定编辑**：通过文件内容的哈希值精确定位编辑位置，避免传统行号编辑的漂移问题，提高编辑准确性。\n- **优化的工具调用框架**：内置高效的工具集，减少不必要的上下文切换，提升代理执行效率。\n- **LSP 集成**：利用语言服务器协议提供代码补全、诊断和跳转等 IDE 级功能，增强代码理解。\n- **Python 支持**：可直接执行 Python 脚本或与 Python 环境交互，便于数据分析和自动化任务。\n- **浏览器控制**：允许代理操作浏览器，实现网页自动化测试或数据抓取。\n- **子代理机制**：支持创建子代理并行处理子任务，提高复杂任务的完成速度。\n\n该项目在 GitHub 上获得 26036 星，周增 1747 星，显示出社区的高度关注。其设计目标是为开发者提供一个强大、灵活的终端 AI 助手，适用于代码编辑、调试、自动化等场景。",
+  "tags": [
+    "AI",
+    "编码代理",
+    "终端",
+    "TypeScript",
+    "LSP",
+    "自动化",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "can1357",
+    "stars": 26036,
+    "forks": 2513,
+    "daily_stars": null,
+    "weekly_stars": 1747,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

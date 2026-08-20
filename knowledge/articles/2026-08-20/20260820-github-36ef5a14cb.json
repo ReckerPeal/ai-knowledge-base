@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-36ef5a14cb",
+  "title": "marceloprates/prettymaps",
+  "source": "github_trending",
+  "source_url": "https://github.com/marceloprates/prettymaps",
+  "summary": "prettymaps 是一个基于 OpenStreetMap 数据绘制精美地图的 Python 库，利用 osmnx、matplotlib 和 shapely 构建，支持自定义风格和布局，适合数据可视化和地理信息展示。",
+  "content": "## 项目简介\nprettymaps 是一个开源 Python 库，旨在从 OpenStreetMap 数据生成美观的地图。它结合了 osmnx（用于获取和处理街道网络）、matplotlib（用于绘图）和 shapely（用于几何操作），能够快速创建具有艺术感的地图，支持多种风格（如复古、现代、极简等）和自定义元素（如街道、水域、绿地等）。\n\n## 核心功能\n- **数据获取**：自动从 OpenStreetMap 下载指定区域的地理数据。\n- **地图绘制**：使用 matplotlib 绘制高分辨率地图，支持自定义配色、线宽和背景。\n- **风格定制**：提供多种预设风格，用户可调整图层顺序和样式。\n- **输出格式**：支持保存为 PNG、SVG 等常见图像格式。\n\n## 技术栈\n- Python\n- osmnx\n- matplotlib\n- shapely\n\n## 适用场景\n- 数据可视化项目\n- 地理信息展示\n- 艺术地图创作\n- 教育与研究\n\n## 社区与热度\n该项目在 GitHub 上拥有超过 13k 星标，近期日增星标 627，受到开发者广泛关注，是 Python 地理可视化领域的热门工具。",
+  "tags": [
+    "Python",
+    "OpenStreetMap",
+    "地图可视化",
+    "osmnx",
+    "matplotlib",
+    "shapely",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "marceloprates",
+    "stars": 13438,
+    "forks": 667,
+    "daily_stars": 627,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

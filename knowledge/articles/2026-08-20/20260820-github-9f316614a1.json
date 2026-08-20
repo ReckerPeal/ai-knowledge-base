@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-9f316614a1",
+  "title": "docling-project/docling",
+  "source": "github_trending",
+  "source_url": "https://github.com/docling-project/docling",
+  "summary": "Docling 是一个专注于文档解析与转换的开源工具，旨在将 PDF、Word 等格式的文档转换为适合生成式 AI 模型使用的结构化数据，帮助开发者高效地准备文档数据。",
+  "content": "Docling 是一个由 docling-project 维护的开源 Python 库，主要用于文档解析与转换，支持多种文档格式（如 PDF、DOCX、PPTX 等），能够提取文本、表格、布局等结构化信息，并输出为 JSON、Markdown 等格式，方便下游的生成式 AI 应用（如 RAG、微调）使用。该项目在 GitHub 上拥有超过 65k 的星标，近期增长迅速，反映了其在 AI 数据准备领域的受欢迎程度。Docling 提供了简洁的 API 和命令行工具，支持 OCR、表格识别等高级功能，并可与 LangChain 等框架集成。",
+  "tags": [
+    "文档解析",
+    "生成式AI",
+    "数据准备",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "docling-project",
+    "stars": 65289,
+    "forks": 4667,
+    "daily_stars": 145,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

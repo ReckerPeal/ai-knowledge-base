@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-7f230ade70",
+  "title": "pola-rs/polars",
+  "source": "github_trending",
+  "source_url": "https://github.com/pola-rs/polars",
+  "summary": "Polars 是一个用 Rust 编写的极速 DataFrame 查询引擎，专为处理大规模数据而设计。它提供了类似 Pandas 的 API，但性能远超 Pandas，支持多线程、向量化操作和惰性求值，适用于数据分析和科学计算场景。",
+  "content": "Polars 是一个高性能的 DataFrame 库，使用 Rust 语言开发，旨在提供极速的数据查询和处理能力。其核心特点包括：\n\n- **性能卓越**：利用 Rust 的内存安全性和零成本抽象，结合多线程和向量化执行，实现比 Pandas 快数倍甚至数十倍的性能。\n- **惰性求值**：支持惰性执行计划，自动优化查询逻辑，减少不必要的数据扫描和计算。\n- **丰富的数据操作**：提供类似 SQL 的查询接口，支持过滤、聚合、连接、窗口函数等操作，并兼容多种数据格式（CSV、Parquet、JSON 等）。\n- **跨语言支持**：除了 Rust 原生 API，还提供 Python、Node.js 等语言的绑定，方便不同技术栈的开发者使用。\n- **活跃社区**：在 GitHub 上拥有近 4 万星标，持续迭代更新，社区贡献活跃。\n\n该库适用于数据科学、数据分析、ETL 管道等场景，尤其适合处理内存无法容纳的大规模数据集。",
+  "tags": [
+    "DataFrame",
+    "Rust",
+    "数据处理",
+    "高性能",
+    "查询引擎",
+    "数据分析",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:21+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "pola-rs",
+    "stars": 39403,
+    "forks": 3030,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-f4071c3ee0",
+  "title": "eneskirca/nodeterm",
+  "source": "github_trending",
+  "source_url": "https://github.com/eneskirca/nodeterm",
+  "summary": "nodeterm 是一个基于节点的终端管理器，专为 AI 编码代理设计。它利用 tmux 作为后端，将并行代理会话以可拖拽节点形式呈现在无限平移/缩放画布上，支持 macOS、Linux 及浏览器 Server Edition。",
+  "content": "nodeterm 是一个创新的终端管理器，旨在提升 AI 编码代理的工作效率。其核心特性包括：\n- **基于节点的界面**：将终端会话表示为可拖拽的节点，放置在无限画布上，支持平移和缩放，便于管理多个并行代理。\n- **tmux 后端**：利用 tmux 提供稳定的终端会话管理，支持会话持久化和多路复用。\n- **并行代理会话**：允许同时运行多个 AI 代理，每个代理在独立节点中，便于监控和交互。\n- **跨平台支持**：支持 macOS 和 Linux，并提供浏览器 Server Edition，方便远程访问。\n- **技术栈**：使用 TypeScript 开发，适合现代开发环境。\n\n该项目在 GitHub 上受到关注（972 stars，109 forks），近期周增长显著（385 stars），表明其受欢迎程度。",
+  "tags": [
+    "终端管理器",
+    "AI代理",
+    "tmux",
+    "节点界面",
+    "TypeScript",
+    "并行会话",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-20T22:24:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "eneskirca",
+    "stars": 972,
+    "forks": 109,
+    "daily_stars": null,
+    "weekly_stars": 385,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
