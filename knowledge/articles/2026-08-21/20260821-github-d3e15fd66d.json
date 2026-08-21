@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-d3e15fd66d",
+  "title": "multica-ai/multica",
+  "source": "github_trending",
+  "source_url": "https://github.com/multica-ai/multica",
+  "summary": "Multica 是一个开源的、可自托管的 AI 代理编排平台，能够将 GitHub Issues 分配给 Claude Code、Codex、Cursor 等 20 多种编码代理，实现团队协作式任务处理。",
+  "content": "Multica 是一个开源的、可自托管的 AI 代理编排平台，旨在将 GitHub Issues 智能分配给多种编码代理（如 Claude Code、Codex、Cursor 等 20 多种），使它们像团队成员一样协同工作。该项目采用 Go 语言开发，支持自托管部署，适合团队内部使用。其核心功能包括：\n- 多代理支持：集成 20+ 主流编码代理，覆盖不同场景。\n- 智能分配：根据 Issue 内容自动匹配最合适的代理。\n- 团队协作：模拟团队工作流，提升开发效率。\n- 开源可扩展：代码开源，允许自定义代理和规则。\n该项目在 GitHub 上热度较高（47k+ stars），近期增长迅速，适合对 AI 辅助开发流程优化感兴趣的团队。",
+  "tags": [
+    "AI代理",
+    "开源",
+    "自托管",
+    "GitHub集成",
+    "Go",
+    "开发工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "multica-ai",
+    "stars": 47182,
+    "forks": 6034,
+    "daily_stars": null,
+    "weekly_stars": 1308,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

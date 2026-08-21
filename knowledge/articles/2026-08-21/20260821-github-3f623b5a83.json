@@ -1,0 +1,36 @@
+{
+  "id": "20260821-github-3f623b5a83",
+  "title": "mikefarah/yq",
+  "source": "github_trending",
+  "source_url": "https://github.com/mikefarah/yq",
+  "summary": "yq 是一个可移植的命令行工具，用于处理 YAML、JSON、XML、CSV、TOML、HCL 和 properties 等多种格式文件。",
+  "content": "yq 是一个用 Go 语言编写的轻量级命令行工具，旨在提供对多种数据格式的便捷处理能力。它支持 YAML、JSON、XML、CSV、TOML、HCL 以及 properties 文件，用户可以通过简单的命令进行查询、修改、合并、转换等操作。该项目在 GitHub 上拥有超过 1.5 万星标，社区活跃，持续更新。yq 的设计强调可移植性，支持跨平台使用，适合在脚本和自动化流程中集成。其功能类似于 jq，但专注于 YAML 等格式，并提供了丰富的命令行选项和表达式语法，能够满足开发者和运维人员的日常需求。",
+  "tags": [
+    "yq",
+    "命令行工具",
+    "YAML",
+    "JSON",
+    "XML",
+    "CSV",
+    "TOML",
+    "HCL",
+    "properties",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:24+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "mikefarah",
+    "stars": 15871,
+    "forks": 825,
+    "daily_stars": 4,
+    "weekly_stars": 44,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

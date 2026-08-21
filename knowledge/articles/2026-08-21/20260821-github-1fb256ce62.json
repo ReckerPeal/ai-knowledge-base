@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-1fb256ce62",
+  "title": "cursor/plugins",
+  "source": "github_trending",
+  "source_url": "https://github.com/cursor/plugins",
+  "summary": "Cursor 插件规范及官方插件仓库，定义了 Cursor 编辑器的插件开发标准，并提供官方实现的插件示例。",
+  "content": "该仓库是 Cursor 官方发布的插件规范与官方插件集合，主要面向 Cursor 编辑器的扩展开发者。仓库包含插件 API 定义、开发文档、示例插件以及官方维护的插件列表。通过该规范，开发者可以创建自定义插件来增强 Cursor 的功能，例如代码补全、主题定制、工作流自动化等。仓库使用 TypeScript 编写，提供了类型定义和示例代码，帮助开发者快速上手。当前仓库在 GitHub 上获得 4285 星，近期增长迅速（日增 391 星），反映了社区对 Cursor 插件生态的高度关注。",
+  "tags": [
+    "Cursor",
+    "插件",
+    "编辑器扩展",
+    "TypeScript",
+    "官方规范"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:18+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cursor",
+    "stars": 4285,
+    "forks": 358,
+    "daily_stars": 391,
+    "weekly_stars": 1273,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260821-github-19e393a5e1",
+  "title": "Show HN: Huzzah – a novel approach to coding with AI",
+  "source": "rss",
+  "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "summary": "Huzzah 是一个实验性的代码编辑器，提出了一种新颖的 AI 辅助编程范式：用户以自然语言或伪代码编写意图，保存时编辑器自动将其同步为真实源代码，并持久化伪代码作为意图记录。该项目旨在解决当前 AI 编码代理在复杂代码库中易混淆、需要冗长描述等问题，让开发者回归更直接的编码体验。目前为概念验证阶段，已在 Hacker News 上获得 346 分和 197 条评论。",
+  "content": "Huzzah 是一个实验性的代码编辑器，由开发者 Daniel Vaughn 创建，旨在解决 AI 编码代理在复杂项目中的局限性。作者自 2026 年 1 月以来几乎完全依赖编码代理，但逐渐感到疲惫：每次修改都需要写完整句子，且当代码库复杂度超过一定阈值时，代理会开始混淆。Huzzah 提出了一种新的交互范式：\n\n1. **伪代码编写**：开发者以最自然的方式（如伪代码、自然语言）描述意图。\n2. **自动同步**：保存时，编辑器将伪代码同步转换为真实源代码。\n3. **意图持久化**：伪代码与生成的代码并存，作为意图的存储记录，便于追溯和理解。\n\n这种设计让开发者既能保持 AI 辅助的高效，又能更直接地控制代码，避免冗长描述和代理混淆问题。目前项目处于概念验证阶段，安装说明见 GitHub 仓库（https://github.com/danielvaughn/hz），并附有演示视频。作者表示，虽然并非适用于所有场景，但初步体验令人愉悦。该帖子在 Hacker News 上获得 346 分和 197 条评论，引发广泛讨论。",
+  "tags": [
+    "AI编程",
+    "代码编辑器",
+    "伪代码",
+    "AI代理",
+    "开发者工具",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-20T19:05:36+00:00",
+  "collected_at": "2026-08-21T22:23:35+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

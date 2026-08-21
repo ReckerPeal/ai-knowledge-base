@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-9f316614a1",
+  "title": "docling-project/docling",
+  "source": "github_trending",
+  "source_url": "https://github.com/docling-project/docling",
+  "summary": "Docling 是一个专注于将文档转换为生成式 AI 可用的格式的开源项目，旨在简化文档处理流程，使各类文档（如 PDF、Word 等）能够被大语言模型直接使用。该项目在 GitHub 上广受关注，拥有超过 6.5 万星标，近期热度持续上升。",
+  "content": "Docling 是一个由 docling-project 维护的开源工具，其核心目标是“让文档为生成式 AI 做好准备”。它提供了一套文档解析和转换的解决方案，能够将 PDF、Word、PPT 等常见文档格式转换为结构化的、适合大语言模型（LLM）和 RAG 系统使用的格式（如 Markdown、JSON 等）。该项目在 GitHub 上表现突出，目前拥有 65,352 个星标和 4,676 个 fork，近期每日新增星标约 109 个，显示出强劲的增长势头。Docling 的主要特点包括：支持多种文档格式、保留文档结构（如标题、表格、列表）、提供简单的 API 接口，以及易于集成到现有的 AI 工作流中。对于开发者来说，Docling 可以显著降低文档预处理的门槛，加速基于文档的 AI 应用开发。该项目使用 Python 编写，适合 Python 生态的开发者使用。",
+  "tags": [
+    "文档解析",
+    "生成式AI",
+    "RAG",
+    "Python",
+    "开源工具",
+    "文档转换",
+    "LLM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "docling-project",
+    "stars": 65352,
+    "forks": 4676,
+    "daily_stars": 109,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

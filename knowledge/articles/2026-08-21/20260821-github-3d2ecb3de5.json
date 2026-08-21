@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-3d2ecb3de5",
+  "title": "EFForg/rayhunter",
+  "source": "github_trending",
+  "source_url": "https://github.com/EFForg/rayhunter",
+  "summary": "EFForg/rayhunter 是一个用 Rust 编写的工具，用于在 Orbic 移动热点设备上检测基站模拟器（俗称“伪基站”或 IMSI 捕获器）。该项目由电子前沿基金会（EFF）发布，旨在帮助用户识别和防范潜在的移动网络监控威胁。",
+  "content": "## 项目概述\n\nRayhunter 是电子前沿基金会（EFF）开发的一款开源安全工具，专门用于检测 Orbic 品牌移动热点设备上的基站模拟器（Cell Site Simulators，简称 CSS）。基站模拟器是一种伪装成合法基站的设备，能够截获手机信号、窃取用户身份信息（IMSI）并实施中间人攻击。\n\n## 技术实现\n\n该项目使用 Rust 语言编写，充分利用了 Rust 在系统编程中的内存安全性和高性能优势。工具通过分析 Orbic 移动热点接收到的无线信号特征，识别出可能存在的基站模拟器活动。其核心检测机制基于对基站信号参数的异常分析，包括信号强度、频率偏移、协议行为等特征。\n\n## 应用场景\n\n- **隐私保护**：帮助记者、活动家、律师等高风险人群检测是否被伪基站跟踪\n- **安全研究**：为移动网络安全研究人员提供基站模拟器检测工具\n- **公众教育**：提高公众对移动网络监控威胁的认识\n\n## 项目特点\n\n- 由知名非营利组织 EFF 维护，具有较高的可信度\n- 使用 Rust 语言，代码质量高且运行稳定\n- 专注于特定硬件（Orbic 热点），检测精度较高\n- 开源免费，社区活跃，持续更新\n\n## 社区反响\n\n该项目在 GitHub 上获得了 5610 颗星和 466 次 fork，显示出社区对移动隐私安全工具的高度关注。周增长 118 颗星表明项目正处于快速上升期，获得了广泛认可。",
+  "tags": [
+    "Rust",
+    "网络安全",
+    "隐私保护",
+    "基站模拟器检测",
+    "EFF",
+    "移动安全",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "EFForg",
+    "stars": 5610,
+    "forks": 466,
+    "daily_stars": null,
+    "weekly_stars": 118,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

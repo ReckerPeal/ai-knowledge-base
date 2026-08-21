@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-ac7b9c79d7",
+  "title": "shadow1ng/fscan",
+  "source": "github_trending",
+  "source_url": "https://github.com/shadow1ng/fscan",
+  "summary": "fscan 是一款用 Go 语言开发的内网综合扫描工具，旨在通过一键自动化方式实现全方位漏洞扫描，提升内网安全检测效率。",
+  "content": "fscan 是一款面向内网安全检测的综合性扫描工具，采用 Go 语言编写，具备高性能和跨平台特性。其核心功能包括：\n- **一键自动化扫描**：用户可通过简单命令启动全面扫描，覆盖常见端口、服务、漏洞等。\n- **全方位漏洞扫描**：集成多种扫描模块，如端口扫描、服务识别、漏洞检测（如弱口令、未授权访问等）。\n- **内网渗透辅助**：支持内网主机发现、路由探测等功能，便于安全人员快速评估内网风险。\n- **高效并发**：利用 Go 的并发特性，提升扫描速度，适应大规模内网环境。\n\n该项目在 GitHub 上拥有 14.4k+ 星标，社区活跃，持续更新，是安全从业者常用的内网扫描利器。",
+  "tags": [
+    "内网扫描",
+    "漏洞扫描",
+    "安全工具",
+    "Go",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:24+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "shadow1ng",
+    "stars": 14418,
+    "forks": 1936,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

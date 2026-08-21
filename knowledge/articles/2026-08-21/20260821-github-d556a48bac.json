@@ -1,0 +1,32 @@
+{
+  "id": "20260821-github-d556a48bac",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "summary": "Hugging Face 发布《State of Open Models: Summer 2026 Observations》博客，总结 2026 年夏季开放模型生态的现状与趋势。文章基于 Hugging Face 平台数据，分析了开放模型在规模、性能、许可、社区参与等方面的进展，并讨论了开放模型与闭源模型的竞争格局、技术突破（如多模态、长上下文）以及未来发展方向。",
+  "content": "## 开放模型现状：2026 年夏季观察\n\n### 核心要点\n- **开放模型持续进步**：2026 年夏季，开放模型在性能上继续逼近甚至部分超越闭源模型，尤其在特定任务（如代码生成、数学推理）上表现突出。\n- **社区与生态繁荣**：Hugging Face 平台上的模型数量、下载量、微调版本持续增长，社区贡献活跃，开放协作模式成为 AI 发展的重要驱动力。\n- **技术趋势**：多模态模型成为主流，长上下文处理能力显著提升，小型高效模型（如 7B-13B 参数）受到广泛关注，适合边缘部署。\n- **许可与治理**：开放模型许可更加多样化，部分模型采用更宽松的许可（如 Apache 2.0），但也有一些模型附带使用限制，引发关于“开放”定义的讨论。\n- **挑战与展望**：开放模型面临算力成本、数据质量、评测基准不足等挑战，但整体前景乐观，预计未来开放模型将在更多领域发挥关键作用。\n\n### 数据与洞察\n- 文章引用 Hugging Face 内部数据，展示了开放模型下载量 Top 榜单、社区活跃度指标等，为读者提供量化视角。\n- 对比了开放模型与闭源模型（如 GPT-4、Claude 等）在 MMLU、HumanEval 等基准上的表现，指出差距正在缩小。\n\n### 结论\n开放模型生态正处于快速发展期，技术创新与社区协作共同推动其进步。Hugging Face 作为核心平台，将继续支持开放模型的发展，并呼吁更多研究者、开发者参与其中。",
+  "tags": [
+    "开放模型",
+    "Hugging Face",
+    "AI生态",
+    "模型性能",
+    "多模态",
+    "许可协议",
+    "社区协作",
+    "技术趋势"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "collected_at": "2026-08-21T22:23:35+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260821-github-e626b58e7d",
+  "title": "Lightricks/LTX-2",
+  "source": "github_trending",
+  "source_url": "https://github.com/Lightricks/LTX-2",
+  "summary": "LTX-2 是 Lightricks 推出的音频-视频生成模型的官方 Python 推理与 LoRA 训练工具包。该仓库提供了模型推理和微调（LoRA）的完整实现，支持从文本或音频生成视频，并允许用户通过 LoRA 技术对模型进行个性化定制。项目在 GitHub 上热度较高，拥有 9181 颗星和 1448 个 fork，近期周增星 331 颗，显示出社区活跃度。",
+  "content": "## 项目概述\nLTX-2 是 Lightricks 发布的官方 Python 包，用于 LTX-2 音频-视频生成模型的推理和 LoRA 训练。该模型能够根据音频输入生成对应的视频内容，属于多模态生成领域的前沿项目。\n\n## 核心功能\n- **推理（Inference）**：提供预训练模型的加载和推理接口，支持从音频或文本提示生成视频。\n- **LoRA 训练**：支持低秩适应（LoRA）微调，允许用户在自定义数据集上高效训练个性化模型，降低计算资源需求。\n- **Python 包**：以 Python 包形式分发，便于集成到现有工作流。\n\n## 技术亮点\n- **多模态生成**：结合音频和视频模态，实现跨模态内容生成。\n- **高效微调**：采用 LoRA 技术，显著减少训练参数量和显存占用。\n- **官方支持**：由 Lightricks 官方维护，代码质量和文档相对可靠。\n\n## 社区与热度\n- 仓库在 GitHub 上获得 9181 星和 1448 个 fork，属于热门项目。\n- 周增星 331 颗，表明近期关注度持续上升。\n- 语言为 Python，符合 AI 生成领域的主流技术栈。\n\n## 适用场景\n- 创意内容生成（如音乐视频、配音动画）。\n- 个性化视频生成（通过 LoRA 微调适配特定风格或主题）。\n- 学术研究和教育用途，探索音频-视频生成技术。\n\n## 总结\nLTX-2 是一个功能完整、社区活跃的音频-视频生成模型工具包，适合开发者和研究者使用。其 LoRA 训练能力降低了定制化门槛，具有较高的实用价值。",
+  "tags": [
+    "LTX-2",
+    "音频-视频生成",
+    "LoRA",
+    "Python",
+    "多模态",
+    "Lightricks",
+    "推理",
+    "微调"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:27+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Lightricks",
+    "stars": 9181,
+    "forks": 1448,
+    "daily_stars": null,
+    "weekly_stars": 331,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

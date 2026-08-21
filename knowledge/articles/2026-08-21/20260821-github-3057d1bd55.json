@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-3057d1bd55",
+  "title": "oxc-project/oxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/oxc-project/oxc",
+  "summary": "oxc-project/oxc 是一个用 Rust 编写的高性能 JavaScript 工具集合，旨在为 JavaScript 生态提供更快、更可靠的解析器、压缩器、格式化器等基础工具。",
+  "content": "## 项目简介\noxc-project/oxc 是一个用 Rust 编写的高性能 JavaScript 工具集合，旨在为 JavaScript 生态提供更快、更可靠的解析器、压缩器、格式化器等基础工具。\n\n## 核心特点\n- **高性能**：利用 Rust 的系统级性能优势，显著提升 JavaScript 工具链的执行速度。\n- **工具集合**：涵盖解析器、压缩器、格式化器等多个工具，满足不同开发场景需求。\n- **生态兼容**：致力于与现有 JavaScript 工具链无缝集成，降低迁移成本。\n\n## 技术栈\n- **语言**：Rust\n- **目标平台**：JavaScript 工具链（Node.js 等）\n\n## 项目热度\n- **Star 数**：22,408\n- **Fork 数**：1,221\n- **日增 Star**：16\n\n## 适用场景\n- 需要高性能 JavaScript 解析或转换的开发者\n- 对 Rust 与 JavaScript 结合感兴趣的开发者\n- 希望优化前端构建工具链的团队",
+  "tags": [
+    "Rust",
+    "JavaScript",
+    "高性能",
+    "工具链",
+    "解析器",
+    "压缩器",
+    "格式化器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:21+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "oxc-project",
+    "stars": 22408,
+    "forks": 1221,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20260821-github-f23e08b2de",
+  "title": "holaboss-ai/holaOS",
+  "source": "github_trending",
+  "source_url": "https://github.com/holaboss-ai/holaOS",
+  "summary": "holaOS 是一个开源的智能体工作空间，企业可自行部署。它支持连接企业现有系统（100+ 集成、MCP、聊天工具、应用、浏览器、本地文件），并提供共享内存。兼容任意智能体（如 Claude Code、Codex）和任意模型，支持自带密钥（BYOK）。部署简单快捷，且采用本地优先架构，确保数据不出企业机器。",
+  "content": "## 项目概述\nholaOS 是一个面向企业的开源智能体工作空间，旨在让企业能够快速构建和部署自己的 AI 智能体环境。它强调与现有系统的无缝集成，以及数据隐私和本地化部署。\n\n## 核心特性\n- **广泛集成**：支持 100+ 第三方应用和系统，包括 MCP（模型上下文协议）、聊天工具、浏览器和本地文件等。\n- **共享内存**：提供统一的记忆层，使不同智能体之间可以共享上下文和知识。\n- **智能体兼容**：兼容主流智能体（如 Claude Code、Codex），并支持任意模型或自带密钥（BYOK）。\n- **快速部署**：只需点击几下即可完成设置，无需数月开发周期。\n- **本地优先**：数据默认保存在本地，确保企业数据安全，不泄露到外部。\n\n## 技术架构\n- **语言**：TypeScript\n- **架构**：本地优先（Local-first），支持 MCP 协议，提供丰富的 API 和集成接口。\n\n## 适用场景\n- 企业需要构建内部 AI 助手或智能体工作流。\n- 需要将 AI 能力与现有业务系统（如 CRM、ERP、数据库）深度集成。\n- 对数据隐私和合规性有严格要求的企业。\n\n## 社区与热度\n- 在 GitHub 上获得超过 10k 星标，周增长显著，表明社区关注度高。\n- 由 holaboss-ai 团队维护，持续迭代。",
+  "tags": [
+    "智能体",
+    "工作空间",
+    "开源",
+    "本地优先",
+    "MCP",
+    "企业级",
+    "TypeScript",
+    "AI集成",
+    "数据隐私"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:30+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "holaboss-ai",
+    "stars": 10546,
+    "forks": 711,
+    "daily_stars": null,
+    "weekly_stars": 4282,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

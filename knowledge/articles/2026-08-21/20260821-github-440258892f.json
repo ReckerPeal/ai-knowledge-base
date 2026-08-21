@@ -1,0 +1,36 @@
+{
+  "id": "20260821-github-440258892f",
+  "title": "oseghalep/cloud-cost-optimization-hub",
+  "source": "github_trending",
+  "source_url": "https://github.com/oseghalep/cloud-cost-optimization-hub",
+  "summary": "Cloud Cost Optimization Hub 是一个开源的、自托管的云成本优化平台，提供跨 AWS、GCP 和 Azure 的统一成本可见性和可操作建议。主要功能包括多云成本聚合、资源规格优化建议、闲置资源检测、成本异常告警以及直观的仪表盘，旨在帮助团队降低云支出。",
+  "content": "## 项目概述\nCloud Cost Optimization Hub 是一个开源的、自托管的云成本优化平台，旨在为多云环境（AWS、GCP、Azure）提供统一的成本管理和优化能力。该项目由 oseghalep 开发，当前在 GitHub 上获得 312 颗星和 586 个 fork，属于活跃维护的项目。\n\n## 核心功能\n- **多云成本聚合**：统一展示 AWS、GCP 和 Azure 的成本数据，消除信息孤岛。\n- **资源规格优化建议**：基于使用情况分析，提供实例规格调整建议，避免过度配置。\n- **闲置资源检测**：自动识别未使用或低利用率的资源，帮助回收浪费。\n- **成本异常告警**：实时监控成本变化，异常时及时通知，防止预算超支。\n- **直观仪表盘**：提供友好的可视化界面，便于团队快速理解成本分布和趋势。\n\n## 技术特点\n- **语言**：使用 Go 开发，性能高效，适合处理大规模云数据。\n- **自托管**：用户可完全掌控数据，满足安全和合规要求。\n- **开源**：代码公开，社区可贡献和定制。\n\n## 适用场景\n适用于需要跨云成本管理的企业，尤其是使用多云策略的团队，可显著提升成本透明度和优化效率。\n\n## 项目状态\n当前星标数 312，每周新增约 65 星，表明社区关注度在上升。Fork 数较高，说明有不少用户基于此进行二次开发或贡献。",
+  "tags": [
+    "云成本优化",
+    "多云管理",
+    "开源",
+    "Go",
+    "AWS",
+    "GCP",
+    "Azure",
+    "成本监控",
+    "资源优化",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "oseghalep",
+    "stars": 312,
+    "forks": 586,
+    "daily_stars": null,
+    "weekly_stars": 65,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

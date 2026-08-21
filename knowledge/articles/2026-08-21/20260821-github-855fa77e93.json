@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-855fa77e93",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source": "rss",
+  "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "summary": "本文是 OpenAI 官方发布的《GPT-5.6 构建者指南》，面向开发者与初创企业，介绍如何利用 GPT-5.6 构建更快、更具成本效益的 AI 代理。文章重点讲解了更智能的模型选择策略以及新的 Responses API 能力，帮助开发者优化应用性能与成本。",
+  "content": "## GPT-5.6 构建者指南\n\nOpenAI 官方博客发布了《GPT-5.6 构建者指南》，旨在帮助开发者（尤其是初创企业）充分利用 GPT-5.6 构建高效、低成本的 AI 代理。\n\n### 核心要点\n\n- **更快的构建速度**：GPT-5.6 在推理速度和响应延迟上进行了优化，使 AI 代理能够更快速地响应用户请求，提升用户体验。\n- **成本效益**：通过更智能的模型选择，开发者可以根据任务复杂度动态选择不同规模的模型，避免过度使用大模型造成资源浪费，从而显著降低运营成本。\n- **新的 Responses API 能力**：Responses API 提供了更灵活、更强大的接口，支持更复杂的交互模式，例如流式响应、工具调用和结构化输出，方便开发者构建功能丰富的 AI 代理。\n\n### 适用场景\n\n- 初创企业快速原型开发\n- 生产环境中的 AI 代理部署\n- 需要平衡性能与成本的应用场景\n\n### 总结\n\n本文是 OpenAI 官方对 GPT-5.6 的实用指南，强调了模型选择策略和 API 能力升级，为开发者提供了构建高效 AI 代理的清晰路径。",
+  "tags": [
+    "GPT-5.6",
+    "OpenAI",
+    "AI代理",
+    "Responses API",
+    "模型选择",
+    "成本优化",
+    "开发者指南"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-13T11:00:00+00:00",
+  "collected_at": "2026-08-21T22:23:35+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

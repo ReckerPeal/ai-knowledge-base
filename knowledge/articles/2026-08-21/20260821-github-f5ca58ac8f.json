@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-f5ca58ac8f",
+  "title": "ml-explore/mlx-lm",
+  "source": "github_trending",
+  "source_url": "https://github.com/ml-explore/mlx-lm",
+  "summary": "ml-explore/mlx-lm 是一个使用 MLX 框架运行大型语言模型（LLMs）的开源项目，旨在为 Apple 芯片提供高效的推理和微调能力。",
+  "content": "ml-explore/mlx-lm 是一个基于 MLX 框架的库，专门用于在 Apple 芯片（如 M1/M2/M3 系列）上运行和微调大型语言模型。它提供了简洁的 API 和命令行工具，支持加载 Hugging Face 上的模型权重，并针对 Apple 的 Metal 性能着色器进行了优化，以实现高效的推理和训练。该项目目前拥有 6728 颗星和 981 个 fork，周增长 121 颗星，显示出较高的社区关注度。其主要特点包括：\n- 支持多种主流 LLM 架构（如 LLaMA、Mistral 等）；\n- 提供统一的推理和微调接口；\n- 利用 MLX 框架实现设备端加速；\n- 兼容 Hugging Face 模型库，便于模型获取和部署。\n该项目适合希望在 Apple 硬件上本地运行或定制 LLM 的开发者，尤其适合对隐私和离线部署有需求的场景。",
+  "tags": [
+    "MLX",
+    "LLM",
+    "Apple Silicon",
+    "推理",
+    "微调",
+    "Hugging Face",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:27+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ml-explore",
+    "stars": 6728,
+    "forks": 981,
+    "daily_stars": null,
+    "weekly_stars": 121,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

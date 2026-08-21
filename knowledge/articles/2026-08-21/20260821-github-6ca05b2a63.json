@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-6ca05b2a63",
+  "title": "Tencent/AI-Infra-Guard",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+  "summary": "腾讯开源的 AI 基础设施防护平台，提供全栈 AI 红队测试能力，覆盖 Agent 扫描、技能扫描、MCP 扫描、AI 基础设施扫描及 LLM 评估。",
+  "content": "AI-Infra-Guard 是腾讯推出的全栈 AI 红队测试平台，旨在保障 AI 生态系统安全。其核心功能包括：\n- **Agent 扫描**：检测 AI Agent 的潜在安全漏洞。\n- **技能扫描**：评估 AI 技能模块的安全性。\n- **MCP 扫描**：针对模型上下文协议（MCP）进行安全审计。\n- **AI 基础设施扫描**：检查底层基础设施的配置和漏洞。\n- **LLM 评估**：对大型语言模型进行安全性和鲁棒性评估。\n\n该项目在 GitHub 上表现活跃，短期内获得大量关注（周增星 359），反映了业界对 AI 安全的高度重视。",
+  "tags": [
+    "AI安全",
+    "红队测试",
+    "LLM评估",
+    "Agent安全",
+    "MCP",
+    "基础设施扫描",
+    "腾讯开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:16+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Tencent",
+    "stars": 5226,
+    "forks": 501,
+    "daily_stars": 435,
+    "weekly_stars": 359,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

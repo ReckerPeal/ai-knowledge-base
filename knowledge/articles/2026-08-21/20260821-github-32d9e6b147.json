@@ -1,0 +1,36 @@
+{
+  "id": "20260821-github-32d9e6b147",
+  "title": "bia-pain-bache/BPB-Worker-Panel",
+  "source": "github_trending",
+  "source_url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+  "summary": "BPB-Worker-Panel 是一个基于 TypeScript 的图形化面板，用于管理 Worker 订阅，支持 VLESS、Trojan 和 Warp 配置，并提供私有 DoH 服务器和链式代理。它具备完整的 DNS、Clean IP、Fragment、Warp、Warp Pro 和路由设置，兼容 Amnezia、Wireguard、Sing-box、Clash/Mihomo 和 Xray 等跨平台客户端。",
+  "content": "BPB-Worker-Panel 是一个功能强大的图形化面板，专为 Cloudflare Worker 环境设计，旨在简化代理订阅的管理和配置。该项目在 GitHub 上拥有 13k+ 星标和 31k+ fork，显示出较高的社区关注度。\n\n主要特性包括：\n- 支持 VLESS、Trojan 和 Warp 等多种代理协议，提供灵活的订阅生成。\n- 内置私有 DoH（DNS over HTTPS）服务器，增强 DNS 解析的隐私和安全性。\n- 支持链式代理，允许用户组合多个代理节点，提升网络访问的灵活性和稳定性。\n- 提供全面的 DNS 设置、Clean IP 过滤、Fragment 分片、Warp 和 Warp Pro 配置，以及精细的路由规则。\n- 兼容主流跨平台客户端，如 Amnezia、Wireguard、Sing-box、Clash/Mihomo 和 Xray，用户可根据需求选择。\n\n该项目以 TypeScript 编写，适合有一定技术背景的用户部署和使用。由于涉及网络代理技术，用户需遵守当地法律法规。",
+  "tags": [
+    "TypeScript",
+    "Cloudflare Worker",
+    "代理面板",
+    "VLESS",
+    "Trojan",
+    "Warp",
+    "DoH",
+    "DNS",
+    "路由",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:30+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "bia-pain-bache",
+    "stars": 13165,
+    "forks": 31526,
+    "daily_stars": null,
+    "weekly_stars": 318,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

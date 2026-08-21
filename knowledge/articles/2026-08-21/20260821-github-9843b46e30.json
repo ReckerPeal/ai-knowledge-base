@@ -1,0 +1,33 @@
+{
+  "id": "20260821-github-9843b46e30",
+  "title": "unionlabs/union",
+  "source": "github_trending",
+  "source_url": "https://github.com/unionlabs/union",
+  "summary": "Union 是一个信任最小化的零知识跨链桥协议，旨在实现抗审查、极高安全性，并服务于去中心化金融（DeFi）领域。",
+  "content": "Union 是一个基于 Rust 实现的零知识跨链桥协议，其核心设计目标是信任最小化，即不依赖任何中心化信任实体，通过密码学手段（如零知识证明）确保跨链交易的安全性和完整性。该协议特别强调抗审查能力，能够抵抗网络层面的审查和干预，同时提供极高的安全性，以保护用户资产在跨链过程中的安全。Union 主要面向去中心化金融（DeFi）应用，旨在为 DeFi 生态提供可靠、安全的跨链基础设施。该项目在 GitHub 上拥有 73,855 颗星和 3,889 个 fork，显示出较高的社区关注度和活跃度。",
+  "tags": [
+    "零知识证明",
+    "跨链桥",
+    "去中心化金融",
+    "Rust",
+    "信任最小化",
+    "抗审查",
+    "区块链"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-21T22:23:32+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "unionlabs",
+    "stars": 73855,
+    "forks": 3889,
+    "daily_stars": null,
+    "weekly_stars": 30,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
