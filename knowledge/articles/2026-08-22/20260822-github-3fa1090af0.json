@@ -1,0 +1,31 @@
+{
+  "id": "20260822-github-3fa1090af0",
+  "title": "JuliusBrussee/caveman",
+  "source": "github_trending",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "summary": "caveman 是一个针对 Claude Code 的 skill，通过模拟原始人说话方式，将 token 消耗降低 65%。",
+  "content": "caveman 项目由 JuliusBrussee 开发，旨在通过一种幽默且实用的方式优化 AI 对话中的 token 使用效率。其核心思想是：在 Claude Code 环境中，通过将提示词转换为类似原始人（caveman）的简洁表达，大幅减少 token 数量，从而降低 API 成本并提升响应速度。该项目以 Go 语言实现，在 GitHub 上获得超过 10 万星标，日增星标 348，显示出极高的社区关注度。该 skill 适用于需要频繁调用 Claude API 的开发者，尤其适合对成本敏感或追求极致效率的场景。",
+  "tags": [
+    "Claude Code",
+    "token优化",
+    "效率工具",
+    "Go",
+    "AI成本控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "JuliusBrussee",
+    "stars": 100252,
+    "forks": 5816,
+    "daily_stars": 348,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

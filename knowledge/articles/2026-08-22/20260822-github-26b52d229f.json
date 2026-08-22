@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-26b52d229f",
+  "title": "anthropics/claude-quickstarts",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-quickstarts",
+  "summary": "anthropics/claude-quickstarts 是一个由 Anthropic 官方维护的项目集合，旨在帮助开发者快速上手使用 Claude API 构建可部署的应用程序。该项目提供了多种快速启动模板和示例，覆盖不同场景，适合希望快速集成 Claude 能力的开发者。",
+  "content": "## 项目概述\n\n**anthropics/claude-quickstarts** 是 Anthropic 官方推出的快速启动项目集合，旨在降低开发者使用 Claude API 的门槛。通过提供一系列预构建的示例和模板，开发者可以快速理解 Claude API 的核心功能，并基于这些模板构建自己的可部署应用。\n\n## 核心价值\n\n- **官方维护**：由 Anthropic 团队直接维护，确保示例与最新 API 同步。\n- **快速上手**：提供开箱即用的代码模板，减少从零开始的学习成本。\n- **覆盖广泛**：包含多种应用场景，如聊天机器人、文本分析、代码生成等。\n- **可部署性**：所有示例均设计为可部署状态，方便开发者直接用于生产环境。\n\n## 技术特点\n\n- **语言支持**：主要使用 TypeScript，同时可能包含 Python 等其他语言的示例。\n- **API 集成**：深度集成 Claude API，展示如何调用模型、处理响应、管理对话上下文等。\n- **最佳实践**：代码结构遵循 Anthropic 推荐的最佳实践，包括错误处理、流式输出等。\n\n## 适用人群\n\n- 希望快速集成 Claude API 的开发者。\n- 需要参考官方示例构建 AI 应用的技术团队。\n- 对 Claude 模型能力感兴趣，希望进行原型验证的开发者。\n\n## 社区影响\n\n该项目在 GitHub 上拥有超过 17.5k 星标，显示出其高关注度和实用性。每日新增星标约 18 个，表明其持续受到开发者社区的认可。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "TypeScript",
+    "API",
+    "快速启动",
+    "AI应用",
+    "GitHub"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:43+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 17512,
+    "forks": 3020,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

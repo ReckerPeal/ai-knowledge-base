@@ -1,0 +1,35 @@
+{
+  "id": "20260822-github-65e32dabe8",
+  "title": "vllm-project/vllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "summary": "vLLM 是一个专为大型语言模型（LLMs）设计的高吞吐量、内存高效的推理与服务引擎。它通过先进的技术如 PagedAttention 和 Continuous Batching 显著提升了推理性能，并支持多种主流模型架构，广泛应用于生产环境中的 LLM 部署。",
+  "content": "vLLM 是当前最流行的开源 LLM 推理引擎之一，在 GitHub 上拥有近 9 万星标，每日新增约 104 星，显示出极高的社区活跃度。其核心优势在于：\n\n1. **高吞吐量**：通过 PagedAttention 技术优化 KV 缓存管理，减少内存浪费，支持更大的批处理规模，从而提升整体吞吐量。\n2. **内存高效**：采用连续批处理（Continuous Batching）和高效的内存分配策略，降低显存占用，支持在有限 GPU 资源下运行更大模型。\n3. **易用性**：提供与 OpenAI API 兼容的接口，支持多种主流模型（如 Llama、Mistral、Qwen 等），并集成 Hugging Face 生态，便于快速部署。\n4. **生产级特性**：支持张量并行、量化（如 AWQ、GPTQ）、流式输出、动态批处理等，适用于高并发生产环境。\n5. **社区与生态**：由 vllm-project 维护，拥有活跃的贡献者社区，持续更新以支持最新模型和硬件（如 NVIDIA、AMD GPU）。\n\n该引擎广泛应用于模型推理服务、RAG 系统、Agent 应用等场景，是 LLM 部署的关键基础设施之一。",
+  "tags": [
+    "LLM",
+    "推理引擎",
+    "高性能",
+    "内存优化",
+    "PagedAttention",
+    "vLLM",
+    "开源",
+    "Python",
+    "模型服务"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:40+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 89697,
+    "forks": 21040,
+    "daily_stars": 104,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

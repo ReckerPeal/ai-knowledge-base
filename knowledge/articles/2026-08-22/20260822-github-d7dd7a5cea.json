@@ -1,0 +1,36 @@
+{
+  "id": "20260822-github-d7dd7a5cea",
+  "title": "us/crw",
+  "source": "github_trending",
+  "source_url": "https://github.com/us/crw",
+  "summary": "us/crw 是一个用 Rust 编写的快速、轻量级网络爬虫、抓取和搜索 API，可作为 Firecrawl/Tavily 的替代方案。它提供与 Firecrawl 兼容的 API（/scrape、/crawl、/search），并内置 MCP 服务器，方便 AI 代理集成。在 1000 个 URL 的基准测试中，其速度比 Tavily 快 2.3 倍，比 Firecrawl 快 1.5 倍，且仅占用 6 MB 内存，以单个二进制文件分发。支持自托管或使用托管云服务。",
+  "content": "## 项目简介\nus/crw 是一个用 Rust 编写的快速、轻量级网络爬虫、抓取和搜索 API，旨在作为 Firecrawl 和 Tavily 的替代方案。它提供了与 Firecrawl 兼容的 API 端点（/scrape、/crawl、/search），并内置 MCP（Model Context Protocol）服务器，方便 AI 代理直接集成。\n\n## 核心特性\n- **高性能**：在 1000 个 URL 的基准测试中，速度比 Tavily 快 2.3 倍，比 Firecrawl 快 1.5 倍。\n- **轻量级**：仅占用 6 MB 内存，以单个二进制文件分发，部署简单。\n- **兼容性**：提供与 Firecrawl 兼容的 API，可无缝迁移。\n- **AI 集成**：内置 MCP 服务器，支持 AI 代理直接调用。\n- **部署灵活**：支持自托管或使用托管云服务。\n\n## 技术栈\n- 语言：Rust\n- 主要功能：网络爬虫、网页抓取、搜索 API\n- 协议：MCP（Model Context Protocol）\n\n## 使用场景\n- 需要快速、轻量级网页抓取和搜索服务的开发者。\n- 希望替代 Firecrawl 或 Tavily 的团队，降低资源消耗和成本。\n- 构建 AI 代理，需要集成网页搜索和抓取能力。\n\n## 项目状态\n- 当前星标：647，分叉：46，日增星标：14，表明项目受到一定关注。\n- 语言：Rust，适合对性能有要求的场景。",
+  "tags": [
+    "Rust",
+    "网络爬虫",
+    "网页抓取",
+    "搜索API",
+    "MCP",
+    "AI代理",
+    "Firecrawl替代",
+    "Tavily替代",
+    "轻量级",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "us",
+    "stars": 647,
+    "forks": 46,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

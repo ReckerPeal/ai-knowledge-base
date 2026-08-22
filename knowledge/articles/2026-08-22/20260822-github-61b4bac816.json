@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-61b4bac816",
+  "title": "cordiverse/cordis",
+  "source": "github_trending",
+  "source_url": "https://github.com/cordiverse/cordis",
+  "summary": "Cordis 是一个时空可组合性的元框架，旨在提供一种统一的抽象层，使开发者能够灵活地组合和编排时空数据与计算任务。该项目在 GitHub 上迅速获得关注，周增星标超过 3600，显示出其在时空计算领域的潜力。",
+  "content": "## 项目概述\nCordis 是一个专注于“时空可组合性”的元框架，由 cordiverse 组织开发，使用 TypeScript 编写。其核心理念是提供一个元层级的抽象，允许开发者以模块化、可组合的方式处理时空数据（如地理位置、时间序列等）和相关计算逻辑。\n\n## 技术特点\n- **元框架设计**：不直接提供特定功能，而是定义一套组合规则和接口，让用户按需组装。\n- **时空抽象**：内置对空间（坐标、区域）和时间（时刻、区间）的建模支持，便于构建地理信息系统、轨迹分析、实时调度等应用。\n- **TypeScript 实现**：提供类型安全，适合大型项目集成。\n\n## 社区与热度\n- 当前星标数：7056，周增星标 3614，增长迅猛，表明社区关注度高。\n- 分叉数：408，说明有一定数量的开发者基于其进行二次开发或研究。\n\n## 适用场景\n- 需要处理时空数据的 Web 应用或服务。\n- 希望构建可扩展、可定制时空计算管道的开发者。\n- 对元编程或框架设计感兴趣的开发者。\n\n## 总结\nCordis 作为新兴的时空计算元框架，凭借其独特的设计理念和活跃的社区，正在成为该领域的重要工具。对于需要灵活时空抽象的项目，值得深入评估。",
+  "tags": [
+    "时空数据",
+    "元框架",
+    "TypeScript",
+    "可组合性",
+    "地理信息系统",
+    "实时计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:53+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cordiverse",
+    "stars": 7056,
+    "forks": 408,
+    "daily_stars": null,
+    "weekly_stars": 3614,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20260822-github-586d93ecfa",
+  "title": "diegosouzapw/OmniRoute",
+  "source": "github_trending",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "summary": "OmniRoute 是一个免费的 MIT 许可 AI 网关，通过单一端点聚合 340 多家提供商（其中 90 多家免费）和 1200 多个模型，支持 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax 等主流模型。它兼容 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot 等工具，提供配额感知的自动回退、RTK+Caveman 压缩（节省 15-95% 的 token）、MCP/A2A 支持以及桌面/PWA 应用。项目由 450+ 贡献者共同构建，在 GitHub 上已获得 53k+ stars。",
+  "content": "## 项目概述\nOmniRoute 是一个开源的 AI 网关，旨在简化对多种 AI 模型的访问。它通过一个统一的 API 端点，让开发者能够轻松切换和调用不同提供商的模型，而无需管理多个 API 密钥和端点。\n\n## 核心特性\n- **多提供商支持**：聚合 340+ 提供商，包括 90+ 免费提供商，覆盖 1200+ 模型（如 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax）。\n- **广泛兼容性**：与主流 AI 编码工具（Claude Code、Codex、Cursor、OpenCode、Cline、Copilot）无缝集成。\n- **智能路由**：配额感知的自动回退机制，当某个提供商不可用或配额耗尽时自动切换到备用提供商，确保服务连续性。\n- **Token 压缩**：采用 RTK+Caveman 压缩技术，可节省 15-95% 的 token 消耗，显著降低使用成本。\n- **现代协议支持**：支持 MCP（Model Context Protocol）和 A2A（Agent-to-Agent）协议，便于构建智能体应用。\n- **多端部署**：提供桌面应用和 PWA（渐进式 Web 应用），方便不同场景使用。\n\n## 技术栈与社区\n- 主要使用 TypeScript 开发，保证了类型安全和可维护性。\n- 由 450+ 贡献者共同维护，社区活跃，持续迭代。\n- 采用 MIT 许可证，完全免费商用。\n\n## 适用场景\n- 开发者需要在一个应用中集成多个 AI 模型，进行对比或切换。\n- 希望降低 AI API 调用成本，通过压缩和智能路由优化 token 使用。\n- 构建需要高可用性的 AI 应用，依赖自动回退机制避免单点故障。\n- 使用 AI 编码工具（如 Cursor、Copilot）但希望灵活切换底层模型。\n\n## 快速上手\n1. 克隆仓库并安装依赖。\n2. 配置环境变量，添加至少一个提供商的 API 密钥。\n3. 启动服务，获得统一端点。\n4. 在支持的客户端中配置该端点即可使用。\n\n## 总结\nOmniRoute 是一个功能强大且灵活的 AI 网关，适合个人开发者和企业使用。其免费、开源、多提供商支持的特点，使其成为 AI 应用开发中的实用工具。",
+  "tags": [
+    "AI Gateway",
+    "TypeScript",
+    "开源",
+    "多模型",
+    "API聚合",
+    "Token压缩",
+    "自动回退",
+    "MCP",
+    "PWA",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:43+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "diegosouzapw",
+    "stars": 53001,
+    "forks": 7231,
+    "daily_stars": 768,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

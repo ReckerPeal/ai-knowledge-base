@@ -1,0 +1,34 @@
+{
+  "id": "20260822-github-80e5d468b8",
+  "title": "zzet/gortex",
+  "source": "github_trending",
+  "source_url": "https://github.com/zzet/gortex",
+  "summary": "gortex 是一个高性能代码智能引擎，专为 AI 代理和 IDE 设计，支持 257 种语言和多仓库，基于图结构，提供 CLI、MCP 服务器和 API 访问。它通过仅暴露必要信息，可将 token 使用量减少高达 50 倍，且完全本地化运行。",
+  "content": "gortex 是一个面向 AI 编码代理和 IDE 的高性能代码智能引擎，基于图结构构建，支持 257 种编程语言和多仓库场景。它通过 CLI、MCP 服务器和 API 提供访问接口，旨在成为 AI 编码代理的队友，通过仅暴露必要信息来大幅减少 token 消耗（最高可减少 50 倍），并完全在本地运行，保障数据隐私。项目由 zzet 开发，在 GitHub 上获得 1457 星和 130 fork，近期周增长 292 星，属于 Go 语言生态的热门项目。",
+  "tags": [
+    "code-intelligence",
+    "AI-agent",
+    "IDE",
+    "graph-based",
+    "MCP",
+    "local-first",
+    "Go",
+    "token-optimization"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:57+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "zzet",
+    "stars": 1457,
+    "forks": 130,
+    "daily_stars": null,
+    "weekly_stars": 292,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260822-github-196a8e0187",
+  "title": "zellij-org/zellij",
+  "source": "github_trending",
+  "source_url": "https://github.com/zellij-org/zellij",
+  "summary": "Zellij 是一个功能全面的终端工作区，旨在提供开箱即用的体验，集成了多任务处理、布局管理、插件系统等特性。",
+  "content": "Zellij 是一个用 Rust 编写的终端工作区，其核心理念是“内置电池”（batteries included），即开箱即用，无需复杂配置即可获得强大的终端多路复用功能。它支持多窗格（pane）管理、可自定义的布局、会话持久化、以及通过插件系统扩展功能。Zellij 的设计注重易用性和直观性，同时提供了丰富的快捷键和鼠标支持，适合开发者和系统管理员提高终端工作效率。该项目在 GitHub 上拥有超过 35k 星标，社区活跃，持续更新。",
+  "tags": [
+    "terminal",
+    "workspace",
+    "Rust",
+    "multiplexer",
+    "developer-tools"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "zellij-org",
+    "stars": 35045,
+    "forks": 1402,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

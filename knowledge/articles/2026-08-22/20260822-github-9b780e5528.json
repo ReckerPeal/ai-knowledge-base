@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-9b780e5528",
+  "title": "akitaonrails/ai-memory",
+  "source": "github_trending",
+  "source_url": "https://github.com/akitaonrails/ai-memory",
+  "summary": "ai-memory 是一个为代理编码 CLI 提供长期记忆解决方案的开源项目，旨在促进不同代理供应商之间的交接。",
+  "content": "ai-memory 由 akitaonrails 开发，使用 Rust 编写，在 GitHub 上获得了 4024 颗星和 298 个 fork，周增长 2404 颗星，显示出强劲的社区关注度。该项目专注于解决 AI 代理在编码任务中的长期记忆问题，使得不同代理供应商（如 OpenAI、Anthropic 等）之间的交接更加顺畅。其核心价值在于为 CLI 工具提供持久化的记忆存储，从而提升代理的连续性和效率。该工具可能通过本地存储或数据库实现记忆持久化，并支持跨会话和跨代理的上下文共享。对于开发者而言，ai-memory 有助于构建更智能、更连贯的编码辅助工具。",
+  "tags": [
+    "AI代理",
+    "长期记忆",
+    "Rust",
+    "CLI",
+    "编码助手",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "akitaonrails",
+    "stars": 4024,
+    "forks": 298,
+    "daily_stars": null,
+    "weekly_stars": 2404,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

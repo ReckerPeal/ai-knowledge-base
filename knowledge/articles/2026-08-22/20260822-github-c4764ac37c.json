@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "context-mode 是一个针对 AI 编程代理的上下文窗口优化工具，通过沙箱化工具输出（减少 98% 的上下文占用）、持久化会话记忆，并借助 MCP 和 hooks 在 17 个平台间强制执行路由策略，显著提升 AI 编码效率。",
+  "content": "## 项目概述\n\n**context-mode** 是一个专为 AI 编程代理设计的上下文窗口优化工具，旨在解决 AI 编码过程中上下文窗口溢出、工具输出冗余和会话记忆丢失等核心痛点。\n\n## 核心功能\n\n1. **沙箱化工具输出**：将工具产生的输出进行沙箱隔离，通过压缩和过滤，将上下文占用减少 98%，让 AI 模型专注于关键信息。\n2. **持久化会话记忆**：跨会话保存关键上下文，避免重复加载历史信息，提升连续编码任务的效率。\n3. **跨平台路由**：通过 MCP（Model Context Protocol）和 hooks 机制，在 17 个主流开发平台（如 GitHub、VS Code 等）间强制执行统一的上下文管理策略，确保一致性。\n\n## 技术亮点\n\n- **基于 TypeScript 开发**，类型安全，易于集成。\n- **模块化设计**，支持自定义 hooks 和 MCP 扩展。\n- **高星关注**：GitHub 上获得 20k+ stars，社区活跃。\n\n## 适用场景\n\n- 使用 AI 编程助手（如 Copilot、Codex）进行大型项目开发。\n- 需要跨多个平台管理 AI 会话的团队。\n- 对上下文成本敏感，希望优化 token 使用的开发者。\n\n## 总结\n\ncontext-mode 通过创新的沙箱和路由机制，有效解决了 AI 编程中的上下文瓶颈，是提升 AI 编码效率的实用工具。",
+  "tags": [
+    "AI编程",
+    "上下文优化",
+    "MCP",
+    "TypeScript",
+    "开发工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:43+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 20081,
+    "forks": 1450,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-77b87e7528",
+  "title": "cloudnative-pg/cloudnative-pg",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+  "summary": "CloudNativePG 是最流行的 PostgreSQL Kubernetes Operator，用于在 Kubernetes 上管理和自动化 PostgreSQL 集群。",
+  "content": "CloudNativePG 是一个开源的 Kubernetes Operator，专为 PostgreSQL 设计，旨在简化 PostgreSQL 在 Kubernetes 上的部署、管理和运维。它提供了高可用性、故障转移、备份恢复、监控等企业级功能，并支持声明式配置，使得数据库集群的管理如同管理 Kubernetes 原生资源一样简单。该项目在 GitHub 上拥有超过 9000 颗星，是 PostgreSQL 社区和 Kubernetes 生态中备受关注的项目。",
+  "tags": [
+    "Kubernetes",
+    "PostgreSQL",
+    "Operator",
+    "数据库",
+    "云原生",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:48+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "cloudnative-pg",
+    "stars": 9172,
+    "forks": 748,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

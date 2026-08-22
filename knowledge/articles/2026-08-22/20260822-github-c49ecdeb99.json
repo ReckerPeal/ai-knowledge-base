@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-c49ecdeb99",
+  "title": "ethereum-optimism/optimism",
+  "source": "github_trending",
+  "source_url": "https://github.com/ethereum-optimism/optimism",
+  "summary": "Optimism 是以太坊的扩容解决方案，旨在通过 Optimistic Rollup 技术提升以太坊的交易吞吐量并降低费用。该项目是 Optimism 生态系统的核心代码库，包含智能合约、节点软件和基础设施组件。",
+  "content": "Optimism 是一个基于 Optimistic Rollup 的以太坊 Layer 2 扩容方案。其核心理念是“Optimism is Ethereum, scaled.”，即在保持以太坊安全性的同时，通过将交易数据压缩并批量提交到主网，实现更高的吞吐量和更低的交易成本。该项目包含多个关键组件：op-node（共识客户端）、op-geth（执行客户端）、op-batcher（交易批处理）、op-proposer（状态提交）以及智能合约（如 OptimismPortal 和 L2OutputOracle）。Optimism 采用模块化架构，支持 Bedrock 升级，并积极推动 OP Stack 的标准化，以支持多链生态。该项目使用 Go 语言开发，是 GitHub 上热门的区块链基础设施项目，拥有 6465 颗星和 4015 个 fork，社区活跃。",
+  "tags": [
+    "Optimism",
+    "Ethereum",
+    "Layer2",
+    "Rollup",
+    "Blockchain",
+    "Go",
+    "OP Stack"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ethereum-optimism",
+    "stars": 6465,
+    "forks": 4015,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

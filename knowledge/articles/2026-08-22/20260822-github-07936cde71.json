@@ -1,0 +1,36 @@
+{
+  "id": "20260822-github-07936cde71",
+  "title": "noonghunna/club-3090",
+  "source": "github_trending",
+  "source_url": "https://github.com/noonghunna/club-3090",
+  "summary": "noonghunna/club-3090 是一个社区驱动的开源项目，专注于在 RTX 3090/4090/5090 等 CUDA GPU 上高效部署和运行大型语言模型（LLMs）。该项目支持多种推理引擎（如 vLLM、llama.cpp、ik_llama），并采用模型无关的设计，目前提供 Qwen3.6-27B、Qwen3.6-35B、Gemma 4 26B、Gemma 4 31B 等模型的配置，适用于单卡或双卡环境。",
+  "content": "## 项目概述\n\n**club-3090** 是一个社区配方集合，旨在帮助用户在 RTX 3090/4090/5090 等消费级 CUDA GPU 上运行大型语言模型。项目强调多引擎支持和模型无关性，使用户可以根据硬件和需求灵活选择推理引擎和模型配置。\n\n## 核心特性\n\n- **多引擎支持**：集成 vLLM、llama.cpp、ik_llama 等多种推理引擎，覆盖不同性能与兼容性需求。\n- **模型无关**：设计上不绑定特定模型，可适配多种开源 LLM。\n- **硬件优化**：针对 RTX 30/40/50 系列 GPU 进行配置优化，支持单卡和双卡并行。\n- **社区驱动**：由社区贡献配方，持续更新模型配置和最佳实践。\n\n## 当前支持的模型配置\n\n- Qwen3.6-27B（单卡/双卡）\n- Qwen3.6-35B（单卡/双卡）\n- Gemma 4 26B（单卡/双卡）\n- Gemma 4 31B（单卡/双卡）\n\n## 技术栈\n\n- 主要语言：Python\n- 依赖框架：CUDA、vLLM、llama.cpp、ik_llama 等\n\n## 项目热度\n\n- GitHub Stars：2055\n- Forks：127\n- 周增长：102 stars（截至收集日期）\n\n## 适用场景\n\n- 个人开发者或研究者在消费级 GPU 上部署 LLM\n- 需要灵活切换推理引擎的测试环境\n- 社区驱动的模型配置共享与优化\n\n## 总结\n\nclub-3090 为在 RTX 系列 GPU 上运行 LLM 提供了实用且灵活的解决方案，尤其适合预算有限但希望尝试大模型的用户。通过多引擎支持和社区贡献，项目持续演进，是 LLM 部署领域值得关注的开源资源。",
+  "tags": [
+    "LLM",
+    "CUDA",
+    "vLLM",
+    "llama.cpp",
+    "RTX 3090",
+    "RTX 4090",
+    "RTX 5090",
+    "模型部署",
+    "社区配方",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:50+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "noonghunna",
+    "stars": 2055,
+    "forks": 127,
+    "daily_stars": null,
+    "weekly_stars": 102,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

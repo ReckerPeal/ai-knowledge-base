@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-bd50164965",
+  "title": "envoyproxy/ai-gateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/envoyproxy/ai-gateway",
+  "summary": "envoyproxy/ai-gateway 是一个基于 Envoy Gateway 构建的开源项目，旨在为生成式 AI 服务提供统一访问管理。它通过统一的网关层，简化了对多种 AI 服务的接入、路由、认证和流量控制，使开发者能够更安全、高效地管理和调用生成式 AI 能力。",
+  "content": "## 项目概述\n\nenvoyproxy/ai-gateway 是 Envoy 社区推出的 AI 网关解决方案，它构建在 Envoy Gateway 之上，为生成式 AI 服务提供统一访问层。该项目的主要目标是解决企业在使用多个 AI 服务（如 OpenAI、Anthropic 等）时面临的接入复杂、管理分散、安全策略不一致等问题。\n\n## 核心特性\n\n- **统一接入**：通过一个网关端点，统一管理对多个生成式 AI 服务的访问，简化客户端集成。\n- **智能路由**：支持基于模型、供应商或自定义规则进行请求路由，实现负载均衡和故障转移。\n- **安全与认证**：提供 API 密钥管理、身份验证、授权和审计功能，确保 AI 服务调用的安全性。\n- **流量控制**：支持速率限制、配额管理，防止滥用和成本失控。\n- **可观测性**：集成 Envoy 的监控能力，提供请求日志、指标和追踪，帮助运维人员洞察 AI 服务使用情况。\n\n## 技术架构\n\n项目基于 Go 语言开发，充分利用 Envoy Gateway 的扩展机制，通过自定义过滤器（Filter）和扩展策略（Extension Policy）实现 AI 网关的特定功能。它遵循 Envoy 的声明式配置模型，用户可以通过 Kubernetes CRD 或 Envoy Gateway 的 API 进行配置。\n\n## 适用场景\n\n- 企业需要统一管理多个 AI 服务提供商的接入。\n- 需要为 AI 服务调用实施统一的安全策略和审计。\n- 需要对 AI 服务流量进行精细的治理（如限流、路由）。\n- 希望利用 Envoy 生态的成熟特性（如可观测性、高性能）来增强 AI 服务管理。\n\n## 项目状态\n\n该项目在 GitHub 上拥有近 2000 星，社区活跃，由 Envoy 官方团队维护，适合作为生产级 AI 网关的参考或直接使用。",
+  "tags": [
+    "AI Gateway",
+    "Envoy",
+    "生成式AI",
+    "API管理",
+    "Go",
+    "云原生",
+    "服务网格"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-22T22:10:48+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "envoyproxy",
+    "stars": 1948,
+    "forks": 337,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
