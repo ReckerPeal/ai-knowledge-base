@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-a3286e9e93",
+  "title": "gitbutlerapp/gitbutler",
+  "source": "github_trending",
+  "source_url": "https://github.com/gitbutlerapp/gitbutler",
+  "summary": "GitButler 是一个基于 Git 的版本控制客户端，使用 Tauri/Rust/Svelte 构建，旨在提供更现代、更高效的 Git 工作流。",
+  "content": "GitButler 是一个开源的版本控制客户端，它基于 Git 构建，但提供了全新的用户界面和工作流，以解决传统 Git 命令行和图形工具的痛点。该项目使用 Rust 编写核心逻辑，通过 Tauri 框架构建跨平台桌面应用，前端采用 Svelte 框架。GitButler 的核心特性包括：虚拟分支（Virtual Branches）管理，允许用户在不切换分支的情况下并行处理多个功能；更直观的暂存和提交操作；以及与 GitHub 等平台的集成。该项目在 GitHub 上获得了 21552 颗星，显示出社区的高度关注。其目标是让 Git 的使用更加简单、高效，尤其适合现代开发流程。",
+  "tags": [
+    "Git",
+    "版本控制",
+    "Rust",
+    "Tauri",
+    "Svelte",
+    "桌面应用",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "gitbutlerapp",
+    "stars": 21552,
+    "forks": 1013,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

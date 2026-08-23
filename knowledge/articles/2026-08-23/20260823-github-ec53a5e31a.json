@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-ec53a5e31a",
+  "title": "argoproj/argo-workflows",
+  "source": "github_trending",
+  "source_url": "https://github.com/argoproj/argo-workflows",
+  "summary": "Argo Workflows 是一个为 Kubernetes 设计的开源工作流引擎，用于编排并行作业和容器化任务。",
+  "content": "Argo Workflows 是 Argo 项目家族的核心组件之一，专门用于在 Kubernetes 集群上执行和编排工作流。它允许用户通过 YAML 或 JSON 定义工作流，支持 DAG（有向无环图）和步骤（Steps）两种模式，能够并行执行任务、处理依赖关系、设置重试和超时等。该项目在 GitHub 上拥有超过 16.9k 星标，是云原生计算基金会（CNCF）的孵化项目。它广泛应用于 CI/CD、数据处理、机器学习管道等场景，提供了丰富的 CLI 工具、UI 界面和 REST API，便于集成和监控。",
+  "tags": [
+    "Kubernetes",
+    "工作流引擎",
+    "云原生",
+    "Argo",
+    "CI/CD",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:47+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "argoproj",
+    "stars": 16927,
+    "forks": 3627,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

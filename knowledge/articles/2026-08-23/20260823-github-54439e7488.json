@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-54439e7488",
+  "title": "microsoft/agent-framework",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-framework",
+  "summary": "microsoft/agent-framework 是一个用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。",
+  "content": "microsoft/agent-framework 是微软推出的一个开源框架，旨在简化 AI 代理（Agent）及多代理（Multi-Agent）系统的开发、编排和部署流程。该框架同时支持 Python 和 .NET 两种主流编程语言，为开发者提供了跨语言的一致性体验。其核心功能包括：\n\n- **构建（Building）**：提供丰富的工具和抽象，帮助开发者快速创建具备特定能力的 AI 代理。\n- **编排（Orchestrating）**：支持定义代理之间的交互逻辑，实现复杂任务的协同处理。\n- **部署（Deploying）**：提供与云服务（如 Azure）的集成，方便将代理应用部署到生产环境。\n\n该项目在 GitHub 上表现活跃，截至 2026 年 8 月已获得 13,060 颗星和 2,213 次 Fork，周增长 235 星，显示出社区的高度关注。其技术栈以 Python 为主，同时覆盖 .NET，适合需要跨语言开发的企业级 AI 应用场景。",
+  "tags": [
+    "AI Agent",
+    "多代理系统",
+    "Python",
+    ".NET",
+    "微软",
+    "工作流编排",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:49+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 13060,
+    "forks": 2213,
+    "daily_stars": null,
+    "weekly_stars": 235,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

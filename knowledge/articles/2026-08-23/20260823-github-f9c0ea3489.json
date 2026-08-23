@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-f9c0ea3489",
+  "title": "google/sam",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/sam",
+  "summary": "Google 开源的 SAM（Sovereign Agent Mesh）项目，是一个基于 Go 语言构建的自主智能体网格框架，旨在提供去中心化的智能体编排与协作能力。",
+  "content": "SAM（Sovereign Agent Mesh）是 Google 发布的一个开源项目，采用 Go 语言实现。该项目聚焦于构建自主智能体（Agent）的网格系统，强调智能体的主权性和去中心化协作。通过网格架构，SAM 允许智能体独立运行、相互通信并协调任务，适用于需要高可靠性和弹性的分布式 AI 场景。项目在 GitHub 上表现活跃，短期内获得较多关注，适合对智能体编排、分布式系统感兴趣的开发者研究。",
+  "tags": [
+    "Go",
+    "Agent",
+    "Mesh",
+    "分布式系统",
+    "智能体编排",
+    "Google"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:47+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 555,
+    "forks": 78,
+    "daily_stars": 136,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

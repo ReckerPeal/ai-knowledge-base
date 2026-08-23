@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-9eb0b2fa15",
+  "title": "AlexsJones/llmfit",
+  "source": "github_trending",
+  "source_url": "https://github.com/AlexsJones/llmfit",
+  "summary": "llmfit 是一个用 Rust 编写的命令行工具，支持数百种模型和提供商，通过一条命令即可在本地硬件上找到可运行的模型。",
+  "content": "llmfit 是一个面向 AI 开发者的实用工具，旨在简化模型选择与硬件匹配的过程。它聚合了数百种模型和多个提供商，用户只需执行一条命令，即可自动检测当前硬件（如 CPU、GPU、内存等）并推荐可流畅运行的模型，避免了手动查阅文档和试错的繁琐。该项目在 GitHub 上热度较高，拥有超过 3.3 万星标，近期周增近 2000 星，表明其受到开发者社区的广泛关注。\n\n主要特点：\n- 支持数百种模型和多个提供商，覆盖主流开源模型。\n- 一条命令完成硬件检测与模型推荐，提升开发效率。\n- 基于 Rust 实现，具备高性能和跨平台能力。\n- 适合本地部署、边缘计算和资源受限场景。\n\n适用人群：AI 工程师、MLOps 开发者、对本地模型部署感兴趣的爱好者。",
+  "tags": [
+    "AI",
+    "模型选择",
+    "硬件检测",
+    "Rust",
+    "命令行工具",
+    "本地部署",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:54+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "AlexsJones",
+    "stars": 33672,
+    "forks": 2105,
+    "daily_stars": null,
+    "weekly_stars": 1949,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

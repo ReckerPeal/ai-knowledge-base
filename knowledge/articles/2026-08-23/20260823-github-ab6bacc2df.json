@@ -1,0 +1,31 @@
+{
+  "id": "20260823-github-ab6bacc2df",
+  "title": "cactus-compute/needle",
+  "source": "github_trending",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "summary": "cactus-compute/needle 是一个面向微型设备的 14MB 基础模型，适用于手机、可穿戴设备、智能家居和机器人等场景。",
+  "content": "## 项目概述\n\n**needle** 是由 cactus-compute 开发的一个轻量级基础模型，模型大小仅为 14MB，专为资源受限的微型设备设计。该项目在 GitHub 上受到广泛关注，目前获得 8683 颗星和 560 个 fork，周增长 2664 颗星，显示出强劲的热度。\n\n## 核心特点\n\n- **超小体积**：14MB 的模型大小，适合部署在内存和存储有限的设备上。\n- **广泛适用**：覆盖手机、可穿戴设备、智能家居和机器人等多种终端。\n- **基础模型能力**：尽管体积小，但保留了基础模型的核心能力，可支持多种下游任务。\n\n## 技术价值\n\n该项目探索了在边缘设备上运行基础模型的可能性，为端侧 AI 应用提供了新的解决方案。其轻量级设计可能涉及模型压缩、知识蒸馏或高效架构等技术，对于推动 AI 在物联网和移动端的普及具有重要意义。\n\n## 社区反馈\n\n项目在 GitHub 上热度较高，周增星数超过 2600，说明开发者社区对其非常感兴趣，可能因为其解决了实际部署中的痛点。",
+  "tags": [
+    "基础模型",
+    "轻量级",
+    "边缘计算",
+    "微型设备",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:49+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "cactus-compute",
+    "stars": 8683,
+    "forks": 560,
+    "daily_stars": null,
+    "weekly_stars": 2664,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

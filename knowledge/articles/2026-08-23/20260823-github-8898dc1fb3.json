@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-8898dc1fb3",
+  "title": "heygen-com/hyperframes",
+  "source": "github_trending",
+  "source_url": "https://github.com/heygen-com/hyperframes",
+  "summary": "Hyperframes 是一个专为 AI 代理设计的视频渲染工具，它允许开发者直接编写 HTML 来生成视频，从而简化了视频内容的自动化创建流程。该项目由 HeyGen 团队开发，在 GitHub 上获得了超过 4.2 万颗星，近期热度持续攀升。",
+  "content": "## 项目概述\n\nHyperframes 是一个创新的开源项目，其核心理念是“编写 HTML，渲染视频，为代理而生”。它旨在弥合 Web 技术与视频生成之间的鸿沟，使 AI 代理能够通过简单的 HTML 代码快速生成动态视频内容。\n\n## 核心特性\n\n- **HTML 驱动**：开发者可以使用熟悉的 HTML 标签和 CSS 样式来设计视频帧，无需学习复杂的视频编辑 API。\n- **面向代理优化**：项目特别为 AI 代理的自动化调用设计，提供了简洁的接口，便于集成到智能工作流中。\n- **高效渲染**：将 HTML 转换为视频帧，支持批量处理和实时预览，适合大规模视频生成场景。\n\n## 技术栈与语言\n\n项目主要使用 TypeScript 编写，保证了类型安全和代码可维护性。同时，它可能依赖浏览器引擎（如 Puppeteer）或类似技术来实现 HTML 到视频的转换。\n\n## 社区与热度\n\n该项目在 GitHub 上表现抢眼，拥有 42,233 颗星和 4,047 个 fork，日增星约 149 颗，表明其受到了开发者的广泛关注。作为 GitHub 热点项目，它代表了 AI 与视频生成结合的前沿方向。\n\n## 适用场景\n\n- 自动化生成产品演示视频、教程或营销内容。\n- 为数据可视化提供动态视频输出。\n- 在 AI 代理系统中生成动态用户反馈或报告。\n\n## 总结\n\nHyperframes 通过将 HTML 与视频渲染结合，为 AI 代理提供了一种轻量级、高效的视频生成方案。其简洁的设计和强大的社区支持，使其成为值得关注的开源工具。",
+  "tags": [
+    "AI",
+    "视频生成",
+    "HTML",
+    "TypeScript",
+    "开源",
+    "自动化",
+    "HeyGen"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:42+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "heygen-com",
+    "stars": 42233,
+    "forks": 4047,
+    "daily_stars": 149,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

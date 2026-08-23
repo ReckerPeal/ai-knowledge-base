@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-adbef724cb",
+  "title": "anomalyco/opencode",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "summary": "opencode 是一个开源的编码智能体项目，旨在提供类似 Claude Code 的终端内 AI 编程助手功能，支持多模型、多工具调用，并具备高度可定制性。",
+  "content": "opencode 是一个用 TypeScript 编写的开源编码智能体（coding agent），在 GitHub 上获得了超过 20 万星标，日增星标 421，显示出极高的社区关注度。该项目定位为“The open source coding agent”，即开源编码代理，类似于 Claude Code 的替代方案，但完全开源且可自托管。\n\n核心功能包括：\n- 终端内交互式 AI 编程助手，支持自然语言指令生成代码、重构、调试等。\n- 支持多种主流大语言模型（如 OpenAI、Anthropic、Google 等），用户可自由选择或配置。\n- 提供工具调用能力，可执行 shell 命令、文件操作、代码搜索等，实现自动化任务。\n- 高度可定制，支持自定义提示词、工具、模型参数，以及通过插件扩展功能。\n- 支持会话管理、上下文记忆，便于多轮复杂任务处理。\n\n技术架构上，opencode 采用 TypeScript 构建，保证了类型安全和良好的开发体验。其设计注重模块化和可扩展性，适合开发者集成到自己的工作流中。项目活跃度极高，社区贡献频繁，文档完善，适合希望提升编程效率的开发者、团队以及 AI 应用研究者。",
+  "tags": [
+    "AI编程助手",
+    "编码智能体",
+    "开源",
+    "TypeScript",
+    "大语言模型",
+    "终端工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:42+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "anomalyco",
+    "stars": 200555,
+    "forks": 25919,
+    "daily_stars": 421,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

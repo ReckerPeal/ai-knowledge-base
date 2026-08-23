@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-e0f12c7b2f",
+  "title": "open-policy-agent/opa",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-policy-agent/opa",
+  "summary": "Open Policy Agent (OPA) 是一个开源的通用策略引擎，用于在微服务、Kubernetes、CI/CD 等环境中实现统一、细粒度的访问控制和策略决策。",
+  "content": "Open Policy Agent (OPA) 是一个开源的通用策略引擎，旨在提供统一的策略决策服务。它通过一种高级声明式语言（Rego）来定义策略，并将策略决策与业务逻辑分离，使得策略的管理、更新和审计更加灵活和可靠。OPA 可以集成到各种系统中，包括微服务、Kubernetes、Terraform、Envoy 等，用于实现访问控制、数据过滤、资源配额等场景。其核心优势在于策略的跨平台复用和强大的上下文感知能力，能够显著提升系统的安全性和合规性。该项目在 GitHub 上拥有超过 1.2 万星标，是云原生领域广泛采用的事实标准之一。",
+  "tags": [
+    "policy-engine",
+    "open-policy-agent",
+    "rego",
+    "access-control",
+    "kubernetes",
+    "cloud-native",
+    "go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:47+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "open-policy-agent",
+    "stars": 12137,
+    "forks": 1655,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

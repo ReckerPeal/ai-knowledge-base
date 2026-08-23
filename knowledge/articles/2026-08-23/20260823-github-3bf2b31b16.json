@@ -1,0 +1,33 @@
+{
+  "id": "20260823-github-3bf2b31b16",
+  "title": "youssofal/MTPLX",
+  "source": "github_trending",
+  "source_url": "https://github.com/youssofal/MTPLX",
+  "summary": "MTPLX 是一个针对 Apple Silicon 的 MLX 优化项目，通过原生 MTP 推测解码技术，在 Qwen 3.8 27B 模型上实现了 3 倍速度提升，无需外部草稿模型。",
+  "content": "## 项目概述\nMTPLX 是一个专注于 Apple Silicon 上 MLX 框架性能优化的开源项目。它通过实现原生 MTP（Multi-Token Prediction）推测解码技术，显著加速了大型语言模型的推理速度，特别是在 Qwen 3.8 27B 模型上，实现了 3 倍的性能提升。该项目无需外部草稿模型，直接在 MLX 框架内完成推测解码，简化了部署流程。\n\n## 核心特性\n- **高性能**：在 Apple Silicon 上实现 3 倍推理加速。\n- **原生 MTP 支持**：集成多 token 预测推测解码，无需外部 drafter。\n- **针对 MLX 优化**：充分利用 Apple Silicon 的硬件特性。\n- **模型兼容性**：支持 Qwen 3.8 27B 等大型模型。\n\n## 技术亮点\n- **推测解码**：通过同时预测多个 token，减少解码步骤，提升速度。\n- **原生集成**：避免外部依赖，降低延迟和资源消耗。\n- **硬件适配**：针对 Apple Silicon 的 GPU 和神经引擎进行优化。\n\n## 适用场景\n- 需要在 Apple Silicon 设备上高效运行大型语言模型的开发者。\n- 对推理速度有严格要求的边缘计算或本地部署场景。\n- 研究推测解码技术及其在 MLX 框架中的应用。\n\n## 项目状态\n- 当前星标数：1593，周增长 370，表明社区关注度较高。\n- 语言：Python，主要面向 MLX 生态。",
+  "tags": [
+    "MLX",
+    "Apple Silicon",
+    "推测解码",
+    "MTP",
+    "Qwen",
+    "推理加速",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-23T22:12:49+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "youssofal",
+    "stars": 1593,
+    "forks": 115,
+    "daily_stars": null,
+    "weekly_stars": 370,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
