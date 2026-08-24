@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-a9bca652f0",
+  "title": "Tracer-Cloud/opensre",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tracer-Cloud/opensre",
+  "summary": "opensre 是一个开源工具包，用于构建 AI 时代的 SRE（站点可靠性工程）智能体。它提供了一套完整的解决方案，帮助团队利用 AI 技术实现自动化运维、故障预测和智能响应。",
+  "content": "## 项目概述\n\nopensre 是一个面向 AI 时代的开源 SRE 工具包，旨在帮助工程师构建自己的 AI SRE 智能体。该项目由 Tracer-Cloud 发起，在 GitHub 上获得了超过 1 万颗星，显示出社区的高度关注。\n\n## 核心功能\n\n- **AI 智能体构建**：提供模块化组件，支持创建自定义的 AI SRE 代理，用于监控、告警、故障诊断等场景。\n- **自动化运维**：通过 AI 技术实现日常运维任务的自动化，减少人工干预。\n- **智能故障响应**：利用机器学习模型预测潜在故障，并自动触发响应机制。\n- **可扩展架构**：支持插件式扩展，方便集成到现有运维体系中。\n\n## 技术亮点\n\n- 基于 Python 开发，易于上手和二次开发。\n- 采用现代 AI 框架（如 TensorFlow、PyTorch 等）进行模型训练和推理。\n- 提供丰富的 API 接口，便于与其他系统集成。\n\n## 适用场景\n\n- 大型互联网公司的运维团队\n- 云服务提供商\n- 对 AIOps 感兴趣的技术团队\n\n## 社区与生态\n\n- 项目活跃度高，每日新增星标数可观。\n- 拥有完善的文档和示例代码，降低使用门槛。\n- 鼓励社区贡献，持续迭代更新。",
+  "tags": [
+    "AI",
+    "SRE",
+    "运维",
+    "开源",
+    "Python",
+    "AIOps",
+    "智能体"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:41+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "Tracer-Cloud",
+    "stars": 10855,
+    "forks": 1576,
+    "daily_stars": 41,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-3057d1bd55",
+  "title": "oxc-project/oxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/oxc-project/oxc",
+  "summary": "oxc-project/oxc 是一个用 Rust 编写的高性能 JavaScript 工具集合，旨在为 JavaScript 生态提供更快的解析、转换和检查能力。该项目在 GitHub 上获得了超过 2.2 万星标，属于 Rust 语言的热门项目。",
+  "content": "## 项目概述\noxc-project/oxc 是一个用 Rust 编写的高性能 JavaScript 工具集合，其目标是打造一套更快速、更可靠的 JavaScript 开发工具链。项目名称 'oxc' 代表 'Oxidation Compiler'，强调通过 Rust 的内存安全和零成本抽象来提升性能。\n\n## 核心特性\n- **高性能**：利用 Rust 的并发和性能优势，提供比传统 JavaScript 工具更快的解析、转换和代码检查速度。\n- **工具集合**：包含多个子工具，如解析器、转换器、代码检查器等，覆盖 JavaScript 开发的关键环节。\n- **生态兼容**：旨在与现有 JavaScript 生态无缝集成，支持常用语法和标准。\n\n## 技术栈\n- 主要语言：Rust\n- 相关技术：可能涉及 WASM（WebAssembly）以在浏览器或 Node.js 中运行，以及基于 Rust 的解析器生成器（如 pest 或 nom）。\n\n## 项目热度\n- 星标数：22,462\n- Fork 数：1,235\n- 日增星标：12\n- 周增星标：114\n- 分类：GitHub 热点 · Rust\n\n## 应用场景\n- 前端构建工具链的加速\n- 代码质量检查（Linting）的优化\n- 需要高性能解析的 JavaScript 工具开发\n\n## 总结\noxc 项目代表了 JavaScript 工具链向系统级语言迁移的趋势，通过 Rust 提供极致性能，适合对构建速度和工具效率有高要求的开发者或团队。",
+  "tags": [
+    "Rust",
+    "JavaScript",
+    "高性能",
+    "工具链",
+    "编译器",
+    "解析器",
+    "代码检查"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:47+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "oxc-project",
+    "stars": 22462,
+    "forks": 1235,
+    "daily_stars": 12,
+    "weekly_stars": 114,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

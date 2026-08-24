@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-9a84e49eed",
+  "title": "authelia/authelia",
+  "source": "github_trending",
+  "source_url": "https://github.com/authelia/authelia",
+  "summary": "Authelia 是一个用于 Web 应用的单点登录（SSO）和多因素认证（MFA）门户，现已获得 OpenID 认证。",
+  "content": "Authelia 是一个开源的身份认证和授权服务器，专注于为 Web 应用提供单点登录（SSO）和多因素认证（MFA）功能。它支持多种认证方式，包括密码、TOTP（基于时间的一次性密码）、U2F/WebAuthn 等，并集成了 OpenID Connect 协议，已通过 OpenID 认证。该项目使用 Go 语言开发，具有高性能和易部署的特点。Authelia 可以反向代理集成，保护敏感应用，提供访问控制、会话管理和用户管理等功能。其 GitHub 仓库活跃，拥有 28675 颗星和 1470 个 fork，近期每日新增约 15 颗星，每周新增约 83 颗星，显示出较高的社区关注度和持续更新。",
+  "tags": [
+    "单点登录",
+    "多因素认证",
+    "OpenID Connect",
+    "Go",
+    "身份认证",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "authelia",
+    "stars": 28675,
+    "forks": 1470,
+    "daily_stars": 15,
+    "weekly_stars": 83,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

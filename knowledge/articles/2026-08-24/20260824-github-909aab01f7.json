@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-909aab01f7",
+  "title": "ZSeven-W/openpencil",
+  "source": "github_trending",
+  "source_url": "https://github.com/ZSeven-W/openpencil",
+  "summary": "OpenPencil 是全球首个开源 AI 原生矢量设计工具，也是首个支持并发 Agent 团队的设计工具。它采用 Design-as-Code 理念，允许用户直接在实时画布上通过提示词生成 UI，是 Pencil 的现代替代品。",
+  "content": "OpenPencil 是一个基于 Rust 构建的开源项目，定位为 AI 原生的矢量设计工具。其核心创新在于：1）将设计视为代码（Design-as-Code），支持通过自然语言提示词直接在画布上生成 UI 元素；2）引入并发 Agent 团队机制，可协同完成复杂设计任务。该项目在 GitHub 上表现活跃，已获得 5619 星标和 492 次 fork，周增长 533 星，显示出较强的社区关注度。作为 Pencil 的现代替代品，它旨在融合 AI 能力与矢量编辑的灵活性，适合设计师、开发者及 AI 工具爱好者使用。",
+  "tags": [
+    "AI-native",
+    "vector-design",
+    "design-as-code",
+    "Rust",
+    "open-source",
+    "UI-generation",
+    "agent-teams"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ZSeven-W",
+    "stars": 5619,
+    "forks": 492,
+    "daily_stars": null,
+    "weekly_stars": 533,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

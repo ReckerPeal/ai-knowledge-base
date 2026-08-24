@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-348c4e98d0",
+  "title": "entireio/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/entireio/cli",
+  "summary": "Entire CLI 是一个 Go 语言开发的命令行工具，它集成到 Git 工作流中，自动捕获 AI 代理会话，并将会话与提交关联索引，从而在仓库中创建可搜索的代码编写过程记录。",
+  "content": "Entire CLI 是一个面向开发者的工具，旨在解决 AI 辅助编码过程中缺乏可追溯性的问题。它通过钩入 Git 工作流，在开发者使用 AI 代理（如 Copilot、Codex 等）编写代码时，自动记录会话内容。这些会话数据被索引并与对应的 Git 提交关联，形成一个可搜索的历史记录，展示代码是如何一步步被编写出来的。该工具使用 Go 语言编写，具有高性能和跨平台特性。其核心价值在于提升代码审查、团队协作和项目维护的效率，让开发者能够回溯 AI 的决策过程，理解代码演变逻辑。当前该项目在 GitHub 上获得超过 5000 星标，周增长 63 星，显示出社区的高度关注。",
+  "tags": [
+    "Git",
+    "AI代理",
+    "会话记录",
+    "代码追溯",
+    "开发工具",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:31:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "entireio",
+    "stars": 5002,
+    "forks": 394,
+    "daily_stars": null,
+    "weekly_stars": 63,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

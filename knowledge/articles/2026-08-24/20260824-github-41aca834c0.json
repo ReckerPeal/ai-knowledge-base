@@ -1,0 +1,35 @@
+{
+  "id": "20260824-github-41aca834c0",
+  "title": "QuantumNous/new-api",
+  "source": "github_trending",
+  "source_url": "https://github.com/QuantumNous/new-api",
+  "summary": "QuantumNous/new-api 是一个统一的 AI 模型中心，用于聚合和分发多种大型语言模型（LLM）。它支持将各种 LLM 交叉转换为 OpenAI、Claude 或 Gemini 兼容格式，为个人和企业提供集中式的模型管理网关。",
+  "content": "QuantumNous/new-api 是一个开源的 AI 模型网关，旨在解决多模型管理复杂性问题。它通过统一接口聚合多种 LLM，并支持格式转换，使得不同模型可以无缝集成到现有系统中。该项目在 GitHub 上拥有 46k+ 星标，显示出其广泛的社区认可。\n\n**核心功能**：\n- **模型聚合**：将多个 LLM（如 OpenAI、Claude、Gemini 等）集中管理，提供单一入口。\n- **格式转换**：自动将不同模型的请求/响应格式转换为 OpenAI、Claude 或 Gemini 兼容格式，降低集成成本。\n- **分发与负载均衡**：支持请求分发，优化资源利用。\n- **个人与企业适用**：既适合个人开发者，也适合企业级部署。\n\n**技术特点**：\n- 基于 Go 语言开发，性能高效。\n- 支持多种部署方式，易于扩展。\n- 活跃的社区和持续的更新（周增星 761）。\n\n**适用场景**：\n- 多模型切换与测试\n- 统一 API 网关\n- 企业级 AI 服务管理\n\n该项目是 AI 基础设施领域的重要工具，尤其适合需要灵活集成多种 LLM 的开发者。",
+  "tags": [
+    "AI",
+    "LLM",
+    "API网关",
+    "模型聚合",
+    "OpenAI",
+    "Claude",
+    "Gemini",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:31:00+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "QuantumNous",
+    "stars": 46115,
+    "forks": 10954,
+    "daily_stars": null,
+    "weekly_stars": 761,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

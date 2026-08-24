@@ -1,0 +1,34 @@
+{
+  "id": "20260824-github-bb07e4bb12",
+  "title": "pocket-id/pocket-id",
+  "source": "github_trending",
+  "source_url": "https://github.com/pocket-id/pocket-id",
+  "summary": "pocket-id 是一个基于 Go 语言开发的开源身份认证提供者，兼容 OpenID Connect 和 OAuth 2.0 标准，并已获得 OpenID Connect Certified™ 认证。它专注于提供最友好的用户体验，支持通过 Passkey（通行密钥）进行无密码登录，使用户能够安全便捷地访问应用程序。该项目在 GitHub 上已获得超过 9000 颗星，近期热度持续上升。",
+  "content": "## 项目概述\n\npocket-id 是一个开源的身份认证提供者（IdP），旨在简化用户登录流程，同时保持高安全性和标准兼容性。它实现了 OpenID Connect (OIDC) 和 OAuth 2.0 协议，并已通过 OpenID 基金会的官方认证，确保与各类应用的无缝集成。\n\n## 核心特性\n\n- **Passkey 支持**：利用 WebAuthn 标准，允许用户使用生物识别、设备 PIN 或安全密钥进行无密码登录，提升安全性和用户体验。\n- **标准兼容**：作为 OIDC Certified™ 提供者，支持授权码流、PKCE、刷新令牌等标准功能，可替代 Auth0、Okta 等商业服务。\n- **易于部署**：使用 Go 编写，编译为单一二进制文件，支持 Docker 部署，配置简单，适合个人项目或小型团队。\n- **用户友好**：界面简洁，注册和登录流程直观，降低终端用户的使用门槛。\n\n## 技术架构\n\n- **语言**：Go（Golang），具有高性能和并发优势。\n- **存储**：默认使用 SQLite，可选 PostgreSQL，支持数据持久化。\n- **前端**：基于 Svelte 构建轻量级 UI，提供响应式体验。\n\n## 适用场景\n\n- 需要为自托管应用（如 Nextcloud、Grafana）添加统一认证入口。\n- 希望摆脱密码管理，采用无密码认证的团队或项目。\n- 需要符合 OIDC/OAuth2 标准且可自托管的身份服务。\n\n## 社区与热度\n\n- GitHub 星标：9,005，周增 165，表明社区关注度较高。\n- 项目活跃，持续迭代，适合关注身份认证领域的技术人员。\n\n## 总结\n\npocket-id 提供了一个现代、安全且用户友好的身份认证解决方案，特别适合希望采用 Passkey 技术的开发者。其标准认证和易用性使其成为开源社区中的优秀选择。",
+  "tags": [
+    "Go",
+    "OpenID Connect",
+    "OAuth2",
+    "Passkey",
+    "身份认证",
+    "无密码登录",
+    "自托管",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:31:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pocket-id",
+    "stars": 9005,
+    "forks": 304,
+    "daily_stars": null,
+    "weekly_stars": 165,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

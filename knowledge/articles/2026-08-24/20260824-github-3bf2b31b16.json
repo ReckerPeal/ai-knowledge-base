@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-3bf2b31b16",
+  "title": "youssofal/MTPLX",
+  "source": "github_trending",
+  "source_url": "https://github.com/youssofal/MTPLX",
+  "summary": "MTPLX 是一个针对 Apple Silicon 的 MLX 加速推理项目，通过原生 MTP 推测解码实现 3 倍速度提升，支持 Qwen 3.8 27B 模型，无需外部草稿模型。",
+  "content": "MTPLX 是一个专注于 Apple Silicon 平台的机器学习推理加速项目，基于 MLX 框架实现。其核心创新在于原生多 token 预测（MTP）推测解码技术，无需外部草稿模型即可显著提升推理速度，实测在 Qwen 3.8 27B 模型上达到 3 倍加速。该项目在 GitHub 上表现活跃，周增星 341 颗，总星标 1625，显示出社区高度关注。技术栈以 Python 为主，适合对 Apple Silicon 上大模型推理性能优化感兴趣的开发者研究。",
+  "tags": [
+    "MLX",
+    "Apple Silicon",
+    "推测解码",
+    "推理加速",
+    "Qwen",
+    "MTP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:52+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "youssofal",
+    "stars": 1625,
+    "forks": 118,
+    "daily_stars": null,
+    "weekly_stars": 341,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

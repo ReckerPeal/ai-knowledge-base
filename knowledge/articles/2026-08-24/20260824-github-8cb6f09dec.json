@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-8cb6f09dec",
+  "title": "langchain-ai/open_deep_research",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/open_deep_research",
+  "summary": "langchain-ai/open_deep_research 是一个基于 LangChain 的开源深度研究工具，旨在自动化多步骤研究流程，生成结构化研究报告。该项目在 GitHub 上获得 12673 星和 1811 次 fork，近期日增 5 星，显示出持续关注度。",
+  "content": "## 项目概述\nopen_deep_research 由 LangChain AI 团队开发，是一个用于自动化深度研究的开源框架。它利用大语言模型（LLM）和检索增强生成（RAG）技术，将研究任务分解为多个步骤，包括查询生成、信息检索、内容综合和报告撰写，最终输出结构化的研究报告。\n\n## 核心功能\n- **多步骤研究流程**：自动规划研究路径，迭代执行搜索和内容提取。\n- **结构化输出**：生成包含引言、分析、结论和参考文献的 Markdown 报告。\n- **可定制化**：支持自定义研究主题、深度和输出格式。\n- **与 LangChain 生态集成**：无缝对接 LangChain 的组件和工具。\n\n## 技术亮点\n- 基于 Python 实现，依赖 LangChain、LangGraph 等库。\n- 支持多种 LLM 提供商（如 OpenAI、Anthropic）和搜索 API（如 Tavily、SerpAPI）。\n- 采用异步处理提升效率，并内置错误重试机制。\n\n## 适用场景\n- 学术研究辅助：快速收集文献并生成综述。\n- 市场分析：自动生成竞品或行业报告。\n- 内容创作：为文章或视频提供背景资料。\n\n## 社区与热度\n项目在 GitHub 上表现活跃，拥有 12.7k 星标，日增 5 星，表明其受到开发者社区的认可。适合对自动化研究工具感兴趣的开发者、数据科学家和 AI 爱好者。",
+  "tags": [
+    "LangChain",
+    "深度研究",
+    "自动化",
+    "RAG",
+    "LLM",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:41+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 12673,
+    "forks": 1811,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

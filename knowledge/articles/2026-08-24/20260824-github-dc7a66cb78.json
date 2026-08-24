@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "freellmapi 是一个 OpenAI 兼容的代理服务，将 28 家 LLM 提供商的免费额度（约每月 40 亿 token）整合到一个 /v1 端点后面，并支持任意自定义 OpenAI 兼容端点。具备智能路由、自动故障转移和加密密钥功能，仅供个人实验使用。",
+  "content": "## 项目概述\n\nfreellmapi 是一个基于 TypeScript 的开源项目，旨在通过一个统一的 OpenAI 兼容 API 端点，聚合多个 LLM 提供商的免费层资源。该项目在 GitHub 上获得了 19639 颗星，显示出较高的社区关注度。\n\n## 核心功能\n\n- **统一端点**：将 28 家 LLM 提供商的免费额度整合到一个 /v1 端点，简化 API 调用。\n- **智能路由**：根据请求自动选择最优的提供商，提高响应速度和成功率。\n- **自动故障转移**：当某个提供商不可用时，自动切换到备用提供商，保证服务连续性。\n- **加密密钥**：API 密钥经过加密存储，增强安全性。\n- **自定义端点支持**：允许用户添加任意 OpenAI 兼容的端点，扩展灵活性。\n\n## 技术特点\n\n- 使用 TypeScript 编写，类型安全，易于维护。\n- 兼容 OpenAI API 格式，降低迁移成本。\n- 设计为个人实验用途，适合开发者测试和原型开发。\n\n## 适用场景\n\n- 开发者需要低成本访问多个 LLM 提供商进行测试。\n- 希望统一管理多个 API 密钥和免费额度的场景。\n- 需要高可用性和故障转移的轻量级应用。\n\n## 注意事项\n\n- 仅限个人实验，不适用于生产环境。\n- 免费额度有限，需注意各提供商的速率限制。\n- 需自行承担使用风险，遵守各提供商的服务条款。",
+  "tags": [
+    "OpenAI",
+    "LLM",
+    "API代理",
+    "TypeScript",
+    "免费资源",
+    "智能路由",
+    "故障转移"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:44+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 19639,
+    "forks": 2863,
+    "daily_stars": 153,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

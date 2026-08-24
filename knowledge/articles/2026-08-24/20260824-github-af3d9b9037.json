@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-af3d9b9037",
+  "title": "RyanCodrai/turbovec",
+  "source": "github_trending",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "summary": "turbovec 是一个基于 TurboQuant 构建的向量索引库，使用 Rust 编写并提供 Python 绑定。",
+  "content": "turbovec 是一个高性能的向量索引库，底层基于 TurboQuant 量化技术，旨在提供高效的向量检索能力。项目使用 Rust 语言开发，保证了内存安全和性能，同时通过 Python 绑定使得 Python 开发者可以方便地使用。该库可能适用于大规模向量相似度搜索场景，如推荐系统、图像检索、自然语言处理等。项目在 GitHub 上受到广泛关注，拥有超过 16k 的星标，近期增长迅速。",
+  "tags": [
+    "向量索引",
+    "Rust",
+    "Python绑定",
+    "TurboQuant",
+    "向量检索",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:57+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "RyanCodrai",
+    "stars": 16329,
+    "forks": 1413,
+    "daily_stars": null,
+    "weekly_stars": 1483,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

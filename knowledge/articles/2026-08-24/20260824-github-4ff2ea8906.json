@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-4ff2ea8906",
+  "title": "future-agi/future-agi",
+  "source": "github_trending",
+  "source_url": "https://github.com/future-agi/future-agi",
+  "summary": "future-agi 是一个开源的端到端平台，用于评估、观察和改进 LLM 及 AI 代理应用，提供追踪、评估、模拟、数据集、网关和护栏等功能，支持自托管，采用 Apache 2.0 许可证。",
+  "content": "future-agi 是一个面向 LLM 和 AI 代理应用的全生命周期管理平台，核心功能包括：\n- **Tracing（追踪）**：记录应用运行时的详细调用链，便于调试和性能分析。\n- **Evals（评估）**：提供标准化的评估框架，支持自定义指标，用于衡量模型输出质量。\n- **Simulations（模拟）**：模拟真实用户交互场景，测试代理在复杂环境下的表现。\n- **Datasets（数据集）**：管理训练和评估数据集，支持版本控制和导入导出。\n- **Gateway（网关）**：统一 API 入口，支持多模型路由和负载均衡。\n- **Guardrails（护栏）**：内置安全过滤和合规检查，防止有害输出。\n\n平台采用模块化设计，可自托管部署，适合企业级应用。技术栈基于 Python，遵循 Apache 2.0 开源协议，社区活跃（GitHub 星标 1801，周增 112）。",
+  "tags": [
+    "LLM",
+    "AI代理",
+    "评估平台",
+    "可观测性",
+    "开源",
+    "Python",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:52+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "future-agi",
+    "stars": 1801,
+    "forks": 541,
+    "daily_stars": null,
+    "weekly_stars": 112,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

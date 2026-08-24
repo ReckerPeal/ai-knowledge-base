@@ -1,0 +1,35 @@
+{
+  "id": "20260824-github-ea01c3b0ec",
+  "title": "pocketbase/pocketbase",
+  "source": "github_trending",
+  "source_url": "https://github.com/pocketbase/pocketbase",
+  "summary": "PocketBase 是一个开源实时后端，以单个文件形式提供，包含数据库、认证、文件存储和实时 API。",
+  "content": "PocketBase 是一个用 Go 编写的开源实时后端，其核心特点是所有功能都打包在一个可执行文件中，极大简化了部署和运维。它内置了嵌入式 SQLite 数据库、用户认证、文件存储、REST API 和实时订阅功能，适合快速构建全栈应用或作为微服务的一部分。项目在 GitHub 上拥有 60,790 星标和 3,656 个 fork，近期日增星标 14，显示出持续的热度。其设计理念是提供类似 Firebase 的体验，但保持轻量级和自托管。对于开发者而言，PocketBase 降低了后端开发门槛，尤其适合原型开发、小型项目或边缘计算场景。",
+  "tags": [
+    "Go",
+    "后端",
+    "实时",
+    "开源",
+    "SQLite",
+    "自托管",
+    "API",
+    "认证",
+    "文件存储"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pocketbase",
+    "stars": 60790,
+    "forks": 3656,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

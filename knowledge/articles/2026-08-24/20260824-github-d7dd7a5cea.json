@@ -1,0 +1,36 @@
+{
+  "id": "20260824-github-d7dd7a5cea",
+  "title": "us/crw",
+  "source": "github_trending",
+  "source_url": "https://github.com/us/crw",
+  "summary": "crw 是一个用 Rust 编写的快速、轻量级网络爬虫、抓取和搜索 API，可作为 Firecrawl/Tavily 的替代品，并内置 MCP 服务器以支持 AI 代理。它提供与 Firecrawl 兼容的 API（/scrape、/crawl、/search），在 1K URL 基准测试中比 Tavily 快 2.3 倍，比 Firecrawl 快 1.5 倍，内存占用仅 6 MB，可自托管或使用托管云服务。",
+  "content": "## 项目概述\n\ncrw 是一个用 Rust 实现的高性能网络数据采集工具，旨在成为 Firecrawl 和 Tavily 的轻量级替代方案。它集成了网络爬虫、抓取和搜索功能，并提供了 MCP（Model Context Protocol）服务器，方便 AI 代理直接调用。\n\n## 核心特性\n\n- **高性能**：在 1K URL 基准测试中，速度比 Tavily 快 2.3 倍，比 Firecrawl 快 1.5 倍。\n- **轻量级**：内存占用仅 6 MB，单一二进制文件，易于部署。\n- **API 兼容**：提供与 Firecrawl 兼容的 API 端点（/scrape、/crawl、/search），可无缝迁移。\n- **AI 集成**：内置 MCP 服务器，支持 AI 代理直接调用。\n- **部署灵活**：支持自托管或使用托管云服务。\n\n## 技术架构\n\n- **语言**：Rust\n- **API 设计**：RESTful，兼容 Firecrawl 接口\n- **MCP 服务器**：为 AI 代理提供标准化接口\n\n## 适用场景\n\n- 需要快速、低资源消耗的网络数据采集\n- 构建 AI 代理需要集成网络搜索和抓取能力\n- 希望从 Firecrawl/Tavily 迁移到更轻量、更快的解决方案\n\n## 性能对比\n\n| 指标 | crw | Tavily | Firecrawl |\n|------|-----|--------|-----------|\n| 速度（1K URL） | 1x | 2.3x 慢 | 1.5x 慢 |\n| 内存占用 | 6 MB | - | - |\n\n## 快速开始\n\n1. 下载单一二进制文件或使用托管云服务\n2. 启动服务，调用 /scrape、/crawl、/search 端点\n3. 或通过 MCP 服务器集成到 AI 代理中\n\n## 社区与支持\n\n- GitHub 星标：722\n- 分支数：53\n- 近期增长迅速（日增 38 星）",
+  "tags": [
+    "Rust",
+    "web-scraper",
+    "crawler",
+    "search-api",
+    "MCP",
+    "AI-agents",
+    "Firecrawl-alternative",
+    "Tavily-alternative",
+    "lightweight",
+    "high-performance"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:47+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "us",
+    "stars": 722,
+    "forks": 53,
+    "daily_stars": 38,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

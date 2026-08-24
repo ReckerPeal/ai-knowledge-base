@@ -1,0 +1,33 @@
+{
+  "id": "20260824-github-ed690e59e2",
+  "title": "biomejs/biome",
+  "source": "github_trending",
+  "source_url": "https://github.com/biomejs/biome",
+  "summary": "Biome 是一个用于 Web 项目的工具链，旨在提供维护 Web 项目所需的功能。它提供了格式化器和 linter，可通过 CLI 和 LSP 使用。",
+  "content": "Biome 是一个用 Rust 编写的 Web 项目工具链，旨在为 Web 项目提供全面的维护功能。它集成了格式化器（formatter）和 linter，能够帮助开发者统一代码风格、发现潜在问题。Biome 支持通过命令行界面（CLI）和语言服务器协议（LSP）使用，可以无缝集成到主流编辑器中。该项目在 GitHub 上拥有超过 25,000 颗星，社区活跃，是前端工具链领域的热门选择。",
+  "tags": [
+    "工具链",
+    "格式化器",
+    "linter",
+    "Rust",
+    "Web 开发",
+    "CLI",
+    "LSP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:30:47+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "biomejs",
+    "stars": 25635,
+    "forks": 1202,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

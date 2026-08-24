@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-4e38edc476",
+  "title": "coreybutler/nvm-windows",
+  "source": "github_trending",
+  "source_url": "https://github.com/coreybutler/nvm-windows",
+  "summary": "nvm-windows 是一个专为 Windows 平台设计的 Node.js 版本管理工具，尽管其名称暗示与 nvm 相关，但实际使用 Go 语言编写，提供了简单易用的命令行界面来安装、切换和管理多个 Node.js 版本。",
+  "content": "## 项目概述\nnvm-windows 是 Windows 系统下的 Node.js 版本管理器，允许用户在同一台机器上安装和切换多个 Node.js 版本。它解决了 Windows 上 Node.js 版本管理不便的问题，尤其适合需要测试不同版本兼容性的开发者。\n\n## 技术特点\n- **语言实现**：虽然项目名为 nvm-windows，但核心代码使用 Go 编写，这使其在 Windows 上具有更好的性能和跨平台编译能力。\n- **功能特性**：\n  - 支持安装、卸载、切换 Node.js 版本\n  - 支持从官方或镜像源下载\n  - 支持设置全局默认版本\n  - 提供命令行接口，易于脚本化\n- **用户体验**：提供简洁的命令行操作，如 `nvm install <version>`、`nvm use <version>` 等，并支持查看已安装版本列表。\n\n## 项目热度\n该项目在 GitHub 上拥有 47,458 颗星，被广泛使用，是 Windows 上最流行的 Node.js 版本管理工具之一。近期周增星 105 颗，仍保持活跃。\n\n## 适用场景\n- 前端开发者在 Windows 上需要多版本 Node.js 进行项目开发或测试\n- CI/CD 环境中需要快速切换 Node.js 版本\n- 需要管理多个 Node.js 应用环境的系统管理员",
+  "tags": [
+    "Node.js",
+    "版本管理",
+    "Windows",
+    "Go",
+    "开发工具",
+    "CLI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-24T22:31:00+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "coreybutler",
+    "stars": 47458,
+    "forks": 3875,
+    "daily_stars": null,
+    "weekly_stars": 105,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
