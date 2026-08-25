@@ -1,0 +1,32 @@
+{
+  "id": "20260825-github-c91ff30da7",
+  "title": "rorkai/App-Store-Connect-CLI",
+  "source": "github_trending",
+  "source_url": "https://github.com/rorkai/App-Store-Connect-CLI",
+  "summary": "App-Store-Connect-CLI 是一个用于 App Store Connect API 的快速、可脚本化的命令行工具，支持自动化 TestFlight、构建、提交、签名、分析、截图、订阅等操作。",
+  "content": "App-Store-Connect-CLI 是一个用 Go 语言编写的命令行工具，旨在简化与 App Store Connect API 的交互。它提供了丰富的命令，使开发者能够自动化处理应用发布流程中的多个环节，包括 TestFlight 测试、构建管理、应用提交、代码签名、数据分析、截图上传以及订阅管理。该工具强调快速和可脚本化，适合集成到 CI/CD 流水线中。项目在 GitHub 上获得了 6211 颗星，近期增长迅速，表明其受到开发者社区的广泛关注。",
+  "tags": [
+    "App Store Connect",
+    "CLI",
+    "自动化",
+    "TestFlight",
+    "CI/CD",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:33+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "rorkai",
+    "stars": 6211,
+    "forks": 542,
+    "daily_stars": 62,
+    "weekly_stars": 274,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

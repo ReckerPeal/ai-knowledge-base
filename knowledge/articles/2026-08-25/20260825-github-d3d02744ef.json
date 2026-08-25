@@ -1,0 +1,32 @@
+{
+  "id": "20260825-github-d3d02744ef",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "本文详细介绍了从自有可路由 IPv4 地址段开始自托管电子邮件服务的完整过程，包括网络配置、DNS 设置、邮件服务器搭建及安全加固等硬核技术细节。",
+  "content": "本文是一篇关于自托管电子邮件服务的深度技术指南，作者从自有可路由 IPv4 地址段出发，逐步讲解如何构建完整的邮件系统。内容涵盖：1) 网络基础设施：获取并配置 IPv4 地址段，设置反向 DNS（PTR 记录）以提升邮件送达率；2) DNS 配置：正确设置 MX、SPF、DKIM、DMARC 等记录，确保邮件认证通过；3) 邮件服务器搭建：选择并配置 MTA（如 Postfix 或 Exim），集成 Dovecot 等 IMAP/POP3 服务；4) 安全加固：配置 TLS 加密、防垃圾邮件机制（如 SpamAssassin）、防暴力破解等；5) 运维监控：日志分析、队列管理、黑名单监控等。文章强调自托管邮件需要面对 IP 信誉、端口封锁等挑战，适合有网络基础并希望完全掌控邮件服务的读者。",
+  "tags": [
+    "自托管",
+    "邮件服务器",
+    "IPv4",
+    "DNS",
+    "Postfix",
+    "Dovecot",
+    "安全加固",
+    "网络运维"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-08T16:47:00-05:00",
+  "collected_at": "2026-08-25T22:33:43+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

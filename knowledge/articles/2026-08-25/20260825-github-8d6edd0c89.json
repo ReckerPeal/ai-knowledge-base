@@ -1,0 +1,36 @@
+{
+  "id": "20260825-github-8d6edd0c89",
+  "title": "shy3130/tick-stock-panel",
+  "source": "github_trending",
+  "source_url": "https://github.com/shy3130/tick-stock-panel",
+  "summary": "TSP 是一个自托管、零运维的 A 股量化工作台，集选股、监控与回测于一体，基于 TickFlow 数据源，支持 LLM 驱动的策略定制、个股分析与复盘，并可自由接入第三方数据源与个性化扩展数据。",
+  "content": "## 项目概述\nTSP（Tick Stock Panel）是一个面向 A 股市场的开源量化工作台，旨在提供一站式解决方案，涵盖选股、实时监控和策略回测。项目采用自托管模式，用户可完全掌控数据与运行环境，且无需复杂运维。\n\n## 核心特性\n- **选股 + 监控 + 回测**：集成三大核心功能，形成完整量化工作流。\n- **TickFlow 数据源**：基于 TickFlow 提供的高频或实时数据，确保数据质量与时效性。\n- **LLM 能力驱动**：利用大语言模型辅助策略定制、个股深度分析与复盘，降低量化门槛。\n- **高度可扩展**：支持自由接入第三方数据源，并允许用户扩展个性化数据，满足定制需求。\n\n## 技术架构\n- **语言**：Python\n- **数据层**：TickFlow 数据源，可替换或扩展\n- **AI 集成**：LLM 接口用于策略生成与分析\n- **部署**：自托管，零运维设计\n\n## 适用场景\n- 个人投资者：快速搭建个人量化系统，利用 AI 辅助决策。\n- 量化研究者：作为实验平台，测试策略与数据源。\n- 开发者：基于开源代码二次开发，集成到自有系统。\n\n## 项目状态\n- 作者：shy3130\n- 星标：3741，分支：874，近期增长迅速（日增136星）。\n- 属于个人开源项目，非官方产品。",
+  "tags": [
+    "A股",
+    "量化交易",
+    "选股",
+    "监控",
+    "回测",
+    "LLM",
+    "TickFlow",
+    "自托管",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "shy3130",
+    "stars": 3741,
+    "forks": 874,
+    "daily_stars": 136,
+    "weekly_stars": 744,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260825-github-4fe80eda62",
+  "title": "transact-rs/sqlx",
+  "source": "github_trending",
+  "source_url": "https://github.com/transact-rs/sqlx",
+  "summary": "sqlx 是一个异步、纯 Rust 实现的 SQL 工具包，支持编译时查询检查，无需 DSL，兼容 PostgreSQL、MySQL 和 SQLite。",
+  "content": "sqlx 是 Rust 生态中备受关注的 SQL 工具包，以其异步性能和编译时查询检查著称。它允许开发者在编译阶段验证 SQL 查询的正确性，从而减少运行时错误。该项目支持多种主流数据库，包括 PostgreSQL、MySQL 和 SQLite，且不依赖 DSL，保持了代码的简洁性。目前该项目在 GitHub 上拥有超过 17k 星标，社区活跃，是 Rust 后端开发的重要选择。",
+  "tags": [
+    "Rust",
+    "SQL",
+    "异步",
+    "编译时检查",
+    "PostgreSQL",
+    "MySQL",
+    "SQLite"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:31+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "transact-rs",
+    "stars": 17411,
+    "forks": 1680,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

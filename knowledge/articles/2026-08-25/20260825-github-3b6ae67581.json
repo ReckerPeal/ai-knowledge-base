@@ -1,0 +1,33 @@
+{
+  "id": "20260825-github-3b6ae67581",
+  "title": "rustdesk/rustdesk",
+  "source": "github_trending",
+  "source_url": "https://github.com/rustdesk/rustdesk",
+  "summary": "RustDesk 是一款开源的远程桌面应用，专为自托管设计，旨在作为 TeamViewer 的替代方案。",
+  "content": "RustDesk 是一个基于 Rust 语言开发的开源远程桌面软件，其核心目标是提供安全、易用的远程访问和控制功能，同时支持用户完全自托管服务器，从而摆脱对第三方云服务的依赖。该项目在 GitHub 上拥有超过 12 万星标，社区活跃度高，每日新增星标约 116 个。RustDesk 支持跨平台（Windows、macOS、Linux、移动端），提供端到端加密、低延迟连接、文件传输、远程打印等功能。其自托管特性使得用户能够完全掌控数据隐私，特别适合企业或个人对数据安全有严格要求的场景。作为 TeamViewer 的替代品，RustDesk 不仅免费开源，还避免了商业软件的使用限制和潜在安全风险。项目采用 Rust 语言编写，保证了高性能和内存安全，同时代码结构清晰，便于社区贡献和二次开发。",
+  "tags": [
+    "remote-desktop",
+    "self-hosting",
+    "open-source",
+    "rust",
+    "teamviewer-alternative",
+    "privacy",
+    "cross-platform"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:31+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rustdesk",
+    "stars": 121772,
+    "forks": 18653,
+    "daily_stars": 116,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

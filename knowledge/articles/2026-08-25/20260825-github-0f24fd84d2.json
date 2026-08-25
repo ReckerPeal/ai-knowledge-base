@@ -1,0 +1,33 @@
+{
+  "id": "20260825-github-0f24fd84d2",
+  "title": "cloudflare/cloudflare-os",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/cloudflare-os",
+  "summary": "Cloudflare 推出的 Agent 工作空间，基于 Cloudflare Workers 构建，支持文档创建、应用构建和 Agent 运行，并深度集成企业上下文与系统。",
+  "content": "## 项目概述\n\ncloudflare-os 是 Cloudflare 官方发布的一个 Agent 工作空间，基于 Cloudflare Workers 构建。它旨在为企业提供一个统一的平台，用于创建文档、构建应用以及运行 AI Agent，同时能够充分利用企业自身的上下文和系统集成。\n\n## 核心特性\n\n- **文档创建**：支持在云端快速创建和编辑文档，便于团队协作。\n- **应用构建**：提供轻量级应用开发环境，可快速部署到边缘网络。\n- **Agent 运行**：支持运行 AI Agent，并接入企业数据与业务系统。\n- **企业集成**：深度整合企业上下文，使 Agent 更贴合实际业务场景。\n\n## 技术栈\n\n- 基于 **Cloudflare Workers** 构建，利用边缘计算能力。\n- 主要使用 **TypeScript** 开发，保证类型安全与可维护性。\n\n## 项目热度\n\n- 当前 GitHub Stars 数：**9168**，Forks 数：**1054**。\n- 日增 Stars：**111**，表明近期关注度较高。\n\n## 适用场景\n\n- 企业需要快速搭建内部 AI 助手或自动化工作流。\n- 开发者希望利用边缘计算构建轻量级应用。\n- 团队需要将 AI Agent 与企业现有系统（如 CRM、数据库）集成。\n\n## 总结\n\ncloudflare-os 展示了 Cloudflare 在 AI 与边缘计算结合方向上的探索，为企业级 Agent 应用提供了新的基础设施选择。",
+  "tags": [
+    "Cloudflare",
+    "Workers",
+    "Agent",
+    "TypeScript",
+    "边缘计算",
+    "AI",
+    "企业应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:29+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 9168,
+    "forks": 1054,
+    "daily_stars": 111,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

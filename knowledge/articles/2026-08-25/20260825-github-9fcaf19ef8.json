@@ -1,0 +1,36 @@
+{
+  "id": "20260825-github-9fcaf19ef8",
+  "title": "AgriciDaniel/claude-obsidian",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "summary": "claude-obsidian 是一个基于 Obsidian 和 Claude Code 的自组织 AI 第二大脑工具。它能够将任意来源的内容自动读取、链接并整理为纯 Markdown 格式的知识图谱，实现 AI 笔记和个人知识管理（PKM），可作为开源 Notion 替代品。该项目基于 Karpathy 的 LLM Wiki 模式构建。",
+  "content": "## 项目概述\n\nclaude-obsidian 是一个将 Obsidian 与 Claude Code 结合的自组织 AI 第二大脑工具。用户可以将任何来源的内容（如网页、文档、笔记等）直接放入，AI 会自动读取、理解并建立链接，最终整理成一个相互关联的纯 Markdown 知识图谱。所有数据完全由用户掌控，符合个人知识管理（PKM）理念，同时也可作为开源 Notion 替代方案。\n\n## 核心特性\n\n- **自组织知识图谱**：基于 Karpathy 的 LLM Wiki 模式，AI 自动将信息节点连接成网络，无需手动维护。\n- **纯 Markdown 存储**：所有笔记和链接均为纯文本 Markdown 格式，易于迁移、备份和版本控制。\n- **AI 驱动**：借助 Claude Code 的语义理解能力，自动分类、摘要和关联内容。\n- **开源替代**：提供类似 Notion 的知识管理体验，但完全开源且数据本地化。\n\n## 技术实现\n\n- **语言**：Python\n- **核心依赖**：Obsidian（笔记界面）、Claude Code（AI 处理）、Markdown（数据格式）\n- **架构模式**：LLM Wiki 模式，强调 AI 生成双向链接和自动组织\n\n## 适用场景\n\n- 个人知识库构建：适合研究人员、作家、学生等需要大量信息整理的用户。\n- 团队协作：可作为团队知识库，AI 自动整理会议记录、文档等。\n- 替代 Notion：对于注重数据隐私和开源的用户，这是一个理想选择。\n\n## 项目热度\n\n- 当前 Star 数：12,401\n- Fork 数：1,371\n- 日增 Star：810（增长迅速，说明社区关注度高）\n\n## 总结\n\nclaude-obsidian 代表了 AI 与个人知识管理结合的新方向，通过自动化减少人工整理负担，同时保持数据的开放性和可控性。其基于 LLM Wiki 的模式为知识管理提供了新的思路，适合对 AI 辅助 PKM 感兴趣的用户尝试。",
+  "tags": [
+    "AI",
+    "知识管理",
+    "Obsidian",
+    "Claude Code",
+    "Markdown",
+    "PKM",
+    "开源",
+    "LLM Wiki",
+    "第二大脑",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 12401,
+    "forks": 1371,
+    "daily_stars": 810,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

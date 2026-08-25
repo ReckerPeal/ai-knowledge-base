@@ -1,0 +1,32 @@
+{
+  "id": "20260825-github-da7c582ec8",
+  "title": "can1357/oh-my-pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "summary": "oh-my-pi 是一个将 IDE 深度集成的编码代理（Coding Agent）项目，旨在通过将智能代理直接嵌入开发环境，提升开发者的编码效率和自动化水平。",
+  "content": "## 项目概述\noh-my-pi 是一个开源的编码代理工具，其核心特点是“将 IDE 接入”（IDE wired in），即代理与开发环境无缝集成，能够直接在 IDE 中执行代码生成、重构、调试等任务。该项目使用 TypeScript 编写，在 GitHub 上获得了 27,356 颗星，近期日增星 413 颗，热度较高。\n\n## 核心功能\n- **IDE 深度集成**：代理直接与 IDE 交互，可读取上下文、操作文件、运行命令，实现端到端的编码辅助。\n- **自动化编码**：支持自动生成代码、修复错误、执行测试等，减少重复性工作。\n- **交互式体验**：开发者可通过 IDE 界面与代理对话，实时调整任务。\n\n## 技术特点\n- 基于 TypeScript，类型安全，易于扩展。\n- 可能利用 IDE 扩展 API（如 VS Code 扩展）实现集成。\n- 架构上强调与编辑器生态的兼容性。\n\n## 适用场景\n- 日常开发中的代码生成与重构。\n- 自动化测试与调试。\n- 提升团队协作效率，减少上下文切换。\n\n## 社区与热度\n- 星标数超过 2.7 万，分叉 2,681，说明社区活跃度高。\n- 日增星 413，表明近期受到广泛关注。\n- 属于 GitHub 热点 TypeScript 项目，具有较高的技术影响力。",
+  "tags": [
+    "编码代理",
+    "IDE集成",
+    "TypeScript",
+    "开发者工具",
+    "自动化",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-25T22:33:29+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "can1357",
+    "stars": 27356,
+    "forks": 2681,
+    "daily_stars": 413,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
