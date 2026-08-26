@@ -1,0 +1,35 @@
+{
+  "id": "20260826-github-36917ef32b",
+  "title": "K-Dense-AI/scientific-agent-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "summary": "K-Dense-AI/scientific-agent-skills 是一个面向科学研究的 AI 智能体技能库，旨在将任何 AI 智能体转变为“AI 科学家”。该项目提供了 163 个经过验证的即用型技能，并整合了超过 100 个科学数据库，覆盖生物学、化学、医学和药物发现等领域。它兼容 Cursor、Claude Code、Codex、Pi、Antigravity 等主流 AI 工具，并遵循开放的 Agent Skills 标准。目前已被全球超过 175,000 名科学家使用，在 GitHub 上拥有 34,575 颗星，是当前热门的 Python 项目。",
+  "content": "## 项目概述\n\n**K-Dense-AI/scientific-agent-skills** 是一个专为科学领域设计的 AI 智能体技能库，其核心目标是让任何 AI 智能体（如基于大语言模型的助手）能够执行复杂的科学任务，从而成为“AI 科学家”。该项目由 K-Dense-AI 团队开发，在 GitHub 上广受关注，目前获得 34,575 颗星和 3,353 次 fork，近期日增星约 130 颗，显示出强劲的增长势头。\n\n## 核心功能与特点\n\n- **丰富的技能库**：提供 163 个经过验证的即用型技能，这些技能覆盖了科学研究的多个环节，包括数据检索、文献分析、实验设计、结果解读等，用户可以直接调用，无需从零开发。\n- **广泛的数据源集成**：整合了超过 100 个科学数据库，涵盖生物学、化学、医学和药物发现等领域，使得智能体能够访问海量权威数据，提升研究的准确性和效率。\n- **高度兼容性**：支持 Cursor、Claude Code、Codex、Pi、Antigravity 等主流 AI 开发工具，并遵循开放的 Agent Skills 标准，这意味着用户可以在自己熟悉的环境中无缝集成这些技能，降低了使用门槛。\n- **大规模用户验证**：全球已有超过 175,000 名科学家使用该库，证明了其在实际科研场景中的实用性和可靠性。\n\n## 技术架构与实现\n\n该项目基于 Python 开发，采用模块化设计，每个技能独立封装，便于维护和扩展。其核心机制是通过标准化的接口与 AI 智能体交互，智能体可以根据任务需求动态调用相应的技能模块。同时，项目提供了清晰的文档和示例，帮助开发者快速上手。\n\n## 适用场景\n\n- **科研人员**：可以借助该库快速获取领域知识、分析实验数据、生成研究报告，提高科研效率。\n- **AI 开发者**：可以基于这些技能构建面向科学领域的垂直应用，如药物发现助手、医学文献分析工具等。\n- **教育机构**：可用于教学演示，帮助学生理解 AI 在科学研究中的应用。\n\n## 社区与生态\n\n该项目在 GitHub 上活跃，拥有大量 star 和 fork，社区贡献者众多。其开放的 Agent Skills 标准有望成为科学 AI 领域的通用规范，推动更多工具和技能的涌现。\n\n## 总结\n\nK-Dense-AI/scientific-agent-skills 是一个功能强大、生态丰富的科学 AI 技能库，它通过标准化技能和广泛的数据集成，显著提升了 AI 智能体在科学研究中的实用性。对于希望利用 AI 加速科研进程的个人和团队来说，这是一个值得关注和采用的项目。",
+  "tags": [
+    "AI Agent",
+    "科学计算",
+    "技能库",
+    "生物信息学",
+    "化学信息学",
+    "药物发现",
+    "Python",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:22+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "K-Dense-AI",
+    "stars": 34575,
+    "forks": 3353,
+    "daily_stars": 130,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

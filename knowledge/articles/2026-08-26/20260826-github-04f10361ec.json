@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-04f10361ec",
+  "title": "opentofu/opentofu",
+  "source": "github_trending",
+  "source_url": "https://github.com/opentofu/opentofu",
+  "summary": "OpenTofu 是一个开源的基础设施即代码工具，允许用户以声明式方式管理云基础设施。",
+  "content": "OpenTofu 是一个开源的基础设施即代码（IaC）工具，它允许用户通过声明式配置文件来管理和编排云基础设施。该项目是 Terraform 的一个开源分支，旨在保持与 Terraform 的兼容性，同时提供一个社区驱动的、完全开源的发展路径。OpenTofu 支持多种云提供商，并提供了强大的资源管理、依赖处理和状态管理功能。它适用于个人开发者和企业团队，能够帮助用户实现基础设施的版本控制、协作和自动化部署。该项目在 GitHub 上拥有近 3 万星标，显示出其活跃的社区和广泛的应用。",
+  "tags": [
+    "基础设施即代码",
+    "云管理",
+    "开源",
+    "Terraform",
+    "声明式配置",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:39+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "opentofu",
+    "stars": 29929,
+    "forks": 1341,
+    "daily_stars": null,
+    "weekly_stars": 99,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

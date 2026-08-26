@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-de2a117c79",
+  "title": "public-apis/public-apis",
+  "source": "github_trending",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "summary": "public-apis/public-apis 是一个汇集了众多免费 API 的集体列表，旨在为开发者提供一站式的 API 资源发现平台。该项目在 GitHub 上拥有超过 47 万星标，是开发者社区中非常受欢迎的资源库。",
+  "content": "## 项目概述\n\npublic-apis/public-apis 是一个由社区维护的免费 API 集合列表，涵盖了从动物、动漫到金融、游戏等众多领域的公开 API。该项目以 Markdown 格式组织，每个 API 条目都包含名称、描述、认证方式、是否支持 HTTPS 以及 CORS 支持情况等信息，方便开发者快速筛选和集成。\n\n## 技术特点\n\n- **纯文档形式**：项目本身不包含代码，而是以文档形式呈现，易于浏览和贡献。\n- **分类清晰**：API 按类别（如 Animals、Finance、Games 等）分组，便于查找。\n- **社区驱动**：通过 Pull Request 机制，任何人都可以贡献新的 API 或更新现有条目。\n- **质量筛选**：项目维护者会审核提交的 API，确保其可用性和免费性。\n\n## 使用场景\n\n- 开发者寻找免费 API 用于原型开发、学习或小型项目。\n- 研究人员收集公开数据源。\n- 技术爱好者探索各种有趣的 API 服务。\n\n## 项目价值\n\n该项目已成为开发者社区的重要资源，其高星标数（470k+）和活跃的贡献者（fork 数 51k+）证明了其广泛的影响力和实用性。它节省了开发者搜索和筛选 API 的时间，促进了 API 生态的繁荣。",
+  "tags": [
+    "API",
+    "免费资源",
+    "开发者工具",
+    "开源",
+    "列表",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:32+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "public-apis",
+    "stars": 470812,
+    "forks": 51917,
+    "daily_stars": null,
+    "weekly_stars": 6747,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

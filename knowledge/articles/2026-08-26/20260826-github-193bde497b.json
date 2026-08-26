@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-193bde497b",
+  "title": "tokio-rs/axum",
+  "source": "github_trending",
+  "source_url": "https://github.com/tokio-rs/axum",
+  "summary": "axum 是一个专注于人体工程学和模块化的 Rust HTTP 路由与请求处理库。",
+  "content": "axum 是 Rust 生态中一个流行的 HTTP 框架，由 tokio-rs 组织维护。它基于 tokio 和 tower 构建，提供了简洁的路由定义和请求处理机制，强调开发体验（ergonomics）和模块化设计。axum 支持嵌套路由、中间件集成、WebSocket 等特性，适合构建高性能的异步 Web 服务。该项目在 GitHub 上拥有 26957 颗星，近期日增 13 颗星，显示出活跃的社区关注度。",
+  "tags": [
+    "Rust",
+    "HTTP",
+    "Web框架",
+    "异步",
+    "tokio",
+    "路由"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:27+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tokio-rs",
+    "stars": 26957,
+    "forks": 1466,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-6a6bd50deb",
+  "title": "amadeusprotocol/node",
+  "source": "github_trending",
+  "source_url": "https://github.com/amadeusprotocol/node",
+  "summary": "amadeusprotocol/node 是一个基于 Rust 的高性能区块链节点实现，旨在为 Amadeus 协议提供安全、可扩展的基础设施。该项目近期在 GitHub 上获得广泛关注，周增长星标超过 1100，反映了社区对其技术路线的高度认可。",
+  "content": "## 项目概述\namadeusprotocol/node 是 Amadeus 协议的核心节点实现，采用 Rust 语言开发，强调性能与安全性。该仓库当前拥有 5205 个星标和 95 个 fork，周增长星标达 1165，显示出强劲的社区热度。\n\n## 技术特点\n- **语言与性能**：基于 Rust 的内存安全特性，提供高并发、低延迟的节点服务。\n- **协议支持**：实现 Amadeus 协议规范，支持交易验证、区块生成及网络同步。\n- **可扩展性**：模块化架构便于功能扩展与定制部署。\n\n## 应用场景\n适用于需要高性能、可信赖区块链基础设施的场景，如去中心化金融（DeFi）、资产数字化及企业级联盟链。\n\n## 社区与趋势\n作为 GitHub 热点项目（分类：Rust），其快速增长的星标数表明开发者对 Rust 生态和区块链基础设施的浓厚兴趣。",
+  "tags": [
+    "Rust",
+    "区块链",
+    "节点实现",
+    "Amadeus协议",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "amadeusprotocol",
+    "stars": 5205,
+    "forks": 95,
+    "daily_stars": null,
+    "weekly_stars": 1165,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

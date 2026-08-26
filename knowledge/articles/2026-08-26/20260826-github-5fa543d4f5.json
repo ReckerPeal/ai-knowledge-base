@@ -1,0 +1,31 @@
+{
+  "id": "20260826-github-5fa543d4f5",
+  "title": "grafana/alloy",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/alloy",
+  "summary": "grafana/alloy 是一个基于 OpenTelemetry Collector 的发行版，提供可编程管道，用于灵活的数据采集、处理和路由。",
+  "content": "grafana/alloy 是 Grafana 团队推出的 OpenTelemetry Collector 发行版，核心特性是支持可编程管道（programmable pipelines），允许用户通过代码定义数据流，实现高度灵活的数据采集、处理和路由。它基于 OpenTelemetry Collector 构建，兼容其生态，同时增强了可编程性和可扩展性，适合需要定制化数据管道的场景。该项目在 GitHub 上表现活跃，拥有 3471 颗星和 691 个 fork，近期日增星约 9 颗，属于 Go 语言领域的热门项目。",
+  "tags": [
+    "OpenTelemetry",
+    "可编程管道",
+    "数据采集",
+    "Grafana",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3471,
+    "forks": 691,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

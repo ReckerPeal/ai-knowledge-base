@@ -1,0 +1,33 @@
+{
+  "id": "20260826-github-e2cfc74fac",
+  "title": "leookun/cursor-byok",
+  "source": "github_trending",
+  "source_url": "https://github.com/leookun/cursor-byok",
+  "summary": "cursor-byok 是一个用 Rust 实现的 Cursor 后端本地化项目，旨在提供 Cursor 编辑器的后端服务替代方案。该项目在 GitHub 上受到广泛关注，拥有超过 2500 颗星，近期热度持续上升。",
+  "content": "cursor-byok 是一个开源项目，其核心目标是实现 Cursor 编辑器的后端服务，使用户能够在本地运行自己的后端，从而摆脱对官方云服务的依赖。该项目采用 Rust 语言编写，具有高性能和内存安全的特性。\n\n主要特点包括：\n- 本地化部署：用户可以在自己的服务器或本地环境中运行 Cursor 的后端，增强数据隐私和可控性。\n- 兼容性：旨在与 Cursor 客户端兼容，提供类似的功能体验。\n- 开源社区：项目在 GitHub 上活跃，拥有 2536 颗星和 391 个 fork，表明社区参与度较高。\n- 发布版本：项目提供了 releases 版本，方便用户下载和安装。\n\n该项目可能涉及逆向工程或协议模拟，用户在使用时需注意遵守相关软件许可协议。对于开发者而言，这是一个学习 Rust 和编辑器后端架构的优秀案例。",
+  "tags": [
+    "Cursor",
+    "后端",
+    "Rust",
+    "本地化",
+    "开源",
+    "编辑器",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:27+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "leookun",
+    "stars": 2536,
+    "forks": 391,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

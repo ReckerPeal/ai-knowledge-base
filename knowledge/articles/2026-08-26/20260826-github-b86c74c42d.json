@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-b86c74c42d",
+  "title": "Layr-Labs/d-inference",
+  "source": "github_trending",
+  "source_url": "https://github.com/Layr-Labs/d-inference",
+  "summary": "Layr-Labs/d-inference 是一个基于 Go 语言的开源项目，旨在利用闲置的 Mac 设备构建私有推理网络。该项目在 GitHub 上受到广泛关注，当前获得 414 颗星和 79 个分支，近期日增星数达 38 颗，显示出强劲的增长势头。",
+  "content": "## 项目概述\nLayr-Labs/d-inference 是一个由 Layr-Labs 团队开发的私有推理网络，其核心理念是充分利用闲置的 Mac 设备资源，构建一个去中心化的推理基础设施。该项目使用 Go 语言编写，代码库结构清晰，适合对分布式计算和机器学习推理感兴趣的开发者学习和贡献。\n\n## 技术特点\n- **私有推理网络**：强调隐私保护，允许用户在不暴露数据的情况下进行模型推理。\n- **闲置资源利用**：通过调度闲置 Mac 的计算能力，降低推理成本，提高资源利用率。\n- **Go 语言实现**：利用 Go 的高并发特性，确保网络的高效通信和任务调度。\n\n## 项目热度\n截至 2026 年 8 月 26 日，该项目在 GitHub 上已获得 414 颗星和 79 个分支，日增星数达到 38 颗，表明社区关注度正在快速上升。其分类为“GitHub 热点 · Go”，进一步印证了其在 Go 开发者社区中的影响力。\n\n## 适用场景\n- 对隐私敏感的 AI 推理任务\n- 希望降低推理成本的个人或小型团队\n- 对分布式系统和边缘计算感兴趣的开发者\n\n## 总结\nLayr-Labs/d-inference 是一个创新性的项目，它将隐私保护、资源优化和分布式计算相结合，为 AI 推理提供了一种新的思路。随着社区热度的持续增长，该项目有望成为私有推理领域的重要基础设施。",
+  "tags": [
+    "Go",
+    "私有推理",
+    "分布式计算",
+    "闲置资源利用",
+    "隐私保护",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Layr-Labs",
+    "stars": 414,
+    "forks": 79,
+    "daily_stars": 38,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

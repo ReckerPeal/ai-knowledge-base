@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-6096cc3a83",
+  "title": "HKUDS/CLI-Anything",
+  "source": "github_trending",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "summary": "CLI-Anything 项目旨在让所有软件都成为智能体原生（Agent-Native）的，通过提供统一的命令行接口（CLI）层，使 AI 代理能够无缝操作各种软件。项目附带 CLI-Hub 平台（clianything.cc），用于托管和分享 CLI 工具。",
+  "content": "## 项目概述\nCLI-Anything 由香港数据科学大学（HKUDS）团队开发，目标是打破软件与 AI 代理之间的壁垒，让任何软件都能通过命令行接口被 AI 代理直接调用和控制。该项目提供了一个标准化的 CLI 封装层，使得 AI 代理可以像人类一样使用命令行工具，从而自动化复杂的软件操作流程。\n\n## 核心特性\n- **Agent-Native 设计**：所有软件通过 CLI 暴露功能，AI 代理可直接调用，无需图形界面。\n- **CLI-Hub 平台**：提供在线平台（clianything.cc）用于发现、分享和复用 CLI 工具，形成生态。\n- **跨语言支持**：项目本身基于 Python，但设计上支持任何语言的 CLI 工具。\n- **高社区热度**：在 GitHub 上获得 48k+ stars，每日新增约 100 stars，表明社区高度认可。\n\n## 技术架构\n项目采用 Python 作为主要开发语言，利用 Python 的 subprocess 模块和异步 I/O 来管理 CLI 进程。核心组件包括：\n- **CLI 解析器**：解析任意 CLI 工具的 help 输出，自动生成结构化调用接口。\n- **代理适配层**：将 AI 代理的自然语言指令转换为 CLI 命令序列。\n- **CLI-Hub 客户端**：与云端平台交互，下载和更新工具配置。\n\n## 应用场景\n- 企业自动化：让 AI 代理操作内部软件系统，如数据库管理、部署脚本。\n- 个人助手：通过自然语言控制本地软件，如文件管理、媒体处理。\n- 智能体开发：为 AI 代理提供丰富的工具集，扩展其能力边界。\n\n## 社区与影响\n该项目在 GitHub 上表现突出，stars 数达 48k，forks 4.4k，每日新增 stars 超过 100，显示出强劲的增长势头。CLI-Hub 平台的推出进一步促进了工具共享，降低了使用门槛。\n\n## 总结\nCLI-Anything 是 AI 代理与软件交互领域的重要创新，通过标准化 CLI 层，让软件变得“代理原生”，有望成为未来 AI 自动化操作的标准基础设施。",
+  "tags": [
+    "CLI",
+    "AI Agent",
+    "自动化",
+    "Python",
+    "软件集成",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:22+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "HKUDS",
+    "stars": 48269,
+    "forks": 4489,
+    "daily_stars": 107,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

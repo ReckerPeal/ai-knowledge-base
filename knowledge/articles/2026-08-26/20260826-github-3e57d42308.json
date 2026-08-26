@@ -1,0 +1,32 @@
+{
+  "id": "20260826-github-3e57d42308",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.04902",
+  "summary": "该研究探讨了潜在推理模型（如Coconut和CODI）的可解释性。研究发现，这些模型在逻辑任务中几乎不使用隐藏推理步骤，其高性能主要来自训练数据而非推理过程。但在数学问题中，模型确实在隐藏状态中执行标准数学步骤，且可通过投影解码验证。研究还表明，模型的可解释性远超预期，并可用于预测回答正确性。",
+  "content": "该研究针对潜在推理模型（如Coconut和CODI）的可解释性进行了深入分析。作者首先测试了这些模型在逻辑任务（如PrOntoQA和ProsQA）中的表现，发现它们几乎不依赖隐藏推理步骤，即使强制提前停止推理，输出也几乎不变，这表明其高性能主要源于训练数据而非推理过程。\n\n然而，在数学问题中，情况截然不同。研究者通过将隐藏状态投影回词汇空间，发现当模型正确解答数学题时，隐藏状态中可找到正确的中间数学步骤，准确率高达93%。通过调整提示中的数字并观察隐藏状态反应，研究者确认了具体的数学运算，从而为大多数正确预测解码出可验证的推理路径。但对于错误预测，这一过程很少成功。\n\n这些发现表明，潜在推理模型的可解释性远超AI社区的普遍假设，并且这种可解释性可以作为信号来预测模型回答的正确性。",
+  "tags": [
+    "潜在推理模型",
+    "可解释性",
+    "Coconut",
+    "CODI",
+    "逻辑推理",
+    "数学推理",
+    "隐藏状态",
+    "AI研究"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-15T11:17:13-05:00",
+  "collected_at": "2026-08-26T22:33:39+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

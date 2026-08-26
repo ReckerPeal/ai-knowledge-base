@@ -1,0 +1,36 @@
+{
+  "id": "20260826-github-2a2c147874",
+  "title": "supabase/supabase",
+  "source": "github_trending",
+  "source_url": "https://github.com/supabase/supabase",
+  "summary": "Supabase 是一个开源的 Postgres 开发平台，为 Web、移动和 AI 应用提供专用的 Postgres 数据库。它被广泛视为 Firebase 的开源替代品，提供数据库、认证、实时订阅、存储和边缘函数等功能。",
+  "content": "Supabase 是一个基于 PostgreSQL 的开源后端即服务（BaaS）平台，旨在简化应用开发。它提供了一整套工具，包括数据库、身份验证、实时订阅、存储和边缘函数，使开发者能够快速构建 Web、移动和 AI 应用。Supabase 的核心优势在于其完全开源、自托管能力，以及与 PostgreSQL 生态的深度集成，支持 SQL 查询和现有工具。该项目在 GitHub 上拥有超过 10 万星标，社区活跃，持续更新。其架构包括 PostgREST（自动生成 REST API）、GoTrue（认证）、Realtime（实时订阅）和 Storage（文件存储）等组件。对于 AI 应用，Supabase 支持向量存储和 pgvector 扩展，可用于构建语义搜索和推荐系统。",
+  "tags": [
+    "PostgreSQL",
+    "Backend-as-a-Service",
+    "Firebase替代",
+    "开源",
+    "实时数据库",
+    "认证",
+    "存储",
+    "AI应用",
+    "TypeScript",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:24+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "supabase",
+    "stars": 108414,
+    "forks": 13654,
+    "daily_stars": 45,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

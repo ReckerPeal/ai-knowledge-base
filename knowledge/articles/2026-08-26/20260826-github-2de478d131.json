@@ -1,0 +1,31 @@
+{
+  "id": "20260826-github-2de478d131",
+  "title": "WecomTeam/wecom-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/WecomTeam/wecom-cli",
+  "summary": "企业微信开放平台命令行工具，让人类和 AI Agent 都能在终端中操作企业微信。",
+  "content": "wecom-cli 是一个基于 Rust 开发的命令行工具，旨在为企业和开发者提供通过终端操作企业微信开放平台的能力。它支持人类用户和 AI Agent 直接调用，简化了企业微信的自动化流程。该工具在 GitHub 上已获得 2964 星标，周增长 104 星，显示出较高的社区关注度。其核心优势在于将企业微信的常用操作（如消息发送、成员管理等）封装为 CLI 命令，便于集成到脚本或 AI 工作流中。",
+  "tags": [
+    "企业微信",
+    "CLI",
+    "Rust",
+    "AI Agent",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:37+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "WecomTeam",
+    "stars": 2964,
+    "forks": 200,
+    "daily_stars": null,
+    "weekly_stars": 104,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

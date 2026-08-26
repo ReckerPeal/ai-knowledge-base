@@ -1,0 +1,33 @@
+{
+  "id": "20260826-github-16431bd0f3",
+  "title": "open-telemetry/opentelemetry-collector-contrib",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "summary": "OpenTelemetry Collector 的贡献仓库，包含大量可选的组件、扩展和处理器，用于扩展 Collector 的功能。",
+  "content": "该仓库是 OpenTelemetry Collector 的官方贡献仓库，旨在为 Collector 提供丰富的可扩展组件。它包含了各种接收器、处理器、导出器和扩展，支持多种数据格式和协议，如 Jaeger、Prometheus、Kafka 等。这些组件可以灵活组合，帮助用户构建强大的可观测性数据管道。仓库由 OpenTelemetry 社区维护，代码质量高，文档完善，是构建生产级可观测性基础设施的重要资源。",
+  "tags": [
+    "OpenTelemetry",
+    "Collector",
+    "可观测性",
+    "Go",
+    "监控",
+    "分布式追踪",
+    "指标收集"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-26T22:33:29+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "open-telemetry",
+    "stars": 4885,
+    "forks": 3832,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
