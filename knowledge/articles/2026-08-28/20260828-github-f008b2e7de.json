@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-f008b2e7de",
+  "title": "docker/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/docker/cli",
+  "summary": "Docker CLI 是 Docker 官方的命令行工具，用于与 Docker 守护进程交互，管理容器、镜像、网络和卷等资源。",
+  "content": "Docker CLI 是 Docker 平台的核心命令行接口，使用 Go 语言编写。它允许用户通过命令如 docker run、docker build、docker pull 等来管理容器生命周期、构建镜像、拉取/推送镜像、管理网络和卷等。该仓库是 Docker 官方维护的 CLI 源码仓库，拥有超过 6000 颗星，社区活跃，持续更新。",
+  "tags": [
+    "Docker",
+    "CLI",
+    "容器",
+    "Go",
+    "DevOps",
+    "命令行工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:31+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "docker",
+    "stars": 6029,
+    "forks": 2190,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

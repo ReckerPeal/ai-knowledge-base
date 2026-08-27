@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-8a83a8caac",
+  "title": "anthropics/claude-plugins-community",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-plugins-community",
+  "summary": "Anthropic 官方维护的 Claude 插件社区市场，为 Claude Cowork 和 Claude Code 提供插件分发与发现平台。该仓库为只读镜像，用户可通过指定链接提交插件。",
+  "content": "## 项目概述\n\n**anthropics/claude-plugins-community** 是 Anthropic 官方推出的社区插件市场，旨在为 Claude Cowork 和 Claude Code 提供集中的插件分发与发现平台。该仓库作为只读镜像，实际插件提交通过 [clau.de/plugin-directory-submission](https://clau.de/plugin-directory-submission) 进行。\n\n## 核心功能\n\n- **插件市场**：集中展示社区开发的 Claude 插件，方便用户浏览和安装。\n- **只读镜像**：仓库本身不接收直接提交，确保代码库的稳定性和安全性。\n- **官方背书**：由 Anthropic 官方维护，保证插件的质量和兼容性。\n\n## 技术特点\n\n- **语言**：主要使用 Python，与 Claude Code 的生态紧密集成。\n- **社区驱动**：鼓励开发者提交插件，丰富 Claude 的功能扩展。\n- **持续更新**：每周获得大量 star（周增 1759），表明社区活跃度高。\n\n## 适用场景\n\n- 开发者希望为 Claude 添加自定义功能或集成外部服务。\n- 用户需要发现和安装经过社区验证的插件。\n- 对 Claude 生态感兴趣的开发者可参考此仓库了解插件开发规范。\n\n## 快速开始\n\n1. 访问仓库主页浏览现有插件列表。\n2. 如需提交插件，请前往 [插件目录提交页面](https://clau.de/plugin-directory-submission)。\n3. 按照官方指南开发并提交插件，等待审核后即可在市场中展示。\n\n## 社区与支持\n\n- 仓库星标数：2399，分支数：203，社区关注度较高。\n- 由 Anthropic 官方团队维护，提供可靠的技术支持。\n\n> 注意：该仓库为只读镜像，所有插件提交均需通过官方提交链接进行。",
+  "tags": [
+    "Claude",
+    "插件市场",
+    "Anthropic",
+    "Python",
+    "社区驱动",
+    "AI工具",
+    "开发者生态"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:34+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 2399,
+    "forks": 203,
+    "daily_stars": null,
+    "weekly_stars": 1759,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "context-mode 是一个针对 AI 编码代理的上下文窗口优化工具，通过沙箱化工具输出（减少 98% 的上下文占用）、持久化会话记忆，并借助 MCP 和 hooks 在 17 个平台间强制路由，显著提升编码代理的效率与稳定性。",
+  "content": "## 项目概述\ncontext-mode 是一个专为 AI 编码代理设计的上下文窗口优化工具，旨在解决长会话中上下文溢出和工具输出冗余的问题。其核心功能包括：\n\n- **沙箱化工具输出**：将工具产生的输出进行隔离和压缩，平均减少 98% 的上下文占用，使代理能处理更长的任务链。\n- **持久化会话记忆**：跨会话保存关键状态和决策，避免重复上下文加载，提升连续任务的连贯性。\n- **跨平台路由**：通过 MCP（Model Context Protocol）和 hooks 机制，在 17 个主流开发平台（如 GitHub、VS Code、JetBrains 等）之间统一路由上下文，确保代理行为一致。\n\n## 技术亮点\n- 基于 TypeScript 开发，类型安全，易于集成。\n- 采用模块化架构，支持自定义 hooks 和 MCP 服务器扩展。\n- 提供 CLI 和 API 两种使用方式，适配不同开发流程。\n\n## 适用场景\n- 长时间运行的 AI 编码任务（如代码重构、跨文件修改）。\n- 多工具链协作的复杂开发环境。\n- 需要跨平台一致性的团队协作场景。\n\n## 快速上手\n1. 安装：`npm install context-mode`\n2. 初始化：`context-mode init`\n3. 配置平台路由：编辑 `context-mode.config.json`\n4. 集成到代理：通过 MCP 或 hooks 接入现有代理。\n\n## 社区与影响\n该项目在 GitHub 上获得 20k+ stars，日增 21 stars，受到开发者广泛关注，是 AI 编码工具链中重要的基础设施。",
+  "tags": [
+    "AI编码代理",
+    "上下文优化",
+    "MCP",
+    "TypeScript",
+    "开发工具",
+    "会话记忆",
+    "沙箱"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 20192,
+    "forks": 1466,
+    "daily_stars": 21,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

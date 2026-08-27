@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-b7cb676992",
+  "title": "Tencent/BrowserSkill",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tencent/BrowserSkill",
+  "summary": "Tencent/BrowserSkill 是一个让 AI 代理使用真实、已登录浏览器而无需中断用户工作的工具，提供 CLI 和浏览器扩展，支持任何具备 shell 能力的 AI 代理进行浏览器自动化。",
+  "content": "## 项目概述\nBrowserSkill 由腾讯开发，旨在让 AI 代理直接操作真实浏览器（保持用户登录状态），同时不干扰用户当前工作。它通过命令行接口（CLI）和浏览器扩展实现，兼容所有支持 shell 命令的 AI 代理（如 Claude、GPT 等）。\n\n## 核心功能\n- **真实浏览器控制**：AI 代理可操控已登录的浏览器，执行网页操作（点击、输入、导航等）。\n- **非侵入式设计**：自动化过程在后台或独立窗口运行，不打断用户当前浏览任务。\n- **跨代理兼容**：任何能执行 shell 命令的 AI 代理均可集成，无需专用 API。\n- **CLI + 扩展**：提供命令行工具和浏览器扩展，便于安装和使用。\n\n## 技术实现\n- 语言：TypeScript\n- 架构：CLI 负责与 AI 代理通信，浏览器扩展负责实际 DOM 操作和状态同步。\n- 安全：利用用户现有会话，避免重复登录，但需注意权限控制。\n\n## 适用场景\n- 自动化网页测试、数据采集、表单填写。\n- 辅助 AI 代理完成需要登录态的在线任务（如社交媒体管理、购物）。\n- 个人工作流自动化，减少重复操作。\n\n## 项目热度\n- 星标：1407，分支：112，日增星标：29，近期热度上升。\n- 属于 GitHub 热点 TypeScript 项目，由腾讯官方维护。",
+  "tags": [
+    "AI代理",
+    "浏览器自动化",
+    "TypeScript",
+    "CLI",
+    "浏览器扩展",
+    "腾讯",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Tencent",
+    "stars": 1407,
+    "forks": 112,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

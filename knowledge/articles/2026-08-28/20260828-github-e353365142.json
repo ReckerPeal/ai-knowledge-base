@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-e353365142",
+  "title": "directus/directus",
+  "source": "github_trending",
+  "source_url": "https://github.com/directus/directus",
+  "summary": "Directus 是一个灵活的后端解决方案，可将数据库转换为无头 CMS、管理面板或自定义应用，提供即时 API、认证和自定义 UI。",
+  "content": "Directus 是一个开源的数据平台，旨在为各种项目提供灵活的后端支持。它允许用户将现有的 SQL 数据库（如 PostgreSQL、MySQL 等）直接转换为功能完整的无头 CMS 或管理面板，而无需编写大量后端代码。其核心特性包括：即时 REST 和 GraphQL API、内置认证与权限管理、可自定义的管理界面、支持自定义业务逻辑和扩展。Directus 采用 TypeScript 编写，拥有活跃的社区和丰富的文档，适合需要快速搭建数据驱动应用的开发者和团队。",
+  "tags": [
+    "无头CMS",
+    "后端即服务",
+    "TypeScript",
+    "数据库",
+    "API"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "directus",
+    "stars": 37621,
+    "forks": 4913,
+    "daily_stars": 75,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

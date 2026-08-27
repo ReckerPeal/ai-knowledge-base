@@ -1,0 +1,35 @@
+{
+  "id": "20260828-github-ca7dd68b4c",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source": "github_trending",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "summary": "LLM 驱动的多市场股票智能分析系统，集成多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。",
+  "content": "该项目是一个基于大语言模型（LLM）的股票智能分析系统，旨在为多市场（如A股、港股、美股等）提供自动化、智能化的投资决策支持。系统核心功能包括：\n\n1. **多源行情数据**：整合多个数据源，实时获取股票行情，确保数据全面性和准确性。\n2. **实时新闻分析**：自动抓取并分析相关新闻，结合市场情绪辅助决策。\n3. **决策看板**：提供可视化仪表盘，展示关键指标、趋势和AI分析结果，帮助用户快速把握市场动态。\n4. **自动推送**：支持通过邮件、消息等方式推送分析报告和预警，实现信息即时触达。\n5. **零成本定时运行**：利用免费云服务（如GitHub Actions）实现定时任务，无需额外服务器成本。\n\n技术栈以Python为主，结合LLM API（如OpenAI）进行自然语言处理和智能分析。该项目在GitHub上获得6.4万星标，热度极高，适合对量化投资、AI应用感兴趣的开发者学习和二次开发。",
+  "tags": [
+    "LLM",
+    "股票分析",
+    "多市场",
+    "实时新闻",
+    "决策看板",
+    "自动推送",
+    "定时任务",
+    "Python",
+    "GitHub Actions"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:24+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ZhuLinsen",
+    "stars": 64127,
+    "forks": 53809,
+    "daily_stars": 153,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

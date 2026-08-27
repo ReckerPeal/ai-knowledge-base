@@ -1,0 +1,36 @@
+{
+  "id": "20260828-github-117d2cb5f3",
+  "title": "AgriciDaniel/claude-seo",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-seo",
+  "summary": "claude-seo 是一个为 Claude Code 设计的通用 SEO 技能包，包含 25 个子技能和 18 个子代理，覆盖技术 SEO、E-E-A-T、Schema 结构化数据、GEO/AEO、外链建设、本地 SEO、地图情报、语义聚类、电商 SEO、国际 SEO、Google API 集成以及 PDF/Excel 报告生成等全方位 SEO 场景。项目支持可选的 DataForSEO、Firecrawl 和 Banana 扩展，以增强数据获取和自动化能力。",
+  "content": "## 项目概述\n\nclaude-seo 是一个面向 Claude Code 的通用 SEO 技能库，旨在将专业的 SEO 工作流直接嵌入 AI 编程助手环境。该项目通过模块化的技能和代理设计，覆盖从技术审计到内容策略的完整 SEO 链路。\n\n## 核心功能\n\n- **技能体系**：包含 25 个子技能，覆盖技术 SEO（如站点速度、爬虫优化）、E-E-A-T（经验、专业、权威、信任）评估、Schema 结构化数据生成、GEO（生成式引擎优化）/AEO（答案引擎优化）、外链分析、本地 SEO 与地图情报、语义聚类、电商 SEO、国际 SEO 及 Google 官方 API 集成。\n- **代理系统**：内置 18 个子代理，可自动执行复杂任务，如批量关键词研究、竞争分析、报告生成等。\n- **报告输出**：支持生成 PDF 和 Excel 格式的专业 SEO 报告，便于团队协作和客户交付。\n\n## 扩展能力\n\n项目提供三个可选扩展模块：\n- **DataForSEO**：接入专业 SEO 数据 API，获取排名、流量、关键词等实时数据。\n- **Firecrawl**：用于网页抓取和内容提取，支持大规模站点审计。\n- **Banana**：可能用于模型推理或自动化任务调度，增强 AI 代理的执行能力。\n\n## 技术亮点\n\n- **模块化设计**：技能和代理独立封装，用户可按需组合，灵活适配不同 SEO 项目。\n- **AI 原生**：深度集成 Claude Code，通过自然语言指令即可触发复杂的 SEO 工作流。\n- **数据驱动**：结合外部 API 和爬虫工具，确保分析和建议基于真实数据。\n\n## 适用场景\n\n- 开发者希望用 AI 自动化 SEO 日常任务（如元标签优化、结构化数据标记）。\n- SEO 顾问需要快速生成客户报告或进行大规模站点审计。\n- 内容团队利用语义聚类和 E-E-A-T 分析优化内容策略。\n\n该项目在 GitHub 上获得 15559 星，日增 266 星，显示出社区对 AI+SEO 结合方向的高度关注。",
+  "tags": [
+    "SEO",
+    "Claude Code",
+    "AI Agent",
+    "技术SEO",
+    "Schema",
+    "GEO/AEO",
+    "本地SEO",
+    "电商SEO",
+    "Google API",
+    "自动化报告"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:24+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 15559,
+    "forks": 2287,
+    "daily_stars": 266,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

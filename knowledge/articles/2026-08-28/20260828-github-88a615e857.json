@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-88a615e857",
+  "title": "langchain-ai/deepagents",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/deepagents",
+  "summary": "langchain-ai/deepagents 是一个开箱即用的智能体（Agent）框架，旨在为开发者提供一套完整的工具链，以快速构建和部署基于大语言模型的自主代理应用。",
+  "content": "## 项目概述\n\n**deepagents** 是 LangChain 官方推出的一个“电池即插即用”的智能体框架，它封装了构建生产级 AI 代理所需的核心组件，包括：\n- **多智能体编排**：支持多个代理之间的协作与任务分配。\n- **工具集成**：内置常用工具（如搜索、代码执行、API 调用等），并支持自定义工具扩展。\n- **记忆管理**：提供短期和长期记忆机制，使代理能够跨会话保持上下文。\n- **可观测性**：集成 LangSmith 等监控工具，方便调试和性能分析。\n\n## 技术亮点\n\n- **快速上手**：通过简单的 API 即可创建功能完整的代理，无需从零搭建基础设施。\n- **高度可定制**：允许开发者替换或扩展各个模块，以适应特定业务场景。\n- **生产就绪**：注重稳定性与安全性，适合部署到实际应用中。\n\n## 适用场景\n\n- 构建客服机器人、个人助理、自动化工作流等。\n- 需要多步骤推理和工具调用的复杂任务。\n- 希望快速原型验证 AI 代理想法的开发者。\n\n## 社区与热度\n\n该项目在 GitHub 上已获得超过 28k 星标，每日新增约 74 星，显示出强劲的社区关注度。作为 LangChain 生态的一部分，它受益于庞大的用户基础和持续的更新维护。",
+  "tags": [
+    "AI Agent",
+    "LangChain",
+    "多智能体",
+    "自动化",
+    "Python",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:24+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 28605,
+    "forks": 4014,
+    "daily_stars": 74,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

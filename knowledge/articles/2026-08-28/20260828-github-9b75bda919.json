@@ -1,0 +1,34 @@
+{
+  "id": "20260828-github-9b75bda919",
+  "title": "MadsLorentzen/ai-job-search",
+  "source": "github_trending",
+  "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "summary": "ai-job-search 是一个基于 Claude Code 构建的 AI 求职应用框架，运行在本地机器上，用于评估职位发布、定制简历、撰写求职信和准备面试。该项目在 GitHub 上获得 37k+ 星标，近期增长迅速，适合开发者 fork 并个性化使用。",
+  "content": "## 项目概览\nai-job-search 是一个开源的 AI 求职自动化框架，由 MadsLorentzen 开发，基于 Claude Code 构建。它旨在将求职流程中的关键环节自动化，包括职位评估、简历定制、求职信撰写和面试准备。该项目采用 Python 编写，目前已在 GitHub 上获得超过 37,000 颗星标，显示出极高的社区关注度。\n\n## 核心功能\n- **职位评估**：自动分析职位描述，匹配用户技能和偏好。\n- **简历定制**：根据目标职位自动调整简历内容，突出相关经验。\n- **求职信生成**：为每个职位生成个性化的求职信。\n- **面试准备**：提供模拟面试问题和建议，帮助用户准备。\n\n## 技术架构\n项目基于 Claude Code（Anthropic 的 AI 编程助手）构建，利用其强大的自然语言处理能力。用户需要配置 Claude API 密钥，并按照文档设置环境。框架采用模块化设计，允许用户自定义各个流程。\n\n## 使用场景\n适合正在求职的开发者、求职顾问或希望自动化求职流程的个人。用户可以通过 fork 项目并根据自身需求进行定制，完全掌控数据隐私和流程。\n\n## 社区与热度\n该项目在 GitHub Trending 上表现突出，周增星标超过 4,600，表明其受欢迎程度和实用性。社区活跃，用户可贡献代码或提出改进建议。\n\n## 总结\nai-job-search 是一个创新且实用的 AI 求职工具，将 AI 技术应用于求职场景，大幅提升效率。对于希望利用 AI 优化求职流程的开发者来说，这是一个值得尝试的开源项目。",
+  "tags": [
+    "AI",
+    "求职",
+    "自动化",
+    "Claude Code",
+    "Python",
+    "开源",
+    "简历",
+    "面试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:34+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MadsLorentzen",
+    "stars": 37255,
+    "forks": 12613,
+    "daily_stars": null,
+    "weekly_stars": 4600,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

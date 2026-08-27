@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-e5096c0cb2",
+  "title": "opencost/opencost",
+  "source": "github_trending",
+  "source_url": "https://github.com/opencost/opencost",
+  "summary": "OpenCost 是一个用于 Kubernetes 工作负载和云成本监控的开源项目，帮助用户实时跟踪和分析云资源开销。",
+  "content": "OpenCost 是一个专注于 Kubernetes 工作负载和云成本监控的开源工具，旨在为云原生环境提供透明的成本可见性。它通过集成 Kubernetes 集群和云服务提供商（如 AWS、Azure、GCP）的计费数据，帮助用户实时跟踪和分析资源消耗与费用。项目采用 Go 语言开发，具有较高的性能和可扩展性。OpenCost 的核心功能包括成本分配、资源优化建议、历史趋势分析以及多集群支持，适用于 FinOps 实践和云成本管理。该项目在 GitHub 上拥有 6706 颗星和 866 个 fork，近期日增星约 4 颗，显示出稳定的社区关注度。其目标用户包括 DevOps 工程师、平台团队和财务管理者，通过提供可操作的洞察来降低云支出。",
+  "tags": [
+    "Kubernetes",
+    "成本监控",
+    "云成本",
+    "FinOps",
+    "Go",
+    "开源",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:31+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "opencost",
+    "stars": 6706,
+    "forks": 866,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

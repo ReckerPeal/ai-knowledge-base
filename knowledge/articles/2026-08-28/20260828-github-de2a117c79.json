@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-de2a117c79",
+  "title": "public-apis/public-apis",
+  "source": "github_trending",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "summary": "public-apis/public-apis 是一个汇集了众多免费 API 的集体列表，旨在为开发者提供一站式的 API 资源发现平台。该项目在 GitHub 上拥有超过 47 万星标，是当前最热门的开源项目之一，其内容覆盖了从动物、动漫到金融、游戏等数十个类别，极大地方便了开发者寻找和测试各种免费 API。",
+  "content": "## 项目概述\n\npublic-apis/public-apis 是一个由社区维护的免费 API 集合列表，其核心价值在于为开发者提供一个全面、分类清晰的 API 资源索引。该项目以 Markdown 格式维护，每个 API 条目包含名称、描述、认证方式、是否支持 HTTPS 以及 CORS 支持情况等关键信息，方便开发者快速筛选和评估。\n\n## 技术特点\n\n- **资源丰富**：收录了数百个免费 API，覆盖了动物、动漫、反恶意软件、艺术与设计、认证与授权、区块链、书籍、商业、日历、云存储与文件、连续交付、货币兑换、数据验证、开发、字典、娱乐、环境、金融、食品与饮料、游戏与漫画、地理编码、政府、健康、工作、机器学习、音乐、新闻、开放数据、专利、摄影、科学、安全、购物、社交、体育、交通、旅行、天气等数十个类别。\n- **分类清晰**：API 按类别组织，每个类别下都有详细的条目，便于开发者按需查找。\n- **社区驱动**：项目由社区贡献和维护，任何人都可以通过 Pull Request 添加新的 API 或更新现有条目，保证了列表的时效性和广度。\n- **简单易用**：项目本身是一个静态列表，无需安装或配置，开发者可以直接浏览或克隆仓库使用。\n\n## 应用场景\n\n- **快速原型开发**：开发者可以在项目中快速集成免费 API，验证想法或构建 MVP。\n- **学习与测试**：学生和开发者可以利用这些 API 练习前端开发、数据请求等技能。\n- **工具集成**：许多开发工具和脚本可以引用这些 API 来扩展功能，例如获取天气、汇率、新闻等数据。\n\n## 项目价值\n\n该项目是 GitHub 上最受欢迎的开源项目之一，拥有超过 47 万星标，充分证明了其在开发者社区中的巨大影响力。它不仅节省了开发者寻找 API 的时间，还促进了 API 生态的繁荣。对于任何需要外部数据或服务的开发者而言，这是一个不可多得的资源宝库。",
+  "tags": [
+    "API",
+    "免费API",
+    "开发者工具",
+    "资源列表",
+    "开源",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:34+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "public-apis",
+    "stars": 471695,
+    "forks": 52014,
+    "daily_stars": null,
+    "weekly_stars": 5585,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

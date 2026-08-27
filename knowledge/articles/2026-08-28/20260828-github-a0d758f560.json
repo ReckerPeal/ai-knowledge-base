@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-a0d758f560",
+  "title": "agentgateway/agentgateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/agentgateway/agentgateway",
+  "summary": "AgentGateway 是一个面向 AI 代理和 MCP 服务器的下一代代理网关，使用 Rust 编写，旨在提供高性能、安全的代理解决方案。",
+  "content": "AgentGateway 是一个用 Rust 实现的下一代代理网关，专门为 AI 代理和 MCP（Model Context Protocol）服务器设计。它作为 AI 代理与后端服务之间的中间层，提供请求路由、协议转换、安全认证、流量控制等功能。该项目在 GitHub 上受到广泛关注，目前已获得 4601 颗星和 773 个 fork，近期日增星约 27 颗，显示出强劲的增长势头。其核心优势在于利用 Rust 的高性能和内存安全特性，为 AI 代理场景提供低延迟、高并发的代理服务。对于需要构建可靠 AI 代理基础设施的开发者而言，AgentGateway 是一个值得关注的开源选择。",
+  "tags": [
+    "AI代理",
+    "MCP",
+    "代理网关",
+    "Rust",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "agentgateway",
+    "stars": 4601,
+    "forks": 773,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

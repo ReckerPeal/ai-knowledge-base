@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-2f9d2670fa",
+  "title": "rohitg00/agentmemory",
+  "source": "github_trending",
+  "source_url": "https://github.com/rohitg00/agentmemory",
+  "summary": "agentmemory 是一个为 AI 编码代理提供持久化记忆的开源项目，基于真实世界基准测试，旨在提升代理在长期任务中的上下文保持能力。",
+  "content": "## 项目概述\nagentmemory 是一个专注于为 AI 编码代理提供持久化记忆的库，其设计基于真实世界基准测试，确保记忆机制在实际编码场景中的有效性。该项目使用 TypeScript 编写，在 GitHub 上获得 27,615 颗星和 2,375 个 fork，日增星 119 颗，显示出较高的社区关注度。\n\n## 核心功能\n- **持久化记忆**：为 AI 代理提供跨会话的长期记忆存储，避免上下文丢失。\n- **基准驱动**：基于真实编码任务基准进行优化，确保记忆策略符合实际需求。\n- **易于集成**：提供简洁的 API，方便开发者快速集成到现有 AI 代理工作流中。\n\n## 技术亮点\n- 使用 TypeScript 开发，类型安全，适合大型项目。\n- 可能采用向量数据库或键值存储实现高效检索。\n- 支持自定义记忆策略，适应不同代理架构。\n\n## 适用场景\n- AI 编码助手（如 Copilot 类工具）的上下文管理。\n- 多轮对话代理的长期状态保持。\n- 需要跨会话记忆的自动化开发工具。\n\n## 社区与热度\n- 星标数：27,615，日增 119，表明项目处于快速增长期。\n- 语言：TypeScript，属于前端/全栈技术栈。\n- 来源：GitHub 热点，收录于 2026-08-28。",
+  "tags": [
+    "AI",
+    "编码代理",
+    "持久化记忆",
+    "TypeScript",
+    "GitHub热点",
+    "上下文管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "rohitg00",
+    "stars": 27615,
+    "forks": 2375,
+    "daily_stars": 119,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

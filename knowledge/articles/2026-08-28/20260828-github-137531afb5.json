@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-137531afb5",
+  "title": "apache/maka",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/maka",
+  "summary": "Apache Maka（孵化中）是一个本地优先的 AI 智能体工作空间，通过仅追加日志记录模型消息、工具调用、工具结果、权限决策和终止事件，实现可审计和可追溯的 AI 交互。",
+  "content": "Apache Maka（孵化中）是一个本地优先的 AI 智能体工作空间，旨在为 AI 代理提供透明、可审计的运行环境。其核心特性是将模型消息、工具调用、工具结果、权限决策和终止事件记录为仅追加日志（append-only log），确保所有交互历史不可篡改且可追溯。该项目使用 TypeScript 开发，目前处于 Apache 孵化器阶段，在 GitHub 上获得 3760 星标和 357 个 fork，近期周增星标 2217，显示出较高的社区关注度。",
+  "tags": [
+    "AI Agent",
+    "本地优先",
+    "日志审计",
+    "Apache",
+    "TypeScript",
+    "工作空间"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-28T07:18:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "apache",
+    "stars": 3760,
+    "forks": 357,
+    "daily_stars": null,
+    "weekly_stars": 2217,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
