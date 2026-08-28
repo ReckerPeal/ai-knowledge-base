@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-bcb3b2eb32",
+  "title": "glanceapp/glance",
+  "source": "github_trending",
+  "source_url": "https://github.com/glanceapp/glance",
+  "summary": "Glance 是一个自托管的仪表盘项目，旨在将用户所有的信息流集中到一个界面中。它使用 Go 语言开发，在 GitHub 上获得了 36,680 颗星，近期热度持续上升。",
+  "content": "Glance 是一个开源的自托管仪表盘工具，主要功能是将用户的各种信息源（如 RSS 订阅、社交媒体、新闻、天气等）聚合到一个可自定义的网页界面中。该项目使用 Go 语言编写，强调轻量级和易部署性，用户可以通过简单的配置文件快速搭建个人专属的信息中心。\n\n该项目在 GitHub 上表现活跃，目前拥有 36,680 颗星和 1,440 个 fork，近期日增星约 21 颗，周增星约 191 颗，显示出较强的社区关注度。其设计理念是提供一个简洁、高效的自托管替代方案，适合希望掌控自己数据流的用户。\n\nGlance 的主要特点包括：\n- 自托管：用户完全掌控自己的数据和服务器。\n- 多源聚合：支持多种信息源，如 RSS、Atom、Reddit、Hacker News 等。\n- 高度可定制：通过 YAML 配置文件自定义布局、主题和组件。\n- 轻量级：基于 Go 语言，资源占用低，响应速度快。\n- 易于部署：提供 Docker 镜像和简单的安装步骤。\n\n该项目适合技术爱好者、隐私倡导者以及希望整合信息流的个人用户。",
+  "tags": [
+    "自托管",
+    "仪表盘",
+    "RSS",
+    "Go",
+    "信息聚合",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:38+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "glanceapp",
+    "stars": 36680,
+    "forks": 1440,
+    "daily_stars": 21,
+    "weekly_stars": 191,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

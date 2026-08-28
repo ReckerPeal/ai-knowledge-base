@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-f791d596ac",
+  "title": "n8n-io/n8n",
+  "source": "github_trending",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "summary": "n8n 是一个公平代码（fair-code）的工作流自动化平台，原生支持 AI 能力。它允许用户通过可视化界面结合自定义代码来构建工作流，支持自托管或云服务，并集成了超过 400 个应用。",
+  "content": "n8n 是一个开源的工作流自动化工具，采用公平代码许可，旨在平衡开源与商业利益。其核心优势在于：\n1. **可视化构建**：用户可以通过拖拽节点的方式设计工作流，无需编写大量代码。\n2. **自定义代码**：支持在节点中嵌入 JavaScript 或 Python 代码，满足复杂逻辑需求。\n3. **AI 原生能力**：内置 AI 节点，可集成大语言模型（如 OpenAI、Hugging Face 等），实现智能自动化。\n4. **部署灵活**：支持自托管（Docker、npm 等）和云服务（n8n Cloud），适应不同规模团队。\n5. **丰富集成**：提供超过 400 个集成节点，覆盖数据库、API、消息服务等常见工具。\n\n该项目在 GitHub 上拥有超过 20 万星标，社区活跃，更新频繁。其技术栈基于 TypeScript，保证了类型安全和可维护性。对于需要快速构建自动化流程的开发者或企业，n8n 是一个高效且灵活的选择。",
+  "tags": [
+    "工作流自动化",
+    "AI",
+    "可视化编程",
+    "自托管",
+    "集成平台",
+    "TypeScript",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:44+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "n8n-io",
+    "stars": 202720,
+    "forks": 60442,
+    "daily_stars": null,
+    "weekly_stars": 1435,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260829-github-bf5dba8048",
+  "title": "asciimoo/hister",
+  "source": "github_trending",
+  "source_url": "https://github.com/asciimoo/hister",
+  "summary": "hister 是一个用 Go 编写的自托管搜索引擎，旨在让用户完全掌控自己的搜索体验，避免依赖商业搜索引擎的数据收集和算法过滤。",
+  "content": "hister 是一个开源的、自托管的搜索引擎，由 asciimoo 开发，使用 Go 语言编写。它的核心理念是“你自己的搜索引擎”，强调用户对搜索过程的完全控制。该项目在 GitHub 上获得了 3186 颗星和 145 个 fork，近期周增长 1149 颗星，显示出较高的社区关注度。\n\nhister 的主要特点包括：\n- **自托管**：用户可以部署在自己的服务器上，数据完全由自己掌控，避免第三方搜索引擎的隐私泄露和算法偏见。\n- **可定制性**：用户可以根据需要调整搜索参数、索引范围和结果排序方式。\n- **轻量级**：基于 Go 语言，部署简单，资源占用低，适合个人或小型团队使用。\n- **隐私保护**：不跟踪用户行为，不存储搜索历史，提供更私密的搜索环境。\n\n该项目适合对隐私敏感、希望摆脱商业搜索引擎依赖的技术用户。通过 hister，用户可以构建一个完全属于自己的搜索工具，同时学习搜索引擎的底层实现。",
+  "tags": [
+    "Go",
+    "搜索引擎",
+    "自托管",
+    "隐私",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "asciimoo",
+    "stars": 3186,
+    "forks": 145,
+    "daily_stars": null,
+    "weekly_stars": 1149,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

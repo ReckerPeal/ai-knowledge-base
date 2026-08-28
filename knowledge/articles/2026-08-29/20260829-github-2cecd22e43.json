@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-2cecd22e43",
+  "title": "withastro/astro",
+  "source": "github_trending",
+  "source_url": "https://github.com/withastro/astro",
+  "summary": "Astro 是一个专为内容驱动型网站设计的 Web 框架，旨在提供极致的性能与开发体验。它通过默认零 JavaScript 的架构，将页面渲染为静态 HTML，仅在需要时加载交互组件，从而显著提升加载速度。该项目在 GitHub 上广受关注，已获得超过 6.2 万星标。",
+  "content": "## Astro：内容驱动网站的现代 Web 框架\n\nAstro 是一个专为内容驱动型网站（如博客、文档站点、营销页面等）设计的 Web 框架，其核心理念是“默认零 JavaScript”。它允许开发者使用熟悉的组件语法（如 React、Vue、Svelte 等）构建页面，但在构建时将这些组件渲染为纯静态 HTML，从而消除不必要的 JavaScript 开销，实现极致的加载性能。\n\n### 核心特性\n- **内容优先**：针对内容密集型网站优化，支持 Markdown、MDX 等内容格式，并内置内容集合（Content Collections）功能，便于管理和查询内容。\n- **岛屿架构**：支持在静态页面中嵌入交互组件（称为“岛屿”），这些组件按需加载，不会影响整体页面的性能。\n- **多框架支持**：允许在同一个项目中使用多种前端框架（React、Vue、Svelte、Solid 等），并自动处理组件间的兼容性。\n- **开发体验**：提供热更新、类型安全、丰富的插件生态，以及针对 SEO 的优化（如自动生成 sitemap、RSS 等）。\n\n### 适用场景\n- 博客、个人网站、文档站点、营销页面等以内容展示为主的网站。\n- 需要快速加载和良好 SEO 的静态站点。\n- 希望减少客户端 JavaScript 体积，提升用户体验的团队。\n\n### 社区与生态\nAstro 在 GitHub 上拥有超过 6.2 万星标，社区活跃，文档完善，并提供了大量官方和社区主题、组件与集成。其版本迭代迅速，持续引入新特性（如 View Transitions、Server Islands 等），是当前静态网站生成器领域的有力竞争者。",
+  "tags": [
+    "Web框架",
+    "静态网站生成器",
+    "内容驱动",
+    "性能优化",
+    "TypeScript",
+    "前端开发",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:44+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "withastro",
+    "stars": 62127,
+    "forks": 3747,
+    "daily_stars": null,
+    "weekly_stars": 226,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

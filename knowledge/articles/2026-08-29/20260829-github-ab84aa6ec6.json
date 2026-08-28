@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-ab84aa6ec6",
+  "title": "ruvnet/RuVector",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/RuVector",
+  "summary": "RuVector 是一个基于 Rust 构建的高性能、实时、自学习的人工智能向量图神经网络（GNN）内存数据库。",
+  "content": "RuVector 是一个用 Rust 编写的创新性 AI 数据库，它结合了向量数据库、图神经网络（GNN）和内存计算技术，旨在提供高性能、实时的数据处理能力。其核心特性包括：\n\n- **高性能**：利用 Rust 的系统级性能，实现低延迟的数据访问和计算。\n- **实时性**：支持流式数据更新和实时推理，适用于动态变化的数据场景。\n- **自学习**：内置图神经网络，能够从数据中自动学习特征和关系，提升智能分析能力。\n- **内存数据库**：数据主要驻留在内存中，加速查询和训练过程。\n\n该项目在 GitHub 上表现活跃，拥有超过 4400 颗星，显示了社区的广泛关注。它可能适用于需要实时 AI 推理、图数据分析和向量检索的应用，如推荐系统、知识图谱和智能代理等。",
+  "tags": [
+    "Rust",
+    "向量数据库",
+    "图神经网络",
+    "内存数据库",
+    "实时AI",
+    "自学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 4464,
+    "forks": 590,
+    "daily_stars": null,
+    "weekly_stars": 24,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

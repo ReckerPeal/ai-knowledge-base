@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-da7c582ec8",
+  "title": "can1357/oh-my-pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "summary": "oh-my-pi 是一个将 IDE 深度集成到编码代理中的开源项目，旨在提供更智能、更高效的开发体验。该项目使用 TypeScript 编写，在 GitHub 上获得了超过 2.8 万颗星，近期热度持续上升。",
+  "content": "## 项目概述\n\n**oh-my-pi** 是一个创新的编码代理工具，其核心理念是“将 IDE 接入编码代理”（Coding agent with the IDE wired in）。它通过将集成开发环境（IDE）的能力与自动化代理相结合，为开发者提供一种全新的交互式编程方式。该项目由 can1357 开发，使用 TypeScript 语言实现，目前已在 GitHub 上获得 28,144 颗星和 2,811 次 fork，周增长 1,893 颗星，显示出强劲的社区关注度。\n\n## 技术特点\n\n- **IDE 深度集成**：项目将 IDE 的编辑、调试、重构等功能直接嵌入到编码代理的工作流中，使得代理能够更自然地理解和操作代码。\n- **TypeScript 实现**：采用 TypeScript 编写，保证了代码的类型安全性和可维护性，同时也便于前端开发者参与贡献。\n- **自动化与交互平衡**：在自动化代码生成和人工交互之间取得平衡，既提高了开发效率，又保留了开发者的控制权。\n\n## 应用场景\n\n- **智能代码补全与生成**：代理可以根据 IDE 中的上下文自动生成代码片段。\n- **自动化重构**：利用 IDE 的重构工具，代理可以安全地执行大规模代码变更。\n- **交互式调试**：代理能够辅助开发者定位问题，并建议修复方案。\n\n## 社区与影响\n\n该项目在 GitHub 上热度极高，属于 TypeScript 类别下的热门项目。其 star 数和 fork 数表明它已经吸引了大量开发者的关注和贡献。随着 AI 辅助编程的普及，oh-my-pi 有望成为该领域的重要工具之一。",
+  "tags": [
+    "AI",
+    "编码代理",
+    "IDE",
+    "TypeScript",
+    "开发工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:44+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "can1357",
+    "stars": 28144,
+    "forks": 2811,
+    "daily_stars": null,
+    "weekly_stars": 1893,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

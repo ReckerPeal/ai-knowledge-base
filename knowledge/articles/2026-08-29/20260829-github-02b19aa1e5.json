@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-02b19aa1e5",
+  "title": "ajeetdsouza/zoxide",
+  "source": "github_trending",
+  "source_url": "https://github.com/ajeetdsouza/zoxide",
+  "summary": "zoxide 是一个更智能的 cd 命令，支持所有主流 shell，用 Rust 编写。",
+  "content": "zoxide 是一个用 Rust 编写的命令行工具，旨在替代传统的 cd 命令。它通过记录用户访问过的目录并利用智能算法，让用户能够快速跳转到常用目录，而无需输入完整路径。该工具支持所有主流 shell（如 Bash、Zsh、Fish 等），并提供了与原生 cd 命令无缝集成的体验。其核心优势在于学习用户行为，通过模糊匹配和排名算法，让目录切换变得更快、更直观。该项目在 GitHub 上非常受欢迎，拥有近 3.9 万星标，每日新增星标约 59 个，显示出活跃的社区关注度。",
+  "tags": [
+    "命令行工具",
+    "Rust",
+    "cd 替代",
+    "shell 增强",
+    "目录导航",
+    "开发者工具",
+    "效率工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:36+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ajeetdsouza",
+    "stars": 38992,
+    "forks": 880,
+    "daily_stars": 59,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

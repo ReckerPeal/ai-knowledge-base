@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-2e8a64d0e7",
+  "title": "vxcontrol/pentagi",
+  "source": "github_trending",
+  "source_url": "https://github.com/vxcontrol/pentagi",
+  "summary": "vxcontrol/pentagi 是一个完全自主的 AI 代理系统，能够执行复杂的渗透测试任务。该项目基于 Go 语言开发，在 GitHub 上获得了 22128 颗星和 2945 个 fork，近期热度持续上升。",
+  "content": "## 项目概述\nvxcontrol/pentagi 是一个专注于网络安全领域的开源项目，它利用 AI 代理技术实现了渗透测试的自动化。该系统能够自主规划、执行和报告复杂的渗透测试任务，显著降低了安全测试的门槛和人力成本。\n\n## 核心特性\n- **完全自主**：AI 代理无需人工干预即可完成从信息收集到漏洞利用的完整流程。\n- **复杂任务支持**：能够处理多阶段、多目标的渗透测试场景。\n- **Go 语言实现**：高性能、并发安全，适合安全工具开发。\n\n## 技术亮点\n- 基于大型语言模型（LLM）的决策引擎，模拟安全专家的思维过程。\n- 模块化架构，支持扩展新的攻击模块和工具集成。\n- 提供详细的报告生成功能，便于审计和复盘。\n\n## 应用场景\n- 企业安全团队进行定期的安全评估。\n- 红队演练和漏洞验证。\n- 安全教育和培训中的自动化实践。\n\n## 社区与热度\n该项目在 GitHub 上表现活跃，日增星 73 颗，反映出社区对 AI 驱动安全工具的高度关注。",
+  "tags": [
+    "AI Agent",
+    "渗透测试",
+    "网络安全",
+    "自动化",
+    "Go",
+    "LLM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:38+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vxcontrol",
+    "stars": 22128,
+    "forks": 2945,
+    "daily_stars": 73,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

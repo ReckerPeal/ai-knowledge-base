@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-8cb6b7b8db",
+  "title": "higress-group/higress",
+  "source": "github_trending",
+  "source_url": "https://github.com/higress-group/higress",
+  "summary": "Higress 是一个 AI 原生的 API 网关，基于 Go 语言开发，旨在为 AI 应用提供高性能、可扩展的流量管理和服务治理能力。",
+  "content": "Higress 是一个 AI 原生的 API 网关，基于 Go 语言开发，旨在为 AI 应用提供高性能、可扩展的流量管理和服务治理能力。它支持多种 AI 服务协议（如 OpenAI、Claude 等），提供请求路由、负载均衡、认证授权、限流熔断、可观测性等核心网关功能，并针对 AI 场景进行了优化，例如支持流式响应、Token 计量、模型灰度发布等。Higress 基于 Istio 和 Envoy 构建，继承了云原生生态的成熟特性，同时提供了更轻量、更易用的管理界面和配置方式。该项目在 GitHub 上拥有 9230 颗星，社区活跃，适合需要构建 AI 服务网关的开发者或团队使用。",
+  "tags": [
+    "AI Gateway",
+    "API Gateway",
+    "Go",
+    "云原生",
+    "服务治理",
+    "Istio",
+    "Envoy"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "higress-group",
+    "stars": 9230,
+    "forks": 1261,
+    "daily_stars": null,
+    "weekly_stars": 69,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-3d1a94f342",
+  "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+  "source": "rss",
+  "source_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+  "summary": "开源体素游戏引擎 Luanti（前身为 Minetest）因一封无根据的 AI 版权投诉通知被 Google Play 下架。该通知由 AI 生成，缺乏有效法律依据，但平台仍执行了移除操作。事件引发了对 AI 滥用版权机制和开源项目脆弱性的广泛讨论。",
+  "content": "## 事件概述\n\nLuanti（原名 Minetest）是一款流行的开源体素游戏引擎，其 Android 版本在 Google Play 商店中被下架。下架原因是 Google 收到了一份基于 AI 生成的版权投诉通知（DMCA Tracer AI），该通知被指为“无根据”（baseless），即缺乏真实版权依据。\n\n## 关键问题\n\n- **AI 滥用版权机制**：AI 生成的投诉通知可能被恶意或错误使用，导致合法开源项目被误伤。\n- **平台审核机制缺陷**：Google Play 的自动审核流程未能有效识别虚假投诉，缺乏人工复核。\n- **开源项目脆弱性**：依赖第三方平台分发的开源项目面临非技术风险，如法律和平台政策。\n\n## 社区反应\n\nHacker News 上该话题获得 412 分和 126 条评论，社区成员普遍表达对 AI 版权滥用的担忧，并讨论如何改进平台申诉机制。\n\n## 影响与启示\n\n- 开源项目应建立多平台分发渠道，降低单一平台风险。\n- 平台需加强对 AI 生成内容的审核，防止自动化工具被滥用。\n- 法律层面需明确 AI 生成内容的版权责任归属。",
+  "tags": [
+    "AI",
+    "版权",
+    "开源",
+    "Google Play",
+    "DMCA",
+    "Luanti",
+    "Minetest",
+    "平台审核"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-28T06:33:57+00:00",
+  "collected_at": "2026-08-29T07:15:49+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

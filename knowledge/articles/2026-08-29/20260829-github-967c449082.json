@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-967c449082",
+  "title": "ekzhang/bore",
+  "source": "github_trending",
+  "source_url": "https://github.com/ekzhang/bore",
+  "summary": "bore 是一个简单的 CLI 工具，用于创建到 localhost 的隧道，方便将本地服务暴露到公网。",
+  "content": "bore 是一个用 Rust 编写的轻量级命令行工具，旨在简化本地服务的公网暴露过程。它通过创建安全的隧道，将本地端口映射到远程服务器，使用户无需复杂的配置即可快速分享本地 Web 应用或 API。该项目在 GitHub 上拥有超过 11k 星标，社区活跃，适合开发者用于开发调试、演示或临时共享场景。",
+  "tags": [
+    "bore",
+    "tunnel",
+    "localhost",
+    "CLI",
+    "Rust",
+    "网络工具",
+    "开发调试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:36+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ekzhang",
+    "stars": 11462,
+    "forks": 521,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

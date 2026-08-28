@@ -1,0 +1,34 @@
+{
+  "id": "20260829-github-d41117b8d3",
+  "title": "t8y2/dbx",
+  "source": "github_trending",
+  "source_url": "https://github.com/t8y2/dbx",
+  "summary": "dbx 是一款轻量级跨平台数据库管理工具，支持 90+ 种数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦等。它提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server 等多种使用方式，体积仅 20 MB。",
+  "content": "dbx 是一个用 Rust 编写的轻量级跨平台数据库客户端，旨在提供高效、统一的数据库管理体验。其核心特性包括：\n\n- **广泛数据库支持**：支持 90+ 种数据库，覆盖主流关系型数据库（如 MySQL、PostgreSQL、SQLite、SQL Server）、NoSQL（如 Redis、MongoDB）以及新兴分析型数据库（如 DuckDB）和国产数据库（如达梦）。\n- **多形态部署**：提供桌面应用、Docker 容器、CLI 命令行工具，满足不同使用场景。\n- **内置 AI 助手**：集成 AI 功能，辅助 SQL 编写、查询优化等。\n- **MCP Server 支持**：可作为模型上下文协议（MCP）服务器，便于 AI 工具集成。\n- **轻量高效**：仅 20 MB 体积，资源占用低，适合日常开发与运维。\n\n该项目在 GitHub 上热度较高，当前获得 17k+ stars，近期日增 410 stars，显示出较强的社区关注度。",
+  "tags": [
+    "数据库客户端",
+    "跨平台",
+    "Rust",
+    "AI",
+    "MCP",
+    "Docker",
+    "CLI",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:36+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "t8y2",
+    "stars": 17271,
+    "forks": 1686,
+    "daily_stars": 410,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

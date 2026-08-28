@@ -1,0 +1,34 @@
+{
+  "id": "20260829-github-4fe3ad9c5f",
+  "title": "lance-format/lance",
+  "source": "github_trending",
+  "source_url": "https://github.com/lance-format/lance",
+  "summary": "Lance 是一个面向多模态 AI 的开源湖仓格式，旨在解决传统数据格式（如 Parquet）在 AI 场景下的性能瓶颈。它提供极速的随机访问、向量索引和数据版本控制，仅需两行代码即可从 Parquet 转换，实现高达 100 倍的访问加速。Lance 兼容 Pandas、DuckDB、Polars、PyArrow 和 PyTorch 等主流数据处理和深度学习框架，并持续集成更多生态工具。",
+  "content": "## Lance：多模态 AI 的开源湖仓格式\n\nLance 是一个专为多模态 AI 设计的开源列式存储格式，基于 Rust 构建，旨在成为 AI 数据湖的基石。它解决了传统数据格式（如 Parquet）在 AI 工作负载中的关键痛点，包括随机访问性能差、缺乏原生向量索引和数据版本管理能力。\n\n### 核心特性\n\n- **极速随机访问**：通过优化的索引和存储布局，Lance 在随机访问场景下比 Parquet 快 100 倍，特别适合需要频繁读取单个样本的深度学习训练和推理。\n- **原生向量索引**：内置向量索引支持，可高效执行相似性搜索，是构建 RAG（检索增强生成）和推荐系统的理想选择。\n- **数据版本控制**：支持时间旅行查询和版本管理，便于数据回滚、审计和实验复现。\n- **无缝集成**：提供 Python API，兼容 Pandas、DuckDB、Polars、PyArrow 和 PyTorch，用户无需改变现有工作流即可迁移。\n\n### 快速上手\n\n从 Parquet 转换只需两行代码：\n\n```python\nimport lance\nimport pyarrow as pa\n\n# 读取 Parquet 文件\ntable = pa.parquet.read_table('data.parquet')\n# 写入 Lance 格式\nlance.write_dataset(table, 'data.lance')\n```\n\n### 应用场景\n\n- **多模态数据管理**：统一存储图像、文本、音频等非结构化数据及其元数据。\n- **机器学习流水线**：加速数据预处理、特征存储和模型训练中的数据加载。\n- **向量检索系统**：结合向量索引，实现毫秒级相似性搜索。\n\n### 社区与生态\n\nLance 由 lance-format 组织维护，目前已在 GitHub 上获得近 7000 星标，社区活跃。它正积极扩展与更多数据处理框架的集成，未来有望成为 AI 数据基础设施的标准格式之一。",
+  "tags": [
+    "AI",
+    "数据格式",
+    "湖仓",
+    "向量索引",
+    "Rust",
+    "多模态",
+    "数据版本控制",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:36+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lance-format",
+    "stars": 6987,
+    "forks": 826,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260829-github-59e3902025",
+  "title": "GitoxideLabs/gitoxide",
+  "source": "github_trending",
+  "source_url": "https://github.com/GitoxideLabs/gitoxide",
+  "summary": "Gitoxide 是一个用纯 Rust 编写的 Git 实现，强调惯用、精简、快速和安全。",
+  "content": "Gitoxide 是一个用纯 Rust 实现的 Git 版本控制系统，旨在提供一种符合 Rust 语言习惯、代码精简、性能高效且内存安全的 Git 替代实现。该项目在 GitHub 上拥有超过 1.1 万颗星，受到开发者社区的广泛关注。其核心优势在于利用 Rust 的内存安全特性，避免了许多传统 Git 实现中常见的内存错误和安全漏洞，同时通过优化算法和数据结构，实现了接近甚至超越原生 Git 的性能。Gitoxide 的架构设计注重模块化和可扩展性，便于开发者贡献代码和定制功能。该项目目前处于积极开发阶段，每周都有新的星标增长，显示出强劲的发展势头。对于追求高性能、高安全性的 Git 用户和开发者来说，Gitoxide 是一个值得关注和尝试的项目。",
+  "tags": [
+    "Git",
+    "Rust",
+    "版本控制",
+    "高性能",
+    "内存安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "GitoxideLabs",
+    "stars": 11884,
+    "forks": 538,
+    "daily_stars": null,
+    "weekly_stars": 87,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

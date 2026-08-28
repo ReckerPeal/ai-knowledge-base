@@ -1,0 +1,33 @@
+{
+  "id": "20260829-github-897b7a167c",
+  "title": "DefinitelyTyped/DefinitelyTyped",
+  "source": "github_trending",
+  "source_url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+  "summary": "DefinitelyTyped 是高质量 TypeScript 类型定义的官方仓库，为数千个 JavaScript 库提供社区维护的类型声明，是 TypeScript 生态中不可或缺的基础设施。",
+  "content": "DefinitelyTyped 是 TypeScript 社区的核心项目，旨在为没有自带类型定义的 JavaScript 库提供高质量的类型声明。它通过 DefinitelyTyped/DefinitelyTyped 仓库集中管理，采用社区驱动的模式，任何开发者都可以通过提交 PR 来添加或更新类型定义。这些类型定义通过 npm 包（如 @types/xxx）分发，并被 TypeScript 编译器自动识别。该仓库拥有超过 5 万颗星和 3 万次 fork，活跃度极高，是 TypeScript 生态中不可或缺的基础设施。其类型定义覆盖了从流行框架（如 React、Vue）到小型工具库的广泛范围，极大地提升了开发体验和代码可维护性。",
+  "tags": [
+    "TypeScript",
+    "类型定义",
+    "DefinitelyTyped",
+    "社区驱动",
+    "npm",
+    "JavaScript",
+    "类型安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-29T07:15:44+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "DefinitelyTyped",
+    "stars": 51413,
+    "forks": 30390,
+    "daily_stars": null,
+    "weekly_stars": 39,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
