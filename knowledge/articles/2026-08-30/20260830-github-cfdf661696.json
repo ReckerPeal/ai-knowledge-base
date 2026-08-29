@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-cfdf661696",
+  "title": "openimsdk/open-im-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/openimsdk/open-im-server",
+  "summary": "openimsdk/open-im-server 是一个基于 Go 语言开发的开源即时通讯（IM）服务端项目，在 GitHub 上拥有超过 1.6 万星标，近期热度持续上升。该项目提供了完整的 IM 聊天解决方案，支持私有化部署，适用于需要自建聊天系统的开发者和企业。",
+  "content": "## 项目概述\nopenimsdk/open-im-server 是一个开源的即时通讯（IM）服务端实现，采用 Go 语言编写，旨在提供高性能、可扩展的聊天服务。该项目在 GitHub 上广受关注，目前拥有 16,623 个星标和 2,947 个分支，属于 GitHub 热点项目中的 Go 语言类别。\n\n## 核心功能\n- **即时通讯服务**：支持单聊、群聊、系统消息等常见 IM 功能。\n- **高性能架构**：基于 Go 的并发模型，适合高并发场景。\n- **私有化部署**：允许企业或开发者自行部署，保障数据安全。\n- **开放 API**：提供丰富的接口，便于二次开发和集成。\n\n## 技术特点\n- **语言**：Go（Golang），编译型语言，性能优越。\n- **生态**：与 OpenIM SDK 配合，支持 iOS、Android、Web 等多端。\n- **社区活跃**：项目持续更新，近期周增星标 24 个，显示社区关注度较高。\n\n## 适用场景\n- 企业需要自建 IM 系统，避免依赖第三方服务。\n- 开发者希望学习或基于 Go 构建高性能聊天服务。\n- 需要定制化聊天功能，如特殊消息类型或业务逻辑。\n\n## 总结\nopen-im-server 是一个成熟的开源 IM 服务端项目，适合有技术能力且需要私有化聊天解决方案的团队。其 Go 语言实现保证了性能和并发处理能力，社区活跃度也为其长期维护提供了保障。",
+  "tags": [
+    "Go",
+    "IM",
+    "即时通讯",
+    "开源",
+    "私有化部署",
+    "聊天服务",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:39+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openimsdk",
+    "stars": 16623,
+    "forks": 2947,
+    "daily_stars": null,
+    "weekly_stars": 24,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

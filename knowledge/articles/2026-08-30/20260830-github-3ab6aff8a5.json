@@ -1,0 +1,34 @@
+{
+  "id": "20260830-github-3ab6aff8a5",
+  "title": "microsoft/hve-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/hve-core",
+  "summary": "microsoft/hve-core 是一个由微软维护的 GitHub 仓库，提供了一套精选的“超高速工程”组件，包括指令、提示词、智能体和技能，旨在帮助开发者快速启动新项目或升级现有项目，以充分利用 GitHub Copilot 的功能。",
+  "content": "## 项目概述\nmicrosoft/hve-core 是微软发布的一个开源项目，专注于“Hypervelocity Engineering”（超高速工程）领域。它提供了一套精心设计的组件集合，包括指令（instructions）、提示词（prompts）、智能体（agents）和技能（skills），这些组件旨在帮助开发者更高效地使用 GitHub Copilot，无论是启动新项目还是优化现有项目。\n\n## 核心功能\n- **指令与提示词**：提供优化的指令和提示词模板，帮助用户更好地与 GitHub Copilot 交互，提升代码生成质量和效率。\n- **智能体与技能**：包含可复用的智能体配置和技能模块，支持自动化开发流程，减少重复性工作。\n- **项目启动与升级**：既适合新项目快速集成，也支持对现有项目进行升级，以充分利用 Copilot 的潜力。\n\n## 技术亮点\n- **微软官方支持**：由微软团队维护，质量有保障，且与 GitHub Copilot 深度集成。\n- **社区热度**：在 GitHub 上获得 1398 颗星和 277 次 fork，近期日增星约 22 颗，表明其受到开发者关注。\n- **语言与生态**：主要使用 Python，适合 Python 开发者使用，同时其组件设计可能具有跨语言适用性。\n\n## 适用场景\n- 希望快速上手 GitHub Copilot 的开发者。\n- 需要标准化 AI 辅助开发流程的团队。\n- 对“超高速工程”方法论感兴趣的开发者，希望提升开发效率。\n\n## 总结\nmicrosoft/hve-core 是一个实用且高质量的工具集，尤其适合 Python 开发者。它通过提供标准化组件，降低了使用 GitHub Copilot 的门槛，并有助于提升开发效率。对于关注 AI 辅助编程的开发者来说，这是一个值得关注的项目。",
+  "tags": [
+    "GitHub Copilot",
+    "AI辅助编程",
+    "开发工具",
+    "提示词工程",
+    "智能体",
+    "微软",
+    "Python",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:20+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 1398,
+    "forks": 277,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

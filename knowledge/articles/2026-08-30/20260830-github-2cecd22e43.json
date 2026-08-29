@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-2cecd22e43",
+  "title": "withastro/astro",
+  "source": "github_trending",
+  "source_url": "https://github.com/withastro/astro",
+  "summary": "Astro 是一个专为内容驱动型网站设计的 Web 框架，旨在通过默认零 JavaScript 的方式提供极致的性能体验。该项目在 GitHub 上拥有超过 6.2 万星标，社区活跃，持续获得开发者关注。",
+  "content": "Astro 是一个现代静态网站生成器（SSG），专注于内容密集型网站（如博客、文档、营销页面等）的构建。其核心优势在于“默认零 JavaScript”架构：页面在构建时被编译为纯 HTML，仅在需要交互的组件（如岛屿架构中的客户端组件）中按需加载 JavaScript，从而显著提升加载速度和 SEO 表现。\n\nAstro 支持多种 UI 框架（如 React、Vue、Svelte、Solid 等）的混用，允许开发者使用熟悉的组件语法，同时通过“岛屿”模式实现部分交互。它还提供了丰富的主题、集成（如 Tailwind、MDX）和内容集合（Content Collections）功能，简化了内容管理和路由配置。\n\n该项目由 withastro 组织维护，采用 TypeScript 编写，拥有活跃的社区和详尽的文档。其 GitHub 星标数超过 6.2 万，周增长约 226 星，表明其持续受到开发者欢迎。适合需要高性能、SEO 友好的内容网站开发者使用。",
+  "tags": [
+    "web-framework",
+    "static-site-generator",
+    "typescript",
+    "content-driven",
+    "jamstack",
+    "astro"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:34+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "withastro",
+    "stars": 62154,
+    "forks": 3751,
+    "daily_stars": null,
+    "weekly_stars": 226,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-79c8c62092",
+  "title": "traefik/traefik",
+  "source": "github_trending",
+  "source_url": "https://github.com/traefik/traefik",
+  "summary": "Traefik 是一个云原生应用代理，支持动态配置和自动服务发现，广泛应用于微服务和容器化环境。",
+  "content": "Traefik 是一个用 Go 语言编写的云原生应用代理，旨在简化微服务架构中的网络流量管理。它支持多种后端服务（如 Docker、Kubernetes、Consul 等）的自动发现，并动态更新路由规则，无需手动重启或重新加载配置。Traefik 提供了丰富的功能，包括负载均衡、TLS 终止、HTTP/2、WebSocket 支持、中间件机制（如认证、限流、重试等），以及内置的仪表盘和监控接口。其设计强调易用性和可扩展性，适合现代云原生部署场景。该项目在 GitHub 上拥有超过 64k 星标，社区活跃，是云原生代理领域的主流选择。",
+  "tags": [
+    "云原生",
+    "反向代理",
+    "负载均衡",
+    "服务发现",
+    "Go",
+    "微服务",
+    "容器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:28+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "traefik",
+    "stars": 64651,
+    "forks": 6173,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-bb05f643d9",
+  "title": "milvus-io/milvus",
+  "source": "github_trending",
+  "source_url": "https://github.com/milvus-io/milvus",
+  "summary": "Milvus 是一个高性能、云原生的向量数据库，专为可扩展的向量近似最近邻（ANN）搜索而设计。",
+  "content": "Milvus 是一个开源的高性能向量数据库，采用云原生架构，专注于解决大规模向量数据的存储与检索问题。它支持多种索引类型（如 IVF、HNSW 等）和多种相似度度量方式，能够满足机器学习、深度学习、推荐系统、图像检索等场景下的向量近似最近邻搜索需求。Milvus 提供水平扩展能力，支持分布式部署，并具备高可用性和容错性。其 API 支持多种编程语言（如 Python、Java、Go 等），便于集成。该项目在 GitHub 上拥有 45,874 颗星，社区活跃，持续迭代。",
+  "tags": [
+    "向量数据库",
+    "云原生",
+    "ANN搜索",
+    "机器学习",
+    "分布式",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:28+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "milvus-io",
+    "stars": 45874,
+    "forks": 4210,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

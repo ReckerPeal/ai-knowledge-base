@@ -1,0 +1,31 @@
+{
+  "id": "20260830-github-256005002a",
+  "title": "tailscale/tailcat",
+  "source": "github_trending",
+  "source_url": "https://github.com/tailscale/tailcat",
+  "summary": "tailcat 是一个类似 netcat 的工具，但通过 Tailscale 的数据平面运行，而不依赖 Tailscale 的控制平面。",
+  "content": "tailcat 是 Tailscale 团队开发的一个开源工具，其设计目标是提供类似 netcat 的网络调试功能，但利用 Tailscale 的加密数据平面进行通信，同时避免使用 Tailscale 的控制平面。这意味着用户可以在不依赖 Tailscale 协调服务器的情况下，通过 Tailscale 的 WireGuard 隧道进行数据传输，适合在已建立 Tailscale 网络的设备之间进行快速、安全的端口测试或数据传输。该项目使用 Go 语言编写，目前在 GitHub 上获得了 3324 颗星，近期热度上升迅速（日增 790 星），表明其受到开发者社区的广泛关注。",
+  "tags": [
+    "Tailscale",
+    "netcat",
+    "网络工具",
+    "Go",
+    "数据平面"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "tailscale",
+    "stars": 3324,
+    "forks": 94,
+    "daily_stars": 790,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

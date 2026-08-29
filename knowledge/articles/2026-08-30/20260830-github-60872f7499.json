@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-60872f7499",
+  "title": "browser-use/browser-harness",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-harness",
+  "summary": "Browser Harness 是一个自愈式浏览器自动化工具，旨在让大型语言模型（LLM）能够完成任意任务。",
+  "content": "Browser Harness 是一个自愈式（self-healing）浏览器自动化框架，专为大型语言模型（LLM）设计，使其能够通过浏览器执行各种复杂任务。该项目由 browser-use 团队开发，在 GitHub 上获得了 17226 颗星和 1664 个 fork，近期周增星 275 颗，显示出较高的社区关注度。其核心特性包括：\n- **自愈能力**：当浏览器操作失败时，系统能够自动检测并修复问题，确保任务继续执行。\n- **LLM 集成**：为 LLM 提供稳定的浏览器操作接口，支持自然语言指令到浏览器动作的转换。\n- **任务通用性**：可处理从网页抓取到表单填写等多种任务，适用于自动化测试、数据采集、智能助手等场景。\n- **技术栈**：基于 Python 构建，便于与现有 AI 生态集成。\n\n该项目在 GitHub 热点中归类为 Python 类别，反映了其在 AI 驱动自动化领域的潜力。",
+  "tags": [
+    "browser automation",
+    "LLM",
+    "self-healing",
+    "Python",
+    "AI agents",
+    "web scraping"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:31+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "browser-use",
+    "stars": 17226,
+    "forks": 1664,
+    "daily_stars": null,
+    "weekly_stars": 275,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

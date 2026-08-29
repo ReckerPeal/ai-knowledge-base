@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-e55ebaf7ad",
+  "title": "apache/opendal",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/opendal",
+  "summary": "Apache OpenDAL 是一个统一数据访问层，旨在通过单一接口访问所有存储服务。",
+  "content": "Apache OpenDAL（Open Data Access Layer）是一个由 Apache 软件基金会孵化的开源项目，用 Rust 语言编写。其核心理念是“One Layer, All Storage”，即通过一个统一的抽象层，屏蔽不同存储后端（如本地文件系统、云存储 S3、OSS、GCS 等）的差异，为上层应用提供一致、高效、可靠的数据访问 API。该项目在 GitHub 上拥有 5358 颗星和 820 个 fork，近期日增星约 3 颗，属于 Rust 生态中备受关注的数据基础设施项目。OpenDAL 不仅支持多种存储服务，还提供了丰富的特性，如自动重试、并发控制、元数据缓存等，适用于大数据、AI 训练、数据备份等场景。其设计强调可扩展性和性能，开发者可以通过插件机制轻松接入新的存储后端。",
+  "tags": [
+    "Apache",
+    "OpenDAL",
+    "数据访问层",
+    "存储抽象",
+    "Rust",
+    "云存储",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:26+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "apache",
+    "stars": 5358,
+    "forks": 820,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

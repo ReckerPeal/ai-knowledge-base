@@ -1,0 +1,36 @@
+{
+  "id": "20260830-github-9fcaf19ef8",
+  "title": "AgriciDaniel/claude-obsidian",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "summary": "claude-obsidian 是一个自组织的 AI 第二大脑工具，结合 Obsidian 和 Claude Code，可将任意来源的内容自动读取、链接并归档到纯 Markdown 的知识图谱中，实现 AI 笔记和个人知识管理，可作为开源 Notion 替代品，其设计基于 Karpathy 的 LLM Wiki 模式。",
+  "content": "## 项目概述\n\nclaude-obsidian 是一个基于 Obsidian 和 Claude Code 的自组织 AI 第二大脑工具。它允许用户将任意来源的内容（如网页、文档、笔记等）直接放入 Obsidian 库中，Claude 会自动读取、理解并建立链接，最终形成一个互联的纯 Markdown 知识图谱。该项目旨在提供一种 AI 驱动的个人知识管理（PKM）方案，并作为开源 Notion 替代品。其核心设计灵感来自 Karpathy 的 LLM Wiki 模式，强调知识的自动组织和连接。\n\n## 核心功能\n\n- **自动知识组织**：Claude 自动读取输入内容，提取关键信息，并建立与其他笔记的关联。\n- **纯 Markdown 存储**：所有知识以纯 Markdown 文件形式存储，用户完全拥有数据，易于迁移和备份。\n- **知识图谱构建**：通过自动链接，形成互联的知识网络，便于发现不同主题之间的关联。\n- **多源输入**：支持从任意来源（如网页、PDF、文本等）导入内容。\n- **开源替代**：作为 Notion 的开源替代，提供类似的知识管理功能，但更注重本地化和 AI 自动化。\n\n## 技术架构\n\n- **基于 Obsidian**：利用 Obsidian 的插件系统和 Markdown 文件管理能力。\n- **集成 Claude Code**：通过 Claude Code 的 API 实现 AI 分析和链接生成。\n- **LLM Wiki 模式**：借鉴 Karpathy 提出的模式，将 LLM 用于知识库的自动构建和维护。\n\n## 适用场景\n\n- 个人知识管理：整理研究笔记、读书笔记、项目文档等。\n- 学术研究：自动关联文献和笔记，辅助论文写作。\n- 内容创作：收集素材并自动组织，提高创作效率。\n- 团队协作：作为团队知识库，自动整理共享文档。\n\n## 项目亮点\n\n- **高关注度**：在 GitHub 上获得 14k+ stars，周增长 3k+，表明社区认可度高。\n- **创新模式**：将 AI 与本地知识管理结合，实现自动化知识组织。\n- **数据自主**：用户完全掌控自己的数据，符合隐私和长期保存需求。\n\n## 快速上手\n\n1. 克隆仓库并安装依赖。\n2. 配置 Claude Code API 密钥。\n3. 将 Obsidian 库指向项目目录。\n4. 将任意内容拖入库中，Claude 将自动处理。\n\n## 总结\n\nclaude-obsidian 是一个面向未来的 AI 知识管理工具，通过自动化和本地化存储，解决了传统笔记工具中知识组织耗时、数据锁定等问题。适合希望利用 AI 提升个人或团队知识管理效率的用户。",
+  "tags": [
+    "AI",
+    "知识管理",
+    "Obsidian",
+    "Claude",
+    "PKM",
+    "Markdown",
+    "开源",
+    "第二大脑",
+    "LLM",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:31+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 14341,
+    "forks": 1437,
+    "daily_stars": null,
+    "weekly_stars": 3207,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-c2d0c7d71d",
+  "title": "lxc/incus",
+  "source": "github_trending",
+  "source_url": "https://github.com/lxc/incus",
+  "summary": "Incus 是一个强大的系统容器和虚拟机管理器，由 LXC 团队开发，基于 Go 语言实现。它提供了对系统容器和虚拟机的统一管理，支持资源隔离、快照、迁移等高级功能，适用于云原生和基础设施虚拟化场景。",
+  "content": "Incus 是 LXC 团队推出的下一代系统容器和虚拟机管理器，旨在替代 LXD 成为更现代、更开放的虚拟化解决方案。它基于 Go 语言开发，继承了 LXD 的易用性和强大功能，同时增加了对虚拟机的原生支持，使用户可以在同一套工具下管理容器和虚拟机。\n\n主要特性包括：\n- 统一管理容器和虚拟机，提供一致的命令行和 API 接口。\n- 支持资源限制、快照、克隆、在线迁移等高级功能。\n- 支持集群部署，实现高可用和负载均衡。\n- 提供基于项目的多租户隔离，适合团队协作。\n- 支持多种存储后端和网络配置，灵活适应不同环境。\n\n该项目在 GitHub 上活跃，拥有超过 6000 星标，近期每日新增星标约 47，显示出社区的高度关注。对于需要轻量级虚拟化或容器管理的开发者和运维人员，Incus 是一个值得关注的选择。",
+  "tags": [
+    "容器",
+    "虚拟机",
+    "虚拟化",
+    "LXC",
+    "Go",
+    "系统管理",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "lxc",
+    "stars": 6086,
+    "forks": 484,
+    "daily_stars": 47,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

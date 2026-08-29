@@ -1,0 +1,35 @@
+{
+  "id": "20260830-github-c70839f114",
+  "title": "dbt-labs/dbt-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/dbt-labs/dbt-core",
+  "summary": "dbt-core 是 dbt Labs 开发的开源数据转换工具，它使数据分析师和工程师能够采用软件工程师构建应用程序的实践来转换数据。",
+  "content": "dbt-core 是一个强大的数据转换工作流工具，它允许数据分析师和工程师使用 SQL 和 Python 来定义、测试和部署数据转换逻辑。其核心理念是将软件工程的最佳实践（如版本控制、测试、文档和模块化）引入到数据分析领域，从而提升数据团队的生产力和数据质量。\n\n该项目在 GitHub 上拥有超过 13,000 颗星，社区活跃，持续迭代。它支持多种数据仓库平台，并提供了丰富的功能，包括：\n- 模型管理：以 SQL 或 Python 文件定义数据模型，支持依赖管理。\n- 测试：内置数据测试框架，确保数据质量。\n- 文档：自动生成数据文档，便于团队协作。\n- 部署：支持命令行和调度集成，方便 CI/CD。\n\n尽管仓库语言标记为 Rust，但 dbt-core 的主要实现语言是 Python，Rust 可能用于某些性能关键组件。该项目在数据工程领域具有重要影响力，是现代数据栈的核心工具之一。",
+  "tags": [
+    "dbt",
+    "数据转换",
+    "数据工程",
+    "ELT",
+    "开源",
+    "数据分析",
+    "SQL",
+    "Python",
+    "数据质量"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:26+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "dbt-labs",
+    "stars": 13719,
+    "forks": 2532,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20260830-github-01e478ba12",
+  "title": "mvanhorn/last30days-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "summary": "last30days-skill 是一个 AI agent 技能，用于跨 Reddit、X、YouTube、HN、Polymarket 和网络研究任意主题，并综合生成有依据的摘要。",
+  "content": "## 项目概述\nlast30days-skill 是一个面向 AI agent 的技能模块，旨在帮助用户快速获取跨多个平台（Reddit、X、YouTube、HN、Polymarket 和通用网络）的近期信息。它通过自动化研究流程，将分散的讨论、新闻和观点整合为一份结构化的摘要，特别适用于需要快速了解某个主题近30天动态的场景。\n\n## 核心功能\n- **多源数据采集**：支持从主流社交媒体、新闻聚合器和预测市场（如 Polymarket）抓取数据。\n- **智能综合**：利用 AI 技术对收集到的信息进行去重、归纳和提炼，生成有依据的结论。\n- **时间聚焦**：默认聚焦最近30天的内容，确保信息的时效性。\n- **可定制性**：用户可根据需求调整研究主题和时间范围。\n\n## 技术实现\n- 基于 Python 开发，易于集成到现有的 AI agent 框架中。\n- 使用 API 和爬虫技术获取数据，并可能结合自然语言处理进行内容分析。\n- 项目结构清晰，提供了技能定义和调用接口，方便开发者扩展。\n\n## 应用场景\n- 市场调研：快速了解某产品/行业近期的公众讨论和趋势。\n- 新闻聚合：为个人或团队生成定制化的新闻简报。\n- 舆情监控：跟踪特定话题在多个平台上的热度变化。\n- 预测分析：结合 Polymarket 数据，辅助决策。\n\n## 项目热度\n该仓库在 GitHub 上表现突出，拥有超过 6 万星标，日增星约 282，显示出社区的高度认可和活跃度。",
+  "tags": [
+    "AI agent",
+    "research",
+    "multi-source",
+    "summary",
+    "Python",
+    "Reddit",
+    "Twitter",
+    "YouTube",
+    "Hacker News",
+    "Polymarket"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:20+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "mvanhorn",
+    "stars": 60142,
+    "forks": 5271,
+    "daily_stars": 282,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

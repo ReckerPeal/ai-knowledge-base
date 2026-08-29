@@ -1,0 +1,34 @@
+{
+  "id": "20260830-github-2f34f15dd8",
+  "title": "ArnasDon/wacrm",
+  "source": "github_trending",
+  "source_url": "https://github.com/ArnasDon/wacrm",
+  "summary": "wacrm 是一个可自托管的 WhatsApp CRM 模板，提供共享收件箱、联系人管理、销售管道、群发消息和无代码自动化功能。用户可以自由 fork、定制品牌并自行部署。",
+  "content": "## 项目概述\n\nwacrm 是一个基于 WhatsApp 的 CRM（客户关系管理）模板，专为需要高效管理客户沟通的团队设计。它采用 TypeScript 编写，支持自托管部署，允许用户完全掌控数据和业务流程。\n\n## 核心功能\n\n- **共享收件箱**：团队成员可在一个统一界面中协作处理 WhatsApp 消息，避免信息孤岛。\n- **联系人管理**：集中存储客户信息，支持标签、备注和自定义字段，便于分类和检索。\n- **销售管道**：可视化跟踪销售机会，从潜在客户到成交的全流程管理，帮助团队聚焦高价值线索。\n- **群发消息**：支持向多个联系人批量发送消息，适用于营销活动或通知场景。\n- **无代码自动化**：通过可视化流程编辑器，用户可自定义自动化规则（如自动回复、任务分配），无需编写代码。\n\n## 技术特点\n\n- **自托管**：可部署在自己的服务器上，确保数据隐私和合规性。\n- **可定制**：基于模板设计，用户可自由修改品牌、界面和功能，满足个性化需求。\n- **开源生态**：基于 GitHub 托管，社区活跃，持续更新。\n\n## 适用场景\n\n- 小型团队或初创企业需要快速搭建 WhatsApp 客服系统。\n- 企业希望将 WhatsApp 集成到现有 CRM 流程中。\n- 开发者希望基于开源项目二次开发，构建定制化 CRM 解决方案。\n\n## 快速开始\n\n1. Fork 仓库到自己的 GitHub 账号。\n2. 根据文档配置环境变量（如 WhatsApp API 密钥、数据库连接）。\n3. 部署到自己的服务器（支持 Docker 或手动部署）。\n4. 自定义品牌和功能，然后投入使用。\n\n## 社区与支持\n\n- 项目在 GitHub 上获得 2149 星和 5600 fork，表明有较高的关注度和使用基础。\n- 可通过 GitHub Issues 提交问题或贡献代码。\n\n## 总结\n\nwacrm 是一个功能全面、易于定制的 WhatsApp CRM 解决方案，适合希望快速部署并拥有自主控制权的团队。其无代码自动化功能降低了使用门槛，而自托管特性则满足了数据安全需求。",
+  "tags": [
+    "WhatsApp",
+    "CRM",
+    "自托管",
+    "TypeScript",
+    "开源",
+    "无代码自动化",
+    "销售管道",
+    "共享收件箱"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:23+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "ArnasDon",
+    "stars": 2149,
+    "forks": 5600,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

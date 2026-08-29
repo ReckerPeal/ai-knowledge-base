@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-9776739c8e",
+  "title": "flyteorg/flyte",
+  "source": "github_trending",
+  "source_url": "https://github.com/flyteorg/flyte",
+  "summary": "Flyte 是一个动态、弹性的 AI 编排平台，用于协调数据、模型和计算资源，帮助用户构建 AI 工作流。",
+  "content": "Flyte 是一个开源的、基于 Kubernetes 的编排平台，专注于数据、机器学习和 AI 工作流的自动化。它提供了声明式的工作流定义、版本控制、可复现性、缓存和动态任务调度等功能，支持在异构计算资源（如 CPU、GPU）上运行。Flyte 的核心优势在于其弹性和可扩展性，能够处理复杂的依赖关系，并支持大规模并行执行。它适用于数据管道、模型训练、模型评估和部署等场景，帮助团队提高开发效率和运维可靠性。该项目使用 Go 语言开发，在 GitHub 上拥有 7311 颗星，近期活跃度较高。",
+  "tags": [
+    "AI编排",
+    "工作流",
+    "Kubernetes",
+    "数据管道",
+    "机器学习",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:28+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "flyteorg",
+    "stars": 7311,
+    "forks": 879,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-e2e70ddc72",
+  "title": "NeoLabHQ/context-engineering-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/NeoLabHQ/context-engineering-kit",
+  "summary": "NeoLabHQ/context-engineering-kit 是一个专注于提升 AI 代理（如 Claude Code）输出质量的开源工具包，提供手工制作的技能集，兼容 OpenCode、Cursor、Antigravity、Gemini CLI 等主流工具，并包含 CodeRabbit 的开源替代方案。",
+  "content": "## 项目概述\n\n**context-engineering-kit** 由 NeoLabHQ 开发，旨在通过精心设计的“技能”（Skills）来增强 AI 代理在代码生成、审查和交互中的表现。该项目以 TypeScript 编写，目前已在 GitHub 上获得 1482 颗星和 154 个 fork，近期日增星 26 颗，显示出较高的社区关注度。\n\n## 核心功能\n\n- **手工制作的技能集**：针对 Claude Code 等代理优化，提升结果质量，例如代码审查、上下文管理、提示优化等。\n- **多工具兼容**：支持 OpenCode、Cursor、Antigravity、Gemini CLI 等主流 AI 编程工具，便于集成到不同工作流。\n- **CodeRabbit 开源替代**：提供类似 CodeRabbit 的自动化代码审查能力，但完全开源，可自托管。\n\n## 技术亮点\n\n- **TypeScript 实现**：类型安全，易于扩展和维护。\n- **模块化设计**：技能以独立模块形式组织，用户可按需选用。\n- **社区驱动**：项目活跃，持续更新，适合开发者贡献和定制。\n\n## 适用场景\n\n- 希望提升 AI 编程助手输出质量的开发者。\n- 需要开源代码审查解决方案的团队。\n- 对 AI 代理技能工程感兴趣的研究者或爱好者。\n\n## 评分理由\n\n该项目在实用性、兼容性和社区活跃度上表现突出，但星数尚未过万，且功能相对垂直，故给予 8 分。",
+  "tags": [
+    "AI代理",
+    "代码审查",
+    "Claude Code",
+    "TypeScript",
+    "开源工具",
+    "上下文工程",
+    "CodeRabbit替代"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-30T01:26:23+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "NeoLabHQ",
+    "stars": 1482,
+    "forks": 154,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
