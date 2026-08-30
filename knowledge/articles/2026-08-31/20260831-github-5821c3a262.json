@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-5821c3a262",
+  "title": "cloudflare/cloudflared",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/cloudflared",
+  "summary": "Cloudflare Tunnel 客户端（cloudflared）是一个开源工具，用于建立从本地服务到 Cloudflare 网络的加密隧道，无需公网 IP 即可安全暴露内网服务。",
+  "content": "cloudflared 是 Cloudflare 官方的 Tunnel 客户端，它允许用户通过 Cloudflare 的全球网络将本地 HTTP/HTTPS 服务安全地暴露到互联网，而无需开放入站端口或配置公网 IP。该工具基于 Go 语言开发，具有高性能和跨平台特性，支持 Windows、macOS、Linux 等主流操作系统。\n\n主要功能包括：\n- 创建和管理 Cloudflare Tunnel，将流量通过加密隧道转发到本地服务。\n- 支持 HTTP/2 和 WebSocket 等协议，适用于 Web 应用、API 服务等场景。\n- 提供负载均衡、访问控制（如 Cloudflare Access 集成）等高级特性。\n- 支持快速部署，可通过命令行或配置文件进行管理。\n\n该仓库在 GitHub 上拥有超过 1.5 万星标，社区活跃，是 Cloudflare 生态中重要的开源组件，广泛应用于个人开发者和企业级场景。",
+  "tags": [
+    "Cloudflare",
+    "Tunnel",
+    "内网穿透",
+    "Go",
+    "网络工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:18+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 15440,
+    "forks": 1416,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

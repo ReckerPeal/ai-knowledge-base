@@ -1,0 +1,34 @@
+{
+  "id": "20260831-github-4fe3ad9c5f",
+  "title": "lance-format/lance",
+  "source": "github_trending",
+  "source_url": "https://github.com/lance-format/lance",
+  "summary": "Lance 是一个面向多模态 AI 的开源湖仓格式，支持从 Parquet 两行代码转换，实现 100 倍更快的随机访问、向量索引和数据版本控制，兼容 Pandas、DuckDB、Polars、PyArrow 和 PyTorch。",
+  "content": "Lance 是一个专为多模态 AI 设计的开源湖仓格式，旨在解决传统数据格式在处理大规模非结构化数据（如图像、视频、文本嵌入）时的性能瓶颈。其核心优势包括：\n\n1. **高性能随机访问**：通过列式存储和索引优化，相比 Parquet 可实现 100 倍的随机访问加速，特别适合需要频繁读取特定样本的机器学习训练和推理场景。\n2. **原生向量索引**：内置向量索引支持，可直接用于相似性搜索和 RAG（检索增强生成）应用，无需额外构建向量数据库。\n3. **数据版本控制**：提供类似 Git 的数据版本管理能力，支持时间旅行查询，便于实验追踪和模型迭代。\n4. **生态兼容性**：与主流数据科学和机器学习工具（Pandas、DuckDB、Polars、PyArrow、PyTorch）无缝集成，降低采用门槛。\n5. **简单迁移**：仅需两行代码即可将现有 Parquet 数据转换为 Lance 格式，快速获得性能提升。\n\n该项目使用 Rust 编写，性能卓越且内存安全，适合作为 AI 数据基础设施的核心组件。当前在 GitHub 上已获得 7003 星标和 828 个 fork，周增长 37 星，显示出较强的社区关注度。",
+  "tags": [
+    "湖仓格式",
+    "多模态AI",
+    "向量索引",
+    "数据版本控制",
+    "Rust",
+    "Parquet替代",
+    "机器学习",
+    "数据基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lance-format",
+    "stars": 7003,
+    "forks": 828,
+    "daily_stars": null,
+    "weekly_stars": 37,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

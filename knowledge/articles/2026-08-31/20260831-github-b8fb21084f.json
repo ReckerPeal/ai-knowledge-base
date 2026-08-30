@@ -1,0 +1,33 @@
+{
+  "id": "20260831-github-b8fb21084f",
+  "title": "gleam-lang/gleam",
+  "source": "github_trending",
+  "source_url": "https://github.com/gleam-lang/gleam",
+  "summary": "Gleam 是一种用于构建类型安全、可扩展系统的友好编程语言。",
+  "content": "Gleam 是一种静态类型的函数式编程语言，旨在提供简单、友好且可靠的开发体验。它编译为 Erlang 虚拟机（BEAM）字节码，因此可以无缝集成到 Erlang/Elixir 生态系统中。Gleam 强调类型安全、模式匹配和不可变数据，同时保持语法简洁易学。该项目在 GitHub 上拥有超过 2.1 万颗星，社区活跃，适合构建高并发、分布式和容错系统。",
+  "tags": [
+    "Gleam",
+    "编程语言",
+    "类型安全",
+    "函数式编程",
+    "BEAM",
+    "Erlang 生态",
+    "Rust"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "gleam-lang",
+    "stars": 21846,
+    "forks": 1010,
+    "daily_stars": null,
+    "weekly_stars": 88,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

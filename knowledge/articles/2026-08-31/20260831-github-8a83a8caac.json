@@ -1,0 +1,34 @@
+{
+  "id": "20260831-github-8a83a8caac",
+  "title": "anthropics/claude-plugins-community",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-plugins-community",
+  "summary": "Anthropic 官方推出的社区插件市场，为 Claude Cowork 和 Claude Code 提供插件分发与提交入口。该仓库为只读镜像，用户可通过指定链接提交插件。",
+  "content": "## 项目概述\n\n**anthropics/claude-plugins-community** 是 Anthropic 官方维护的社区插件市场仓库，旨在为 Claude Cowork 和 Claude Code 提供集中化的插件发现与安装渠道。该仓库作为只读镜像，实际插件提交通过外部链接（clau.de/plugin-directory-submission）进行，保证了插件生态的开放性与可扩展性。\n\n## 核心功能\n\n- **插件市场**：集中展示社区贡献的插件，支持 Claude 系列工具的功能扩展。\n- **只读镜像**：仓库本身不直接接受代码提交，避免管理混乱，确保代码质量。\n- **提交入口**：通过官方链接引导开发者提交插件，形成标准化流程。\n\n## 技术栈与语言\n\n- 主要语言：Python（用于插件开发与工具集成）。\n- 仓库结构：包含插件目录、文档和配置示例。\n\n## 社区与热度\n\n- 星标数：2843（周增长 2234，增长迅猛）。\n- Fork 数：235，表明社区参与度高。\n- 类别：GitHub 热点 · Python，反映了 AI 工具生态的活跃度。\n\n## 适用场景\n\n- 开发者希望扩展 Claude Code 或 Claude Cowork 的功能。\n- 企业或团队需要内部插件分发机制。\n- 对 AI 编程助手生态感兴趣的研究者。\n\n## 总结\n\n该仓库是 Claude 生态的重要组成部分，通过社区驱动的方式快速积累插件资源，其高增长趋势表明 AI 编程工具正获得广泛关注。",
+  "tags": [
+    "Claude",
+    "插件市场",
+    "AI工具",
+    "社区驱动",
+    "Python",
+    "Anthropic",
+    "Claude Code",
+    "Claude Cowork"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:20+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 2843,
+    "forks": 235,
+    "daily_stars": null,
+    "weekly_stars": 2234,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

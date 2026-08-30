@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-96a884f139",
+  "title": "bevyengine/bevy",
+  "source": "github_trending",
+  "source_url": "https://github.com/bevyengine/bevy",
+  "summary": "Bevy 是一个用 Rust 构建的、以数据驱动为核心的游戏引擎，设计简洁直观，旨在降低游戏开发门槛并提升开发效率。",
+  "content": "Bevy 是一个用 Rust 编写的开源游戏引擎，其核心理念是“简单、数据驱动”。它采用 ECS（实体-组件-系统）架构，让开发者通过组合组件和系统来构建游戏逻辑，而非传统的继承体系，从而提升代码的模块化和可复用性。Bevy 提供了丰富的内置功能，包括 2D/3D 渲染、动画、UI、音频、物理、场景管理等，同时支持热重载和实时编辑，加速迭代开发。该项目在 GitHub 上拥有超过 4.7 万星标，社区活跃，每周都有大量更新，是 Rust 游戏开发生态中最具影响力的项目之一。",
+  "tags": [
+    "游戏引擎",
+    "Rust",
+    "ECS",
+    "数据驱动",
+    "开源",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:24+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "bevyengine",
+    "stars": 47965,
+    "forks": 4792,
+    "daily_stars": null,
+    "weekly_stars": 181,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

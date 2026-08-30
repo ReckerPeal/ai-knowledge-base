@@ -1,0 +1,33 @@
+{
+  "id": "20260831-github-15f00886d5",
+  "title": "AdguardTeam/AdGuardHome",
+  "source": "github_trending",
+  "source_url": "https://github.com/AdguardTeam/AdGuardHome",
+  "summary": "AdGuard Home 是一个网络范围内的广告和跟踪器拦截 DNS 服务器，提供全网广告过滤和隐私保护功能。",
+  "content": "AdGuard Home 是一个开源的网络级广告和跟踪器拦截 DNS 服务器，由 AdguardTeam 开发。它通过拦截 DNS 请求来阻止广告、跟踪器和其他恶意域名，适用于家庭网络或小型企业网络。该项目在 GitHub 上拥有超过 36,000 颗星，社区活跃，最近每日新增星标约 60 颗。主要特点包括：\n- 网络级拦截：无需在每台设备上安装客户端，只需将路由器或设备的 DNS 指向 AdGuard Home 即可。\n- 自定义过滤规则：支持用户自定义黑名单、白名单和过滤规则。\n- 家长控制：可屏蔽成人内容等特定类别。\n- 查询日志和统计：提供详细的 DNS 查询日志和统计信息，帮助用户了解网络活动。\n- 多平台支持：支持 Windows、macOS、Linux、树莓派等，并可通过 Web 界面进行管理。\n- 性能优化：基于 Go 语言编写，具有高性能和低资源占用。\n该项目使用 TypeScript 编写，主要面向网络管理员、隐私爱好者和家庭用户，旨在提供简单、高效的广告拦截和隐私保护解决方案。",
+  "tags": [
+    "AdGuard Home",
+    "DNS",
+    "广告拦截",
+    "隐私保护",
+    "网络工具",
+    "开源",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:14+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "AdguardTeam",
+    "stars": 36567,
+    "forks": 2495,
+    "daily_stars": 60,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

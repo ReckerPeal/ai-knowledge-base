@@ -1,0 +1,33 @@
+{
+  "id": "20260831-github-7123499f88",
+  "title": "grafana/loki",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/loki",
+  "summary": "Grafana Loki 是一个开源日志聚合系统，其核心理念是“像 Prometheus 一样，但用于日志”。它采用水平可扩展、高可用的架构，通过标签索引日志流，而非全文索引，从而降低成本并提高效率。该项目在 GitHub 上拥有 28.8k 星标，持续受到开发者关注。",
+  "content": "Grafana Loki 是 Grafana Labs 开发的一款日志聚合工具，旨在为日志数据提供类似 Prometheus 的查询体验。它采用与 Prometheus 相同的标签（label）机制，将日志流按标签进行索引，而非对日志内容进行全文索引，这使得存储成本大幅降低，并支持高效的日志检索。Loki 的设计目标是简单、经济且易于操作，特别适合与 Grafana 生态集成，用户可以通过 Grafana 面板直接查询和可视化日志。\n\nLoki 的架构包括分布式组件（如 distributor、ingester、querier），支持水平扩展和高可用性。它支持多种日志采集方式（如 Promtail、Fluentd、Logstash），并提供了 LogQL 查询语言，允许用户基于标签和过滤器进行复杂查询。此外，Loki 还支持多租户、数据保留策略和对象存储后端（如 S3、GCS），适用于云原生环境。\n\n该项目在 GitHub 上非常活跃，拥有 28.8k 星标和 4.1k 分支，近期每日新增星标约 9 个，显示出持续的热度。Loki 是 CNCF 项目之一，被广泛用于 Kubernetes 集群日志监控。其优势在于与 Prometheus 和 Grafana 的无缝集成，以及较低的资源消耗，适合中小型团队和大型企业。",
+  "tags": [
+    "日志聚合",
+    "Prometheus",
+    "Grafana",
+    "云原生",
+    "Go",
+    "开源",
+    "监控"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:18+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "grafana",
+    "stars": 28810,
+    "forks": 4098,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

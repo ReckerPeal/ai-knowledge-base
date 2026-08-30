@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-e2cfc74fac",
+  "title": "leookun/cursor-byok",
+  "source": "github_trending",
+  "source_url": "https://github.com/leookun/cursor-byok",
+  "summary": "cursor-byok 是 Cursor 编辑器的本地后端实现，允许用户自带密钥（Bring Your Own Key）来使用 Cursor 的功能，而无需依赖官方云端服务。该项目基于 Rust 开发，在 GitHub 上获得了 2608 颗星，近期增长迅速。",
+  "content": "## 项目概述\n\ncursor-byok 是一个用 Rust 编写的 Cursor 后端本地实现。Cursor 是一款 AI 驱动的代码编辑器，其官方后端通常需要订阅或使用云端服务。cursor-byok 通过允许用户自带 API 密钥（BYOK），将后端逻辑本地化，从而让用户能够更灵活地使用 Cursor 的 AI 功能，同时可能降低成本或增强隐私。\n\n## 核心功能\n\n- **本地后端**：在本地运行 Cursor 的后端服务，减少对官方云端的依赖。\n- **自带密钥**：用户可以使用自己的 API 密钥（如 OpenAI 等）来调用 AI 模型，无需订阅 Cursor 的付费计划。\n- **开源实现**：代码完全开源，用户可以根据需要自行修改和部署。\n\n## 技术栈\n\n- **语言**：Rust，以其高性能和内存安全著称，适合构建后端服务。\n- **架构**：可能涉及 HTTP 服务器、WebSocket 通信、API 代理等组件。\n\n## 项目热度\n\n- **Stars**：2608\n- **Forks**：407\n- **周增长**：153 颗星，表明近期关注度上升。\n\n## 适用场景\n\n- 希望使用 Cursor 但不想订阅官方服务的开发者。\n- 对数据隐私有较高要求，希望本地处理代码和 AI 请求的用户。\n- 希望深入理解 Cursor 后端实现或进行二次开发的开发者。\n\n## 注意事项\n\n- 该项目为第三方实现，可能与官方 Cursor 功能不完全一致，且存在使用风险。\n- 用户需自行提供有效的 API 密钥，并承担相关费用。\n- 请遵守相关服务条款和法律法规。",
+  "tags": [
+    "Cursor",
+    "BYOK",
+    "Rust",
+    "本地后端",
+    "AI 编辑器",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "leookun",
+    "stars": 2608,
+    "forks": 407,
+    "daily_stars": null,
+    "weekly_stars": 153,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

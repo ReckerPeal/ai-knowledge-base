@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-b638f5c706",
+  "title": "github/gh-aw",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-aw",
+  "summary": "GitHub Agentic Workflows (gh-aw) 是一个由 GitHub 官方发布的 Go 语言项目，旨在提供代理式工作流的参考实现和工具集，帮助开发者构建和编排智能代理工作流。该项目在 GitHub 上获得 5051 星和 526 个 fork，近期周增星 69，显示出较高的社区关注度。",
+  "content": "## 项目概述\n\n**gh-aw** 是 GitHub 官方推出的 Agentic Workflows 项目，使用 Go 语言编写，旨在为开发者提供构建代理式工作流（Agentic Workflows）的参考实现和工具。该项目通过定义标准化的工作流模式，帮助开发者将 AI 代理集成到软件开发流程中，实现自动化任务执行、智能决策和协作。\n\n## 核心功能\n\n- **代理编排**：提供工作流定义和编排框架，支持多代理协作。\n- **工具集成**：内置与 GitHub API 的深度集成，便于操作仓库、Issue、PR 等。\n- **可扩展性**：采用模块化设计，支持自定义代理和工作流步骤。\n- **参考实现**：作为官方参考，展示最佳实践和设计模式。\n\n## 技术特点\n\n- 语言：Go，具有高性能和并发优势。\n- 架构：基于事件驱动，支持异步任务处理。\n- 依赖：依赖 GitHub CLI 和 API，与 GitHub 生态无缝衔接。\n\n## 社区反响\n\n- 星标数：5051，表明项目受到广泛关注。\n- Fork 数：526，社区参与度较高。\n- 周增星：69，近期热度持续上升。\n\n## 适用场景\n\n- 自动化代码审查和合并。\n- 智能 Issue 分类和路由。\n- 持续集成/部署中的代理决策。\n- 开发者工作流自动化。\n\n## 总结\n\ngh-aw 是 GitHub 在 AI 代理领域的重要布局，为开发者提供了标准化的工作流构建方案。对于希望利用 AI 提升开发效率的团队，该项目具有较高的参考价值和实用意义。",
+  "tags": [
+    "GitHub",
+    "Agentic Workflows",
+    "Go",
+    "AI代理",
+    "工作流自动化",
+    "官方项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:27+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 5051,
+    "forks": 526,
+    "daily_stars": null,
+    "weekly_stars": 69,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

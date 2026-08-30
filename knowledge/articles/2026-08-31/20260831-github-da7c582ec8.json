@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-da7c582ec8",
+  "title": "can1357/oh-my-pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "summary": "oh-my-pi 是一个将 IDE 深度集成的编码代理（Coding Agent）项目，旨在通过智能代理与开发环境的无缝协作，提升开发效率。该项目在 GitHub 上获得了超过 2.8 万星标，近期增长迅速，显示出社区的高度关注。",
+  "content": "## 项目概述\noh-my-pi 是一个开源的编码代理工具，其核心特点是“将 IDE 接入代理”（Coding agent with the IDE wired in）。它利用 TypeScript 构建，旨在为开发者提供一种全新的交互方式：通过自然语言或自动化指令，让代理直接操作 IDE 环境，完成代码编写、重构、调试等任务。\n\n## 核心功能\n- **IDE 深度集成**：代理直接与 IDE 的编辑器、终端、调试器等组件交互，实现上下文感知的代码操作。\n- **智能编码辅助**：支持代码生成、自动补全、错误修复等常见开发任务，提升编码效率。\n- **自动化工作流**：可配置自动化流程，如自动运行测试、格式化代码、提交变更等。\n\n## 技术亮点\n- 基于 TypeScript 开发，保证了类型安全和可维护性。\n- 采用模块化架构，便于扩展和定制。\n- 可能利用了语言服务器协议（LSP）或 IDE 插件 API 来实现深度集成。\n\n## 社区与热度\n- 在 GitHub 上拥有 28,451 星标和 2,843 个 fork，周增长 1,862 星，表明项目受到开发者广泛欢迎。\n- 项目由 can1357 维护，活跃度较高。\n\n## 适用场景\n- 希望提升编码效率的开发者。\n- 对 AI 辅助编程和 IDE 自动化感兴趣的技术团队。\n- 需要定制化开发工作流的用户。",
+  "tags": [
+    "编码代理",
+    "IDE集成",
+    "TypeScript",
+    "AI辅助编程",
+    "开发者工具",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:22+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "can1357",
+    "stars": 28451,
+    "forks": 2843,
+    "daily_stars": null,
+    "weekly_stars": 1862,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

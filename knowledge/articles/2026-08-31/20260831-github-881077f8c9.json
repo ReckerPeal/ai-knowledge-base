@@ -1,0 +1,31 @@
+{
+  "id": "20260831-github-881077f8c9",
+  "title": "uutils/coreutils",
+  "source": "github_trending",
+  "source_url": "https://github.com/uutils/coreutils",
+  "summary": "uutils/coreutils 是一个用 Rust 编写的 GNU coreutils 跨平台重写项目，旨在提供与 GNU 工具集兼容的替代实现。",
+  "content": "该项目是 GNU coreutils 的 Rust 重写版本，目标是实现跨平台支持，同时保持与 GNU 工具集的高度兼容性。它提供了诸如 ls、cp、mv、rm 等常用命令行工具的替代实现，利用 Rust 的内存安全性和性能优势，并支持在多种操作系统上运行。项目在 GitHub 上拥有 24000+ 星标，社区活跃，持续改进兼容性和功能完整性。",
+  "tags": [
+    "Rust",
+    "coreutils",
+    "跨平台",
+    "命令行工具",
+    "GNU 兼容"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "uutils",
+    "stars": 24003,
+    "forks": 2013,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

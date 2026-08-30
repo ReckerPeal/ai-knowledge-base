@@ -1,0 +1,33 @@
+{
+  "id": "20260831-github-b1f15b8a23",
+  "title": "pollen-robotics/microduck_rl",
+  "source": "github_trending",
+  "source_url": "https://github.com/pollen-robotics/microduck_rl",
+  "summary": "pollen-robotics/microduck_rl 是一个为 Microduck 机器人提供强化学习训练环境的开源项目，基于 MJLab 仿真平台，使用 Python 语言开发。该项目在 GitHub 上受到广泛关注，当前获得 735 颗星和 132 个分支，日增星数达 147，显示出强劲的热度增长趋势。",
+  "content": "## 项目概述\n\n**microduck_rl** 是由 pollen-robotics 团队开发的强化学习训练环境，专为 Microduck 机器人设计。该项目基于 MJLab（一个多关节机器人仿真库）构建，旨在为 Microduck 提供逼真的物理仿真和高效的训练接口，帮助研究人员和开发者训练机器人的运动控制策略。\n\n## 核心功能\n\n- **仿真环境**：利用 MJLab 提供高保真的物理仿真，支持多种地形和任务场景。\n- **强化学习接口**：提供标准化的 RL 训练接口，兼容主流 RL 框架（如 Stable-Baselines3、RLlib 等）。\n- **机器人模型**：内置 Microduck 的 URDF 模型和传感器配置，支持自定义修改。\n- **训练脚本**：包含示例训练脚本和配置，便于快速上手。\n\n## 技术栈\n\n- **语言**：Python\n- **仿真平台**：MJLab（基于 MuJoCo）\n- **依赖**：numpy、gymnasium、mujoco 等\n\n## 项目热度\n\n- **Stars**: 735\n- **Forks**: 132\n- **日增 Stars**: 147（截至 2026-08-31）\n\n该项目在 GitHub 上近期热度飙升，日增星数超过 140，表明其受到社区的高度关注，可能由于 Microduck 机器人的开源生态或 RL 领域的进展。\n\n## 适用场景\n\n- 机器人运动控制研究\n- 强化学习算法验证\n- 多足机器人仿真与训练\n- 教育及科研用途\n\n## 快速开始\n\n用户可通过 pip 安装依赖，并运行示例脚本开始训练。具体步骤请参考项目 README 文档。",
+  "tags": [
+    "强化学习",
+    "机器人",
+    "仿真环境",
+    "MJLab",
+    "Python",
+    "Microduck",
+    "运动控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-08-31T01:49:11+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "pollen-robotics",
+    "stars": 735,
+    "forks": 132,
+    "daily_stars": 147,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
