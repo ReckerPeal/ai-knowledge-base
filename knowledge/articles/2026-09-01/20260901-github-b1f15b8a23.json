@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-b1f15b8a23",
+  "title": "pollen-robotics/microduck_rl",
+  "source": "github_trending",
+  "source_url": "https://github.com/pollen-robotics/microduck_rl",
+  "summary": "pollen-robotics/microduck_rl 是一个为 Microduck 机器人提供强化学习训练环境的开源项目，基于 MJLab 仿真平台，使用 Python 语言开发。该项目在 GitHub 上近期热度较高，获得了大量关注。",
+  "content": "## 项目概述\n\n**microduck_rl** 是由 pollen-robotics 团队开发的强化学习训练环境，专为 Microduck 机器人设计。该项目基于 MJLab（一个高效的物理仿真和强化学习框架）构建，旨在为 Microduck 机器人提供标准化的训练和评估环境，支持研究人员和开发者进行强化学习算法的开发与测试。\n\n## 技术特点\n\n- **基于 MJLab**：利用 MJLab 的高性能物理仿真能力，支持快速迭代训练。\n- **面向 Microduck**：环境专门针对 Microduck 机器人的运动特性和任务需求进行定制。\n- **Python 生态**：使用 Python 编写，易于集成到现有的强化学习工作流中。\n\n## 项目热度\n\n- **Star 数**：1104（近期日增 384，增长迅速）\n- **Fork 数**：192\n- **分类**：GitHub 热点 · Python\n\n## 适用场景\n\n- 强化学习算法研究\n- 机器人运动控制策略开发\n- 仿真到现实（Sim-to-Real）迁移研究\n\n## 总结\n\n该项目为 Microduck 机器人提供了一个开箱即用的强化学习训练环境，降低了机器人 RL 研究的门槛，适合学术研究和工业应用探索。",
+  "tags": [
+    "强化学习",
+    "机器人",
+    "MJLab",
+    "仿真环境",
+    "Python",
+    "Microduck"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "pollen-robotics",
+    "stars": 1104,
+    "forks": 192,
+    "daily_stars": 384,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

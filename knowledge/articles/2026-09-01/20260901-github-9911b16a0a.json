@@ -1,0 +1,30 @@
+{
+  "id": "20260901-github-9911b16a0a",
+  "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+  "source": "rss",
+  "source_url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+  "summary": "本文探讨了一种新颖的攻击或利用方式：通过分析财富500强公司为AI代理发布的公开文件，在其中嵌入可执行代码，从而在这些公司的系统内部运行代码。文章标题暗示了数据与代码边界的模糊性，以及AI代理时代下公开数据可能带来的安全风险。",
+  "content": "本文由Alon Hertz撰写，发表于Medium，讨论了一个前沿且具有警示性的安全话题。作者指出，随着AI代理的普及，许多大公司（如财富500强）会发布一些结构化数据文件（如JSON、CSV等）供AI代理读取和处理。然而，这些文件可能被恶意篡改，嵌入恶意代码或指令。当AI代理读取这些文件并执行其中的“数据”时，实际上就相当于在公司的内部环境中运行了攻击者的代码。文章通过实际案例展示了这种攻击的可行性，并强调了在AI时代，数据安全边界需要重新定义，传统的文件校验和权限控制可能不足以应对这种新型威胁。文章还讨论了防御措施，如对AI代理读取的数据进行严格验证、沙箱化执行环境等。",
+  "tags": [
+    "AI安全",
+    "数据投毒",
+    "AI代理",
+    "供应链攻击",
+    "安全漏洞",
+    "数据与代码"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-31T11:39:11-05:00",
+  "collected_at": "2026-09-01T03:44:17+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

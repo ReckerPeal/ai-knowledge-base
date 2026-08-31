@@ -1,0 +1,36 @@
+{
+  "id": "20260901-github-00bd9b477b",
+  "title": "PurpleDoubleD/locally-uncensored",
+  "source": "github_trending",
+  "source_url": "https://github.com/PurpleDoubleD/locally-uncensored",
+  "summary": "PurpleDoubleD/locally-uncensored 是一个即插即用的本地 AI 工作室，支持无审查聊天、图像与视频生成以及编码代理。它运行 abliterated 大语言模型和 ComfyUI，完全离线运行，提供一键安装，无需 Docker 或云服务。",
+  "content": "## 项目概述\n\nPurpleDoubleD/locally-uncensored 是一个面向本地 AI 爱好者的集成工具，旨在提供一个完全离线、无审查的 AI 创作环境。它结合了 abliterated（去除审查机制）的大语言模型和 ComfyUI（强大的图像/视频生成工作流），使用户能够在本地完成聊天、内容生成和编码辅助等任务。\n\n## 核心特性\n\n- **即插即用**：提供一键安装程序，无需配置 Docker 或依赖云服务，简化部署流程。\n- **完全离线**：所有模型和工具均在本地运行，保障数据隐私和离线可用性。\n- **无审查体验**：通过 abliterated 模型，移除常规 AI 的审查限制，提供更自由的交互。\n- **多功能集成**：支持聊天、图像生成、视频生成和编码代理，满足多种创作与开发需求。\n\n## 技术栈\n\n- **语言**：TypeScript\n- **主要组件**：abliterated LLMs（如 Llama、Mistral 等）、ComfyUI\n- **运行环境**：本地桌面应用，跨平台支持（Windows/macOS/Linux）\n\n## 适用场景\n\n- 需要离线 AI 工具的研究人员或开发者\n- 对内容创作自由度有较高要求的用户\n- 希望在本地环境进行 AI 实验的爱好者\n\n## 社区与热度\n\n- 当前 GitHub 星标数：1322，分叉数：211\n- 近期增长迅速：日增 57 星，周增 195 星，表明社区关注度较高。\n\n## 总结\n\nlocally-uncensored 为本地 AI 应用提供了一个便捷、自由的解决方案，特别适合追求隐私和创作自由的用户。其即插即用的特性降低了使用门槛，但用户需注意无审查内容可能带来的伦理和法律风险。",
+  "tags": [
+    "本地AI",
+    "无审查",
+    "LLM",
+    "ComfyUI",
+    "图像生成",
+    "视频生成",
+    "编码代理",
+    "离线",
+    "TypeScript",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:02+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "PurpleDoubleD",
+    "stars": 1322,
+    "forks": 211,
+    "daily_stars": 57,
+    "weekly_stars": 195,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

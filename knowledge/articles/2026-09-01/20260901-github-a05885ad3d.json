@@ -1,0 +1,34 @@
+{
+  "id": "20260901-github-a05885ad3d",
+  "title": "apache/datafusion",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/datafusion",
+  "summary": "Apache DataFusion 是一个用 Rust 编写的高性能、可扩展的 SQL 查询引擎，专为内存计算和分布式数据处理设计。它提供模块化的查询执行框架，支持 SQL 和 DataFrame API，并可作为库嵌入到其他应用中，或作为独立查询引擎运行。",
+  "content": "Apache DataFusion 是 Apache 软件基金会下的顶级项目，基于 Rust 语言实现，旨在提供快速、内存安全的 SQL 查询引擎。其核心优势包括：\n- 高性能：利用 Rust 零成本抽象和并行处理，支持向量化执行和优化器，适合大规模数据分析。\n- 可扩展性：提供可插拔的存储、函数和优化器接口，便于集成自定义数据源和扩展功能。\n- 嵌入式设计：可作为库嵌入到数据平台、数据库或应用中，也可独立运行。\n- 生态集成：支持 Parquet、CSV、JSON 等格式，兼容 Arrow 内存格式，与 DataFusion Ballista（分布式查询）等组件协同。\n- 社区活跃：由 Apache 社区维护，拥有大量贡献者，持续迭代更新。\n\n该引擎适用于数据仓库、数据湖查询、流处理等场景，是 Rust 生态中重要的数据处理基础设施。",
+  "tags": [
+    "Apache",
+    "DataFusion",
+    "SQL",
+    "查询引擎",
+    "Rust",
+    "大数据",
+    "Arrow",
+    "分布式计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:14+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "apache",
+    "stars": 9259,
+    "forks": 2368,
+    "daily_stars": null,
+    "weekly_stars": 74,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-c30b9dbcbd",
+  "title": "kunchenguid/no-mistakes",
+  "source": "github_trending",
+  "source_url": "https://github.com/kunchenguid/no-mistakes",
+  "summary": "no-mistakes 是一个 Go 语言编写的 Git 辅助工具，旨在防止用户在 git push 时犯错。它通过拦截 push 操作，检查潜在错误（如推送至错误分支、未提交更改等），并提供保护机制，确保代码推送的安全性和准确性。该项目在 GitHub 上获得 8194 星，近期热度上升，每日新增 217 星。",
+  "content": "## 项目概述\nno-mistakes 是一个用 Go 语言开发的命令行工具，其核心功能是作为 git push 的“安全网”，在用户执行推送操作前进行一系列检查，以避免常见的错误，例如：\n- 误推送到错误的分支或远程仓库\n- 推送包含未提交更改或未解决冲突的代码\n- 推送不符合规范（如缺少必要信息）的提交\n\n该工具通过拦截 git push 命令，运行预定义的检查规则，若发现问题则阻止推送并给出提示，从而减少人为失误。\n\n## 技术特点\n- **语言**：Go，编译为单一二进制，易于安装和跨平台使用。\n- **集成方式**：作为 git 的钩子或别名，无缝集成到现有工作流。\n- **可配置性**：用户可根据项目需求自定义检查规则。\n\n## 项目热度\n- 当前星标数：8194\n- 分支数：832\n- 近期增长：日增 217 星，表明社区关注度较高。\n\n## 适用场景\n适用于个人开发者及团队，尤其是需要严格代码管理、多人协作或对推送安全有较高要求的项目。",
+  "tags": [
+    "Git",
+    "Go",
+    "开发工具",
+    "代码安全",
+    "命令行",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:07+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kunchenguid",
+    "stars": 8194,
+    "forks": 832,
+    "daily_stars": 217,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

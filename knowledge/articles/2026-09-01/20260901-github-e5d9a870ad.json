@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-e5d9a870ad",
+  "title": "openinterpreter/openinterpreter",
+  "source": "github_trending",
+  "source_url": "https://github.com/openinterpreter/openinterpreter",
+  "summary": "OpenInterpreter 是一个面向开放模型（如 Kimi K3）的编码代理项目，旨在通过自然语言接口驱动代码执行与自动化任务。该项目在 GitHub 上拥有 68k+ 星标，近期热度持续上升，采用 Rust 语言实现，强调高性能与安全性。",
+  "content": "OpenInterpreter 是一个开源的编码代理工具，专为开放模型（如 Kimi K3）设计，允许用户通过自然语言指令与本地或远程模型交互，自动生成并执行代码，完成数据处理、文件操作、API 调用等复杂任务。其核心优势在于：\n- **多模型支持**：兼容多种开放权重模型，降低对专有 API 的依赖。\n- **本地执行**：代码在本地沙箱中运行，增强隐私与可控性。\n- **Rust 实现**：利用 Rust 的内存安全和高并发特性，提升执行效率与稳定性。\n- **社区活跃**：GitHub 星标超 6.8 万，每日新增约 15 星，表明开发者持续关注。\n\n该项目适合开发者、数据科学家和自动化爱好者，用于快速原型开发、脚本自动化及 AI 辅助编程。未来可能扩展更多模型适配和插件生态。",
+  "tags": [
+    "coding-agent",
+    "open-models",
+    "Rust",
+    "AI-assisted-programming",
+    "automation",
+    "open-source"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:05+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "openinterpreter",
+    "stars": 68217,
+    "forks": 5867,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

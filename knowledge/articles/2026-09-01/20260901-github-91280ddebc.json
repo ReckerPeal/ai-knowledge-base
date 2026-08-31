@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-91280ddebc",
+  "title": "letta-ai/letta-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/letta-ai/letta-code",
+  "summary": "letta-ai/letta-code 是一个基于 TypeScript 的开源项目，旨在构建具有记忆、身份和自适应学习能力的有状态智能体，使其像人类一样能够持续学习和适应环境。该项目在 GitHub 上受到广泛关注，拥有超过 3.1k 星标。",
+  "content": "letta-ai/letta-code 是一个专注于开发有状态智能体（Stateful Agents）的框架，其核心理念是让 AI 智能体具备类似人类的记忆、身份和持续学习能力。与传统的无状态 AI 模型不同，该框架强调智能体能够记住过去的交互、维护自身的身份特征，并根据新信息不断调整行为，从而实现真正的自适应。\n\n该项目使用 TypeScript 编写，适合在 JavaScript/TypeScript 生态中集成。其设计目标可能包括：\n- 长期记忆管理：智能体可以存储和检索历史对话或任务状态。\n- 身份一致性：智能体在多次交互中保持稳定的个性和行为模式。\n- 在线学习：智能体能够从新数据中更新知识，无需完全重新训练。\n\n目前该项目在 GitHub 上已获得 3163 颗星和 383 个 fork，周增长 68 星，显示出社区的高度关注。它可能适用于需要个性化交互、持续任务执行或复杂对话系统的场景，例如虚拟助手、游戏 NPC、自动化工作流等。\n\n对于开发者而言，该框架提供了构建高级 AI 应用的模块化工具，但具体 API 和文档需进一步查看仓库内容。",
+  "tags": [
+    "AI",
+    "智能体",
+    "有状态",
+    "记忆",
+    "TypeScript",
+    "自适应学习",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:12+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "letta-ai",
+    "stars": 3163,
+    "forks": 383,
+    "daily_stars": null,
+    "weekly_stars": 68,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

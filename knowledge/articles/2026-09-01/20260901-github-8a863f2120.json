@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-8a863f2120",
+  "title": "tailscale/tailscale",
+  "source": "github_trending",
+  "source_url": "https://github.com/tailscale/tailscale",
+  "summary": "Tailscale 是一个基于 WireGuard 的现代网状 VPN 解决方案，旨在提供最简单、最安全的网络连接方式，并支持双因素认证（2FA）。",
+  "content": "Tailscale 是一个开源项目，它利用 WireGuard 协议构建加密的网状网络，使设备之间能够安全地直接通信，无需复杂的配置。该项目强调易用性和安全性，集成了双因素认证（2FA）以增强账户和网络访问的安全性。Tailscale 支持跨平台（包括 Linux、Windows、macOS、iOS、Android 等），适用于个人、团队和企业场景，可用于远程访问、设备互联、Kubernetes 集群通信等。其核心优势在于简化了 VPN 的部署和管理，同时保持了高性能和安全性。",
+  "tags": [
+    "VPN",
+    "WireGuard",
+    "网络安全",
+    "2FA",
+    "网状网络",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:07+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "tailscale",
+    "stars": 35884,
+    "forks": 3146,
+    "daily_stars": 70,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

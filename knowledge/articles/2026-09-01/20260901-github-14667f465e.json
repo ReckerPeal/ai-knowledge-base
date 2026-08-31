@@ -1,0 +1,31 @@
+{
+  "id": "20260901-github-14667f465e",
+  "title": "workweave/router",
+  "source": "github_trending",
+  "source_url": "https://github.com/workweave/router",
+  "summary": "workweave/router 是一个面向智能体系统的模型路由器，能够在 50 毫秒内将每个提示词路由到最合适的模型，仅需更改端点即可将成本降低 40-70%。",
+  "content": "## 项目概述\nworkweave/router 是一个专为智能体系统设计的模型路由器，核心功能是智能地将每个提示词路由到最合适的模型，以优化性能和成本。\n\n## 核心特性\n- **超低延迟**：路由决策在 50 毫秒内完成，确保实时响应。\n- **显著降本**：通过智能路由，可降低 40-70% 的模型调用成本。\n- **简单集成**：仅需更改端点即可接入现有系统，无需复杂改造。\n\n## 技术亮点\n- 基于 Go 语言开发，具有高性能和并发处理能力。\n- 适用于智能体系统，能够根据任务需求动态选择模型。\n\n## 项目热度\n- 在 GitHub 上获得 3299 星，周增 2053 星，日增 248 星，显示出强劲的社区关注度。\n- 项目由 workweave 团队维护，持续迭代中。\n\n## 适用场景\n- 需要多模型协作的智能体应用。\n- 对成本敏感且追求响应速度的 AI 服务。\n- 希望简化模型管理流程的开发者。",
+  "tags": [
+    "模型路由",
+    "智能体",
+    "成本优化",
+    "Go",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:07+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "workweave",
+    "stars": 3299,
+    "forks": 88,
+    "daily_stars": 248,
+    "weekly_stars": 2053,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

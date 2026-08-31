@@ -1,0 +1,31 @@
+{
+  "id": "20260901-github-881077f8c9",
+  "title": "uutils/coreutils",
+  "source": "github_trending",
+  "source_url": "https://github.com/uutils/coreutils",
+  "summary": "uutils/coreutils 是一个用 Rust 编写的 GNU coreutils 跨平台重写项目，旨在提供与 GNU coreutils 兼容但更安全、更可移植的命令行工具集。",
+  "content": "## 项目概述\n\nuutils/coreutils 是一个用 Rust 语言重新实现 GNU coreutils 的开源项目。它旨在提供与 GNU coreutils 相同功能的命令行工具，但利用 Rust 的内存安全特性和跨平台能力，使得这些工具可以在更多操作系统上运行，同时减少内存错误和漏洞。\n\n## 主要特点\n\n- **跨平台**：支持 Linux、macOS、Windows 等多种操作系统，而 GNU coreutils 主要面向 Unix 环境。\n- **内存安全**：Rust 的所有权系统和类型检查避免了缓冲区溢出等常见安全问题。\n- **兼容性**：尽可能保持与 GNU coreutils 的行为一致，方便用户迁移。\n- **活跃开发**：项目拥有超过 2.4 万星标，社区活跃，持续改进。\n\n## 技术栈\n\n- 语言：Rust\n- 构建工具：Cargo\n- 测试：集成测试和单元测试\n\n## 应用场景\n\n- 为嵌入式系统或非 Unix 平台提供标准 Unix 工具。\n- 作为 Rust 学习参考，展示如何用 Rust 实现系统级工具。\n- 替代 GNU coreutils 以增强安全性。\n\n## 社区与贡献\n\n项目由 uutils 组织维护，欢迎贡献代码、报告问题或参与讨论。",
+  "tags": [
+    "Rust",
+    "coreutils",
+    "跨平台",
+    "命令行工具",
+    "GNU"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:05+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "uutils",
+    "stars": 24012,
+    "forks": 2016,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

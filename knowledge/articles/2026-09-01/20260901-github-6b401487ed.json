@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-6b401487ed",
+  "title": "ComposioHQ/awesome-claude-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "summary": "ComposioHQ/awesome-claude-skills 是一个精选的 Claude Skills 资源列表，旨在帮助用户定制 Claude AI 工作流。该项目收集了丰富的工具、资源和最佳实践，方便开发者快速集成和扩展 Claude 的能力。",
+  "content": "## 项目概述\n\n**awesome-claude-skills** 是由 ComposioHQ 维护的一个精选资源列表，专注于 Claude Skills 的生态。Claude Skills 是用于扩展 Claude AI 模型功能的模块化组件，允许开发者将自定义工具、API 或工作流集成到 Claude 中。\n\n该项目作为社区驱动的索引，收录了各种现成的 Skills、教程、示例代码和集成指南，帮助用户从零开始构建或直接复用已有的 Skills。它涵盖了从基础配置到高级用法的广泛内容，适合不同层次的开发者。\n\n## 核心价值\n\n- **一站式资源**：集中了 Claude Skills 相关的优质资源，节省搜索时间。\n- **社区驱动**：由 ComposioHQ 维护，并接受社区贡献，保持内容更新。\n- **实践导向**：提供可直接使用的 Skills 和示例，加速开发流程。\n- **生态整合**：与 Composio 的自动化工具链结合，支持更复杂的 AI 工作流。\n\n## 技术要点\n\n- **语言**：主要使用 Python，但也可能包含其他语言的示例。\n- **架构**：基于 Claude API，通过 Skills 机制实现功能扩展。\n- **集成**：支持与主流开发框架和云服务集成。\n\n## 适用场景\n\n- 希望为 Claude 添加自定义功能的开发者。\n- 需要快速搭建 AI 工作流的团队。\n- 对 Claude 生态感兴趣的研究者或爱好者。\n\n## 项目热度\n\n该项目在 GitHub 上拥有 74,149 颗星和 8,495 个 fork，周增长 1,038 颗星，表明其受到广泛关注和认可。",
+  "tags": [
+    "Claude",
+    "AI",
+    "Skills",
+    "资源列表",
+    "工作流",
+    "Python",
+    "GitHub"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:10+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ComposioHQ",
+    "stars": 74149,
+    "forks": 8495,
+    "daily_stars": null,
+    "weekly_stars": 1038,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

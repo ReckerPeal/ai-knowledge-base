@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "TecharoHQ/anubis 是一个用 Go 编写的开源项目，通过“称量”传入 HTTP 请求的“灵魂”来阻止 AI 爬虫，保护网站内容不被未经授权的抓取。",
+  "content": "## 项目概述\n\nTecharoHQ/anubis 是一个用 Go 语言实现的反爬虫工具，其核心机制是“称量”每个传入 HTTP 请求的“灵魂”，以此识别并阻止 AI 爬虫。该项目在 GitHub 上表现活跃，已获得 21,968 颗星和 699 次 fork，近期日增星 88 颗，属于 Go 语言热门项目。\n\n## 核心功能\n\n- **AI 爬虫识别**：通过独特的“灵魂称重”算法，区分人类用户与 AI 驱动的爬虫流量。\n- **请求拦截**：自动阻止被判定为 AI 爬虫的请求，保护网站资源。\n- **轻量级部署**：基于 Go 语言，编译为单一二进制，易于部署和集成。\n\n## 技术亮点\n\n- **创新策略**：不同于传统基于 IP 或 User-Agent 的拦截，采用行为分析或挑战机制，提高识别准确性。\n- **开源生态**：代码完全开源，社区可自由贡献和定制。\n\n## 适用场景\n\n- 内容创作者或网站管理员，希望防止 AI 爬虫抓取原创内容。\n- 需要控制 API 或网站访问频率的开发者。\n- 对反爬虫技术感兴趣的研究者。\n\n## 快速开始\n\n1. 从 GitHub Releases 下载对应平台的二进制文件。\n2. 配置反向代理，将流量指向 anubis 服务。\n3. 根据文档调整阈值和规则，适应自身需求。\n\n## 社区与支持\n\n- 项目地址：[TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)\n- 欢迎提交 Issue 和 Pull Request，参与项目改进。",
+  "tags": [
+    "Go",
+    "反爬虫",
+    "AI爬虫",
+    "HTTP",
+    "安全",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:07+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 21968,
+    "forks": 699,
+    "daily_stars": 88,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

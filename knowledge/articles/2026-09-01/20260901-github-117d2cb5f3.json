@@ -1,0 +1,41 @@
+{
+  "id": "20260901-github-117d2cb5f3",
+  "title": "AgriciDaniel/claude-seo",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-seo",
+  "summary": "claude-seo 是一个为 Claude Code 设计的通用 SEO 技能库，包含 25 个子技能和 18 个子代理，覆盖技术 SEO、E-E-A-T、Schema 结构化数据、GEO/AEO、外链建设、本地 SEO、地图情报、语义聚类、电商 SEO、国际 SEO、Google API 集成以及 PDF/Excel 报告生成。支持可选的 DataForSEO、Firecrawl 和 Banana 扩展。",
+  "content": "## 项目概述\n\nclaude-seo 是一个面向 Claude Code 的通用 SEO 技能包，旨在将 SEO 专家知识编码为可复用的技能和子代理，帮助用户自动化执行复杂的 SEO 任务。该项目在 GitHub 上获得了 15.9k 星标，周增长 1024 星，显示出较高的社区关注度。\n\n## 核心功能\n\n- **技能体系**：包含 25 个子技能，覆盖 SEO 的各个专业领域，如技术 SEO、内容优化（E-E-A-T）、Schema 标记、生成式引擎优化（GEO）和答案引擎优化（AEO）。\n- **子代理**：提供 18 个子代理，用于执行特定任务，例如外链分析、本地 SEO 优化、地图情报收集、语义聚类、电商 SEO 策略、国际 SEO 多语言处理等。\n- **集成扩展**：可选集成 DataForSEO（SEO 数据 API）、Firecrawl（网页抓取）和 Banana（可能为模型部署或数据处理工具），增强数据获取和处理能力。\n- **报告生成**：支持生成 PDF 和 Excel 格式的 SEO 报告，便于分享和决策。\n\n## 技术栈\n\n- 主要语言：Python\n- 依赖：Claude Code（Anthropic 的编程助手）、可选第三方 API\n\n## 适用场景\n\n- SEO 专业人士：快速生成 SEO 策略、执行技术审计、优化内容结构。\n- 开发者：将 SEO 最佳实践集成到自动化工作流中。\n- 内容营销团队：利用 E-E-A-T 和语义聚类提升内容质量。\n\n## 项目亮点\n\n- 高度模块化：技能和子代理可独立使用或组合。\n- 覆盖全面：从基础技术 SEO 到前沿的 GEO/AEO，适应搜索引擎演变。\n- 社区活跃：高星标和 fork 数表明项目被广泛使用和贡献。",
+  "tags": [
+    "SEO",
+    "Claude Code",
+    "Python",
+    "技术SEO",
+    "E-E-A-T",
+    "Schema",
+    "GEO",
+    "AEO",
+    "外链建设",
+    "本地SEO",
+    "语义聚类",
+    "电商SEO",
+    "国际SEO",
+    "Google API",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:10+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 15935,
+    "forks": 2331,
+    "daily_stars": null,
+    "weekly_stars": 1024,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

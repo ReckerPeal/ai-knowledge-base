@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-1555ed6bcb",
+  "title": "jingyaogong/minimind",
+  "source": "github_trending",
+  "source_url": "https://github.com/jingyaogong/minimind",
+  "summary": "该项目展示了如何从零开始训练一个仅 64M 参数的 LLM，耗时仅约 2 小时，极大降低了 LLM 训练门槛。",
+  "content": "## 项目概述\n\n**jingyaogong/minimind** 是一个开源项目，旨在让开发者能够快速、低成本地训练自己的小型语言模型。项目通过精简架构和优化训练流程，使得在普通硬件上（如单张消费级 GPU）即可在约 2 小时内完成一个 64M 参数模型的训练。\n\n## 核心特点\n\n- **极简训练流程**：提供完整的训练脚本和配置，从数据预处理到模型训练、评估，一键式操作。\n- **低资源需求**：模型参数仅 64M，适合个人开发者或小团队在有限算力下进行实验。\n- **教学价值高**：代码结构清晰，注释丰富，适合学习 LLM 训练原理和 PyTorch 实践。\n- **社区活跃**：GitHub 上获得 55.9k stars，近期日增 472 stars，周增 782 stars，热度持续上升。\n\n## 技术实现\n\n- **模型架构**：基于 Transformer 的 decoder-only 结构，采用标准的多头自注意力机制。\n- **训练优化**：使用混合精度训练、梯度累积等技术，提升训练效率。\n- **数据管道**：支持自定义文本数据集，内置分词器和数据加载器。\n\n## 适用场景\n\n- 学习 LLM 训练原理的入门项目。\n- 快速验证新想法或进行小规模实验。\n- 作为教学工具，帮助理解模型规模与性能的关系。\n\n## 快速开始\n\n1. 克隆仓库：`git clone https://github.com/jingyaogong/minimind.git`\n2. 安装依赖：`pip install -r requirements.txt`\n3. 准备数据：按照文档格式准备文本文件。\n4. 开始训练：运行 `python train.py` 即可。\n\n## 总结\n\nminimind 项目以极低的成本实现了 LLM 训练，不仅适合个人开发者快速上手，也为 AI 教育提供了宝贵的实践资源。其简洁的设计和活跃的社区支持，使其成为 GitHub 上的热门项目。",
+  "tags": [
+    "LLM",
+    "训练",
+    "PyTorch",
+    "Transformer",
+    "低资源",
+    "教育",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "jingyaogong",
+    "stars": 55984,
+    "forks": 7312,
+    "daily_stars": 472,
+    "weekly_stars": 782,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

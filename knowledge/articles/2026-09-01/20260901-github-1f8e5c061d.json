@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-1f8e5c061d",
+  "title": "AprilNEA/OpenLogi",
+  "source": "github_trending",
+  "source_url": "https://github.com/AprilNEA/OpenLogi",
+  "summary": "OpenLogi 是一个用 Rust 编写的本地优先、原生替代 Logitech Options+ 的开源工具，支持通过 HID++ 协议重映射鼠标按钮、调整 DPI 和 SmartShift，无账户、无遥测，注重隐私和性能。",
+  "content": "OpenLogi 是一个针对罗技外设的本地优先替代方案，旨在取代 Logitech Options+ 软件。它完全用 Rust 编写，强调原生性能和隐私保护（无账户、无遥测）。核心功能包括：通过 HID++ 协议重映射按钮、调整 DPI 设置以及配置 SmartShift（智能滚轮模式切换）。该项目在 GitHub 上获得 18124 颗星，周增长 3406 颗星，显示出社区的高度关注。其优势在于本地运行、跨平台潜力（Rust 特性）以及开源透明，适合追求隐私和自定义能力的罗技用户。",
+  "tags": [
+    "Rust",
+    "Logitech",
+    "HID++",
+    "本地优先",
+    "开源",
+    "鼠标配置",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "AprilNEA",
+    "stars": 18124,
+    "forks": 534,
+    "daily_stars": null,
+    "weekly_stars": 3406,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

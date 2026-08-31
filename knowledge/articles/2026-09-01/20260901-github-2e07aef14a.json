@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-2e07aef14a",
+  "title": "certimate-go/certimate",
+  "source": "github_trending",
+  "source_url": "https://github.com/certimate-go/certimate",
+  "summary": "Certimate 是一款开源免费的自托管 SSL 证书 ACME 工具，通过可视化界面实现证书申请、部署、续期和监控的全流程自动化，支持各大主流云厂商。",
+  "content": "Certimate 是一个基于 Go 语言开发的开源项目，旨在简化 SSL 证书的全生命周期管理。它利用 ACME 协议自动申请证书，并支持自动部署到各大云厂商（如阿里云、腾讯云、AWS 等），同时提供续期和监控功能。其核心优势在于完全自托管，用户可掌控证书管理流程，且界面可视化，降低了操作门槛。项目在 GitHub 上拥有 9208 颗星，周增长 142 颗，显示出较高的社区关注度。",
+  "tags": [
+    "SSL证书",
+    "ACME",
+    "自动化",
+    "自托管",
+    "可视化",
+    "Go",
+    "云厂商"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:17+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "certimate-go",
+    "stars": 9208,
+    "forks": 890,
+    "daily_stars": null,
+    "weekly_stars": 142,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

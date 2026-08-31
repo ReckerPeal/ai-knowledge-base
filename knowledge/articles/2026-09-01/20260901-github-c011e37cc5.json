@@ -1,0 +1,36 @@
+{
+  "id": "20260901-github-c011e37cc5",
+  "title": "mukul975/cve-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/mukul975/cve-mcp-server",
+  "summary": "mukul975/cve-mcp-server 是一个生产级 MCP 服务器，为 Claude 提供 27 个安全情报工具，集成 21 个 API，涵盖 CVE 查询、EPSS 评分、CISA KEV、MITRE ATT&CK、Shodan、VirusTotal 等。",
+  "content": "## 项目概述\nmukul975/cve-mcp-server 是一个生产级 MCP（Model Context Protocol）服务器，旨在为 AI 助手（如 Claude）提供全面的安全情报能力。通过集成 21 个安全相关的 API，该服务器向 Claude 暴露了 27 个工具，覆盖漏洞管理、威胁情报、攻击面分析等多个领域。\n\n## 核心功能\n- **CVE 查询**：支持从多个数据源查询 CVE 漏洞详情。\n- **EPSS 评分**：获取漏洞被利用的可能性评分，辅助优先级排序。\n- **CISA KEV**：访问已知被利用漏洞目录，及时应对活跃威胁。\n- **MITRE ATT&CK**：映射攻击战术和技术，增强威胁建模。\n- **Shodan 集成**：进行网络设备搜索和暴露面分析。\n- **VirusTotal 集成**：检测恶意文件、URL 和域名。\n\n## 技术特点\n- **生产级设计**：注重稳定性、可扩展性和安全性，适合实际部署。\n- **多 API 聚合**：统一接口，简化安全数据获取。\n- **MCP 协议**：遵循 MCP 标准，便于与支持 MCP 的 AI 系统集成。\n\n## 适用场景\n- 安全运营中心（SOC）的自动化威胁响应。\n- 安全研究中的漏洞情报收集。\n- 开发安全（DevSecOps）中的漏洞管理。\n\n## 社区反馈\n该项目在 GitHub 上获得 1329 星和 230 个 fork，近期日增星约 29，表明社区关注度较高。",
+  "tags": [
+    "MCP",
+    "安全情报",
+    "CVE",
+    "EPSS",
+    "CISA KEV",
+    "MITRE ATT&CK",
+    "Shodan",
+    "VirusTotal",
+    "AI集成",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "mukul975",
+    "stars": 1329,
+    "forks": 230,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

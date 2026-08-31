@@ -1,0 +1,31 @@
+{
+  "id": "20260901-github-01e478ba12",
+  "title": "mvanhorn/last30days-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "summary": "last30days-skill 是一个 AI agent 技能，能够跨 Reddit、X、YouTube、HN、Polymarket 和网络研究任意主题，并综合生成有根据的摘要。",
+  "content": "## 项目概述\nlast30days-skill 是一个 AI agent 技能，旨在帮助用户快速了解某个主题在过去30天内的动态。它通过聚合多个信息源（包括 Reddit、X、YouTube、Hacker News、Polymarket 和通用网络搜索）来收集相关信息，然后利用 AI 技术进行综合，生成一份有根据的摘要。该技能特别适用于需要快速掌握某个话题近期讨论趋势的用户，例如市场分析、舆情监测或内容创作。\n\n## 技术实现\n该项目使用 Python 编写，可能基于 LangChain 或其他 agent 框架，通过 API 调用各个平台的数据。其核心功能包括：\n- 多源数据采集：从不同平台抓取与主题相关的内容。\n- 信息综合：利用大语言模型对采集到的信息进行归纳和总结。\n- 摘要生成：输出结构化的摘要，包含关键观点和来源引用。\n\n## 应用场景\n- 市场调研：快速了解某个产品、行业或事件在近期的讨论。\n- 舆情监控：追踪社交媒体上的热点话题。\n- 内容创作：为文章或报告提供素材和背景。\n\n## 项目热度\n该项目在 GitHub 上非常受欢迎，拥有超过 6 万星标，近期日增星标 458，显示出强劲的增长势头。",
+  "tags": [
+    "AI agent",
+    "信息聚合",
+    "摘要生成",
+    "多源数据",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-01T03:44:00+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "mvanhorn",
+    "stars": 60786,
+    "forks": 5312,
+    "daily_stars": 458,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
