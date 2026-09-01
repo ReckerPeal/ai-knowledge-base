@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-c072fbd5e4",
+  "title": "go-acme/lego",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-acme/lego",
+  "summary": "go-acme/lego 是一个用 Go 语言编写的 Let's Encrypt/ACME 客户端和库，用于自动化获取和管理 TLS 证书。",
+  "content": "go-acme/lego 是一个用 Go 语言编写的 Let's Encrypt/ACME 客户端和库，旨在简化 TLS 证书的获取、续期和管理。它支持 ACME v2 协议，并提供了丰富的 DNS 提供商集成，使得用户可以通过 API 或命令行工具轻松实现证书的自动化管理。该项目在 GitHub 上拥有近万星标，社区活跃，是 Go 生态中重要的证书管理工具。",
+  "tags": [
+    "Go",
+    "ACME",
+    "Let's Encrypt",
+    "TLS",
+    "证书管理",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:23+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "go-acme",
+    "stars": 9845,
+    "forks": 1164,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

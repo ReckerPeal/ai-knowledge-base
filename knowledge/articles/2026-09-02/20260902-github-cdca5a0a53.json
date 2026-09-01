@@ -1,0 +1,34 @@
+{
+  "id": "20260902-github-cdca5a0a53",
+  "title": "dandavison/delta",
+  "source": "github_trending",
+  "source_url": "https://github.com/dandavison/delta",
+  "summary": "delta 是一个用于 git、diff、grep、rg --json 和 blame 输出的语法高亮分页器。",
+  "content": "delta 是一个用 Rust 编写的命令行工具，旨在增强 git、diff、grep 等命令的输出可读性。它通过语法高亮、行号、侧边栏等特性，使代码差异更易于浏览和理解。delta 支持多种输入格式，包括 git diff、grep 和 ripgrep 的 JSON 输出，并能与常见的分页器（如 less）集成。该项目在 GitHub 上拥有超过 3.2 万星标，社区活跃，是开发者提升代码审查效率的常用工具。",
+  "tags": [
+    "delta",
+    "git",
+    "diff",
+    "syntax-highlighting",
+    "pager",
+    "Rust",
+    "命令行工具",
+    "代码审查"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:31+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "dandavison",
+    "stars": 32055,
+    "forks": 568,
+    "daily_stars": null,
+    "weekly_stars": 198,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

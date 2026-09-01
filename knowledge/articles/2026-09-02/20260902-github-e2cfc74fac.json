@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-e2cfc74fac",
+  "title": "leookun/cursor-byok",
+  "source": "github_trending",
+  "source_url": "https://github.com/leookun/cursor-byok",
+  "summary": "cursor-byok 是 Cursor 编辑器的本地后端实现，允许用户自托管 Cursor 的核心服务，以增强数据隐私和定制化能力。",
+  "content": "cursor-byok 是一个用 Rust 编写的开源项目，旨在本地实现 Cursor 的后端服务。Cursor 是一款 AI 驱动的代码编辑器，其官方后端托管在云端，而 cursor-byok 允许用户在自己的基础设施上运行后端，从而获得对数据流和功能的完全控制。该项目提供了 API 兼容层，支持与 Cursor 客户端无缝集成，并附带详细的部署文档（docs.leokun.cn）。它特别适合对数据隐私有严格要求的开发团队，或希望深入定制 AI 辅助编程环境的用户。项目在 GitHub 上表现活跃，拥有 2660 颗星和 415 个 fork，显示出社区的高度关注。",
+  "tags": [
+    "Cursor",
+    "后端实现",
+    "Rust",
+    "自托管",
+    "AI 编程",
+    "数据隐私",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:31+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "leookun",
+    "stars": 2660,
+    "forks": 415,
+    "daily_stars": null,
+    "weekly_stars": 159,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-36917ef32b",
+  "title": "K-Dense-AI/scientific-agent-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "summary": "K-Dense-AI/scientific-agent-skills 是一个将任何 AI 代理转变为 AI 科学家的技能库，提供 165 个经过验证的技能和 100 多个科学数据库，覆盖生物学、化学、医学和药物发现等领域，已被全球 190,000+ 科学家使用，兼容 Cursor、Claude Code、Codex 等主流工具。",
+  "content": "## 项目概述\n\n**scientific-agent-skills** 是一个面向科学研究的 AI 代理技能库，旨在将通用 AI 代理转化为专业的 AI 科学家。该项目由 K-Dense-AI 团队开发，在 GitHub 上拥有 41,390 颗星，近期增长迅速（日增 914 星，周增 6,248 星），显示出极高的社区关注度。\n\n## 核心功能\n\n- **165 个即用型技能**：涵盖实验设计、数据分析、文献综述、分子模拟等科研全流程。\n- **100+ 科学数据库**：集成 PubChem、UniProt、PDB 等权威数据源，支持跨学科检索。\n- **多工具兼容**：支持 Cursor、Claude Code、Codex、Pi、Antigravity 等主流 AI 开发环境，遵循开放 Agent 技能标准。\n\n## 适用场景\n\n- **生物学研究**：基因序列分析、蛋白质结构预测、系统发育树构建。\n- **化学与药物发现**：化合物性质预测、虚拟筛选、分子对接模拟。\n- **医学研究**：临床试验数据分析、医学文献挖掘、疾病风险建模。\n\n## 技术亮点\n\n- **标准化技能格式**：基于开放 Agent 技能标准，易于扩展和复用。\n- **验证机制**：所有技能经过实际科研场景验证，确保可靠性。\n- **社区驱动**：由全球科学家共同维护，持续更新。\n\n## 快速开始\n\n1. 克隆仓库：`git clone https://github.com/K-Dense-AI/scientific-agent-skills.git`\n2. 安装依赖：`pip install -r requirements.txt`\n3. 选择技能：浏览 `skills/` 目录，按需加载。\n4. 集成到你的 AI 代理：参考文档配置 API 或命令行接口。\n\n## 社区影响\n\n该项目已被 190,000+ 科学家使用，成为科研 AI 领域的重要基础设施。其开源模式促进了科研工具民主化，降低了 AI 在科学领域的应用门槛。",
+  "tags": [
+    "AI Agent",
+    "科学计算",
+    "生物信息学",
+    "药物发现",
+    "开源工具",
+    "Python",
+    "科研自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:15+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "K-Dense-AI",
+    "stars": 41390,
+    "forks": 3816,
+    "daily_stars": 914,
+    "weekly_stars": 6248,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

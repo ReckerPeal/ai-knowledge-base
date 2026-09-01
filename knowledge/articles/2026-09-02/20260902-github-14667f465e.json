@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-14667f465e",
+  "title": "workweave/router",
+  "source": "github_trending",
+  "source_url": "https://github.com/workweave/router",
+  "summary": "workweave/router 是一个面向智能体系统的模型路由器，能够在 50 毫秒内将每个提示词路由到合适的模型，仅需更改端点即可将成本降低 40-70%。",
+  "content": "## 项目概述\n\nworkweave/router 是一个专为智能体（Agentic）系统设计的模型路由器，旨在解决多模型选择与成本优化问题。它通过智能路由算法，在极短延迟（<50ms）内将每个提示词（prompt）分发到最合适的模型，从而在保证性能的同时显著降低推理成本（40-70%）。该项目采用 Go 语言开发，目前在 GitHub 上已获得 3468 星标，近期增长迅速（周增 2304 星）。\n\n## 核心功能\n\n- **超低延迟路由**：50 毫秒内完成模型选择，满足实时交互需求。\n- **成本优化**：通过智能分配请求到不同价位的模型，平均节省 40-70% 的 API 费用。\n- **简单集成**：仅需更改端点（endpoint）即可接入现有系统，无需重构代码。\n- **面向智能体系统**：专为多步骤、多模型的 Agent 工作流设计，支持动态决策。\n\n## 技术亮点\n\n- 使用 Go 语言实现，具备高并发和低资源占用优势。\n- 可能采用基于规则或机器学习的路由策略，结合模型性能、成本和上下文需求进行决策。\n- 提供 RESTful API 或 SDK，便于与主流 LLM 提供商（如 OpenAI、Anthropic 等）对接。\n\n## 适用场景\n\n- 需要平衡成本与质量的 AI 应用（如聊天机器人、自动化工作流）。\n- 多模型混合部署的企业级系统。\n- 对响应延迟敏感的边缘计算场景。\n\n## 快速上手\n\n1. 安装并启动 router 服务。\n2. 配置模型提供商 API 密钥和路由规则。\n3. 将应用请求的 endpoint 指向 router 服务。\n4. 监控路由效果和成本节省情况。\n\n## 社区与许可\n\n项目由 workweave 团队维护，采用开源许可（具体需查看仓库）。当前处于活跃开发阶段，社区反馈积极。",
+  "tags": [
+    "模型路由",
+    "智能体",
+    "成本优化",
+    "Go",
+    "LLM",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:34+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "workweave",
+    "stars": 3468,
+    "forks": 96,
+    "daily_stars": null,
+    "weekly_stars": 2304,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

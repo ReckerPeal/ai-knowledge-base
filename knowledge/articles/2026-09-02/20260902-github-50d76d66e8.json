@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-50d76d66e8",
+  "title": "colinhacks/zod",
+  "source": "github_trending",
+  "source_url": "https://github.com/colinhacks/zod",
+  "summary": "Zod 是一个以 TypeScript 为先的 schema 声明与验证库，通过静态类型推断实现运行时数据校验与类型安全。",
+  "content": "Zod 是 GitHub 上广受欢迎的开源库（stars 超 4.3 万），专为 TypeScript 设计，核心目标是消除运行时数据验证与静态类型之间的鸿沟。它允许开发者用简洁的链式 API 定义 schema（如 z.string()、z.object({...})），并自动推断出对应的 TypeScript 类型，从而在编译期和运行期同时保证数据结构的正确性。Zod 支持复杂类型（联合、交叉、可选、记录等）、自定义错误消息、数据转换（transform）、以及与其他库（如 React Hook Form）的无缝集成。其设计哲学强调类型安全、可组合性和零依赖，适用于表单验证、API 请求/响应校验、配置文件解析等场景。该库在 TypeScript 生态中具有极高影响力，是前端和后端开发中处理数据验证的首选工具之一。",
+  "tags": [
+    "TypeScript",
+    "schema-validation",
+    "type-inference",
+    "data-validation",
+    "zod",
+    "runtime-validation",
+    "static-types"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:18+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "colinhacks",
+    "stars": 43745,
+    "forks": 2165,
+    "daily_stars": 33,
+    "weekly_stars": 211,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

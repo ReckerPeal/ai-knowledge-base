@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-3fe1fbd0a1",
+  "title": "dmtrKovalenko/fff",
+  "source": "github_trending",
+  "source_url": "https://github.com/dmtrKovalenko/fff",
+  "summary": "fff 是一个为 AI 代理、Neovim、Rust、C、Python、Bun 和 Node.js 设计的高性能文件搜索 SDK，以极快的速度和极高的准确性著称。",
+  "content": "## 项目概述\nfff 是一个跨语言的文件搜索 SDK，旨在为 AI 代理和开发者提供最快、最准确的文件搜索能力。它支持多种编程语言和工具，包括 Rust、C、Python、Bun 和 Node.js，并可直接集成到 Neovim 中。\n\n## 核心特性\n- **极致性能**：采用 Rust 编写，底层优化，搜索速度远超传统工具。\n- **高准确性**：利用先进的匹配算法，确保搜索结果精准。\n- **多语言支持**：提供 Rust、C、Python、Bun、Node.js 的 API，方便不同技术栈集成。\n- **AI 代理友好**：专为 AI 代理设计，可快速定位文件，提升自动化效率。\n- **Neovim 集成**：可作为 Neovim 插件使用，增强编辑器内文件搜索体验。\n\n## 技术亮点\n- 基于 Rust 的内存安全和高并发特性，保证搜索的稳定性和速度。\n- 提供统一的接口，简化跨语言调用。\n- 支持模糊匹配、正则搜索等高级功能。\n\n## 适用场景\n- AI 代理需要快速访问项目文件。\n- 开发者在大型代码库中高效定位文件。\n- 需要跨语言文件搜索能力的工具或应用。\n\n## 社区与热度\n- 在 GitHub 上获得超过 10k 星标，近期热度持续上升，受到开发者广泛关注。",
+  "tags": [
+    "file-search",
+    "SDK",
+    "Rust",
+    "AI",
+    "Neovim",
+    "cross-language",
+    "performance"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:20+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "dmtrKovalenko",
+    "stars": 10346,
+    "forks": 434,
+    "daily_stars": 70,
+    "weekly_stars": 204,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

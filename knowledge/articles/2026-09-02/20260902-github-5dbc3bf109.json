@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-5dbc3bf109",
+  "title": "kenn-io/agentsview",
+  "source": "github_trending",
+  "source_url": "https://github.com/kenn-io/agentsview",
+  "summary": "kenn-io/agentsview 是一个本地优先的会话搜索、分析、洞察和令牌使用统计工具，专为编码代理设计，支持 Claude Code、Codex 等 20 多种代理。",
+  "content": "## 项目概述\n\n**agentsview** 是一个面向编码代理（coding agents）的本地优先工具，提供会话搜索、分析、洞察和令牌使用统计功能。它支持超过 20 种编码代理，包括 Claude Code、Codex 等主流工具。该项目旨在帮助开发者更好地管理和理解其与 AI 编码代理的交互，优化令牌使用效率。\n\n## 核心功能\n\n- **本地优先**：所有数据存储在本地，保护隐私，无需云端依赖。\n- **会话搜索**：快速检索历史会话记录，方便回溯和参考。\n- **分析洞察**：提供交互模式分析，帮助用户发现使用习惯和潜在改进点。\n- **令牌统计**：详细统计令牌消耗，助力成本控制和资源优化。\n- **多代理支持**：兼容 20+ 编码代理，覆盖主流工具生态。\n\n## 技术特点\n\n- **语言**：使用 Go 开发，性能高效，部署简单。\n- **社区热度**：在 GitHub 上获得 5706 星标和 648 个 fork，周增长 461 星，显示出较高的关注度。\n- **适用场景**：适合重度使用 AI 编码代理的开发者、团队，以及需要精细管理 AI 工具成本的用户。\n\n## 总结\n\nagentsview 通过本地优先的设计和全面的分析功能，为编码代理用户提供了强大的会话管理和成本优化工具，是 AI 辅助开发工作流中的实用补充。",
+  "tags": [
+    "编码代理",
+    "本地优先",
+    "会话搜索",
+    "令牌统计",
+    "Go",
+    "开发者工具",
+    "AI辅助开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:34+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kenn-io",
+    "stars": 5706,
+    "forks": 648,
+    "daily_stars": null,
+    "weekly_stars": 461,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

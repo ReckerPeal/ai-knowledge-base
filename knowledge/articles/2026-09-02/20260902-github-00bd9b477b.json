@@ -1,0 +1,36 @@
+{
+  "id": "20260902-github-00bd9b477b",
+  "title": "PurpleDoubleD/locally-uncensored",
+  "source": "github_trending",
+  "source_url": "https://github.com/PurpleDoubleD/locally-uncensored",
+  "summary": "PurpleDoubleD/locally-uncensored 是一个即插即用的本地 AI 工作室，支持无审查聊天、图像与视频生成以及编码代理。它运行 abliterated 大语言模型和 ComfyUI，完全离线，提供一键安装，无需 Docker 或云服务。",
+  "content": "该仓库提供了一个本地 AI 工具集，旨在让用户完全离线运行强大的 AI 模型。核心特点包括：\n- **无审查聊天**：通过 abliterated 模型（去除安全对齐的模型）实现无过滤的对话。\n- **图像与视频生成**：集成 ComfyUI，支持本地生成图像和视频。\n- **编码代理**：内置编码助手，辅助代码生成与理解。\n- **完全离线**：所有计算在本地完成，不依赖云端，保障隐私。\n- **一键安装**：提供统一安装程序，无需 Docker 或复杂配置。\n\n该项目使用 TypeScript 编写，目前获得 1338 星，周增 199 星，社区活跃。适合对 AI 自由度和隐私有高要求的开发者或研究者。",
+  "tags": [
+    "本地AI",
+    "无审查",
+    "图像生成",
+    "视频生成",
+    "编码代理",
+    "离线",
+    "ComfyUI",
+    "abliterated",
+    "TypeScript",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:29+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "PurpleDoubleD",
+    "stars": 1338,
+    "forks": 213,
+    "daily_stars": null,
+    "weekly_stars": 199,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

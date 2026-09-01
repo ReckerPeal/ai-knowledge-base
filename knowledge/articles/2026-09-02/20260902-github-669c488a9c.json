@@ -1,0 +1,34 @@
+{
+  "id": "20260902-github-669c488a9c",
+  "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+  "source": "github_trending",
+  "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+  "summary": "ARIS ⚔️ (Auto-Research-In-Sleep) 是一个轻量级的、仅基于 Markdown 的自主机器学习研究技能集，旨在实现跨模型评审循环、想法发现和实验自动化。它不依赖任何框架，无锁定，可兼容 Claude Code、Codex、OpenClaw 或任何 LLM 代理。",
+  "content": "ARIS (Auto-Research-In-Sleep) 是一个专注于自主机器学习研究的轻量级工具集，其核心设计理念是“仅使用 Markdown”来驱动研究流程。该项目提供了一套技能（skills），使得 LLM 代理能够自主执行跨模型评审循环（cross-model review loops）、进行想法发现（idea discovery）以及实现实验自动化（experiment automation）。ARIS 强调无框架、无锁定（no framework, no lock-in），这意味着它可以无缝集成到现有的 LLM 代理工作流中，如 Claude Code、Codex、OpenClaw 等，无需引入额外的复杂依赖。该项目旨在简化并加速 AI 研究过程，通过自动化评审和实验循环，让研究人员能够在“睡眠”状态下推进研究进度。",
+  "tags": [
+    "AutoML",
+    "LLM",
+    "Markdown",
+    "Research Automation",
+    "Claude Code",
+    "Codex",
+    "OpenClaw",
+    "Experiment Automation"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "wanshuiyin",
+    "stars": 15568,
+    "forks": 1360,
+    "daily_stars": null,
+    "weekly_stars": 365,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

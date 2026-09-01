@@ -1,0 +1,35 @@
+{
+  "id": "20260902-github-890d693f27",
+  "title": "mobile-next/mobile-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/mobile-next/mobile-mcp",
+  "summary": "mobile-mcp 是一个基于 Model Context Protocol (MCP) 的服务器，用于移动设备自动化与数据抓取，支持 iOS、Android、模拟器、仿真器及真实设备。",
+  "content": "## 项目概述\nmobile-mcp 是一个开源项目，旨在通过 Model Context Protocol (MCP) 提供移动设备自动化与数据抓取能力。它支持 iOS 和 Android 平台，涵盖模拟器、仿真器以及真实设备，为开发者提供统一的接口来控制移动设备、执行 UI 自动化、提取屏幕数据等。该项目采用 TypeScript 编写，适合集成到 AI 代理或开发工具链中，实现移动端的智能交互与数据采集。\n\n## 核心功能\n- **跨平台支持**：覆盖 iOS 和 Android，兼容模拟器、仿真器与真实设备。\n- **MCP 协议**：基于 Model Context Protocol，便于 AI 模型与移动设备交互。\n- **自动化与抓取**：支持 UI 自动化操作（点击、滑动、输入）以及屏幕内容抓取。\n- **开发者友好**：提供清晰的 API 和文档，易于集成到现有工作流。\n\n## 技术亮点\n- 使用 TypeScript 开发，类型安全，易于维护。\n- 模块化设计，可扩展性强。\n- 活跃的社区支持，GitHub 星标数超过 6k，周增长显著。\n\n## 适用场景\n- AI 代理需要操作移动应用进行测试或数据收集。\n- 移动端自动化测试框架的补充。\n- 跨平台移动设备管理工具的开发。\n\n## 项目状态\n- 作者：mobile-next\n- 星标：6287，分支：541\n- 语言：TypeScript\n- 分类：GitHub 热点 · TypeScript",
+  "tags": [
+    "MCP",
+    "移动自动化",
+    "iOS",
+    "Android",
+    "模拟器",
+    "真实设备",
+    "TypeScript",
+    "数据抓取",
+    "AI 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:29+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mobile-next",
+    "stars": 6287,
+    "forks": 541,
+    "daily_stars": null,
+    "weekly_stars": 287,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

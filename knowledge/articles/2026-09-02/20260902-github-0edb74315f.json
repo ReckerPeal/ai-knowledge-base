@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-0edb74315f",
+  "title": "solidjs/solid",
+  "source": "github_trending",
+  "source_url": "https://github.com/solidjs/solid",
+  "summary": "Solid 是一个声明式、高效且灵活的 JavaScript 库，用于构建用户界面。它采用细粒度响应式更新，提供了接近原生 DOM 的性能，同时保持了 React 类似的开发体验。",
+  "content": "Solid 是一个由 solidjs 团队维护的开源 JavaScript 库，旨在构建高性能的用户界面。它采用声明式编程模型，但通过编译时优化和细粒度响应式系统，避免了虚拟 DOM 的开销，从而实现了高效的 DOM 更新。Solid 的 API 设计借鉴了 React 的组件化思想，但内部机制完全不同，它使用真实的 DOM 节点和响应式代理，使得更新操作直接作用于具体节点，减少了不必要的重渲染。该项目在 GitHub 上拥有超过 35,000 颗星，社区活跃，适合追求极致性能的前端开发者。Solid 支持 TypeScript，提供了类型安全的开发体验。",
+  "tags": [
+    "JavaScript",
+    "UI库",
+    "响应式",
+    "性能",
+    "TypeScript",
+    "前端框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:29+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "solidjs",
+    "stars": 35949,
+    "forks": 1099,
+    "daily_stars": null,
+    "weekly_stars": 47,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

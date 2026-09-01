@@ -1,0 +1,34 @@
+{
+  "id": "20260902-github-69db691fc4",
+  "title": "YishenTu/claudian",
+  "source": "github_trending",
+  "source_url": "https://github.com/YishenTu/claudian",
+  "summary": "Claudian 是一个 Obsidian 插件，它将 Claude Code/Codex 作为 AI 协作伙伴嵌入到你的知识库中。",
+  "content": "## 项目简介\nClaudian 是一个针对 Obsidian 的插件，旨在将 Claude Code 和 Codex 等 AI 编程助手直接集成到 Obsidian 笔记库中。用户可以在笔记环境中直接调用 AI 能力，实现代码生成、文本处理、知识管理等协作功能，提升笔记工作流的智能化水平。\n\n## 核心功能\n- **AI 协作嵌入**：将 Claude Code/Codex 作为 AI 伙伴嵌入 Obsidian，支持在笔记中直接交互。\n- **知识库集成**：与 Obsidian 的 vault 深度集成，可基于笔记内容进行上下文感知的 AI 辅助。\n- **多模型支持**：支持 Claude Code 和 Codex 两种主流 AI 编程工具，提供灵活选择。\n\n## 技术特点\n- **语言**：TypeScript，基于 Obsidian 插件 API 开发。\n- **架构**：作为 Obsidian 插件运行，通过 API 与外部 AI 服务通信。\n- **社区热度**：在 GitHub 上获得 15k+ stars，日增 21 stars，显示出较高的关注度。\n\n## 适用场景\n- 需要在笔记中快速生成代码或处理文本的开发者。\n- 希望将 AI 辅助融入知识管理流程的用户。\n- 对 Obsidian 生态感兴趣，并希望扩展其功能的用户。",
+  "tags": [
+    "Obsidian",
+    "AI",
+    "Claude",
+    "Codex",
+    "插件",
+    "TypeScript",
+    "知识管理",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:18+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "YishenTu",
+    "stars": 15096,
+    "forks": 994,
+    "daily_stars": 21,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

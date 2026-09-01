@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-8a83a8caac",
+  "title": "anthropics/claude-plugins-community",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-plugins-community",
+  "summary": "Anthropics 官方维护的 Claude 插件社区市场，为 Claude Cowork 和 Claude Code 提供插件分发与发现平台。该仓库为只读镜像，插件提交需通过官方目录。",
+  "content": "## 项目概述\n\n**anthropics/claude-plugins-community** 是 Anthropic 官方推出的社区插件市场，旨在为 Claude 生态（特别是 Claude Cowork 和 Claude Code）提供集中化的插件分发与发现平台。该仓库作为只读镜像，展示已收录的插件，而插件提交需通过官方目录（clau.de/plugin-directory-submission）进行。\n\n## 核心功能\n\n- **插件市场**：集中展示社区贡献的 Claude 插件，支持 Claude Cowork 和 Claude Code 用户浏览、安装和更新插件。\n- **只读镜像**：仓库本身不直接接受 Pull Request，而是作为官方收录插件的镜像，确保插件来源的可信度和一致性。\n- **社区驱动**：鼓励开发者通过官方提交渠道贡献插件，丰富 Claude 生态。\n\n## 技术特点\n\n- **语言**：主要使用 Python，可能与插件 API 或工具链相关。\n- **维护方**：Anthropic 官方，保证项目长期维护和生态兼容性。\n- **热度**：在 GitHub 上获得 3142 星，周增 1846 星，显示出社区高度关注。\n\n## 适用场景\n\n- 开发者希望为 Claude 扩展功能，可在此市场发布插件。\n- 用户需要发现和安装社区高质量插件，提升 Claude 使用效率。\n- 研究 Claude 插件生态和最佳实践。\n\n## 总结\n\n该仓库是 Claude 插件生态的核心枢纽，通过官方背书和社区协作，推动 Claude 工具的扩展与普及。对于 Claude 用户和开发者而言，是重要的资源平台。",
+  "tags": [
+    "Claude",
+    "插件市场",
+    "Anthropic",
+    "社区驱动",
+    "Python",
+    "AI工具",
+    "生态建设"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:26+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 3142,
+    "forks": 247,
+    "daily_stars": null,
+    "weekly_stars": 1846,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

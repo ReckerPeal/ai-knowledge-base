@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-9fae3e7857",
+  "title": "apurvsinghgautam/robin",
+  "source": "github_trending",
+  "source_url": "https://github.com/apurvsinghgautam/robin",
+  "summary": "Robin 是一个由 AI 驱动的暗网 OSINT（开源情报）工具，旨在帮助安全研究人员和执法机构监控和分析暗网活动。该项目在 GitHub 上迅速走红，获得了超过 6900 颗星，显示出社区对暗网情报分析工具的强烈需求。",
+  "content": "Robin 是一个基于 Python 的 AI 驱动暗网 OSINT 工具，其核心功能包括：\n- **暗网监控**：自动爬取和索引暗网站点（如 .onion 域名），收集威胁情报。\n- **AI 分析**：利用自然语言处理（NLP）和机器学习模型对暗网内容进行分类、情感分析和实体识别，帮助用户快速识别潜在威胁。\n- **可视化报告**：提供直观的仪表盘和图表，展示暗网趋势、关键词热度、恶意活动分布等。\n- **可扩展性**：支持自定义爬虫规则和 AI 模型，便于集成到现有安全工作流中。\n\n该工具适用于安全研究人员、执法机构和企业安全团队，用于追踪数据泄露、勒索软件活动、非法交易等。其技术栈包括 Python、Scrapy（爬虫）、Transformers（AI 模型）和 Elasticsearch（数据存储）。\n\n项目当前处于活跃开发阶段，社区贡献频繁，但需注意暗网访问的法律和道德风险。",
+  "tags": [
+    "OSINT",
+    "暗网",
+    "AI",
+    "安全",
+    "Python",
+    "威胁情报",
+    "爬虫"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:15+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "apurvsinghgautam",
+    "stars": 6905,
+    "forks": 1294,
+    "daily_stars": 127,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

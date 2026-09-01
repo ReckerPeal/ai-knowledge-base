@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-4747a804fd",
+  "title": "stablyai/orca",
+  "source": "github_trending",
+  "source_url": "https://github.com/stablyai/orca",
+  "summary": "Orca 是一个用于管理并行代理集群的 ADE（代理开发环境），支持在桌面、移动端和 VPS 上运行任意编码代理，并使用您自己的订阅。",
+  "content": "## 项目概述\nOrca 是一个面向并行代理集群的代理开发环境（ADE），旨在简化多代理工作流的部署与管理。它允许用户利用自己的订阅运行任意编码代理，并支持桌面、移动端和 VPS 等多种部署方式。\n\n## 核心特性\n- **并行代理管理**：高效协调多个代理同时工作，提升任务处理效率。\n- **订阅集成**：用户可使用自己的订阅资源，无需额外付费。\n- **跨平台支持**：覆盖桌面、移动端和 VPS，满足不同场景需求。\n\n## 技术栈\n- 主要语言：TypeScript\n- 平台：跨平台（桌面、移动端、VPS）\n\n## 社区与热度\n- 星标数：59,061\n- 分支数：4,005\n- 日增星标：896（截至 2026-09-02）\n- 类别：GitHub 热点 · TypeScript\n\n## 适用场景\n- 开发者需要同时运行多个编码代理进行自动化任务。\n- 团队希望统一管理代理集群并降低基础设施成本。\n- 需要在不同设备上灵活访问代理环境。",
+  "tags": [
+    "ADE",
+    "并行代理",
+    "编码代理",
+    "TypeScript",
+    "跨平台",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-02T01:29:18+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "stablyai",
+    "stars": 59061,
+    "forks": 4005,
+    "daily_stars": 896,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
