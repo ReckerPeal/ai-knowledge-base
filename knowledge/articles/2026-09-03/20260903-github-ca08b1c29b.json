@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-ca08b1c29b",
+  "title": "abhigyanpatwari/GitNexus",
+  "source": "github_trending",
+  "source_url": "https://github.com/abhigyanpatwari/GitNexus",
+  "summary": "GitNexus 是一个零服务器代码智能引擎，完全在浏览器中运行，可将 Git 仓库或 ZIP 文件转化为交互式知识图谱，并内置 Graph RAG Agent，用于代码探索。",
+  "content": "GitNexus 是一个客户端知识图谱创建工具，无需服务器端组件，直接在浏览器中处理代码仓库。用户可以通过拖拽或输入 URL 导入 GitHub、GitLab、Azure 或本地 Git 仓库，或直接上传 ZIP 文件。系统会自动解析代码结构，生成可视化的知识图谱，展示模块、类、函数之间的依赖关系。内置的 Graph RAG Agent 允许用户用自然语言查询代码库，获得基于图谱的精准回答，极大提升代码理解和探索效率。该项目使用 TypeScript 编写，在 GitHub 上获得 46886 星，周增 1149 星，属于热门项目。",
+  "tags": [
+    "代码智能",
+    "知识图谱",
+    "Graph RAG",
+    "浏览器端",
+    "代码探索",
+    "TypeScript",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:59+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "abhigyanpatwari",
+    "stars": 46886,
+    "forks": 5146,
+    "daily_stars": null,
+    "weekly_stars": 1149,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

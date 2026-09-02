@@ -1,0 +1,29 @@
+{
+  "id": "20260903-github-f6b26e55a4",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "summary": "本文介绍了一种名为“量化感知修复”的新方法，通过该方法压缩得到的4位模型在性能上超越了其全精度原始模型。",
+  "content": "该文章来自Hugging Face博客，提出了一种称为“量化感知修复”（Quantization-Aware Healing）的技术。传统上，模型量化（如压缩到4位）通常会导致精度下降，但该方法通过特殊的训练或微调策略，使得压缩后的4位模型不仅保持了性能，甚至在某些指标上超过了未压缩的全精度模型。文章可能详细阐述了该技术的原理、实现方式以及实验结果，展示了在模型压缩领域的新突破。",
+  "tags": [
+    "模型压缩",
+    "量化",
+    "4位模型",
+    "性能提升",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-25T11:39:24+00:00",
+  "collected_at": "2026-09-03T01:29:05+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

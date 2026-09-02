@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-8cb6b7b8db",
+  "title": "higress-group/higress",
+  "source": "github_trending",
+  "source_url": "https://github.com/higress-group/higress",
+  "summary": "Higress 是一个云原生 AI 原生 API 网关，基于 Envoy 构建，提供高性能、可扩展的流量管理，并深度集成 AI 能力，支持多种 AI 协议和插件生态。",
+  "content": "Higress 是一个云原生 API 网关，基于 Envoy 构建，旨在提供高性能、可扩展的流量管理。其核心定位是 AI 原生网关，深度集成 AI 能力，支持多种 AI 协议（如 OpenAI、Claude 等），并提供丰富的插件生态，例如请求/响应转换、限流、认证、缓存等。Higress 支持 Kubernetes 原生部署，提供控制台和命令行工具，便于管理和配置。它适用于微服务架构、Serverless 场景以及 AI 应用接入，能够简化 AI 服务的暴露、治理和观测。项目在 GitHub 上活跃，拥有 9k+ stars，社区持续贡献。",
+  "tags": [
+    "API Gateway",
+    "AI Gateway",
+    "Envoy",
+    "Cloud Native",
+    "Kubernetes",
+    "Go",
+    "AI Native"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:29:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "higress-group",
+    "stars": 9274,
+    "forks": 1271,
+    "daily_stars": null,
+    "weekly_stars": 85,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

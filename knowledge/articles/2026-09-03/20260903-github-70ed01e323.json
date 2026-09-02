@@ -1,0 +1,34 @@
+{
+  "id": "20260903-github-70ed01e323",
+  "title": "0xPlaygrounds/rig",
+  "source": "github_trending",
+  "source_url": "https://github.com/0xPlaygrounds/rig",
+  "summary": "rig 是一个用于在 Rust 中构建模块化和可扩展 LLM 应用的框架，旨在提供类型安全、高性能的 AI 开发体验。",
+  "content": "rig 是一个基于 Rust 的 LLM 应用开发框架，强调模块化和可扩展性。它利用 Rust 的类型系统和所有权模型，为构建大型语言模型应用提供安全、高效的底层支持。该框架可能提供统一的接口来集成不同的 LLM 提供商，并支持构建复杂的 AI 工作流。其设计目标包括：\n- 模块化：允许开发者灵活组合各种组件（如模型、工具、数据源）\n- 可扩展性：支持从原型到生产环境的平滑过渡\n- 类型安全：利用 Rust 的编译期检查减少运行时错误\n- 性能：利用 Rust 的高性能特性处理大规模 AI 任务\n该仓库在 GitHub 上已获得 8500 星，显示出社区的高度关注。",
+  "tags": [
+    "Rust",
+    "LLM",
+    "AI框架",
+    "模块化",
+    "可扩展",
+    "类型安全",
+    "高性能",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:29:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "0xPlaygrounds",
+    "stars": 8500,
+    "forks": 949,
+    "daily_stars": null,
+    "weekly_stars": 94,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

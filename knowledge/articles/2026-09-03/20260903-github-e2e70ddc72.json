@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-e2e70ddc72",
+  "title": "NeoLabHQ/context-engineering-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/NeoLabHQ/context-engineering-kit",
+  "summary": "NeoLabHQ/context-engineering-kit 是一个手工制作的 Claude Code 技能集合，旨在提升代理结果质量，兼容 OpenCode、Cursor、Antigravity、Gemini CLI 等工具，并提供了 CodeRabbit 的开源替代方案。",
+  "content": "## 项目概述\nNeoLabHQ/context-engineering-kit 是一个专注于提升 AI 代理（agent）结果质量的技能包集合。它通过精心设计的上下文工程（context engineering）技能，帮助开发者在使用 Claude Code 等工具时获得更准确、更可靠的输出。该项目不仅限于 Claude Code，还兼容 OpenCode、Cursor、Antigravity、Gemini CLI 等主流 AI 编程工具，具有广泛的适用性。\n\n## 核心功能\n- **手工制作的技能集**：每个技能都经过精心设计，针对特定场景优化代理的上下文理解与决策能力。\n- **多工具兼容**：支持多种 AI 编程环境，方便开发者无缝集成。\n- **开源替代方案**：提供了 CodeRabbit 的开源替代，满足代码审查等需求。\n\n## 技术亮点\n- 基于 TypeScript 开发，保证了代码的类型安全与可维护性。\n- 项目在 GitHub 上获得 1513 颗星，154 个 fork，周增长 114 颗星，显示出社区的高度关注与认可。\n\n## 适用场景\n- 开发者希望提升 AI 编程助手（如 Claude Code）的输出质量。\n- 团队需要统一且可复用的上下文工程策略。\n- 寻找 CodeRabbit 等商业工具的开源替代方案。\n\n## 总结\n该项目为 AI 辅助开发提供了实用的技能库，通过上下文工程显著改善代理结果，是 AI 编程领域值得关注的开源工具。",
+  "tags": [
+    "AI",
+    "Claude Code",
+    "上下文工程",
+    "开源",
+    "TypeScript",
+    "开发工具",
+    "代理质量"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:59+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "NeoLabHQ",
+    "stars": 1513,
+    "forks": 154,
+    "daily_stars": null,
+    "weekly_stars": 114,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

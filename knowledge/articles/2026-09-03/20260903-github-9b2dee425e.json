@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-9b2dee425e",
+  "title": "slackhq/nebula",
+  "source": "github_trending",
+  "source_url": "https://github.com/slackhq/nebula",
+  "summary": "Nebula 是 Slack 开发的一款可扩展的覆盖网络工具，专注于高性能、简单性和安全性。",
+  "content": "Nebula 是一个可扩展的覆盖网络工具，旨在解决大规模网络连接问题，同时保持高性能、简单性和安全性。它由 Slack 开发并开源，使用 Go 语言编写。Nebula 采用现代密码学技术（如 Noise 协议框架）来确保通信安全，并支持灵活的证书体系，便于管理节点身份和权限。其设计目标是让用户能够轻松地创建和管理虚拟专用网络（VPN），适用于跨地域的分布式团队或云环境。Nebula 的核心优势包括：高性能的数据平面、简单的配置和部署、以及内置的安全机制。它通过 GitHub 上的开源社区持续演进，目前已有超过 18,000 颗星，显示出广泛的认可度。",
+  "tags": [
+    "overlay-network",
+    "vpn",
+    "security",
+    "go",
+    "networking",
+    "slack",
+    "scalable"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "slackhq",
+    "stars": 18242,
+    "forks": 1176,
+    "daily_stars": 561,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

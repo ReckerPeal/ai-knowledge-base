@@ -1,0 +1,34 @@
+{
+  "id": "20260903-github-7e12207576",
+  "title": "teng-lin/notebooklm-py",
+  "source": "github_trending",
+  "source_url": "https://github.com/teng-lin/notebooklm-py",
+  "summary": "notebooklm-py 是一个非官方的 Python API 和智能体技能库，用于 Google Gemini Notebook。它提供对 NotebookLM 功能的完整编程访问，包括 Web UI 未公开的能力，支持 Python、CLI 以及 Claude Code、Codex 和 OpenClaw 等 AI 智能体。",
+  "content": "## 项目概述\nnotebooklm-py 是一个非官方的 Python 库，旨在为 Google Gemini Notebook（NotebookLM）提供完整的编程访问接口。它超越了 Web UI 的限制，允许开发者通过 Python、命令行工具以及 AI 智能体（如 Claude Code、Codex、OpenClaw）操作 NotebookLM 的各类功能。\n\n## 核心特性\n- **完整功能覆盖**：支持 NotebookLM 的所有主要功能，包括 Web UI 未公开的隐藏能力。\n- **多接口支持**：提供 Python API、CLI 工具，并可作为 AI 智能体的技能（skill）集成。\n- **智能体友好**：专为 AI 编程助手设计，方便自动化工作流。\n\n## 技术分析\n- **语言**：Python，适合快速开发和 AI 生态集成。\n- **架构**：作为非官方 API，通过逆向工程或内部接口实现，需注意稳定性风险。\n- **应用场景**：适用于需要批量处理、自动化笔记管理、知识库构建或与 AI 智能体协同的场景。\n\n## 社区与热度\n- **星标数**：19,083（截至收集日），增长迅速，日增 23 星。\n- **分叉数**：2,563，表明活跃的二次开发。\n- **类别**：GitHub 热点 Python 项目，受到开发者广泛关注。\n\n## 注意事项\n- 非官方性质，可能违反服务条款，使用需谨慎。\n- 依赖 Google 服务，功能可能随官方更新而变化。\n- 建议关注项目更新和社区反馈。",
+  "tags": [
+    "Python",
+    "NotebookLM",
+    "Google Gemini",
+    "非官方API",
+    "AI智能体",
+    "自动化",
+    "知识库",
+    "CLI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:45+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "teng-lin",
+    "stars": 19083,
+    "forks": 2563,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260903-github-85562dc163",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/webgpu-kernels",
+  "summary": "Hugging Face 发布了 @huggingface/kernels，包含 200 多个 WebGPU 内核，用于在浏览器中本地运行 AI 模型。",
+  "content": "Hugging Face 宣布推出 @huggingface/kernels，这是一个包含 200 多个 WebGPU 内核的库，旨在加速本地 AI 推理。该库利用 WebGPU 技术，使 AI 模型能够在浏览器中高效运行，无需依赖云端服务器。这些内核覆盖了常见的神经网络操作，如矩阵乘法、卷积和激活函数，针对 WebGPU 进行了优化，以提升性能。该库支持多种模型架构，并提供了易于使用的 API，方便开发者集成。此举是 Hugging Face 推动本地 AI 发展的重要一步，旨在降低 AI 应用的门槛，同时增强数据隐私和离线可用性。",
+  "tags": [
+    "WebGPU",
+    "AI",
+    "Hugging Face",
+    "本地推理",
+    "浏览器",
+    "内核",
+    "机器学习"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-01T00:00:00+00:00",
+  "collected_at": "2026-09-03T01:29:05+08:00",
+  "language": "zh-CN",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260903-github-9cbe5d98e9",
+  "title": "modem-dev/hunk",
+  "source": "github_trending",
+  "source_url": "https://github.com/modem-dev/hunk",
+  "summary": "modem-dev/hunk 是一个面向智能体编程者的终端差异查看器，采用审查优先的设计理念，帮助开发者更高效地审查代码变更。",
+  "content": "modem-dev/hunk 是一个专为智能体编程者设计的终端差异查看器，其核心特点是“审查优先”（Review-first）。该项目旨在解决 AI 辅助编程场景下代码审查效率低下的问题，通过提供直观、高效的终端界面，让开发者能够快速浏览和理解代码差异。项目使用 TypeScript 开发，目前在 GitHub 上已获得超过 9000 颗星，周增长 267 颗，显示出较强的社区关注度。其主要功能可能包括：支持多种 diff 格式、提供键盘快捷键操作、与主流版本控制系统（如 Git）集成、以及针对 AI 生成代码的优化展示等。对于使用 AI 编程助手（如 Copilot）的开发者而言，hunk 能够显著提升代码审查的流畅性和准确性。",
+  "tags": [
+    "终端工具",
+    "代码审查",
+    "diff查看器",
+    "AI编程",
+    "TypeScript",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:59+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "modem-dev",
+    "stars": 9009,
+    "forks": 284,
+    "daily_stars": null,
+    "weekly_stars": 267,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

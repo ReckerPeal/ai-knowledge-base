@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-a67bb8d2a6",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "summary": "Chrome DevTools 官方推出的 MCP 服务器，让 AI 编程助手能够直接操控 Chrome 浏览器进行调试、性能分析和 DOM 操作。",
+  "content": "## 项目概述\n\n**chrome-devtools-mcp** 是 Chrome DevTools 团队官方维护的 Model Context Protocol (MCP) 服务器实现。它作为桥梁，将 AI 编程助手（如 Claude、Copilot 等）与 Chrome DevTools 的强大功能连接起来，使 AI 能够直接控制浏览器进行自动化调试、性能分析和页面操作。\n\n## 核心功能\n\n- **浏览器自动化控制**：AI 可以打开新页面、导航、刷新、点击元素、填写表单等。\n- **DOM 操作与检查**：实时查看和修改页面 DOM 结构，支持选择器定位和属性修改。\n- **调试与日志**：捕获 console 日志、网络请求、异常信息，辅助 AI 定位问题。\n- **性能分析**：获取性能指标（如加载时间、内存占用），帮助优化页面性能。\n- **多标签页管理**：支持同时管理多个标签页，切换上下文。\n\n## 技术亮点\n\n- **官方维护**：由 Chrome DevTools 团队直接开发，保证与 Chrome 的兼容性和稳定性。\n- **MCP 标准**：遵循 Model Context Protocol，可无缝集成到支持 MCP 的 AI 工具中。\n- **TypeScript 编写**：类型安全，易于扩展和维护。\n\n## 适用场景\n\n- **AI 辅助前端开发**：让 AI 自动调试页面、验证 UI 效果。\n- **自动化测试**：结合 AI 生成测试用例并执行。\n- **网页数据抓取**：AI 可以模拟用户操作提取动态内容。\n\n## 快速上手\n\n1. 安装 Node.js 和 Chrome 浏览器。\n2. 通过 `npx chrome-devtools-mcp@latest` 启动服务器。\n3. 在支持 MCP 的客户端（如 Claude Desktop）中配置连接。\n4. 开始用自然语言指令控制浏览器。\n\n## 社区反响\n\n该项目在 GitHub 上获得超过 5 万星标，日增星标 140+，周增 738，显示出开发者对 AI 驱动开发工具的高度热情。",
+  "tags": [
+    "Chrome DevTools",
+    "MCP",
+    "AI 编程助手",
+    "浏览器自动化",
+    "调试工具",
+    "TypeScript",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:48+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "ChromeDevTools",
+    "stars": 50561,
+    "forks": 3553,
+    "daily_stars": 140,
+    "weekly_stars": 738,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

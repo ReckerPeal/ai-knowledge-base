@@ -1,0 +1,32 @@
+{
+  "id": "20260903-github-2005f53703",
+  "title": "emilk/egui",
+  "source": "github_trending",
+  "source_url": "https://github.com/emilk/egui",
+  "summary": "egui 是一个用 Rust 编写的、易于使用的即时模式 GUI 库，支持 Web 和原生平台。",
+  "content": "egui 是一个用 Rust 编写的即时模式 GUI 库，其设计目标是简单易用，并且能够同时运行在 Web 和原生平台上。它提供了丰富的控件和布局，支持自定义主题和样式，并且具有高性能和低开销的特点。egui 的即时模式意味着界面状态由每一帧的代码直接驱动，无需复杂的生命周期管理，非常适合工具、编辑器、调试器等应用场景。该项目在 GitHub 上拥有超过 30k 星标，社区活跃，持续更新。",
+  "tags": [
+    "Rust",
+    "GUI",
+    "即时模式",
+    "跨平台",
+    "Web",
+    "原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "emilk",
+    "stars": 30351,
+    "forks": 2119,
+    "daily_stars": 51,
+    "weekly_stars": 169,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

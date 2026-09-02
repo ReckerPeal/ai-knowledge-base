@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-8898dc1fb3",
+  "title": "heygen-com/hyperframes",
+  "source": "github_trending",
+  "source_url": "https://github.com/heygen-com/hyperframes",
+  "summary": "Hyperframes 是一个面向智能体（agents）的 HTML 转视频渲染工具，由 HeyGen 团队开源，旨在简化从 HTML 到视频的生成流程。",
+  "content": "Hyperframes 是一个专为智能体（agents）设计的 HTML 转视频渲染库，其核心理念是“编写 HTML，渲染视频”。它允许开发者通过编写标准的 HTML/CSS/JavaScript 来定义视频的每一帧，然后由工具自动合成视频。该项目特别适合需要程序化生成动态视频的场景，如数据可视化、自动化报告、社交媒体内容生成等。它提供了简洁的 API 和灵活的帧控制，使得智能体可以轻松地创建和更新视频内容。项目采用 TypeScript 编写，拥有活跃的社区和较高的关注度（GitHub 星标 43k+），是当前 AI 视频生成领域的热门工具。",
+  "tags": [
+    "HTML转视频",
+    "视频生成",
+    "智能体",
+    "TypeScript",
+    "HeyGen",
+    "自动化渲染",
+    "AI视频"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:48+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "heygen-com",
+    "stars": 43698,
+    "forks": 4201,
+    "daily_stars": 158,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

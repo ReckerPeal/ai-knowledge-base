@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-293c3b9a3a",
+  "title": "tphakala/birdnet-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/tphakala/birdnet-go",
+  "summary": "BirdNET-Go 是一个自托管的实时声景分析工具，用于识别鸟类、蝙蝠及其他野生动物。它支持多模型本地 AI 推理，可在树莓派上 24/7 运行。",
+  "content": "BirdNET-Go 是一个基于 Go 语言开发的自托管实时声景分析系统，专为鸟类、蝙蝠和其他野生动物设计。该项目利用 BirdNET 等 AI 模型进行本地推理，无需云端依赖，保护隐私并降低延迟。它能够持续监听环境声音，自动识别物种，并提供实时可视化和报告。项目优化了资源占用，可在树莓派等低功耗设备上全天候运行，适合生态研究、公民科学和自然爱好者使用。",
+  "tags": [
+    "BirdNET",
+    "声景分析",
+    "野生动物识别",
+    "自托管",
+    "AI推理",
+    "树莓派",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "tphakala",
+    "stars": 1834,
+    "forks": 163,
+    "daily_stars": 52,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

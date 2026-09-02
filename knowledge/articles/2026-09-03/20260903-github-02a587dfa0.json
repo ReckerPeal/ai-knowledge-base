@@ -1,0 +1,31 @@
+{
+  "id": "20260903-github-02a587dfa0",
+  "title": "anchore/syft",
+  "source": "github_trending",
+  "source_url": "https://github.com/anchore/syft",
+  "summary": "Syft 是一个用于从容器镜像和文件系统生成软件物料清单（SBOM）的 CLI 工具和库。",
+  "content": "Syft 是 Anchore 公司开发的开源工具，主要功能是从容器镜像和文件系统扫描并生成 SBOM（软件物料清单）。它支持多种包格式（如 APK、DPKG、RPM 等）和多种输出格式（如 SPDX、CycloneDX 等），广泛应用于软件供应链安全领域。该项目在 GitHub 上拥有 9502 颗星，943 个 fork，近期每日新增约 6 颗星，热度持续上升。",
+  "tags": [
+    "SBOM",
+    "容器安全",
+    "软件供应链",
+    "CLI",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "anchore",
+    "stars": 9502,
+    "forks": 943,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

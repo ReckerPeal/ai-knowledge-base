@@ -1,0 +1,40 @@
+{
+  "id": "20260903-github-57ddfa76c5",
+  "title": "casdoor/casdoor",
+  "source": "github_trending",
+  "source_url": "https://github.com/casdoor/casdoor",
+  "summary": "Casdoor 是一个开源的、以 Agent 为先的身份与访问管理（IAM）平台，同时充当 LLM/MCP 的 Agent 网关和认证服务器。它提供 Web UI，并支持 OpenClaw、MCP、OAuth、OIDC、SAML、CAS、LDAP、SCIM、WebAuthn、TOTP、MFA、Face ID、Google Workspace 和 Azure AD 等多种协议和集成。",
+  "content": "Casdoor 是一个用 Go 语言编写的开源身份与访问管理（IAM）系统，其核心理念是“Agent-first”，即面向 AI Agent 和 LLM 应用提供身份认证和访问控制。它不仅是传统的 IAM 平台，还充当 LLM/MCP（Model Context Protocol）的 Agent 网关，使得 AI Agent 能够安全地接入外部服务和数据。\n\n该项目提供了丰富的功能：支持多种标准协议（OAuth、OIDC、SAML、CAS、LDAP、SCIM），以及现代认证方式（WebAuthn、TOTP、MFA、Face ID）。同时，它集成了主流企业服务（Google Workspace、Azure AD），并支持 OpenClaw 等 Agent 框架。Casdoor 拥有直观的 Web UI，方便管理员进行配置和管理。\n\n在 GitHub 上，Casdoor 表现活跃，拥有 14k+ 星标和 1.8k 分支，近期日增星标约 20，显示出社区的高度关注。该项目主要使用 Go 语言开发，适合需要为 AI 应用或传统应用提供统一身份认证和授权管理的开发者或企业。",
+  "tags": [
+    "IAM",
+    "身份认证",
+    "访问管理",
+    "AI Agent",
+    "LLM",
+    "MCP",
+    "OAuth",
+    "OIDC",
+    "SAML",
+    "LDAP",
+    "WebAuthn",
+    "MFA",
+    "Go",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "casdoor",
+    "stars": 14330,
+    "forks": 1797,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

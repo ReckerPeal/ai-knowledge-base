@@ -1,0 +1,32 @@
+{
+  "id": "20260903-github-6f27db8df7",
+  "title": "fujiapple852/trippy",
+  "source": "github_trending",
+  "source_url": "https://github.com/fujiapple852/trippy",
+  "summary": "Trippy 是一款基于 Rust 的网络诊断工具，结合了 traceroute 和 ping 的功能，提供丰富的可视化界面和实时数据，用于分析网络路径和性能。",
+  "content": "Trippy 是一个用 Rust 编写的网络诊断工具，它融合了 traceroute 和 ping 的功能，能够对网络路径进行实时追踪和测量。该工具提供了终端用户界面（TUI），以直观的方式展示每一跳的延迟、丢包率等关键指标，帮助用户快速定位网络故障。Trippy 支持多种协议（如 ICMP、UDP、TCP），并具备并行探测、数据聚合、地理信息显示等高级特性。其设计注重性能与可扩展性，适合网络工程师、系统管理员以及开发者使用。该项目在 GitHub 上热度较高，拥有 7796 颗星，近期每日新增约 27 颗星，显示出社区的高度关注。",
+  "tags": [
+    "网络诊断",
+    "traceroute",
+    "ping",
+    "Rust",
+    "TUI",
+    "网络工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:51+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "fujiapple852",
+    "stars": 7796,
+    "forks": 280,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

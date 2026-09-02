@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-b80fd58786",
+  "title": "elysiajs/elysia",
+  "source": "github_trending",
+  "source_url": "https://github.com/elysiajs/elysia",
+  "summary": "Elysia 是一个为人类设计的符合人体工程学的 TypeScript 框架，旨在提供优雅、高效且类型安全的 Web 开发体验。",
+  "content": "Elysia 是一个基于 TypeScript 的 Web 框架，其核心理念是“为人类设计的人体工程学框架”。它强调开发者的使用体验，通过简洁的 API 和强大的类型推断，让开发者能够快速构建高性能的服务器端应用。该框架在 GitHub 上拥有超过 1.9 万颗星，近期周增长 89 颗星，显示出活跃的社区关注度。Elysia 的主要特点包括：\n- 端到端的类型安全，无需额外代码生成；\n- 基于标准 Web 标准（如 Fetch API）构建，兼容 Bun 和 Node.js；\n- 内置验证、序列化和错误处理，减少样板代码；\n- 插件系统支持扩展功能，如 CORS、JWT 等。\n该框架适合追求开发效率和代码质量的 TypeScript 开发者，尤其适合构建 REST API 和微服务。",
+  "tags": [
+    "TypeScript",
+    "Web框架",
+    "后端开发",
+    "人体工程学",
+    "类型安全",
+    "Bun",
+    "Node.js"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:28:59+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "elysiajs",
+    "stars": 19057,
+    "forks": 586,
+    "daily_stars": null,
+    "weekly_stars": 89,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

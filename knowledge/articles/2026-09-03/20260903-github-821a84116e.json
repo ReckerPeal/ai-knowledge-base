@@ -1,0 +1,33 @@
+{
+  "id": "20260903-github-821a84116e",
+  "title": "embassy-rs/embassy",
+  "source": "github_trending",
+  "source_url": "https://github.com/embassy-rs/embassy",
+  "summary": "Embassy 是一个基于 Rust 和 async/await 的现代嵌入式框架，旨在为嵌入式系统提供安全、高效且易于使用的异步开发体验。",
+  "content": "Embassy 是 Rust 生态中备受关注的嵌入式异步框架，它利用 Rust 语言的内存安全和并发特性，结合 async/await 语法，为微控制器等资源受限环境提供高性能的异步运行时。该项目在 GitHub 上拥有近万星标，社区活跃，持续迭代。Embassy 的核心优势包括：\n- 异步执行器：为嵌入式设备优化的轻量级异步运行时，支持多任务协作。\n- 硬件抽象层：提供统一的 API 访问外设（如 GPIO、UART、SPI、I2C 等），支持多种主流芯片（如 STM32、nRF 等）。\n- 时间驱动：内置定时器和延时功能，便于实现实时控制。\n- 安全与可靠：利用 Rust 的所有权模型和类型系统，在编译期消除数据竞争和未定义行为。\n- 生态集成：与 Rust 嵌入式生态（如 embedded-hal）兼容，并提供丰富的示例和文档。\nEmbassy 适合开发物联网设备、无人机、机器人等需要高并发和低功耗的嵌入式应用。其设计理念是让嵌入式开发更现代、更安全，同时保持接近底层的性能。",
+  "tags": [
+    "Rust",
+    "嵌入式",
+    "异步框架",
+    "async/await",
+    "微控制器",
+    "实时系统",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-03T01:29:02+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "embassy-rs",
+    "stars": 9763,
+    "forks": 1645,
+    "daily_stars": null,
+    "weekly_stars": 25,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
