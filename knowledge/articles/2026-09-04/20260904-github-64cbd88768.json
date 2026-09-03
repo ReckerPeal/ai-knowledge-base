@@ -1,0 +1,32 @@
+{
+  "id": "20260904-github-64cbd88768",
+  "title": "coredns/coredns",
+  "source": "github_trending",
+  "source_url": "https://github.com/coredns/coredns",
+  "summary": "CoreDNS 是一个采用插件链架构的 DNS 服务器，能够灵活扩展功能。",
+  "content": "CoreDNS 是一个用 Go 语言编写的开源 DNS 服务器，其核心设计理念是“插件链”，即通过串联多个插件来处理 DNS 请求，从而实现高度的模块化和可扩展性。它支持丰富的插件，例如缓存、重写、转发、健康检查等，用户可以根据需求组合插件来构建定制化的 DNS 服务。CoreDNS 是云原生计算基金会（CNCF）的毕业项目，广泛用于 Kubernetes 集群中的服务发现。该仓库当前拥有 14287 颗星和 2521 个 fork，社区活跃，持续维护中。",
+  "tags": [
+    "DNS",
+    "Go",
+    "插件化",
+    "云原生",
+    "Kubernetes",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "coredns",
+    "stars": 14287,
+    "forks": 2521,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

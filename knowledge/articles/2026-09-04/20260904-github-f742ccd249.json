@@ -1,0 +1,32 @@
+{
+  "id": "20260904-github-f742ccd249",
+  "title": "kopia/kopia",
+  "source": "github_trending",
+  "source_url": "https://github.com/kopia/kopia",
+  "summary": "Kopia 是一款跨平台备份工具，支持 Windows、macOS 和 Linux，提供快速增量备份、客户端端到端加密、压缩和数据去重功能，并包含命令行和图形界面。",
+  "content": "Kopia 是一个用 Go 语言开发的开源备份工具，旨在提供高效、安全的备份解决方案。它支持多种操作系统，包括 Windows、macOS 和 Linux。其核心特性包括：\n- 快速增量备份：仅备份更改的数据块，节省时间和存储空间。\n- 客户端端到端加密：数据在传输和存储前加密，确保隐私安全。\n- 压缩和数据去重：减少存储占用，提高备份效率。\n- 双界面：提供 CLI（命令行）和 GUI（图形用户界面），满足不同用户需求。\n该项目在 GitHub 上活跃，拥有超过 1.4 万星标，社区活跃，持续更新。",
+  "tags": [
+    "备份工具",
+    "跨平台",
+    "增量备份",
+    "加密",
+    "数据去重",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kopia",
+    "stars": 14027,
+    "forks": 722,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260904-github-f4071c3ee0",
+  "title": "eneskirca/nodeterm",
+  "source": "github_trending",
+  "source_url": "https://github.com/eneskirca/nodeterm",
+  "summary": "eneskirca/nodeterm 是一个基于节点的终端管理器，专为 AI 编码代理设计。它利用 tmux 作为后端，支持并行代理会话，并将这些会话以可拖拽节点的形式呈现在无限平移/缩放画布上。该项目支持 macOS、Linux，并提供浏览器服务器版本。",
+  "content": "## 项目概述\n\nnodeterm 是一个创新的终端管理器，旨在提升 AI 编码代理的工作效率。它通过将多个终端会话组织为可视化节点，使用户能够直观地管理和监控并行运行的代理任务。\n\n## 核心特性\n\n- **基于节点的界面**：终端会话以节点形式呈现，支持拖拽操作，并可在无限画布上自由平移和缩放，提供灵活的工作空间。\n- **tmux 后端**：利用 tmux 的会话管理能力，确保终端会话的稳定性和持久性。\n- **并行代理会话**：支持同时运行多个 AI 代理会话，每个会话独立管理，便于并行处理复杂任务。\n- **跨平台支持**：支持 macOS 和 Linux，并提供浏览器服务器版本，方便远程访问和协作。\n\n## 技术架构\n\n- **语言**：TypeScript，保证了代码的类型安全性和可维护性。\n- **后端**：依赖 tmux，作为终端会话的底层管理工具。\n- **前端**：实现无限画布和节点交互，可能使用 Canvas 或 SVG 技术。\n\n## 适用场景\n\n- **AI 编码代理管理**：适合需要同时运行多个 AI 代理（如代码生成、审查）的开发场景。\n- **并行任务监控**：开发者可以直观地监控多个终端任务的输出和状态。\n- **远程开发**：通过浏览器服务器版本，可在不同设备上访问和管理终端会话。\n\n## 项目热度\n\n- 在 GitHub 上获得 1662 星，169 个 fork，近期日增星 246，显示出较高的社区关注度。\n\n## 总结\n\nnodeterm 为 AI 编码代理提供了一种新颖的可视化管理方式，通过节点画布和 tmux 集成，显著提升了并行任务的操控性和直观性。对于依赖多个 AI 代理的开发者而言，这是一个值得关注的高效工具。",
+  "tags": [
+    "terminal-manager",
+    "tmux",
+    "AI-agents",
+    "node-based-ui",
+    "parallel-sessions",
+    "TypeScript",
+    "developer-tools"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:11+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "eneskirca",
+    "stars": 1662,
+    "forks": 169,
+    "daily_stars": 246,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

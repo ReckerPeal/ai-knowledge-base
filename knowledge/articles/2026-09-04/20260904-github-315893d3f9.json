@@ -1,0 +1,31 @@
+{
+  "id": "20260904-github-315893d3f9",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "summary": "本文探讨了在自然语言处理（NLP）、计算社会科学（CSS）及大语言模型（LLM）评估中，传统测量基础设施（如 Perspective API）的局限性，并总结了从实践中获得的经验教训，为构建更稳健、可复现的评估体系提供了指导。",
+  "content": "本文基于对 Perspective API 等传统毒性检测工具的反思，深入分析了其在 NLP、CSS 和 LLM 评估中的不足，包括：1）依赖单一静态模型，难以适应语言演变和对抗性攻击；2）缺乏透明度和可解释性，导致评估结果难以追溯；3）在跨文化、多语言场景下存在系统性偏差。文章提出，未来的测量基础设施应具备动态更新、多模型集成、可解释性优先和社区参与等特性，并强调在 LLM 评估中需结合人类反馈与自动化指标，以提升评估的效度和信度。文中还讨论了测量误差的来源、基准测试的陷阱以及如何通过开放数据和可复现流程推动领域进步。",
+  "tags": [
+    "NLP",
+    "LLM评估",
+    "测量基础设施",
+    "Perspective API",
+    "计算社会科学",
+    "可解释性",
+    "模型偏差"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-02T06:52:23-05:00",
+  "collected_at": "2026-09-04T01:22:25+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

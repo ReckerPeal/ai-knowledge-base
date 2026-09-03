@@ -1,0 +1,31 @@
+{
+  "id": "20260904-github-0e1a94ec72",
+  "title": "kvcache-ai/ktransformers",
+  "source": "github_trending",
+  "source_url": "https://github.com/kvcache-ai/ktransformers",
+  "summary": "ktransformers 是一个用于体验异构大语言模型推理与微调优化的灵活框架，旨在通过异构计算加速 LLM 的推理和微调过程。",
+  "content": "ktransformers 是一个开源框架，专注于异构 LLM 推理和微调优化。它支持将模型的不同层分配到不同硬件（如 GPU 和 CPU）上，利用异构计算资源提升性能。框架提供了灵活的配置和优化选项，使用户能够针对特定模型和硬件组合进行调优。该项目在 GitHub 上拥有超过 19k 星标，社区活跃，近期获得较多关注。",
+  "tags": [
+    "LLM",
+    "推理优化",
+    "异构计算",
+    "微调",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kvcache-ai",
+    "stars": 19456,
+    "forks": 1559,
+    "daily_stars": null,
+    "weekly_stars": 159,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

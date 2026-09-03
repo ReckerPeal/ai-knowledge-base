@@ -1,0 +1,33 @@
+{
+  "id": "20260904-github-1a01afe6b1",
+  "title": "KeygraphHQ/shannon",
+  "source": "github_trending",
+  "source_url": "https://github.com/KeygraphHQ/shannon",
+  "summary": "Shannon 是一个面向 Web 应用和 API 的 AI 渗透测试工具，通过分析源代码识别攻击向量，并执行真实漏洞利用，在应用上线前验证安全风险。",
+  "content": "Shannon 是一个基于 TypeScript 开发的 AI 渗透测试工具，专注于 Web 应用和 API 的安全检测。其核心功能包括：1) 自动分析源代码，识别潜在的攻击面；2) 利用 AI 模型生成并执行真实的漏洞利用（如 SQL 注入、XSS 等），以证明漏洞的可利用性；3) 在开发阶段提前发现安全问题，减少生产环境的风险。该工具旨在帮助安全团队和开发人员实现 DevSecOps，将安全测试左移。项目在 GitHub 上拥有 47.6k 星标，近期周增长 459 星，显示出较高的社区关注度。",
+  "tags": [
+    "AI",
+    "渗透测试",
+    "安全",
+    "Web应用",
+    "API",
+    "DevSecOps",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:20+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "KeygraphHQ",
+    "stars": 47681,
+    "forks": 5481,
+    "daily_stars": null,
+    "weekly_stars": 459,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

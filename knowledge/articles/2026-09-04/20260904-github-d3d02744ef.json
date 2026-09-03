@@ -1,0 +1,34 @@
+{
+  "id": "20260904-github-d3d02744ef",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "本文详细介绍了从自有可路由IPv4地址段开始，以最困难的方式自托管电子邮件的完整过程。内容涵盖IP地址申请、反向DNS配置、邮件服务器搭建、SPF/DKIM/DMARC认证设置以及邮件投递优化等关键步骤，旨在帮助技术爱好者深入理解电子邮件基础设施的底层运作机制。",
+  "content": "本文是一篇深度技术指南，作者基于自身实践经验，详细阐述了从零开始自托管电子邮件服务的完整流程。文章的核心在于强调“困难模式”，即不使用现成的托管服务或云平台，而是从获取自有可路由IPv4地址段开始，逐步搭建完整的邮件基础设施。\n\n主要内容包括：\n1. **IP地址与网络基础设施**：如何申请并配置自己的IPv4地址段，设置反向DNS（PTR记录），以及确保IP地址的信誉度。\n2. **邮件服务器搭建**：选择并配置邮件传输代理（MTA），如Postfix或Exim，处理SMTP通信。\n3. **认证与安全**：详细配置SPF、DKIM和DMARC，以通过收件方的反垃圾邮件检查，并防止域名被伪造。\n4. **投递优化**：处理退信、监控黑名单、调整发送速率等，确保邮件能够成功送达收件人（尤其是Gmail、Outlook等大型邮箱）。\n5. **运维与监控**：日志分析、故障排查以及持续维护的注意事项。\n\n文章技术性强，适合具备一定网络和Linux基础、希望深入了解电子邮件系统底层原理的开发者或系统管理员。通过这种方式自托管邮件，虽然过程复杂且需要持续维护，但能获得对邮件服务的完全控制，并深刻理解互联网邮件系统的运作机制。",
+  "tags": [
+    "自托管",
+    "电子邮件",
+    "IPv4",
+    "邮件服务器",
+    "SMTP",
+    "DKIM",
+    "SPF",
+    "DMARC",
+    "反垃圾邮件",
+    "系统管理"
+  ],
+  "status": "draft",
+  "published_at": "2026-06-08T16:47:00-05:00",
+  "collected_at": "2026-09-04T01:22:25+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters Machine Learning",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260904-github-e77ccb8ba0",
+  "title": "mlc-ai/web-llm",
+  "source": "github_trending",
+  "source_url": "https://github.com/mlc-ai/web-llm",
+  "summary": "mlc-ai/web-llm 是一个高性能的浏览器内 LLM 推理引擎，支持直接在浏览器中运行大语言模型，无需服务器端推理。",
+  "content": "mlc-ai/web-llm 是一个基于 TypeScript 开发的高性能浏览器内 LLM 推理引擎。它利用 WebGPU 和先进编译技术，将大语言模型（如 Llama、Mistral 等）直接部署到浏览器中，实现完全客户端推理。该项目的核心优势在于：1) 无需服务器，保护隐私；2) 利用本地 GPU 加速，性能接近原生；3) 支持流式输出和多种模型格式。目前项目在 GitHub 上拥有 18.9k stars，周增长 314 stars，社区活跃。适用于需要离线或隐私敏感场景的 AI 应用，如聊天机器人、文档分析等。",
+  "tags": [
+    "LLM",
+    "WebGPU",
+    "浏览器推理",
+    "TypeScript",
+    "机器学习",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:20+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mlc-ai",
+    "stars": 18940,
+    "forks": 1373,
+    "daily_stars": null,
+    "weekly_stars": 314,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260904-github-9f96626e7f",
+  "title": "netalertx/NetAlertX",
+  "source": "github_trending",
+  "source_url": "https://github.com/netalertx/NetAlertX",
+  "summary": "NetAlertX 是一个集中式网络可见性与持续资产发现工具，用于监控设备、检测变更并保持对分布式网络的实时感知。",
+  "content": "NetAlertX 是一个开源的网络监控和资产发现平台，旨在为分布式网络提供集中式的可见性和持续的设备发现能力。它能够自动扫描网络中的设备，跟踪其在线状态、IP 地址、MAC 地址等信息，并在设备发生变化（如新增、移除或属性变更）时发出警报。该项目支持多种网络协议和扫描方法，并提供直观的 Web 界面用于设备管理和历史数据查看。NetAlertX 适合家庭网络、小型企业以及需要跨多个子网或站点进行统一监控的场景，其模块化架构允许用户自定义通知方式（如邮件、Webhook 等）和扫描频率。该项目使用 Python 编写，易于扩展和部署。",
+  "tags": [
+    "网络监控",
+    "资产发现",
+    "设备管理",
+    "Python",
+    "开源",
+    "网络安全",
+    "分布式网络"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "netalertx",
+    "stars": 7027,
+    "forks": 434,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

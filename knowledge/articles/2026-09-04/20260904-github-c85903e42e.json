@@ -1,0 +1,31 @@
+{
+  "id": "20260904-github-c85903e42e",
+  "title": "kaifcodec/user-scanner",
+  "source": "github_trending",
+  "source_url": "https://github.com/kaifcodec/user-scanner",
+  "summary": "user-scanner 是一个集邮箱与用户名于一体的 OSINT 套件，支持从单一输入中深度提取数据，涵盖 465+ 个活跃扫描向量，适用于安全研究、调查和数字足迹分析。",
+  "content": "## 项目概述\n\n**user-scanner** 是一个由 kaifcodec 开发的 2-in-1 OSINT（开源情报）工具，专注于通过邮箱或用户名进行深度数据提取。该项目在 GitHub 上广受关注，目前拥有 4631 颗星，466 个 fork，近期周增长达 1301 颗星，显示出强劲的社区热度。\n\n## 核心功能\n\n- **双模式扫描**：支持邮箱和用户名两种输入模式，覆盖 175+ 邮箱扫描向量和 290+ 用户名扫描向量，总计 465+ 个活跃扫描向量。\n- **深度数据提取**：从单一输入中挖掘关联的公开信息，包括社交媒体档案、泄露数据、网站足迹等。\n- **安全研究用途**：设计用于安全研究、调查取证和数字足迹分析，帮助用户了解自身或目标的在线暴露情况。\n\n## 技术特点\n\n- **语言**：Python，易于扩展和集成。\n- **活跃维护**：扫描向量持续更新，确保覆盖最新平台和数据源。\n- **自动化**：提供自动化扫描流程，减少手动收集信息的工作量。\n\n## 适用场景\n\n- 安全研究人员：评估目标组织的攻击面或员工信息泄露风险。\n- 调查人员：在合法授权下进行人物背景调查。\n- 个人用户：检查自己的数字足迹，增强隐私保护意识。\n\n## 注意事项\n\n- 该工具仅用于合法目的，使用者需遵守当地法律法规和平台服务条款。\n- 数据来源为公开信息，不涉及非法入侵或破解。\n\n## 社区反馈\n\n- 项目在 GitHub 上获得 4631 星，表明其功能实用且受认可。\n- 周增长 1301 星，说明近期更新或宣传带来了显著关注。\n\n## 总结\n\nuser-scanner 是一个功能强大且持续更新的 OSINT 工具，适合安全研究和数字足迹分析。其广泛的扫描向量和易用性使其成为相关领域的重要资源。",
+  "tags": [
+    "OSINT",
+    "安全研究",
+    "信息收集",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-04T01:22:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kaifcodec",
+    "stars": 4631,
+    "forks": 466,
+    "daily_stars": null,
+    "weekly_stars": 1301,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
