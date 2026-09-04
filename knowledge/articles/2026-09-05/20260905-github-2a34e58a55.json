@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-2a34e58a55",
+  "title": "weave-os/router",
+  "source": "github_trending",
+  "source_url": "https://github.com/weave-os/router",
+  "summary": "weave-os/router 是一个面向智能体（Agentic）系统的模型路由器，能够在不到 50 毫秒内将每个提示词路由到最合适的模型，仅需更改端点即可降低 40-70% 的成本。",
+  "content": "## weave-os/router：智能体系统的模型路由器\n\nweave-os/router 是一个专为智能体（Agentic）系统设计的模型路由器，其核心功能是将每个提示词（prompt）在极短时间（<50ms）内路由到最合适的模型，从而优化成本与性能。该项目在 GitHub 上表现活跃，已获得 3830 颗星，近期周增长超过 2000 颗星，显示出社区的高度关注。\n\n### 主要特性\n- **超低延迟路由**：路由决策在 50 毫秒内完成，确保智能体交互的实时性。\n- **显著成本节约**：通过智能选择模型，可降低 40-70% 的 API 成本，仅需更改端点即可集成。\n- **面向智能体系统**：专为需要多模型调度的复杂智能体工作流设计，支持动态决策。\n\n### 技术实现\n项目使用 Go 语言开发，保证了高性能和并发处理能力。其路由算法可能基于模型能力、成本、延迟等多维度指标，实现动态选择。\n\n### 应用场景\n- 多模型 AI 应用：在多个 LLM（如 GPT、Claude、Llama）之间自动选择最优模型。\n- 成本敏感型生产环境：在保证响应质量的同时，大幅降低推理成本。\n- 智能体编排：为每个子任务分配合适的模型，提升整体效率。\n\n### 快速上手\n用户只需将现有 API 端点替换为 router 的端点，即可自动获得路由优化，无需修改业务逻辑。\n\n### 社区与前景\n该项目由 weave-os 团队维护，目前处于快速迭代阶段。随着智能体应用的普及，此类模型路由器将成为基础设施的重要组成部分。",
+  "tags": [
+    "模型路由",
+    "智能体",
+    "成本优化",
+    "Go",
+    "AI基础设施",
+    "低延迟"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:14:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "weave-os",
+    "stars": 3830,
+    "forks": 108,
+    "daily_stars": null,
+    "weekly_stars": 2082,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-db607f8f27",
+  "title": "bikini/exploitarium",
+  "source": "github_trending",
+  "source_url": "https://github.com/bikini/exploitarium",
+  "summary": "exploitarium 是一个公开漏洞利用 PoC 与漏洞研究文章的单一归档库。作者发布这些内容时，均未被报告过，鼓励用户自行报告并获取 CVE 编号。项目旨在吸引更多人进入安全领域，并强调请勿滥用这些漏洞。",
+  "content": "## 项目概述\n\n**exploitarium** 是一个由 GitHub 用户 bikini 维护的公开漏洞利用 PoC（Proof of Concept）和漏洞研究文章的集中归档库。该项目在 GitHub 上受到广泛关注，目前已获得 4450 颗星和 1238 次分叉，日增星约 68 颗，表明其具有较高的活跃度和社区认可度。\n\n## 核心功能与特点\n\n- **单一归档**：将分散的漏洞利用 PoC 和漏洞研究文章集中在一个仓库中，方便安全研究人员查阅和学习。\n- **时效性**：作者在发布时声明这些漏洞尚未被公开报告，因此可能包含较新的安全研究内容。\n- **鼓励报告**：项目鼓励用户自行向相关机构报告漏洞，并获取 CVE 编号，以促进漏洞的正式披露和修复。\n- **教育目的**：作者明确表示，该项目旨在吸引更多人进入安全领域，并认为这是最有效的学习方式。\n\n## 使用说明与注意事项\n\n- **合法合规**：项目强调“请勿滥用这些漏洞”，使用者应仅将内容用于教育、研究或合法授权测试，严禁用于非法攻击。\n- **风险自负**：由于漏洞可能未被修复，使用或测试这些 PoC 可能带来安全风险，使用者需自行承担。\n- **贡献与反馈**：用户可以通过报告漏洞、提交改进或参与讨论来为项目做出贡献。\n\n## 技术栈与语言\n\n项目主要使用 Python 编写，适合安全研究人员、渗透测试人员以及网络安全学习者使用。\n\n## 社区与影响\n\n该项目在 GitHub 上属于热门 Python 项目，其高星数和分叉数反映了社区对漏洞研究资源的强烈需求。通过集中公开 PoC，它降低了安全研究的学习门槛，但也引发了关于漏洞披露伦理的讨论。",
+  "tags": [
+    "漏洞利用",
+    "PoC",
+    "安全研究",
+    "CVE",
+    "GitHub",
+    "Python",
+    "漏洞披露"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bikini",
+    "stars": 4450,
+    "forks": 1238,
+    "daily_stars": 68,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260905-github-92626a32d4",
+  "title": "actions/actions-runner-controller",
+  "source": "github_trending",
+  "source_url": "https://github.com/actions/actions-runner-controller",
+  "summary": "actions-runner-controller 是一个用于在 Kubernetes 上管理 GitHub Actions 自托管运行器的控制器。",
+  "content": "actions-runner-controller 是一个 Kubernetes 控制器，用于在 Kubernetes 集群中自动部署和扩展 GitHub Actions 的自托管运行器。它允许用户利用 Kubernetes 的弹性来按需运行 GitHub Actions 作业，从而节省成本并提高灵活性。该项目由 GitHub 官方组织 actions 维护，使用 Go 语言开发，目前在 GitHub 上拥有 6479 颗星和 1471 个 fork，是 GitHub 热点 Go 项目之一。",
+  "tags": [
+    "Kubernetes",
+    "GitHub Actions",
+    "自托管运行器",
+    "控制器",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "actions",
+    "stars": 6479,
+    "forks": 1471,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

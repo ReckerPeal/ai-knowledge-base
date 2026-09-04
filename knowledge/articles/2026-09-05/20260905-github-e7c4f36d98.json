@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-e7c4f36d98",
+  "title": "huangruiteng/loopx",
+  "source": "github_trending",
+  "source_url": "https://github.com/huangruiteng/loopx",
+  "summary": "LoopX 是一个面向长期运行智能体的控制平面，旨在为 Codex、Claude Code 及其他智能体框架提供持久、可治理的工作流管理。",
+  "content": "LoopX 是一个开源项目，专注于解决长期运行（long-horizon）智能体任务中的控制与治理问题。它作为一个控制平面，统一管理多个智能体框架（如 Codex、Claude Code 等），提供持久化状态、任务编排、权限治理和可观测性等功能。该项目基于 Python 实现，适合需要复杂多步骤自动化任务的开发团队，帮助提升智能体运行的可靠性和可控性。",
+  "tags": [
+    "agent",
+    "control-plane",
+    "governance",
+    "automation",
+    "python",
+    "codex",
+    "claude-code"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "huangruiteng",
+    "stars": 5599,
+    "forks": 500,
+    "daily_stars": 82,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

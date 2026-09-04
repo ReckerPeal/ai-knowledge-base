@@ -1,0 +1,34 @@
+{
+  "id": "20260905-github-a98972768a",
+  "title": "crossplane/crossplane",
+  "source": "github_trending",
+  "source_url": "https://github.com/crossplane/crossplane",
+  "summary": "Crossplane 是一个开源的云原生控制平面项目，旨在通过 Kubernetes 风格的 API 来管理和编排云基础设施。它允许用户使用统一的声明式配置来管理多个云提供商的资源，如 AWS、Azure 和 GCP，从而实现基础设施即代码和平台工程。该项目在 GitHub 上拥有超过 1.2 万星标，是云原生领域的热门项目。",
+  "content": "Crossplane 是一个基于 Kubernetes 的控制平面框架，它扩展了 Kubernetes 的能力，使其能够管理和编排云资源。其核心思想是将云资源（如数据库、存储、网络等）建模为 Kubernetes 的自定义资源（CRD），用户可以通过 kubectl 或 GitOps 工作流来声明式地创建和管理这些资源。\n\n主要特点包括：\n- **统一抽象**：提供统一的 API 来管理不同云提供商的资源，减少供应商锁定。\n- **控制平面**：作为独立的控制平面运行，可以管理多个 Kubernetes 集群和云环境。\n- **组合**：支持将多个云资源组合成更高层次的抽象，如定义一个“数据库”资源，内部包含数据库实例、网络和安全组。\n- **策略与治理**：通过策略引擎（如 OPA）实现资源创建的合规性检查。\n- **生态集成**：与 Argo CD、Flux 等 GitOps 工具无缝集成。\n\n该项目使用 Go 语言开发，活跃度较高，社区贡献者众多。它适用于需要多云管理、平台工程或内部开发者平台（IDP）的团队。",
+  "tags": [
+    "cloud-native",
+    "control-plane",
+    "kubernetes",
+    "infrastructure-as-code",
+    "multi-cloud",
+    "go",
+    "gitops",
+    "platform-engineering"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "crossplane",
+    "stars": 12025,
+    "forks": 1250,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

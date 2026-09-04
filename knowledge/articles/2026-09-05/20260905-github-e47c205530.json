@@ -1,0 +1,34 @@
+{
+  "id": "20260905-github-e47c205530",
+  "title": "nashsu/llm_wiki",
+  "source": "github_trending",
+  "source_url": "https://github.com/nashsu/llm_wiki",
+  "summary": "LLM Wiki 是一款跨平台桌面应用，能将文档自动转化为组织化、互联的知识库。它摒弃了传统 RAG 每次从头检索-回答的模式，而是由 LLM 增量构建并维护一个持久化的 wiki。",
+  "content": "LLM Wiki 是一款基于 TypeScript 开发的跨平台桌面应用，核心创新在于将文档管理从传统 RAG 模式升级为增量式知识库构建。传统 RAG 每次查询都需从原始文档中检索并生成回答，效率低且缺乏上下文连贯性。LLM Wiki 则利用 LLM 自动分析文档内容，逐步抽取实体、概念及其关联，构建一个持久化的、结构化的 wiki 知识图谱。该知识图谱会随新文档的加入而动态更新，支持交叉引用和语义链接，用户可像浏览维基百科一样在知识节点间导航。应用界面友好，适合个人知识管理、研究资料整理等场景。项目在 GitHub 上获得 17404 星，周增 470 星，社区关注度高，表明其解决了文档管理的痛点，并代表了知识管理工具的新方向。",
+  "tags": [
+    "LLM",
+    "知识库",
+    "RAG",
+    "桌面应用",
+    "TypeScript",
+    "文档管理",
+    "知识图谱",
+    "增量学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:58+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "nashsu",
+    "stars": 17404,
+    "forks": 2056,
+    "daily_stars": null,
+    "weekly_stars": 470,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

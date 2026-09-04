@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-7532557cdf",
+  "title": "google-deepmind/weathernext",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-deepmind/weathernext",
+  "summary": "google-deepmind/weathernext 是一个由 Google DeepMind 开发的开源项目，专注于下一代天气预报技术。该项目在 GitHub 上受到广泛关注，拥有 7623 颗星和 980 个分支，近期日增星约 13 颗，显示出持续的热度。项目主要使用 Python 编写，旨在通过先进的机器学习模型提升天气预报的准确性和效率。",
+  "content": "## 项目概述\nweathernext 是 Google DeepMind 推出的天气预报项目，代表了 AI 在气象领域的前沿应用。项目结合深度学习与气象学，致力于提供更精准、更长期的天气预报服务。\n\n## 核心特点\n- **先进模型**：采用深度生成模型，如扩散模型，对天气状态进行高分辨率预测。\n- **开源生态**：提供完整代码和预训练模型，方便研究者和开发者复现与扩展。\n- **数据驱动**：基于历史气象数据训练，支持多种气象变量预测。\n\n## 技术架构\n项目主要使用 Python，依赖 PyTorch 等深度学习框架。代码结构清晰，包含数据处理、模型训练、评估和推理模块。\n\n## 应用场景\n- 气象研究：为科研人员提供基准模型和工具。\n- 灾害预警：提高极端天气事件的预测能力。\n- 能源与农业：辅助风能、太阳能发电预测和农作物管理。\n\n## 社区影响\n作为 Google DeepMind 的开源项目，weathernext 吸引了大量关注，star 数超过 7600，表明其在 AI 和气象交叉领域的重要地位。",
+  "tags": [
+    "AI",
+    "天气预报",
+    "深度学习",
+    "Python",
+    "Google DeepMind",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "google-deepmind",
+    "stars": 7623,
+    "forks": 980,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

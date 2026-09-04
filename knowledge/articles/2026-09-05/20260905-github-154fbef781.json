@@ -1,0 +1,31 @@
+{
+  "id": "20260905-github-154fbef781",
+  "title": "p-e-w/heretic",
+  "source": "github_trending",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "summary": "Heretic 是一个用于语言模型的自动化审查移除工具，能够自动识别并绕过模型中的审查机制，实现内容的自由生成。该项目在 GitHub 上受到广泛关注，拥有超过 3 万星标，近期增长迅速。",
+  "content": "Heretic 是一个开源工具，旨在自动移除语言模型中的审查限制。它通过分析模型输出，识别被审查的内容，并采用提示注入、解码策略调整等技术手段，使模型能够生成原本被禁止的内容。该项目主要面向研究人员和开发者，用于测试模型的安全性和审查机制的漏洞。其核心功能包括：自动检测审查模式、动态生成绕过策略、支持多种主流语言模型。项目使用 Python 编写，提供了命令行接口和 Python API，便于集成。需要注意的是，该工具可能被滥用，因此使用时需遵守相关法律法规和道德准则。",
+  "tags": [
+    "语言模型",
+    "审查绕过",
+    "AI安全",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:55+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "p-e-w",
+    "stars": 30418,
+    "forks": 3365,
+    "daily_stars": null,
+    "weekly_stars": 2146,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

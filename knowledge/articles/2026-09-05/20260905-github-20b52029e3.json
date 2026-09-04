@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-20b52029e3",
+  "title": "magnitudedev/magnitude",
+  "source": "github_trending",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "summary": "Magnitude 是一个开源推理服务器，能够根据用户硬件自动选择并运行最佳本地模型，并可与现有 AI 代理（如 Pi、OpenCode、Hermes 等）无缝集成。",
+  "content": "Magnitude 是一个开源推理服务器，旨在简化本地 AI 模型的部署与使用。其核心功能是根据用户硬件配置自动选择并运行最适合的本地模型，从而优化推理性能。该工具强调与主流 AI 代理的兼容性，支持 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline 等，用户无需更换现有工具链即可接入本地推理能力。项目采用 TypeScript 开发，在 GitHub 上表现活跃，近期获得较高关注（周增星 619），适合追求数据隐私、低延迟或离线推理的开发者。",
+  "tags": [
+    "推理服务器",
+    "本地模型",
+    "AI代理",
+    "TypeScript",
+    "开源",
+    "硬件适配"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:47+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "magnitudedev",
+    "stars": 2260,
+    "forks": 159,
+    "daily_stars": 395,
+    "weekly_stars": 619,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

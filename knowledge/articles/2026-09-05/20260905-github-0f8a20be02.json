@@ -1,0 +1,31 @@
+{
+  "id": "20260905-github-0f8a20be02",
+  "title": "actions/checkout",
+  "source": "github_trending",
+  "source_url": "https://github.com/actions/checkout",
+  "summary": "actions/checkout 是 GitHub Actions 官方提供的仓库检出操作，用于在 workflow 中检出仓库代码，是 CI/CD 流程的基础组件。",
+  "content": "## actions/checkout 项目分析\n\n### 项目概述\nactions/checkout 是 GitHub 官方维护的 Action，用于在 GitHub Actions 工作流中检出（checkout）仓库代码。它允许工作流访问仓库内容，是几乎所有 CI/CD 流程的第一步。该项目使用 TypeScript 编写，拥有 8839 星和 2776 分支，近期周增 173 星，表现活跃。\n\n### 核心功能\n- **检出仓库**：将仓库代码检出到 runner 的工作目录，支持指定分支、标签或提交 SHA。\n- **子模块支持**：可配置是否检出子模块，支持递归检出。\n- **路径过滤**：支持检出到指定路径，便于多仓库操作。\n- **持久化认证**：保留 Git 凭据，便于后续操作（如推送）。\n- **稀疏检出**：支持稀疏检出，仅获取所需文件，提高效率。\n- **LFS 支持**：可配置是否检出 Git LFS 文件。\n\n### 技术特点\n- 基于 Node.js 和 TypeScript，使用 GitHub Actions Toolkit 开发。\n- 跨平台支持（Linux、macOS、Windows）。\n- 高度可配置，通过输入参数灵活控制行为。\n- 官方维护，与 GitHub 平台深度集成，稳定可靠。\n\n### 使用场景\n- 在 CI 流程中获取代码以进行构建、测试。\n- 在 CD 流程中部署前获取指定版本代码。\n- 多仓库协作时，检出多个仓库。\n\n### 评价\nactions/checkout 是 GitHub Actions 生态中最基础且重要的 Action 之一，其设计简洁、文档完善，是自动化工作流的基石。对于任何使用 GitHub Actions 的开发者，掌握其用法是必备技能。",
+  "tags": [
+    "GitHub Actions",
+    "CI/CD",
+    "TypeScript",
+    "官方Action",
+    "代码检出"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:58+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "actions",
+    "stars": 8839,
+    "forks": 2776,
+    "daily_stars": null,
+    "weekly_stars": 173,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

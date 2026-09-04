@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-2bdd02b49a",
+  "title": "lbjlaq/Antigravity-Manager",
+  "source": "github_trending",
+  "source_url": "https://github.com/lbjlaq/Antigravity-Manager",
+  "summary": "Antigravity-Manager 是一款专业的 Antigravity 账号管理与切换工具，提供一键无缝账号切换功能。项目基于 Tauri v2 和 React 构建，后端使用 Rust，旨在提升 Antigravity 工具的使用效率。",
+  "content": "## 项目概述\n\nAntigravity-Manager 是一个专注于 Antigravity 账号管理的桌面应用，核心功能是支持多账号的一键切换，简化用户在不同账号间的操作流程。项目采用 Tauri v2 框架，结合 React 前端和 Rust 后端，实现了轻量、高性能的跨平台桌面应用。\n\n## 技术亮点\n\n- **Tauri v2 + React**：利用 Tauri 的安全性和性能优势，前端使用 React 构建用户界面，后端逻辑由 Rust 提供，确保应用体积小、运行效率高。\n- **账号管理**：支持多账号的集中管理，用户可快速添加、删除和切换账号，操作简单直观。\n- **无缝切换**：通过自动化流程，实现账号切换的“一键”操作，减少手动配置的繁琐步骤。\n\n## 应用场景\n\n适用于需要频繁切换 Antigravity 账号的用户，如开发者、测试人员或使用多个工作账号的从业者，可显著提升工作效率。\n\n## 社区反馈\n\n项目在 GitHub 上表现活跃，已获得 31k+ Star，日增约 52 Star，周增 264 Star，显示出较强的社区关注度和用户需求。",
+  "tags": [
+    "Tauri",
+    "React",
+    "Rust",
+    "账号管理",
+    "桌面应用",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lbjlaq",
+    "stars": 31010,
+    "forks": 3334,
+    "daily_stars": 52,
+    "weekly_stars": 264,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260905-github-821a84116e",
+  "title": "embassy-rs/embassy",
+  "source": "github_trending",
+  "source_url": "https://github.com/embassy-rs/embassy",
+  "summary": "Embassy 是一个基于 Rust 和 async/await 的现代嵌入式开发框架，旨在为嵌入式系统提供安全、高效且易于使用的异步运行时。",
+  "content": "Embassy 是 Rust 生态中备受关注的嵌入式异步框架，当前在 GitHub 上拥有 9783 颗星和 1646 个 fork，周增长 33 颗星，显示出持续的热度。该项目利用 Rust 语言的内存安全和零成本抽象，结合 async/await 语法，为微控制器（MCU）开发提供了全新的编程模型。Embassy 的核心优势包括：内置异步执行器（executor）、硬件抽象层（HAL）、时间驱动（time driver）以及对外设的异步支持，使得开发者能够编写非阻塞、高并发的嵌入式应用。它支持多种主流芯片系列（如 STM32、nRF、ESP 等），并提供了丰富的示例和文档。Embassy 的设计理念是让嵌入式开发更接近现代软件工程实践，同时保持对底层硬件的完全控制。该项目由 embassy-rs 组织维护，社区活跃，是 Rust 嵌入式领域的重要力量。",
+  "tags": [
+    "Rust",
+    "嵌入式",
+    "异步",
+    "async/await",
+    "框架",
+    "HAL",
+    "MCU",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:14:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "embassy-rs",
+    "stars": 9783,
+    "forks": 1646,
+    "daily_stars": null,
+    "weekly_stars": 33,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

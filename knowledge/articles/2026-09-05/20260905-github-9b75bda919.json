@@ -1,0 +1,34 @@
+{
+  "id": "20260905-github-9b75bda919",
+  "title": "MadsLorentzen/ai-job-search",
+  "source": "github_trending",
+  "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "summary": "ai-job-search 是一个基于 Claude Code 构建的 AI 求职应用框架，能够在本地运行，自动评估职位描述、定制简历、撰写求职信并准备面试。该项目在 GitHub 上获得超过 4 万星标，支持用户 Fork 后完全自主掌控求职流程。",
+  "content": "## 项目概述\n\n**ai-job-search** 是一个开源的 AI 求职自动化框架，由 MadsLorentzen 开发，旨在将求职流程完全本地化、自动化。它基于 Claude Code 构建，利用 AI 能力帮助求职者高效处理职位搜索、申请和面试准备等环节。\n\n## 核心功能\n\n- **职位评估**：自动分析职位描述，匹配用户技能与需求。\n- **简历定制**：根据目标职位自动调整简历内容，突出相关经验。\n- **求职信生成**：为每个职位生成个性化的求职信。\n- **面试准备**：提供模拟面试问题和准备建议。\n\n## 技术特点\n\n- **本地运行**：所有数据处理在用户机器上完成，保护隐私。\n- **基于 Claude Code**：利用 Claude 的代码理解和生成能力。\n- **高度可定制**：用户可 Fork 项目，根据自身需求修改和扩展。\n\n## 社区与热度\n\n- **星标数**：40,729（截至 2026-09-05）\n- **Fork 数**：13,861\n- **周增长**：3,451 星标，显示出强劲的社区关注度。\n\n## 适用场景\n\n适合正在积极求职的开发者、希望自动化求职流程的技术人员，以及对 AI 辅助求职工具感兴趣的研究者。",
+  "tags": [
+    "AI",
+    "求职",
+    "自动化",
+    "Claude Code",
+    "简历",
+    "面试",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:55+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MadsLorentzen",
+    "stars": 40729,
+    "forks": 13861,
+    "daily_stars": null,
+    "weekly_stars": 3451,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-64e0a6c79b",
+  "title": "eriklindernoren/ML-From-Scratch",
+  "source": "github_trending",
+  "source_url": "https://github.com/eriklindernoren/ML-From-Scratch",
+  "summary": "ML-From-Scratch 是一个用纯 NumPy 实现机器学习模型和算法的开源项目，旨在通过简洁的代码帮助学习者理解从线性回归到深度学习等核心概念。",
+  "content": "## 项目概述\nML-From-Scratch 是一个广受欢迎的教育型开源项目，由 Erik Lindernoren 创建，目前拥有超过 32.6k 星标和 5.4k 分支。该项目强调可访问性，所有模型和算法均使用最基础的 NumPy 库实现，不依赖高级机器学习框架（如 TensorFlow 或 PyTorch），从而让学习者能够深入理解每个算法的内部工作原理。\n\n## 核心内容\n项目涵盖了机器学习的主要领域，包括但不限于：\n- **监督学习**：线性回归、逻辑回归、支持向量机、决策树、随机森林等。\n- **无监督学习**：K-means 聚类、主成分分析（PCA）、高斯混合模型等。\n- **深度学习**：从零实现神经网络、反向传播、卷积神经网络（CNN）、循环神经网络（RNN）等。\n- **强化学习**：Q-learning、策略梯度等基础算法。\n\n每个算法都配有清晰的代码实现和示例，便于读者结合理论进行实践。\n\n## 项目价值\n- **教育意义**：适合机器学习初学者和希望深入理解算法细节的开发者。\n- **代码简洁**：使用 NumPy 实现，代码量少且易读，便于学习。\n- **社区活跃**：项目持续获得关注，每日新增星标约 32 个，表明其长期价值。\n\n## 适用人群\n- 机器学习初学者，希望从零开始理解算法。\n- 数据科学家或工程师，希望巩固算法基础。\n- 教育工作者，可将其作为教学辅助材料。\n\n## 总结\nML-From-Scratch 是一个高质量的教育资源，通过从零实现的方式，帮助学习者摆脱黑盒思维，真正掌握机器学习算法的精髓。",
+  "tags": [
+    "机器学习",
+    "NumPy",
+    "深度学习",
+    "教育",
+    "算法实现",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:44+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "eriklindernoren",
+    "stars": 32611,
+    "forks": 5451,
+    "daily_stars": 32,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

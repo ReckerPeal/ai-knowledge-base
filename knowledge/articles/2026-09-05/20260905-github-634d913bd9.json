@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-634d913bd9",
+  "title": "JetBrains/go-modern-guidelines",
+  "source": "github_trending",
+  "source_url": "https://github.com/JetBrains/go-modern-guidelines",
+  "summary": "JetBrains 发布的《Go 现代编程指南》，旨在帮助 AI 编码代理编写更符合现代 Go 实践的代码，涵盖项目结构、并发、错误处理等最佳实践。",
+  "content": "## 项目概述\n\nJetBrains/go-modern-guidelines 是一个由 JetBrains 维护的开源指南项目，专注于为 AI 编码代理（如 Copilot、Codex 等）提供编写现代 Go 代码的规范。项目以 Markdown 文档形式呈现，内容精炼，直击要点，适合作为 AI 辅助开发时的提示词或规则库。\n\n## 核心内容\n\n指南覆盖了现代 Go 开发中的关键主题，包括但不限于：\n- **项目结构**：推荐使用 cmd/、internal/ 等标准布局，避免过度嵌套。\n- **并发模型**：强调 goroutine 和 channel 的正确使用，避免数据竞争。\n- **错误处理**：推荐使用 errors.Is/As 进行错误判断，避免裸返回错误。\n- **代码风格**：遵循 gofmt 和 go vet，使用 context 传递取消信号。\n- **依赖管理**：使用 Go modules，保持依赖最小化。\n\n## 适用场景\n\n- **AI 编码代理**：可直接将指南内容作为系统提示词，提升生成代码的质量。\n- **Go 开发者**：作为日常开发的快速参考，尤其适合团队统一编码规范。\n- **教学培训**：用于讲解现代 Go 最佳实践。\n\n## 项目特点\n\n- **权威性**：由 JetBrains（GoLand 开发商）维护，内容专业可靠。\n- **简洁性**：文档短小精悍，便于快速查阅和嵌入 AI 工作流。\n- **社区活跃**：GitHub 星标 3157，近期增长迅速（周增 1213），说明其价值被广泛认可。\n\n## 总结\n\n该项目是 Go 语言与 AI 编程结合的重要资源，对于希望提升 AI 辅助开发效率的团队和个人具有很高的参考价值。",
+  "tags": [
+    "Go",
+    "AI 编程",
+    "最佳实践",
+    "JetBrains",
+    "代码规范",
+    "开发指南"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:14:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "JetBrains",
+    "stars": 3157,
+    "forks": 88,
+    "daily_stars": null,
+    "weekly_stars": 1213,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

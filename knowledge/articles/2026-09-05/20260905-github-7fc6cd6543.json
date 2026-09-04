@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "TecharoHQ/anubis 是一个用 Go 编写的开源项目，通过分析 HTTP 请求的特征来识别并阻止 AI 爬虫的访问。",
+  "content": "该项目名为 anubis，灵感来源于埃及神话中的阿努比斯（Anubis），它负责称量灵魂的重量。该项目通过类似的方式，对进入的 HTTP 请求进行“称重”，即分析请求的行为特征，以区分真实用户和 AI 爬虫。它旨在保护网站内容不被 AI 模型随意抓取，同时尽量减少对正常用户的影响。项目使用 Go 语言开发，具有较高的性能和并发处理能力。目前该项目在 GitHub 上已获得超过 2.2 万颗星，显示出社区的高度关注。",
+  "tags": [
+    "AI爬虫",
+    "反爬虫",
+    "HTTP请求分析",
+    "Go",
+    "安全",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:14:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 22128,
+    "forks": 709,
+    "daily_stars": null,
+    "weekly_stars": 369,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

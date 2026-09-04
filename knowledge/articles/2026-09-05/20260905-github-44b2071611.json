@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-44b2071611",
+  "title": "project-zot/zot",
+  "source": "github_trending",
+  "source_url": "https://github.com/project-zot/zot",
+  "summary": "zot 是一个生产就绪、厂商中立的 OCI 原生容器镜像/制品仓库，基于 OCI 分发规范实现，支持水平扩展。",
+  "content": "zot 是一个用 Go 语言编写的容器镜像/制品仓库，完全遵循 OCI 分发规范，旨在提供生产级、厂商中立的解决方案。其核心特性包括：\n\n- **OCI 原生**：严格遵循 OCI 镜像规范和分发规范，支持 OCI 制品（如 Helm Chart、CNAB 等）。\n- **水平扩展**：设计为可扩展架构，支持大规模镜像存储和分发，满足企业级需求。\n- **生产就绪**：强调稳定性和安全性，适合在生产环境中部署。\n- **厂商中立**：不绑定特定云厂商，可部署在本地或任意云环境。\n\nzot 在 GitHub 上获得 2698 星，近期热度上升（日增 9 星），表明社区关注度较高。其 Go 语言实现保证了高性能和低资源占用，适合作为轻量级替代方案（如对比 Harbor、Docker Registry）。",
+  "tags": [
+    "OCI",
+    "容器镜像",
+    "制品仓库",
+    "Go",
+    "生产级",
+    "水平扩展",
+    "厂商中立"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "project-zot",
+    "stars": 2698,
+    "forks": 270,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

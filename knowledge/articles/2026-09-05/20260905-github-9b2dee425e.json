@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-9b2dee425e",
+  "title": "slackhq/nebula",
+  "source": "github_trending",
+  "source_url": "https://github.com/slackhq/nebula",
+  "summary": "Nebula 是 Slack 开发的可扩展覆盖网络工具，专注于高性能、简单性和安全性。",
+  "content": "Nebula 是一个可扩展的覆盖网络工具，旨在连接大量主机，同时保持高性能、简单性和安全性。它使用现代密码学（如 X25519 密钥交换和 AES-256-GCM 加密）确保通信安全，并通过证书颁发机构（CA）管理节点身份和权限。Nebula 采用自有的轻量级协议，支持 NAT 穿透和动态 IP 分配，适合跨地域、跨云环境的节点互联。其配置简单，易于部署，适用于分布式系统、边缘计算和混合云场景。",
+  "tags": [
+    "覆盖网络",
+    "VPN",
+    "安全",
+    "Go",
+    "Slack",
+    "网络工具",
+    "加密"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:14:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "slackhq",
+    "stars": 18285,
+    "forks": 1180,
+    "daily_stars": null,
+    "weekly_stars": 614,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

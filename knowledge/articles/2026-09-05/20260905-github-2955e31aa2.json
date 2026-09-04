@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-2955e31aa2",
+  "title": "earthtojake/text-to-cad",
+  "source": "github_trending",
+  "source_url": "https://github.com/earthtojake/text-to-cad",
+  "summary": "text-to-cad 是一个为 CAD、CAE 和 CAM 提供智能体技能库的开源项目，旨在通过自然语言指令驱动计算机辅助设计、工程和制造流程。该项目在 GitHub 上热度较高，近期获得大量关注。",
+  "content": "## 项目概述\n\n**text-to-cad** 是一个专注于 CAD（计算机辅助设计）、CAE（计算机辅助工程）和 CAM（计算机辅助制造）领域的智能体技能库。它提供了一系列工具和接口，使开发者能够构建能够理解和执行自然语言指令的智能体，从而自动化或辅助完成设计、分析和制造任务。\n\n## 核心功能\n\n- **技能库**：包含多种预定义的技能，覆盖 CAD 建模、CAE 仿真和 CAM 加工等环节。\n- **自然语言交互**：支持将文本指令转换为具体的操作或参数，降低专业软件的使用门槛。\n- **智能体集成**：提供与主流 AI 智能体框架（如 LangChain、AutoGPT）的集成接口，便于扩展。\n\n## 技术亮点\n\n- **跨领域覆盖**：同时支持设计、工程和制造，形成完整的数字线程。\n- **模块化设计**：技能模块可独立使用或组合，灵活适配不同工作流。\n- **开源生态**：基于 Python，易于二次开发和社区贡献。\n\n## 应用场景\n\n- 自动化零件建模：通过文本描述生成 3D 模型。\n- 仿真流程简化：用自然语言设置边界条件和求解参数。\n- 制造路径规划：自动生成 CNC 加工代码或 3D 打印路径。\n\n## 项目热度\n\n该项目在 GitHub 上已获得 14,327 颗星和 1,518 次 fork，近期日增星约 88 颗，表明社区关注度较高，可能处于快速迭代阶段。",
+  "tags": [
+    "CAD",
+    "CAE",
+    "CAM",
+    "智能体",
+    "自然语言处理",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:44+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "earthtojake",
+    "stars": 14327,
+    "forks": 1518,
+    "daily_stars": 88,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

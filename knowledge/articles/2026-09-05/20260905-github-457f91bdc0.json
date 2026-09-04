@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-457f91bdc0",
+  "title": "ankitpokhrel/jira-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/ankitpokhrel/jira-cli",
+  "summary": "ankitpokhrel/jira-cli 是一个功能丰富的交互式 Jira 命令行工具，使用 Go 语言开发，在 GitHub 上获得了 5943 颗星和 413 个 fork。",
+  "content": "### 项目简介\njira-cli 是一个用 Go 编写的交互式 Jira 命令行客户端，旨在提供高效、直观的 Jira 操作体验。它支持丰富的功能，如查看、创建、编辑和搜索 issue，管理 sprint，以及自定义工作流等。\n\n### 核心特性\n- **交互式界面**：提供类似 TUI 的交互式操作，方便用户快速浏览和操作 Jira 数据。\n- **功能全面**：覆盖 Jira 的常见操作，包括 issue 管理、看板/冲刺视图、搜索过滤等。\n- **高效快捷**：通过命令行减少鼠标点击，提升开发者的工作效率。\n- **可定制性**：支持配置多个 Jira 实例和自定义字段。\n\n### 技术栈\n- 语言：Go\n- 依赖：主要使用开源库如 go-jira、survey 等。\n\n### 社区与热度\n- 在 GitHub 上拥有 5943 颗星，表明其受到开发者社区的广泛认可。\n- 每日新增约 3 颗星，热度稳定。\n\n### 适用场景\n适合需要频繁与 Jira 交互的开发者、项目经理或 DevOps 工程师，尤其是偏好命令行操作的用户。",
+  "tags": [
+    "Jira",
+    "命令行工具",
+    "Go",
+    "交互式",
+    "开发工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ankitpokhrel",
+    "stars": 5943,
+    "forks": 413,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

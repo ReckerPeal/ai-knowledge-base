@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-ca08b1c29b",
+  "title": "abhigyanpatwari/GitNexus",
+  "source": "github_trending",
+  "source_url": "https://github.com/abhigyanpatwari/GitNexus",
+  "summary": "GitNexus 是一个零服务器代码智能引擎，完全在浏览器中运行，通过构建客户端知识图谱来帮助开发者探索和理解代码库。用户可以直接拖入 GitHub、GitLab、Azure 或本地 Git 仓库，甚至 ZIP 文件，即可生成交互式知识图谱，并内置 Graph RAG 代理，实现智能问答和代码探索。",
+  "content": "## 项目概述\n\nGitNexus 是一个创新的开发者工具，旨在将代码库转化为可视化的知识图谱，从而提升代码理解和探索的效率。它最大的特点是“零服务器”，所有处理均在浏览器本地完成，无需后端服务，保障了代码的隐私和安全。\n\n## 核心功能\n\n- **客户端知识图谱**：在浏览器中直接解析 Git 仓库或 ZIP 文件，构建代码实体（如文件、类、函数）之间的关系图。\n- **交互式图谱界面**：提供可视化的图谱浏览，支持缩放、拖拽、点击查看节点详情，帮助开发者快速定位代码结构。\n- **Graph RAG Agent**：内置基于图检索增强生成的智能代理，允许用户用自然语言提问（如“哪个函数调用了这个 API？”），代理会结合图谱上下文给出精准回答。\n- **多仓库支持**：支持 GitHub、GitLab、Azure DevOps 以及本地仓库，也支持 ZIP 文件导入，灵活适配不同工作流。\n\n## 技术亮点\n\n- **纯前端实现**：利用 WebAssembly 或 JavaScript 解析 Git 对象，无需服务器，数据不出浏览器。\n- **知识图谱构建**：通过静态分析提取代码符号和依赖关系，构建可查询的图结构。\n- **RAG 集成**：将图谱作为检索上下文，增强大语言模型的回答准确性，减少幻觉。\n\n## 适用场景\n\n- **代码审查与入职培训**：新成员可快速理解大型代码库的架构。\n- **技术债分析**：识别循环依赖、过度耦合等结构问题。\n- **安全审计**：追踪数据流和调用链，发现潜在漏洞。\n- **离线开发**：在无网络环境下也能进行代码探索。\n\n## 总结\n\nGitNexus 将知识图谱与 RAG 技术结合，为开发者提供了一种全新的代码理解方式。其零服务器架构和易用性使其在 GitHub 上广受好评（47k stars），是代码智能领域值得关注的开源项目。",
+  "tags": [
+    "知识图谱",
+    "Graph RAG",
+    "代码探索",
+    "浏览器端",
+    "开发者工具",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:58+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "abhigyanpatwari",
+    "stars": 47004,
+    "forks": 5152,
+    "daily_stars": null,
+    "weekly_stars": 1157,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

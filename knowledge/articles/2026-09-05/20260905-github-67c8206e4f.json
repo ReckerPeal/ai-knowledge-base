@@ -1,0 +1,31 @@
+{
+  "id": "20260905-github-67c8206e4f",
+  "title": "e2b-dev/infra",
+  "source": "github_trending",
+  "source_url": "https://github.com/e2b-dev/infra",
+  "summary": "E2B Cloud 的基础设施代码库，用于支持其云端 AI 代码执行环境。",
+  "content": "该仓库是 E2B Cloud 的核心基础设施，E2B 是一个面向 AI 应用的安全云端代码执行平台。它允许开发者将 AI 生成的代码在隔离的沙箱中运行，支持多种语言和框架。该基础设施使用 Go 语言编写，负责管理沙箱的生命周期、资源调度、网络隔离和安全性。仓库包含微服务、API 网关、调度器等组件，旨在提供高可用、低延迟的代码执行服务。",
+  "tags": [
+    "基础设施",
+    "云服务",
+    "沙箱",
+    "代码执行",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "e2b-dev",
+    "stars": 1359,
+    "forks": 402,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

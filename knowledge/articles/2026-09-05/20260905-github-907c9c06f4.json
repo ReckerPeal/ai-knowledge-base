@@ -1,0 +1,32 @@
+{
+  "id": "20260905-github-907c9c06f4",
+  "title": "gastownhall/beads",
+  "source": "github_trending",
+  "source_url": "https://github.com/gastownhall/beads",
+  "summary": "Beads 是一个为编码代理提供记忆升级的开源项目，旨在增强 AI 编程助手的上下文记忆能力。该项目使用 Go 语言开发，在 GitHub 上获得了 26889 颗星，近期热度持续上升。",
+  "content": "Beads 是一个专注于提升编码代理（coding agent）记忆能力的开源项目。其核心目标是为 AI 编程助手提供持久化的记忆存储和检索功能，使得代理能够在多次会话中保持上下文一致性，从而更高效地完成复杂编程任务。该项目采用 Go 语言实现，具备高性能和并发处理能力。目前该项目在 GitHub 上已获得 26889 颗星和 1815 个 fork，日均新增星标 39 颗，显示出社区的高度关注和活跃度。Beads 可能通过向量数据库或类似机制来存储和索引代码片段、对话历史等，为编码代理提供长期记忆支持。该项目的出现反映了 AI 编程工具向更智能、更个性化方向发展的趋势。",
+  "tags": [
+    "AI",
+    "编码代理",
+    "记忆",
+    "Go",
+    "开发者工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gastownhall",
+    "stars": 26889,
+    "forks": 1815,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

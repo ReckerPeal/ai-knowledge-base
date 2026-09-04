@@ -1,0 +1,33 @@
+{
+  "id": "20260905-github-b448c551f4",
+  "title": "seakee/CPA-Manager-Plus",
+  "source": "github_trending",
+  "source_url": "https://github.com/seakee/CPA-Manager-Plus",
+  "summary": "seakee/CPA-Manager-Plus 是一个自托管的 CPA / CLIProxyAPI 管理面板和 AI 网关可观测性仪表板，用于监控请求、用量、成本、配额、失败和账户健康。",
+  "content": "## 项目概述\n\nCPA-Manager-Plus 是一个面向 AI 网关和 CLIProxyAPI 的自托管管理面板，提供全面的可观测性功能。它帮助用户监控 API 请求、使用量、成本、配额、失败情况以及账户健康状态，适用于需要精细管理 AI 服务调用的开发者和团队。\n\n## 核心功能\n\n- **请求监控**：实时追踪 API 请求，包括成功率和延迟。\n- **用量统计**：按时间维度统计 token 消耗或请求次数。\n- **成本分析**：根据用量估算费用，帮助控制预算。\n- **配额管理**：设置和监控 API 调用配额，防止超限。\n- **失败追踪**：记录错误和异常，便于快速定位问题。\n- **账户健康**：检查 API 密钥和账户状态，确保服务可用性。\n\n## 技术特点\n\n- **自托管**：数据完全掌控，隐私安全。\n- **Go 语言**：高性能，低资源占用。\n- **仪表板界面**：直观可视化，操作简便。\n\n## 适用场景\n\n- 个人开发者管理多个 AI API 密钥。\n- 团队内部统一监控 AI 服务使用情况。\n- 需要成本审计和配额控制的企业环境。\n\n## 社区反馈\n\n该项目在 GitHub 上表现活跃，获得 3189 星和 326 个 fork，近期每日新增约 43 星，说明社区认可度高，更新频繁。",
+  "tags": [
+    "AI网关",
+    "可观测性",
+    "管理面板",
+    "自托管",
+    "Go",
+    "成本监控",
+    "API管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-05T01:13:53+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "seakee",
+    "stars": 3189,
+    "forks": 326,
+    "daily_stars": 43,
+    "weekly_stars": 255,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
