@@ -1,0 +1,36 @@
+{
+  "id": "20260906-github-c289dc3d99",
+  "title": "ruvnet/ruflo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "summary": "ruvnet/ruflo 是一个 TypeScript 编写的智能体元编排框架，支持部署多智能体群、协调自主工作流和构建对话式 AI 系统，内置自适应记忆、自学习智能、RAG 集成，并原生支持 Claude Code、Codex、Hermes 等多种模型。",
+  "content": "## 项目概览\n\nruflo 是一个面向多智能体系统的高级编排框架，旨在为开发者提供构建复杂 AI 应用的基础设施。其核心定位为“元编排器”，意味着它不直接绑定特定模型或工作流，而是提供一种通用的协调层。\n\n## 核心特性\n\n- **多智能体群部署**：支持创建和管理多个智能体，使其协同工作，形成“智能体群”以解决复杂任务。\n- **自主工作流协调**：能够编排和调度自主运行的 AI 工作流，实现任务自动化。\n- **对话式 AI 系统构建**：提供构建聊天机器人、虚拟助手等对话界面的能力。\n- **自适应记忆**：系统具备记忆机制，能够根据交互历史动态调整行为，提升个性化体验。\n- **自学习智能**：内置学习机制，使智能体能够从反馈中改进自身性能。\n- **RAG 集成**：原生支持检索增强生成（RAG），便于接入外部知识库以增强回答准确性。\n- **多模型原生支持**：无缝集成 Claude Code、Codex、Hermes 等主流模型，提供灵活的选择空间。\n\n## 技术亮点\n\n- **语言与生态**：基于 TypeScript 开发，拥有良好的类型安全性和现代 JavaScript 生态兼容性。\n- **社区热度**：在 GitHub 上获得 70.6k 星标，日增 127 星，表明其受到开发者广泛关注和认可。\n- **架构设计**：作为“元编排器”，其设计理念强调灵活性和可扩展性，适合作为复杂 AI 系统的核心骨架。\n\n## 适用场景\n\n- 需要多智能体协作的复杂任务处理（如自动化研究、多步骤规划）。\n- 构建具备长期记忆和自适应能力的个性化 AI 助手。\n- 需要快速集成多种 LLM 的对话式应用开发。\n- 企业级自主工作流编排与自动化。",
+  "tags": [
+    "TypeScript",
+    "AI Agent",
+    "多智能体",
+    "工作流编排",
+    "RAG",
+    "对话式AI",
+    "自适应记忆",
+    "Claude Code",
+    "Codex",
+    "Hermes"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 70605,
+    "forks": 8408,
+    "daily_stars": 127,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

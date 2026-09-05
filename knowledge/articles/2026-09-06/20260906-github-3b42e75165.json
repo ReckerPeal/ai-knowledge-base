@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-3b42e75165",
+  "title": "derailed/k9s",
+  "source": "github_trending",
+  "source_url": "https://github.com/derailed/k9s",
+  "summary": "k9s 是一个基于终端的 Kubernetes 集群管理工具，提供类似终端 UI 的交互界面，让开发者能够以更直观、高效的方式监控和管理 Kubernetes 集群资源。",
+  "content": "k9s 是一个用 Go 语言编写的开源终端 UI 工具，旨在简化 Kubernetes 集群的管理。它提供了一个类似终端游戏风格的界面，用户可以通过键盘快捷键快速浏览和操作集群中的各种资源（如 Pod、Deployment、Service 等），并实时监控集群状态。k9s 支持多集群切换、资源日志查看、端口转发、资源编辑等常用功能，同时内置了强大的别名和插件系统，方便用户定制工作流。该项目在 GitHub 上拥有超过 3.4 万星标，是 Kubernetes 生态中广受欢迎的运维工具之一。",
+  "tags": [
+    "Kubernetes",
+    "CLI",
+    "终端UI",
+    "Go",
+    "运维工具",
+    "集群管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:04+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "derailed",
+    "stars": 34507,
+    "forks": 2277,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

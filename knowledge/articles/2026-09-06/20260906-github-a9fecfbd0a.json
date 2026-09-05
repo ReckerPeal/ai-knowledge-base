@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-a9fecfbd0a",
+  "title": "vercel-labs/portless",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/portless",
+  "summary": "Portless 是一个用 TypeScript 编写的开源工具，旨在用稳定、命名的本地 URL 替代传统端口号，为开发者和 AI 代理提供更友好的本地服务访问方式。",
+  "content": "Portless 由 Vercel Labs 团队开发，核心目标是解决开发过程中端口号难以记忆和动态变化的问题。它通过将本地服务映射到稳定的命名 URL（如 `my-app.local`），使得访问本地服务不再依赖易变的端口号。该项目特别强调对人类和 AI 代理（agents）的友好性，因为命名 URL 比数字端口更直观，也更便于自动化工具识别和连接。该工具在 GitHub 上已获得 12160 颗星，近期周增长 788 颗星，显示出较高的社区关注度。其技术实现基于 TypeScript，可能涉及本地 DNS 解析或代理机制。对于开发者而言，Portless 可以简化多服务开发环境的管理；对于 AI 代理，它提供了更稳定的服务发现方式，有助于提升自动化流程的可靠性。",
+  "tags": [
+    "开发工具",
+    "本地开发",
+    "URL 替代端口",
+    "AI 代理",
+    "TypeScript",
+    "Vercel Labs"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:09+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 12160,
+    "forks": 399,
+    "daily_stars": null,
+    "weekly_stars": 788,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

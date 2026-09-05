@@ -1,0 +1,31 @@
+{
+  "id": "20260906-github-2a8c71daf8",
+  "title": "humanlayer/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/humanlayer/skills",
+  "summary": "humanlayer/skills 是一个基于 TypeScript 的开源项目，旨在为 AI 代理提供可复用的技能库。该项目在 GitHub 上迅速走红，一周内获得超过 1800 颗星，显示出社区对 AI 代理功能扩展的强烈需求。",
+  "content": "## 项目概述\nhumanlayer/skills 是一个专注于 AI 代理（Agent）技能管理的开源仓库，由 humanlayer 团队维护。项目使用 TypeScript 编写，为开发者提供了一套标准化的技能定义和调用框架，使得 AI 代理能够更灵活地执行复杂任务。\n\n## 核心特点\n- **技能模块化**：将 AI 代理的能力拆分为可复用的技能单元，便于组合和扩展。\n- **类型安全**：基于 TypeScript 提供强类型定义，减少运行时错误。\n- **社区驱动**：项目在短时间内获得大量关注，表明其解决了 AI 工程中的真实痛点。\n\n## 技术分析\n该项目可能涉及以下技术点：\n- 技能注册与发现机制\n- 与主流 AI 框架（如 LangChain）的集成\n- 异步任务调度与错误处理\n\n## 适用场景\n适用于需要构建复杂 AI 代理的开发者，尤其是那些希望将代理能力模块化、可测试化的团队。\n\n## 快速上手\n（由于摘要信息有限，建议访问仓库获取详细文档和示例）",
+  "tags": [
+    "AI代理",
+    "技能库",
+    "TypeScript",
+    "开源",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "humanlayer",
+    "stars": 2584,
+    "forks": 73,
+    "daily_stars": 408,
+    "weekly_stars": 1832,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

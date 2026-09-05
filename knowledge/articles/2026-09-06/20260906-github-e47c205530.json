@@ -1,0 +1,33 @@
+{
+  "id": "20260906-github-e47c205530",
+  "title": "nashsu/llm_wiki",
+  "source": "github_trending",
+  "source_url": "https://github.com/nashsu/llm_wiki",
+  "summary": "LLM Wiki 是一款跨平台桌面应用，能够自动将文档转化为组织有序、相互关联的知识库。它摒弃了传统 RAG 每次从头检索回答的方式，而是让大语言模型增量构建并维护一个持久化的 Wiki。",
+  "content": "## 项目概述\nLLM Wiki 是一个基于 TypeScript 开发的跨平台桌面应用，旨在解决传统 RAG 系统在知识管理上的局限性。传统 RAG 每次查询都需要从原始文档中检索片段，而 LLM Wiki 通过增量构建和维护一个持久化的 Wiki 知识库，将文档内容自动组织成结构化的、相互链接的知识网络。\n\n## 核心特性\n- **自动知识库构建**：从用户提供的文档中自动提取关键信息，生成 Wiki 页面。\n- **增量更新**：随着新文档的加入，知识库会动态扩展和更新，无需全量重建。\n- **互相关联**：自动识别文档间的语义关联，建立链接，形成知识图谱。\n- **跨平台桌面应用**：支持 Windows、macOS 和 Linux，提供本地化使用体验。\n\n## 技术亮点\n- 采用增量式知识管理，相比传统 RAG 减少了重复计算，提高了效率。\n- 利用大语言模型进行信息抽取和关系构建，实现从非结构化文本到结构化知识的转换。\n- 持久化存储，保证知识库的长期可用性和一致性。\n\n## 适用场景\n- 个人知识管理：整理笔记、论文、报告等。\n- 团队协作：共享项目文档，快速检索和关联信息。\n- 研究辅助：从大量文献中提取核心概念并建立联系。\n\n## 项目热度\n该项目在 GitHub 上获得 17438 星和 2061 个 fork，周增长 504 星，表明社区关注度较高。",
+  "tags": [
+    "LLM",
+    "知识库",
+    "RAG",
+    "桌面应用",
+    "TypeScript",
+    "知识管理",
+    "增量学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:09+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "nashsu",
+    "stars": 17438,
+    "forks": 2061,
+    "daily_stars": null,
+    "weekly_stars": 504,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

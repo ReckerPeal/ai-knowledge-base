@@ -1,0 +1,33 @@
+{
+  "id": "20260906-github-b3718af977",
+  "title": "earendil-works/pi",
+  "source": "github_trending",
+  "source_url": "https://github.com/earendil-works/pi",
+  "summary": "AI agent 工具包，提供统一的 LLM API、agent 循环、TUI 和编码 agent CLI。",
+  "content": "该仓库是一个 TypeScript 编写的 AI agent 工具包，旨在为开发者提供一套完整的 agent 开发基础设施。其核心功能包括：\n- **统一 LLM API**：屏蔽不同大模型提供商的差异，提供一致的调用接口，简化多模型集成。\n- **Agent 循环**：内置了 agent 运行时的主循环（感知-思考-行动），支持自定义工具调用和上下文管理。\n- **TUI（终端用户界面）**：提供交互式终端界面，便于调试和监控 agent 运行过程。\n- **编码 agent CLI**：提供命令行工具，可直接用于代码生成、修改和仓库操作等编码任务。\n\n该项目在 GitHub 上热度极高（star 数超过 10 万），近期增长迅速，表明其受到开发者社区的广泛关注。适合需要快速构建 AI agent 应用或进行编码自动化的开发者使用。",
+  "tags": [
+    "AI agent",
+    "LLM",
+    "TypeScript",
+    "工具包",
+    "TUI",
+    "CLI",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "earendil-works",
+    "stars": 102071,
+    "forks": 12723,
+    "daily_stars": 323,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

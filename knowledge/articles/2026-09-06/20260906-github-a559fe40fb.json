@@ -1,0 +1,33 @@
+{
+  "id": "20260906-github-a559fe40fb",
+  "title": "cobusgreyling/loop-engineering",
+  "source": "github_trending",
+  "source_url": "https://github.com/cobusgreyling/loop-engineering",
+  "summary": "loop-engineering 是一个专注于 AI 编码代理循环工程（loop engineering）的实用模式、入门模板和 CLI 工具集合。它受 Addy Osmani 和 Boris Cherny 的启发，旨在帮助开发者设计能够提示和编排代理的系统。项目包含 loop-audit、loop-init、loop-cost 等工具，用于审计、初始化和成本管理。",
+  "content": "## 项目概述\n\nloop-engineering 是一个面向 AI 编码代理的循环工程（loop engineering）实践库，提供可复用的模式、入门模板和命令行工具。其核心思想是将 AI 编码代理视为可循环调用的组件，通过精心设计的提示和编排逻辑，构建高效、可控的自动化开发流程。\n\n## 核心特性\n\n- **实用模式**：提供经过验证的循环工程模式，帮助开发者设计代理交互流程。\n- **入门模板**：快速启动新项目，减少重复配置。\n- **CLI 工具**：\n  - `loop-audit`：审计代理循环的执行效率与质量。\n  - `loop-init`：初始化循环工程项目结构。\n  - `loop-cost`：估算代理循环的 Token 成本。\n\n## 设计灵感\n\n项目灵感来源于 Addy Osmani 和 Boris Cherny 关于 AI 代理编排的思考，强调通过系统化设计来提升代理的可靠性和效率。\n\n## 技术栈\n\n- 语言：TypeScript\n- 平台：Node.js（推断）\n\n## 适用场景\n\n- 需要构建多步骤 AI 代理工作流的开发者。\n- 希望优化代理循环成本与效率的团队。\n- 对 AI 编码代理编排模式感兴趣的研究者。",
+  "tags": [
+    "AI",
+    "coding-agents",
+    "loop-engineering",
+    "TypeScript",
+    "CLI",
+    "patterns",
+    "orchestration"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cobusgreyling",
+    "stars": 10967,
+    "forks": 1490,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

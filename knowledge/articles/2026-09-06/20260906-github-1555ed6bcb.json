@@ -1,0 +1,33 @@
+{
+  "id": "20260906-github-1555ed6bcb",
+  "title": "jingyaogong/minimind",
+  "source": "github_trending",
+  "source_url": "https://github.com/jingyaogong/minimind",
+  "summary": "该项目展示了如何仅用2小时从零训练一个64M参数的大语言模型（LLM），提供了完整的训练流程和代码实现。",
+  "content": "minimind 是一个开源项目，旨在帮助开发者和研究者快速入门大语言模型的训练。项目通过精简的代码和详细的文档，演示了从数据准备、模型构建到训练和推理的全过程。其核心亮点在于，在普通硬件条件下（如单张消费级GPU），仅需约2小时即可完成一个64M参数模型的训练，使得LLM训练不再遥不可及。项目包含数据预处理、模型架构（基于Transformer）、训练脚本、评估脚本等模块，并提供了清晰的命令行接口。此外，项目还支持自定义数据集和超参数调整，便于用户根据需求进行扩展。该项目在GitHub上获得了超过5.8万颗星，反映了社区对轻量级LLM训练方案的高度关注。",
+  "tags": [
+    "LLM",
+    "训练",
+    "Transformer",
+    "轻量级",
+    "教育",
+    "Python",
+    "深度学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:07+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "jingyaogong",
+    "stars": 58720,
+    "forks": 7628,
+    "daily_stars": null,
+    "weekly_stars": 3390,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

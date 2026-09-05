@@ -1,0 +1,34 @@
+{
+  "id": "20260906-github-b01231565a",
+  "title": "777genius/agent-teams-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/777genius/agent-teams-ai",
+  "summary": "agent-teams-ai 是一个基于 TypeScript 的多智能体协作框架，允许用户作为管理者，通过看板监控和下达高层指令，让多个 AI 代理（如 Codex、Claude、OpenCode 等）自主处理任务、相互通信并审查彼此工作。支持 200+ 模型、75+ 提供商，包括无需认证的免费模型，旨在帮助用户构建多团队的 AI 公司。",
+  "content": "## 项目概述\n\nagent-teams-ai 是一个创新的多智能体协作平台，将 AI 代理组织成团队，用户扮演老板角色，通过看板界面进行管理。该框架支持多种主流 AI 模型和提供商，提供灵活的任务分配和自主协作能力。\n\n## 核心特性\n\n- **多智能体协作**：代理之间可以自主通信、分配任务并相互审查，形成高效的工作流。\n- **看板管理**：用户通过看板直观监控任务进度，仅需下达高层指令，无需干预细节。\n- **广泛模型支持**：集成 200+ 模型，涵盖 75+ LLM 提供商，包括 Codex、Claude、OpenCode、Cursor、Grok、GitHub Copilot、Kiro、Z.AI、MiniMax、Kimi 等，且支持无需认证的免费模型。\n- **多团队构建**：支持创建多个团队，模拟真实公司架构，实现复杂业务场景。\n\n## 技术架构\n\n- 基于 TypeScript 开发，确保类型安全与可维护性。\n- 采用事件驱动架构，支持代理间消息传递和任务状态同步。\n- 提供可扩展的适配器层，便于接入新模型或自定义代理。\n\n## 使用场景\n\n- **自动化研发**：让 AI 代理独立完成代码编写、测试和审查，提升开发效率。\n- **内容生成**：多代理协作生成高质量内容，如文档、报告等。\n- **业务流程自动化**：模拟多部门协作，实现复杂流程的自动化处理。\n\n## 项目热度\n\n- GitHub 星标 2068，分叉 348，近期日增星标 19，显示社区关注度较高。\n- 属于 GitHub 热点 TypeScript 项目，反映了多智能体协作领域的趋势。\n\n## 总结\n\nagent-teams-ai 为开发者提供了一种全新的 AI 协作范式，通过多代理自主协作和人性化的管理界面，降低了构建复杂 AI 应用的门槛，适合希望探索多智能体系统的团队和个人。",
+  "tags": [
+    "AI",
+    "多智能体",
+    "协作",
+    "TypeScript",
+    "LLM",
+    "看板",
+    "自动化",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "777genius",
+    "stars": 2068,
+    "forks": 348,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260906-github-9d7cc220b9",
+  "title": "actions/upload-artifact",
+  "source": "github_trending",
+  "source_url": "https://github.com/actions/upload-artifact",
+  "summary": "actions/upload-artifact 是 GitHub Actions 官方提供的用于上传工作流构建产物的 Action，支持将文件或目录作为工件上传，便于在作业之间共享或供后续下载。",
+  "content": "actions/upload-artifact 是 GitHub 官方维护的 Action，用于将工作流中的文件或目录上传为工件（artifact）。它常用于构建产物、测试报告或日志的保存，支持跨作业共享和手动下载。该 Action 提供丰富的配置选项，如目标路径、保留天数、压缩级别等，并支持通配符匹配多个文件。其 TypeScript 实现保证了跨平台兼容性，在 GitHub Actions 生态中被广泛使用。",
+  "tags": [
+    "GitHub Actions",
+    "artifact",
+    "CI/CD",
+    "TypeScript",
+    "官方Action"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:00+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "actions",
+    "stars": 4187,
+    "forks": 1095,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

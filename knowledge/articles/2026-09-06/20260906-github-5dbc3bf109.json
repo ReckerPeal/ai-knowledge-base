@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-5dbc3bf109",
+  "title": "kenn-io/agentsview",
+  "source": "github_trending",
+  "source_url": "https://github.com/kenn-io/agentsview",
+  "summary": "agentsview 是一个本地优先的会话搜索、分析、洞察和 Token 使用统计工具，专为编码智能体设计，支持 Claude Code、Codex 以及 20 多种其他智能体。",
+  "content": "## 项目概述\n\nagentsview 是一个面向编码智能体的本地优先（Local-first）会话管理工具，旨在帮助开发者搜索、分析并洞察其与 AI 编码助手的交互历史。该项目支持包括 Claude Code、Codex 在内的 20 多种主流编码智能体，并提供 Token 使用统计功能。\n\n## 核心特性\n\n- **本地优先架构**：所有数据存储在本地，保障隐私与数据安全\n- **多智能体支持**：兼容 Claude Code、Codex 等 20+ 编码智能体\n- **会话搜索**：快速检索历史编码会话记录\n- **分析与洞察**：提供交互模式分析和行为洞察\n- **Token 统计**：精确统计各智能体的 Token 消耗情况\n\n## 技术亮点\n\n- 采用 Go 语言开发，具备高性能和良好的并发处理能力\n- 本地优先设计，无需云端依赖，适合注重数据隐私的开发者\n- 支持广泛的智能体生态，具有较好的通用性和扩展性\n\n## 项目热度\n\n该项目在 GitHub 上表现活跃，已获得 5775 颗星和 652 个 Fork，周增长 467 星，显示出较强的社区关注度和增长势头。",
+  "tags": [
+    "编码智能体",
+    "会话管理",
+    "本地优先",
+    "Token统计",
+    "开发者工具",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:13+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kenn-io",
+    "stars": 5775,
+    "forks": 652,
+    "daily_stars": null,
+    "weekly_stars": 467,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

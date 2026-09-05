@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-db09b45728",
+  "title": "blader/humanizer",
+  "source": "github_trending",
+  "source_url": "https://github.com/blader/humanizer",
+  "summary": "blader/humanizer 是一个 Agent skill，用于去除文本中 AI 生成的痕迹，使其更接近人类写作风格。该项目在 GitHub 上获得 43,263 颗星，近期热度极高。",
+  "content": "## 项目概述\n\n**blader/humanizer** 是一个专注于文本人性化的开源项目，它提供了一种 Agent skill，能够自动检测并移除文本中由 AI 生成的特征，使改写后的内容更自然、更接近人类写作风格。该项目在 GitHub 上表现亮眼，已获得 43,263 颗星，近期日增星近千，显示出强烈的社区关注度。\n\n## 核心功能\n\n- **AI 痕迹去除**：识别并消除 AI 生成文本中常见的模式，如过度正式的措辞、重复句式、缺乏个人风格等。\n- **Agent 集成**：作为 Agent skill，可嵌入到多种 AI 工作流中，实现自动化文本优化。\n- **语言支持**：主要基于 Python 实现，便于集成和扩展。\n\n## 技术亮点\n\n- 采用先进的自然语言处理技术，可能结合了风格迁移、文本生成等模型。\n- 设计为 skill 形式，体现了模块化和可复用性，适合作为 AI 代理的辅助工具。\n\n## 适用场景\n\n- 内容创作者：优化 AI 辅助生成的文章，提升可读性和自然度。\n- 开发者：集成到聊天机器人、写作助手等应用中，改善用户体验。\n- 研究者：探索 AI 文本检测与反检测技术。\n\n## 项目热度\n\n- 星标数：43,263\n- Fork 数：3,634\n- 日增星标：988（截至 2026-09-06）\n\n该项目在 GitHub 趋势榜上位列 Python 类别，表明其具有较高的实用价值和社区认可度。",
+  "tags": [
+    "AI文本",
+    "文本人性化",
+    "Agent",
+    "Python",
+    "自然语言处理",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:20:58+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "blader",
+    "stars": 43263,
+    "forks": 3634,
+    "daily_stars": 988,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

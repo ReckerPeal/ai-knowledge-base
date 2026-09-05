@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "Anubis 是一个用 Go 编写的开源工具，通过执行工作量证明挑战来验证 HTTP 请求是否来自真实用户，从而阻止 AI 爬虫的访问。",
+  "content": "Anubis 是一个用 Go 编写的开源中间件/代理，其核心功能是“称量传入 HTTP 请求的灵魂”，即通过要求客户端完成计算工作量证明（Proof-of-Work）挑战来区分真实用户和 AI 爬虫。它旨在保护网站内容不被未经授权的 AI 爬虫抓取，同时确保正常用户的访问不受影响。该项目在 GitHub 上非常热门，已获得超过 2.2 万星标，显示出社区对 AI 爬虫防护的强烈需求。Anubis 的设计理念是轻量、高效，易于集成到现有 Web 服务中。",
+  "tags": [
+    "Go",
+    "AI爬虫防护",
+    "工作量证明",
+    "中间件",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:13+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 22150,
+    "forks": 710,
+    "daily_stars": null,
+    "weekly_stars": 351,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260906-github-db607f8f27",
+  "title": "bikini/exploitarium",
+  "source": "github_trending",
+  "source_url": "https://github.com/bikini/exploitarium",
+  "summary": "exploitarium 是一个公开漏洞利用 PoC 与漏洞研究文章的单一归档库。作者发布这些内容时，均未被报告过，鼓励用户自行报告并获取 CVE 编号。项目旨在吸引更多人进入安全研究领域，并强调请勿滥用这些漏洞。",
+  "content": "## 项目概述\n\nexploitarium 是一个集中存放公开漏洞利用 PoC（Proof of Concept）和漏洞研究文章的仓库。它由作者 bikini 维护，旨在为安全研究人员和爱好者提供一个学习与研究的资源库。\n\n## 核心特点\n\n- **单一归档**：将分散的漏洞利用代码和研究文章集中在一个仓库中，便于查阅。\n- **时效性**：作者发布时这些漏洞尚未被公开报告，因此具有较高的新鲜度和研究价值。\n- **教育目的**：项目初衷是吸引更多人进入安全领域，通过实际案例学习漏洞利用技术。\n\n## 使用与伦理\n\n- 作者鼓励用户自行向相关机构报告漏洞，以获取 CVE 编号，但强调**请勿滥用**这些漏洞。\n- 项目内容仅供安全研究和教育使用，使用者需遵守法律法规和道德准则。\n\n## 技术细节\n\n- 仓库主要使用 Python 语言，包含多种漏洞类型的 PoC 代码。\n- 项目在 GitHub 上受到广泛关注，拥有 4644 颗星和 1251 个 fork，近期日增星 232 颗，表明其活跃度和社区认可度较高。\n\n## 总结\n\nexploitarium 是一个面向安全研究者的高质量漏洞 PoC 集合，兼具教育性和实用性，但使用者必须谨慎对待，避免恶意利用。",
+  "tags": [
+    "漏洞利用",
+    "PoC",
+    "安全研究",
+    "CVE",
+    "GitHub",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:20:58+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bikini",
+    "stars": 4644,
+    "forks": 1251,
+    "daily_stars": 232,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

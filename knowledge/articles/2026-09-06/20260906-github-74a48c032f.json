@@ -1,0 +1,31 @@
+{
+  "id": "20260906-github-74a48c032f",
+  "title": "nolabs-ai/nono",
+  "source": "github_trending",
+  "source_url": "https://github.com/nolabs-ai/nono",
+  "summary": "nono 是一个基于 Rust 的零信任、零配置、零延迟的多路复用安全执行路径框架，专为 AI 代理设计，旨在提供安全、高效的并发执行环境。",
+  "content": "nono 是一个面向 AI 代理的安全多路复用执行路径框架，采用 Rust 编写，强调零信任、零配置和零延迟。其核心设计理念包括：\n- **零信任**：默认不信任任何执行环境，通过沙箱和权限隔离确保代理操作的安全性。\n- **零配置**：开箱即用，无需复杂的环境设置即可快速集成。\n- **零延迟**：通过高效的多路复用机制，最小化并发执行时的开销。\n\n该框架适用于需要高并发、安全隔离的 AI 代理场景，如自动化任务、多代理协作等。Rust 的内存安全和性能优势为框架提供了坚实基础。项目在 GitHub 上表现活跃，近期获得较多关注，适合对 AI 基础设施安全感兴趣的开发者。",
+  "tags": [
+    "Rust",
+    "AI代理",
+    "安全执行",
+    "多路复用",
+    "零信任"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-06T00:21:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "nolabs-ai",
+    "stars": 3965,
+    "forks": 256,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
