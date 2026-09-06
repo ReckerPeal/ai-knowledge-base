@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-1555ed6bcb",
+  "title": "jingyaogong/minimind",
+  "source": "github_trending",
+  "source_url": "https://github.com/jingyaogong/minimind",
+  "summary": "minimind 是一个从零开始训练 6400 万参数大型语言模型（LLM）的开源项目，仅需 2 小时即可完成训练。该项目在 GitHub 上广受关注，拥有超过 5.9 万星标，展示了高效训练小型 LLM 的可能性。",
+  "content": "## 项目概述\n\nminimind 由开发者 jingyaogong 创建，旨在让开发者能够以极低的成本（时间与资源）从零训练一个可用的 64M 参数语言模型。项目强调训练效率，宣称只需 2 小时即可完成训练，这为个人研究者或小型团队提供了探索 LLM 训练过程的绝佳机会。\n\n## 技术亮点\n\n- **参数规模**：64M 参数，属于小型模型，适合在单卡或有限算力环境下训练。\n- **训练效率**：通过优化的训练流程和数据处理，大幅缩短训练时间。\n- **从零训练**：不依赖预训练权重，完整展示数据准备、模型构建、训练与评估的全流程。\n\n## 适用场景\n\n- 学习 LLM 内部原理与训练细节。\n- 快速验证模型架构或训练策略。\n- 作为教学工具或研究基线。\n\n## 社区反响\n\n该项目在 GitHub 上获得 59k+ stars，周增长约 3.6k，表明其受到开发者社区的广泛认可。其简洁的设计与高效的实现，使其成为热门 Python 项目之一。",
+  "tags": [
+    "LLM",
+    "从零训练",
+    "高效训练",
+    "Python",
+    "开源",
+    "GitHub热点",
+    "小型模型"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "jingyaogong",
+    "stars": 59077,
+    "forks": 7672,
+    "daily_stars": null,
+    "weekly_stars": 3649,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

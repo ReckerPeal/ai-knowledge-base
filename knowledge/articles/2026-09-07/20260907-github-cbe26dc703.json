@@ -1,0 +1,31 @@
+{
+  "id": "20260907-github-cbe26dc703",
+  "title": "kubernetes/minikube",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/minikube",
+  "summary": "minikube 是 Kubernetes 官方提供的本地开发工具，用于在本地计算机上快速运行单节点 Kubernetes 集群，方便开发者进行日常开发、测试和学习。",
+  "content": "minikube 是 Kubernetes 社区维护的开源项目，旨在简化 Kubernetes 的本地部署。它支持在 Linux、macOS 和 Windows 上运行，并兼容多种虚拟化技术（如 VirtualBox、HyperKit、Docker 等）。minikube 提供命令行工具，用户可通过 `minikube start` 快速启动集群，并支持加载本地 Docker 镜像、启用插件（如 Dashboard、Ingress）等功能。该项目由 Kubernetes 官方团队维护，拥有超过 3.2 万 Star，是本地 Kubernetes 开发的首选工具之一。",
+  "tags": [
+    "Kubernetes",
+    "本地开发",
+    "minikube",
+    "容器编排",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 32101,
+    "forks": 5317,
+    "daily_stars": null,
+    "weekly_stars": 32,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

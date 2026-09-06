@@ -1,0 +1,32 @@
+{
+  "id": "20260907-github-7366ec388a",
+  "title": "rtk-ai/rtk",
+  "source": "github_trending",
+  "source_url": "https://github.com/rtk-ai/rtk",
+  "summary": "rtk 是一个用 Rust 编写的 CLI 代理，可将常见开发命令的 LLM 令牌消耗减少 60-90%。它作为单一二进制文件分发，零依赖，易于部署。",
+  "content": "## 项目概述\nrtk 是一个命令行代理工具，旨在优化与 LLM 的交互，通过智能缓存和请求合并等技术，显著降低令牌使用量，从而节省成本。它特别适用于频繁调用 LLM 的开发场景，如代码补全、错误解释等。\n\n## 核心特性\n- **令牌节省**：在常见开发命令中，令牌消耗减少 60-90%。\n- **零依赖**：单一 Rust 二进制文件，无需额外运行时或依赖。\n- **跨平台**：基于 Rust，支持主流操作系统。\n\n## 技术实现\n- 使用 Rust 语言编写，保证高性能和内存安全。\n- 作为 CLI 代理，拦截并优化 LLM API 请求。\n- 可能采用缓存、批处理或压缩技术来减少令牌。\n\n## 应用场景\n- 开发者在 IDE 或终端中频繁使用 LLM 辅助编程。\n- 团队希望降低 LLM API 成本。\n- 需要轻量级、易于集成的代理工具。\n\n## 社区与热度\n- 在 GitHub 上获得 79k+ 星标，周增长 1300+，表明社区高度关注。\n- 属于 Rust 生态中的热门项目。",
+  "tags": [
+    "Rust",
+    "CLI",
+    "LLM",
+    "token优化",
+    "代理",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:23+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rtk-ai",
+    "stars": 79062,
+    "forks": 5000,
+    "daily_stars": 386,
+    "weekly_stars": 1302,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

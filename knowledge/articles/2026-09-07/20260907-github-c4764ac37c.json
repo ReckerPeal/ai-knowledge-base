@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "context-mode 是一个针对 AI 编程代理的上下文窗口优化工具，通过沙箱化工具输出（减少 98% 的上下文占用）、持久化会话记忆，并借助 MCP 和 hooks 在 17 个平台间强制路由，显著提升 AI 编码效率。",
+  "content": "## 项目概述\n\n**context-mode** 是一个专注于 AI 编程代理（coding agents）上下文窗口优化的开源项目。它解决了 AI 编码过程中上下文窗口有限、工具输出冗余、会话记忆丢失以及多平台协作混乱等核心痛点。\n\n## 核心功能\n\n1. **上下文窗口优化**：通过沙箱机制隔离并压缩工具输出，实现高达 98% 的上下文占用削减，让 AI 模型能够专注于更重要的代码逻辑。\n2. **会话记忆持久化**：将跨会话的上下文信息持久化存储，确保 AI 代理在多次交互中保持连贯性，避免重复解释需求。\n3. **多平台路由**：基于 MCP（Model Context Protocol）和 hooks 机制，在 17 个主流开发平台（如 GitHub、VS Code、JetBrains 等）间强制执行统一的上下文路由策略，保证工作流一致性。\n\n## 技术架构\n\n- **语言**：TypeScript，提供类型安全的开发体验。\n- **集成方式**：通过 MCP 协议与 AI 代理通信，利用 hooks 在关键节点拦截和注入上下文。\n- **沙箱机制**：隔离工具执行环境，捕获并精简输出，避免污染主上下文。\n\n## 适用场景\n\n- 使用 AI 辅助编码的开发者，希望减少 token 消耗并提升响应质量。\n- 跨多个 IDE/平台使用 AI 代理的团队，需要统一上下文管理。\n- 构建复杂、多步骤 AI 编码工作流的自动化工程师。\n\n## 项目热度\n\n该项目在 GitHub 上表现亮眼，已获得 20,472 颗星和 1,504 次 fork，日增星 88 颗，表明其受到开发者社区的广泛关注和认可。",
+  "tags": [
+    "AI编码",
+    "上下文优化",
+    "MCP",
+    "TypeScript",
+    "开发者工具",
+    "会话记忆",
+    "沙箱"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:20+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 20472,
+    "forks": 1504,
+    "daily_stars": 88,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

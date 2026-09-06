@@ -1,0 +1,35 @@
+{
+  "id": "20260907-github-5e7454e4a5",
+  "title": "GreptimeTeam/greptimedb",
+  "source": "github_trending",
+  "source_url": "https://github.com/GreptimeTeam/greptimedb",
+  "summary": "GreptimeDB 是一个开源的时序数据库，专为可观测性设计，采用统一的列式存储引擎，支持指标、日志和追踪数据，并可直接基于对象存储运行。",
+  "content": "GreptimeDB 是一个开源的可观测性数据库，其核心设计理念是使用单一的列式存储引擎来统一处理指标（Metrics）、日志（Logs）和追踪（Traces）三类核心可观测性数据。该项目在 GitHub 上表现活跃，已获得 6639 颗星和 540 个分支。其技术亮点在于能够直接在对象存储（如 S3）上运行，这有助于降低存储成本并简化架构。作为用 Rust 编写的高性能数据库，GreptimeDB 旨在为云原生环境提供一体化的数据存储与分析解决方案，减少运维多个独立系统（如 Prometheus、Loki、Jaeger）的复杂性。",
+  "tags": [
+    "时序数据库",
+    "可观测性",
+    "Rust",
+    "列式存储",
+    "对象存储",
+    "云原生",
+    "Metrics",
+    "Logs",
+    "Traces"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "GreptimeTeam",
+    "stars": 6639,
+    "forks": 540,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

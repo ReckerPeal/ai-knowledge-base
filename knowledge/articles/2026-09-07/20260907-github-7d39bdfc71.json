@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-7d39bdfc71",
+  "title": "majd/ipatool",
+  "source": "github_trending",
+  "source_url": "https://github.com/majd/ipatool",
+  "summary": "ipatool 是一个命令行工具，允许用户从 App Store 搜索并下载适用于 iOS、iPadOS、tvOS 和 visionOS 的应用包（即 ipa 文件）。",
+  "content": "ipatool 是一个用 Go 语言编写的开源命令行工具，旨在简化从 Apple App Store 获取 ipa 文件的过程。该工具支持搜索和下载应用包，适用于多种 Apple 平台（iOS、iPadOS、tvOS、visionOS）。它通过模拟 App Store 的 API 请求，使用户能够直接获取 ipa 文件，而无需越狱或使用 Xcode。该项目在 GitHub 上拥有超过 1 万颗星，近期周增星数达 926，显示出较高的社区关注度。ipatool 的主要用途包括应用备份、研究、测试以及自动化集成。其技术实现涉及网络请求、Apple ID 认证和响应解析。该工具为开发者、安全研究人员和普通用户提供了便捷的 ipa 获取途径。",
+  "tags": [
+    "命令行工具",
+    "App Store",
+    "ipa下载",
+    "iOS",
+    "Go语言",
+    "开源工具",
+    "开发辅助"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "majd",
+    "stars": 10947,
+    "forks": 914,
+    "daily_stars": null,
+    "weekly_stars": 926,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

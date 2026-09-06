@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-5e878bcb81",
+  "title": "XIU2/CloudflareSpeedTest",
+  "source": "github_trending",
+  "source_url": "https://github.com/XIU2/CloudflareSpeedTest",
+  "summary": "CloudflareSpeedTest 是一个用于测试 Cloudflare CDN 延迟和速度的工具，帮助用户获取最快 IP，并支持其他 CDN 及多解析 IP 的网站。",
+  "content": "CloudflareSpeedTest 是一个用 Go 语言编写的命令行工具，旨在帮助用户自动测试 Cloudflare CDN 的延迟和速度，从而选出最快的 IP 地址。该工具通过向 Cloudflare 的 IP 段发送请求，测量响应时间和下载速度，并输出排序后的结果。用户可以将结果用于自选优选 IP，优化网站或服务的访问速度。除了 Cloudflare，该工具也支持测试其他 CDN 或具有多个解析 IP 的网站。项目在 GitHub 上拥有超过 2.8 万星标，社区活跃，持续更新。",
+  "tags": [
+    "Cloudflare",
+    "CDN",
+    "网络工具",
+    "Go",
+    "速度测试",
+    "IP优选",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "XIU2",
+    "stars": 28915,
+    "forks": 5429,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

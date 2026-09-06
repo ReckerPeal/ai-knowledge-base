@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-b1f15b8a23",
+  "title": "pollen-robotics/microduck_rl",
+  "source": "github_trending",
+  "source_url": "https://github.com/pollen-robotics/microduck_rl",
+  "summary": "pollen-robotics/microduck_rl 是一个为 Microduck 机器人提供强化学习训练环境的开源项目，基于 MJLab 仿真平台，使用 Python 语言开发。该项目在 GitHub 上近期获得大量关注，周增长星标数达 1247，总星标数 1804，显示出其在机器人 RL 领域的热度。",
+  "content": "### 项目概述\nmicroduck_rl 由 pollen-robotics 团队开发，专注于为 Microduck（一种小型双足或四足机器人）提供强化学习（RL）训练环境。项目基于 MJLab（MuJoCo 实验室）构建，MJLab 是 DeepMind 推出的基于 MuJoCo 的物理仿真和 RL 基准测试平台，支持多种机器人任务。\n\n### 核心功能\n- **RL 训练环境**：提供标准化的 Gymnasium 接口，便于研究者快速部署 PPO、SAC 等 RL 算法。\n- **仿真支持**：基于 MJLab 的高保真物理仿真，支持真实世界到仿真（sim-to-real）的迁移研究。\n- **任务设计**：可能包含行走、转向等基础运动任务，以及更复杂的控制挑战。\n\n### 技术栈\n- **语言**：Python（主要）\n- **框架**：MJLab、MuJoCo、Gymnasium\n- **依赖**：PyTorch 等常见深度学习库（推测）\n\n### 社区与热度\n- **星标数**：1804（截至收集日）\n- **周增长**：1247，表明近期获得大量关注，可能因发布新特性或相关论文。\n- **复刻数**：362，显示有一定数量的开发者参与或使用。\n\n### 适用场景\n- 机器人运动控制研究\n- 强化学习算法验证\n- sim-to-real 迁移学习\n- 教育用途（机器人学课程）\n\n### 总结\n该项目为 Microduck 机器人提供了易用的 RL 训练环境，结合 MJLab 的先进仿真，降低了机器人 RL 研究的门槛，适合学术研究和工业预研。",
+  "tags": [
+    "强化学习",
+    "机器人",
+    "MJLab",
+    "MuJoCo",
+    "仿真环境",
+    "Python",
+    "运动控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "pollen-robotics",
+    "stars": 1804,
+    "forks": 362,
+    "daily_stars": null,
+    "weekly_stars": 1247,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260907-github-7fc6cd6543",
+  "title": "TecharoHQ/anubis",
+  "source": "github_trending",
+  "source_url": "https://github.com/TecharoHQ/anubis",
+  "summary": "Anubis 是一个用 Go 编写的开源项目，通过执行工作量证明（Proof-of-Work）挑战来验证 HTTP 请求是否来自真实用户，从而有效阻止 AI 爬虫的访问。",
+  "content": "## 项目概述\n\nAnubis 是一个用 Go 语言实现的反爬虫工具，其核心机制是向每个传入的 HTTP 请求发送一个计算挑战（类似于工作量证明），只有通过挑战的请求才会被转发到后端服务。这种方式能够有效区分真实用户与 AI 爬虫，因为 AI 爬虫通常不具备执行此类计算的能力或成本过高。\n\n## 核心功能\n\n- **AI 爬虫拦截**：通过挑战-响应机制，阻止未经授权的 AI 爬虫访问网站内容。\n- **轻量级部署**：作为反向代理或中间件，可轻松集成到现有 Web 服务中。\n- **可配置性**：支持自定义挑战难度、超时时间等参数，以适应不同场景。\n\n## 技术亮点\n\n- **Go 语言实现**：高性能、低资源占用，适合高并发场景。\n- **工作量证明算法**：采用类似 Hashcash 的算法，客户端需消耗一定计算资源，而服务器端验证成本极低。\n- **开源社区活跃**：在 GitHub 上拥有超过 2.2 万星标，受到广泛关注。\n\n## 适用场景\n\n- 保护网站内容不被 AI 爬虫抓取，防止数据被用于训练大模型。\n- 作为额外的访问控制层，降低恶意爬虫对服务器资源的消耗。\n\n## 总结\n\nAnubis 为内容创作者和网站管理员提供了一种简单有效的防护手段，以应对日益增长的 AI 爬虫流量。其设计思路清晰，实现高效，是当前对抗 AI 爬虫的热门解决方案之一。",
+  "tags": [
+    "Go",
+    "反爬虫",
+    "AI爬虫",
+    "工作量证明",
+    "安全",
+    "中间件",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TecharoHQ",
+    "stars": 22164,
+    "forks": 710,
+    "daily_stars": null,
+    "weekly_stars": 349,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

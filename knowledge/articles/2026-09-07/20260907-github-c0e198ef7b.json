@@ -1,0 +1,36 @@
+{
+  "id": "20260907-github-c0e198ef7b",
+  "title": "maziyarpanahi/openmed",
+  "source": "github_trending",
+  "source_url": "https://github.com/maziyarpanahi/openmed",
+  "summary": "OpenMed 是一个本地优先的医疗 AI 项目，专注于临床命名实体识别（NER）和 HIPAA 合规的 PII 去标识化，支持 100% 设备端运行。项目整合了 2200+ 医疗模型，覆盖 21 种语言，基于 Apple MLX 和 Python 构建，无需云端即可处理数据，确保患者隐私不离开本地网络。采用 Apache-2.0 许可证。",
+  "content": "OpenMed 是一个面向医疗领域的本地化 AI 工具库，核心目标是解决医疗数据隐私与 AI 应用之间的矛盾。它通过完全在设备端运行的方式，避免了将敏感患者数据上传至云端，从而满足 HIPAA（美国健康保险携带和责任法案）对 PII（个人身份信息）去标识化的严格要求。\n\n项目的主要技术特点包括：\n1. **本地优先架构**：所有推理和数据处理均在本地设备（如 Apple 芯片设备）上完成，不依赖外部云服务，确保数据不出网络。\n2. **临床 NER**：支持从临床文本中自动识别实体（如药物、疾病、症状等），辅助医疗信息结构化。\n3. **HIPAA PII 去标识化**：自动检测并移除或替换文本中的个人身份信息（如姓名、身份证号、联系方式等），保障合规性。\n4. **模型规模与多语言**：集成了超过 2200 个医疗相关模型，覆盖 21 种语言，适应全球多语言医疗场景。\n5. **技术栈**：基于 Apple 的 MLX 框架（针对 Apple Silicon 优化的机器学习框架）和 Python，兼顾性能与易用性。\n\n该项目在 GitHub 上表现活跃（约 5241 星，659 fork），属于医疗 AI 与隐私计算交叉领域的热门工具。其 Apache-2.0 许可证允许商业和自由使用，适合医疗机构、研究者和开发者集成到本地医疗信息系统中。",
+  "tags": [
+    "healthcare-ai",
+    "local-first",
+    "HIPAA",
+    "PII-deidentification",
+    "clinical-NER",
+    "Apple-MLX",
+    "privacy",
+    "medical-models",
+    "multilingual",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-07T00:32:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "maziyarpanahi",
+    "stars": 5241,
+    "forks": 659,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
