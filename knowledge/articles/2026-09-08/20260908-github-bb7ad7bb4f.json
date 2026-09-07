@@ -1,0 +1,33 @@
+{
+  "id": "20260908-github-bb7ad7bb4f",
+  "title": "vrtmrz/obsidian-livesync",
+  "source": "github_trending",
+  "source_url": "https://github.com/vrtmrz/obsidian-livesync",
+  "summary": "obsidian-livesync 是一个用于 Obsidian 的实时同步插件，基于 TypeScript 开发，在 GitHub 上拥有超过 1.2 万星标，近期热度持续上升。",
+  "content": "obsidian-livesync 是 Obsidian 社区中广受欢迎的同步解决方案，它允许用户将笔记库实时同步到自托管的 CouchDB 或 PostgreSQL 数据库，实现多设备间的无缝协作与数据备份。该项目采用 TypeScript 编写，具备以下核心特性：\n\n- **实时同步**：基于 Obsidian 的 API 监听文件变化，自动推送更新到远端数据库，延迟极低。\n- **端到端加密**：支持可选的加密功能，确保笔记内容在传输和存储过程中的安全性。\n- **多端支持**：可在桌面端和移动端使用，通过配置同步服务器实现跨平台数据一致性。\n- **冲突处理**：内置冲突检测与合并策略，减少多设备编辑时的数据丢失风险。\n- **自托管**：用户可完全掌控数据，避免依赖第三方云服务，适合注重隐私的用户。\n\n该项目在 GitHub 上表现活跃，拥有 12265 颗星和 449 个 fork，近期日增星标约 10 颗，反映出社区的高度认可。其技术栈以 TypeScript 为主，结合 Obsidian 插件 API，为知识管理爱好者提供了强大的同步工具。",
+  "tags": [
+    "Obsidian",
+    "同步",
+    "TypeScript",
+    "自托管",
+    "实时同步",
+    "知识管理",
+    "插件"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "vrtmrz",
+    "stars": 12265,
+    "forks": 449,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-19a0feb219",
+  "title": "apache/iggy",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/iggy",
+  "summary": "Apache Iggy 是一个用 Rust 编写的高性能消息流平台，旨在提供超高速的消息传输能力。该项目在 GitHub 上受到广泛关注，拥有 4818 颗星和 423 个分支，最近一周新增 193 颗星，显示出强劲的增长势头。",
+  "content": "Apache Iggy 是一个由 Apache 软件基金会支持的开源项目，专注于构建超高效的消息流系统。它采用 Rust 语言开发，充分利用了 Rust 的内存安全性和并发性能优势，以实现极低延迟和高吞吐量的消息传递。该项目在 GitHub 上表现活跃，当前已获得 4818 颗星和 423 个分支，最近一周新增 193 颗星，表明社区关注度持续上升。Iggy 的设计目标是为分布式系统、微服务架构和实时数据处理场景提供可靠、快速的消息队列解决方案。其核心特性可能包括持久化存储、流式处理、多协议支持等，但具体细节需进一步查阅文档。作为 Apache 项目，Iggy 遵循开源治理规范，适合对性能要求苛刻的生产环境。",
+  "tags": [
+    "Apache",
+    "消息流",
+    "Rust",
+    "高性能",
+    "实时数据处理",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "apache",
+    "stars": 4818,
+    "forks": 423,
+    "daily_stars": null,
+    "weekly_stars": 193,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

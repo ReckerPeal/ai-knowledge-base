@@ -1,0 +1,33 @@
+{
+  "id": "20260908-github-3ee3cc6dee",
+  "title": "linshenkx/prompt-optimizer",
+  "source": "github_trending",
+  "source_url": "https://github.com/linshenkx/prompt-optimizer",
+  "summary": "linshenkx/prompt-optimizer 是一个 AI 提示词优化器，旨在帮助用户编写更优质的提示词，从而获得更佳的 AI 输出结果。该项目使用 TypeScript 开发，在 GitHub 上已获得 34k+ 星标，属于热门开源项目。",
+  "content": "## 项目概述\n\n**linshenkx/prompt-optimizer** 是一个专注于提示词优化的开源工具，其核心目标是帮助用户（尤其是 AI 应用开发者或普通用户）通过优化输入提示词，提升与大型语言模型（LLM）交互的效果。项目基于 TypeScript 构建，具备良好的类型安全性和可维护性。\n\n## 核心功能\n\n- **提示词优化**：自动分析并改进用户输入的提示词，使其更清晰、具体、结构化，从而引导 AI 生成更准确、相关的回答。\n- **提升 AI 输出质量**：通过优化提示词，减少模糊或歧义，增强模型对意图的理解，最终获得更高质量的生成结果。\n- **易集成**：作为 npm 包或库，可方便地集成到 Node.js 或前端项目中，为开发者提供编程式优化能力。\n\n## 技术特点\n\n- **语言**：TypeScript，提供类型定义，适合大型项目。\n- **架构**：模块化设计，可能包含规则引擎、模板化提示词、上下文分析等组件。\n- **适用场景**：适用于需要批量生成提示词的自动化流程、AI 应用开发、提示词工程研究等。\n\n## 项目热度\n\n- **Stars**：34,233（截至收集日期）\n- **Forks**：4,016\n- **周增长**：478 stars，表明近期关注度上升。\n\n## 总结\n\nprompt-optimizer 是提示词工程领域的一个实用工具，通过自动化优化提示词，帮助用户更高效地与 AI 协作。其 TypeScript 实现和开源性质使其成为开发者和研究者的不错选择。",
+  "tags": [
+    "AI",
+    "提示词优化",
+    "Prompt Engineering",
+    "TypeScript",
+    "开源工具",
+    "LLM",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:48+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "linshenkx",
+    "stars": 34233,
+    "forks": 4016,
+    "daily_stars": null,
+    "weekly_stars": 478,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

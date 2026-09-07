@@ -1,0 +1,34 @@
+{
+  "id": "20260908-github-c48e6a1911",
+  "title": "pmndrs/react-three-fiber",
+  "source": "github_trending",
+  "source_url": "https://github.com/pmndrs/react-three-fiber",
+  "summary": "react-three-fiber 是一个用于 Three.js 的 React 渲染器，允许开发者以声明式、组件化的方式构建 3D 场景，并充分利用 React 的生态与特性。",
+  "content": "react-three-fiber（简称 R3F）是 pmndrs 团队开发的一个开源库，它将 Three.js 的底层命令式 API 封装为 React 组件，使得 3D 图形开发可以像编写普通 React 应用一样直观。R3F 的核心优势在于：\n\n1. **声明式渲染**：通过 JSX 描述场景图，例如 `<mesh>`、`<boxGeometry>` 等组件，替代了繁琐的 `new THREE.Mesh()` 等命令。\n2. **React 集成**：自动处理生命周期、状态更新和卸载，支持 React 的 props、state、context 和 hooks，便于管理复杂交互。\n3. **性能优化**：内部使用 React Reconciler 与 Three.js 的渲染循环集成，支持帧循环、动画和响应式更新。\n4. **生态丰富**：与 pmndrs 其他库（如 zustand、drei、maath）无缝配合，提供大量实用组件和工具。\n5. **社区活跃**：拥有超过 32k 的 star，被广泛用于 Web 3D 可视化、游戏、产品展示等场景。\n\nR3F 适合熟悉 React 但希望快速上手 Three.js 的开发者，也适合需要将 3D 内容嵌入 React 应用的团队。",
+  "tags": [
+    "React",
+    "Three.js",
+    "3D",
+    "WebGL",
+    "渲染器",
+    "TypeScript",
+    "开源",
+    "前端"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:48+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "pmndrs",
+    "stars": 32166,
+    "forks": 1963,
+    "daily_stars": null,
+    "weekly_stars": 316,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

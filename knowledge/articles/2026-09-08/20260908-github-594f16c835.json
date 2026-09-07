@@ -1,0 +1,35 @@
+{
+  "id": "20260908-github-594f16c835",
+  "title": "netbirdio/netbird",
+  "source": "github_trending",
+  "source_url": "https://github.com/netbirdio/netbird",
+  "summary": "NetBird 是一个基于 WireGuard 的开源 overlay 网络工具，用于将设备安全地连接到一起，支持 SSO、MFA 和细粒度的访问控制。",
+  "content": "NetBird 是一个基于 WireGuard 的开源项目，旨在简化安全网络连接的建立。它允许用户将分散的设备（如笔记本电脑、服务器、云实例）连接到一个虚拟的 overlay 网络中，实现类似 VPN 的功能，但更轻量、更现代。其核心特性包括：\n- **基于 WireGuard**：利用 WireGuard 的高性能和现代加密技术，确保数据传输的安全。\n- **SSO 和 MFA 支持**：集成单点登录和多因素认证，增强身份验证的安全性。\n- **细粒度访问控制**：提供基于策略的访问管理，允许管理员精确控制设备之间的通信权限。\n- **易于使用**：提供跨平台客户端（Windows、macOS、Linux、iOS、Android）和简单的管理界面，降低了网络配置的复杂度。\n\n该项目在 GitHub 上非常活跃，拥有近 2.9 万星标，社区贡献积极。它适用于远程办公、多云环境、边缘计算等场景，可作为传统 VPN 的替代方案。",
+  "tags": [
+    "WireGuard",
+    "overlay-network",
+    "VPN",
+    "SSO",
+    "MFA",
+    "访问控制",
+    "Go",
+    "开源",
+    "网络工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "netbirdio",
+    "stars": 28979,
+    "forks": 1659,
+    "daily_stars": null,
+    "weekly_stars": 219,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

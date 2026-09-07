@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-12a4f31657",
+  "title": "GraphiteEditor/Graphite",
+  "source": "github_trending",
+  "source_url": "https://github.com/GraphiteEditor/Graphite",
+  "summary": "Graphite 是一个由社区构建的综合性 2D 内容创作应用，专注于平面设计、数字艺术和交互式实时动态图形，其核心是基于节点的程序化图形引擎。项目使用 Rust 语言开发，在 GitHub 上已获得 27k+ 星标。",
+  "content": "Graphite 是一个开源的 2D 图形编辑器，旨在成为 Photoshop 和 Illustrator 的替代品，同时引入节点式工作流。其核心亮点包括：\n- **节点式程序化引擎**：用户通过连接节点来构建非破坏性、可参数化的图形处理流程，支持实时预览和动态调整。\n- **多领域覆盖**：适用于平面设计、数字绘画、矢量图形、运动图形等场景，强调交互式实时渲染。\n- **技术栈**：使用 Rust 编写核心逻辑，前端基于 Web 技术（如 WASM），支持浏览器运行，也可作为桌面应用。\n- **社区驱动**：项目由 GraphiteEditor 组织维护，目前拥有 27,158 个 star 和 1,249 个 fork，周增长约 152 star，显示出较高的社区活跃度。\n- **开发状态**：项目处于积极开发阶段，持续迭代新功能，适合对图形学、Rust 和创意工具感兴趣的开发者参与贡献。",
+  "tags": [
+    "2D 图形",
+    "节点式编辑",
+    "Rust",
+    "开源软件",
+    "设计工具",
+    "程序化图形"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "GraphiteEditor",
+    "stars": 27158,
+    "forks": 1249,
+    "daily_stars": null,
+    "weekly_stars": 152,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

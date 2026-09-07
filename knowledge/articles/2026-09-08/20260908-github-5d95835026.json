@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-5d95835026",
+  "title": "v2fly/domain-list-community",
+  "source": "github_trending",
+  "source_url": "https://github.com/v2fly/domain-list-community",
+  "summary": "v2fly/domain-list-community 是一个社区维护的域名列表仓库，用于生成 V2Ray 所需的 geosite.dat 数据文件。该项目由 v2fly 组织维护，在 GitHub 上拥有 9454 颗星和 1418 个 fork，是 V2Ray 生态中重要的数据源之一。",
+  "content": "该项目旨在为 V2Ray 提供基于社区协作的域名分类列表，最终编译生成 geosite.dat 文件，供 V2Ray 等代理工具进行路由分流。其核心价值在于：\n1. **社区驱动**：域名列表由全球志愿者共同维护，覆盖大量常见网站和服务，并持续更新。\n2. **分类明确**：域名按用途或属性分类（如广告、社交媒体、购物等），便于用户灵活配置代理规则。\n3. **自动化生成**：通过脚本将文本列表转换为 V2Ray 可用的 geosite.dat 二进制格式，简化部署流程。\n4. **生态集成**：与 V2Ray 及衍生工具（如 v2rayN、Qv2ray）无缝集成，是科学上网和网络分流的基础组件。\n\n该项目使用 Go 语言编写，主要涉及数据处理和文件生成逻辑。由于社区活跃度高，列表更新频繁，能及时响应网络环境变化，因此受到广泛使用。",
+  "tags": [
+    "V2Ray",
+    "geosite",
+    "域名列表",
+    "社区维护",
+    "网络分流",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "v2fly",
+    "stars": 9454,
+    "forks": 1418,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

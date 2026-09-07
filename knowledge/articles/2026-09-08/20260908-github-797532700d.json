@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-797532700d",
+  "title": "siderolabs/talos",
+  "source": "github_trending",
+  "source_url": "https://github.com/siderolabs/talos",
+  "summary": "Talos Linux 是一个专为 Kubernetes 设计的现代 Linux 发行版。",
+  "content": "Talos Linux 是一个专为 Kubernetes 设计的现代 Linux 发行版。它旨在提供一种最小化、安全且不可变的操作系统，专门用于运行 Kubernetes 集群。Talos 的设计理念是“API 驱动”，所有系统管理都通过 Kubernetes API 或 gRPC 接口进行，无需 SSH 登录。这使得系统更安全、更易于自动化管理。Talos 支持多种平台，包括裸机、云平台和虚拟化环境。它内置了高可用性（HA）控制平面支持，并提供了自动节点引导和集群发现功能。Talos 还支持滚动升级和回滚，确保集群的稳定性和可维护性。该项目由 Sidero Labs 维护，在 GitHub 上拥有超过 11,000 颗星，社区活跃。",
+  "tags": [
+    "Kubernetes",
+    "Linux",
+    "操作系统",
+    "云原生",
+    "Talos",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "siderolabs",
+    "stars": 11113,
+    "forks": 890,
+    "daily_stars": null,
+    "weekly_stars": 57,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

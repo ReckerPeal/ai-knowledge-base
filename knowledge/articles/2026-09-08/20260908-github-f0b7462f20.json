@@ -1,0 +1,31 @@
+{
+  "id": "20260908-github-f0b7462f20",
+  "title": "huggingface/datasets",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/datasets",
+  "summary": "Hugging Face 的 datasets 库是 AI 模型就绪数据集的中心枢纽，提供快速、易用且高效的数据操作工具。",
+  "content": "Hugging Face 的 datasets 库是 AI 模型就绪数据集的中心枢纽，提供快速、易用且高效的数据操作工具。该库旨在简化数据集的加载、处理和共享流程，支持与 Hugging Face Hub 无缝集成，用户可轻松访问数千个公开数据集。其核心特性包括：内存映射机制实现大数据集的高效加载、与 Pandas 和 NumPy 的互操作性、内置的预处理和分词功能，以及支持自定义数据集脚本。该库在 NLP、计算机视觉和多模态任务中广泛应用，是 Hugging Face 生态系统的关键组件。",
+  "tags": [
+    "数据集",
+    "Hugging Face",
+    "数据操作",
+    "Python",
+    "AI工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:38+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 21947,
+    "forks": 3412,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

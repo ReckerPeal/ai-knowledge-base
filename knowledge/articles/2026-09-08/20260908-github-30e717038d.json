@@ -1,0 +1,34 @@
+{
+  "id": "20260908-github-30e717038d",
+  "title": "smallstep/certificates",
+  "source": "github_trending",
+  "source_url": "https://github.com/smallstep/certificates",
+  "summary": "smallstep/certificates 是一个用 Go 编写的私有证书颁发机构（CA）和 ACME 服务器，支持 X.509 和 SSH 证书，用于安全自动化的证书管理，旨在实现无处不在的 TLS 和 SSH 的 SSO。",
+  "content": "该项目为 smallstep/certificates，是一个开源的私有证书颁发机构（CA）和 ACME 服务器，基于 Go 语言实现。它支持 X.509 和 SSH 证书的签发与管理，提供自动化的证书生命周期管理，包括签发、续期和吊销。通过实现 ACME 协议，它允许客户端自动获取证书，简化了 TLS 证书的部署。同时，它支持 SSH 证书，可用于 SSH 的单点登录（SSO），增强 SSH 访问的安全性。该项目的目标是让 TLS 和 SSH 证书管理更加简单、安全，适用于云原生环境。",
+  "tags": [
+    "证书颁发机构",
+    "ACME",
+    "X.509",
+    "SSH",
+    "TLS",
+    "Go",
+    "自动化证书管理",
+    "私有CA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "smallstep",
+    "stars": 8842,
+    "forks": 590,
+    "daily_stars": null,
+    "weekly_stars": 48,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

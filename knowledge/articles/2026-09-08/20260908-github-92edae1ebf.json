@@ -1,0 +1,33 @@
+{
+  "id": "20260908-github-92edae1ebf",
+  "title": "aipoch/open-science",
+  "source": "github_trending",
+  "source_url": "https://github.com/aipoch/open-science",
+  "summary": "AIPOCH 团队推出的 Open Science 是一个开源、本地优先、模型无关的 AI 科研工作台，支持 macOS、Windows 和 Linux 平台。它集成了科学智能体、Python/R 笔记本、数据连接器以及可复现的溯源功能，旨在为科研人员提供高效、透明、可复现的 AI 辅助研究环境。",
+  "content": "Open Science 是一个面向科研场景的 AI 工作台，其核心特性包括：\n\n- **本地优先**：数据和处理过程默认在本地运行，保障数据隐私和安全。\n- **模型无关**：支持接入多种 AI 模型（如 OpenAI、Anthropic、本地模型等），用户可自由选择。\n- **科学智能体**：内置可定制的 AI 智能体，辅助文献分析、实验设计、数据解读等科研任务。\n- **Python/R 笔记本**：集成 Jupyter 和 R Markdown 环境，方便数据分析和可视化。\n- **数据连接器**：提供多种数据源接口（如 CSV、数据库、云存储等），便于数据导入和整合。\n- **可复现溯源**：自动记录实验步骤、代码版本和参数，确保研究结果的可复现性。\n\n该项目采用 TypeScript 开发，在 GitHub 上已获得 4086 星标和 247 次 fork，周增长 640 星，显示出社区的高度关注。适合需要 AI 辅助但要求数据可控的科研团队和个人研究者。",
+  "tags": [
+    "AI 科研",
+    "开源工具",
+    "本地优先",
+    "模型无关",
+    "科学智能体",
+    "可复现性",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:48+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "aipoch",
+    "stars": 4086,
+    "forks": 247,
+    "daily_stars": null,
+    "weekly_stars": 640,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

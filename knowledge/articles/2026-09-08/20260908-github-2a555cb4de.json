@@ -1,0 +1,34 @@
+{
+  "id": "20260908-github-2a555cb4de",
+  "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "source": "github_trending",
+  "source_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "summary": "Universal Android Debloater Next Generation 是一个用 Rust 编写的跨平台 GUI 工具，通过 ADB 对非 root 的 Android 设备进行去臃肿（debloat）操作，旨在提升设备隐私、安全性和电池续航。",
+  "content": "## 项目概述\nUniversal-Debloater-Alliance/universal-android-debloater-next-generation 是一个开源项目，提供跨平台的图形用户界面（GUI），利用 Android Debug Bridge (ADB) 来移除非 root Android 设备上的预装应用和系统组件。该工具主要面向希望精简设备、增强隐私保护、提升安全性和延长电池寿命的用户。\n\n## 技术特点\n- **语言与框架**：使用 Rust 编写，确保高性能和内存安全。\n- **跨平台支持**：支持 Windows、macOS 和 Linux 等主流操作系统。\n- **非 root 操作**：通过 ADB 实现，无需设备 root，降低使用门槛和风险。\n- **GUI 界面**：提供友好的图形界面，方便用户选择要移除的应用。\n\n## 功能与优势\n- **隐私保护**：移除可能收集数据的预装应用，减少数据泄露风险。\n- **安全增强**：删除潜在漏洞或恶意软件组件，提高系统安全性。\n- **电池优化**：卸载后台运行的应用，减少资源消耗，延长电池续航。\n\n## 社区与热度\n该项目在 GitHub 上拥有超过 9000 颗星，近期周增星约 112 颗，显示出较高的社区关注度和活跃度。项目由 Universal-Debloater-Alliance 组织维护，持续迭代更新。",
+  "tags": [
+    "Android",
+    "ADB",
+    "Rust",
+    "隐私保护",
+    "去臃肿",
+    "跨平台",
+    "GUI",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Universal-Debloater-Alliance",
+    "stars": 9083,
+    "forks": 387,
+    "daily_stars": null,
+    "weekly_stars": 112,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260908-github-452124a1ec",
+  "title": "github/github-mcp-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/github-mcp-server",
+  "summary": "GitHub 官方发布的 MCP（模型上下文协议）服务器，用于连接 AI 助手与 GitHub API，实现仓库管理、Issue 操作等自动化功能。",
+  "content": "## GitHub MCP Server 深度解析\n\nGitHub MCP Server 是 GitHub 官方推出的 Model Context Protocol (MCP) 服务器实现，旨在为 AI 助手（如 Claude、Copilot 等）提供标准化的 GitHub API 访问接口。该项目使用 Go 语言开发，目前拥有 32.8k 星标，是 GitHub 热点项目。\n\n### 核心功能\n- **仓库管理**：支持创建、删除、更新仓库，查看仓库详情和文件内容。\n- **Issue 与 PR 操作**：可创建、评论、关闭 Issue 和 Pull Request，管理标签和里程碑。\n- **代码搜索**：通过 GitHub 搜索 API 快速定位代码、仓库、用户等。\n- **用户与组织信息**：获取用户资料、组织成员列表等。\n\n### 技术架构\n- **基于 MCP 协议**：遵循 Anthropic 提出的 MCP 标准，支持 JSON-RPC 通信，易于集成到支持 MCP 的客户端。\n- **Go 语言实现**：利用 Go 的高并发和静态编译特性，提供高性能、跨平台的二进制文件。\n- **官方维护**：由 GitHub 官方团队维护，确保 API 兼容性和稳定性。\n\n### 应用场景\n- **AI 编程助手**：让 AI 直接操作 GitHub 仓库，实现自动化代码审查、Issue 分类等。\n- **DevOps 自动化**：通过 AI 触发 CI/CD 流程、管理部署状态。\n- **智能客服**：根据 Issue 内容自动回复或分配处理人。\n\n### 快速开始\n1. 安装 MCP 服务器：`go install github.com/github/github-mcp-server@latest`\n2. 配置 GitHub 个人访问令牌（PAT）\n3. 在支持 MCP 的客户端（如 Claude Desktop）中添加服务器配置\n\n### 社区与生态\n- 作为官方项目，拥有活跃的贡献者社区，持续迭代新功能。\n- 与 GitHub Copilot 等产品深度集成，是 AI 辅助开发基础设施的关键组件。\n\n该项目降低了 AI 与 GitHub 交互的门槛，是构建智能开发工作流的重要工具。",
+  "tags": [
+    "MCP",
+    "GitHub",
+    "AI",
+    "Go",
+    "API",
+    "自动化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:44+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "github",
+    "stars": 32785,
+    "forks": 4922,
+    "daily_stars": 33,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

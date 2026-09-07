@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-1555ed6bcb",
+  "title": "jingyaogong/minimind",
+  "source": "github_trending",
+  "source_url": "https://github.com/jingyaogong/minimind",
+  "summary": "该项目展示了如何从零开始训练一个仅 64M 参数的小型语言模型，整个过程只需约 2 小时，极大降低了 LLM 训练的门槛。",
+  "content": "## 项目概述\n\n**jingyaogong/minimind** 是一个专注于教育和实验的开源项目，旨在让开发者能够快速上手训练自己的小型语言模型。通过精简模型架构和优化训练流程，项目实现了在普通硬件（如消费级 GPU）上，用极短时间（约 2 小时）完成 64M 参数模型的训练。\n\n## 核心特点\n\n- **轻量级架构**：模型参数量仅为 64M，适合资源受限的环境。\n- **快速训练**：训练时间短，便于快速迭代和实验。\n- **从零开始**：不依赖预训练权重，完整展示训练流程。\n- **开源友好**：代码清晰，文档完善，适合学习研究。\n\n## 技术要点\n\n- 使用 PyTorch 等主流框架实现。\n- 可能采用 Transformer 架构的简化版本。\n- 数据预处理、训练循环、评估等环节均有详细实现。\n\n## 适用场景\n\n- 学习 LLM 训练原理的开发者。\n- 需要快速验证模型想法的研究人员。\n- 对模型压缩和高效训练感兴趣的工程师。\n\n## 社区反馈\n\n项目在 GitHub 上获得超过 59k 星标，周增长近 4k，表明其受到广泛关注和认可。",
+  "tags": [
+    "LLM",
+    "训练",
+    "轻量级",
+    "教育",
+    "PyTorch",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:46+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "jingyaogong",
+    "stars": 59440,
+    "forks": 7710,
+    "daily_stars": null,
+    "weekly_stars": 3816,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

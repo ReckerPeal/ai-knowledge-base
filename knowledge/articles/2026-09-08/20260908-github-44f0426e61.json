@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-44f0426e61",
+  "title": "browser-use/browser-use",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个开源项目，旨在让 AI 代理能够轻松访问和操作网站，从而自动化在线任务。该项目在 GitHub 上获得了超过 11 万星标，显示出其广泛的关注度和应用潜力。",
+  "content": "## 项目概述\nbrowser-use 是一个基于 Python 的开源库，它提供了一种机制，使 AI 代理（如大型语言模型）能够与网页进行交互，执行诸如填写表单、点击按钮、提取数据等操作。其核心目标是打破 AI 与网络之间的壁垒，让 AI 能够像人类一样使用浏览器，从而自动化各种在线工作流程。\n\n## 主要特点\n- **AI 代理友好**：专为 AI 代理设计，提供简洁的 API 接口，便于集成到智能体系统中。\n- **自动化任务**：支持自动化重复性网页操作，提高效率。\n- **开源社区**：拥有活跃的开发者社区，持续迭代更新。\n\n## 技术实现\n项目利用浏览器自动化工具（如 Playwright 或 Selenium）来控制浏览器，并通过结构化提示或指令解析，将 AI 的决策转化为具体的浏览器操作。它可能包含 DOM 解析、元素定位、事件触发等模块，以实现对网页的精细控制。\n\n## 应用场景\n- 智能体自动完成数据采集、信息检索。\n- 自动化测试中的用户行为模拟。\n- 构建个人 AI 助手，执行在线预订、购物等任务。\n\n## 社区与热度\n该项目在 GitHub 上表现突出，拥有 112,925 星标和 12,456 分支，日增星标 330，表明其正处于快速上升期，受到开发者广泛关注。",
+  "tags": [
+    "AI代理",
+    "浏览器自动化",
+    "Python",
+    "开源",
+    "网页交互",
+    "任务自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:38+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "browser-use",
+    "stars": 112925,
+    "forks": 12456,
+    "daily_stars": 330,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

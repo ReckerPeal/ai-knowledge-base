@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-ecfcda1139",
+  "title": "gofiber/fiber",
+  "source": "github_trending",
+  "source_url": "https://github.com/gofiber/fiber",
+  "summary": "gofiber/fiber 是一个用 Go 编写的、受 Express 启发的 Web 框架，在 GitHub 上拥有 40k+ 星标，是 Go 社区热门的 Web 开发选择。",
+  "content": "## gofiber/fiber 项目分析\n\n**项目定位**：gofiber/fiber 是一个基于 Go 语言的高性能 Web 框架，其设计灵感来源于 Node.js 的 Express 框架，旨在为 Go 开发者提供类似 Express 的简洁 API 和开发体验，同时充分利用 Go 的并发和性能优势。\n\n**核心特性**：\n- **Express 风格 API**：路由、中间件、请求处理等概念与 Express 高度相似，降低了 Node.js 开发者的迁移成本。\n- **高性能**：基于 fasthttp 实现，性能优于标准库 net/http，适合高并发场景。\n- **中间件生态**：提供丰富的内置中间件和第三方中间件，支持日志、恢复、CORS、JWT 等常见功能。\n- **路由组**：支持路由分组，便于组织大型应用。\n- **静态文件服务**：内置静态文件服务，方便部署前端应用。\n- **WebSocket 支持**：提供 WebSocket 升级支持，便于构建实时应用。\n\n**社区与热度**：该项目在 GitHub 上拥有 40,135 个星标和 2,028 个 fork，属于 Go 语言 Web 框架中的明星项目。虽然近期日增星标数据缺失，但周增星标 41 个，表明其仍保持一定的活跃度和关注度。\n\n**适用场景**：适合需要快速构建 RESTful API、微服务、Web 应用后端的 Go 开发者，尤其是希望获得类似 Express 开发体验的团队。\n\n**总结**：gofiber/fiber 是一个成熟、高性能且易用的 Go Web 框架，凭借其 Express 风格和 fasthttp 底层，在 Go 社区中占据重要地位，是构建现代 Web 服务的优秀选择。",
+  "tags": [
+    "Go",
+    "Web框架",
+    "Express",
+    "高性能",
+    "fasthttp",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gofiber",
+    "stars": 40135,
+    "forks": 2028,
+    "daily_stars": null,
+    "weekly_stars": 41,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

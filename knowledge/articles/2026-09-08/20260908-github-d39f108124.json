@@ -1,0 +1,32 @@
+{
+  "id": "20260908-github-d39f108124",
+  "title": "martin-olivier/airgorah",
+  "source": "github_trending",
+  "source_url": "https://github.com/martin-olivier/airgorah",
+  "summary": "airgorah 是一款基于 aircrack-ng 工具套件的 WiFi 安全审计软件，使用 Rust 语言开发，在 GitHub 上获得 3055 星和 490 次 fork，近期热度上升（周增 572 星）。",
+  "content": "airgorah 是一个专注于 WiFi 安全审计的开源项目，其核心功能依赖于成熟的 aircrack-ng 工具套件，旨在提供更友好或更高效的 WiFi 安全测试体验。项目采用 Rust 语言编写，这赋予了它内存安全和高性能的特性，适合处理底层网络操作。该项目在 GitHub 上表现活跃，拥有 3055 个 star 和 490 个 fork，且最近一周内 star 数增加了 572，表明其受到社区广泛关注。作为安全审计工具，它可能包含抓包、密码破解、网络分析等功能，适用于安全研究人员、渗透测试人员以及网络管理员。需要注意的是，此类工具应仅用于合法授权测试，避免非法使用。",
+  "tags": [
+    "WiFi安全",
+    "安全审计",
+    "aircrack-ng",
+    "Rust",
+    "网络工具",
+    "渗透测试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "martin-olivier",
+    "stars": 3055,
+    "forks": 490,
+    "daily_stars": null,
+    "weekly_stars": 572,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

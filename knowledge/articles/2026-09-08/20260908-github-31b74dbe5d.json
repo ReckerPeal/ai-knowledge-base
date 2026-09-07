@@ -1,0 +1,37 @@
+{
+  "id": "20260908-github-31b74dbe5d",
+  "title": "MHSanaei/3x-ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/MHSanaei/3x-ui",
+  "summary": "3x-ui 是一个基于 Go 语言开发的多协议、多用户面板，支持 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun、MTProto、AmneziaWG 等协议，在 GitHub 上拥有 46k+ Star，是当前热门的网络代理管理工具。",
+  "content": "## 项目概览\n\n3x-ui 是一个功能强大的多协议、多用户 Web 管理面板，主要面向网络代理服务的管理与部署。项目使用 Go 语言开发，具备高性能和低资源占用的特点。\n\n## 核心特性\n\n- **多协议支持**：全面支持 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun、MTProto、AmneziaWG 等主流代理协议，满足不同场景需求。\n- **多用户管理**：提供完善的用户管理功能，支持流量统计、到期时间设置、权限控制等。\n- **Web 面板**：基于 Web 的图形化管理界面，操作简单直观，降低使用门槛。\n- **高性能**：基于 Go 语言开发，具备优异的并发处理能力和运行效率。\n\n## 技术亮点\n\n- 采用 Go 语言编写，编译为单一二进制文件，部署简单。\n- 支持多种传输层协议（Tun、Tunnel、Mixed），可灵活构建网络拓扑。\n- 集成 AmneziaWG 等现代 VPN 协议，增强安全性与穿透能力。\n\n## 项目热度\n\n该项目在 GitHub 上表现突出，拥有 46,015 个 Star 和 11,251 个 Fork，日增 Star 约 45 个，显示出持续的高关注度和活跃的社区生态。\n\n## 适用场景\n\n- 个人或团队搭建科学上网/代理服务。\n- 需要多协议、多用户管理的网络服务提供商。\n- 对代理性能和管理便捷性有较高要求的开发者。",
+  "tags": [
+    "Go",
+    "代理面板",
+    "多协议",
+    "Vmess",
+    "Vless",
+    "Trojan",
+    "ShadowSocks",
+    "Wireguard",
+    "Hysteria",
+    "Web管理",
+    "多用户"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "MHSanaei",
+    "stars": 46015,
+    "forks": 11251,
+    "daily_stars": 45,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

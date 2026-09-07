@@ -1,0 +1,35 @@
+{
+  "id": "20260908-github-9b2dee425e",
+  "title": "slackhq/nebula",
+  "source": "github_trending",
+  "source_url": "https://github.com/slackhq/nebula",
+  "summary": "Nebula 是 Slack 开发的一款可扩展的覆盖网络（overlay networking）工具，专注于高性能、简单性和安全性。它使用现代密码学（如 Noise 协议框架）实现节点间的加密通信，并采用基于证书的认证机制，支持灵活的网络拓扑和动态 IP 环境。该项目在 GitHub 上拥有超过 1.8 万星标，近期周增星标 642，热度持续上升。",
+  "content": "## 项目概述\nNebula 是一个开源的覆盖网络工具，由 Slack 团队设计并维护，旨在为分布式系统或跨地域网络提供安全、高效、易扩展的节点互联方案。其核心设计理念是“性能、简单、安全”，适用于混合云、边缘计算、物联网等场景。\n\n## 核心特性\n- **高性能**：基于 Go 语言实现，采用用户态数据包处理，减少内核开销，支持高吞吐低延迟通信。\n- **安全性**：使用 Noise 协议框架进行加密和认证，默认启用端到端加密，支持证书签发与吊销，确保节点身份可信。\n- **简单性**：配置简洁，无需复杂密钥管理，通过 lighthouse 节点实现 NAT 穿透和动态 IP 发现，降低运维成本。\n- **可扩展性**：支持大规模节点组网，网络拓扑灵活，可跨公有云、私有云及物理机部署。\n\n## 技术架构\nNebula 采用中心化 lighthouse 与点对点混合架构：lighthouse 负责节点发现和路由信息同步，实际数据流通过节点间直接加密隧道传输。其证书体系基于椭圆曲线密钥，支持细粒度权限控制（如 IP 范围、子网访问）。\n\n## 应用场景\n- 多数据中心互联\n- 远程办公 VPN 替代方案\n- Kubernetes 集群跨云组网\n- 物联网设备安全通信\n\n## 社区与热度\n该项目在 GitHub 上获得 18308 星标和 1181 次 fork，近期周增星标 642，表明社区关注度较高。其语言为 Go，属于 GitHub 热点项目中的网络基础设施类别。",
+  "tags": [
+    "overlay-network",
+    "networking",
+    "security",
+    "encryption",
+    "vpn",
+    "go",
+    "distributed-systems",
+    "nat-traversal",
+    "zero-trust"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-08T02:27:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "slackhq",
+    "stars": 18308,
+    "forks": 1181,
+    "daily_stars": null,
+    "weekly_stars": 642,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
