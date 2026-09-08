@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-c48e6a1911",
+  "title": "pmndrs/react-three-fiber",
+  "source": "github_trending",
+  "source_url": "https://github.com/pmndrs/react-three-fiber",
+  "summary": "react-three-fiber 是一个用于 Three.js 的 React 渲染器，允许开发者以声明式、组件化的方式在 React 应用中构建 3D 场景。",
+  "content": "react-three-fiber 是 pmndrs 团队开发的一个开源库，它将 Three.js 的底层命令式 API 转换为 React 的声明式组件模型。这意味着开发者可以使用 JSX 语法和 React 的状态管理、生命周期等特性来创建和操作 3D 对象、场景、相机和材质，而无需直接编写繁琐的 Three.js 代码。该库与 React 生态无缝集成，支持 React 18 的并发特性，并提供了丰富的 hooks 和辅助工具，使得在 Web 应用中构建高性能的 3D 图形变得简单直观。该项目在 GitHub 上拥有超过 3.2 万颗星，是 React 3D 开发领域最流行的解决方案之一。",
+  "tags": [
+    "React",
+    "Three.js",
+    "3D",
+    "WebGL",
+    "渲染器",
+    "TypeScript",
+    "前端"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:40+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "pmndrs",
+    "stars": 32196,
+    "forks": 1963,
+    "daily_stars": null,
+    "weekly_stars": 335,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

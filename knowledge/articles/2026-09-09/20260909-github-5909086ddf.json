@@ -1,0 +1,32 @@
+{
+  "id": "20260909-github-5909086ddf",
+  "title": "feschber/lan-mouse",
+  "source": "github_trending",
+  "source_url": "https://github.com/feschber/lan-mouse",
+  "summary": "lan-mouse 是一个基于 Rust 的局域网鼠标键盘共享工具，允许用户在同一局域网内跨设备共享输入设备，实现类似 KVM 的软件解决方案。",
+  "content": "## 项目概述\nlan-mouse 是一个用 Rust 编写的开源工具，专注于通过局域网（LAN）实现鼠标和键盘的共享。它允许用户在多台计算机之间无缝切换鼠标和键盘控制，无需额外的硬件 KVM 切换器。该项目在 GitHub 上受到广泛关注，目前拥有 5241 颗星和 264 个 fork，显示出社区的高度认可。\n\n## 核心功能\n- **跨设备输入共享**：通过局域网连接，将一台设备的鼠标和键盘输入转发到另一台设备，实现统一控制。\n- **低延迟传输**：基于 Rust 的高性能网络编程，确保输入事件的低延迟传输，提升用户体验。\n- **跨平台支持**：虽然主要使用 Rust 编写，但项目可能支持多种操作系统（如 Windows、Linux、macOS），具体取决于编译目标。\n- **安全连接**：可能采用加密或认证机制，确保局域网内传输的安全性。\n\n## 技术亮点\n- **Rust 语言**：利用 Rust 的内存安全和并发特性，构建稳定且高效的网络服务。\n- **网络协议设计**：自定义或采用现有协议（如 TCP/UDP）进行数据同步，优化传输效率。\n- **模块化架构**：代码结构清晰，便于扩展新功能或支持更多平台。\n\n## 适用场景\n- 多台电脑共用一套键鼠，减少桌面杂乱。\n- 开发者或设计师在多设备间切换工作，提高效率。\n- 家庭或办公环境中，快速切换控制不同计算机。\n\n## 社区与趋势\n该项目在 GitHub 热点中排名靠前，每周获得约 48 颗新星，表明其持续受到关注。作者 feschber 积极维护，社区反馈活跃。未来可能增加更多功能，如剪贴板共享、文件拖放等。\n\n## 总结\nlan-mouse 是一个实用且技术先进的局域网键鼠共享工具，适合需要多设备协同工作的用户。其 Rust 实现保证了性能和可靠性，是开源社区中值得关注的项目。",
+  "tags": [
+    "Rust",
+    "局域网",
+    "鼠标键盘共享",
+    "KVM",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:42+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "feschber",
+    "stars": 5241,
+    "forks": 264,
+    "daily_stars": null,
+    "weekly_stars": 48,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

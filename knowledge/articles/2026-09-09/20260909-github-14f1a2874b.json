@@ -1,0 +1,31 @@
+{
+  "id": "20260909-github-14f1a2874b",
+  "title": "rust-unofficial/awesome-rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-unofficial/awesome-rust",
+  "summary": "rust-unofficial/awesome-rust 是一个精心策划的 Rust 代码和资源列表，汇集了 Rust 生态中最有价值的库、工具和文章，为开发者提供了全面的学习与实践指南。",
+  "content": "该项目是 Rust 社区最权威的资源索引，由 rust-unofficial 组织维护，收录了从基础入门到高级实战的各类资源。内容涵盖：\n- **核心库与框架**：包括异步编程（tokio、async-std）、Web 开发（actix-web、rocket）、系统编程（libc、nix）等。\n- **开发工具**：如 Cargo 插件（cargo-edit、cargo-audit）、调试工具（gdb、lldb）等。\n- **学习资源**：官方书籍、在线教程、视频课程等。\n- **社区项目**：精选的优质开源项目，展示 Rust 在实际场景中的应用。\n\n该项目持续更新，每周新增约 175 个星标，反映了 Rust 生态的活跃度。对于 Rust 开发者而言，这是快速定位高质量资源的首选入口。",
+  "tags": [
+    "Rust",
+    "awesome-list",
+    "资源汇总",
+    "开发工具",
+    "学习资料"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:42+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-unofficial",
+    "stars": 59244,
+    "forks": 3599,
+    "daily_stars": null,
+    "weekly_stars": 175,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

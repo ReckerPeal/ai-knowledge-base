@@ -1,0 +1,34 @@
+{
+  "id": "20260909-github-3115c6f7bb",
+  "title": "vllm-project/semantic-router",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/semantic-router",
+  "summary": "vllm-project/semantic-router 是一个可编程的混合模型路由器，专为异构 LLM 推理设计。它允许用户根据语义意图将请求动态路由到不同的模型或模型组合，从而优化推理成本、延迟和效果。该项目使用 Go 语言开发，在 GitHub 上获得 5667 星标，近期热度上升。",
+  "content": "## 项目概述\nsemantic-router 是一个面向异构 LLM 推理场景的可编程混合模型路由器。其核心价值在于通过语义路由机制，将不同复杂度的查询智能分发到最合适的模型上，实现成本与性能的平衡。\n\n## 核心功能\n- **可编程路由策略**：支持用户自定义路由规则，可根据输入语义、模型能力、成本预算等条件灵活配置。\n- **混合模型编排**：支持将多个 LLM（如不同规模的开源模型或 API 模型）组合成统一的服务入口，实现模型间的协同工作。\n- **语义意图识别**：利用嵌入或分类模型理解用户请求的语义，自动匹配最优处理路径。\n- **异构推理优化**：针对不同模型的特性和推理环境（如本地 GPU、云端 API）进行智能调度，降低延迟和费用。\n\n## 技术特点\n- **Go 语言实现**：具备高并发、低资源占用的优势，适合作为网关层组件。\n- **与 vLLM 生态协同**：项目由 vLLM 团队维护，天然适配 vLLM 的高性能推理引擎，可无缝集成到现有 LLM 服务栈中。\n- **可观测性与扩展性**：提供接口便于监控路由决策和模型性能，支持自定义扩展。\n\n## 适用场景\n- 需要同时服务多种规模模型的企业级 LLM 平台。\n- 对推理成本敏感，希望将简单请求导向小模型、复杂请求导向大模型的应用。\n- 构建高可用、低延迟的 LLM 网关或代理层。",
+  "tags": [
+    "LLM",
+    "模型路由",
+    "混合模型",
+    "推理优化",
+    "Go",
+    "vLLM",
+    "语义路由",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 5667,
+    "forks": 924,
+    "daily_stars": null,
+    "weekly_stars": 191,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

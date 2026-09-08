@@ -1,0 +1,32 @@
+{
+  "id": "20260909-github-a32da244ed",
+  "title": "moby/buildkit",
+  "source": "github_trending",
+  "source_url": "https://github.com/moby/buildkit",
+  "summary": "moby/buildkit 是一个并发、缓存高效且与 Dockerfile 无关的构建工具包。",
+  "content": "moby/buildkit 是由 Docker 团队维护的开源构建工具包，旨在提供高效、可扩展的容器镜像构建能力。它采用并发架构，能够并行处理构建任务，显著提升构建速度。其缓存机制经过优化，能够智能复用层缓存，减少重复构建时间。与 Dockerfile 无关的设计意味着它支持多种前端格式，不仅限于传统的 Dockerfile，还可以集成其他构建描述语言。该项目在 GitHub 上拥有超过 1 万星标，是容器构建领域的重要基础设施。",
+  "tags": [
+    "构建工具",
+    "容器",
+    "Docker",
+    "缓存",
+    "并发",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "moby",
+    "stars": 10245,
+    "forks": 1512,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

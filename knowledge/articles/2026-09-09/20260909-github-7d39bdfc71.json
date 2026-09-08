@@ -1,0 +1,32 @@
+{
+  "id": "20260909-github-7d39bdfc71",
+  "title": "majd/ipatool",
+  "source": "github_trending",
+  "source_url": "https://github.com/majd/ipatool",
+  "summary": "ipatool 是一个命令行工具，允许用户从 App Store 搜索并下载 iOS、iPadOS、tvOS 和 visionOS 应用的 IPA 文件。",
+  "content": "## 项目概述\nipatool 是一个用 Go 语言编写的命令行工具，旨在简化从 Apple App Store 获取 IPA 文件的过程。它支持搜索和下载适用于 iOS、iPadOS、tvOS 和 visionOS 的应用包。该工具在 GitHub 上拥有超过 11k 星标，近期热度上升（周增 570 星），表明其受到开发者社区的广泛关注。\n\n## 主要功能\n- **搜索应用**：通过关键词在 App Store 中搜索应用。\n- **下载 IPA**：直接下载应用的 .ipa 文件，便于测试、存档或逆向分析。\n- **多平台支持**：覆盖 Apple 生态系统的多个操作系统。\n\n## 技术特点\n- **语言**：Go，编译为单一可执行文件，易于分发。\n- **命令行友好**：适合脚本化和自动化集成。\n\n## 适用场景\n- 开发者需要获取应用包进行调试或测试。\n- 安全研究人员分析应用内容。\n- 需要离线备份或分发应用的用户。\n\n## 注意事项\n- 使用该工具可能涉及 Apple 的服务条款，请确保遵守相关法律法规。\n- 下载的 IPA 文件可能受 DRM 保护，仅限合法用途。",
+  "tags": [
+    "Go",
+    "命令行工具",
+    "App Store",
+    "IPA下载",
+    "iOS开发",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "majd",
+    "stars": 11016,
+    "forks": 919,
+    "daily_stars": null,
+    "weekly_stars": 570,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

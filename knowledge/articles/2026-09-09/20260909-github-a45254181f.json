@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-a45254181f",
+  "title": "nautechsystems/nautilus_trader",
+  "source": "github_trending",
+  "source_url": "https://github.com/nautechsystems/nautilus_trader",
+  "summary": "nautilus_trader 是一个生产级、基于 Rust 原生构建的交易引擎，采用确定性事件驱动架构，旨在提供高性能、低延迟的交易执行和回测能力。",
+  "content": "nautilus_trader 是一个用 Rust 语言开发的高性能交易引擎，其核心设计强调生产级可靠性和确定性事件驱动架构。该引擎支持多种交易策略的开发与执行，包括算法交易、量化交易等场景。其 Rust 原生实现确保了低延迟和高吞吐量，适合对性能要求严苛的金融应用。项目在 GitHub 上拥有 28,655 颗星和 3,736 个 fork，显示出活跃的社区关注和广泛的使用基础。每日新增约 59 颗星，表明其持续受到开发者青睐。该引擎可能提供回测、实时交易、市场数据接入等功能，并支持事件驱动编程模型，使得交易逻辑的编写和执行更加确定和可预测。",
+  "tags": [
+    "交易引擎",
+    "Rust",
+    "事件驱动",
+    "高性能",
+    "量化交易",
+    "低延迟",
+    "生产级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:33+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "nautechsystems",
+    "stars": 28655,
+    "forks": 3736,
+    "daily_stars": 59,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

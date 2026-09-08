@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-c32a6f32a9",
+  "title": "awslabs/aidlc-workflows",
+  "source": "github_trending",
+  "source_url": "https://github.com/awslabs/aidlc-workflows",
+  "summary": "awslabs/aidlc-workflows 是一个由 AWS Labs 开发的开源项目，旨在为 AI 编码代理提供自适应工作流引导规则。该项目基于 AI 驱动的生命周期（AI-DLC）概念，帮助开发者更高效地管理和优化 AI 编码代理的执行流程。",
+  "content": "## 项目概述\n\n**awslabs/aidlc-workflows** 是 AWS Labs 发布的一个工具，专注于为 AI 编码代理提供自适应的工作流引导规则。它通过 AI-Driven Life Cycle (AI-DLC) 框架，使编码代理能够根据任务上下文动态调整执行步骤，从而提高代码生成和修改的准确性与效率。\n\n## 核心功能\n\n- **自适应工作流引导**：根据任务类型和复杂度，动态调整代理的执行路径。\n- **规则驱动**：提供可配置的规则集，便于开发者自定义代理行为。\n- **生命周期管理**：覆盖从需求分析到代码交付的完整生命周期。\n\n## 技术栈\n\n- **语言**：TypeScript，适合前端与 Node.js 生态。\n- **平台**：GitHub，MIT 许可（推测）。\n\n## 社区与热度\n\n- **Stars**：4430，**Forks**：795，**周增长**：172，表明近期关注度较高。\n- **来源**：GitHub 热点，属于 AI 编码工具领域。\n\n## 适用场景\n\n- 开发 AI 驱动的代码生成工具。\n- 优化现有 AI 编码代理的工作流。\n- 研究自适应代理行为。\n\n## 总结\n\n该项目为 AI 编码代理提供了创新的工作流管理方案，适合对 AI 辅助开发感兴趣的团队或个人。",
+  "tags": [
+    "AI",
+    "编码代理",
+    "工作流",
+    "TypeScript",
+    "AWS",
+    "自适应",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "awslabs",
+    "stars": 4430,
+    "forks": 795,
+    "daily_stars": null,
+    "weekly_stars": 172,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

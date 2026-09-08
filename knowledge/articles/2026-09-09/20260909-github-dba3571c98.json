@@ -1,0 +1,35 @@
+{
+  "id": "20260909-github-dba3571c98",
+  "title": "go-playground/validator",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-playground/validator",
+  "summary": "go-playground/validator 是一个 Go 语言的结构体和字段验证库，支持跨字段、跨结构体、Map、Slice 和 Array 的验证。",
+  "content": "go-playground/validator 是 Go 社区中最流行的验证库之一，提供基于结构体标签（tags）的声明式验证。它支持跨字段验证（如确认密码）、跨结构体验证、以及针对 Map、Slice 和 Array 的递归验证。该库功能强大，性能优异，广泛应用于 Web 框架（如 Gin）中。其 GitHub 仓库拥有超过 2 万星标，社区活跃，文档完善。",
+  "tags": [
+    "Go",
+    "validator",
+    "struct-validation",
+    "cross-field",
+    "cross-struct",
+    "map",
+    "slice",
+    "array",
+    "github-trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:35+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "go-playground",
+    "stars": 20150,
+    "forks": 1451,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

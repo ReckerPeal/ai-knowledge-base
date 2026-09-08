@@ -1,0 +1,35 @@
+{
+  "id": "20260909-github-c5264a1d16",
+  "title": "abi/screenshot-to-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/abi/screenshot-to-code",
+  "summary": "abi/screenshot-to-code 是一个将截图转换为干净代码（HTML/Tailwind/React/Vue）的开源工具，在 GitHub 上拥有 78k+ 星标，近期热度持续上升。",
+  "content": "## 项目概述\nabi/screenshot-to-code 是一个基于 Python 的开源项目，旨在通过截图直接生成前端代码。用户只需上传一张界面截图，即可自动生成对应的 HTML、Tailwind CSS、React 或 Vue 代码，极大提升前端开发效率。\n\n## 核心功能\n- **截图转代码**：利用 AI 模型识别截图中的 UI 元素，并生成语义化的前端代码。\n- **多框架支持**：支持生成 HTML/Tailwind、React、Vue 等多种技术栈的代码。\n- **代码质量**：生成的代码结构清晰、可读性强，便于二次修改。\n\n## 技术亮点\n- 基于深度学习模型（如 GPT-4 Vision 等）进行图像理解与代码生成。\n- 提供 Web 界面和 API 接口，易于集成到开发流程中。\n- 支持自定义提示词，可调整生成风格和细节。\n\n## 社区与热度\n- 在 GitHub 上获得 78,284 星标和 9,515 次 fork，属于高热度项目。\n- 周增星标 1,542，表明近期关注度持续上升。\n- 主要使用 Python 开发，适合 AI 和前端开发者使用。\n\n## 应用场景\n- 快速原型设计：将手绘草图或设计稿截图直接转为可运行代码。\n- 设计稿还原：辅助前端工程师将设计图转化为代码。\n- 学习与教学：帮助初学者理解 UI 代码结构。\n\n该项目展示了 AI 在代码生成领域的巨大潜力，是开发者提高效率的利器。",
+  "tags": [
+    "AI",
+    "代码生成",
+    "截图转代码",
+    "HTML",
+    "Tailwind",
+    "React",
+    "Vue",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:38+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "abi",
+    "stars": 78284,
+    "forks": 9515,
+    "daily_stars": null,
+    "weekly_stars": 1542,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-cbe26dc703",
+  "title": "kubernetes/minikube",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/minikube",
+  "summary": "minikube 是 Kubernetes 官方提供的本地开发工具，用于在本地快速运行单节点 Kubernetes 集群。它支持多种操作系统和虚拟化技术，简化了 Kubernetes 的安装和测试流程，是开发者学习和开发 Kubernetes 应用的首选工具之一。",
+  "content": "## 项目概述\nminikube 是 Kubernetes 社区维护的本地 Kubernetes 集群运行工具，旨在让开发者能够在个人电脑上轻松启动一个单节点的 Kubernetes 环境。它通过本地虚拟机或容器技术（如 Docker、Hyperkit、VirtualBox 等）创建集群，并提供了丰富的命令行工具和插件支持。\n\n## 核心功能\n- **本地集群管理**：支持创建、启动、停止、删除集群，以及查看集群状态。\n- **多平台支持**：支持 Linux、macOS 和 Windows，并兼容多种驱动（如 Docker、Podman、Hyper-V 等）。\n- **附加功能**：内置 Dashboard、Ingress、Metrics Server 等常用插件，方便开发测试。\n- **集群版本管理**：可指定 Kubernetes 版本，便于测试不同版本的兼容性。\n- **资源集成**：支持与本地代码同步、挂载宿主机文件系统，方便开发调试。\n\n## 技术特点\n- 使用 Go 语言开发，性能稳定，社区活跃。\n- 与 Kubernetes 官方生态紧密集成，是官方推荐的本地开发方案之一。\n- 提供丰富的命令行交互和配置选项，适合不同场景。\n\n## 适用场景\n- 学习 Kubernetes 基础概念和操作。\n- 本地开发与测试 Kubernetes 应用。\n- CI/CD 流水线中的集成测试环境。\n\n## 项目数据\n- 星标数：32,109\n- Fork 数：5,318\n- 周增长星标：35\n- 主要语言：Go\n- 来源：GitHub 热点（Go 分类）",
+  "tags": [
+    "Kubernetes",
+    "minikube",
+    "本地开发",
+    "Go",
+    "DevOps",
+    "容器编排",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:45+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 32109,
+    "forks": 5318,
+    "daily_stars": null,
+    "weekly_stars": 35,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

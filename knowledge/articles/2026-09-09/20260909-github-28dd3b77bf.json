@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-28dd3b77bf",
+  "title": "google-research/timesfm",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-research/timesfm",
+  "summary": "TimesFM 是 Google Research 开发的一个预训练时间序列基础模型，专门用于时间序列预测任务。",
+  "content": "TimesFM（Time Series Foundation Model）是 Google Research 推出的预训练时间序列基础模型，旨在为时间序列预测提供通用解决方案。该模型基于 Transformer 架构，在大规模时间序列数据上进行预训练，能够处理多种预测场景，如需求预测、金融预测、能源预测等。项目仓库提供了模型实现、预训练权重、微调脚本和推理示例，支持 PyTorch 等主流框架。TimesFM 在多个公开基准上表现出色，具有较好的零样本预测能力，并允许用户针对特定领域数据进行微调。该项目在 GitHub 上广受关注，拥有超过 3 万星标，反映了其在时间序列领域的重要影响力。",
+  "tags": [
+    "时间序列",
+    "基础模型",
+    "预测",
+    "Transformer",
+    "预训练",
+    "Google Research",
+    "PyTorch"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:38+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "google-research",
+    "stars": 31969,
+    "forks": 3059,
+    "daily_stars": null,
+    "weekly_stars": 3506,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

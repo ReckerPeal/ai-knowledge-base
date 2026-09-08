@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-527fd6ff47",
+  "title": "neka-nat/freecad-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/neka-nat/freecad-mcp",
+  "summary": "FreeCAD MCP 是一个为 FreeCAD 设计的模型上下文协议（MCP）服务器，允许 AI 助手通过标准协议与 FreeCAD 进行交互，实现参数化建模和自动化操作。",
+  "content": "该项目实现了一个 MCP 服务器，将 FreeCAD 的建模能力暴露给 AI 代理。通过 MCP 协议，AI 可以发送指令来创建、修改和查询 FreeCAD 中的 3D 模型，支持参数化设计、几何操作和场景管理。该工具旨在降低 CAD 建模的门槛，使自然语言驱动的设计成为可能。项目基于 Python 开发，利用 FreeCAD 的 Python API 实现底层功能，并提供了清晰的接口定义。当前在 GitHub 上获得超过 2100 星，表明社区关注度较高，适合对 CAD 自动化、AI 辅助设计感兴趣的开发者。",
+  "tags": [
+    "FreeCAD",
+    "MCP",
+    "AI",
+    "CAD",
+    "自动化",
+    "Python",
+    "3D建模"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "neka-nat",
+    "stars": 2106,
+    "forks": 278,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-c44e27161b",
+  "title": "shareAI-lab/learn-claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/shareAI-lab/learn-claude-code",
+  "summary": "learn-claude-code 是一个从零开始构建的极简 Claude Code 风格智能体框架，核心思想是“Bash is all you need”，通过 Bash 命令驱动 AI 代理执行任务。",
+  "content": "该仓库由 shareAI-lab 团队开发，旨在教学和演示如何构建一个轻量级的 AI 代理（agent harness）。项目以 Python 为主要语言，从底层实现了一个类似 Claude Code 的交互式命令行工具，但更强调简洁性和可学习性。其核心设计理念是“Bash is all you need”，即通过 Bash 命令作为代理与系统交互的主要接口，从而简化工具调用逻辑。项目包含完整的代码、文档和示例，适合开发者学习 AI 代理的工作原理、工具调用机制以及命令行交互设计。当前在 GitHub 上获得较高关注（76k+ stars），反映了社区对 AI 代理教育和实践项目的兴趣。",
+  "tags": [
+    "AI Agent",
+    "Claude Code",
+    "Bash",
+    "Python",
+    "命令行工具",
+    "教育项目",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "shareAI-lab",
+    "stars": 76346,
+    "forks": 12282,
+    "daily_stars": 82,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

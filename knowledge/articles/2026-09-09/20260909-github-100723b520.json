@@ -1,0 +1,33 @@
+{
+  "id": "20260909-github-100723b520",
+  "title": "MakazhanAlpamys/Soup",
+  "source": "github_trending",
+  "source_url": "https://github.com/MakazhanAlpamys/Soup",
+  "summary": "Soup 是一个通过单个 YAML 文件微调大型语言模型（LLM）的工具，其分层流式训练技术使得在仅有 4GB 显存的笔记本电脑 GPU 上即可训练 8B 参数模型。",
+  "content": "Soup 项目旨在简化 LLM 微调流程，用户只需编写一个 YAML 配置文件即可定义训练参数、数据集和模型架构。其核心创新在于“分层流式训练”（Layer Streaming），该技术通过优化内存使用和计算调度，显著降低了对 GPU 显存的需求，使得资源受限的个人开发者也能在普通笔记本上微调 8B 级模型。该项目在 GitHub 上获得 5788 颗星，周增长 1560 颗，显示出社区的高度关注。主要使用 Python 编写，适合对模型微调有需求但硬件资源有限的开发者。",
+  "tags": [
+    "LLM",
+    "微调",
+    "YAML",
+    "分层流式训练",
+    "低资源",
+    "GitHub 热点",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-09T01:38:38+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MakazhanAlpamys",
+    "stars": 5788,
+    "forks": 877,
+    "daily_stars": null,
+    "weekly_stars": 1560,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
