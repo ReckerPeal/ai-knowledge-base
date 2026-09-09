@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-89a31dcbb3",
+  "title": "NdoleStudio/httpsms",
+  "source": "github_trending",
+  "source_url": "https://github.com/NdoleStudio/httpsms",
+  "summary": "httpsms 是一个开源项目，允许用户通过简单的 HTTP API 以编程方式使用 Android 手机发送和接收短信。该项目基于 Go 语言开发，在 GitHub 上受到广泛关注。",
+  "content": "httpsms 项目旨在将 Android 手机转变为一个短信网关，通过提供简洁的 HTTP API，使开发者能够轻松集成短信发送和接收功能到他们的应用程序中。它解决了传统短信服务依赖昂贵网关或复杂硬件的问题，利用现有的 Android 设备即可实现。\n\n该项目使用 Go 语言编写，具有高性能和并发处理能力。其核心功能包括：\n- 通过 RESTful API 发送短信\n- 监听并接收传入的短信\n- 支持多设备管理\n- 提供消息状态回调\n\nhttpsms 的架构通常包括一个 Android 应用（用于与手机交互）和一个服务器端组件（用于提供 API 和消息路由）。这种设计使得开发者可以快速部署自己的短信服务，而无需依赖第三方云服务。\n\n该项目在 GitHub 上拥有超过 5000 颗星，显示出社区的高度认可。其活跃的开发和更新频率（每日新增约 44 颗星）表明项目正在持续演进，可能包含新功能、性能优化和文档改进。\n\n对于需要短信功能的开发者、物联网项目或需要验证码服务的应用，httpsms 提供了一个低成本、自托管的解决方案。",
+  "tags": [
+    "Go",
+    "SMS",
+    "HTTP API",
+    "Android",
+    "开源",
+    "消息服务",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "NdoleStudio",
+    "stars": 5032,
+    "forks": 892,
+    "daily_stars": 44,
+    "weekly_stars": 259,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

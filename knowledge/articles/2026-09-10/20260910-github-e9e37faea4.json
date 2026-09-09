@@ -1,0 +1,32 @@
+{
+  "id": "20260910-github-e9e37faea4",
+  "title": "astral-sh/ruff",
+  "source": "github_trending",
+  "source_url": "https://github.com/astral-sh/ruff",
+  "summary": "Ruff 是一个用 Rust 编写的极速 Python 代码检查器（linter）和代码格式化工具，旨在替代现有的 Python 工具链，提供更快的执行速度和更统一的代码风格管理。",
+  "content": "Ruff 是由 astral-sh 团队开发的开源项目，使用 Rust 语言实现，专注于为 Python 开发者提供高性能的静态代码检查与格式化能力。其核心优势在于速度极快，比传统的 Python 工具（如 Flake8、Black）快 10-100 倍，同时支持多种配置和插件扩展。Ruff 兼容 PEP 8 等主流规范，并集成了超过 800 条内置规则，可无缝替代 Flake8、Isort、Black 等多个工具，简化开发环境配置。该项目在 GitHub 上拥有近 5 万星标，社区活跃，持续迭代，是 Python 工具链现代化的重要代表。",
+  "tags": [
+    "Python",
+    "Linter",
+    "Formatter",
+    "Rust",
+    "开发工具",
+    "代码质量"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:09+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "astral-sh",
+    "stars": 49559,
+    "forks": 2400,
+    "daily_stars": null,
+    "weekly_stars": 127,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

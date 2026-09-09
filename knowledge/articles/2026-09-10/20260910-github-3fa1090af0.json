@@ -1,0 +1,32 @@
+{
+  "id": "20260910-github-3fa1090af0",
+  "title": "JuliusBrussee/caveman",
+  "source": "github_trending",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "summary": "🪨 少用词，多用脑——Claude Code 技能，通过像穴居人一样说话，削减 65% 的 Token 消耗。",
+  "content": "该仓库名为 JuliusBrussee/caveman，是一个针对 Claude Code 的技能（skill），其核心思想是采用极简的“穴居人”式语言风格来编写提示词，从而大幅减少 Token 使用量（据称可削减 65%）。这种风格摒弃冗余词汇和复杂句式，仅保留关键信息，在保持语义清晰的前提下显著降低 API 调用成本。项目用 Go 语言实现，在 GitHub 上获得超过 10 万星标，近期周增星 2261，热度极高。该技能适用于所有依赖大语言模型 API 的场景，尤其适合高频调用、成本敏感的开发者和团队。",
+  "tags": [
+    "Claude Code",
+    "Token优化",
+    "提示词工程",
+    "成本控制",
+    "Go",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:12+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "JuliusBrussee",
+    "stars": 104512,
+    "forks": 6064,
+    "daily_stars": null,
+    "weekly_stars": 2261,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

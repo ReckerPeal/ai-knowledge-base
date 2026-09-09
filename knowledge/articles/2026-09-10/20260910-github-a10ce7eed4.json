@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-a10ce7eed4",
+  "title": "google/magika",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/magika",
+  "summary": "Magika 是 Google 开源的基于 AI 的文件内容类型检测工具，能够快速且准确地识别文件类型。",
+  "content": "Magika 是 Google 开源的一款基于深度学习模型的文件内容类型检测工具，旨在提供快速且高精度的文件类型识别能力。与传统的基于文件扩展名或魔数（magic bytes）的检测方式不同，Magika 利用 AI 模型分析文件内容，能够识别超过 100 种常见文件类型，包括代码文件、文档、图片、音频、视频等。\n\n该项目采用 Rust 语言编写，核心模型经过优化，可在 CPU 上高效运行，检测速度极快，适合大规模文件扫描场景。Magika 提供了命令行工具和 Python 库接口，方便集成到各类应用中。其应用场景包括恶意软件检测、数据分类、内容过滤、数字取证等。\n\n自发布以来，Magika 在 GitHub 上获得了大量关注，目前星标数已超过 1.8 万，表明社区对其认可度较高。项目由 Google 维护，具有较好的持续更新和社区支持。",
+  "tags": [
+    "AI",
+    "文件类型检测",
+    "Rust",
+    "Google",
+    "开源",
+    "内容识别",
+    "深度学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:58+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 18515,
+    "forks": 1159,
+    "daily_stars": 102,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-2e8a64d0e7",
+  "title": "vxcontrol/pentagi",
+  "source": "github_trending",
+  "source_url": "https://github.com/vxcontrol/pentagi",
+  "summary": "vxcontrol/pentagi 是一个完全自主的 AI 代理系统，能够执行复杂的渗透测试任务。该项目使用 Go 语言开发，在 GitHub 上获得了 22619 颗星和 2989 个 fork，近期热度持续上升。",
+  "content": "## 项目概述\n\nvxcontrol/pentagi 是一个基于 AI 的自主代理系统，专注于自动化渗透测试。它利用多个 AI 代理协同工作，能够独立完成从信息收集、漏洞扫描到利用和报告生成的完整渗透测试流程。该系统旨在降低渗透测试的门槛，提高测试效率，并减少人工干预。\n\n## 核心特性\n\n- **全自主运行**：AI 代理能够自主决策并执行渗透测试步骤，无需人工逐步指导。\n- **复杂任务处理**：支持处理多阶段、复杂的渗透测试场景，如网络渗透、Web 应用测试等。\n- **多代理协作**：系统内部可能包含多个专门化的代理（如侦察代理、漏洞分析代理、利用代理等），它们协同工作以完成任务。\n- **Go 语言实现**：使用 Go 开发，具有高性能和良好的并发支持，适合处理网络密集型任务。\n\n## 技术架构\n\n虽然具体架构细节未在摘要中提供，但基于类似系统推测，pentagi 可能包含以下组件：\n- **任务规划器**：将高级目标分解为可执行的子任务。\n- **工具调用接口**：集成常用的渗透测试工具（如 Nmap、Metasploit 等）或自定义脚本。\n- **知识库**：存储漏洞信息、攻击模式等，供代理决策时参考。\n- **报告生成器**：自动生成详细的测试报告。\n\n## 适用场景\n\n- **安全团队**：用于日常安全评估，节省人工时间。\n- **DevSecOps**：集成到 CI/CD 管道中，实现持续安全测试。\n- **教育研究**：作为学习渗透测试的辅助工具。\n\n## 注意事项\n\n- 自主 AI 渗透测试可能产生误报或漏报，建议结合人工审核。\n- 使用时应遵守法律法规，仅对授权目标进行测试。\n- 项目处于活跃开发中，功能可能快速变化。",
+  "tags": [
+    "AI",
+    "渗透测试",
+    "自主代理",
+    "Go",
+    "安全",
+    "自动化",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:12+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vxcontrol",
+    "stars": 22619,
+    "forks": 2989,
+    "daily_stars": null,
+    "weekly_stars": 378,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

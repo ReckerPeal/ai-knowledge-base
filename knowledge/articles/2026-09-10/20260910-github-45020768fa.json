@@ -1,0 +1,31 @@
+{
+  "id": "20260910-github-45020768fa",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "summary": "本文介绍了如何通过仅100步GRPO（组相对策略优化）微调一个350M参数的小型模型，以显著提升其结构化输出能力。文章展示了使用TRL库和ifstruct数据集的具体方法，并强调了该方法的效率与效果。",
+  "content": "本文详细阐述了使用GRPO（Group Relative Policy Optimization）算法对350M参数模型进行微调，以增强其生成结构化输出的能力。作者指出，传统方法通常需要大量数据和计算资源，而本文提出的方法仅需100步GRPO训练即可达到显著效果。文章首先介绍了GRPO的基本原理，即通过组内相对奖励来优化策略，相比PPO等传统强化学习算法更为高效。随后，作者展示了如何使用Hugging Face的TRL库实现这一过程，并使用了ifstruct数据集（一个专门用于指令跟随和结构化输出的数据集）。实验结果表明，经过微调的模型在多个结构化输出基准上表现优异，甚至接近更大规模模型的效果。文章还讨论了关键超参数的选择、训练稳定性以及潜在的应用场景。最后，作者强调了这一方法对于资源受限环境下的模型优化具有重要意义，为小型模型的高效利用提供了新思路。",
+  "tags": [
+    "GRPO",
+    "微调",
+    "结构化输出",
+    "TRL",
+    "350M模型",
+    "强化学习",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "collected_at": "2026-09-10T01:24:12+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20260910-github-c289dc3d99",
+  "title": "ruvnet/ruflo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "summary": "ruvnet/ruflo 是一个基于 TypeScript 的智能体元框架（meta-harness），用于部署多智能体群组、协调自主工作流并构建对话式 AI 系统。它集成了自适应记忆、自学习智能、RAG（检索增强生成）以及原生支持 Claude Code、Codex、Hermes 等多种模型。",
+  "content": "## 项目概述\nruvnet/ruflo 是一个开源的智能体元框架，旨在简化复杂 AI 系统的构建与部署。它提供了一个统一的运行时环境，支持多智能体协作、自主工作流编排以及对话式交互。\n\n## 核心特性\n- **多智能体群组**：支持部署和管理多个智能体，实现协作与任务分配。\n- **自主工作流**：能够协调自动化流程，减少人工干预。\n- **对话式 AI**：内置对话管理能力，适用于聊天机器人等场景。\n- **自适应记忆**：智能体可以记忆历史交互，动态调整行为。\n- **自学习智能**：通过反馈机制持续优化模型表现。\n- **RAG 集成**：支持检索增强生成，提升回答的准确性和知识覆盖。\n- **模型兼容性**：原生集成 Claude Code、Codex、Hermes 等主流模型，并支持扩展。\n\n## 技术栈\n- 语言：TypeScript\n- 架构：模块化、可扩展的元框架设计\n\n## 社区与热度\n- GitHub 星标：71,778（截至 2026-09-10）\n- 分支数：8,494\n- 近期增长：日增 167 星，周增 1,585 星，表明项目处于快速上升期。\n\n## 适用场景\n- 构建复杂的多智能体协作系统\n- 开发需要长期记忆和自适应的 AI 助手\n- 集成多种 LLM 的统一平台\n- 自动化工作流与决策系统",
+  "tags": [
+    "TypeScript",
+    "AI",
+    "多智能体",
+    "智能体框架",
+    "RAG",
+    "工作流",
+    "对话式AI",
+    "开源",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:55+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 71778,
+    "forks": 8494,
+    "daily_stars": 167,
+    "weekly_stars": 1585,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

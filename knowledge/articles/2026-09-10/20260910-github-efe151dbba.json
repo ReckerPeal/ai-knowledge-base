@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-efe151dbba",
+  "title": "volcano-sh/volcano",
+  "source": "github_trending",
+  "source_url": "https://github.com/volcano-sh/volcano",
+  "summary": "Volcano 是一个云原生批处理系统，隶属于 CNCF 项目，旨在为 Kubernetes 提供高性能的批处理调度能力。",
+  "content": "Volcano 是 CNCF 旗下的云原生批处理系统，基于 Kubernetes 构建，为 AI、大数据等批处理工作负载提供高级调度功能，如公平调度、队列管理、作业优先级和资源预留。它解决了 Kubernetes 默认调度器在批处理场景下的不足，支持 TensorFlow、PyTorch、Spark 等框架，广泛应用于机器学习训练、数据处理等场景。项目采用 Go 语言开发，在 GitHub 上拥有约 5931 颗星和 1532 个 fork，近期日增星约 4 颗，社区活跃。",
+  "tags": [
+    "云原生",
+    "批处理",
+    "Kubernetes",
+    "调度器",
+    "CNCF",
+    "AI",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "volcano-sh",
+    "stars": 5931,
+    "forks": 1532,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

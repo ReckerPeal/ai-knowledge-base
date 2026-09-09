@@ -1,0 +1,34 @@
+{
+  "id": "20260910-github-a1b02a6424",
+  "title": "experientiallabs/experiential",
+  "source": "github_trending",
+  "source_url": "https://github.com/experientiallabs/experiential",
+  "summary": "Experiential 是一个开源的、零标记的 AI 模型网关，支持 BYOK（自带密钥）、自托管以及 1000+ 市场模型。它通过分析流量来降低成本、推荐更优模型，并训练用户专属的定制模型。",
+  "content": "Experiential 是一个开源的 AI 模型网关，旨在简化多模型接入与管理。其核心特点包括：\n- **零标记网关**：无需额外配置即可接入多种模型。\n- **BYOK 支持**：用户可携带自己的 API 密钥，灵活使用。\n- **自托管**：支持本地部署，保障数据隐私。\n- **1000+ 市场模型**：覆盖主流模型提供商。\n- **智能流量学习**：通过分析调用流量，自动优化成本，推荐性能更佳的模型。\n- **定制模型训练**：基于用户流量数据，可训练出用户专属的专用模型。\n\n该项目在 GitHub 上表现活跃，近期获得大量关注（日增星约 695），适合需要多模型管理、成本优化和定制化模型的企业或开发者。",
+  "tags": [
+    "AI网关",
+    "模型路由",
+    "BYOK",
+    "自托管",
+    "开源",
+    "模型优化",
+    "流量学习",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:53+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "experientiallabs",
+    "stars": 3645,
+    "forks": 152,
+    "daily_stars": 695,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

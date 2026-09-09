@@ -1,0 +1,42 @@
+{
+  "id": "20260910-github-a9d8f3de56",
+  "title": "chenhg5/cc-connect",
+  "source": "github_trending",
+  "source_url": "https://github.com/chenhg5/cc-connect",
+  "summary": "cc-connect 是一个开源桥接工具，旨在将本地 AI 编程助手（如 Claude Code、Cursor、Gemini CLI、Codex）连接到主流消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信），使用户能在任何地方通过聊天界面与 AI 开发助手交互，且大多数平台无需公网 IP。",
+  "content": "## 项目概述\ncc-connect 是一个用 Go 语言编写的桥接工具，解决了本地 AI 编程助手与消息平台之间的连接问题。它允许开发者通过日常使用的聊天应用（如飞书、钉钉、Slack 等）远程控制本地运行的 AI 编码代理，实现随时随地与 AI 助手对话、提交任务或获取反馈。\n\n## 核心功能\n- **多平台支持**：覆盖飞书/Lark、钉钉、Slack、Telegram、Discord、LINE、企业微信等主流消息平台。\n- **AI 助手兼容**：支持 Claude Code、Cursor、Gemini CLI、Codex 等本地 AI 编码工具。\n- **无公网 IP 需求**：针对大多数平台，无需配置公网 IP 或复杂网络穿透，降低了部署门槛。\n- **双向通信**：用户可通过消息平台发送指令，AI 助手返回结果，实现远程协作。\n\n## 技术亮点\n- **语言**：Go，具备高性能和良好的并发处理能力。\n- **架构**：桥接模式，将本地 AI 工具的输出转发到消息平台，并接收用户输入。\n- **易用性**：提供简单的配置和启动方式，适合个人开发者和小团队快速上手。\n\n## 应用场景\n- 远程办公时，通过手机或桌面聊天工具管理本地 AI 编码任务。\n- 团队协作中，共享 AI 助手能力，成员可通过统一消息平台调用。\n- 自动化工作流中，将 AI 助手集成到现有聊天机器人体系。\n\n## 社区与热度\n- 该项目在 GitHub 上获得 15,433 星标和 1,534 次 fork，日增星约 26，表明其受到开发者广泛关注。\n- 属于 GitHub 热点项目，尤其在 Go 语言分类中表现突出。\n\n## 总结\ncc-connect 为 AI 编程助手提供了便捷的远程访问通道，打破了本地工具的使用限制，提升了开发效率和协作灵活性。对于经常使用 AI 编码工具并希望随时随地保持连接的开发者来说，这是一个实用且受欢迎的开源解决方案。",
+  "tags": [
+    "AI编程助手",
+    "消息平台桥接",
+    "远程开发",
+    "Go",
+    "开源工具",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Codex",
+    "飞书",
+    "钉钉",
+    "Slack",
+    "Telegram",
+    "Discord",
+    "LINE",
+    "企业微信"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chenhg5",
+    "stars": 15433,
+    "forks": 1534,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260910-github-40d34ab83f",
+  "title": "petergyang/no-ai-slop",
+  "source": "github_trending",
+  "source_url": "https://github.com/petergyang/no-ai-slop",
+  "summary": "no-ai-slop 是一个 Python 工具，能够从任意文本中移除 20 多种 AI 生成内容的常见模式（即“AI 味”），帮助用户净化文本，使其更自然、更人性化。",
+  "content": "## 项目概述\nno-ai-slop 是一个轻量级 Python 库/命令行工具，旨在自动检测并移除文本中由 AI 生成内容（如 ChatGPT 等）产生的典型“AI 味”模式。它内置了 20 多种规则，覆盖常见的冗余表达、过度正式用语、机械性转折等特征，适用于文章、报告、邮件等各类文本的润色。\n\n## 核心功能\n- **模式识别**：内置 20+ 种 AI 生成文本的常见模式（如“delve into”、“it's important to note”等）。\n- **文本净化**：自动移除或替换这些模式，使文本更简洁、自然。\n- **易用性**：提供简单的 API 和命令行接口，可集成到现有写作流程中。\n\n## 技术亮点\n- 基于 Python 实现，轻量无依赖，易于扩展。\n- 规则可配置，用户可根据需求自定义模式列表。\n- 适用于多种文本类型，不限于特定领域。\n\n## 适用场景\n- 内容创作者：去除 AI 辅助写作的痕迹，提升原创感。\n- 编辑与校对：快速清理稿件中的冗余表达。\n- 开发者：集成到自动化文本处理管道中。\n\n## 项目热度\n该仓库在 GitHub 上获得 7767 星，周增 1038 星，显示出社区对“去 AI 味”需求的强烈关注。",
+  "tags": [
+    "AI 文本检测",
+    "文本清洗",
+    "自然语言处理",
+    "Python",
+    "写作辅助",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:04+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "petergyang",
+    "stars": 7767,
+    "forks": 584,
+    "daily_stars": null,
+    "weekly_stars": 1038,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

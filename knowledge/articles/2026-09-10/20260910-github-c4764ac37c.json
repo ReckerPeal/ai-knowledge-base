@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "content": "该项目旨在优化 AI 编程代理的上下文窗口使用效率。通过沙箱化工具输出，实现高达 98% 的上下文缩减；同时持久化会话记忆，并利用 MCP（模型上下文协议）和钩子机制，在 17 个平台间强制执行路由策略。该工具适用于需要长时间运行或跨平台协作的 AI 编码场景，可显著降低 token 消耗并提升响应速度。",
+  "tags": [
+    "AI 编程",
+    "上下文优化",
+    "MCP",
+    "沙箱",
+    "会话记忆",
+    "路由",
+    "TypeScript"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:55+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 21660,
+    "forks": 1556,
+    "daily_stars": 414,
+    "weekly_stars": 935,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

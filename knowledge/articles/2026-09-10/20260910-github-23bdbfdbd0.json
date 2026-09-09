@@ -1,0 +1,30 @@
+{
+  "id": "20260910-github-23bdbfdbd0",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "summary": "本文介绍了 BenchMIRT，一个用于评估 LLM 基准测试有效性的新框架，旨在回答“LLM 基准测试究竟在测量什么？”这一问题。",
+  "content": "BenchMIRT 是由 Allen AI 提出的一种方法，用于深入分析现有 LLM 基准测试（如 MMLU、BIG-bench 等）所衡量的能力。它通过将基准测试中的问题分解为多个维度（例如知识、推理、语言理解等），并利用 LLM 自身进行标注和评估，从而揭示基准测试的构成和潜在偏差。文章可能讨论了 BenchMIRT 如何帮助研究者理解基准测试的局限性，以及如何设计更有效的评估方法。",
+  "tags": [
+    "LLM",
+    "基准测试",
+    "评估",
+    "BenchMIRT",
+    "AI 安全",
+    "自然语言处理"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-01T21:39:07+00:00",
+  "collected_at": "2026-09-10T01:24:12+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

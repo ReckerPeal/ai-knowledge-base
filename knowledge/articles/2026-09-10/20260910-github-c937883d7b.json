@@ -1,0 +1,32 @@
+{
+  "id": "20260910-github-c937883d7b",
+  "title": "xingkongliang/skills-manager",
+  "source": "github_trending",
+  "source_url": "https://github.com/xingkongliang/skills-manager",
+  "summary": "skills-manager 是一个轻量级桌面应用，用于跨 50 多种编码工具（如 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等）管理、同步和组织 AI 代理技能。",
+  "content": "## 项目概述\nskills-manager 是一款基于 Rust 开发的轻量级桌面应用，旨在解决 AI 代理技能分散管理的问题。它允许用户统一管理、同步和组织 AI 代理技能，并支持与 50 多种主流编码工具集成，包括 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。\n\n## 核心功能\n- **技能管理**：集中创建、编辑、删除和分类 AI 代理技能。\n- **跨工具同步**：将技能同步到多个支持的编码工具，确保一致性。\n- **组织能力**：通过标签、目录等方式对技能进行结构化组织，便于检索和使用。\n\n## 技术亮点\n- 使用 Rust 开发，性能高效且资源占用低。\n- 桌面应用形态，提供本地化操作体验，数据隐私性好。\n- 支持广泛的工具生态，适配当前主流的 AI 编程助手。\n\n## 适用场景\n- 开发者需要为多个 AI 工具维护统一的技能库。\n- 团队希望标准化 AI 代理技能，提升协作效率。\n- 个人用户希望简化技能管理流程，避免重复配置。\n\n## 社区反馈\n该仓库在 GitHub 上获得 4604 星和 392 次 fork，周增 291 星，表明其受到开发者社区的广泛关注和认可。",
+  "tags": [
+    "AI代理",
+    "技能管理",
+    "桌面应用",
+    "Rust",
+    "开发者工具",
+    "跨工具同步"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:09+08:00",
+  "language": "中文",
+  "score": 8.5,
+  "metadata": {
+    "author": "xingkongliang",
+    "stars": 4604,
+    "forks": 392,
+    "daily_stars": null,
+    "weekly_stars": 291,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

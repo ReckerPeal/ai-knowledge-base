@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-eb85e15443",
+  "title": "ahujasid/blender-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/ahujasid/blender-mcp",
+  "summary": "ahujasid/blender-mcp 是一个社区插件，允许用户通过任意大语言模型（LLM）控制 Blender 3D 软件。该项目在 GitHub 上获得 27930 星标，属于 Python 语言的热点项目。",
+  "content": "## 项目概述\n\n**blender-mcp** 是一个社区开发的插件，旨在将 Blender 3D 与大型语言模型（LLM）集成，使用户能够通过自然语言指令控制 Blender 的建模、动画和渲染等操作。该项目基于 MCP（Model Context Protocol）协议，支持接入多种 LLM（如 GPT、Claude 等），降低了 3D 创作的门槛。\n\n## 核心功能\n\n- **自然语言控制**：用户通过文本描述即可执行 Blender 操作，如创建物体、修改材质、设置动画等。\n- **多模型支持**：兼容多种主流 LLM，用户可根据需求选择。\n- **社区驱动**：作为开源插件，持续接收社区贡献，功能迭代活跃。\n\n## 技术亮点\n\n- **MCP 协议**：利用标准化的模型上下文协议，实现 LLM 与 Blender 的高效通信。\n- **Python 实现**：基于 Blender 的 Python API，易于扩展和定制。\n- **高关注度**：27930 星标和 2582 fork 表明其在开发者社区中的广泛认可。\n\n## 应用场景\n\n- **快速原型设计**：通过对话快速生成 3D 场景。\n- **教育辅助**：帮助初学者理解 3D 建模流程。\n- **自动化工作流**：结合 LLM 实现复杂任务的自动化。\n\n## 项目热度\n\n- 周增星标 1122，显示近期增长强劲。\n- 属于 GitHub Python 热点项目，反映了 AI 与创意工具结合的趋势。",
+  "tags": [
+    "Blender",
+    "LLM",
+    "MCP",
+    "3D建模",
+    "Python",
+    "AI集成",
+    "开源插件"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:04+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ahujasid",
+    "stars": 27930,
+    "forks": 2582,
+    "daily_stars": null,
+    "weekly_stars": 1122,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

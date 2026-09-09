@@ -1,0 +1,35 @@
+{
+  "id": "20260910-github-e30f8dee0b",
+  "title": "NVIDIA/SkillSpector",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/SkillSpector",
+  "summary": "SkillSpector 是 NVIDIA 推出的 AI 代理技能安全扫描器，用于在安装 Claude Code、Codex 和 MCP 技能前检测漏洞、恶意模式、安全风险、提示注入、数据外泄和供应链风险。",
+  "content": "SkillSpector 是 NVIDIA 开发的一款安全扫描工具，专注于 AI 代理（Agent）技能的安全审查。随着 AI 代理生态的快速发展，第三方技能（如 Claude Code、Codex、MCP 技能）可能携带恶意代码或漏洞，对用户数据和系统安全构成威胁。SkillSpector 提供静态分析和模式匹配能力，帮助开发者和用户在安装前识别潜在风险，包括提示注入（prompt injection）、数据外泄（data exfiltration）、供应链攻击等。该工具以 Python 编写，易于集成到 CI/CD 流程中，支持多种技能格式，旨在提升 AI 代理生态的整体安全性。",
+  "tags": [
+    "AI安全",
+    "安全扫描",
+    "AI代理",
+    "MCP",
+    "供应链安全",
+    "Python",
+    "NVIDIA",
+    "提示注入",
+    "数据外泄"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:04+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 16771,
+    "forks": 1426,
+    "daily_stars": null,
+    "weekly_stars": 1149,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

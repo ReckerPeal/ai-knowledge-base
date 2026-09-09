@@ -1,0 +1,34 @@
+{
+  "id": "20260910-github-dc61fcee96",
+  "title": "supermemoryai/supermemory",
+  "source": "github_trending",
+  "source_url": "https://github.com/supermemoryai/supermemory",
+  "summary": "supermemoryai/supermemory 是一个专为 AI 时代设计的记忆与上下文引擎及应用，具备极快的速度、出色的可扩展性，并支持完全本地化运行。该项目旨在为 AI 系统提供持久化的记忆和上下文管理能力，使其能够跨会话、跨应用地理解和响应用户需求。",
+  "content": "## 项目概述\nsupermemoryai/supermemory 是一个开源项目，定位为“AI 时代的记忆 API”。它提供了一个记忆和上下文引擎，以及一个配套的应用，能够高效地存储、检索和管理 AI 交互中的上下文信息。其核心特性包括：\n\n- **极高性能**：设计上追求极快的读写速度，适合实时 AI 应用。\n- **可扩展性**：架构支持水平扩展，能够处理大规模数据。\n- **本地运行**：支持完全本地部署，保障数据隐私和安全性。\n\n## 技术架构\n该项目采用 TypeScript 编写，表明其可能基于 Node.js 生态。作为记忆引擎，它可能包含以下模块：\n- **存储层**：支持多种后端（如 SQLite、PostgreSQL、向量数据库等），用于持久化记忆数据。\n- **检索层**：提供语义搜索和上下文检索能力，可能集成嵌入模型。\n- **API 层**：提供 RESTful 或 GraphQL 接口，方便 AI 应用集成。\n\n## 应用场景\n- **AI 助手**：为聊天机器人提供长期记忆，使其能记住用户偏好和历史对话。\n- **知识管理**：作为个人或团队的知识库，支持语义查询。\n- **自动化工作流**：在 AI 驱动的自动化流程中维护状态和上下文。\n\n## 社区与热度\n该项目在 GitHub 上表现突出，拥有 29,558 颗星和 2,582 个 fork，日增星约 236 颗，表明其受到开发者社区的广泛关注和认可。",
+  "tags": [
+    "AI",
+    "记忆引擎",
+    "上下文管理",
+    "TypeScript",
+    "开源",
+    "本地部署",
+    "可扩展",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:55+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "supermemoryai",
+    "stars": 29558,
+    "forks": 2582,
+    "daily_stars": 236,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

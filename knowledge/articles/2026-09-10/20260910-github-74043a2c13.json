@@ -1,0 +1,29 @@
+{
+  "id": "20260910-github-74043a2c13",
+  "title": "Granite 4.2 LLMs: How They're Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "summary": "IBM 发布了 Granite 4.2 系列大型语言模型，本文详细介绍了其架构设计、训练方法、性能特点及应用场景。",
+  "content": "Granite 4.2 是 IBM 推出的新一代 LLM 系列，重点优化了推理效率、多语言支持和工具调用能力。模型采用稀疏注意力机制与混合专家架构，在保持高性能的同时降低计算成本。训练数据覆盖多语言语料，并引入指令微调与人类反馈强化学习。在基准测试中，Granite 4.2 在代码生成、数学推理和对话任务上表现优异，适合企业级部署。",
+  "tags": [
+    "LLM",
+    "IBM",
+    "Granite",
+    "模型架构",
+    "企业AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-25T15:14:14+00:00",
+  "collected_at": "2026-09-10T01:24:12+08:00",
+  "language": "zh-CN",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

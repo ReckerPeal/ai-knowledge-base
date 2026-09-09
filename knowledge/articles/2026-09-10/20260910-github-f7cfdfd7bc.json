@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-f7cfdfd7bc",
+  "title": "alibaba/open-code-review",
+  "source": "github_trending",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "summary": "alibaba/open-code-review 是一个由阿里巴巴开源的高效代码审查工具，采用混合架构，结合确定性流水线和 LLM Agent，提供精确的行级评论，并内置多语言规则集（如 NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic API。",
+  "content": "## 项目概述\n\n**alibaba/open-code-review** 是阿里巴巴开源的一款代码审查工具，旨在提供快速、高效且经过大规模生产环境验证的代码审查能力。其核心特性包括：\n\n- **混合架构**：结合确定性流水线和 LLM Agent，既保证审查的准确性，又具备智能分析能力。\n- **精确的行级评论**：能够针对代码的具体行给出精准的审查意见，提升开发者的修复效率。\n- **内置多语言规则集**：涵盖常见的安全和正确性问题，如空指针异常（NPE）、线程安全、跨站脚本（XSS）和 SQL 注入等。\n- **模型兼容性**：支持 OpenAI 和 Anthropic 的 API，方便集成到现有工作流中。\n\n该项目使用 Go 语言开发，在 GitHub 上已获得超过 2.2 万星标，显示出社区的广泛认可。其设计目标是在阿里巴巴的规模下运行，因此具备高性能和高可靠性。\n\n## 技术亮点\n\n- **确定性流水线**：通过静态分析规则快速扫描代码，确保基础问题被稳定捕获。\n- **LLM Agent**：利用大语言模型理解代码上下文，提供更智能的审查建议，弥补规则引擎的不足。\n- **混合模式**：将两种方法结合，既保证了速度，又提高了审查的深度和准确性。\n\n## 适用场景\n\n- 需要快速、自动化代码审查的团队。\n- 希望集成 AI 辅助审查的 CI/CD 流程。\n- 关注代码安全和质量的企业级项目。\n\n## 总结\n\n作为阿里巴巴的开源项目，open-code-review 展示了如何将传统静态分析与现代 LLM 技术有效融合，为开发者提供了一个强大且易用的代码审查解决方案。",
+  "tags": [
+    "代码审查",
+    "LLM",
+    "Go",
+    "阿里巴巴",
+    "静态分析",
+    "AI Agent",
+    "安全规则"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "alibaba",
+    "stars": 22148,
+    "forks": 1652,
+    "daily_stars": 61,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

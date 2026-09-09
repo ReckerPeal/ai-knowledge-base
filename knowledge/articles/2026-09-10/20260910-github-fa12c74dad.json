@@ -1,0 +1,33 @@
+{
+  "id": "20260910-github-fa12c74dad",
+  "title": "visioncortex/vtracer",
+  "source": "github_trending",
+  "source_url": "https://github.com/visioncortex/vtracer",
+  "summary": "visioncortex/vtracer 是一个用 Rust 编写的开源工具，用于将位图图像（光栅图）转换为矢量图形（SVG），支持多种输入格式和颜色模式，并提供命令行和库接口。",
+  "content": "## 项目概述\nvisioncortex/vtracer 是一个基于 Rust 的高性能光栅到矢量图形转换器，能够将 PNG、JPG 等位图图像自动转换为可无限缩放的 SVG 矢量图。它采用先进的图像处理算法，支持颜色量化、边缘检测和路径拟合，适用于图标、插画、扫描图等场景。\n\n## 核心功能\n- **多种输入格式**：支持 PNG、JPG、BMP 等常见位图格式。\n- **输出为 SVG**：生成高质量矢量图形，可编辑且无损缩放。\n- **灵活的颜色模式**：支持彩色、灰度、二值化等模式，可控制输出颜色数量。\n- **命令行工具**：提供简单易用的 CLI，方便批量处理。\n- **库接口**：可作为 Rust 库集成到其他项目中。\n\n## 技术亮点\n- **纯 Rust 实现**：内存安全、性能优异，无外部运行时依赖。\n- **算法先进**：采用分层处理，包括去噪、颜色聚类、轮廓追踪和曲线拟合。\n- **可定制参数**：用户可调整容差、平滑度等参数以平衡细节与简洁。\n\n## 使用场景\n- 将低分辨率位图转换为矢量图标或插画。\n- 对扫描文档进行矢量化处理，便于编辑和存储。\n- 在游戏或 UI 开发中快速生成矢量资源。\n\n## 社区与热度\n该项目在 GitHub 上拥有约 6949 颗星，近期周增星 136 颗，属于 Rust 生态中的热门工具，社区活跃，持续更新。",
+  "tags": [
+    "Rust",
+    "图像处理",
+    "矢量图形",
+    "光栅转矢量",
+    "SVG",
+    "命令行工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:58+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "visioncortex",
+    "stars": 6949,
+    "forks": 476,
+    "daily_stars": 11,
+    "weekly_stars": 136,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

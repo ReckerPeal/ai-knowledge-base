@@ -1,0 +1,32 @@
+{
+  "id": "20260910-github-da2531f78f",
+  "title": "openfga/openfga",
+  "source": "github_trending",
+  "source_url": "https://github.com/openfga/openfga",
+  "summary": "OpenFGA 是一个高性能且灵活的授权/权限引擎，专为开发者设计，灵感来源于 Google 的 Zanzibar 系统。",
+  "content": "OpenFGA 是一个开源的高性能授权和权限引擎，旨在帮助开发者在其应用中实现细粒度的访问控制。它受到 Google Zanzibar 的启发，Zanzibar 是 Google 内部用于管理权限的全球系统。OpenFGA 提供了灵活的关系型授权模型，允许开发者定义对象、关系和用户之间的权限关系，并支持高效的查询和检查。该项目使用 Go 语言编写，具有高扩展性和低延迟，适用于各种规模的应用程序。其 GitHub 仓库目前拥有超过 5700 颗星，显示出社区的广泛关注和认可。",
+  "tags": [
+    "授权",
+    "权限管理",
+    "Zanzibar",
+    "Go",
+    "访问控制",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:24:01+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "openfga",
+    "stars": 5743,
+    "forks": 487,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

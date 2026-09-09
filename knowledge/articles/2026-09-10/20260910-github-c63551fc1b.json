@@ -1,0 +1,35 @@
+{
+  "id": "20260910-github-c63551fc1b",
+  "title": "anbeime/skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/anbeime/skill",
+  "summary": "anbeime/skill 是一个收录最全、更新最快的 AI Agent 技能（Skills）商店，提供精选原创技能包，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等领域，并自动抓取 GitHub 上万个 Skills 项目，按分类、更新时间、Star 数量整理，方便用户直接安装使用。",
+  "content": "## 项目概述\nanbeime/skill 是一个综合性的 AI Agent 技能库，旨在为用户提供最全面、更新最及时的技能资源。项目包含两个核心部分：\n1. **精选原创技能包**：由项目团队精心制作，覆盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域，所有技能包均已打包，可直接安装使用。\n2. **自动抓取与整理**：项目自动从 GitHub 抓取上万个 Skills 项目，并根据分类、更新时间、Star 数量等维度进行整理，帮助用户快速发现优质技能。\n\n## 功能特点\n- **全面性**：收录技能数量庞大，涵盖多个热门领域。\n- **更新及时**：自动抓取机制确保技能库保持最新状态。\n- **易于使用**：技能包打包完整，用户可直接安装，无需额外配置。\n- **分类清晰**：按分类、更新时间、Star 数量等维度组织，便于检索和筛选。\n\n## 适用场景\n- AI Agent 开发者：快速获取现成技能，加速开发流程。\n- 技术爱好者：探索和学习不同领域的技能实现。\n- 自动化工作流设计者：利用现成技能包构建自动化流程。\n\n## 技术实现\n项目主要使用 Python 编写，可能涉及 GitHub API 调用、数据爬取、分类算法等技术。具体实现细节可参考仓库源码。\n\n## 社区反馈\n该项目在 GitHub 上获得 6453 个 Star 和 610 个 Fork，日增 Star 54，表明其受到社区广泛关注和认可。",
+  "tags": [
+    "AI Agent",
+    "技能库",
+    "Skills",
+    "GitHub",
+    "Python",
+    "自动化工作流",
+    "机器学习",
+    "文档处理",
+    "内容创作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-10T01:23:53+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anbeime",
+    "stars": 6453,
+    "forks": 610,
+    "daily_stars": 54,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
