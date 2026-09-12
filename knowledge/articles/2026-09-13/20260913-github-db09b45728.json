@@ -1,0 +1,32 @@
+{
+  "id": "20260913-github-db09b45728",
+  "title": "blader/humanizer",
+  "source": "github_trending",
+  "source_url": "https://github.com/blader/humanizer",
+  "summary": "blader/humanizer 是一个 Python 编写的 Agent 技能，用于去除文本中 AI 生成写作的痕迹，让内容更自然、更像人类撰写。该项目在 GitHub 上热度极高，拥有约 4.7 万星标，周增星标超 4600，属于 GitHub 热点 Python 分类。",
+  "content": "该仓库的核心定位是作为 Agent 的一项技能（skill），专门识别并消除 AI 生成文本中的典型特征，例如过于规整的句式、重复的过渡词、机械化的表达等，从而让输出更贴近人类写作风格。项目使用 Python 实现，作者为 blader。从数据看，仓库当前星标数约 47221，fork 数约 3847，周新增星标约 4649，说明近期关注度快速上升。其应用场景可能包括内容创作、学术写作辅助、营销文案润色以及任何需要降低 AI 痕迹的文本处理流程。由于摘要未提供具体实现细节，其技术方案可能涉及规则匹配、语言模型后处理或风格迁移等。整体而言，该项目切中了 AI 生成内容泛滥背景下对“去 AI 味”的真实需求，具备较强的实用性和传播潜力。",
+  "tags": [
+    "AI 文本去痕",
+    "Agent 技能",
+    "Python",
+    "文本润色",
+    "GitHub 热点",
+    "内容生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:45+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "blader",
+    "stars": 47221,
+    "forks": 3847,
+    "daily_stars": null,
+    "weekly_stars": 4649,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

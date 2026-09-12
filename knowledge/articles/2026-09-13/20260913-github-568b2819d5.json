@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-568b2819d5",
+  "title": "HakanSeven12/OpenCADStudio",
+  "source": "github_trending",
+  "source_url": "https://github.com/HakanSeven12/OpenCADStudio",
+  "summary": "OpenCADStudio 是一个基于 Rust 构建的 CAD 应用程序，支持 2D/3D 绘图、DWG/DXF 文件格式以及 GPU 加速渲染，目前在 GitHub 上获得 1662 颗星，日增 105 星，热度较高。",
+  "content": "OpenCADStudio 是由开发者 HakanSeven12 使用 Rust 语言编写的开源 CAD（计算机辅助设计）应用。该项目旨在提供现代化的计算机辅助设计工具，核心特性包括：\n\n1. **2D/3D 绘图能力**：支持二维和三维图形的创建与编辑，满足不同设计场景需求。\n2. **DWG/DXF 格式支持**：兼容行业标准的 AutoCAD 文件格式，便于与其他 CAD 软件交换数据。\n3. **GPU 加速渲染**：利用图形处理器进行硬件加速，提升复杂模型的渲染性能和交互流畅度。\n\n技术栈方面，项目采用 Rust 语言开发，兼顾性能与内存安全。当前在 GitHub 上已获得 1662 个 Star 和 163 个 Fork，日增 105 Star、周增 492 Star，显示出较强的社区关注度和增长势头。该项目适合对 CAD 工具开发、Rust 图形编程或开源设计软件感兴趣的开发者参考和学习。",
+  "tags": [
+    "Rust",
+    "CAD",
+    "2D/3D绘图",
+    "DWG/DXF",
+    "GPU加速",
+    "开源软件",
+    "图形渲染"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:40+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "HakanSeven12",
+    "stars": 1662,
+    "forks": 163,
+    "daily_stars": 105,
+    "weekly_stars": 492,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

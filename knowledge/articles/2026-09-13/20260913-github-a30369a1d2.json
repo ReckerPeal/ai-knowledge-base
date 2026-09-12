@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-a30369a1d2",
+  "title": "jundot/omlx",
+  "source": "github_trending",
+  "source_url": "https://github.com/jundot/omlx",
+  "summary": "jundot/omlx 是一个面向 Apple Silicon 的 LLM 推理服务器，支持连续批处理与 SSD 缓存，并通过 macOS 菜单栏进行管理。项目使用 Python 编写，在 GitHub 上获得约 2.17 万星标，属于当日热门 Python 项目。",
+  "content": "该项目定位为 Apple Silicon 平台上的本地大语言模型推理服务，核心特性包括：1) 连续批处理（continuous batching），可动态合并多个推理请求以提升 GPU/神经引擎利用率与吞吐量；2) SSD 缓存，将模型权重或 KV 缓存落盘，缓解统一内存容量限制并加速重复加载；3) macOS 菜单栏管理，提供轻量级原生入口，便于启动、监控与切换服务。技术栈为 Python，仓库热度较高（约 21,653 stars、1,861 forks，日增约 35 stars），表明其在本地 LLM 部署与 Apple 生态开发者中具有较强关注度。适用场景包括个人开发者在 Mac 上进行本地模型推理、原型验证与轻量级服务部署。",
+  "tags": [
+    "LLM推理",
+    "Apple Silicon",
+    "连续批处理",
+    "SSD缓存",
+    "macOS",
+    "Python",
+    "本地部署"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:36+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "jundot",
+    "stars": 21653,
+    "forks": 1861,
+    "daily_stars": 35,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

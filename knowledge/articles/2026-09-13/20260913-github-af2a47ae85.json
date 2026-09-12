@@ -1,0 +1,34 @@
+{
+  "id": "20260913-github-af2a47ae85",
+  "title": "Gentleman-Programming/gentle-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "summary": "Gentle-AI 是一个用 Go 编写的开源工具，用于统一配置多种主流 AI 编程代理（如 Claude Code、Cursor、OpenCode、Codex、Pi 等），提供持久记忆、规范驱动开发、精选技能、MCP 服务器、人格设定与可选的有界审查等能力，主打无代理锁定。",
+  "content": "## 项目定位\n\nGentle-AI 面向已经在使用 AI 编程代理的开发者，解决的核心痛点是：不同代理（Claude Code、Cursor、OpenCode、Codex、Pi 等）各自有独立的配置体系、上下文管理方式和扩展机制，导致用户在多个工具之间切换时重复配置、体验割裂。Gentle-AI 以「配置层」的形态介入，为这些代理提供统一的增强能力，且不绑定任何单一代理。\n\n## 核心能力\n\n1. **持久记忆（Persistent Memory）**：让 AI 代理跨会话保留项目上下文与偏好，减少重复交代背景的成本。\n2. **规范驱动开发（Spec-Driven Development）**：以规格文档为源头驱动 AI 生成与修改代码，提升产出的一致性与可审查性。\n3. **精选技能（Curated Skills）**：提供经过筛选的技能集合，扩展代理在特定任务上的能力边界。\n4. **MCP 服务器集成**：接入 Model Context Protocol 生态，使代理能够调用外部工具与数据源。\n5. **人格设定（Personas）**：允许为代理配置不同的角色与行为风格，适配不同工作场景。\n6. **可选的有界审查（Bounded Review）**：在受控范围内对 AI 产出进行审查，兼顾质量与成本。\n\n## 技术与生态\n\n- **语言**：Go，便于分发为单一二进制、跨平台运行，启动开销低。\n- **开源与无锁定**：项目开源，明确反对 agent lock-in，用户可自由更换底层代理而不丢失配置资产。\n- **热度**：约 6,689 stars、740 forks，周增约 441 stars，属于 Go 语言方向上的活跃热点项目。\n\n## 适用场景与评价\n\n适合同时使用多个 AI 编程代理、或希望将 AI 编码流程标准化（记忆 + 规范 + 审查）的团队与个人开发者。其价值在于把分散在各代理中的「增强配置」抽象为可复用、可迁移的一层，降低工具切换成本。需要注意的是，此类配置层工具的实际收益高度依赖各代理对 MCP、记忆等机制的兼容程度，落地效果需结合具体代理版本验证。",
+  "tags": [
+    "AI 编程代理",
+    "Go",
+    "MCP",
+    "规范驱动开发",
+    "持久记忆",
+    "开发者工具",
+    "开源",
+    "无代理锁定"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Gentleman-Programming",
+    "stars": 6689,
+    "forks": 740,
+    "daily_stars": null,
+    "weekly_stars": 441,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

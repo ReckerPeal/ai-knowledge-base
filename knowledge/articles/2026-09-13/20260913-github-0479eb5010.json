@@ -1,0 +1,34 @@
+{
+  "id": "20260913-github-0479eb5010",
+  "title": "facebook/pyrefly",
+  "source": "github_trending",
+  "source_url": "https://github.com/facebook/pyrefly",
+  "summary": "facebook/pyrefly 是 Meta 开源的一款用 Rust 编写的 Python 快速类型检查器与语言服务器，旨在为 Python 开发者提供高性能的静态类型分析与 IDE 支持，目前已在 GitHub 上获得近 7000 颗星。",
+  "content": "## 项目概览\n\nfacebook/pyrefly 是由 Meta（Facebook）开源的一个面向 Python 的类型检查器（type checker）和语言服务器（language server）。项目使用 Rust 语言实现，核心目标是在保证类型检查准确性的同时，显著提升大型 Python 代码库中的分析速度与编辑器响应性能。\n\n## 核心功能\n\n1. **快速类型检查**：基于 Rust 的高性能实现，针对 Python 代码进行静态类型分析，适合在大型项目中替代或补充现有的类型检查工具。\n2. **语言服务器（LSP）**：提供标准的 Language Server Protocol 支持，可与 VS Code、Neovim 等主流编辑器集成，实现实时诊断、跳转定义、补全等 IDE 能力。\n3. **面向开发者体验**：强调低延迟与快速反馈，适合在持续集成和本地开发流程中使用。\n\n## 技术特点\n\n- **Rust 实现**：利用 Rust 的内存安全与零成本抽象特性，在性能上具备明显优势，这也是该项目区别于多数 Python 原生类型检查工具（如 mypy、pyright 的 TypeScript 实现）的关键点。\n- **Meta 背景**：由 Meta 工程团队维护，通常意味着其设计目标面向超大规模代码库的实际需求。\n\n## 社区热度\n\n截至采集时，仓库已获得约 6,957 个 Star 和 514 个 Fork，日增 Star 约 5 个，属于 GitHub Rust 分类下的热点项目。\n\n## 适用场景\n\n- 大型 Python 单体仓库（monorepo）的静态类型检查\n- 编辑器/IDE 的实时类型提示与诊断\n- CI 流水线中的类型安全门禁\n\n## 潜在关注点\n\n作为较新的项目，其与现有 Python 类型生态（如 PEP 484/561/695 等规范、第三方 stub 包）的兼容程度、规则覆盖度以及生产环境成熟度，仍需结合后续版本迭代与社区反馈持续观察。",
+  "tags": [
+    "Python",
+    "类型检查",
+    "语言服务器",
+    "Rust",
+    "静态分析",
+    "LSP",
+    "Meta",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:40+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "facebook",
+    "stars": 6957,
+    "forks": 514,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

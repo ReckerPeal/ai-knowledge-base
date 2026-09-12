@@ -1,0 +1,32 @@
+{
+  "id": "20260913-github-06d0e11a13",
+  "title": "trufflesecurity/trufflehog",
+  "source": "github_trending",
+  "source_url": "https://github.com/trufflesecurity/trufflehog",
+  "summary": "TruffleHog 是一个用 Go 编写的开源凭证泄露检测工具，能够扫描代码仓库、文件系统、云存储等位置，发现、验证并分析泄露的凭据，帮助安全团队及时修复密钥泄露风险。",
+  "content": "TruffleHog 由 Truffle Security 开发，是当前最流行的秘密扫描工具之一。它支持对 Git 历史、文件系统、S3、GCS 等多种数据源进行深度扫描，内置数百种凭据检测器，并能通过主动验证（如调用 API）来确认凭据是否有效，从而大幅降低误报。该工具在 GitHub 上拥有约 2.8 万星标，社区活跃，被广泛集成到 CI/CD 流水线和安全审计流程中。其核心优势包括：高准确率的验证机制、对 800+ 种凭据类型的支持、易于使用的命令行界面，以及可扩展的插件架构。对于开发者和安全工程师而言，TruffleHog 是防止敏感信息泄露、满足合规要求的重要工具。",
+  "tags": [
+    "安全",
+    "凭证扫描",
+    "秘密检测",
+    "Go",
+    "开源工具",
+    "DevSecOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:42+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "trufflesecurity",
+    "stars": 27835,
+    "forks": 2578,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

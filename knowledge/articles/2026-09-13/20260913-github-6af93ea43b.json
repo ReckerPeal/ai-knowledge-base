@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-6af93ea43b",
+  "title": "ollama/ollama",
+  "source": "github_trending",
+  "source_url": "https://github.com/ollama/ollama",
+  "summary": "Ollama 是一个用 Go 语言编写的开源项目，旨在让用户轻松在本地运行和管理各类大语言模型，如 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。该项目在 GitHub 上拥有超过 18 万星标，是当前最受欢迎的本地大模型运行工具之一。",
+  "content": "Ollama 提供了一套简洁的命令行工具和 API，使用户无需复杂配置即可在本地下载、运行和交互各类主流大语言模型。其核心优势包括：\n\n1. **多模型支持**：涵盖 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等众多热门模型，满足不同场景需求。\n2. **本地化运行**：所有模型均在本地执行，保障数据隐私与安全，同时降低对云端服务的依赖。\n3. **跨平台兼容**：支持 macOS、Linux 和 Windows 等主流操作系统。\n4. **易用性**：通过简单的命令行指令即可完成模型的拉取、运行和管理，并提供了 REST API 供开发者集成。\n5. **活跃社区**：项目拥有超过 18 万星标和 1.7 万分支，社区贡献活跃，生态持续扩展。\n\nOllama 降低了本地大模型的使用门槛，适合开发者、研究人员及 AI 爱好者快速实验和部署模型。",
+  "tags": [
+    "Ollama",
+    "本地大模型",
+    "Go",
+    "开源",
+    "LLM",
+    "模型部署",
+    "AI工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "ollama",
+    "stars": 180733,
+    "forks": 17829,
+    "daily_stars": null,
+    "weekly_stars": 668,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260913-github-616e256747",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source": "rss",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "summary": "斯坦福大学博士论文提出面向非结构化数据查询的高效可靠分析系统，利用机器学习从视频等非结构化源中提取结构化信息，并通过近似计算与统计精度保证，将查询成本降低数个数量级。",
+  "content": "该论文聚焦于非结构化数据（如视频）的自动化分析问题。传统上，分析师借助机器学习（ML）从非结构化数据中提取对象类型、位置等结构化信息，再用于下游分析（如统计路口车流量）。然而，ML 部署面临三大挑战：成本高昂（分析小镇一年的视频可能耗费数百万美元云算力）、结果不可靠（错误结果会传导至下游）、技术门槛高（需深度学习、数据系统、编程等综合技能）。\n\n作者提出两个关键观察：一是许多应用可以容忍近似结果，只要精度有保证；二是回答非结构化数据查询的方法在成本上可相差多达 10 个数量级。基于此，论文开发了一系列系统与算法，用廉价近似方法替代昂贵的 ML 方法，返回近似但统计上有效的答案。\n\n该系统支持多种查询类型，包括选择（selection）、聚合（aggregation）和限制（limit）查询，且成本可比标准方法低数个数量级。核心贡献在于在效率与可靠性之间取得平衡，为非结构化数据分析提供可扩展、可验证的解决方案。",
+  "tags": [
+    "非结构化数据",
+    "机器学习",
+    "近似查询处理",
+    "数据系统",
+    "统计精度保证",
+    "视频分析"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-09T15:38:35-05:00",
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

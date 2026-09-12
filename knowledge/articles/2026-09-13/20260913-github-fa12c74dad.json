@@ -1,0 +1,32 @@
+{
+  "id": "20260913-github-fa12c74dad",
+  "title": "visioncortex/vtracer",
+  "source": "github_trending",
+  "source_url": "https://github.com/visioncortex/vtracer",
+  "summary": "visioncortex/vtracer 是一个用 Rust 编写的高性能光栅图像转矢量图形（Raster to Vector）转换器，在 GitHub 上已获得近 7000 颗星，属于 Rust 生态中较受关注的热点项目。",
+  "content": "vtracer 由 visioncortex 组织开发，核心功能是将位图（如 PNG、JPG）转换为矢量图（如 SVG），常用于图像矢量化、Logo 重绘、插画转矢量等场景。项目采用 Rust 语言实现，具备内存安全和高性能的优势，适合处理批量或大尺寸图像。当前仓库拥有 6988 个 Star、481 个 Fork，周新增 Star 约 148，表明社区活跃度较高。作为 GitHub 热点中的 Rust 项目，它可能提供命令行工具或库接口，方便集成到其他应用中。",
+  "tags": [
+    "Rust",
+    "图像处理",
+    "矢量图形",
+    "光栅转矢量",
+    "SVG",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:49+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "visioncortex",
+    "stars": 6988,
+    "forks": 481,
+    "daily_stars": null,
+    "weekly_stars": 148,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-d633861ee1",
+  "title": "rustfs/rustfs",
+  "source": "github_trending",
+  "source_url": "https://github.com/rustfs/rustfs",
+  "summary": "RustFS 是一个用 Rust 编写的开源、S3 兼容的高性能对象存储系统，宣称在 4KB 对象负载下比 MinIO 快 2.3 倍，并支持与 MinIO、Ceph 等其他 S3 兼容平台迁移和共存。",
+  "content": "RustFS 是由 rustfs 组织在 GitHub 上开源的对象存储项目，采用 Rust 语言开发，当前获得约 3.2 万星标和 1400 余次 fork，日增星标约 34，属于 GitHub 热点中的 Rust 类别项目。其核心定位是 S3 兼容的高性能对象存储系统，主要卖点包括：在 4KB 小对象负载场景下性能达到 MinIO 的 2.3 倍；支持与 MinIO、Ceph 等主流 S3 兼容平台进行数据迁移和共存部署。该项目适合需要高性能、低延迟对象存储的云原生、大数据和 AI 场景，尤其是对海量小对象读写敏感的工作负载。凭借 Rust 语言在内存安全和并发性能上的优势，RustFS 有望成为 MinIO 等传统对象存储方案的有力替代或补充。",
+  "tags": [
+    "Rust",
+    "对象存储",
+    "S3兼容",
+    "高性能",
+    "MinIO替代",
+    "开源",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:40+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rustfs",
+    "stars": 32020,
+    "forks": 1439,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

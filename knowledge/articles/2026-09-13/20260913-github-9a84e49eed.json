@@ -1,0 +1,34 @@
+{
+  "id": "20260913-github-9a84e49eed",
+  "title": "authelia/authelia",
+  "source": "github_trending",
+  "source_url": "https://github.com/authelia/authelia",
+  "summary": "Authelia 是一个面向 Web 应用的开源单点登录与多因素认证门户，已通过 OpenID 认证并支持后量子密码学，使用 Go 语言开发，在 GitHub 上拥有近 2.9 万星标。",
+  "content": "Authelia 是一个开源的 Web 应用单点登录（SSO）与多因素认证（MFA）门户，旨在为自托管服务和现代 Web 应用提供统一、安全的身份验证入口。项目已获得 OpenID 认证，并宣称支持后量子密码学（Post-Quantum Cryptography Ready），在安全前瞻性方面具有优势。其核心功能包括：集中式身份验证、双因素/多因素认证、访问控制策略、会话管理以及与反向代理（如 Nginx、Traefik）的集成。Authelia 使用 Go 语言编写，具备高性能和易部署的特点，适合需要强化身份安全的中小型团队及个人开发者。当前仓库拥有约 28,932 个星标和 1,480 个复刻，近期周新增星标约 137 个，表明社区关注度持续稳定。",
+  "tags": [
+    "单点登录",
+    "多因素认证",
+    "身份验证",
+    "OpenID",
+    "后量子密码学",
+    "Go",
+    "安全",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "authelia",
+    "stars": 28932,
+    "forks": 1480,
+    "daily_stars": null,
+    "weekly_stars": 137,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

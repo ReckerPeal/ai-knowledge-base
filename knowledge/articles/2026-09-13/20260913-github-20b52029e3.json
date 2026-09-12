@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-20b52029e3",
+  "title": "magnitudedev/magnitude",
+  "source": "github_trending",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "summary": "magnitudedev/magnitude 是一个开源本地推理引擎，支持在 Mac、NVIDIA/AMD GPU 或纯 CPU 上运行大模型，并可接入 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi、Cline 等工具。项目使用 TypeScript 编写，GitHub 星标约 4378，周增约 2096，热度较高。",
+  "content": "该项目定位为本地推理引擎，核心价值是让用户利用已有硬件（Mac、NVIDIA/AMD GPU 或 CPU）运行模型，无需依赖云端推理服务。它强调开放源码和本地化部署，适合对数据隐私、延迟或成本敏感的场景。\n\n从集成能力看，magnitude 可接入多种 AI 编程与代理工具，包括 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline，说明其目标不仅是独立推理运行时，也试图成为这些上层工具的本地模型后端。\n\n技术栈为 TypeScript，结合 4378 星标和一周约 2096 新增星标，表明项目在 GitHub 上增长迅速，受到开发者社区关注。当前摘要未提供具体模型格式、量化支持、性能基准和许可证信息，这些是评估其生产可用性的关键待补充点。",
+  "tags": [
+    "本地推理",
+    "开源",
+    "TypeScript",
+    "大模型",
+    "AI 编程工具",
+    "GPU 推理",
+    "CPU 推理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:47+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "magnitudedev",
+    "stars": 4378,
+    "forks": 326,
+    "daily_stars": null,
+    "weekly_stars": 2096,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

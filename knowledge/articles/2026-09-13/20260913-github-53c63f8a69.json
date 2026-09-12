@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-53c63f8a69",
+  "title": "multimodal-art-projection/YuE",
+  "source": "github_trending",
+  "source_url": "https://github.com/multimodal-art-projection/YuE",
+  "summary": "YuE2 是 multimodal-art-projection 团队推出的前沿音乐生成项目，基于 Python 实现，支持符号化规划、零样本翻唱（zero-shot covers）与智能体式音乐编辑（agentic music editing）。该仓库在 GitHub 上热度较高，累计获得约 7150 星标、812 次 fork，日增约 193 星、周增约 596 星，属于 GitHub 热点中的 Python 类项目。",
+  "content": "## 项目概览\n\nYuE2 由 multimodal-art-projection 组织开源，定位为「前沿音乐生成」（frontier music generation）系统。其核心能力围绕三大方向展开：\n\n1. **符号化规划（symbolic planning）**：在音乐生成过程中引入符号层面的规划机制，使生成结果在结构、和声与编排上更具可控性与音乐逻辑，而非单纯依赖端到端的波形或音频建模。\n\n2. **零样本翻唱（zero-shot covers）**：无需针对特定歌曲或歌手进行额外训练，即可完成翻唱风格的迁移与生成，降低了定制化音乐生成的门槛。\n\n3. **智能体式音乐编辑（agentic music editing）**：将 AI Agent 范式引入音乐编辑流程，使模型能够以更自主、多步骤的方式理解并修改音乐内容，提升交互式创作体验。\n\n## 技术特征\n\n- **语言与生态**：项目以 Python 为主要实现语言，便于与主流深度学习框架及音频处理库集成。\n- **多模态背景**：作者组织名中的「multimodal」暗示其在音频、符号、文本等多模态表示上的融合思路。\n- **前沿定位**：从命名（YuE2）与描述用词（frontier）看，该项目属于该系列的第二代迭代，强调能力边界的推进。\n\n## 社区热度\n\n- 累计 Stars：约 7,150\n- 累计 Forks：约 812\n- 日增 Stars：约 193\n- 周增 Stars：约 596\n\n从增长曲线看，项目处于活跃上升期，短期内获得了较高的社区关注度，属于 GitHub Trending 中的 Python 热点项目。\n\n## 适用场景\n\n- AI 音乐创作与辅助编曲\n- 翻唱生成与风格迁移研究\n- 智能体驱动的音乐编辑与交互式创作工具\n- 音乐生成方向的学术研究与工程实践参考",
+  "tags": [
+    "音乐生成",
+    "多模态",
+    "AI Agent",
+    "零样本学习",
+    "Python",
+    "GitHub 热点",
+    "音频生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:36+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "multimodal-art-projection",
+    "stars": 7150,
+    "forks": 812,
+    "daily_stars": 193,
+    "weekly_stars": 596,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

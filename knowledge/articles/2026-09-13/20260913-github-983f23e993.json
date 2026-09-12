@@ -1,0 +1,36 @@
+{
+  "id": "20260913-github-983f23e993",
+  "title": "SnailSploit/Claude-Red",
+  "source": "github_trending",
+  "source_url": "https://github.com/SnailSploit/Claude-Red",
+  "summary": "Claude-Red 是一个面向 Claude 技能系统的攻击性安全技能库，通过结构化的 SKILL.md 文件为 Claude 注入从 SQL 注入到 shellcode、EDR 规避到漏洞利用开发等各攻击面的专家级方法论。",
+  "content": "该项目由 SnailSploit 维护，采用 Python 语言实现，旨在为 Claude 的 skills 系统提供一套精选的攻击性安全技能集合。每个技能以结构化的 SKILL.md 文件形式存在，内容覆盖多种攻击面，包括但不限于 SQL 注入（SQLi）、shellcode 编写、EDR 规避以及漏洞利用开发。通过加载这些技能文件，Claude 能够获得针对特定安全领域的专家级方法论指导，从而在渗透测试、红队演练等场景中提供更专业的辅助。该仓库在 GitHub 上热度较高，当前获得约 3464 个 star 和 544 个 fork，单日新增 star 约 99 个，反映出安全社区对 AI 辅助攻击性安全研究的浓厚兴趣。",
+  "tags": [
+    "攻击性安全",
+    "Claude技能",
+    "红队工具",
+    "渗透测试",
+    "漏洞利用",
+    "EDR规避",
+    "SQL注入",
+    "shellcode",
+    "Python",
+    "AI安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:36+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "SnailSploit",
+    "stars": 3464,
+    "forks": 544,
+    "daily_stars": 99,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

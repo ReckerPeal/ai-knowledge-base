@@ -1,0 +1,36 @@
+{
+  "id": "20260913-github-1bde3faf9c",
+  "title": "dagucloud/dagu",
+  "source": "github_trending",
+  "source_url": "https://github.com/dagucloud/dagu",
+  "summary": "Dagu 是一款用 Go 编写的自托管工作流编排器，面向不以编排为核心工作的团队，通过声明式 YAML 管理脚本、SSH 命令和容器等任务，实现工作流与业务逻辑分离，单二进制、无需数据库，可运行在资源受限的硬件上，是 Airflow、Cron 和作业调度器的轻量替代方案。",
+  "content": "## 项目定位\n\nDagu（dagucloud/dagu）是一款**自托管工作流编排器**，目标用户是那些主要工作并非编排、但又需要可靠调度能力的团队。它试图在 Cron 的简陋与 Airflow 的沉重之间找到一个平衡点。\n\n## 核心设计理念\n\n- **声明式 YAML**：用 YAML 描述工作流，底层执行的是你已有的脚本、SSH 命令、容器等，不强迫你改写业务代码。\n- **工作流与业务逻辑分离**：编排层只负责调度与依赖，业务逻辑保留在脚本中，降低耦合。\n- **单二进制、无数据库**：整个系统编译为一个可执行文件，不需要额外的数据库或中间件，部署和运维成本极低。\n- **资源友好**：可在有限硬件资源上运行，适合边缘设备、小型服务器或本地开发环境。\n\n## 与同类工具的对比\n\n| 维度 | Dagu | Airflow | Cron |\n| --- | --- | --- | --- |\n| 部署复杂度 | 单二进制 | 较重，依赖数据库/调度器 | 极简 |\n| 依赖管理 | 内置 DAG 依赖 | 内置 | 无 |\n| 资源占用 | 低 | 高 | 极低 |\n| 可观测性 | 内置 Web UI | 丰富 | 无 |\n\n## 技术栈与社区数据\n\n- **语言**：Go\n- **Stars**：3,959\n- **Forks**：331\n- **日增 Stars**：50（GitHub 热点 · Go 分类）\n\n## 适用场景\n\n- 中小团队需要比 Cron 更强的依赖管理与可视化，但不想引入 Airflow 的运维负担。\n- 在资源受限的机器（如树莓派、小型 VPS）上运行定时任务与数据管道。\n- 希望将已有脚本、SSH 远程命令、容器任务统一编排，而不重写业务逻辑。\n\n## 潜在局限\n\n- 相比 Airflow，生态与插件丰富度有限。\n- 大规模分布式调度能力可能不如专业编排平台。\n- 无数据库设计在超大规模任务历史存储上可能面临挑战。",
+  "tags": [
+    "工作流编排",
+    "Go",
+    "自托管",
+    "YAML",
+    "任务调度",
+    "Airflow 替代",
+    "Cron 替代",
+    "单二进制",
+    "无数据库",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:42+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "dagucloud",
+    "stars": 3959,
+    "forks": 331,
+    "daily_stars": 50,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

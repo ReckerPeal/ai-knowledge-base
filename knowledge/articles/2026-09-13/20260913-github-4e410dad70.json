@@ -1,0 +1,31 @@
+{
+  "id": "20260913-github-4e410dad70",
+  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "summary": "OpenAI 发布 GPT-Live-1，通过 API 提供自然全双工语音对话能力，支持更强指令遵循、自定义音色与电话通信集成。",
+  "content": "OpenAI 在其官方博客宣布推出 GPT-Live-1，并已通过 API 向开发者开放。该模型的核心定位是构建更自然的语音交互体验，主要特性包括：\n\n1. **全双工语音对话**：支持双向实时语音交流，用户与模型可以同时说话、自然打断，接近真人对话节奏，而非传统轮次式语音交互。\n2. **更强的指令遵循**：在语音场景下提升对复杂指令的理解与执行能力，使模型能够更准确地按用户要求完成多步骤任务。\n3. **自定义音色**：允许开发者定制或选择语音音色，满足品牌、角色或场景化的语音体验需求。\n4. **电话通信支持**：提供 telephony 能力，可将语音代理接入电话网络，适用于客服、外呼、语音助手等实际业务场景。\n\n该发布面向开发者生态，意味着语音 AI 应用（如实时语音助手、智能客服、语音 Agent）的构建门槛进一步降低，同时全双工与电话集成能力将推动语音交互从“可用”向“自然”演进。",
+  "tags": [
+    "OpenAI",
+    "GPT-Live-1",
+    "语音API",
+    "全双工对话",
+    "自定义音色",
+    "电话通信",
+    "语音助手"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-10T00:00:00+00:00",
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

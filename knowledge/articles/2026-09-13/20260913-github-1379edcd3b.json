@@ -1,0 +1,34 @@
+{
+  "id": "20260913-github-1379edcd3b",
+  "title": "DataDog/datadog-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/DataDog/datadog-agent",
+  "summary": "DataDog/datadog-agent 是 Datadog 官方监控代理的主仓库，使用 Go 语言开发，用于采集主机、容器、应用等各类指标、日志和追踪数据并上报至 Datadog 平台。",
+  "content": "该仓库是 Datadog Agent 的核心代码库，作为 Datadog 监控平台的数据采集端，负责从基础设施、应用程序和服务中收集指标（metrics）、日志（logs）、追踪（traces）以及安全相关数据，并将其发送到 Datadog 后端进行分析和可视化。Agent 支持多种集成（integrations），可监控系统资源、数据库、消息队列、Web 服务器等。项目采用 Go 语言编写，具备跨平台能力，支持 Linux、Windows、macOS 等操作系统，并可在容器化环境中运行。仓库拥有约 3.7k stars 和 1.5k forks，是 Datadog 生态中至关重要的开源组件，社区活跃度较高，适合运维、SRE 和可观测性领域开发者关注与贡献。",
+  "tags": [
+    "Datadog",
+    "监控",
+    "可观测性",
+    "Go",
+    "Agent",
+    "指标采集",
+    "日志",
+    "APM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "DataDog",
+    "stars": 3724,
+    "forks": 1485,
+    "daily_stars": null,
+    "weekly_stars": 7,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260913-github-925f733440",
+  "title": "junegunn/fzf",
+  "source": "github_trending",
+  "source_url": "https://github.com/junegunn/fzf",
+  "summary": "fzf 是一个用 Go 编写的通用命令行模糊查找器，支持交互式筛选任意列表（文件、历史命令、进程等），以高性能和易集成著称，是终端工作流中的经典工具。",
+  "content": "## 项目概述\nfzf（junegunn/fzf）是一个用 Go 语言实现的命令行模糊查找器（fuzzy finder），定位为通用交互式过滤器。它可以从标准输入读取候选列表，通过模糊匹配算法实时筛选，并将选中结果输出到标准输出，因此能无缝嵌入各种 shell 管道与脚本。\n\n## 核心特性\n- **模糊匹配**：支持非连续字符匹配与智能排序，输入少量字符即可快速定位目标。\n- **交互式界面**：基于终端的全屏 TUI，支持方向键、Ctrl 组合键、多选（Tab/Shift-Tab）等操作。\n- **高度可集成**：提供 `--preview` 预览窗口、`--bind` 自定义键位、`--expect` 等参数，可与 vim、tmux、git、ripgrep 等工具联动。\n- **跨平台**：支持 Linux、macOS、Windows（含 WSL），并提供 shell 补全与键绑定脚本（bash/zsh/fish）。\n- **性能优秀**：Go 实现配合并行匹配，即使面对数十万条候选也能保持低延迟响应。\n\n## 典型使用场景\n- 模糊查找文件并交给编辑器打开：`vim $(fzf)`\n- 搜索命令历史：`Ctrl-R` 绑定\n- 切换 git 分支、查找进程、选择 tmux 会话等\n- 作为其他 CLI 工具的交互式选择层，例如 `git log --oneline | fzf`\n\n## 社区与生态\n仓库由 junegunn 维护，拥有约 8.3 万 stars 与 2.8 千 forks，日增约 30 stars，长期位居 GitHub Go 语言热点榜单。其周边生态丰富，包括 fzf.vim、fzf-tab 等插件，已成为现代终端工作流的事实标准组件之一。\n\n## 评价\nfzf 以极简的 Unix 哲学（stdin → 筛选 → stdout）解决了命令行交互中的高频痛点，兼具性能、可扩展性与跨平台能力，是终端效率工具中的标杆项目。",
+  "tags": [
+    "命令行工具",
+    "模糊查找",
+    "Go",
+    "终端效率",
+    "开源工具",
+    "TUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:42+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "junegunn",
+    "stars": 82937,
+    "forks": 2868,
+    "daily_stars": 30,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

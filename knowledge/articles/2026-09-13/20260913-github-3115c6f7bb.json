@@ -1,0 +1,33 @@
+{
+  "id": "20260913-github-3115c6f7bb",
+  "title": "vllm-project/semantic-router",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/semantic-router",
+  "summary": "vllm-project/semantic-router 是一个用 Go 编写的可编程混合模型路由器，专为异构 LLM 推理设计，旨在动态调度不同模型以优化推理效率。",
+  "content": "该项目由 vllm-project 组织开发，基于 Go 语言实现，核心功能是提供一个可编程的 Mixture-of-Models 路由层，用于在异构 LLM 推理场景中智能分配请求。它允许用户根据语义或策略将查询路由到不同的模型后端，从而平衡延迟、成本和准确性。仓库当前获得 5753 个 Star 和 936 个 Fork，周新增 Star 181，显示出较高的社区关注度。作为 vLLM 生态的一部分，它可能利用 vLLM 的高效推理能力，并扩展其多模型管理功能。该工具适用于需要同时部署多个 LLM 并动态选择最佳模型的场景，如 AI 网关、模型即服务（MaaS）平台等。",
+  "tags": [
+    "LLM",
+    "模型路由",
+    "混合模型",
+    "Go",
+    "vLLM",
+    "推理优化",
+    "异构计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-13T00:35:52+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 5753,
+    "forks": 936,
+    "daily_stars": null,
+    "weekly_stars": 181,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
