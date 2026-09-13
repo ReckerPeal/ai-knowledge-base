@@ -1,0 +1,35 @@
+{
+  "id": "20260914-github-c289dc3d99",
+  "title": "ruvnet/ruflo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "summary": "ruvnet/ruflo 是一个基于 TypeScript 的智能体框架（Agent Harness），支持部署多智能体集群、协调自主工作流并构建对话式 AI 系统，具备自适应记忆、自学习智能、联邦机制与向量 RAG 集成，并原生兼容 Claude Code、Codex、Hermes 等多种模型工具。项目在 GitHub 上拥有约 7.2 万星标，热度极高。",
+  "content": "## 项目概览\n\nruvnet/ruflo（标题标注为「The original agent harness」）是一个面向多智能体（Multi-Agent）场景的开源框架，使用 TypeScript 编写，托管于 GitHub。截至采集时，仓库累计获得约 72,295 个 Star、8,557 个 Fork，近一周新增约 1,707 个 Star，属于 GitHub 热点榜单中的高热度项目。\n\n## 核心能力\n\n1. **多智能体集群部署**：支持部署「intelligent multi-player swarms」，即多个智能体以集群方式协同工作，而非单点式 Agent 调用。\n2. **自主工作流协调**：可对自主（autonomous）任务流程进行编排与调度，适合复杂、多步骤的自动化场景。\n3. **对话式 AI 系统构建**：提供构建 conversational AI 系统的基础设施能力。\n4. **自适应记忆（Adaptive Memory）**：智能体具备可动态调整的记忆机制，用于跨会话、跨任务的状态保持。\n5. **自学习智能（Self-learning Intelligence）**：框架内置自我学习/自我优化能力，使智能体随使用过程持续改进。\n6. **联邦机制（Federation）**：支持多个智能体或节点之间的联邦式协作与信息共享。\n7. **向量 RAG 集成**：原生集成向量检索增强生成（Vector RAG），用于知识库问答与上下文增强。\n8. **多模型/工具原生兼容**：明确支持 Claude Code、Codex、Hermes 等，并强调「many more Integrated」，即对主流编码智能体与模型工具链有较广的适配面。\n\n## 技术定位\n\n从描述看，ruflo 的定位是「Agent Harness」（智能体挽具/承载框架），即位于底层大模型与上层应用之间的编排层。它不局限于单一模型，而是试图成为统一的多智能体运行时，把记忆、检索、学习、联邦协作等能力打包为可复用组件。\n\n## 生态与热度\n\n- 语言：TypeScript，便于在 Node.js / 前端生态中集成。\n- 作者：ruvnet。\n- 热度指标：72K+ Star、8.5K+ Fork、周增 1.7K Star，说明项目处于活跃增长期，社区关注度高。\n- 分类：GitHub 热点 · TypeScript。\n\n## 适用场景\n\n- 需要多智能体协同的复杂自动化任务；\n- 构建带长期记忆与知识检索的对话式 AI 产品；\n- 在 Claude Code、Codex 等编码智能体之上做统一编排；\n- 需要自学习、联邦式协作能力的智能体系统研发。\n\n## 注意事项\n\n摘要未提供发布时间（published_at 为空），Star 基线日期亦缺失，因此热度数据仅反映采集时点的快照，具体增长趋势需结合后续数据判断。",
+  "tags": [
+    "多智能体",
+    "Agent框架",
+    "TypeScript",
+    "RAG",
+    "对话式AI",
+    "自主工作流",
+    "自适应记忆",
+    "Claude Code",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:24+08:00",
+  "language": "TypeScript",
+  "score": 8.8,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 72295,
+    "forks": 8557,
+    "daily_stars": null,
+    "weekly_stars": 1707,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

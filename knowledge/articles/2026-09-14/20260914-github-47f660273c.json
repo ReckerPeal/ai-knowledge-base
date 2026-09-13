@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-47f660273c",
+  "title": "google/go-github",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/go-github",
+  "summary": "google/go-github 是 Google 维护的 Go 语言库，用于访问 GitHub v3 REST API，提供类型安全的接口封装，拥有超过 1.1 万 Star，是 Go 生态中集成 GitHub 功能的主流选择。",
+  "content": "google/go-github 是 Google 官方维护的 Go 语言客户端库，旨在简化对 GitHub v3 REST API 的访问。该库将 GitHub API 的各类资源（如仓库、议题、拉取请求、用户、组织等）封装为 Go 结构体和方法，使开发者能够以类型安全、符合 Go 习惯的方式调用 GitHub 接口，而无需手动处理 HTTP 请求和 JSON 序列化。\n\n主要特点：\n- 覆盖 GitHub v3 API 的绝大多数端点，包括仓库管理、Issue 跟踪、Pull Request 操作、Webhook、OAuth 等。\n- 提供分页、速率限制处理、条件请求等辅助功能。\n- 与 Go 生态无缝集成，适合构建 CI/CD 工具、自动化机器人、代码分析平台等。\n- 由 Google 维护，社区活跃，拥有 11,309 个 Star 和 2,542 个 Fork，周新增 Star 约 14 个，表明其持续受到关注。\n\n使用场景：开发者可以使用该库编写脚本或服务，自动创建 Issue、管理 PR、获取仓库统计信息、同步组织成员等。对于需要与 GitHub 深度集成的 Go 项目，go-github 是事实上的标准库。\n\n该仓库语言为 Go，遵循 Go 模块化开发，文档完善，测试覆盖良好，适合作为学习 Go 语言 HTTP 客户端设计和 API 封装的参考项目。",
+  "tags": [
+    "Go",
+    "GitHub API",
+    "客户端库",
+    "Google",
+    "REST API",
+    "自动化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:29+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "google",
+    "stars": 11309,
+    "forks": 2542,
+    "daily_stars": null,
+    "weekly_stars": 14,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

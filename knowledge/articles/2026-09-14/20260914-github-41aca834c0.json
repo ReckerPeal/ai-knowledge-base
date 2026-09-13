@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-41aca834c0",
+  "title": "QuantumNous/new-api",
+  "source": "github_trending",
+  "source_url": "https://github.com/QuantumNous/new-api",
+  "summary": "QuantumNous/new-api 是一个用 Go 编写的统一 AI 模型聚合与分发网关，支持将多种大语言模型转换为 OpenAI、Claude 或 Gemini 兼容格式，面向个人和企业提供集中式模型管理。",
+  "content": "该项目定位为 AI 模型领域的统一枢纽，核心能力是聚合与分发。它能够将不同厂商、不同接口规范的大语言模型进行跨格式转换，统一输出为 OpenAI 兼容、Claude 兼容或 Gemini 兼容的 API 格式，从而屏蔽底层模型差异，让上层应用只需对接一种协议即可调用多种模型。作为集中式网关，它适用于个人开发者统一管理多个模型 API Key 与配额，也适合企业构建内部统一的模型调用入口，便于权限控制、流量分发与成本管理。项目使用 Go 语言实现，具备较好的并发性能与部署便利性。从社区数据看，仓库已获得约 48000 个 Star 和 11498 个 Fork，近一周新增约 654 个 Star，热度较高，属于 GitHub Go 语言方向的热门项目。",
+  "tags": [
+    "AI 网关",
+    "模型聚合",
+    "API 转换",
+    "OpenAI 兼容",
+    "Claude 兼容",
+    "Gemini 兼容",
+    "Go",
+    "LLM 基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:29+08:00",
+  "language": "Go",
+  "score": 8.8,
+  "metadata": {
+    "author": "QuantumNous",
+    "stars": 48000,
+    "forks": 11498,
+    "daily_stars": null,
+    "weekly_stars": 654,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

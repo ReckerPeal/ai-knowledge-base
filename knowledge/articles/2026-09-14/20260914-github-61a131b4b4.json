@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-61a131b4b4",
+  "title": "AgriciDaniel/claude-ads",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-ads",
+  "summary": "claude-ads 是一个面向 Claude Code 的付费媒体运营技能库，覆盖 Google、Meta、YouTube、LinkedIn、TikTok 等 12 个广告平台，提供基于来源的审计、确定性评分、版本化 JSON 报告以及受能力门控的账户变更功能。",
+  "content": "该项目由 AgriciDaniel 开发，使用 Python 编写，在 GitHub 上已获得约 9,230 颗星和 1,368 次 fork，近期周增星约 483，属于 GitHub 热点 Python 类别。其核心定位是「Claude 优先」的付费媒体运营技能，专为 Claude Code 设计，旨在将 AI 代理能力引入多平台广告运营场景。\n\n主要特性包括：\n1. 跨平台覆盖：支持 Google、Meta、YouTube、LinkedIn、TikTok、Microsoft、Apple、Amazon、Reddit、Pinterest、Snapchat、X 共 12 个广告平台。\n2. 来源可溯的审计：审计结果基于可验证的数据来源，提升可信度。\n3. 确定性评分：采用确定性算法对广告账户或活动进行评分，避免主观波动。\n4. 版本化 JSON 报告：输出结构化、可版本管理的 JSON 报告，便于集成与追踪。\n5. 能力门控的账户变更：对账户修改操作实施能力门控，确保安全可控。\n\n该项目适合数字营销人员、广告运营团队以及希望利用 Claude Code 自动化广告审计与优化的开发者。",
+  "tags": [
+    "Claude Code",
+    "广告运营",
+    "付费媒体",
+    "Python",
+    "自动化审计",
+    "多平台",
+    "JSON 报告",
+    "AI 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:21+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 9230,
+    "forks": 1368,
+    "daily_stars": null,
+    "weekly_stars": 483,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-33d92cf70c",
+  "title": "rust-lang/rust-analyzer",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust-analyzer",
+  "summary": "rust-analyzer 是 Rust 官方维护的 IDE 编译器前端，为编辑器提供代码补全、跳转、诊断等智能功能，是 Rust 生态中最重要的开发者工具之一。",
+  "content": "rust-analyzer 是 Rust 编程语言的编译器前端，专为 IDE 和编辑器集成而设计。它并非完整的编译器，而是实现了增量式、容错的语义分析，能够实时为开发者提供代码补全、定义跳转、类型提示、重构、错误诊断等语言服务。该项目由 rust-lang 官方组织维护，采用 Rust 语言编写，遵循 MIT/Apache-2.0 双许可。它通过 LSP（Language Server Protocol）与 VS Code、Neovim、Emacs 等主流编辑器通信，已成为 Rust 开发体验的核心组件。仓库当前拥有约 16,841 个 Star 和 2,219 个 Fork，日增约 6 个 Star，社区活跃度高、迭代频繁。其架构强调性能与可扩展性，采用基于 salsa 的增量计算框架，使大型项目的分析也能保持流畅响应。",
+  "tags": [
+    "Rust",
+    "IDE",
+    "编译器前端",
+    "语言服务器",
+    "LSP",
+    "开发者工具",
+    "rust-lang"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:16+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 16841,
+    "forks": 2219,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

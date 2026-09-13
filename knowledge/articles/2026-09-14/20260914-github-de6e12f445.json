@@ -1,0 +1,31 @@
+{
+  "id": "20260914-github-de6e12f445",
+  "title": "Stremio/stremio-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/Stremio/stremio-core",
+  "summary": "Stremio Core 是 Stremio 流媒体平台的核心库，使用 Rust 编写，提供类型定义、插件系统、UI 模型和核心逻辑，是 Stremio 客户端与插件生态的基础。",
+  "content": "Stremio/stremio-core 是 Stremio 流媒体应用的核心组件，采用 Rust 语言开发。它定义了平台的核心类型、插件（addon）系统、UI 模型以及核心业务逻辑，为 Stremio 的跨平台客户端提供统一的基础能力。该仓库在 GitHub 上拥有约 2376 个 Star 和 247 个 Fork，近期日增约 10 个 Star，属于 Rust 语言的热门项目。其设计目标是将核心逻辑与具体 UI 实现解耦，便于多端复用和插件生态扩展。",
+  "tags": [
+    "Rust",
+    "流媒体",
+    "核心库",
+    "插件系统",
+    "Stremio"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:16+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "Stremio",
+    "stars": 2376,
+    "forks": 247,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

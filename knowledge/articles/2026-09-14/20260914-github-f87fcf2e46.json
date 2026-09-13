@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-f87fcf2e46",
+  "title": "The-Swarm-Corporation/AutoHedge",
+  "source": "github_trending",
+  "source_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+  "summary": "AutoHedge 是 The-Swarm-Corporation 推出的开源项目，利用群体智能与 AI 智能体，帮助用户在几分钟内搭建自主对冲基金，实现市场分析、风险管理和交易执行的自动化。",
+  "content": "AutoHedge 是一个基于 Python 的开源框架，目标是让个人开发者或小型团队能够快速构建属于自己的「自主对冲基金」。项目核心思路是结合群体智能（swarm intelligence）与多 AI 智能体（AI agents）协作，将传统量化交易流程中的市场分析、风险评估与交易执行等环节自动化。\n\n主要特点：\n1. 群体智能架构：通过多个 AI 智能体分工协作，模拟研究、决策、风控等角色，提升分析的多角度与鲁棒性。\n2. 全流程自动化：覆盖从行情数据获取、市场分析、策略生成，到风险管理与交易执行的完整链路。\n3. 快速上手：官方强调「几分钟内」即可搭建，降低了量化交易与 AI 结合的门槛。\n4. 社区热度：GitHub 星标约 6043，fork 约 872，周新增星标约 1680，属于近期 Python 类热点项目。\n\n适用场景：量化交易研究、AI 智能体实验、金融科技教学与原型验证。需注意实际交易涉及资金风险，部署前应充分回测与风控。",
+  "tags": [
+    "AI Agents",
+    "Swarm Intelligence",
+    "量化交易",
+    "对冲基金",
+    "Python",
+    "金融科技",
+    "自动化交易"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:21+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "The-Swarm-Corporation",
+    "stars": 6043,
+    "forks": 872,
+    "daily_stars": null,
+    "weekly_stars": 1680,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

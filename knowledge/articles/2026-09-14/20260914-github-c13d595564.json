@@ -1,0 +1,36 @@
+{
+  "id": "20260914-github-c13d595564",
+  "title": "melgarafael/DeskcommCRM",
+  "source": "github_trending",
+  "source_url": "https://github.com/melgarafael/DeskcommCRM",
+  "summary": "DeskcommCRM 是一个开源的 AI 销售操作系统，提供自托管 CRM 能力，内置原生 AI 智能体并集成 WhatsApp（基于 WAHA），定位为 Kommo、Octadesk 和 Intercom 的开源替代方案，适合以聊天为主要销售渠道的企业。项目采用 TypeScript 开发，支持 MCP 协议、多租户架构，并符合 LGPD（巴西通用数据保护法）合规要求。",
+  "content": "## 项目概览\n\nDeskcommCRM 是一个面向「聊天驱动型销售」场景的开源 CRM 系统，作者为 melgarafael。项目在 GitHub 上已获得约 2084 个 Star、578 个 Fork，单日新增约 444 Star，周新增约 850 Star，属于近期增长较快的 TypeScript 热点项目。\n\n## 核心定位\n\n项目自我定位为「Open-source AI sales OS」，即开源的 AI 销售操作系统。它试图填补 Kommo、Octadesk、Intercom 等商业聊天式 CRM 的开源空白，让任何依赖聊天渠道完成销售转化的企业都能自托管部署，避免供应商锁定与数据外流。\n\n## 关键特性\n\n1. **自托管 CRM**：数据与部署完全由企业掌控，适合对数据主权有要求的团队。\n2. **原生 AI 智能体**：AI Agent 不是外挂插件，而是系统的一等公民，可参与销售流程自动化。\n3. **WhatsApp 集成（WAHA）**：通过 WAHA（WhatsApp HTTP API）接入 WhatsApp，覆盖拉美等 WhatsApp 主导市场的主流销售渠道。\n4. **MCP-ready**：支持 Model Context Protocol，便于与各类 AI 工具链和模型上下文生态对接。\n5. **多租户（multi-tenant）**：适合 SaaS 服务商或集团化部署，一套实例服务多个组织。\n6. **LGPD 合规**：面向巴西市场的数据保护合规设计，降低本地化法律风险。\n\n## 技术栈与生态\n\n- 语言：TypeScript\n- 集成协议：MCP、WAHA\n- 部署形态：自托管、多租户\n- 目标用户：以聊天为主要销售渠道的中小企业、SaaS 服务商、需要数据合规的巴西/拉美市场团队\n\n## 适用场景\n\n- 希望用开源方案替代 Kommo / Octadesk / Intercom 的企业\n- 需要将 AI 智能体嵌入销售流程的团队\n- 以 WhatsApp 为核心获客与成交渠道的业务\n- 对数据主权、LGPD 合规有硬性要求的组织\n\n## 观察与建议\n\n项目增长势头明显（日增 444 Star），说明「开源 + AI Agent + WhatsApp CRM」这一组合切中了市场痛点。但需注意：摘要未披露许可证类型、AI 模型供应商依赖、WAHA 的稳定性与封号风险等关键信息，实际选型前建议进一步核查仓库文档、Issue 活跃度与社区治理情况。",
+  "tags": [
+    "开源CRM",
+    "AI销售",
+    "WhatsApp集成",
+    "自托管",
+    "TypeScript",
+    "多租户",
+    "MCP",
+    "LGPD合规",
+    "AI Agent",
+    "SaaS替代方案"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:14+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "melgarafael",
+    "stars": 2084,
+    "forks": 578,
+    "daily_stars": 444,
+    "weekly_stars": 850,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

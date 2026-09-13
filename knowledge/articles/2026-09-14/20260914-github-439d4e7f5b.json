@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-439d4e7f5b",
+  "title": "tbphp/gpt-load",
+  "source": "github_trending",
+  "source_url": "https://github.com/tbphp/gpt-load",
+  "summary": "tbphp/gpt-load 是一个用 Go 编写的自托管 AI 网关，支持多渠道、多凭据（API 密钥与订阅账号）统一接入，提供调度、故障转移、请求日志与用量统计能力，当前在 GitHub 上已获得约 6719 星标。",
+  "content": "该项目定位为自托管的 AI 网关，核心价值在于把分散的 AI 服务渠道与凭据统一收口管理。\n\n主要特性：\n1. 多渠道多凭据接入：同时支持 API Key 与订阅类账号，便于在多个上游服务之间统一路由。\n2. 调度与容错：内置调度策略与故障转移机制，当某个渠道或凭据不可用时自动切换，提升可用性。\n3. 可观测性：提供请求日志与用量统计，方便追踪调用情况、排查问题与成本核算。\n4. 自托管部署：数据与密钥掌握在自己手中，适合对隐私和可控性有要求的团队。\n\n技术栈：使用 Go 语言开发，具备较好的并发处理能力与部署便利性。\n\n社区热度：约 6719 stars、723 forks，日增约 80 stars，属于 GitHub Go 分类下的热点项目，说明其在 AI 网关/代理这一细分方向有较强关注度。\n\n适用场景：需要统一管理多个 AI 服务商账号、做负载均衡与故障转移、并希望保留调用日志与用量数据的个人开发者或团队。",
+  "tags": [
+    "AI 网关",
+    "自托管",
+    "Go",
+    "多凭据管理",
+    "故障转移",
+    "请求日志",
+    "用量统计",
+    "API 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "tbphp",
+    "stars": 6719,
+    "forks": 723,
+    "daily_stars": 80,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

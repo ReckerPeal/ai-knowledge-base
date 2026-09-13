@@ -1,0 +1,32 @@
+{
+  "id": "20260914-github-dc86a78232",
+  "title": "ipfs/kubo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ipfs/kubo",
+  "summary": "ipfs/kubo 是 IPFS 协议的官方 Go 语言实现，作为守护进程提供内容寻址数据的存储与分发服务，并附带 CLI、HTTP 网关和 RPC API 三种交互方式。",
+  "content": "Kubo（原名 go-ipfs）是星际文件系统 IPFS 的参考实现，使用 Go 语言编写。它以一个常驻守护进程的形式运行，负责在点对点网络中存储、寻址和提供内容寻址数据。项目提供三种主要使用接口：命令行工具（CLI）用于本地操作与节点管理；HTTP 网关允许通过标准 HTTP 请求访问 IPFS 内容，便于与 Web 生态集成；RPC API 则支持程序化调用，方便开发者构建上层应用。该仓库由 ipfs 组织维护，拥有约 1.7 万 Star 和 3 千余 Fork，是去中心化存储与 Web3 基础设施领域的核心项目之一。",
+  "tags": [
+    "IPFS",
+    "Go",
+    "去中心化存储",
+    "内容寻址",
+    "P2P",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "ipfs",
+    "stars": 17132,
+    "forks": 3170,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

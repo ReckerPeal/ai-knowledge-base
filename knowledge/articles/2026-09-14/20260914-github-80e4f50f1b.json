@@ -1,0 +1,32 @@
+{
+  "id": "20260914-github-80e4f50f1b",
+  "title": "alphaXiv/OpenResearch",
+  "source": "github_trending",
+  "source_url": "https://github.com/alphaXiv/OpenResearch",
+  "summary": "alphaXiv/OpenResearch 是一个用 Rust 编写的开源项目，支持使用任意模型并行运行研究型 AI 代理，当前在 GitHub 上已获得 1911 颗星，日增 304 星，热度较高。",
+  "content": "该项目由 alphaXiv 团队开发，核心功能是让用户能够以并行方式运行多个研究代理（research agents），并且兼容任意模型（any model），这意味着用户可以自由选择不同的大语言模型来驱动代理执行研究任务。项目采用 Rust 语言编写，具备高性能和并发处理能力，适合需要大规模并行推理的研究场景。当前仓库拥有 1911 个 star 和 140 个 fork，单日新增 304 个 star，显示出较强的社区关注度和增长势头。该项目归类于 GitHub 热点中的 Rust 类别，适合对 AI 代理编排、自动化研究流程以及多模型集成感兴趣的开发者和研究者。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "并行计算",
+    "研究自动化",
+    "多模型",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:16+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "alphaXiv",
+    "stars": 1911,
+    "forks": 140,
+    "daily_stars": 304,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

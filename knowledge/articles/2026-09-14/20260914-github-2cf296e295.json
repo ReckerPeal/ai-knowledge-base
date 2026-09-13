@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-2cf296e295",
+  "title": "tinyhumansai/openhuman",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "summary": "OpenHuman 是一个开源智能体框架（agent harness），主打本地优先记忆、智能体编排与工作流能力，使用 Rust 编写，在 GitHub 上已获得约 3.97 万星标，属于近期 Rust 语言方向的热门项目。",
+  "content": "OpenHuman（仓库 tinyhumansai/openhuman）是由 tinyhumansai 维护的开源智能体运行框架，定位为「agent harness」，即承载与驱动 AI 智能体的基础设施层。其核心特性包括三部分：一是本地优先（local-first）记忆机制，将智能体的记忆数据优先存储在本地，兼顾隐私、低延迟与离线可用性；二是智能体编排（agent orchestration），用于协调多个智能体或工具之间的调用与协作；三是工作流（workflows），支持将智能体能力组织为可复用的自动化流程。项目采用 Rust 语言实现，具备高性能与内存安全优势，适合对延迟和资源占用敏感的场景。截至采集时，该仓库累计星标约 39,734，复刻约 3,921，单日新增星标约 39，在 GitHub 热点 Rust 分类中表现突出，说明其在开源智能体基础设施领域具有较高关注度。适用人群包括构建本地化 AI 助手、多智能体系统以及自动化工作流的开发者与团队。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Agent 编排",
+    "本地优先",
+    "工作流",
+    "开源框架",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tinyhumansai",
+    "stars": 39734,
+    "forks": 3921,
+    "daily_stars": 39,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

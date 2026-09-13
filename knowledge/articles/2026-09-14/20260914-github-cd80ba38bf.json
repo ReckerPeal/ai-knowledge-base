@@ -1,0 +1,35 @@
+{
+  "id": "20260914-github-cd80ba38bf",
+  "title": "Tencent/WeKnora",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tencent/WeKnora",
+  "summary": "腾讯开源的 WeKnora 是一个基于 Go 语言的 LLM 知识平台，可将原始文档转化为可查询的 RAG 系统、自主推理智能体和自维护 Wiki，当前在 GitHub 上已获得超过 2.2 万星标。",
+  "content": "WeKnora 是腾讯推出的开源 LLM 知识平台，核心目标是将非结构化原始文档转化为可查询、可推理、可自我维护的知识资产。其功能覆盖三个层面：一是构建 RAG（检索增强生成）管道，让用户能够对文档进行自然语言查询；二是提供自主推理智能体（autonomous reasoning agent），可基于知识库进行多步推理与任务执行；三是生成并维护自更新 Wiki，实现知识的持续沉淀与自动整理。项目采用 Go 语言开发，兼顾性能与工程化部署能力。从社区数据看，仓库累计星标约 22,816，Fork 数约 3,262，日增星标约 222，周增星标约 1,168，显示出较高的社区关注度和活跃增长趋势。该平台适合企业知识管理、智能问答系统、文档自动化处理等场景，是当前 RAG 与 Agent 技术融合方向上的代表性开源项目之一。",
+  "tags": [
+    "LLM",
+    "RAG",
+    "知识平台",
+    "智能体",
+    "Go",
+    "腾讯",
+    "开源",
+    "文档处理",
+    "Wiki"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "Tencent",
+    "stars": 22816,
+    "forks": 3262,
+    "daily_stars": 222,
+    "weekly_stars": 1168,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

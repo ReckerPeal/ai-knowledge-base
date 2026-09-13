@@ -1,0 +1,32 @@
+{
+  "id": "20260914-github-ec8f732c32",
+  "title": "open-telemetry/opentelemetry-collector",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-telemetry/opentelemetry-collector",
+  "summary": "OpenTelemetry Collector 是 OpenTelemetry 项目下的核心组件，用于接收、处理和导出遥测数据（指标、日志、追踪），采用 Go 语言开发，在 GitHub 上拥有 7547 颗星和 2243 次 fork，是云原生可观测性领域的重要基础设施。",
+  "content": "OpenTelemetry Collector 是一个厂商中立的遥测数据收集器，旨在统一接收、处理和导出指标、日志和追踪数据。它通过可插拔的接收器（Receivers）、处理器（Processors）和导出器（Exporters）架构，支持多种数据源和目标后端，帮助用户构建灵活的可观测性管道。该项目由 OpenTelemetry 社区维护，采用 Go 语言编写，具有高性能和可扩展性。当前仓库拥有约 7547 个 star 和 2243 个 fork，周新增 star 约 51 个，显示出持续的关注度。作为云原生计算基金会（CNCF）的孵化项目，OpenTelemetry Collector 已成为现代可观测性体系中的关键组件，广泛应用于 Kubernetes 监控、分布式追踪和日志聚合等场景。",
+  "tags": [
+    "OpenTelemetry",
+    "可观测性",
+    "Go",
+    "遥测数据",
+    "云原生",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:29+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "open-telemetry",
+    "stars": 7547,
+    "forks": 2243,
+    "daily_stars": null,
+    "weekly_stars": 51,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

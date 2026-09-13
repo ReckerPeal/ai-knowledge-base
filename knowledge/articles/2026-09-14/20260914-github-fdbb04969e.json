@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-fdbb04969e",
+  "title": "clash-verge-rev/clash-verge-rev",
+  "source": "github_trending",
+  "source_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "summary": "clash-verge-rev 是一个基于 Tauri 框架构建的现代化跨平台代理客户端，支持 Windows、macOS 和 Linux，提供定制化的代理使用体验。该项目在 GitHub 上拥有极高人气，累计获得超过 14.4 万颗星标，周新增星标约 1698 颗，是 Rust 生态中备受关注的热门项目。",
+  "content": "clash-verge-rev 是一款基于 Tauri 框架开发的现代化图形界面代理客户端，旨在为 Windows、macOS 和 Linux 三大桌面平台提供统一且定制化的代理使用体验。Tauri 以 Rust 作为核心后端语言，结合系统原生 WebView 渲染前端界面，使应用在保持轻量体积的同时具备接近原生应用的性能表现，这也是该项目选择 Rust 作为主要开发语言的重要原因。\n\n从项目热度来看，该仓库累计获得约 144,210 颗星标和 10,377 次 fork，周新增星标约 1,698 颗，在 GitHub 热点榜单中属于长期高关注度项目，反映出代理工具领域对现代化、跨平台 GUI 客户端的强烈需求。项目名称中的 \"rev\" 暗示其可能是对早期 Clash Verge 项目的重构或延续版本，在界面设计、功能完整性和维护活跃度上进行了改进。\n\n在功能定位上，该项目面向需要灵活管理代理规则、订阅和节点的用户群体，通常支持配置文件导入、订阅更新、规则切换、系统代理设置等常见代理客户端能力，并通过图形界面降低使用门槛。其跨平台特性使其能够覆盖主流桌面操作系统，适合个人用户在多设备环境下统一使用。\n\n从技术生态角度看，该项目体现了 Rust 在桌面应用开发领域的持续渗透，Tauri 作为 Electron 的轻量替代方案，正被越来越多需要高性能、小体积的跨平台应用所采用。clash-verge-rev 的高星标数量也说明其在开源代理工具社区中具有较强的影响力和用户基础。",
+  "tags": [
+    "Tauri",
+    "Rust",
+    "代理客户端",
+    "跨平台",
+    "GUI",
+    "Clash",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:26+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "clash-verge-rev",
+    "stars": 144210,
+    "forks": 10377,
+    "daily_stars": null,
+    "weekly_stars": 1698,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

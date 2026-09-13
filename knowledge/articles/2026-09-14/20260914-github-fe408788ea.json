@@ -1,0 +1,32 @@
+{
+  "id": "20260914-github-fe408788ea",
+  "title": "nektos/act",
+  "source": "github_trending",
+  "source_url": "https://github.com/nektos/act",
+  "summary": "nektos/act 是一个用 Go 编写的开源工具，允许开发者在本地运行 GitHub Actions 工作流，无需推送到远程仓库即可测试 CI/CD 配置，显著提升开发效率。",
+  "content": "nektos/act 是 GitHub 上广受欢迎的开源项目，目前获得约 7.2 万颗星标，每日新增约 43 星，采用 Go 语言开发。其核心功能是让开发者能够在本地环境中直接运行 GitHub Actions，从而避免每次修改工作流都要推送到 GitHub 并等待远程执行的繁琐过程。该工具通过读取仓库中的 .github/workflows 配置文件，模拟 GitHub 提供的运行环境，在本地容器（如 Docker）中执行各个 job 和 step，并输出与 GitHub 类似的日志。act 支持大部分 GitHub Actions 语法和特性，包括矩阵构建、环境变量、密钥管理、缓存等，同时允许用户自定义运行器镜像和事件触发方式。对于需要频繁调试 CI/CD 流程的团队和个人开发者而言，act 能够大幅缩短反馈循环，降低对 GitHub 服务的依赖，是 DevOps 和持续集成领域的重要辅助工具。",
+  "tags": [
+    "GitHub Actions",
+    "CI/CD",
+    "本地开发",
+    "Go",
+    "DevOps",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "nektos",
+    "stars": 71960,
+    "forks": 2031,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

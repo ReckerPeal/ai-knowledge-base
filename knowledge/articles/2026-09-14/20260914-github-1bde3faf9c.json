@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-1bde3faf9c",
+  "title": "dagucloud/dagu",
+  "source": "github_trending",
+  "source_url": "https://github.com/dagucloud/dagu",
+  "summary": "Dagu 是一个可自托管的工作流编排器，面向主要工作并非编排的团队。它使用声明式 YAML 定义工作流，可调度脚本、SSH 命令、容器等，将工作流与业务逻辑分离。单个二进制文件、无需数据库、可在有限硬件资源上运行，是 Airflow、Cron 和作业调度器的替代方案。",
+  "content": "Dagu 由 dagucloud 开发，使用 Go 语言编写，目前在 GitHub 上获得约 3968 颗星和 332 次 fork，日增约 13 颗星。其核心定位是“可自托管的工作流编排器”，面向那些主要工作并非编排的团队，帮助它们以轻量方式管理任务依赖与调度。\n\n主要特点：\n1. 声明式 YAML：通过 YAML 文件定义工作流，可调用脚本、SSH 命令、容器等，保持工作流与业务逻辑分离。\n2. 极简部署：单个二进制文件，无需数据库，可在资源有限的硬件上运行。\n3. 替代方案：可作为 Airflow、Cron、Job Scheduler 的轻量替代品。\n\n适用场景：需要简单、可自托管、低运维成本的任务编排与调度的团队，尤其是中小规模或资源受限的环境。",
+  "tags": [
+    "工作流编排",
+    "自托管",
+    "YAML",
+    "Go",
+    "任务调度",
+    "Airflow 替代",
+    "Cron 替代",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "dagucloud",
+    "stars": 3968,
+    "forks": 332,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

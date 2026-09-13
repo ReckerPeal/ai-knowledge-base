@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-1c1a19b7e8",
+  "title": "microsoft/vscode",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/vscode",
+  "summary": "微软开源的 Visual Studio Code 源代码仓库，是目前全球最流行的跨平台代码编辑器，使用 TypeScript 构建，拥有超过 19 万 Star，社区活跃度极高。",
+  "content": "microsoft/vscode 是微软官方开源的现代化轻量级代码编辑器 Visual Studio Code 的源代码仓库。该项目基于 Electron 和 TypeScript 构建，支持 Windows、macOS 和 Linux 三大平台。VS Code 以其轻量、快速、可扩展的特性著称，内置 Git 支持、智能代码补全（IntelliSense）、调试功能和丰富的扩展生态。仓库当前拥有约 192,459 个 Star 和 42,126 个 Fork，周新增 Star 约 1,335，长期位居 GitHub 热门项目前列。其技术栈以 TypeScript 为主，采用模块化架构，核心编辑器与扩展系统分离，开发者可通过扩展 API 定制功能。该项目是开源社区协作的典范，吸引了大量贡献者参与开发与维护，广泛应用于前端、后端、数据科学等多种开发场景。",
+  "tags": [
+    "TypeScript",
+    "代码编辑器",
+    "IDE",
+    "微软",
+    "开源",
+    "Electron",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:24+08:00",
+  "language": "TypeScript",
+  "score": 9.8,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 192459,
+    "forks": 42126,
+    "daily_stars": null,
+    "weekly_stars": 1335,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

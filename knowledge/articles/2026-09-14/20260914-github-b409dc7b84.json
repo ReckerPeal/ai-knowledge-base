@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-b409dc7b84",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github_trending",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "summary": "Shubhamsaboo/awesome-llm-apps 是一个收录 100+ AI Agents、Agent Skills 与 RAG 应用的开源项目集合，基于 Python 实现，在 GitHub 上拥有约 13.8 万星标，属于高热度的大模型应用实践资源库。",
+  "content": "该仓库以「Awesome」清单形式聚合了大量可直接参考或复用的 LLM 应用示例，核心覆盖三大方向：AI Agents（智能体）、Agent Skills（智能体技能/工具调用）以及 RAG（检索增强生成）应用。项目定位为免费开源，旨在降低开发者构建大模型应用的入门与落地门槛。\n\n从社区数据看，仓库累计获得约 137,881 个 Star、20,268 个 Fork，单日新增约 501 个 Star，说明其在 GitHub 热点榜中持续保持较高关注度，属于 LLM 应用生态中具有代表性的资源聚合型项目。\n\n技术栈以 Python 为主，适合希望快速了解智能体架构、工具调用模式、向量检索与 RAG 流水线实现的开发者。其价值主要体现在：一是提供多场景示例代码，便于横向对比不同实现思路；二是作为学习与选型入口，帮助开发者快速定位可借鉴的 Agent 与 RAG 方案；三是社区活跃度高，便于跟进大模型应用的最新实践趋势。\n\n需要注意的是，此类聚合型仓库通常以示例和教程为主，生产环境使用前仍需评估代码质量、依赖维护情况与安全性。",
+  "tags": [
+    "LLM",
+    "AI Agents",
+    "RAG",
+    "Python",
+    "开源项目",
+    "智能体",
+    "检索增强生成",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:12+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "Shubhamsaboo",
+    "stars": 137881,
+    "forks": 20268,
+    "daily_stars": 501,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

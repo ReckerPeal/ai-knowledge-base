@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-734b186ea6",
+  "title": "jordan-gibbs/hyperresearch",
+  "source": "github_trending",
+  "source_url": "https://github.com/jordan-gibbs/hyperresearch",
+  "summary": "Hyperresearch 是一个由智能体驱动的研究知识库项目，通过 AI Agent 自动收集、搜索并综合网络研究内容，构建持久化、可检索的 Wiki 知识库。项目使用 Python 编写，在 GitHub 上已获得 3177 颗星，日增 191 星，周增 1112 星，热度较高。",
+  "content": "该项目定位为「Agent 驱动的研究知识库」，核心思路是让 AI 智能体代替人工完成网络调研的采集、检索与综合整理工作，并将结果沉淀为可持续维护、可全文搜索的 Wiki 系统。\n\n主要特点：\n1. 自动化研究流程：Agent 自动抓取和收集网络研究资料，减少人工检索成本。\n2. 持久化知识库：研究结果不是一次性输出，而是写入可长期保存的 Wiki，支持后续检索与复用。\n3. 可搜索性：知识库具备搜索能力，便于在积累的研究内容中快速定位信息。\n4. 综合与合成：Agent 不仅收集信息，还能对多来源内容进行综合归纳，形成结构化知识。\n\n技术信息：项目语言为 Python，作者为 jordan-gibbs。当前 stars 约 3177，forks 约 309，日增 stars 约 191，周增 stars 约 1112，属于近期 GitHub 热点 Python 项目，社区关注度增长较快。\n\n适用场景：适合需要持续跟踪某一领域资料的研究者、开发者或团队，用于构建个人或团队级的自动化研究知识库，也可作为 AI Agent 与 RAG/知识管理结合的参考实现。",
+  "tags": [
+    "AI Agent",
+    "知识库",
+    "研究自动化",
+    "Python",
+    "Wiki",
+    "信息检索",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:12+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "jordan-gibbs",
+    "stars": 3177,
+    "forks": 309,
+    "daily_stars": 191,
+    "weekly_stars": 1112,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

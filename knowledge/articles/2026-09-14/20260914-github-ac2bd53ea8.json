@@ -1,0 +1,33 @@
+{
+  "id": "20260914-github-ac2bd53ea8",
+  "title": "nicocha30/ligolo-ng",
+  "source": "github_trending",
+  "source_url": "https://github.com/nicocha30/ligolo-ng",
+  "summary": "ligolo-ng 是一个基于 TUN 接口的高级隧道与内网穿透（pivoting）工具，使用 Go 语言开发，在 GitHub 上拥有近 5000 星标，近期日增约 26 星，热度较高。",
+  "content": "ligolo-ng 由 nicocha30 开发，是一款面向渗透测试与红队场景的高级隧道/内网穿透工具。其核心特点是利用 TUN 虚拟网络接口实现网络流量的透明转发，相比传统的 SOCKS 代理或端口转发方案，能够更简洁高效地建立点对点隧道，支持复杂的网络拓扑穿透。该工具使用 Go 语言编写，具备跨平台、部署简单、性能良好等优势。仓库当前获得 4968 个星标和 479 次 fork，日增星标约 26，表明其在安全社区中持续受到关注。ligolo-ng 常用于内网横向移动、绕过网络隔离以及远程访问受限网络，是红队工具链中的实用组件。",
+  "tags": [
+    "内网穿透",
+    "隧道工具",
+    "Go",
+    "网络安全",
+    "红队工具",
+    "TUN接口",
+    "pivoting"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:18+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "nicocha30",
+    "stars": 4968,
+    "forks": 479,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

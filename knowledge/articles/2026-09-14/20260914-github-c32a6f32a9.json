@@ -1,0 +1,34 @@
+{
+  "id": "20260914-github-c32a6f32a9",
+  "title": "awslabs/aidlc-workflows",
+  "source": "github_trending",
+  "source_url": "https://github.com/awslabs/aidlc-workflows",
+  "summary": "awslabs/aidlc-workflows 是 AWS 实验室开源的 AI 驱动生命周期（AI-DLC）自适应工作流引导规则项目，专为 AI 编码代理设计，使用 TypeScript 实现，当前在 GitHub 上获得约 4581 颗星标，属于近期 TypeScript 热点项目。",
+  "content": "该项目由 AWS 官方实验室（awslabs）推出，核心目标是定义一套面向 AI 编码代理的「AI 驱动生命周期（AI-Driven Life Cycle, AI-DLC）」自适应工作流引导规则。它试图解决 AI 代理在软件开发全生命周期中缺乏统一、可自适应流程约束的问题，通过规则化的方式引导 AI 代理按阶段、按场景调整行为，从而提升自动化编码的可靠性与可控性。项目采用 TypeScript 编写，便于与主流 AI 编码工具链集成。从社区数据看，仓库已积累 4581 个 star 和 825 个 fork，近一周新增约 209 个 star，表明其在 AI 辅助开发与代理工作流领域受到持续关注。该项目的价值在于将传统软件工程生命周期理念与 AI 代理的自主决策能力相结合，为构建更规范、可审计的 AI 编码流程提供了参考实现。",
+  "tags": [
+    "AI-DLC",
+    "AI编码代理",
+    "工作流",
+    "TypeScript",
+    "AWS",
+    "自适应规则",
+    "软件生命周期",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-14T01:07:24+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "awslabs",
+    "stars": 4581,
+    "forks": 825,
+    "daily_stars": null,
+    "weekly_stars": 209,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
