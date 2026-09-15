@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-c5a8f537f4",
+  "title": "arcboxlabs/arcbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/arcboxlabs/arcbox",
+  "summary": "arcboxlabs/arcbox 是一个用纯 Rust 编写的本地优先 AI Agent 运行环境，可在真实且隔离的机器上运行 AI 代理，每个代理拥有独立内核、文件系统和网络，启动时间低于 100ms，并兼容 OCI 标准。",
+  "content": "arcbox 由 arcboxlabs 开源，定位为「本地优先」的 AI Agent 运行时。其核心能力是为每个 AI Agent 提供真实且完全隔离的机器环境，包括独立的内核（kernel）、文件系统（filesystem）和网络（network），从而实现强隔离与高安全性。项目强调极快的启动速度，冷启动时间低于 100 毫秒，适合需要频繁创建和销毁 Agent 执行环境的场景。技术栈采用纯 Rust 实现，兼顾性能与内存安全；同时兼容 OCI（Open Container Initiative）标准，意味着可以复用现有容器镜像与生态工具链。仓库在 GitHub 上热度较高，累计约 5707 星、184 次 fork，近一周新增约 2719 星，属于 Rust 语言方向的热门项目。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "隔离环境",
+    "OCI",
+    "本地优先",
+    "虚拟化",
+    "容器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:54+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "arcboxlabs",
+    "stars": 5707,
+    "forks": 184,
+    "daily_stars": null,
+    "weekly_stars": 2719,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

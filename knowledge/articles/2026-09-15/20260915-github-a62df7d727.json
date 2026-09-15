@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-a62df7d727",
+  "title": "navidrome/navidrome",
+  "source": "github_trending",
+  "source_url": "https://github.com/navidrome/navidrome",
+  "summary": "Navidrome 是一个用 Go 编写的开源个人音乐流媒体服务，支持自托管音乐库并通过 Web 或移动端进行流式播放。",
+  "content": "Navidrome 是一个轻量级、自托管的音乐流媒体服务器，使用 Go 语言开发。它允许用户搭建自己的音乐流媒体平台，支持多种音频格式，并兼容 Subsonic API，因此可以使用大量现有的 Subsonic 客户端。项目在 GitHub 上拥有 23,560 颗星和 1,704 次 fork，日增约 34 颗星，属于 GitHub 热点 Go 项目。其核心功能包括：扫描和索引本地音乐库、按元数据组织音乐、提供 Web 界面和 API 进行播放、支持多用户和播放列表等。适合希望掌控自己音乐数据、避免依赖商业流媒体服务的用户。",
+  "tags": [
+    "Go",
+    "音乐流媒体",
+    "自托管",
+    "开源",
+    "Subsonic API",
+    "个人媒体服务器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "navidrome",
+    "stars": 23560,
+    "forks": 1704,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

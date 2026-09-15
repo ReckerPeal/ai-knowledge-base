@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-b4ab4cbec9",
+  "title": "louis-e/arnis",
+  "source": "github_trending",
+  "source_url": "https://github.com/louis-e/arnis",
+  "summary": "Arnis 是一个用 Rust 编写的开源工具，能够将现实世界中的任意地点以高细节还原到 Minecraft 中，实现真实地理数据到游戏世界的自动转换。",
+  "content": "Arnis 由开发者 louis-e 创建，核心功能是“在 Minecraft 中生成现实世界的任意地点，并保持高细节水平”。项目使用 Rust 语言开发，在 GitHub 上已获得 17,875 颗星和 1,502 次 fork，日增星约 18，属于 GitHub 热点中的 Rust 类别。其技术路径通常涉及读取 OpenStreetMap 等地理数据，将建筑、道路、地形等要素映射为 Minecraft 方块，从而在游戏中构建可探索的真实场景。该工具适合地图爱好者、城市规划演示、教育可视化以及 Minecraft 建筑玩家使用，体现了 Rust 在性能敏感型地理数据处理与游戏模组交叉领域的优势。",
+  "tags": [
+    "Rust",
+    "Minecraft",
+    "地理数据",
+    "OpenStreetMap",
+    "游戏工具",
+    "开源",
+    "地图生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:45+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "louis-e",
+    "stars": 17875,
+    "forks": 1502,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

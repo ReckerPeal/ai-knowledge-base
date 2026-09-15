@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-2b41cba0c3",
+  "title": "zeroclaw-labs/zeroclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/zeroclaw-labs/zeroclaw",
+  "summary": "zeroclaw 是一个用 Rust 编写的快速、轻量且完全自主的 AI 个人助理基础设施，支持任意操作系统和平台，可随处部署、自由替换组件，目前在 GitHub 上拥有约 3.28 万星标。",
+  "content": "zeroclaw-labs/zeroclaw 是一个基于 Rust 构建的 AI 个人助理基础设施项目，主打「快速、小巧、完全自主」三大特性。项目定位为跨平台、跨操作系统的通用型个人助理底座，强调「随处部署、任意替换」的模块化设计理念，用户可以根据自身需求替换其中的模型、工具或组件。\n\n从数据来看，该项目在 GitHub 上已获得 32808 个星标和 4943 次 fork，日增星标约 20，属于 GitHub 热点中的 Rust 类目，说明其在开发者社区中具有较高的关注度和一定的工程影响力。Rust 语言的选择使其在性能、内存安全和并发能力上具备天然优势，适合作为常驻型个人助理服务的底层实现。\n\n「完全自主」的定位意味着该项目可能集成了任务规划、工具调用、长期记忆或自动化执行等 Agent 能力，而「any OS, any platform」则暗示其具备良好的可移植性，可能通过容器化、交叉编译或抽象层实现跨平台运行。整体来看，zeroclaw 试图解决的是个人 AI 助理在部署灵活性、资源占用和自主性之间的平衡问题，适合希望自托管、可定制 AI 助理的开发者与进阶用户。",
+  "tags": [
+    "Rust",
+    "AI 个人助理",
+    "自主 Agent",
+    "跨平台",
+    "基础设施",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:45+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "zeroclaw-labs",
+    "stars": 32808,
+    "forks": 4943,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

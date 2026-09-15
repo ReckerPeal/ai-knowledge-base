@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-ac2bd53ea8",
+  "title": "nicocha30/ligolo-ng",
+  "source": "github_trending",
+  "source_url": "https://github.com/nicocha30/ligolo-ng",
+  "summary": "ligolo-ng 是一个基于 TUN 接口的高级隧道与内网穿透工具，使用 Go 语言开发，在 GitHub 上获得近 5000 星标，适合渗透测试与网络转发场景。",
+  "content": "ligolo-ng 是一款先进的隧道/枢转（pivoting）工具，其核心特点是利用 TUN 虚拟网络接口实现网络流量的透明转发，从而简化内网穿透和横向移动操作。该项目由 nicocha30 开发，采用 Go 语言编写，当前在 GitHub 上已获得 4985 个星标和 480 个复刻，日增星标约 12 个，属于 GitHub 热点中的 Go 语言项目。\n\n从功能定位来看，ligolo-ng 主要面向渗透测试人员、红队成员以及需要复杂网络代理的场景。传统的内网穿透工具往往需要配置 SOCKS 代理或端口转发规则，而 ligolo-ng 通过创建 TUN 接口，将远程网络直接路由到本地，使得攻击者或运维人员可以像访问本地网络一样访问目标内网，极大提升了操作效率和隐蔽性。\n\n技术实现上，ligolo-ng 分为代理端（agent）和服务端（proxy）两部分。代理端运行在目标内网主机上，负责建立与控制端的连接；服务端运行在攻击者或运维人员的主机上，创建 TUN 接口并管理路由。两者通过 TLS 加密通信，支持多平台（Linux、Windows、macOS 等），并且提供了简洁的命令行交互界面。\n\n该工具的亮点包括：无需 root 权限即可在部分场景下运行、支持多路复用、自动路由配置、以及较低的延迟。同时，项目文档较为完善，社区活跃，持续有更新和维护。\n\n对于安全从业者而言，ligolo-ng 是一个值得关注的内网穿透利器；对于普通开发者，它也是学习 TUN 接口编程和网络隧道技术的优秀案例。需要注意的是，此类工具应仅在合法授权范围内使用。",
+  "tags": [
+    "内网穿透",
+    "隧道工具",
+    "Go",
+    "网络安全",
+    "渗透测试",
+    "TUN",
+    "pivoting"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "nicocha30",
+    "stars": 4985,
+    "forks": 480,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

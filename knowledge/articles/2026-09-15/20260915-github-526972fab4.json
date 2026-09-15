@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-526972fab4",
+  "title": "gfx-rs/wgpu",
+  "source": "github_trending",
+  "source_url": "https://github.com/gfx-rs/wgpu",
+  "summary": "wgpu 是 gfx-rs 组织开发的跨平台、安全、纯 Rust 图形 API，作为 WebGPU 标准的 Rust 实现，为图形与计算应用提供统一抽象层。项目在 GitHub 上拥有约 1.8 万星标，日增约 33 星，社区活跃度高，是 Rust 图形生态的核心基础设施之一。",
+  "content": "wgpu 是 gfx-rs 组织维护的跨平台、安全、纯 Rust 图形 API，定位为 WebGPU 标准的 Rust 实现，旨在为现代 GPU 提供统一、可移植的抽象层。\n\n核心特性：\n1. 跨平台：支持 Vulkan、Metal、DirectX 12、OpenGL 以及 WebGPU 等后端，可在 Windows、macOS、Linux、Android、iOS 和 Web 等平台运行。\n2. 内存安全：基于 Rust 的所有权与生命周期机制，在编译期消除常见 GPU 资源管理错误，无需手动管理底层句柄。\n3. 纯 Rust 实现：不依赖 C/C++ 绑定，便于集成到 Rust 生态，同时保持与 WebGPU 规范的高度一致。\n4. 统一抽象：同时覆盖图形渲染与通用计算（compute shader），适用于游戏引擎、渲染器、科学计算等场景。\n\n生态与影响：wgpu 是 Rust 图形栈的重要基石，被 Bevy 游戏引擎、Firefox 的 WebGPU 实现等广泛采用，并推动 WebGPU 标准在原生与 Web 端的落地。项目当前约 18,042 星标、1,449 分支，日增约 33 星，社区贡献活跃，文档与示例持续完善。\n\n适用人群：Rust 图形/游戏开发者、需要跨平台 GPU 加速的工程团队、WebGPU 标准实践者，以及希望以安全方式编写着色器与计算管线的研究者。",
+  "tags": [
+    "Rust",
+    "图形API",
+    "WebGPU",
+    "跨平台",
+    "GPU计算",
+    "gfx-rs",
+    "渲染引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:45+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "gfx-rs",
+    "stars": 18042,
+    "forks": 1449,
+    "daily_stars": 33,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

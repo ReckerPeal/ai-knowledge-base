@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-44f0426e61",
+  "title": "browser-use/browser-use",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use/browser-use 是一个让 AI 智能体直接操控浏览器的 Python 开源项目，GitHub 星标超 11 万，周增约 1793 星，是当前 AI Agent 领域的热门基础设施。",
+  "content": "该项目定位为「使用浏览器的智能体」（Agents that use the browser），核心目标是让大语言模型驱动的 AI Agent 能够像人类一样操作浏览器，完成网页导航、信息提取、表单填写、点击交互等任务，从而把自然语言指令转化为真实的网页操作。\n\n从数据看，仓库由 browser-use 组织维护，主语言为 Python，当前星标约 114,630，fork 约 12,597，周新增星标约 1,793，属于 GitHub 热点中的高热度项目，说明其在 AI Agent 与浏览器自动化交叉领域具有较强关注度。\n\n技术价值方面，browser-use 填补了 LLM 与真实 Web 环境之间的执行层空白：传统爬虫或自动化脚本依赖固定选择器，难以应对动态页面和复杂交互，而该项目通过 Agent 的感知—决策—执行循环，使模型能够理解页面结构并自主完成多步操作，适用于自动化测试、数据采集、RPA、智能助手等场景。\n\n生态上，它通常与 LangChain、Playwright、OpenAI/Anthropic 等模型和工具链配合使用，降低了开发者构建浏览器 Agent 的门槛。需要注意的是，浏览器 Agent 涉及权限、反爬、验证码和安全性问题，生产落地时需关注稳定性与合规性。\n\n总体而言，该项目是 AI Agent 从「对话」走向「行动」的代表性工具之一，适合关注 LLM 应用、自动化与 Web 交互的开发者深入研究。",
+  "tags": [
+    "AI Agent",
+    "浏览器自动化",
+    "Python",
+    "LLM",
+    "Web 交互",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:49+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "browser-use",
+    "stars": 114630,
+    "forks": 12597,
+    "daily_stars": null,
+    "weekly_stars": 1793,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

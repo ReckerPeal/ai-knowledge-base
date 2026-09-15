@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-eb3ff73939",
+  "title": "evcc-io/evcc",
+  "source": "github_trending",
+  "source_url": "https://github.com/evcc-io/evcc",
+  "summary": "evcc 是一个用 Go 编写的开源太阳能充电控制器，旨在协调家庭光伏发电与电动汽车充电，实现最大化利用清洁能源。项目在 GitHub 上拥有 7235 颗星，社区活跃，是智能充电领域的热门工具。",
+  "content": "evcc（Electric Vehicle Charge Controller）是一个专注于太阳能充电（solar charging）的开源项目，主要使用 Go 语言开发。它通过智能管理家庭能源系统，将光伏发电与电动汽车充电相结合，优先使用太阳能为车辆充电，从而降低对电网的依赖和充电成本。该项目支持多种充电桩、逆变器、电池和智能电表，具备高度可配置性和扩展性。evcc 提供直观的 Web 界面和丰富的自动化规则，用户可以根据实时发电量、电价和车辆需求动态调整充电功率。其活跃的社区和持续的更新使其成为家庭能源管理领域的重要工具。当前在 GitHub 上获得 7235 星、1506 次 fork，日增约 6 星，显示出稳定的关注度。",
+  "tags": [
+    "太阳能充电",
+    "电动汽车",
+    "Go",
+    "能源管理",
+    "开源",
+    "智能家居",
+    "光伏"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "evcc-io",
+    "stars": 7235,
+    "forks": 1506,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

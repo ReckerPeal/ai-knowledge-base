@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-023f1cbbc0",
+  "title": "rust-lang/rust-clippy",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust-clippy",
+  "summary": "rust-clippy 是 Rust 官方维护的静态代码检查工具，提供大量 lint 规则以捕获常见错误并提升代码质量，拥有 13.5k+ stars，是 Rust 生态中不可或缺的开发辅助工具。",
+  "content": "rust-clippy 是 Rust 语言官方项目（rust-lang）下的静态分析工具，旨在通过一系列 lint 规则帮助开发者发现代码中的常见错误、不良模式以及可改进之处，从而提升 Rust 代码的质量与可维护性。该工具深度集成于 Rust 编译器工具链（通过 cargo clippy 命令即可调用），是 Rust 开发者日常开发中广泛使用的辅助工具。\n\n核心特点：\n1. 丰富的 lint 规则库：涵盖正确性（correctness）、风格（style）、复杂度（complexity）、性能（perf）等多个类别，能够针对不同场景提供精准提示。\n2. 官方维护与持续更新：作为 rust-lang 组织下的项目，clippy 与 Rust 编译器版本同步演进，规则库不断扩充和优化。\n3. 易于集成：支持通过 Cargo 直接运行，也可配置为 CI 流程中的检查步骤，帮助团队统一代码规范。\n4. 完善的文档：官方提供详细的 Clippy Book（https://doc.rust-lang.org/clippy/），解释每条 lint 的用途、示例及修复建议。\n\n社区影响力：该项目在 GitHub 上拥有超过 13,500 个 stars 和 2,100+ forks，每日新增 stars 约 3 个，显示出稳定的社区关注度。它是 Rust 生态中下载量最高的工具之一，几乎所有严肃的 Rust 项目都会在开发流程中使用 clippy。\n\n适用场景：适用于所有 Rust 开发者，无论是初学者通过 lint 提示学习最佳实践，还是资深开发者借助 clippy 进行代码审查和性能优化。",
+  "tags": [
+    "Rust",
+    "静态分析",
+    "代码检查",
+    "lint",
+    "开发工具",
+    "官方项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:45+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 13507,
+    "forks": 2155,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

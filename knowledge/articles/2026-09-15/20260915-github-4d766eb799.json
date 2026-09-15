@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-4d766eb799",
+  "title": "github/spec-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/spec-kit",
+  "summary": "github/spec-kit 是 GitHub 官方推出的 Python 工具包，旨在帮助开发者快速上手规范驱动开发（Spec-Driven Development）。该仓库在 GitHub 上拥有超过 13.6 万星标，周增星标近 3000，热度极高，是当前备受关注的开发方法论工具。",
+  "content": "## 项目概述\n\ngithub/spec-kit 是由 GitHub 官方发布的一个工具包，核心目标是帮助开发者快速入门并实践「规范驱动开发」（Spec-Driven Development，简称 SDD）。该项目以 Python 为主要开发语言，在 GitHub 上已获得约 136,810 个星标和 12,271 次 fork，周新增星标约 2,952，属于 GitHub 热点中的 Python 类项目，社区关注度极高。\n\n## 核心价值\n\n规范驱动开发强调在编写代码之前，先以结构化、可执行的规范（specification）来定义系统行为与需求。spec-kit 通过提供脚手架、模板、工作流和配套工具，降低了团队采用这一方法论的入门门槛，使「先写规范、再写实现」的流程更加工程化和可落地。\n\n## 主要特性（基于项目定位推断）\n\n- **快速启动**：提供开箱即用的工具包，帮助开发者从零搭建规范驱动开发的工作环境。\n- **规范模板与结构**：引导用户以标准化格式编写需求与设计规范。\n- **与开发流程集成**：将规范与代码实现、测试等环节衔接，形成闭环。\n- **官方背书**：由 GitHub 官方维护，具备较强的生态整合潜力与可信度。\n\n## 适用场景\n\n- 希望在团队中引入规范驱动开发流程的工程团队。\n- 需要将需求文档与代码实现更紧密对齐的项目。\n- 探索 AI 辅助开发、以规范为中间产物的新型开发范式的开发者。\n\n## 社区热度\n\n该项目星标数已超过 13 万，周增星标近 3000，说明其在发布后迅速获得广泛传播与认可，属于当前 GitHub Trending 中的头部项目。高星标与高 fork 数表明其不仅被收藏，也被大量开发者实际克隆使用或二次开发。\n\n## 总结\n\ngithub/spec-kit 是一个由 GitHub 官方出品的规范驱动开发工具包，凭借官方背景、清晰的开发方法论定位以及极高的社区热度，成为 Python 生态中值得关注的工程实践类项目。对于希望提升需求与实现一致性的团队，以及关注 AI 时代开发范式演进的开发者而言，具有较高的参考与使用价值。",
+  "tags": [
+    "规范驱动开发",
+    "GitHub官方",
+    "Python",
+    "开发工具",
+    "工程实践",
+    "SDD",
+    "AI辅助开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:49+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "github",
+    "stars": 136810,
+    "forks": 12271,
+    "daily_stars": null,
+    "weekly_stars": 2952,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

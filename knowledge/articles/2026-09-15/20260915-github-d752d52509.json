@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-d752d52509",
+  "title": "googleworkspace/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/googleworkspace/cli",
+  "summary": "Google Workspace 官方推出的统一命令行工具，覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等全套服务，基于 Google Discovery Service 动态生成，并内置 AI agent 技能，使用 Rust 编写，GitHub 星数已超 3.1 万。",
+  "content": "该仓库是 Google Workspace 官方维护的 CLI 工具，目标是用一个命令行入口统一操作 Google Workspace 生态中的各类服务，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。其核心设计亮点在于「动态构建」：命令与参数并非手工硬编码，而是从 Google Discovery Service 的 API 描述中自动生成，因此能随官方 API 更新而快速同步，减少维护成本并保证覆盖面。此外，项目明确包含 AI agent skills，意味着它不仅是传统 CLI，还面向 AI 代理场景做了适配，可被智能体直接调用以完成邮件、日程、文档等办公自动化任务。技术栈为 Rust，兼顾性能与跨平台分发能力。从社区数据看，约 3.1 万 stars、1832 forks、周增约 235 stars，说明其在开发者与自动化办公领域具有较高关注度。适用场景包括：脚本化批量管理 Workspace 资源、CI/CD 中的办公数据操作、以及作为 AI agent 的工具层接入。",
+  "tags": [
+    "Google Workspace",
+    "CLI",
+    "Rust",
+    "AI Agent",
+    "办公自动化",
+    "Google Discovery Service"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:54+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "googleworkspace",
+    "stars": 31002,
+    "forks": 1832,
+    "daily_stars": null,
+    "weekly_stars": 235,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

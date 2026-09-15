@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-7d661fc4ea",
+  "title": "nklmilojevic/sofka",
+  "source": "github_trending",
+  "source_url": "https://github.com/nklmilojevic/sofka",
+  "summary": "sofka 是一个用 Rust 重新构想的 Kubernetes 终端用户界面（TUI）工具，基于 kube-rs 和 ratatui 构建，从底层采用异步优先设计。该项目在 GitHub 上获得 1152 颗星，周增 405 星，属于 Rust 语言的热点项目。",
+  "content": "sofka 是一个 Kubernetes TUI（终端用户界面）工具，使用 Rust 语言从零重新设计实现。其技术栈核心为 kube-rs（Kubernetes 客户端库）和 ratatui（终端 UI 库），并采用异步优先（async-first）的架构，旨在提供流畅、高效的 Kubernetes 集群交互体验。项目由 nklmilojevic 开发，当前在 GitHub 上拥有 1152 个 star 和 51 个 fork，周增长 405 个 star，显示出较高的社区关注度。作为 GitHub 热点中的 Rust 项目，sofka 适合需要轻量级、终端环境下管理 Kubernetes 的开发者，其异步设计有望提升响应速度和资源利用率。",
+  "tags": [
+    "Rust",
+    "Kubernetes",
+    "TUI",
+    "kube-rs",
+    "ratatui",
+    "异步",
+    "终端工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:54+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "nklmilojevic",
+    "stars": 1152,
+    "forks": 51,
+    "daily_stars": null,
+    "weekly_stars": 405,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

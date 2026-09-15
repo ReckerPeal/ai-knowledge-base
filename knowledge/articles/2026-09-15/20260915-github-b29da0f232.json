@@ -1,0 +1,34 @@
+{
+  "id": "20260915-github-b29da0f232",
+  "title": "pranshuparmar/witr",
+  "source": "github_trending",
+  "source_url": "https://github.com/pranshuparmar/witr",
+  "summary": "witr 是一个用 Go 编写的 CLI + TUI 工具，用于追溯任意进程、端口、容器或文件的启动来源，帮助用户回答“为什么它在运行”的问题。",
+  "content": "witr（Why Is This Running）是一款面向系统排查与可观测性场景的命令行工具，同时提供终端交互界面（TUI）。其核心能力是反向追踪：给定一个正在运行的进程、占用的端口、容器或文件，工具能够沿着依赖链回溯，定位到最初触发它的父进程、服务或启动源。\n\n该工具使用 Go 语言开发，具备良好的跨平台与单二进制分发特性。从 GitHub 数据来看，项目已获得约 2.2 万颗星标和 775 次 fork，日增星约 43，属于近期 Go 生态中的热点项目。\n\n适用场景包括：排查异常进程来源、定位端口占用背后的服务、分析容器与宿主机进程的关联、审计文件被哪个进程打开或触发。对于运维、SRE 和开发调试人员而言，witr 提供了一种比传统 ps/top/lsof 更直观的因果追溯视角。",
+  "tags": [
+    "Go",
+    "CLI",
+    "TUI",
+    "进程追踪",
+    "系统排查",
+    "可观测性",
+    "容器",
+    "端口占用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pranshuparmar",
+    "stars": 22308,
+    "forks": 775,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

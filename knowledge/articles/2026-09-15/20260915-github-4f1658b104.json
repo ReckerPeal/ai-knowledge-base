@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-4f1658b104",
+  "title": "jetkvm/kvm",
+  "source": "github_trending",
+  "source_url": "https://github.com/jetkvm/kvm",
+  "summary": "JetKVM 是一个基于 TypeScript 开发的开源 KVM（键盘、视频、鼠标）远程控制项目，旨在让用户通过网络远程操控任意计算机，支持远程管理、故障排查等场景。该项目在 GitHub 上热度较高，已获得超过 5000 颗星标。",
+  "content": "JetKVM/kvm 是一个专注于远程计算机控制的开源 KVM 解决方案，使用 TypeScript 作为主要开发语言。其核心功能是允许用户通过网络远程访问和控制任意计算机的键盘、视频和鼠标输入，类似于硬件 KVM 交换机的软件化实现。该项目适用于远程运维、服务器管理、家庭实验室等场景，能够帮助用户在无法物理接触目标设备时进行故障排查和系统管理。从 GitHub 数据来看，该项目已获得 5117 颗星标和 389 次 fork，日增星标约 63 颗，显示出较高的社区关注度和活跃度。项目采用 TypeScript 编写，可能包含前端界面和后端服务，整体架构偏向现代 Web 技术栈。作为开源项目，JetKVM 有望在远程办公和 IT 基础设施管理领域发挥重要作用，尤其适合需要低成本、灵活部署 KVM 功能的用户。",
+  "tags": [
+    "KVM",
+    "远程控制",
+    "TypeScript",
+    "开源",
+    "远程管理",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:42+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "jetkvm",
+    "stars": 5117,
+    "forks": 389,
+    "daily_stars": 63,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

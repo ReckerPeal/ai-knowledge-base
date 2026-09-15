@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-e8608e40b7",
+  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "summary": "IBM 发布 Granite Time Series PatchTST-FM-r2 模型，号称达到当前最优（SOTA）水平，并采用商业友好许可证，便于企业直接集成到产品中。该模型基于 PatchTST 架构，面向时间序列预测任务，是 IBM Granite 系列在时序基础模型方向的最新迭代。",
+  "content": "IBM 通过 Hugging Face 博客发布了 Granite Time Series PatchTST-FM-r2，这是其 Granite 时间序列基础模型系列的新版本。从命名看，该模型延续了 PatchTST（Patch Time Series Transformer）的架构思路，将时间序列切分为 patch 后以 Transformer 进行建模，属于时序基础模型（Time Series Foundation Model）路线。\n\n核心看点有三：\n1. 性能定位：官方以 SOTA 作为卖点，意味着在主流时序预测基准上相较前代或其他开源模型有提升，适合需要高精度预测的场景。\n2. 许可策略：强调 commercial-friendly license，这是与许多研究型时序模型的关键差异。企业可将其用于商业产品而无需担心授权限制，降低了落地门槛。\n3. 生态整合：模型托管在 Hugging Face，可直接通过 transformers 或相关时序库加载，便于快速实验与部署。\n\n适用场景包括需求预测、能源负荷预测、金融时序建模、工业设备异常检测与容量规划等。对于希望以零样本或微调方式获得强基线的时间序列团队，该模型值得优先评估。\n\n需要注意的是，摘要未提供具体基准数据、模型参数量、上下文长度与推理成本，实际选型时应结合自身数据分布做对比测试，并确认许可证条款细节。",
+  "tags": [
+    "时间序列",
+    "基础模型",
+    "IBM Granite",
+    "PatchTST",
+    "SOTA",
+    "商业许可",
+    "Hugging Face",
+    "预测模型"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-09T15:36:24+00:00",
+  "collected_at": "2026-09-15T09:38:56+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

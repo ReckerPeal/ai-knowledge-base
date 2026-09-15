@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-92a74a0d53",
+  "title": "reconurge/flowsint",
+  "source": "github_trending",
+  "source_url": "https://github.com/reconurge/flowsint",
+  "summary": "Flowsint 是一个面向网络安全分析师与调查人员的现代化图调查平台，支持可视化、灵活且可扩展的图结构调查，基于 TypeScript 构建，在 GitHub 上已获得 8352 颗星，日增 280 星，热度较高。",
+  "content": "Flowsint（reconurge/flowsint）是一个专为网络安全分析师和调查人员设计的现代化图调查平台。其核心定位是提供可视化、灵活且可扩展的图结构调查能力，帮助用户将分散的线索、实体和关系以图的形式组织起来，从而更高效地发现关联、追踪威胁或还原事件全貌。\n\n从技术栈来看，项目使用 TypeScript 开发，适合构建交互性强、类型安全的前端与全栈应用。仓库当前拥有 8352 个 Star 和 1028 个 Fork，单日新增约 280 个 Star，表明其在开源社区中获得了显著关注，可能正处于快速上升期。\n\n该工具主要面向网络安全分析、威胁情报、数字取证和调查分析等场景。通过图数据库或图计算模型，分析师可以将 IP、域名、账号、文件、事件等实体及其关系进行可视化编排，并借助可扩展的插件或模块机制适配不同的数据源与分析流程。\n\n总体而言，Flowsint 填补了开源领域中“面向调查的图分析平台”这一细分需求，兼具可视化交互与工程可扩展性，适合安全团队、OSINT 研究者以及需要关系图谱分析的调查人员使用。",
+  "tags": [
+    "网络安全",
+    "图分析",
+    "可视化调查",
+    "TypeScript",
+    "威胁情报",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:42+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "reconurge",
+    "stars": 8352,
+    "forks": 1028,
+    "daily_stars": 280,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

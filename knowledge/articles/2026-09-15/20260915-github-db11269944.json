@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-db11269944",
+  "title": "D4Vinci/Scrapling",
+  "source": "github_trending",
+  "source_url": "https://github.com/D4Vinci/Scrapling",
+  "summary": "Scrapling 是一个自适应 Web 爬虫框架，支持从单次请求到大规模爬取的全流程，由 D4Vinci 开发，使用 Python 编写，在 GitHub 上拥有约 8.1 万星标，近期周增约 1941 星。",
+  "content": "Scrapling 是一个用 Python 实现的自适应 Web 爬取框架，定位为覆盖从单次 HTTP 请求到全规模爬虫的完整解决方案。其核心卖点在于“自适应”，意味着它能够根据目标网站的结构变化自动调整解析策略，降低因页面改版导致爬虫失效的维护成本。该仓库由作者 D4Vinci 维护，当前星标数约 80963，fork 数约 8173，近一周新增星标约 1941，属于 GitHub 热点中的 Python 项目。项目提供 Discord 社区入口，便于用户交流与反馈。适用场景包括数据采集、监控、聚合以及需要长期稳定运行的爬虫任务。",
+  "tags": [
+    "Web Scraping",
+    "Python",
+    "爬虫框架",
+    "自适应解析",
+    "数据采集",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:49+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "D4Vinci",
+    "stars": 80963,
+    "forks": 8173,
+    "daily_stars": null,
+    "weekly_stars": 1941,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

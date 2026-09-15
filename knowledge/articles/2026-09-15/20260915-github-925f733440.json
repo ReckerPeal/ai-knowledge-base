@@ -1,0 +1,33 @@
+{
+  "id": "20260915-github-925f733440",
+  "title": "junegunn/fzf",
+  "source": "github_trending",
+  "source_url": "https://github.com/junegunn/fzf",
+  "summary": "fzf 是一个用 Go 编写的通用命令行模糊查找器，凭借极快的匹配速度和跨平台能力，成为终端工作流中广泛使用的效率工具，GitHub 星标超过 8.2 万。",
+  "content": "fzf（junegunn/fzf）是一个通用命令行模糊查找器，使用 Go 语言开发，当前在 GitHub 上已获得约 82,984 个星标和 2,875 次 fork，近期周新增星标约 158，属于长期活跃且热度稳定的热门项目。\n\n核心特点：\n1. 模糊匹配：支持交互式输入即时过滤候选列表，匹配算法高效，可处理数十万乃至百万级条目。\n2. 通用性强：可读取标准输入（stdin）的任意列表，并将选中结果输出到标准输出（stdout），因此能轻松嵌入 shell 管道，与文件、进程、历史命令、Git 分支等各类数据源组合使用。\n3. 跨平台：支持 Linux、macOS、Windows 以及多种包管理器安装，并提供 Vim/Neovim 插件集成。\n4. 高度可定制：支持自定义快捷键、预览窗口（preview）、多选、布局与配色等，可深度融入个人终端配置。\n5. 性能与实现：以 Go 编写，单二进制分发、启动快、依赖少，适合在脚本和交互式场景中频繁调用。\n\n典型使用场景：\n- 模糊查找文件并直接打开编辑器；\n- 搜索命令历史并快速执行；\n- 切换 Git 分支、提交或标签；\n- 结合 ripgrep 等工具进行交互式全文搜索；\n- 在 Vim/Neovim 中作为文件与缓冲区选择器。\n\n生态与影响：fzf 已成为现代终端工作流的基础组件之一，大量 dotfiles、CLI 工具和编辑器插件将其作为默认选择器，社区围绕它形成了丰富的集成方案。\n\n适用人群：开发者、运维工程师、终端重度用户，以及希望提升命令行操作效率的技术人员。",
+  "tags": [
+    "命令行工具",
+    "模糊查找",
+    "Go",
+    "终端效率",
+    "开源项目",
+    "CLI",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:56+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "junegunn",
+    "stars": 82984,
+    "forks": 2875,
+    "daily_stars": null,
+    "weekly_stars": 158,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

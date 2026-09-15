@@ -1,0 +1,36 @@
+{
+  "id": "20260915-github-9a589f3bdb",
+  "title": "huggingface/transformers",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/transformers",
+  "summary": "Hugging Face Transformers 是当前最主流的开源机器学习模型定义框架，覆盖文本、视觉、音频和多模态任务，同时支持推理与训练。该仓库在 GitHub 上拥有约 16.6 万星标，日增 536 星，是 AI 领域热度最高的 Python 项目之一。",
+  "content": "Hugging Face Transformers 由 Hugging Face 团队维护，定位为“最先进机器学习模型的模型定义框架”，核心价值在于用统一 API 屏蔽不同模型架构的差异，让开发者能够便捷地加载、微调和部署预训练模型。\n\n主要特点：\n1. 多模态覆盖：支持文本（BERT、GPT、LLaMA 等）、视觉（ViT、DETR 等）、音频（Whisper、Wav2Vec2 等）以及多模态模型（CLIP、BLIP 等）。\n2. 推理与训练一体：既可通过 pipeline 快速推理，也可借助 Trainer 或原生 PyTorch/TensorFlow/JAX 进行分布式训练和微调。\n3. 生态协同：与 Hugging Face Hub 深度集成，可一键下载数十万个预训练权重，并支持 datasets、accelerate、peft 等配套库。\n4. 社区与产业标准：已成为学术界和工业界使用预训练模型的事实标准，被广泛用于研究复现、产品原型和生成式 AI 应用。\n\n该仓库语言为 Python，当前星标约 165,979，fork 约 34,578，日增星标 536，说明其社区活跃度和关注度持续处于高位。对于从事 NLP、CV、语音及多模态 AI 开发的工程师和研究者而言，这是必备的基础设施级项目。",
+  "tags": [
+    "Hugging Face",
+    "Transformers",
+    "预训练模型",
+    "多模态",
+    "深度学习框架",
+    "Python",
+    "NLP",
+    "计算机视觉",
+    "语音识别",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:40+08:00",
+  "language": "Python",
+  "score": 9.8,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 165979,
+    "forks": 34578,
+    "daily_stars": 536,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

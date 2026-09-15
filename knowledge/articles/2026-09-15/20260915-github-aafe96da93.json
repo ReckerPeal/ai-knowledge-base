@@ -1,0 +1,32 @@
+{
+  "id": "20260915-github-aafe96da93",
+  "title": "fluxcd/flux2",
+  "source": "github_trending",
+  "source_url": "https://github.com/fluxcd/flux2",
+  "summary": "Flux2 是 FluxCD 组织推出的开源、可扩展的 Kubernetes 持续交付解决方案，基于 GitOps Toolkit 构建，使用 Go 语言开发，在 GitHub 上拥有 8406 颗星。",
+  "content": "Flux2 是一个面向 Kubernetes 的持续交付工具，其核心设计理念是开放和可扩展。它由 GitOps Toolkit 提供支持，通过声明式的方式将 Git 仓库中的配置同步到 Kubernetes 集群，实现自动化部署和运维。该项目使用 Go 语言编写，在 GitHub 上获得了 8406 个 star 和 782 个 fork，属于 GitHub 热点中的 Go 语言类别。Flux2 的架构允许用户灵活集成各种组件，支持多集群管理、渐进式交付等场景，是云原生生态中重要的 GitOps 实现之一。",
+  "tags": [
+    "Kubernetes",
+    "GitOps",
+    "持续交付",
+    "Go",
+    "云原生",
+    "FluxCD"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "fluxcd",
+    "stars": 8406,
+    "forks": 782,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

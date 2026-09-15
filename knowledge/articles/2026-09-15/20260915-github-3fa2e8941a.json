@@ -1,0 +1,31 @@
+{
+  "id": "20260915-github-3fa2e8941a",
+  "title": "goreleaser/goreleaser",
+  "source": "github_trending",
+  "source_url": "https://github.com/goreleaser/goreleaser",
+  "summary": "GoReleaser 是一个用 Go 编写的发布工程自动化工具，旨在简化软件发布流程，支持多平台构建、打包、签名和发布。",
+  "content": "GoReleaser 是一个开源的发布自动化工具，使用 Go 语言开发。它能够帮助开发者自动化整个软件发布流程，包括跨平台编译、生成二进制文件、创建归档包、生成校验和、签名、生成 changelog 以及发布到 GitHub Releases、Homebrew、Docker 等平台。该工具通过简单的 YAML 配置文件定义发布流程，极大地减少了手动发布的工作量和出错概率。GoReleaser 在 GitHub 上拥有超过 16000 颗星，社区活跃，是 Go 生态中发布工程的事实标准工具之一。",
+  "tags": [
+    "Go",
+    "发布自动化",
+    "CI/CD",
+    "DevOps",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-15T09:38:47+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "goreleaser",
+    "stars": 16049,
+    "forks": 1108,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
