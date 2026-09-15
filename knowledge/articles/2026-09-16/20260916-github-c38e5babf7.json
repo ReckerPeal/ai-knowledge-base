@@ -1,0 +1,33 @@
+{
+  "id": "20260916-github-c38e5babf7",
+  "title": "home-assistant/core",
+  "source": "github_trending",
+  "source_url": "https://github.com/home-assistant/core",
+  "summary": "Home Assistant 是一个以本地控制和隐私优先的开源家庭自动化平台，使用 Python 开发，在 GitHub 上拥有超过 9 万星标，是智能家居领域最活跃的开源项目之一。",
+  "content": "Home Assistant（home-assistant/core）是当前最受欢迎的开源家庭自动化平台之一，其核心理念是“本地控制与隐私优先”。项目使用 Python 编写，支持在树莓派、本地服务器或容器中运行，能够将不同品牌的智能家居设备统一接入并实现自动化联动。\n\n从仓库数据来看，该项目已获得约 90,523 个 Star 和 38,627 个 Fork，周新增 Star 约 207 个，社区活跃度和生态成熟度极高。其优势主要体现在：\n\n1. **本地化与隐私保护**：不依赖厂商云服务，设备数据和控制逻辑尽量在本地完成，降低隐私泄露风险。\n2. **广泛的设备兼容性**：通过大量集成（Integrations）支持数千种智能家居设备与协议，如 Zigbee、Z-Wave、MQTT、Matter 等。\n3. **强大的自动化引擎**：提供可视化自动化编辑、脚本、场景和模板能力，适合从普通用户到高级开发者的不同需求。\n4. **活跃的开源社区**：贡献者众多，更新频繁，文档完善，插件与自定义组件生态丰富。\n\n对于关注智能家居、物联网、隐私保护和开源软件的技术人员而言，Home Assistant 是一个值得深入研究和长期关注的项目。",
+  "tags": [
+    "智能家居",
+    "开源",
+    "Python",
+    "家庭自动化",
+    "隐私保护",
+    "物联网",
+    "Home Assistant"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:19+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "home-assistant",
+    "stars": 90523,
+    "forks": 38627,
+    "daily_stars": null,
+    "weekly_stars": 207,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

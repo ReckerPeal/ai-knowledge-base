@@ -1,0 +1,35 @@
+{
+  "id": "20260916-github-7d39bdfc71",
+  "title": "majd/ipatool",
+  "source": "github_trending",
+  "source_url": "https://github.com/majd/ipatool",
+  "summary": "ipatool 是一个用 Go 编写的命令行工具，支持在 App Store 中搜索 iOS、iPadOS、tvOS、visionOS 和 macOS 应用，并下载 .ipa 或 macOS .pkg 应用包。该工具在 GitHub 上拥有超过 1.1 万星标，日增约 122 星，属于热门 Go 项目。",
+  "content": "ipatool 由开发者 majd 创建，旨在为开发者和研究人员提供一种便捷的方式，通过命令行从 App Store 搜索并下载应用包。它支持多个 Apple 平台，包括 iOS、iPadOS、tvOS、visionOS 和 macOS，能够下载 .ipa 文件（用于 iOS 等）和 .pkg 文件（用于 macOS）。该工具使用 Go 语言编写，具有跨平台、易于安装和使用的特点。项目在 GitHub 上非常活跃，目前拥有 11,254 个星标和 940 个复刻，日增星标约 122 个，显示出较高的社区关注度。其典型用途包括应用分析、安全研究、自动化测试以及在没有 Mac 设备的情况下获取应用包。需要注意的是，使用该工具应遵守 Apple 的服务条款和相关法律法规。",
+  "tags": [
+    "Go",
+    "命令行工具",
+    "App Store",
+    "iOS",
+    "macOS",
+    "应用下载",
+    "ipa",
+    "pkg",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "majd",
+    "stars": 11254,
+    "forks": 940,
+    "daily_stars": 122,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

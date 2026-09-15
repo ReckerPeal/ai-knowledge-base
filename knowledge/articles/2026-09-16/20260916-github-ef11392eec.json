@@ -1,0 +1,32 @@
+{
+  "id": "20260916-github-ef11392eec",
+  "title": "reacherhq/check-if-email-exists",
+  "source": "github_trending",
+  "source_url": "https://github.com/reacherhq/check-if-email-exists",
+  "summary": "Reacher 是一个用 Rust 编写的开源工具，可在不发送邮件的情况下验证邮箱地址是否真实存在，并提供 HTTP 后端服务。项目在 GitHub 上拥有近万颗星，属于 Rust 生态中较受欢迎的实用工具。",
+  "content": "该项目由 reacherhq 团队开发，核心功能是通过 SMTP 协议探测邮箱地址的有效性，无需实际发送邮件即可判断邮箱是否存在。技术实现上采用 Rust 语言，保证了高性能和内存安全，同时附带一个 HTTP 后端，方便以 API 形式集成到其他系统中。项目在 GitHub 上已获得 9895 颗星和 710 次 fork，近一周新增 271 颗星，显示出持续的社区关注度。适用场景包括用户注册时的邮箱真实性校验、邮件列表清洗、防止欺诈注册等。其 Rust 实现相比传统脚本语言方案在并发处理和资源占用上更具优势，HTTP 后端则降低了使用门槛，适合需要批量验证邮箱的企业或开发者。",
+  "tags": [
+    "Rust",
+    "邮箱验证",
+    "SMTP",
+    "HTTP后端",
+    "开源工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:24+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "reacherhq",
+    "stars": 9895,
+    "forks": 710,
+    "daily_stars": null,
+    "weekly_stars": 271,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

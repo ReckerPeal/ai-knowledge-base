@@ -1,0 +1,32 @@
+{
+  "id": "20260916-github-4aff7db928",
+  "title": "openai/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/skills",
+  "summary": "OpenAI 官方发布的 Codex 技能目录仓库，旨在为 Codex 模型提供可复用的技能集合，当前已获得超过 2.7 万星标，是 AI 编程助手生态中的重要基础设施。",
+  "content": "该仓库由 OpenAI 官方维护，标题为 openai/skills，定位为 Codex 的技能目录（Skills Catalog for Codex）。Codex 是 OpenAI 的代码生成模型，而此仓库很可能收集、整理并标准化了可供 Codex 调用的各类技能（如代码补全、调试、重构、文档生成等），以插件或工具的形式扩展其能力。仓库使用 Python 语言，拥有 27,265 个星标和 1,823 个复刻，周新增星标达 1,350，显示出极高的社区关注度。作为官方项目，它可能定义了技能接口规范、提供了示例实现，并鼓励开发者贡献新技能，从而构建一个围绕 Codex 的开放生态。对于 AI 编程助手开发者而言，该仓库是了解 Codex 扩展机制、集成自定义技能的重要参考。",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "AI编程助手",
+    "技能目录",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:19+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "openai",
+    "stars": 27265,
+    "forks": 1823,
+    "daily_stars": null,
+    "weekly_stars": 1350,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

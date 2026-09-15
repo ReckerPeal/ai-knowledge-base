@@ -1,0 +1,33 @@
+{
+  "id": "20260916-github-8898dc1fb3",
+  "title": "heygen-com/hyperframes",
+  "source": "github_trending",
+  "source_url": "https://github.com/heygen-com/hyperframes",
+  "summary": "heygen-com/hyperframes 是 HeyGen 团队开源的一款 TypeScript 工具，主打「写 HTML，渲染视频」，专为 AI Agent 场景设计，让智能体能够通过编写 HTML 直接生成视频内容。项目在 GitHub 上热度极高，已获得超过 5 万颗星标，周增星约 5000，属于 TypeScript 生态中的热门项目。",
+  "content": "## 项目概览\n\nhyperframes 由 HeyGen 团队（heygen-com）开源，核心口号是「Write HTML. Render video. Built for agents.」——即用 HTML 描述画面，由工具负责渲染成视频，并且从设计之初就面向 AI Agent 使用场景。\n\n## 核心特性\n\n1. **HTML 即视频脚本**：开发者或 AI Agent 只需编写 HTML/CSS，即可定义视频的视觉内容，无需掌握传统视频编辑工具或复杂的视频编码流程。\n2. **面向 Agent 设计**：项目定位明确服务于 AI Agent，意味着其接口、输出格式和调用方式很可能便于大模型生成、修改和自动化执行，适合集成到 Agent 工作流中。\n3. **TypeScript 实现**：项目使用 TypeScript 编写，具备良好的类型系统支持，便于前端与 Node.js 生态的开发者接入和二次开发。\n\n## 社区热度\n\n- Star 数：50,320\n- Fork 数：4,592\n- 周新增 Star：5,052\n\n从数据来看，该项目在 GitHub Trending 中表现突出，属于 TypeScript 分类下的高热度项目，说明「HTML 转视频 + Agent 友好」这一方向切中了当前 AI 应用开发的真实需求。\n\n## 适用场景\n\n- AI Agent 自动生成营销视频、讲解视频或数据可视化视频；\n- 开发者用熟悉的 Web 技术栈快速产出视频内容；\n- 需要批量、程序化生成视频的自动化流水线。\n\n## 评价\n\nhyperframes 将 Web 前端能力与视频渲染结合，并明确押注 Agent 生态，方向清晰、定位精准。凭借 HeyGen 在视频生成领域的积累和超 5 万 Star 的社区认可，该项目具备较高的关注与使用价值。",
+  "tags": [
+    "TypeScript",
+    "视频渲染",
+    "HTML",
+    "AI Agent",
+    "开源项目",
+    "GitHub Trending",
+    "HeyGen"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:22+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "heygen-com",
+    "stars": 50320,
+    "forks": 4592,
+    "daily_stars": null,
+    "weekly_stars": 5052,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

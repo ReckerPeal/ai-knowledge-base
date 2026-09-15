@@ -1,0 +1,33 @@
+{
+  "id": "20260916-github-83d31714cc",
+  "title": "unclecode/crawl4ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/unclecode/crawl4ai",
+  "summary": "Crawl4AI 是一个面向大语言模型（LLM）的开源网页爬虫与抓取工具，旨在为 AI 应用提供干净、结构化的网页数据。项目使用 Python 编写，在 GitHub 上拥有超过 8.3 万颗星标，热度极高。",
+  "content": "Crawl4AI 由开发者 unclecode 创建，定位为“LLM 友好”的网页爬取与抓取解决方案。其核心价值在于将网页内容转换为适合大语言模型处理的格式，例如 Markdown 或结构化 JSON，从而简化 RAG（检索增强生成）、数据采集和 AI 代理等场景的数据获取流程。\n\n项目主要特点：\n1. 开源免费：采用开源协议，社区可自由使用和贡献。\n2. LLM 友好：输出内容针对 LLM 优化，减少噪声，提升上下文质量。\n3. 高性能：支持异步爬取、并发处理和动态页面渲染，适合大规模数据采集。\n4. 易集成：提供 Python API，可轻松嵌入现有 AI 工作流。\n5. 活跃社区：提供 Discord 交流渠道，便于获取支持和反馈。\n\n从数据看，该仓库累计获得 83,554 颗星标和 8,633 次 fork，日增星标约 98 颗，表明其在 AI 开发者社区中持续受到高度关注。语言为 Python，归类于 GitHub 热点中的 Python 类别。\n\n适用场景包括：为大模型训练或推理准备网页语料、构建智能问答系统的知识库、自动化数据采集与监控等。",
+  "tags": [
+    "Python",
+    "网页爬虫",
+    "LLM",
+    "数据抓取",
+    "开源",
+    "AI 工具",
+    "RAG"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:08+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "unclecode",
+    "stars": 83554,
+    "forks": 8633,
+    "daily_stars": 98,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

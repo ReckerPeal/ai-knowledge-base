@@ -1,0 +1,34 @@
+{
+  "id": "20260916-github-a647555277",
+  "title": "alsk1992/CloddsBot",
+  "source": "github_trending",
+  "source_url": "https://github.com/alsk1992/CloddsBot",
+  "summary": "CloddsBot 是一个基于 Claude 构建的开源自主 AI 交易代理，可在 1000 多个市场（包括 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及 5 条 EVM 链）上自动运行，扫描交易机会、即时执行并管理风险，同时支持机器间支付的代理商务协议，可自托管部署。",
+  "content": "CloddsBot 是一个开源的 AI 交易代理项目，由开发者 alsk1992 发布在 GitHub 上，使用 TypeScript 编写。其核心定位是让 AI 代理在无需人工干预的情况下，跨多个市场自主执行交易。\n\n主要功能与特点：\n1. 多市场覆盖：支持 1000 多个市场，包括预测市场 Polymarket 和 Kalshi、中心化交易所 Binance、去中心化永续合约平台 Hyperliquid、Solana 生态 DEX 以及 5 条 EVM 兼容链。\n2. 自主交易：代理持续扫描市场寻找套利或优势机会（edge），发现后即时执行交易，并在用户休息时仍能进行风险管理。\n3. 代理商务协议：内置机器对机器（M2M）支付协议，使 AI 代理之间能够进行商业交互和结算。\n4. 自托管：用户可自行部署和运行，保障数据与资产控制权。\n5. 技术栈：基于 Claude（Anthropic 的大语言模型）构建，使用 TypeScript 开发。\n\n项目热度：截至收集时，该仓库获得 2734 个 Star 和 331 个 Fork，近一周新增 1841 个 Star，显示出较高的社区关注度。该项目属于 GitHub 热点中的 TypeScript 类别。",
+  "tags": [
+    "AI 交易代理",
+    "开源",
+    "TypeScript",
+    "Claude",
+    "多市场交易",
+    "自托管",
+    "代理商务协议",
+    "DeFi"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:22+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "alsk1992",
+    "stars": 2734,
+    "forks": 331,
+    "daily_stars": null,
+    "weekly_stars": 1841,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

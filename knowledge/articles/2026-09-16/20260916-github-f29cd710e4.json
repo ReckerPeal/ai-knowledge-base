@@ -1,0 +1,32 @@
+{
+  "id": "20260916-github-f29cd710e4",
+  "title": "adminsyspro/proxcenter-ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/adminsyspro/proxcenter-ui",
+  "summary": "ProxCenter 是一个面向 Proxmox 环境的开源 Web 管理界面，定位为 VMware vCenter 的替代方案，支持通过单一控制台统一管理多个 Proxmox VE 集群与 Proxmox Backup Server 实例。",
+  "content": "该项目由 adminsyspro 开发，使用 TypeScript 构建，提供现代化、直观的 Web 界面。其核心价值在于解决 Proxmox 原生管理界面在多集群、多备份服务器场景下分散管理的问题，通过「单一玻璃窗格」（single pane of glass）实现集中化运维。当前在 GitHub 上已获得约 1639 颗星、104 次 fork，周新增星标约 321，属于近期热度较高的 TypeScript 项目。适合虚拟化运维人员、中小型数据中心以及从 VMware 迁移至 Proxmox 的团队使用。",
+  "tags": [
+    "Proxmox",
+    "虚拟化管理",
+    "Web UI",
+    "TypeScript",
+    "vCenter 替代",
+    "开源运维工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:22+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "adminsyspro",
+    "stars": 1639,
+    "forks": 104,
+    "daily_stars": null,
+    "weekly_stars": 321,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

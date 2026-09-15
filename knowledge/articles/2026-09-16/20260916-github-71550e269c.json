@@ -1,0 +1,33 @@
+{
+  "id": "20260916-github-71550e269c",
+  "title": "googleapis/mcp-toolbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/googleapis/mcp-toolbox",
+  "summary": "googleapis/mcp-toolbox 是 Google 官方开源、基于 Go 语言实现的数据库 MCP 服务器，旨在通过 Model Context Protocol 让 AI 模型安全、标准化地访问和操作各类数据库。项目已获 1.6 万余星标，是 MCP 生态中数据库连接方向的重要基础设施。",
+  "content": "## 项目定位\n\nmcp-toolbox 由 Google API 团队（googleapis）开源，核心定位是「面向数据库的 MCP 服务器」。MCP（Model Context Protocol）是让大语言模型与外部工具、数据源交互的开放协议，而该项目把数据库这一最常见的数据源封装成标准 MCP 服务，使 AI 应用无需为每种数据库单独编写适配层。\n\n## 核心能力\n\n- **标准化接入**：以 MCP 协议暴露数据库能力，AI 客户端（如各类 Agent、IDE 助手）可按统一接口调用。\n- **多数据库支持**：作为通用工具箱，覆盖主流关系型与可能的非关系型数据库，降低多数据源集成成本。\n- **工具化封装**：将查询、Schema 探查等操作封装为可被模型调用的工具（tools），便于模型自主决策。\n- **安全与权限**：作为官方项目，通常强调连接凭据管理、只读/最小权限等生产级考量。\n\n## 技术特征\n\n- **语言**：Go，具备高并发、单二进制部署、跨平台等优势，适合作为常驻服务运行。\n- **生态位**：处于 MCP 协议与数据库访问的交汇点，是「AI + 数据」基础设施的关键组件。\n- **社区热度**：约 16,412 stars、1,721 forks，日增约 6 stars，属于高关注度但增速趋稳的成熟热点项目。\n\n## 适用场景\n\n- 构建可查询企业数据库的 AI Agent / 聊天机器人；\n- 在 IDE 或开发工具中让模型直接理解数据库 Schema；\n- 作为 MCP 生态中数据库连接层的参考实现或生产底座。\n\n## 评价\n\n背靠 Google 官方与 MCP 生态红利，项目在规范性和可信度上具备优势，Go 实现也利于工程落地。当前 star 基数大、日增放缓，说明已过爆发期、进入稳定采用阶段。对于需要让 AI 安全访问数据库的团队，是值得优先评估的开源方案。",
+  "tags": [
+    "MCP",
+    "数据库",
+    "Go",
+    "Google",
+    "AI Agent",
+    "开源工具",
+    "Model Context Protocol"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-16T01:49:16+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "googleapis",
+    "stars": 16412,
+    "forks": 1721,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
