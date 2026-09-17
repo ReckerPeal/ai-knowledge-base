@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-4585573998",
+  "title": "vitest-dev/vitest",
+  "source": "github_trending",
+  "source_url": "https://github.com/vitest-dev/vitest",
+  "summary": "Vitest 是由 Vite 驱动的下一代 JavaScript/TypeScript 测试框架，凭借与 Vite 生态的深度集成、极快的冷启动与热更新速度，已成为前端单元测试领域的主流选择，GitHub 星标超过 1.7 万。",
+  "content": "## 项目概览\n\nVitest（vitest-dev/vitest）是一个由 Vite 驱动的下一代测试框架，使用 TypeScript 编写，当前在 GitHub 上已获得约 17,148 个 Star、2,003 个 Fork，日增星约 9 个，属于 GitHub 热点中的 TypeScript 类项目。\n\n## 核心定位\n\nVitest 的核心卖点是「由 Vite 驱动」。它直接复用 Vite 的配置、插件体系与转换管线，因此无需为测试单独维护一套构建配置。对于已经使用 Vite 的项目，接入成本极低；对于使用其他构建工具的项目，也能通过兼容层获得接近的体验。\n\n## 主要特性\n\n1. **极速执行**：基于 Vite 的按需编译与模块热替换机制，测试启动和重跑速度显著优于传统方案，尤其在大型项目中优势明显。\n2. **开箱即用的兼容性**：API 与 Jest 高度兼容（describe、it、expect、mock 等），迁移成本低，同时支持 ESM、TypeScript、JSX 等现代语法，无需额外转译配置。\n3. **内置能力丰富**：原生支持快照测试、Mock、覆盖率（基于 v8 或 istanbul）、并发测试、浏览器模式（Browser Mode）以及工作区（Workspace）多项目配置。\n4. **智能监听模式**：watch 模式下只重新运行与改动文件相关的测试，配合 Vite 的依赖图实现精准失效分析。\n5. **生态协同**：与 Vite、Rollup、Vue、React、Svelte 等生态工具链天然契合，也是 Vue 官方推荐的测试方案之一。\n\n## 适用场景\n\n- 使用 Vite 构建的 Vue / React / Svelte / Solid 等前端项目；\n- 需要从 Jest 迁移、追求更快反馈循环的团队；\n- 组件测试、单元测试、集成测试乃至浏览器端真实环境测试；\n- Monorepo 中需要统一测试配置的多包工程。\n\n## 社区与生态\n\n项目由 vitest-dev 组织维护，拥有活跃的核心团队与贡献者群体，文档完善（vitest.dev），版本迭代频繁，已被大量开源项目与商业产品采用。其与 Vite 的强绑定关系既是最大优势，也意味着深度定制场景下需关注 Vite 版本兼容性。\n\n## 综合评价\n\nVitest 代表了前端测试工具链向「构建工具一体化」演进的方向，凭借性能、兼容性与生态整合能力，已成为 Jest 之后最受关注的新一代测试框架，适合作为现代前端项目的默认测试方案。",
+  "tags": [
+    "Vitest",
+    "测试框架",
+    "Vite",
+    "TypeScript",
+    "单元测试",
+    "前端工程化",
+    "Jest 替代",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:26+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "vitest-dev",
+    "stars": 17148,
+    "forks": 2003,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

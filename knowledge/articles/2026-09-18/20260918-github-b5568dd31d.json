@@ -1,0 +1,33 @@
+{
+  "id": "20260918-github-b5568dd31d",
+  "title": "jiji262/douyin-downloader",
+  "source": "github_trending",
+  "source_url": "https://github.com/jiji262/douyin-downloader",
+  "summary": "jiji262/douyin-downloader 是一个用 Python 编写的抖音批量下载工具，支持单条与主页批量下载，具备去水印、进度显示、重试、SQLite 去重和浏览器回退等实用功能，在 GitHub 上获得约 1.19 万星标，热度较高。",
+  "content": "该仓库是一个面向抖音内容下载的实用型 Python 工具，主要功能包括：\n\n1. 下载模式：支持单条视频/图集下载，也支持按用户主页进行批量下载。\n2. 内容类型：覆盖视频、图集、合集以及音乐（原声）等多种抖音内容形式。\n3. 去水印：下载结果去除平台水印，便于二次使用。\n4. 任务管理：提供下载进度显示与失败重试机制，提升批量任务的稳定性。\n5. 去重能力：借助 SQLite 记录已下载内容，避免重复下载，适合长期增量抓取。\n6. 兼容性：内置浏览器回退支持，在接口受限或反爬策略变化时可切换方案。\n\n从仓库指标看，项目拥有约 11,891 个星标和 1,820 个 fork，近一周新增约 2,044 星标，说明其在 GitHub 热点中具备较强关注度。技术栈为 Python，适合需要批量归档抖音内容的个人用户或数据采集场景。使用时需注意平台服务条款、版权与合规风险。",
+  "tags": [
+    "抖音下载",
+    "Python",
+    "批量下载",
+    "去水印",
+    "SQLite",
+    "爬虫工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:34+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "jiji262",
+    "stars": 11891,
+    "forks": 1820,
+    "daily_stars": null,
+    "weekly_stars": 2044,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

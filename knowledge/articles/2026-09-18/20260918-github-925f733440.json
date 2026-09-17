@@ -1,0 +1,31 @@
+{
+  "id": "20260918-github-925f733440",
+  "title": "junegunn/fzf",
+  "source": "github_trending",
+  "source_url": "https://github.com/junegunn/fzf",
+  "summary": "fzf 是一个用 Go 编写的命令行模糊查找器，支持交互式过滤任意列表，是终端效率工具中的经典项目。",
+  "content": "fzf（junegunn/fzf）是一个通用的命令行模糊查找器，使用 Go 语言开发。它可以从标准输入、文件、命令输出等来源接收候选列表，并通过模糊匹配算法让用户快速筛选目标项。fzf 以极快的匹配速度、低资源占用和高度可定制性著称，支持预览窗口、多选、自定义键绑定、颜色主题等丰富功能。它能够与 shell（bash/zsh/fish）、Vim/Neovim、tmux 等工具深度集成，常用于文件查找、历史命令搜索、Git 分支切换、进程选择等场景。该项目在 GitHub 上拥有约 8.3 万星标和近 3000 次 fork，日增约 50 星、周增约 157 星，长期位居 Go 语言热门项目前列，是终端工作流中广泛采用的基础设施级工具。",
+  "tags": [
+    "命令行工具",
+    "模糊查找",
+    "Go",
+    "终端效率",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:32+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "junegunn",
+    "stars": 83088,
+    "forks": 2954,
+    "daily_stars": 50,
+    "weekly_stars": 157,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

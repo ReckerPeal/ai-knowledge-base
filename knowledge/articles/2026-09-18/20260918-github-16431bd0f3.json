@@ -1,0 +1,33 @@
+{
+  "id": "20260918-github-16431bd0f3",
+  "title": "open-telemetry/opentelemetry-collector-contrib",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "summary": "OpenTelemetry Collector 的官方贡献仓库，汇集了大量由社区维护的接收器、处理器、导出器和扩展组件，是构建可观测性数据管道的重要基础设施。",
+  "content": "该仓库是 OpenTelemetry Collector 的 contrib 仓库，主要托管社区贡献的各类组件。OpenTelemetry Collector 本身是一个与供应商无关的代理和收集器，用于接收、处理和导出遥测数据（指标、日志、追踪）。contrib 仓库则提供了官方核心仓库之外的大量扩展组件，包括针对各种数据源和目标的接收器（receiver）、处理器（processor）、导出器（exporter）以及扩展（extension）。这些组件覆盖了从云服务、数据库、消息队列到监控系统的广泛集成，使得用户能够灵活地构建端到端的可观测性数据管道。仓库使用 Go 语言开发，拥有近 5000 星标和近 4000 分支，社区活跃度高，是云原生可观测性领域的关键项目之一。",
+  "tags": [
+    "OpenTelemetry",
+    "可观测性",
+    "Go",
+    "数据收集器",
+    "云原生",
+    "遥测数据",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:32+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "open-telemetry",
+    "stars": 4971,
+    "forks": 3920,
+    "daily_stars": 2,
+    "weekly_stars": 23,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

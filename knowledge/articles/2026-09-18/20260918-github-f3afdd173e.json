@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-f3afdd173e",
+  "title": "vastsa/PI-Desktop",
+  "source": "github_trending",
+  "source_url": "https://github.com/vastsa/PI-Desktop",
+  "summary": "vastsa/PI-Desktop 是一个本地优先的 AI 编程智能体桌面应用，采用 Electron + Rust 宿主核心 + pi Agent Harness 架构，支持用户安装插件，近期在 GitHub 上热度较高。",
+  "content": "PI-Desktop 是一款面向开发者的本地优先（local-first）AI 编程智能体桌面工具。其技术栈采用 Electron 作为桌面外壳，Rust 实现宿主核心（host core），并集成 pi Agent Harness 作为智能体运行框架，同时支持用户自行安装插件以扩展功能。该仓库以 TypeScript 为主要语言，当前获得约 4146 个 Star 和 345 个 Fork，近一周新增约 2121 个 Star，显示出较强的社区关注度。本地优先的设计意味着核心能力可在本地运行，有利于隐私保护和离线使用，而插件机制则提升了可扩展性。整体来看，该项目将 AI 编程助手与桌面端、Rust 高性能核心以及可插拔生态相结合，适合关注 AI 编程工具、桌面应用架构和本地化 AI 部署的开发者。",
+  "tags": [
+    "AI 编程智能体",
+    "桌面应用",
+    "Electron",
+    "Rust",
+    "TypeScript",
+    "本地优先",
+    "插件系统",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:37+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "vastsa",
+    "stars": 4146,
+    "forks": 345,
+    "daily_stars": null,
+    "weekly_stars": 2121,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

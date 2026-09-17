@@ -1,0 +1,32 @@
+{
+  "id": "20260918-github-2cd8b720a2",
+  "title": "golang/go",
+  "source": "github_trending",
+  "source_url": "https://github.com/golang/go",
+  "summary": "Go 语言官方仓库，由 Google 主导开发的开源编程语言，以简洁、高效、并发友好著称，是现代云原生和基础设施领域的主流语言。",
+  "content": "golang/go 是 Go 编程语言的官方开源仓库，托管于 GitHub，由 Google 团队及全球社区共同维护。Go 语言设计目标是兼具静态语言的安全性和动态语言的开发效率，内置垃圾回收、goroutine 轻量级并发和 channel 通信机制，编译速度快，部署简单（单一二进制）。该仓库包含 Go 编译器、标准库、运行时以及相关工具链的完整源码。目前仓库已获得约 13.9 万 Star 和 1.97 万 Fork，周增约 914 Star，是 GitHub 上最活跃、最具影响力的编程语言项目之一。Go 广泛应用于云原生（Kubernetes、Docker）、微服务、网络编程、CLI 工具和分布式系统等领域。",
+  "tags": [
+    "Go",
+    "编程语言",
+    "官方仓库",
+    "云原生",
+    "并发编程",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:32+08:00",
+  "language": "Go",
+  "score": 9.8,
+  "metadata": {
+    "author": "golang",
+    "stars": 138892,
+    "forks": 19673,
+    "daily_stars": 26,
+    "weekly_stars": 914,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-9c241fb43b",
+  "title": "anthropics/claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "summary": "Anthropic 官方推出的 Claude Code 是一款运行在终端中的智能体编程工具，能够理解代码库并通过自然语言指令执行日常任务、解释复杂代码和处理 Git 工作流，目前以 14.5 万+ Star 位居 GitHub 热点前列。",
+  "content": "## 项目概览\n\nClaude Code 是 Anthropic 官方开源的智能体（Agentic）编程工具，定位为「住在终端里的 AI 编程助手」。它直接运行在开发者的命令行环境中，能够读取并理解整个代码库的上下文，从而以自然语言交互的方式完成实际开发工作。\n\n## 核心能力\n\n1. **代码库理解**：工具会主动索引和分析项目结构，理解文件之间的依赖关系与代码语义，而非仅做单文件级别的补全。\n2. **任务执行**：可自动完成重复性、例行性的开发任务，例如批量重构、生成样板代码、修复简单缺陷等。\n3. **代码解释**：针对复杂逻辑或陌生模块，能够用自然语言给出解释，降低理解成本，对新人上手和遗留系统维护尤为有用。\n4. **Git 工作流处理**：支持提交、分支管理、冲突处理等 Git 操作，将版本控制动作纳入自然语言指令范畴。\n5. **自然语言驱动**：所有交互均通过自然语言命令完成，无需记忆复杂 CLI 参数。\n\n## 技术特征\n\n- **语言与形态**：项目以 TypeScript 实现，属于典型的终端 CLI 工具形态，强调与本地开发环境的深度集成。\n- **Agentic 架构**：区别于传统代码补全插件，Claude Code 具备自主规划与多步执行能力，可调用工具、读写文件并观察执行结果后继续推理。\n- **官方背书**：由 Anthropic 直接维护，与 Claude 模型能力迭代紧密绑定，在上下文长度、工具调用可靠性方面具备天然优势。\n\n## 社区热度\n\n- Star 数约 145,891，Fork 数约 23,550，属于头部开源项目量级。\n- 日增 Star 约 538，周增 Star 约 938，增长曲线保持稳定，说明热度并非短期爆发而是持续吸引开发者关注。\n- 归类于 GitHub 热点 · TypeScript 板块，是当前 AI 编程工具赛道中最受关注的项目之一。\n\n## 行业意义\n\nClaude Code 代表了 AI 编程助手从「IDE 内补全」向「终端内自主智能体」的演进方向。它将 AI 能力从被动的代码建议者转变为主动的任务执行者，与 Cursor、GitHub Copilot 等产品形成差异化竞争。对于开发者而言，这意味着工作流可能从「写代码」逐步转向「描述意图 + 审查结果」，对工程实践和代码审查流程都会带来结构性影响。",
+  "tags": [
+    "Claude Code",
+    "AI 编程助手",
+    "Agentic Coding",
+    "终端工具",
+    "TypeScript",
+    "Anthropic",
+    "Git 工作流",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:26+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 145891,
+    "forks": 23550,
+    "daily_stars": 538,
+    "weekly_stars": 938,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

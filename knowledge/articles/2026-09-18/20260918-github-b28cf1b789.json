@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-b28cf1b789",
+  "title": "temporalio/temporal",
+  "source": "github_trending",
+  "source_url": "https://github.com/temporalio/temporal",
+  "summary": "Temporal 是一个用 Go 语言编写的开源工作流编排与持久化执行平台，提供可靠、可扩展的分布式应用开发能力，在 GitHub 上拥有超过 2.3 万星标，属于高热度基础设施项目。",
+  "content": "Temporal 是由 Temporal Technologies 开源并维护的分布式工作流引擎，核心目标是让开发者能够以普通代码的方式编写复杂、长时间运行、具备容错能力的业务流程。它通过持久化执行（Durable Execution）机制，将工作流状态自动保存，从而在进程崩溃、网络中断或服务重启后仍能恢复执行，避免业务逻辑丢失。\n\n项目采用 Go 语言实现，主要包含 Temporal Server（服务端）、前端 API、历史服务、匹配服务、工作流服务等核心组件，并支持多种持久化存储后端（如 Cassandra、MySQL、PostgreSQL）以及可插拔的搜索与归档方案。开发者可以使用 Go、Java、TypeScript、Python、PHP 等多种 SDK 编写工作流和活动（Activity），实现跨语言、跨服务的编排。\n\n从仓库数据看，temporalio/temporal 当前获得约 23,260 个 Star、1,906 个 Fork，单日新增约 161 个 Star，说明社区关注度持续较高。其典型应用场景包括订单履约、支付清算、微服务 Saga 编排、数据管道调度、AI Agent 工作流等需要高可靠性和状态一致性的分布式系统。\n\n作为 CNCF 孵化项目之一，Temporal 在云原生生态中定位为“工作流即代码”的基础设施，与 Cadence、AWS Step Functions、Airflow 等方案相比，更强调代码原生、强一致性和长时运行能力。对于需要构建可靠异步任务与分布式事务的团队，Temporal 是一个值得深入评估的生产级选择。",
+  "tags": [
+    "工作流引擎",
+    "分布式系统",
+    "Go",
+    "持久化执行",
+    "微服务编排",
+    "云原生",
+    "CNCF",
+    "开源基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:32+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "temporalio",
+    "stars": 23260,
+    "forks": 1906,
+    "daily_stars": 161,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

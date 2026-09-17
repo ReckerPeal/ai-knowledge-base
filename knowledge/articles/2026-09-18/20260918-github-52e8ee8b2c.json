@@ -1,0 +1,32 @@
+{
+  "id": "20260918-github-52e8ee8b2c",
+  "title": "vercel/eve",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel/eve",
+  "summary": "Vercel 推出的开源 Agent 构建框架 eve，使用 TypeScript 编写，旨在为开发者提供构建智能代理应用的标准化基础设施。项目上线后迅速获得 5366 颗星，单日新增 171 星，热度较高。",
+  "content": "eve 是由 Vercel 发布的开源框架，定位为「构建 Agent 的开放框架」。它使用 TypeScript 开发，面向希望快速搭建智能代理（Agent）应用的开发者。Vercel 作为 Next.js 和现代前端部署平台的维护者，其推出的 Agent 框架很可能与前端生态、Serverless 部署以及 AI SDK 深度集成，降低从原型到生产的门槛。当前仓库已获得 5366 星、564 次 fork，单日新增 171 星，说明社区关注度正在快速上升。由于摘要信息有限，具体能力（如工具调用、多步推理、记忆管理、多 Agent 协作等）尚不明确，但可以预期其设计会强调开放性与可组合性，与 Vercel 现有的 AI 工具链形成协同。对于关注 AI Agent 基础设施、TypeScript 全栈开发以及 Vercel 生态的开发者而言，这是一个值得跟踪的新项目。",
+  "tags": [
+    "AI Agent",
+    "TypeScript",
+    "Vercel",
+    "开源框架",
+    "智能代理",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:26+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "vercel",
+    "stars": 5366,
+    "forks": 564,
+    "daily_stars": 171,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260918-github-881077f8c9",
+  "title": "uutils/coreutils",
+  "source": "github_trending",
+  "source_url": "https://github.com/uutils/coreutils",
+  "summary": "uutils/coreutils 是 GNU coreutils 的跨平台 Rust 重写版本，旨在提供更安全、更现代的命令行工具集，目前在 GitHub 上拥有 24,280 颗星，日增 169 星，热度较高。",
+  "content": "uutils/coreutils 项目使用 Rust 语言重新实现了 GNU coreutils 中的常用命令行工具（如 ls、cp、mv、cat 等），目标是提供跨平台支持、内存安全性和更好的性能。该项目由 uutils 组织维护，采用 MIT 许可证，社区活跃，已获得 24,280 个 Star 和 2,035 个 Fork。其核心优势包括：1) 跨平台：可在 Linux、macOS、Windows 等系统上运行；2) 内存安全：利用 Rust 的所有权模型避免常见的内存错误；3) 兼容性：力求与 GNU coreutils 行为兼容，便于迁移；4) 现代化：采用 Cargo 构建，易于集成和扩展。该项目适合开发者、系统管理员以及对 Rust 和系统工具感兴趣的用户，可用于替代或补充传统 coreutils，尤其在需要跨平台一致性的场景中。",
+  "tags": [
+    "Rust",
+    "coreutils",
+    "跨平台",
+    "命令行工具",
+    "GNU",
+    "系统工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "uutils",
+    "stars": 24280,
+    "forks": 2035,
+    "daily_stars": 169,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

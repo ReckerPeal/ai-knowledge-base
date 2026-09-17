@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-6e20fa5830",
+  "title": "eclipse-zenoh/zenoh",
+  "source": "github_trending",
+  "source_url": "https://github.com/eclipse-zenoh/zenoh",
+  "summary": "Eclipse Zenoh 是一个用 Rust 编写的开源协议与中间件，旨在统一运动中的数据、使用中的数据、静态数据以及计算，融合了传统发布/订阅、地理分布式存储、查询和计算，同时保持远超主流技术栈的时空效率。",
+  "content": "Eclipse Zenoh 由 Eclipse 基金会托管，采用 Rust 语言开发，目前在 GitHub 上获得约 3223 颗星和 368 次 fork。其核心目标是解决物联网、边缘计算和分布式系统中数据流动与处理的碎片化问题。Zenoh 将发布/订阅通信、地理分布式存储、数据查询和分布式计算统一到一个协议中，支持数据在运动、使用和静止状态下的无缝管理。相比 MQTT、DDS、CoAP 等传统方案，Zenoh 在延迟、吞吐量和资源占用方面具有显著优势，尤其适合资源受限设备和广域部署场景。该项目采用 Rust 编写，保证了内存安全和并发性能，同时提供多语言绑定（如 C、Python、Kotlin 等），便于集成到现有系统。Zenoh 的架构支持去中心化路由、动态发现和自适应网络拓扑，可应用于车联网、工业自动化、机器人协作和智慧城市等领域。",
+  "tags": [
+    "Rust",
+    "发布/订阅",
+    "分布式存储",
+    "边缘计算",
+    "物联网",
+    "中间件",
+    "Eclipse",
+    "数据统一"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "eclipse-zenoh",
+    "stars": 3223,
+    "forks": 368,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

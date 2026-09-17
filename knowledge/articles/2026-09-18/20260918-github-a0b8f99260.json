@@ -1,0 +1,33 @@
+{
+  "id": "20260918-github-a0b8f99260",
+  "title": "LLMQuant/quant-mind",
+  "source": "github_trending",
+  "source_url": "https://github.com/LLMQuant/quant-mind",
+  "summary": "QuantMind 是一个面向量化金融领域的开源智能体原生知识抽取与检索框架，基于 Python 构建，在 GitHub 上已获得近 3000 星标，日增约 94 星，热度较高。",
+  "content": "QuantMind 由 LLMQuant 组织开源，定位为「智能体原生（agent-native）」的知识抽取与检索框架，专门服务于量化金融场景。其核心目标是将非结构化金融数据（如研报、新闻、公告、财报等）转化为可供 AI 智能体直接调用的结构化知识，并支持高效的检索与推理。项目采用 Python 实现，当前在 GitHub 上拥有约 2977 个星标和 481 个 fork，日增星标约 94，属于近期 GitHub Python 热点项目。该框架的「agent-native」特性意味着其设计围绕 LLM 智能体的工作流展开，可能包含知识抽取管道、向量化存储、检索增强生成（RAG）以及面向量化策略的接口等模块。对于量化投研、金融 NLP 以及 AI Agent 应用开发者而言，QuantMind 提供了一套可复用的基础设施，有助于降低从原始金融文本到可执行量化洞察之间的工程门槛。",
+  "tags": [
+    "量化金融",
+    "知识抽取",
+    "检索增强生成",
+    "AI Agent",
+    "Python",
+    "开源框架",
+    "金融NLP"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:23+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "LLMQuant",
+    "stars": 2977,
+    "forks": 481,
+    "daily_stars": 94,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

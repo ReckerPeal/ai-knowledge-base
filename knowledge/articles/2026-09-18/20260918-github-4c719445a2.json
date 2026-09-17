@@ -1,0 +1,35 @@
+{
+  "id": "20260918-github-4c719445a2",
+  "title": "Gentleman-Programming/engram",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gentleman-Programming/engram",
+  "summary": "Engram 是一个面向 AI 编程代理的持久化记忆系统，采用 Go 语言编写，以单一二进制形式分发，具备代理无关（agent-agnostic）特性。它基于 SQLite + FTS5 实现全文检索，同时提供 MCP 服务器、HTTP API、CLI 和 TUI 四种交互方式，让不同的 AI 编码助手都能共享同一套长期记忆。",
+  "content": "## 项目定位\n\nEngram 解决的是 AI 编程代理「无状态」的核心痛点：每次会话结束后，代理对项目上下文、历史决策和用户偏好的理解都会丢失。Engram 通过一个独立的持久化记忆层，让 Claude Code、Cursor、Cline 等不同代理都能读写同一份记忆数据。\n\n## 核心特性\n\n- **代理无关架构**：不绑定特定 AI 工具，任何支持 MCP 或 HTTP 调用的代理均可接入。\n- **SQLite + FTS5 存储**：本地单文件数据库，无需外部服务依赖，FTS5 提供高效的全文检索能力，适合记忆片段的模糊召回。\n- **多协议接入**：\n  - MCP Server：直接对接支持 Model Context Protocol 的客户端；\n  - HTTP API：便于自定义集成与远程调用；\n  - CLI：脚本化与手动管理；\n  - TUI：终端内的可视化浏览与编辑。\n- **单一 Go 二进制**：部署简单，跨平台，无运行时依赖。\n\n## 技术亮点\n\n选择 SQLite 而非向量数据库是一个务实的取舍：在记忆规模可控的前提下，FTS5 的关键词检索配合结构化元数据，往往比向量检索更可解释、更易调试，且完全离线可用。Go 语言的静态编译特性则保证了分发体验。\n\n## 适用场景\n\n- 长期维护的大型代码库，需要代理记住架构约定与历史决策；\n- 多代理协作流程中共享上下文；\n- 个人开发者希望跨会话保留偏好设置与项目知识。\n\n## 社区热度\n\n项目已获得约 6.7k stars、689 forks，周增约 193 stars，属于 GitHub Go 语言分类下的热点项目，反映出 AI 代理记忆层这一方向正受到广泛关注。",
+  "tags": [
+    "AI Agent",
+    "持久化记忆",
+    "Go",
+    "SQLite",
+    "FTS5",
+    "MCP",
+    "开发者工具",
+    "CLI",
+    "TUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:43+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Gentleman-Programming",
+    "stars": 6674,
+    "forks": 689,
+    "daily_stars": null,
+    "weekly_stars": 193,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

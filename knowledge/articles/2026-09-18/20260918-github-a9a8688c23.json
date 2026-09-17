@@ -1,0 +1,35 @@
+{
+  "id": "20260918-github-a9a8688c23",
+  "title": "dbt-labs/dbt",
+  "source": "github_trending",
+  "source_url": "https://github.com/dbt-labs/dbt",
+  "summary": "dbt（data build tool）是 dbt-labs 开源的数据转换工具，让数据分析师和数据工程师能够用软件工程的最佳实践（版本控制、测试、文档、模块化）来构建数据管道。该仓库当前以 Rust 语言实现，在 GitHub 上拥有约 1.4 万星标，日增约 180 星，属于 GitHub 热点中的 Rust 类项目。",
+  "content": "dbt-labs/dbt 是数据领域广为人知的分析工程（Analytics Engineering）核心工具。其核心理念是：把数据转换（Transform）环节从传统 ETL 中独立出来，让分析师用 SQL 加配置的方式定义模型，并像开发软件一样管理这些模型。\n\n主要特性包括：\n1. 以 SQL 为中心的建模：通过 SELECT 语句定义数据模型，dbt 负责生成依赖关系并编排执行顺序。\n2. 软件工程实践：支持 Git 版本控制、代码审查、CI/CD、单元测试与数据质量测试（如唯一性、非空、引用完整性）。\n3. 文档与血缘：自动生成数据文档和 DAG 血缘图，便于团队理解数据流向。\n4. 多适配器生态：可对接 Snowflake、BigQuery、Redshift、Databricks、PostgreSQL 等主流数据仓库。\n5. 宏与包管理：通过 Jinja 宏实现逻辑复用，并可通过 dbt Hub 共享和安装第三方包。\n\n从仓库元数据看，该项目星标约 14,026，fork 约 2,566，日增星约 180，热度较高。值得注意的是，该摘要标注语言为 Rust，说明 dbt 核心引擎正在或已经采用 Rust 重写（dbt Fusion 引擎方向），以提升解析与执行性能，这是该项目近期的重要技术演进信号。\n\n适用场景：数据仓库内的 ELT 转换层、指标体系构建、数据质量治理、分析工程团队协作。目标用户为数据分析师、分析工程师、数据平台工程师。",
+  "tags": [
+    "dbt",
+    "数据转换",
+    "分析工程",
+    "ELT",
+    "SQL",
+    "Rust",
+    "数据仓库",
+    "数据建模",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:29+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "dbt-labs",
+    "stars": 14026,
+    "forks": 2566,
+    "daily_stars": 180,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260918-github-4e7ba9f5f0",
+  "title": "arnegiacomo/fugleramme",
+  "source": "github_trending",
+  "source_url": "https://github.com/arnegiacomo/fugleramme",
+  "summary": "该项目是一个基于树莓派的电子墨水屏鸟类识别相框，通过音频实时检测鸟类，完全本地运行AI模型，并将识别结果以19世纪手工剪裁的鸟类插画风格呈现。",
+  "content": "arnegiacomo/fugleramme 是一个结合硬件与AI的创意项目，专为树莓派设计。它利用麦克风采集环境声音，通过本地部署的AI模型实时识别鸟类叫声，随后在电子墨水屏上显示对应的鸟类信息。其独特之处在于视觉呈现：所有鸟类图像均采用1800年代手工剪裁的真实鸟类插画风格，营造出复古而自然的观赏体验。项目完全离线运行，无需云端服务，保护隐私且响应迅速。当前在GitHub上已获得2858颗星，日增712星，显示出较高的社区关注度。技术栈以Python为主，适合对边缘AI、音频处理和嵌入式开发感兴趣的开发者。",
+  "tags": [
+    "树莓派",
+    "电子墨水屏",
+    "鸟类识别",
+    "音频检测",
+    "本地AI",
+    "Python",
+    "边缘计算",
+    "创意硬件"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-18T01:48:23+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "arnegiacomo",
+    "stars": 2858,
+    "forks": 69,
+    "daily_stars": 712,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
