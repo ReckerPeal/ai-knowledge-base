@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-b1475d8613",
+  "title": "TencentCloud/CubeSandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/TencentCloud/CubeSandbox",
+  "summary": "腾讯云开源的 CubeSandbox 是一个面向 AI Agent 的即时、并发、安全且轻量级的沙箱环境，使用 Go 语言开发，在 GitHub 上已获得约 1.26 万星标，近期周增星约 543，热度较高。",
+  "content": "CubeSandbox 由腾讯云（TencentCloud）开源，定位为 AI Agent 提供即时启动、高并发、安全隔离且资源轻量的沙箱运行环境。项目采用 Go 语言实现，当前 GitHub 星标数约 12,596，Fork 数约 1,135，近一周新增星标约 543，属于 GitHub 热点中的 Go 语言项目。其核心价值在于解决 AI Agent 执行代码或工具调用时的安全与隔离问题，同时兼顾启动速度与并发能力，适合需要大规模、多租户运行 AI Agent 的场景。",
+  "tags": [
+    "AI Agent",
+    "沙箱",
+    "Go",
+    "腾讯云",
+    "安全隔离",
+    "轻量级",
+    "并发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TencentCloud",
+    "stars": 12596,
+    "forks": 1135,
+    "daily_stars": null,
+    "weekly_stars": 543,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

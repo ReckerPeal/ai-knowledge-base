@@ -1,0 +1,31 @@
+{
+  "id": "20260920-github-c5e41a9b5f",
+  "title": "openai/openai-python",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/openai-python",
+  "summary": "OpenAI 官方发布的 Python 客户端库，用于便捷调用 OpenAI API，涵盖 GPT、DALL·E、Whisper 等模型服务。该库在 GitHub 上拥有超过 3.1 万星标，是 Python 生态中接入 OpenAI 能力的标准工具。",
+  "content": "openai/openai-python 是 OpenAI 官方维护的 Python SDK，旨在为开发者提供与 OpenAI REST API 交互的完整封装。该库支持同步与异步两种调用方式，覆盖聊天补全、图像生成、语音转写、嵌入、微调等核心接口，并内置流式响应、自动重试、超时控制、类型提示等工程化特性。作为官方库，它通常最先适配新模型和新功能，是 Python 开发者集成 OpenAI 服务的首选依赖。仓库当前获得约 31,652 个星标和 5,754 次复刻，日增星标约 12，表明其持续受到社区关注。该库以 Python 为主要语言，遵循语义化版本发布，文档完善，适合从原型验证到生产部署的各类场景。",
+  "tags": [
+    "OpenAI",
+    "Python SDK",
+    "API 客户端",
+    "大语言模型",
+    "官方库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:51:56+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 31652,
+    "forks": 5754,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

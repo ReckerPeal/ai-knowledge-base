@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-7ebc44d006",
+  "title": "charmbracelet/bubbletea",
+  "source": "github_trending",
+  "source_url": "https://github.com/charmbracelet/bubbletea",
+  "summary": "Bubble Tea 是 Charmbracelet 团队用 Go 编写的轻量级 TUI（终端用户界面）框架，基于 Elm 架构模式，帮助开发者以简洁的 API 构建交互式终端应用。该仓库在 GitHub 上拥有超过 4.5 万颗星，是 Go 生态中最受欢迎的终端 UI 框架之一。",
+  "content": "## 项目概述\n\nBubble Tea 是一个用 Go 语言编写的强大且轻量的 TUI（Terminal User Interface，终端用户界面）框架。它由 Charmbracelet 团队开发维护，目前在 GitHub 上已获得约 45,029 颗星和 1,632 次 fork，日增约 18 颗星，属于 GitHub Go 语言方向的热门项目。\n\n## 核心特性\n\n1. **Elm 架构模式**：Bubble Tea 借鉴了 Elm 语言的架构思想，采用 Model-Update-View 的清晰分层模式。开发者只需定义应用状态（Model）、处理消息并更新状态（Update）、以及渲染界面（View），框架负责其余的事件循环与渲染调度。\n\n2. **轻量且强大**：框架本身依赖极少，API 设计简洁直观，同时支持复杂的交互场景，如键盘/鼠标事件处理、窗口尺寸变化响应、异步命令执行等。\n\n3. **命令与消息机制**：通过 Cmd（命令）和 Msg（消息）的抽象，Bubble Tea 能够优雅地处理异步 I/O 操作，例如网络请求、定时器、文件读写等，而不会阻塞 UI 渲染。\n\n4. **丰富的生态组件**：Charmbracelet 围绕 Bubble Tea 构建了完整的工具链，包括 Bubbles（常用 UI 组件库，如列表、输入框、进度条）、Lip Gloss（终端样式与布局库）、Glamour（Markdown 终端渲染）等，开发者可以快速组合出功能完善的终端应用。\n\n5. **跨平台支持**：基于 Go 语言的跨平台特性，Bubble Tea 应用可以在 Linux、macOS、Windows 等主流操作系统上运行。\n\n## 适用场景\n\n- 终端下的交互式 CLI 工具（如 SSH 客户端、数据库管理工具）\n- 系统监控与仪表盘\n- 终端游戏\n- 开发辅助工具（如 Git 客户端、日志查看器）\n- 任何需要丰富终端交互体验的场景\n\n## 技术优势\n\n- **Go 语言原生**：充分利用 Go 的并发模型和跨平台编译能力\n- **测试友好**：Model-Update-View 模式使逻辑与渲染分离，便于单元测试\n- **社区活跃**：Charmbracelet 团队持续维护，生态组件丰富，文档完善\n- **生产验证**：已被众多知名项目采用，如 GitHub CLI 的部分功能、Soft Serve 等\n\n## 总结\n\nBubble Tea 以其优雅的架构设计、简洁的 API 和强大的生态支持，成为 Go 语言终端应用开发的首选框架。对于希望构建高质量终端交互体验的开发者而言，这是一个值得深入学习和使用的项目。",
+  "tags": [
+    "Go",
+    "TUI",
+    "终端框架",
+    "Elm架构",
+    "CLI",
+    "开源项目",
+    "Charmbracelet"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:04+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "charmbracelet",
+    "stars": 45029,
+    "forks": 1632,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

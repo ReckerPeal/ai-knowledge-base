@@ -1,0 +1,32 @@
+{
+  "id": "20260920-github-412373dd75",
+  "title": "tokio-rs/tokio",
+  "source": "github_trending",
+  "source_url": "https://github.com/tokio-rs/tokio",
+  "summary": "Tokio 是 Rust 生态中最主流的异步运行时，为编写可靠、高性能的异步应用提供 I/O、网络、任务调度和定时器等核心能力。该仓库由 tokio-rs 组织维护，拥有超过 3.3 万 Star，是 Rust 异步编程的事实标准基础设施。",
+  "content": "Tokio 是一个用 Rust 编写的异步运行时，旨在帮助开发者构建可靠、高效的异步应用程序。它提供了异步 I/O、网络编程、任务调度、定时器等基础组件，是 Rust 异步生态的核心依赖。\n\n核心特性：\n1. 多线程任务调度器：基于工作窃取（work-stealing）算法，高效利用多核 CPU。\n2. 异步 I/O 与网络：支持 TCP、UDP、Unix 域套接字等，并可与 mio 等底层库协作。\n3. 定时器：提供异步 sleep、interval 等时间相关原语。\n4. 同步原语：包括 Mutex、RwLock、Semaphore、mpsc 通道等异步友好型同步工具。\n5. 与 async/await 语法深度集成：通过 Future 和 Stream 抽象，简化异步代码编写。\n\n生态地位：Tokio 是 Rust 异步编程的事实标准，被 Axum、Hyper、Tonic、Reqwest 等大量知名框架和库作为底层运行时使用。其设计兼顾性能与安全性，适合构建高并发的网络服务、微服务、代理和分布式系统。\n\n社区与维护：由 tokio-rs 组织维护，拥有活跃的社区和详尽的文档（包括官方教程《Tokio Tutorial》）。当前 Star 数约 33,182，Fork 数约 3,557，日增 Star 约 11，表明项目持续受到关注。\n\n适用场景：Web 服务器、数据库客户端、消息队列、实时通信、游戏服务器等需要高吞吐、低延迟的异步场景。\n\n学习建议：建议先阅读官方教程和 API 文档，理解 Future、Executor、Reactor 等核心概念，再通过构建小型网络应用逐步深入。",
+  "tags": [
+    "Rust",
+    "异步运行时",
+    "Tokio",
+    "并发编程",
+    "网络编程",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:02+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "tokio-rs",
+    "stars": 33182,
+    "forks": 3557,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20260920-github-ab6bacc2df",
+  "title": "cactus-compute/needle",
+  "source": "github_trending",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "summary": "cactus-compute/needle 是一个面向微型设备的自动化基础模型，采用 2-bit 量化，体积仅 8-29 MB，可在手机、可穿戴设备、智能家居、机器人、汽车和微控制器上运行，支持工具调用、结构化提取和嵌入生成。",
+  "content": "该仓库由 cactus-compute 开发，使用 Python 语言，目前在 GitHub 上已获得 11505 颗星和 731 次 fork，日增星约 207，属于 GitHub 热点 Python 类别。其核心定位是为资源极度受限的微型设备提供自动化基础模型，通过 2-bit 量化将模型压缩至 8-29 MB，从而能够在手机、可穿戴设备、智能家居、机器人、汽车甚至微控制器等边缘设备上部署。功能上支持工具调用（tool calls）、结构化提取（structured extraction）和嵌入（embeddings），旨在实现端侧智能自动化。该项目的亮点在于极低的资源占用与多场景适用性，适合边缘计算、IoT 和嵌入式 AI 应用。",
+  "tags": [
+    "边缘计算",
+    "微型设备",
+    "自动化基础模型",
+    "2-bit量化",
+    "工具调用",
+    "结构化提取",
+    "嵌入",
+    "Python",
+    "IoT",
+    "嵌入式AI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:51:56+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "cactus-compute",
+    "stars": 11505,
+    "forks": 731,
+    "daily_stars": 207,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

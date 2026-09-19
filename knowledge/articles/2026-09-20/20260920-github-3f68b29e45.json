@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-3f68b29e45",
+  "title": "raine/workmux",
+  "source": "github_trending",
+  "source_url": "https://github.com/raine/workmux",
+  "summary": "raine/workmux 是一个用 Rust 编写的开发者效率工具，将 Git worktrees 与 tmux 窗口结合，实现零摩擦的并行开发工作流。",
+  "content": "raine/workmux 旨在解决多分支并行开发时的上下文切换痛点。它通过将每个 Git worktree 自动映射到独立的 tmux 窗口，让开发者可以在不同分支或任务之间快速切换，而无需手动管理目录和终端会话。项目使用 Rust 编写，兼顾性能与可靠性，目前在 GitHub 上已获得约 2653 颗星和 330 次 fork，周新增星标约 215，属于近期 GitHub 热点中的 Rust 项目。该工具适合需要同时处理多个功能分支、热修复或代码审查的开发者，能显著减少环境准备和切换开销，提升并行开发效率。",
+  "tags": [
+    "Rust",
+    "Git",
+    "tmux",
+    "worktree",
+    "开发效率",
+    "并行开发",
+    "命令行工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:12+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "raine",
+    "stars": 2653,
+    "forks": 330,
+    "daily_stars": null,
+    "weekly_stars": 215,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

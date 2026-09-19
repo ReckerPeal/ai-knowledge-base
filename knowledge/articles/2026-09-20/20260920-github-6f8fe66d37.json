@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-6f8fe66d37",
+  "title": "e2b-dev/runtime",
+  "source": "github_trending",
+  "source_url": "https://github.com/e2b-dev/runtime",
+  "summary": "E2B 运行时是支撑 E2B 云、企业版及本地部署的统一执行环境，使用 Go 语言开发，在 GitHub 上获得 1580 星标，周增 316 星，属于热门 Go 项目。",
+  "content": "E2B（Environment to Build）是一个为 AI 代理和代码解释器提供安全沙箱执行环境的开源平台。e2b-dev/runtime 仓库是 E2B 技术栈的核心运行时组件，负责在云端、企业自托管环境以及开发者本地机器上提供一致的执行能力。该项目使用 Go 语言编写，具备高性能和跨平台特性。当前在 GitHub 上拥有 1580 个星标和 437 个复刻，周新增星标 316 个，显示出较高的社区关注度。该运行时可能涉及容器化、进程隔离、资源限制、网络策略等安全执行机制，是构建 AI 代码执行、自动化代理等应用的关键基础设施。",
+  "tags": [
+    "E2B",
+    "运行时",
+    "Go",
+    "沙箱",
+    "AI 代理",
+    "代码执行",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:15+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "e2b-dev",
+    "stars": 1580,
+    "forks": 437,
+    "daily_stars": null,
+    "weekly_stars": 316,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-5b45050ae0",
+  "title": "cilium/cilium",
+  "source": "github_trending",
+  "source_url": "https://github.com/cilium/cilium",
+  "summary": "Cilium 是一个基于 eBPF 技术的开源项目，为云原生环境提供高性能的网络、安全与可观测性能力，是 Kubernetes 生态中重要的 CNI 与安全方案。",
+  "content": "Cilium 由 cilium 组织维护，主要使用 Go 语言开发，当前在 GitHub 上获得约 25354 个 Star 和 4082 个 Fork，近期日增约 11 Star、周增约 351 Star，属于 GitHub 热点中的 Go 语言项目。其核心定位是“基于 eBPF 的网络、安全与可观测性”，即利用 Linux 内核的 eBPF 技术，在不修改应用代码的情况下实现高效的网络连接、细粒度安全策略以及深度可观测性。Cilium 常作为 Kubernetes 的 CNI 插件使用，提供 L3/L4/L7 网络策略、负载均衡、服务网格加速、透明加密以及 Hubble 可观测性组件等能力。相比传统 iptables 方案，eBPF 带来更低的性能开销和更强的可编程性，适合大规模容器与微服务场景。该项目社区活跃、生态成熟，被众多企业用于生产环境，是云原生网络与安全领域的重要基础设施。",
+  "tags": [
+    "eBPF",
+    "云原生",
+    "网络安全",
+    "可观测性",
+    "Kubernetes",
+    "CNI",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:04+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "cilium",
+    "stars": 25354,
+    "forks": 4082,
+    "daily_stars": 11,
+    "weekly_stars": 351,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

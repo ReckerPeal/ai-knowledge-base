@@ -1,0 +1,34 @@
+{
+  "id": "20260920-github-983f23e993",
+  "title": "SnailSploit/Claude-Red",
+  "source": "github_trending",
+  "source_url": "https://github.com/SnailSploit/Claude-Red",
+  "summary": "Claude-Red 是一个面向 Claude skills 系统的攻击性安全技能库，通过结构化的 SKILL.md 文件为 Claude 注入专家级渗透测试方法论，覆盖 SQL 注入、Shellcode、EDR 绕过、漏洞利用开发等攻击面。项目由 SnailSploit 维护，使用 Python 编写，在 GitHub 上已获得约 6282 星标和 811 次 fork，近期周增星约 2995，热度较高。",
+  "content": "## 项目定位\nClaude-Red 是一个为 Claude skills 系统量身定制的攻击性安全（offensive security）技能集合。它并非传统意义上的漏洞利用工具，而是一套「提示词工程 + 安全方法论」的知识库：每个技能都以结构化的 SKILL.md 文件形式存在，用于在特定攻击面上为 Claude 提供专家级的方法论引导。\n\n## 核心机制\n- **SKILL.md 结构化技能**：每个技能文件对应一个明确的攻击面，内容组织为可被 Claude 直接加载和遵循的方法论指南。\n- **覆盖范围广**：从 SQLi（SQL 注入）到 shellcode 编写，从 EDR 绕过到 exploit development（漏洞利用开发），基本覆盖红队/渗透测试的主要技术领域。\n- **与 Claude skills 系统集成**：依赖 Claude 的 skills 加载机制，使模型在特定任务中表现出接近领域专家的推理与执行路径。\n\n## 技术特征\n- 主语言为 Python，可能包含技能加载、组织或辅助脚本。\n- 项目本质是「知识/提示词资产」而非可执行攻击工具，因此其价值取决于技能文件的质量、覆盖广度与 Claude 的配合效果。\n\n## 社区热度\n- Stars 约 6282，Forks 约 811，周增星约 2995，说明近期增长迅速，属于 GitHub 热点项目。\n- 高热度反映出 AI 辅助安全研究（AI for offensive security）这一方向的关注度正在上升。\n\n## 适用人群与风险\n- 适合红队成员、渗透测试人员、安全研究者以及研究 LLM 在攻防场景中能力边界的人员。\n- 由于内容涉及攻击性技术，使用时需注意合规与授权边界，仅限合法授权的安全测试与教育研究场景。\n\n## 评价\n该项目在「LLM + 安全方法论」交叉领域具有较好的创新性和实用性，结构清晰、覆盖面广，且社区反馈积极。但作为技能库，其实际效果高度依赖 Claude 模型能力与技能文件质量，且存在被滥用的潜在风险，因此评分给予较高但非满分的评价。",
+  "tags": [
+    "AI安全",
+    "Claude Skills",
+    "攻击性安全",
+    "渗透测试",
+    "提示词工程",
+    "红队工具",
+    "Python",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:07+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "SnailSploit",
+    "stars": 6282,
+    "forks": 811,
+    "daily_stars": null,
+    "weekly_stars": 2995,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

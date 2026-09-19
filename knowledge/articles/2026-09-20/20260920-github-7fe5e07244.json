@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-7fe5e07244",
+  "title": "usememos/memos",
+  "source": "github_trending",
+  "source_url": "https://github.com/usememos/memos",
+  "summary": "usememos/memos 是一个开源、可自托管的轻量级笔记工具，主打快速记录与 Markdown 原生支持，数据完全由用户掌控。项目使用 Go 语言开发，在 GitHub 上拥有超过 6.3 万星标，近期周增约 270 星，属于高热度 Go 语言开源项目。",
+  "content": "## 项目定位\n\nusememos/memos 是一款面向「快速捕捉」场景设计的开源笔记应用。与 Notion、Obsidian 等重型知识库不同，它强调轻量、即时记录，用户可以像发微博或写便签一样快速保存想法，随后再通过 Markdown 进行整理和扩展。\n\n## 核心特性\n\n- **Markdown 原生**：所有笔记以 Markdown 格式存储，便于迁移、版本管理和二次处理，不绑定私有格式。\n- **自托管与数据主权**：支持自行部署，数据保存在自己的服务器上，满足隐私敏感用户和团队的需求。\n- **轻量快速**：使用 Go 语言编写，单二进制部署，资源占用低，启动和响应速度快。\n- **快速捕捉**：交互设计围绕「随手记」展开，降低记录门槛，适合碎片化灵感收集。\n\n## 技术栈与社区表现\n\n项目主要语言为 Go，后端性能与部署便利性是其显著优势。当前 GitHub 星标数约 63,172，Fork 数约 4,771，周增星标约 270，说明项目仍保持活跃的关注度和社区增长。\n\n## 适用人群\n\n- 希望数据自主可控、不愿将笔记托管在第三方云服务的个人用户；\n- 需要轻量级内部知识记录工具的团队；\n- 喜欢 Markdown 工作流、追求简洁工具链的开发者。\n\n## 综合评价\n\nusememos/memos 在「自托管笔记」这一细分方向上有清晰定位，凭借 Go 带来的部署优势和 Markdown 原生理念，形成了与重型笔记软件差异化的竞争力。高星标数与持续增长表明其社区认可度较高，适合作为个人或小团队的知识记录基础设施。",
+  "tags": [
+    "笔记工具",
+    "自托管",
+    "Markdown",
+    "Go",
+    "开源",
+    "知识管理",
+    "轻量级"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:15+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "usememos",
+    "stars": 63172,
+    "forks": 4771,
+    "daily_stars": null,
+    "weekly_stars": 270,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

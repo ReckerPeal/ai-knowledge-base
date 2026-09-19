@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-5821c3a262",
+  "title": "cloudflare/cloudflared",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/cloudflared",
+  "summary": "cloudflared 是 Cloudflare 官方开源的隧道客户端，使用 Go 语言编写，用于在本地服务与 Cloudflare 边缘网络之间建立安全、加密的隧道连接，无需开放入站端口即可将内网服务暴露到公网。",
+  "content": "## 项目概述\n\ncloudflared 是 Cloudflare 官方推出的命令行工具，作为 Cloudflare Tunnel（原 Argo Tunnel）的客户端实现。它通过在本地主机与 Cloudflare 全球边缘网络之间建立出站（outbound-only）加密隧道，使内部服务无需暴露公网 IP 或开放防火墙入站端口即可安全对外提供服务。\n\n## 核心功能\n\n1. **安全隧道连接**：客户端主动向 Cloudflare 边缘发起连接，绕过 NAT 和防火墙限制，避免开放入站端口带来的攻击面。\n2. **多协议支持**：支持 HTTP/HTTPS、TCP、SSH、RDP、SMB 等多种协议流量的代理转发。\n3. **DNS 路由**：可结合 Cloudflare DNS 将域名流量自动路由至隧道后端服务。\n4. **访问控制**：与 Cloudflare Access 集成，实现零信任（Zero Trust）身份验证与访问策略。\n5. **高可用与负载均衡**：支持多副本连接器部署，自动在多个隧道端点间进行流量分发与故障转移。\n6. **本地配置与远程管理**：既可通过本地配置文件运行，也可通过 Cloudflare Dashboard 进行远程编排。\n\n## 技术特点\n\n- 使用 Go 语言开发，编译为单一静态二进制文件，跨平台部署便捷（Linux、macOS、Windows、Docker 等）。\n- 采用 QUIC 与 HTTP/2 作为传输层协议，兼顾低延迟与连接可靠性。\n- 与 Cloudflare 全球网络深度集成，天然具备 DDoS 防护与边缘加速能力。\n\n## 典型使用场景\n\n- 将家庭实验室或内网 Web 服务安全发布到公网。\n- 替代传统 VPN，实现零信任远程访问。\n- 在 Kubernetes 集群中作为 Ingress 控制器（cloudflared 支持作为 k8s 部署）。\n- 为开发环境提供临时公网访问入口。\n\n## 社区与生态\n\n该项目在 GitHub 上拥有约 1.58 万 Star 和 1400+ Fork，日增约 50 Star，属于 Cloudflare 官方维护的活跃项目，被广泛用于生产环境的零信任网络架构中。",
+  "tags": [
+    "Cloudflare",
+    "隧道",
+    "零信任",
+    "网络安全",
+    "Go",
+    "反向代理",
+    "内网穿透"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:04+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 15759,
+    "forks": 1446,
+    "daily_stars": 50,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

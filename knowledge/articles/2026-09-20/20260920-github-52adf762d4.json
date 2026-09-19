@@ -1,0 +1,32 @@
+{
+  "id": "20260920-github-52adf762d4",
+  "title": "google-labs-code/stitch-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-labs-code/stitch-skills",
+  "summary": "Google Labs 开源的 stitch-skills 是一个面向 Stitch MCP 服务器的 Agent Skills 技能库，遵循 Agent Skills 开放标准，可兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等主流编码智能体。项目以 TypeScript 实现，已获 8342 星标，属于 GitHub 热点项目。",
+  "content": "stitch-skills 由 google-labs-code 组织发布，定位为与 Stitch MCP 服务器协同工作的 Agent Skills 库。其核心价值在于标准化：每个技能都遵循 Agent Skills 开放标准，从而能够跨多种编码智能体复用，包括 Antigravity、Gemini CLI、Claude Code 和 Cursor。这种设计降低了技能开发与迁移成本，使开发者可以一次编写、多端运行。项目采用 TypeScript 语言，当前获得约 8342 个 stars 和 1108 个 forks，日增约 10 星，表明社区关注度较高但增长趋于平稳。从生态角度看，该项目顺应了 MCP（Model Context Protocol）与 Agent Skills 标准化趋势，有望成为连接 Stitch 服务与各类 AI 编码工具的基础设施组件。",
+  "tags": [
+    "Agent Skills",
+    "MCP",
+    "TypeScript",
+    "Google Labs",
+    "编码智能体",
+    "开放标准"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:51:59+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "google-labs-code",
+    "stars": 8342,
+    "forks": 1108,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

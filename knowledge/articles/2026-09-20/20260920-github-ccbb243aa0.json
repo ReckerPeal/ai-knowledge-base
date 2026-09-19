@@ -1,0 +1,31 @@
+{
+  "id": "20260920-github-ccbb243aa0",
+  "title": "rui314/mold",
+  "source": "github_trending",
+  "source_url": "https://github.com/rui314/mold",
+  "summary": "mold 是一个用 Rust 编写的高性能现代链接器，旨在替代传统 Unix 链接器，显著提升编译链接速度。",
+  "content": "mold 由知名开发者 rui314（Rui Ueyama，LLD 链接器作者）创建，是一个用 Rust 语言实现的现代链接器。它兼容 GNU ld 和 LLVM lld 的命令行接口，能够直接替换现有链接器，在大型项目上可实现数倍的链接速度提升。该项目在 GitHub 上已获得超过 1.7 万颗星，日增约 69 星，周增约 156 星，属于 Rust 生态中的热门基础设施项目。mold 利用 Rust 的内存安全和高性能特性，结合并行化算法，大幅缩短了 C/C++ 等语言的构建时间，尤其适合大型代码库的持续集成场景。",
+  "tags": [
+    "Rust",
+    "链接器",
+    "构建工具",
+    "性能优化",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:02+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "rui314",
+    "stars": 17153,
+    "forks": 558,
+    "daily_stars": 69,
+    "weekly_stars": 156,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

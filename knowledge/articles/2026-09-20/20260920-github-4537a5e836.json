@@ -1,0 +1,34 @@
+{
+  "id": "20260920-github-4537a5e836",
+  "title": "cline/cline",
+  "source": "github_trending",
+  "source_url": "https://github.com/cline/cline",
+  "summary": "cline/cline 是一个基于 TypeScript 开发的开源自主编码代理项目，提供 SDK、IDE 扩展和 CLI 助手三种使用形态，旨在让 AI 自主完成编码任务。项目在 GitHub 上拥有约 6.9 万星标，周增约 1090 星，热度极高，是当前 AI 编程代理领域最受关注的项目之一。",
+  "content": "## 项目定位\n\ncline/cline 将自身定位为「自主编码代理（Autonomous Coding Agent）」，并以三种形态对外交付：\n\n1. **SDK**：供开发者集成到自有工具链或产品中，把编码代理能力嵌入现有工作流。\n2. **IDE 扩展**：直接嵌入编辑器，在开发者的编码环境中以代理方式执行任务。\n3. **CLI 助手**：面向终端场景，支持命令行驱动的自动化编码操作。\n\n这种「一套核心能力、多种交付形态」的设计，使其既能服务个人开发者，也能被团队和平台方二次集成。\n\n## 技术特征\n\n- **语言与生态**：项目主语言为 TypeScript，天然适配 VS Code 等主流编辑器扩展生态，也便于通过 npm 分发 SDK 与 CLI。\n- **代理范式**：核心是让模型自主规划并执行多步编码任务，而非仅做单轮代码补全，属于「Agentic Coding」方向。\n- **开源属性**：仓库公开，社区可直接查看实现、提交 issue 与 PR，迭代速度快。\n\n## 社区热度\n\n- 星标数约 **68,765**，在 TypeScript 类目中属于头部项目。\n- Fork 数约 **7,438**，说明有相当规模的开发者在其基础上做二次开发或定制。\n- 周新增星标约 **1,090**，持续保持高关注度，并非一次性爆红后沉寂的项目。\n\n## 适用场景\n\n- 个人开发者希望用 AI 代理自动完成重构、修 bug、写测试等重复性编码工作。\n- 团队希望把编码代理接入内部研发平台或 CI/CD 流程。\n- 工具厂商希望以 SDK 形式快速获得「自主编码」能力，而不必从零构建代理框架。\n\n## 观察与判断\n\ncline/cline 的价值不只在于「又一个 AI 编程工具」，而在于它把自主编码代理同时做成了可嵌入的 SDK、可即用的 IDE 扩展和可脚本化的 CLI，覆盖了从终端用户到平台集成方的完整链路。结合其星标体量与周增速，它已经处于 AI 编程代理赛道的第一梯队，后续值得关注其模型兼容性、任务执行可靠性以及企业级集成能力。",
+  "tags": [
+    "AI 编程代理",
+    "TypeScript",
+    "IDE 扩展",
+    "CLI 工具",
+    "SDK",
+    "开源",
+    "GitHub 热点",
+    "自主编码"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:10+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "cline",
+    "stars": 68765,
+    "forks": 7438,
+    "daily_stars": null,
+    "weekly_stars": 1090,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

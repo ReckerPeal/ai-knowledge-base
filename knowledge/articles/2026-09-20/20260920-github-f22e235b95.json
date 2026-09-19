@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-f22e235b95",
+  "title": "kubernetes-sigs/agent-sandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "summary": "kubernetes-sigs/agent-sandbox 是 Kubernetes SIG 社区推出的 Go 语言项目，专注于简化隔离、有状态、单例工作负载的管理，主要面向 AI Agent 运行时与强化学习等场景。",
+  "content": "该项目由 Kubernetes 官方 SIG 组织维护，定位为 AI Agent 与强化学习工作负载的沙箱运行环境。其核心能力是管理「隔离、有状态、单例」类型的工作负载：隔离性保证 Agent 执行环境互不干扰，有状态特性支持会话上下文与持久化数据，单例语义则确保每个 Agent 实例唯一且可被稳定寻址。项目采用 Go 语言实现，天然契合 Kubernetes 生态，便于以 CRD、控制器或 Operator 形式集成到现有集群中。当前仓库已获得约 3947 个 Star、518 个 Fork，近一周新增约 207 个 Star，说明其在 AI 基础设施领域正获得持续关注。典型使用场景包括：为 LLM Agent 提供持久化运行沙箱、为 RL 训练任务提供隔离环境、以及需要长生命周期且状态保持的单实例服务编排。",
+  "tags": [
+    "Kubernetes",
+    "AI Agent",
+    "沙箱",
+    "强化学习",
+    "Go",
+    "云原生",
+    "有状态工作负载"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:15+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 3947,
+    "forks": 518,
+    "daily_stars": null,
+    "weekly_stars": 207,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

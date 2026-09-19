@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-18f78d2120",
+  "title": "syncthing/syncthing",
+  "source": "github_trending",
+  "source_url": "https://github.com/syncthing/syncthing",
+  "summary": "Syncthing 是一个用 Go 语言编写的开源持续文件同步工具，支持多设备间点对点同步，无需中心服务器。项目在 GitHub 上拥有 88,775 颗星，周增 290 星，社区活跃度高，是去中心化文件同步领域的代表性项目。",
+  "content": "Syncthing 是一款开源、跨平台的持续文件同步工具，采用 Go 语言开发。其核心特点是去中心化架构，设备之间直接进行点对点（P2P）通信，不依赖任何中央服务器，从而保障数据隐私与安全。它支持多设备同步、版本控制、冲突解决、TLS 加密传输以及中继和发现服务。项目在 GitHub 上非常受欢迎，目前获得 88,775 个 Star 和 5,486 个 Fork，周新增 Star 约 290 个，显示出持续的社区关注度。Syncthing 适用于个人文件备份、团队协作、服务器数据同步等多种场景，是替代 Dropbox、Google Drive 等云同步服务的自托管方案之一。其代码库结构清晰，文档完善，支持 Windows、macOS、Linux、BSD 等多种操作系统。",
+  "tags": [
+    "文件同步",
+    "去中心化",
+    "P2P",
+    "Go",
+    "开源",
+    "跨平台",
+    "隐私安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:15+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "syncthing",
+    "stars": 88775,
+    "forks": 5486,
+    "daily_stars": null,
+    "weekly_stars": 290,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

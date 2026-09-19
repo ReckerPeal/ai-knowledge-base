@@ -1,0 +1,33 @@
+{
+  "id": "20260920-github-12da92c3ea",
+  "title": "karmada-io/karmada",
+  "source": "github_trending",
+  "source_url": "https://github.com/karmada-io/karmada",
+  "summary": "Karmada 是 CNCF 旗下的开源多集群 Kubernetes 编排项目，支持跨云、跨集群的应用分发与调度，采用 Go 语言开发，当前获得约 5670 颗星标。",
+  "content": "Karmada（Kubernetes Armada）由华为云开源并捐赠给 CNCF，旨在解决多云、多集群环境下的 Kubernetes 应用统一编排问题。其核心能力包括：1）多集群应用分发：通过 PropagationPolicy 和 OverridePolicy 将工作负载按策略分发到不同集群；2）跨集群调度：支持基于集群亲和性、污点容忍、副本拆分等高级调度策略；3）集群生命周期管理：支持集群注册、注销与健康检查；4）故障迁移与弹性：当集群故障时自动将应用迁移到健康集群；5）与原生 Kubernetes API 兼容：无需修改现有应用即可实现多集群管理。该项目采用 Go 语言编写，拥有活跃的社区贡献，是当前多集群管理领域的重要开源方案之一。",
+  "tags": [
+    "Kubernetes",
+    "多集群",
+    "多云",
+    "容器编排",
+    "CNCF",
+    "Go",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-20T00:52:04+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "karmada-io",
+    "stars": 5670,
+    "forks": 1200,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
