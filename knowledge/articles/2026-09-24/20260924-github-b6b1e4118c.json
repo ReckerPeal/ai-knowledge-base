@@ -1,0 +1,30 @@
+{
+  "id": "20260924-github-b6b1e4118c",
+  "title": "Better prompt caching for GPT-6",
+  "source": "rss",
+  "source_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "summary": "OpenAI 发布 GPT-6 提示缓存改进，通过更高缓存命中率、新诊断工具、显式断点和控制选项降低延迟与成本。",
+  "content": "该来源为 OpenAI 官方博客文章，介绍 GPT-6 在提示缓存（prompt caching）方面的改进。核心内容包括：更高的缓存命中率、新增诊断能力、显式缓存断点（explicit breakpoints），以及用于降低延迟和成本的控制选项。文章面向开发者与 API 用户，旨在帮助其优化提示工程与推理成本。由于来源为官方博客而非 GitHub 仓库，缺少代码、星标等开源指标，评估主要基于技术影响力和实用性。",
+  "tags": [
+    "GPT-6",
+    "提示缓存",
+    "OpenAI",
+    "延迟优化",
+    "成本优化",
+    "API"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-22T21:00:00+00:00",
+  "collected_at": "2026-09-24T02:02:38+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

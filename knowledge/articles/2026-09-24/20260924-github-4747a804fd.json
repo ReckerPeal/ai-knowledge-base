@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-4747a804fd",
+  "title": "stablyai/orca",
+  "source": "github_trending",
+  "source_url": "https://github.com/stablyai/orca",
+  "summary": "Orca 是 StablyAI 推出的 ADE（Agent Development Environment），用于管理并行运行的编码智能体集群，支持用户自带订阅运行任意编码智能体，并提供桌面端、移动端和远程运行时。",
+  "content": "Orca 是一个面向编码智能体（coding agent）的 ADE（Agent Development Environment，智能体开发环境），核心定位是帮助开发者同时管理、调度和运行多个并行工作的编码智能体，形成“智能体集群（fleet of parallel agents）”。其关键特性包括：支持运行任意编码智能体，并允许用户使用自己的订阅（bring your own subscription），从而避免被单一模型或平台绑定；提供桌面端、移动端以及远程运行时（remote runtime）三种使用形态，方便在不同场景下接入和监控智能体任务。项目使用 TypeScript 开发，在 GitHub 上拥有约 7.6 万 stars 和 5000+ forks，周新增 stars 约 6200，属于近期 GitHub 热点项目，热度较高。从技术方向看，Orca 处于 AI 编码智能体基础设施与多智能体编排的交叉领域，适合需要并行执行多个编码任务、统一管理智能体生命周期的开发者与团队。",
+  "tags": [
+    "AI Agent",
+    "编码智能体",
+    "多智能体编排",
+    "ADE",
+    "TypeScript",
+    "开发者工具",
+    "远程运行时"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "stablyai",
+    "stars": 76429,
+    "forks": 5009,
+    "daily_stars": null,
+    "weekly_stars": 6205,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

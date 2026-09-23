@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-dd09a96a58",
+  "title": "google/ax",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/ax",
+  "summary": "Google 开源的 Agentic 编排运行时 ax，使用 Go 语言编写，在 GitHub 上热度极高，单日新增 1542 星，总星数达 8758，是构建智能体（Agent）工作流的重要基础设施项目。",
+  "content": "google/ax 是 Google 推出的开源 Agentic 编排运行时（open agentic orchestration runtime），旨在为 AI 智能体（Agent）提供统一的编排与执行环境。项目采用 Go 语言开发，具备高性能、并发友好和易于部署的特点。从 GitHub 数据来看，该项目当前获得 8758 个 Star、406 个 Fork，单日新增 Star 高达 1542，显示出社区极高的关注度和爆发式增长趋势。作为 Google 出品的智能体运行时，ax 可能提供 Agent 生命周期管理、任务调度、工具调用、多 Agent 协作等核心能力，有望成为 AI Agent 基础设施领域的重要参与者。其开源策略和 Go 生态的结合，将吸引大量开发者和企业用户参与生态建设。",
+  "tags": [
+    "AI Agent",
+    "编排运行时",
+    "Go",
+    "Google",
+    "开源",
+    "智能体基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "google",
+    "stars": 8758,
+    "forks": 406,
+    "daily_stars": 1542,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

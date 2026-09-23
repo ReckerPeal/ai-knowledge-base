@@ -1,0 +1,35 @@
+{
+  "id": "20260924-github-f34c241277",
+  "title": "Comfy-Org/ComfyUI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "summary": "ComfyUI 是由 Comfy-Org 维护的基于节点/图界面的扩散模型 GUI、API 与后端，以高度模块化著称，在 GitHub 上拥有约 13.47 万星标，是当前最流行的 AI 图像生成工作流工具之一。",
+  "content": "ComfyUI 是一个面向扩散模型（Diffusion Model）的开源图形化工具，采用节点/图（graph/nodes）交互范式，用户通过拖拽连接节点来构建图像生成流水线。项目同时提供 GUI、API 与后端三层能力：GUI 负责可视化编排，API 便于程序化调用与集成，后端负责模型加载与推理执行。其核心优势在于模块化设计，支持灵活组合采样器、模型、ControlNet、LoRA 等组件，并可通过自定义节点扩展功能，广泛用于 Stable Diffusion 等扩散模型的推理与工作流自动化。仓库语言为 Python，作者为 Comfy-Org，当前星标约 134,700，Fork 约 15,949，单日新增星标约 203，属于 GitHub 热点中的 Python 类项目，社区活跃度和生态扩展性均处于领先水平。",
+  "tags": [
+    "ComfyUI",
+    "扩散模型",
+    "节点式工作流",
+    "AI 图像生成",
+    "Stable Diffusion",
+    "Python",
+    "GUI",
+    "API",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:17+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "Comfy-Org",
+    "stars": 134700,
+    "forks": 15949,
+    "daily_stars": 203,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

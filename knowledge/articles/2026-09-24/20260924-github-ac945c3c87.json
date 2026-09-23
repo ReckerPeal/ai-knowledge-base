@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-ac945c3c87",
+  "title": "browser-use/video-use",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/video-use",
+  "summary": "browser-use/video-use 是一个用 Python 编写的开源项目，旨在让用户通过编码代理（coding agents）来编辑视频，将视频剪辑流程转化为可编程、可自动化的任务。项目由 browser-use 团队开发，在 GitHub 上已获得超过 2.6 万颗星，日增星约 745，热度极高，代表了 AI 代理向多媒体创作领域延伸的新趋势。",
+  "content": "## 项目定位\n\nbrowser-use/video-use 的核心思路是「用编码代理编辑视频」。它把视频剪辑这一传统上依赖图形界面手动操作的工作，转化为由 AI 编码代理驱动的可编程流程。开发者可以用代码描述剪辑意图，由代理自动完成素材处理、时间线编排、转场与导出等操作。\n\n## 关键信息\n\n- **作者/组织**：browser-use，该团队此前以浏览器自动化代理项目闻名，此次将代理能力扩展到视频领域。\n- **语言**：Python。\n- **热度**：约 26,382 stars、3,156 forks，日增约 745 stars，属于 GitHub Trending 中的高热度项目。\n- **分类**：GitHub 热点 · Python。\n\n## 技术意义\n\n1. **代理能力外延**：从浏览器操作、代码生成延伸到视频编辑，说明通用编码代理正在进入创意生产工具链。\n2. **视频编辑可编程化**：以代码/自然语言驱动剪辑，降低了批量处理、模板化生产与自动化流水线的门槛。\n3. **生态协同**：与 browser-use 既有代理框架可能形成协同，例如代理抓取素材、生成脚本、再自动剪辑成片。\n\n## 适用场景\n\n- 批量短视频生成与模板化剪辑；\n- 结合 AI 生成素材的自动化内容生产；\n- 开发者构建视频处理 Agent 工作流；\n- 研究编码代理在多媒体任务中的能力边界。\n\n## 关注建议\n\n该项目热度高、增长快，适合关注 AI Agent 与内容创作交叉方向的开发者。建议进一步查看其 README、依赖与示例，评估其剪辑能力覆盖范围（如格式支持、时间线控制粒度、是否依赖外部模型或渲染引擎）以及生产可用性。",
+  "tags": [
+    "AI Agent",
+    "视频编辑",
+    "Python",
+    "自动化",
+    "编码代理",
+    "GitHub 热点",
+    "内容创作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:17+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "browser-use",
+    "stars": 26382,
+    "forks": 3156,
+    "daily_stars": 745,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

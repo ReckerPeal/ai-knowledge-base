@@ -1,0 +1,36 @@
+{
+  "id": "20260924-github-f38f65c907",
+  "title": "makepad/makepad",
+  "source": "github_trending",
+  "source_url": "https://github.com/makepad/makepad",
+  "summary": "Makepad 是一个基于 Rust 的创意软件开发平台，支持编译到 WebAssembly/WebGL、macOS/Metal、Windows/DX11 和 Linux/OpenGL，实现跨平台图形与 UI 开发。",
+  "content": "Makepad 是一个面向创意开发者的 Rust 平台，核心目标是用一套代码跨多个图形后端运行。它能够编译到 WebAssembly + WebGL、macOS + Metal、Windows + DirectX 11 以及 Linux + OpenGL，适合构建高性能 UI、交互式图形应用和创意工具。项目在 GitHub 上拥有约 7,067 个 Star 和 388 个 Fork，近期周增约 238 个 Star，属于 Rust 生态中较受关注的图形与 UI 框架。其技术价值在于将 Rust 的安全性与跨平台图形渲染能力结合，降低多端创意应用的开发与部署成本。",
+  "tags": [
+    "Rust",
+    "跨平台",
+    "WebAssembly",
+    "WebGL",
+    "Metal",
+    "DirectX",
+    "OpenGL",
+    "图形渲染",
+    "UI框架",
+    "创意开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "makepad",
+    "stars": 7067,
+    "forks": 388,
+    "daily_stars": null,
+    "weekly_stars": 238,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

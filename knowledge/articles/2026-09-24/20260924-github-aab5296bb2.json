@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-aab5296bb2",
+  "title": "Fission-AI/OpenSpec",
+  "source": "github_trending",
+  "source_url": "https://github.com/Fission-AI/OpenSpec",
+  "summary": "OpenSpec 是 Fission-AI 推出的面向 AI 编码助手的规范驱动开发（SDD）框架，使用 TypeScript 编写，在 GitHub 上已获得近 7 万星标，周增约 1558 星，属于高热度 AI 开发工具项目。",
+  "content": "OpenSpec 由 Fission-AI 开源，核心定位是为 AI 编码助手提供规范驱动开发（Spec-driven development, SDD）能力。其基本思路是先以结构化规范描述需求与约束，再让 AI 编码助手依据规范生成、修改和验证代码，从而提升 AI 生成代码的可控性、一致性与可维护性。项目使用 TypeScript 实现，适合集成到现代前端/Node.js 工具链中。从社区数据看，仓库累计星标约 69997，复刻约 4788，周新增星标约 1558，表明其在 AI 辅助编程领域具有较高关注度和活跃度。该项目的价值在于把“先写规范、再写代码”的工程实践引入 AI 编码流程，有助于减少需求漂移、降低返工成本，并为团队协作提供可审查的规范基线。适用场景包括 AI 辅助功能开发、代码生成流程治理、需求到代码的可追溯管理，以及将规范作为 AI 助手上下文输入的工作流。",
+  "tags": [
+    "AI 编码助手",
+    "规范驱动开发",
+    "TypeScript",
+    "代码生成",
+    "开发工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Fission-AI",
+    "stars": 69997,
+    "forks": 4788,
+    "daily_stars": null,
+    "weekly_stars": 1558,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

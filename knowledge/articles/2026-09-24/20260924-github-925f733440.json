@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-925f733440",
+  "title": "junegunn/fzf",
+  "source": "github_trending",
+  "source_url": "https://github.com/junegunn/fzf",
+  "summary": "fzf 是一个用 Go 编写的命令行模糊查找器，支持交互式过滤任意列表（文件、历史命令、进程等），以极快的匹配速度和高度可定制性著称，是终端用户提升效率的经典工具。",
+  "content": "fzf（junegunn/fzf）是 GitHub 上最受欢迎的命令行工具之一，当前获得约 83,217 颗星标和 3,339 次 fork，近期每周新增约 252 颗星，热度持续稳定。它使用 Go 语言开发，核心功能是提供一个通用的交互式模糊查找界面：用户输入若干字符，fzf 即可从候选列表中实时筛选并高亮匹配项，支持多选、预览、排序、自定义键位绑定等。\n\nfzf 的典型使用场景包括：在 shell 中模糊查找文件或目录并直接打开、搜索命令历史、切换 Git 分支、选择进程并终止、过滤日志等。它通过管道与标准输入输出无缝集成，例如 `vim $(fzf)` 或 `kill -9 $(ps -ef | fzf | awk '{print $2}')`，因此可以嵌入几乎任何命令行工作流。\n\n项目提供丰富的配置能力：通过环境变量（如 FZF_DEFAULT_OPTS）和命令行参数调整布局、颜色、预览窗口、模糊匹配算法（如 V2 算法）等；同时附带 shell 集成脚本，支持 bash、zsh、fish 等，实现 Ctrl-R 历史搜索、Ctrl-T 文件补全、Alt-C 目录跳转等开箱即用功能。\n\n从技术角度看，fzf 采用 Go 编写，具备跨平台、单二进制、无运行时依赖的特点，性能优异，即使面对数十万条候选数据也能保持流畅响应。其架构将输入解析、匹配引擎与终端 UI 分离，便于扩展和嵌入其他程序。\n\n作为一款成熟的开源项目，fzf 拥有活跃的社区、完善的文档和大量第三方集成（如 Vim/Neovim 插件、tmux 集成等），是命令行效率工具生态中的基础设施级项目。",
+  "tags": [
+    "命令行工具",
+    "模糊查找",
+    "Go",
+    "终端效率",
+    "开源项目",
+    "shell 集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:38+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "junegunn",
+    "stars": 83217,
+    "forks": 3339,
+    "daily_stars": null,
+    "weekly_stars": 252,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

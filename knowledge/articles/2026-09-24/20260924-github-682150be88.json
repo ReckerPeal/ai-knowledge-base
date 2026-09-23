@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-682150be88",
+  "title": "cloudflare/quiche",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/quiche",
+  "summary": "Cloudflare 开源的 quiche 是 QUIC 传输协议与 HTTP/3 的 Rust 实现，兼具高性能与内存安全，是构建现代低延迟网络服务的重要基础设施。",
+  "content": "quiche 是 Cloudflare 推出的 QUIC 协议与 HTTP/3 的 Rust 实现，项目名取自「savoury」的谐音梗，体现了其轻量、可口的工程风格。QUIC 是基于 UDP 的新一代传输层协议，内置 TLS 1.3 加密、多路复用、0-RTT 握手与连接迁移等特性，旨在替代 TCP+TLS 的经典组合，显著降低网络延迟。quiche 提供 Rust 库与 C 语言 API，便于集成到各类服务端与客户端应用中。该项目由 Cloudflare 维护，已获得约 1.25 万 Star、1145 次 Fork，近期日增约 49 Star、周增约 661 Star，热度稳定。其核心优势包括：纯 Rust 实现带来的内存安全与并发性能、对 HTTP/3 的完整支持、可配置的拥塞控制与流量控制策略，以及在生产环境（如 Cloudflare 边缘网络）中的大规模验证。对于需要构建高性能代理、CDN、API 网关或自定义网络协议的开发者而言，quiche 是值得深入研究的参考实现。",
+  "tags": [
+    "QUIC",
+    "HTTP/3",
+    "Rust",
+    "网络协议",
+    "Cloudflare",
+    "传输层",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:23+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 12526,
+    "forks": 1145,
+    "daily_stars": 49,
+    "weekly_stars": 661,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

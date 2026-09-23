@@ -1,0 +1,29 @@
+{
+  "id": "20260924-github-015dbc4f82",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "rss",
+  "source_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "summary": "本文介绍 Linear 团队在 AI 编码普及后，CI（持续集成）流程成为开发瓶颈，并分享了他们如何重构 CI 以跟上 AI 生成代码速度的实践经验。文章在 Hacker News 上引发广泛讨论（312 分，399 条评论）。",
+  "content": "随着 AI 编码工具（如 Copilot、Cursor 等）的普及，代码生成速度大幅提升，但传统的 CI 流水线却无法同步加速，导致 CI 成为新的瓶颈。Linear 团队在文章中详细描述了这一问题：AI 辅助编码使得提交频率和代码量激增，原有的 CI 配置（如串行任务、缓慢的测试套件、有限的并行度）导致等待时间过长，严重拖慢开发迭代。他们重新设计了 CI 架构，可能涉及并行化测试、缓存优化、按需运行、分布式执行、更快的反馈循环等策略，以确保 CI 能够匹配 AI 时代的开发节奏。文章还讨论了权衡取舍，如成本、复杂度与速度之间的平衡。该内容对正在经历类似痛点的工程团队具有参考价值。",
+  "tags": [
+    "CI/CD",
+    "AI 编码",
+    "开发效率",
+    "工程实践",
+    "持续集成"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-21T19:23:33+00:00",
+  "collected_at": "2026-09-24T02:02:38+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

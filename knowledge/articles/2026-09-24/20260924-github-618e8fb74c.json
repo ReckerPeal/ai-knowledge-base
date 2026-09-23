@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-618e8fb74c",
+  "title": "anthropics/knowledge-work-plugins",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "summary": "Anthropic 官方开源的 knowledge-work-plugins 仓库，面向知识工作者，为 Claude Cowork 提供插件扩展，使用 Python 编写，已获得超过 2.5 万 Star。",
+  "content": "该仓库由 Anthropic 官方维护，定位为面向知识工作者的开源插件集合，主要用途是在 Claude Cowork 中扩展能力。知识工作者通常包括文档撰写、数据分析、研究、项目管理等角色，插件形式意味着用户可以按需加载特定功能，而非依赖单一通用模型。仓库使用 Python 语言，便于开发者二次开发和集成。从数据看，项目累计 Star 约 2.55 万，Fork 约 3023，近一周新增 Star 约 1403，说明发布后持续获得较高关注度，属于 GitHub Python 类热点项目。其价值在于：一是官方出品，与 Claude 生态兼容性有保障；二是开源可审计、可定制，适合企业或个人搭建知识工作流；三是插件化架构降低了功能扩展门槛。潜在关注点包括插件质量与维护节奏、与 Claude Cowork 版本的兼容性，以及是否支持非官方模型或本地部署。",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "插件",
+    "知识工作",
+    "Python",
+    "开源",
+    "AI Agent"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 25483,
+    "forks": 3023,
+    "daily_stars": null,
+    "weekly_stars": 1403,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

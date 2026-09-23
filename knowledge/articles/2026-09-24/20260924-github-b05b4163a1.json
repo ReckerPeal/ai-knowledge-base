@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-b05b4163a1",
+  "title": "kubernetes/kubernetes",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/kubernetes",
+  "summary": "Kubernetes 是生产级容器调度与管理平台，由 CNCF 托管，已成为云原生基础设施的事实标准。该仓库以 Go 语言实现，拥有超过 12.7 万 Star 和 4.4 万 Fork，社区活跃度极高。",
+  "content": "Kubernetes（常简称为 K8s）是一个开源的容器编排系统，用于自动化部署、扩展和管理容器化应用。它最初由 Google 设计并捐赠给 Cloud Native Computing Foundation（CNCF），现已成为云原生计算领域最核心的项目之一。\n\n核心特性：\n1. 自动化调度：根据资源需求和策略将容器调度到合适的节点上运行。\n2. 自愈能力：自动重启失败容器、替换故障节点上的容器、杀死不健康容器。\n3. 水平扩展：支持手动或基于指标的自动扩缩容。\n4. 服务发现与负载均衡：为容器提供 DNS 名称和负载均衡。\n5. 存储编排：自动挂载本地存储、公有云存储或网络存储。\n6. 声明式配置：通过 YAML/JSON 描述期望状态，系统持续协调实际状态。\n\n技术生态：Kubernetes 拥有庞大的生态系统，包括 Helm、Prometheus、Istio、Operator Framework 等。其架构采用控制平面（API Server、etcd、Scheduler、Controller Manager）与工作节点（kubelet、kube-proxy、容器运行时）分离的设计。\n\n社区与影响：该项目是 GitHub 上最活跃的开源项目之一，每周新增约 274 个 Star，贡献者遍布全球。它推动了云原生技术的普及，成为企业数字化转型的关键基础设施。\n\n适用场景：微服务架构、持续集成/持续部署（CI/CD）、混合云与多云管理、机器学习工作负载编排等。",
+  "tags": [
+    "Kubernetes",
+    "容器编排",
+    "云原生",
+    "Go",
+    "CNCF",
+    "DevOps",
+    "微服务"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:38+08:00",
+  "language": "Go",
+  "score": 9.8,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 127924,
+    "forks": 44824,
+    "daily_stars": null,
+    "weekly_stars": 274,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

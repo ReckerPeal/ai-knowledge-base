@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-f6aec30b26",
+  "title": "ankitects/anki",
+  "source": "github_trending",
+  "source_url": "https://github.com/ankitects/anki",
+  "summary": "Anki 是一款基于间隔重复算法的智能闪卡学习程序，由 ankitects 组织维护，主要使用 Rust 语言开发，在 GitHub 上拥有超过 3.1 万星标，近期周增星标约 1043，是 Rust 生态中备受关注的学习工具类开源项目。",
+  "content": "Anki 是一款广受欢迎的开源智能闪卡（flashcard）学习软件，其核心机制基于间隔重复（Spaced Repetition）算法，通过科学安排复习时间帮助用户高效记忆知识。该项目由 ankitects 团队维护，仓库地址为 https://github.com/ankitects/anki。\n\n从技术栈来看，Anki 主要使用 Rust 语言开发，这使其在性能、内存安全和跨平台能力方面具有显著优势。项目在 GitHub 上已获得 31,464 个星标和 3,257 个复刻，近期一周新增星标约 1,043 个，显示出持续活跃的社区关注度。\n\nAnki 支持多平台使用，包括桌面端、移动端和网页端，用户可创建包含文本、图片、音频和视频的富媒体卡片，并通过插件系统扩展功能。其间隔重复算法（如 SM-2 及其改进版本）能够根据用户对每张卡片的记忆反馈动态调整复习间隔，从而最大化学习效率。\n\n作为 GitHub 热点中的 Rust 项目，Anki 兼具实用性与技术代表性，既是一款成熟的学习工具，也是 Rust 在跨平台桌面应用领域的典型案例。该项目适合语言学习、医学考试备考、编程知识记忆等多种场景，具有较高的开源社区影响力和长期维护价值。",
+  "tags": [
+    "Anki",
+    "间隔重复",
+    "闪卡学习",
+    "Rust",
+    "开源教育工具",
+    "记忆算法",
+    "跨平台应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:35+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "ankitects",
+    "stars": 31464,
+    "forks": 3257,
+    "daily_stars": null,
+    "weekly_stars": 1043,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

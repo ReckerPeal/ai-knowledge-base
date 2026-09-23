@@ -1,0 +1,35 @@
+{
+  "id": "20260924-github-73b2640088",
+  "title": "router-for-me/CLIProxyAPI",
+  "source": "github_trending",
+  "source_url": "https://github.com/router-for-me/CLIProxyAPI",
+  "summary": "CLIProxyAPI 是一个用 Go 编写的开源项目，旨在将 Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Davin 等命令行 AI 工具封装为兼容 OpenAI、Gemini、Claude 和 Codex 的 API 服务，让开发者能够通过统一的 API 接口免费使用 Gemini、GPT、Grok、Claude 等系列模型。该项目在 GitHub 上热度极高，已获得超过 5.3 万星标。",
+  "content": "## 项目概述\n\nCLIProxyAPI 由开发者 router-for-me 创建，是一个基于 Go 语言实现的 API 代理服务。它的核心思路是将多个主流 AI 命令行工具（如 Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Davin）包装成标准的 API 接口，对外提供与 OpenAI、Gemini、Claude、Codex 兼容的调用方式。\n\n## 核心功能\n\n- **多工具聚合**：统一接入 Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Davin 等多种 CLI AI 工具。\n- **多协议兼容**：输出 API 同时兼容 OpenAI、Gemini、Claude 和 Codex 的接口规范，方便现有应用无缝迁移。\n- **免费模型访问**：借助这些 CLI 工具提供的免费额度，用户可以通过 API 方式使用 Gemini 系列、GPT 系列、Grok 系列以及 Claude 模型。\n- **统一网关**：将分散的 CLI 工具整合为单一 API 端点，简化调用流程。\n\n## 技术特点\n\n项目采用 Go 语言开发，具备高性能、并发处理能力强、部署简单等优势。作为代理层，它需要处理不同 AI 服务提供商的认证、请求格式转换和响应适配，技术实现上涉及协议转换、流式响应处理等关键环节。\n\n## 社区热度\n\n该项目在 GitHub 上表现极为亮眼，累计获得 53,011 个星标和 8,004 次 fork，单日新增星标达 179 个，属于 GitHub 热点中的高热度项目，反映出开发者对统一 AI API 接入方案的强烈需求。\n\n## 适用场景\n\n- 希望以统一 API 方式调用多个 AI 模型的开发者\n- 需要免费或低成本访问 Gemini、GPT、Grok、Claude 等模型的个人或团队\n- 构建 AI 应用时需要灵活切换底层模型服务的场景\n- 对 CLI 工具进行 API 化改造的集成需求",
+  "tags": [
+    "API代理",
+    "Go",
+    "AI模型聚合",
+    "OpenAI兼容",
+    "Claude",
+    "Gemini",
+    "Grok",
+    "CLI工具",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "router-for-me",
+    "stars": 53011,
+    "forks": 8004,
+    "daily_stars": 179,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

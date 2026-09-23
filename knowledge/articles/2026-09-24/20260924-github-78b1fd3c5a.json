@@ -1,0 +1,34 @@
+{
+  "id": "20260924-github-78b1fd3c5a",
+  "title": "flexprice/flexprice",
+  "source": "github_trending",
+  "source_url": "https://github.com/flexprice/flexprice",
+  "summary": "Flexprice 是一个面向开发者的基于使用量的定价与计费平台，支持云端或自托管部署，提供无代码 UI、实时用量计量、积分与充值以及功能访问控制，使用 Go 语言开发，在 GitHub 上获得约 6929 星标。",
+  "content": "Flexprice 是一个开源的使用量计费（usage-based billing）解决方案，主要面向开发者和 SaaS 团队。其核心功能包括：\n\n1. **灵活的定价与计费**：支持基于使用量的定价模型，可根据实际用量自动计算费用，适合 API、云服务等按量付费场景。\n2. **部署方式**：提供云端托管和自托管两种选择，满足不同企业的数据合规与运维需求。\n3. **无代码 UI**：通过可视化界面配置定价计划、计费规则和客户管理，降低技术门槛。\n4. **实时用量计量**：实时追踪和计量用户的使用数据，确保计费准确及时。\n5. **积分与充值**：支持积分系统及预充值功能，方便管理客户余额和促销活动。\n6. **功能访问控制**：可根据订阅计划或用量控制功能权限，实现精细化的访问管理。\n\n该项目使用 Go 语言开发，性能高效，适合高并发场景。当前在 GitHub 上拥有 6929 个星标和 995 个复刻，日增星标约 157，显示出较高的社区关注度。Flexprice 可帮助开发者快速集成计费能力，减少自研成本，适用于 SaaS、API 服务、AI 应用等需要按量收费的产品。",
+  "tags": [
+    "使用量计费",
+    "定价",
+    "计费平台",
+    "Go",
+    "开源",
+    "SaaS",
+    "实时计量",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "flexprice",
+    "stars": 6929,
+    "forks": 995,
+    "daily_stars": 157,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260924-github-4537a5e836",
+  "title": "cline/cline",
+  "source": "github_trending",
+  "source_url": "https://github.com/cline/cline",
+  "summary": "cline/cline 是一个基于 TypeScript 开发的开源自主编码智能体项目，提供 SDK、IDE 扩展和 CLI 助手三种使用形态，目前在 GitHub 上已获得约 6.9 万颗星标，周新增星标约 1188，属于高热度 AI 编程工具。",
+  "content": "cline/cline 定位为「自主编码智能体（Autonomous coding agent）」，其核心特点在于以多种形态对外提供服务：既可作为 SDK 被集成到其他应用中，也可作为 IDE 扩展直接嵌入开发环境，还能以 CLI 助手的形式在命令行中使用。项目使用 TypeScript 编写，作者为 cline，仓库地址为 https://github.com/cline/cline。\n\n从社区数据看，该项目累计获得约 69,156 颗星标和 7,498 次 fork，周新增星标约 1,188，说明其在 AI 辅助编程领域具有持续的关注度和活跃的社区参与。该仓库被归类为 GitHub 热点中的 TypeScript 项目。\n\n在能力层面，cline 属于「智能体（agent）」类工具，而非单纯的代码补全插件，意味着它能够自主执行多步骤编码任务，例如理解需求、修改文件、运行命令等。其多形态设计（SDK / IDE 扩展 / CLI）使其可以覆盖从个人开发者到团队工具链集成的不同场景。\n\n需要注意的是，当前摘要信息较为精简，未提供具体的功能细节、支持的 IDE 列表、模型接入方式、许可证类型及发布时间等元数据，因此上述分析主要基于项目定位与社区指标。",
+  "tags": [
+    "AI 编程",
+    "自主编码智能体",
+    "TypeScript",
+    "IDE 扩展",
+    "CLI",
+    "SDK",
+    "开源项目",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cline",
+    "stars": 69156,
+    "forks": 7498,
+    "daily_stars": null,
+    "weekly_stars": 1188,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

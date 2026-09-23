@@ -1,0 +1,34 @@
+{
+  "id": "20260924-github-04f10361ec",
+  "title": "opentofu/opentofu",
+  "source": "github_trending",
+  "source_url": "https://github.com/opentofu/opentofu",
+  "summary": "OpenTofu 是一个用 Go 编写的开源基础设施即代码（IaC）工具，支持以声明式方式管理云基础设施，是 Terraform 的开源分支，当前在 GitHub 上拥有约 3 万星标。",
+  "content": "OpenTofu（仓库：opentofu/opentofu）是一个基于 Go 语言开发的开源基础设施即代码（Infrastructure as Code, IaC）工具，允许用户通过声明式配置来管理云基础设施。该项目是 Terraform 的开源分支，旨在保持开源、社区驱动和供应商中立。\n\n核心特点：\n1. 声明式管理：用户通过配置文件描述期望的基础设施状态，OpenTofu 负责计算并执行变更。\n2. 多云支持：可管理多种云平台和服务的资源。\n3. 开源治理：由社区和基金会共同维护，避免单一厂商控制。\n4. 兼容性：与 Terraform 的配置语言和生态保持高度兼容，便于迁移。\n\n项目数据：\n- 语言：Go\n- 星标数：约 30,270\n- Fork 数：约 1,375\n- 日增星标：约 13\n- 分类：GitHub 热点 · Go\n\nOpenTofu 适合 DevOps 工程师、云架构师和平台团队使用，用于自动化云资源的部署与管理，是 Terraform 用户寻求开源替代方案的重要选择。",
+  "tags": [
+    "OpenTofu",
+    "基础设施即代码",
+    "IaC",
+    "Go",
+    "Terraform",
+    "云基础设施",
+    "DevOps",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "opentofu",
+    "stars": 30270,
+    "forks": 1375,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

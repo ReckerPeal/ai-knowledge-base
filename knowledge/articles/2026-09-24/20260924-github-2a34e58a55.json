@@ -1,0 +1,31 @@
+{
+  "id": "20260924-github-2a34e58a55",
+  "title": "weave-os/router",
+  "source": "github_trending",
+  "source_url": "https://github.com/weave-os/router",
+  "summary": "weave-os/router 是一个用 Go 编写的模型路由器，专为智能体系统设计，能在 50 毫秒内将每个提示路由到合适的模型，仅需更改端点即可降低 40-70% 的成本。该项目在 GitHub 上获得约 4950 星标，日增 188 星，热度较高。",
+  "content": "weave-os/router 是一个面向智能体（agentic）系统的模型路由器，核心功能是根据提示内容在 50 毫秒内选择最合适的模型，从而在保证效果的同时显著降低成本（40%-70%）。其使用方式简单，只需更改 API 端点即可接入。项目使用 Go 语言开发，性能优异，适合对延迟敏感的生产环境。当前在 GitHub 上拥有约 4950 个星标和 136 个复刻，日增星标 188，表明社区关注度较高。该工具可能适用于多模型编排、成本优化和智能体工作流等场景。",
+  "tags": [
+    "模型路由",
+    "智能体",
+    "Go",
+    "成本优化",
+    "低延迟"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "weave-os",
+    "stars": 4950,
+    "forks": 136,
+    "daily_stars": 188,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

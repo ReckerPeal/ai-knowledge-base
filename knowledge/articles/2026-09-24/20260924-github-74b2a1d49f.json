@@ -1,0 +1,36 @@
+{
+  "id": "20260924-github-74b2a1d49f",
+  "title": "NanmiCoder/cc-haha",
+  "source": "github_trending",
+  "source_url": "https://github.com/NanmiCoder/cc-haha",
+  "summary": "NanmiCoder/cc-haha 是一个本地优先的跨平台桌面工作空间，专为 Claude Code 和各类 AI Agent 设计，集成了多智能体协作、Git worktree 管理、代码差异查看、技能市场、多模型支持、Computer Use 以及任务感知桌面宠物等能力，并支持通过微信、飞书、钉钉、Telegram、WhatsApp 和 H5 等多渠道访问。",
+  "content": "该仓库由 NanmiCoder 开发，使用 TypeScript 编写，在 GitHub 上已获得约 14,692 颗星和 8,584 次 fork，周增星约 241，属于 GitHub 热点 TypeScript 分类项目。\n\n核心定位是「本地优先（local-first）」的跨平台桌面工作空间，面向 Claude Code 及通用 AI Agent 场景。主要特性包括：\n1. 多智能体（multi-agent）协作，支持多个 Agent 并行或协同完成任务；\n2. Git worktrees 集成，便于在同一仓库中隔离不同任务分支；\n3. 代码差异（code diffs）查看，方便审阅 Agent 生成的代码变更；\n4. 技能市场（skill marketplace），可扩展和复用 Agent 技能；\n5. 多模型（multi-model）支持，不绑定单一 LLM 供应商；\n6. Computer Use 能力，允许 Agent 操作桌面环境；\n7. 任务感知桌面宠物（task-aware desktop pets），以趣味化方式反馈任务状态；\n8. 多渠道接入：微信、飞书、钉钉、Telegram、WhatsApp 以及 H5 页面，方便远程或移动端与 Agent 交互。\n\n从工程角度看，该项目将 Agent 运行时、版本控制、模型路由和消息通道整合进一个桌面应用，适合希望本地掌控数据、同时需要多 Agent 编排与多端触达的开发者或团队。其高 star 数和 fork 数表明社区关注度较高，但摘要未提供具体发布时间和详细文档信息，实际使用前建议进一步查看仓库 README 与 issue 区。",
+  "tags": [
+    "AI Agent",
+    "Claude Code",
+    "TypeScript",
+    "桌面应用",
+    "多智能体",
+    "Git worktree",
+    "多模型",
+    "Computer Use",
+    "本地优先",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "NanmiCoder",
+    "stars": 14692,
+    "forks": 8584,
+    "daily_stars": null,
+    "weekly_stars": 241,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

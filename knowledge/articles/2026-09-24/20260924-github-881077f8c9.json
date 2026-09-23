@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-881077f8c9",
+  "title": "uutils/coreutils",
+  "source": "github_trending",
+  "source_url": "https://github.com/uutils/coreutils",
+  "summary": "uutils/coreutils 是用 Rust 重写 GNU coreutils 的跨平台项目，旨在提供更安全、更现代的 Unix 核心工具集，目前已在 GitHub 获得 24k+ 星标。",
+  "content": "uutils/coreutils 是一个用 Rust 语言重新实现 GNU coreutils 的开源项目，目标是提供跨平台、内存安全且性能优异的 Unix 核心命令行工具。该项目由 uutils 组织维护，采用 Rust 编写，支持 Linux、macOS、Windows 等多种操作系统。其核心优势在于利用 Rust 的所有权模型和零成本抽象，避免常见的内存安全问题，同时保持与 GNU coreutils 的兼容性。项目在 GitHub 上拥有 24158 个星标和 2051 个 fork，近期每周新增 241 个星标，显示出较高的社区关注度。该仓库属于 GitHub 热点中的 Rust 类别，适合对系统编程、命令行工具和 Rust 生态感兴趣的开发者。",
+  "tags": [
+    "Rust",
+    "coreutils",
+    "跨平台",
+    "命令行工具",
+    "系统编程",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:35+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "uutils",
+    "stars": 24158,
+    "forks": 2051,
+    "daily_stars": null,
+    "weekly_stars": 241,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

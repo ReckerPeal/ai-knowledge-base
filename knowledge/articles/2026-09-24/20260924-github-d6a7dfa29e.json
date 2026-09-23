@@ -1,0 +1,34 @@
+{
+  "id": "20260924-github-d6a7dfa29e",
+  "title": "CluvexStudio/Aether",
+  "source": "github_trending",
+  "source_url": "https://github.com/CluvexStudio/Aether",
+  "summary": "CluvexStudio/Aether 是一个用 Rust 编写的用户态 WARP 核心，基于 MASQUE over HTTP/3 和 HTTP/2 协议，旨在帮助用户绕过网络审查。该项目在 GitHub 上获得约 1976 颗星，日增约 16 星，属于 Rust 语言的热门项目。",
+  "content": "## 项目概述\nCluvexStudio/Aether 是一个 Rust 实现的用户态 WARP 核心，专为受审查网络设计。它利用 MASQUE（Multiplexed Application Substrate over QUIC Encryption）协议，通过 HTTP/3 和 HTTP/2 进行传输，提供了一种现代化的网络代理方案。\n\n## 核心特性\n- **协议支持**：基于 MASQUE over HTTP/3 和 HTTP/2，利用 QUIC 的低延迟和高吞吐特性。\n- **用户态实现**：作为用户态 WARP 核心，无需内核模块，部署灵活。\n- **抗审查**：设计目标为穿透网络审查，可能采用流量伪装等技术。\n- **Rust 语言**：内存安全、高性能，适合网络编程。\n\n## 技术背景\nMASQUE 是 IETF 标准，将代理功能封装在 HTTP/3 中，常用于 VPN 和隐私保护。WARP 是 Cloudflare 的 VPN 服务，Aether 可能兼容或模拟其核心功能。\n\n## 项目状态\n- 星标数：1976\n- 复刻数：152\n- 日增星：16\n- 语言：Rust\n- 分类：GitHub 热点 · Rust\n\n## 适用场景\n- 需要绕过网络审查的用户\n- 研究 MASQUE 和 HTTP/3 代理的开发者\n- 寻求 Rust 网络编程示例的工程师",
+  "tags": [
+    "Rust",
+    "网络代理",
+    "抗审查",
+    "MASQUE",
+    "HTTP/3",
+    "WARP",
+    "用户态",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "CluvexStudio",
+    "stars": 1976,
+    "forks": 152,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

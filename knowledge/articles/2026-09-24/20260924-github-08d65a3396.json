@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-08d65a3396",
+  "title": "superradcompany/microsandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/superradcompany/microsandbox",
+  "summary": "microsandbox 是一个用 Rust 编写的快速、可分支的 microVM 项目，旨在为任意工作负载提供轻量级虚拟化环境。该项目在 GitHub 上获得 8397 颗星，日增 15 星，热度较高。",
+  "content": "microsandbox 由 superradcompany 开发，核心定位是「fast branchable microVM for any workload」，即面向任意工作负载的快速可分支微虚拟机。其技术特点包括：1）基于 microVM 架构，提供接近容器的启动速度与虚拟机级别的隔离性；2）支持分支（branchable），意味着可以快速克隆或派生运行状态，适合需要快速迭代、测试或并行执行的场景；3）使用 Rust 语言实现，兼顾性能与内存安全。该项目在 GitHub 上已获得 8397 颗星和 449 次 fork，日增约 15 星，属于 Rust 生态中受关注的基础设施类项目。适用场景可能包括安全沙箱、CI/CD 隔离环境、边缘计算、多租户工作负载等。",
+  "tags": [
+    "microVM",
+    "Rust",
+    "虚拟化",
+    "沙箱",
+    "可分支",
+    "云原生",
+    "基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:23+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "superradcompany",
+    "stars": 8397,
+    "forks": 449,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

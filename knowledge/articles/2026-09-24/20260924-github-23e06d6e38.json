@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-23e06d6e38",
+  "title": "edwardkim/rhwp",
+  "source": "github_trending",
+  "source_url": "https://github.com/edwardkim/rhwp",
+  "summary": "该项目是一个基于 Rust 和 WebAssembly 构建的韩文 HWP 文档查看器与编辑器，旨在通过现代 Web 技术实现跨平台的文档处理能力。",
+  "content": "edwardkim/rhwp 是一个使用 Rust 语言和 WebAssembly 技术开发的韩文 HWP 文档查看器与编辑器。HWP 是韩国广泛使用的文字处理格式，该项目通过将 Rust 编译为 WebAssembly，使得用户可以在浏览器中直接查看和编辑 HWP 文件，无需安装本地软件。项目在 GitHub 上获得了 3847 个星标和 725 个复刻，日增星标约 16 个，显示出较高的社区关注度。其技术栈结合了 Rust 的高性能与 WebAssembly 的跨平台优势，为 HWP 文档处理提供了新的解决方案。",
+  "tags": [
+    "Rust",
+    "WebAssembly",
+    "HWP",
+    "文档编辑器",
+    "韩文处理",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:23+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "edwardkim",
+    "stars": 3847,
+    "forks": 725,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

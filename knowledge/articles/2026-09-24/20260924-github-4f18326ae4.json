@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-4f18326ae4",
+  "title": "grafana/mcp-grafana",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "summary": "Grafana 官方推出的 MCP（Model Context Protocol）服务器，使用 Go 语言开发，旨在让 AI 助手能够通过标准协议访问 Grafana 的监控数据与仪表板，当前在 GitHub 上已获得 3484 颗星。",
+  "content": "该项目是 Grafana 官方为 Model Context Protocol（MCP）实现的服务器端组件，主要作用是将 Grafana 的能力以标准化接口暴露给 AI 模型或智能代理。通过 MCP，AI 助手可以查询 Grafana 中的指标、日志、仪表板等可观测性数据，从而在对话或自动化流程中直接获取监控信息。项目采用 Go 语言编写，具备高性能和易于部署的特点。当前仓库拥有 3484 个 Star、452 个 Fork，日增约 5 个 Star，属于 GitHub 热点中的 Go 语言项目。作为 Grafana 官方出品，它有望成为 AI 与可观测性平台之间的重要桥梁，适合运维、SRE 以及 AI 应用开发者关注。",
+  "tags": [
+    "Grafana",
+    "MCP",
+    "Go",
+    "可观测性",
+    "AI 集成",
+    "监控"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3484,
+    "forks": 452,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

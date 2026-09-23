@@ -1,0 +1,34 @@
+{
+  "id": "20260924-github-9c241fb43b",
+  "title": "anthropics/claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "summary": "Anthropic 官方推出的终端智能体编程工具 Claude Code，能够理解代码库并通过自然语言执行日常任务、解释复杂代码和处理 Git 工作流，目前在 GitHub 上拥有约 14.8 万星标，热度极高。",
+  "content": "Claude Code 是 Anthropic 发布的一款运行在终端中的智能体（agentic）编程工具。它能够深入理解用户的代码库，通过自然语言命令帮助开发者更快地编写代码：自动执行重复性任务、解释复杂代码逻辑，并处理 Git 工作流（如提交、分支管理等）。该工具以 TypeScript 为主要开发语言，在 GitHub 上已获得约 147,779 个星标和 24,194 个 fork，近一周新增约 2,754 星，属于 GitHub Trending 中的热门 TypeScript 项目。其核心价值在于将大模型能力直接嵌入开发者的命令行环境，减少上下文切换，提升日常开发效率。",
+  "tags": [
+    "Claude Code",
+    "Anthropic",
+    "AI 编程助手",
+    "终端工具",
+    "智能体",
+    "TypeScript",
+    "Git 工作流",
+    "代码理解"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:31+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 147779,
+    "forks": 24194,
+    "daily_stars": null,
+    "weekly_stars": 2754,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

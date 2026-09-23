@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-641e07a8f5",
+  "title": "lahfir/agent-desktop",
+  "source": "github_trending",
+  "source_url": "https://github.com/lahfir/agent-desktop",
+  "summary": "Agent Desktop 是一个基于 Rust 构建的开源项目，旨在让 AI Agent 可靠地操作桌面应用。它通过操作系统无障碍树（accessibility trees）获取任意应用的真实 UI 结构，而非依赖像素猜测，从而保证元素引用稳定、操作可安全重试，为计算机使用（computer use）场景提供更可靠的底层能力。",
+  "content": "Agent Desktop 解决的核心问题是：让 AI Agent 在桌面环境中执行操作时，不再依赖屏幕截图和视觉模型来“猜测”界面元素，而是通过操作系统原生的无障碍接口（如 Windows UIAutomation、macOS Accessibility API 等）直接读取应用的 UI 结构树。这种方式带来三个关键优势：1）元素引用（refs）稳定，不会因界面渲染变化而失效；2）操作具备幂等性和可重试性，降低误操作风险；3）不依赖像素级识别，对分辨率、主题、缩放等不敏感。项目使用 Rust 编写，兼顾性能与系统级集成能力。当前在 GitHub 上获得约 1582 星、106 次 fork，日增约 104 星，属于近期 Rust 类热点项目。适合需要构建桌面自动化 Agent、RPA 增强、无障碍辅助工具或跨应用工作流自动化的开发者关注。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "桌面自动化",
+    "无障碍树",
+    "computer use",
+    "RPA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:23+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "lahfir",
+    "stars": 1582,
+    "forks": 106,
+    "daily_stars": 104,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-82511da497",
+  "title": "NVlabs/cuda-oxide",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/cuda-oxide",
+  "summary": "NVlabs 推出的 cuda-oxide 是一个 Rust 到 CUDA 的编译器，允许开发者用安全且地道的 Rust 编写 SIMT GPU 内核，并直接编译为标准 PTX 代码，无需 DSL 或外部语言绑定。",
+  "content": "cuda-oxide 由 NVIDIA 实验室（NVlabs）开发，旨在将 Rust 语言引入 GPU 编程领域。它能够将标准的 Rust 代码直接编译为 PTX（Parallel Thread Execution）汇编，从而在 NVIDIA GPU 上执行 SIMT（单指令多线程）内核。该项目强调无需使用领域特定语言（DSL）或外部语言绑定，开发者可以完全使用 Rust 编写 GPU 内核，同时享受 Rust 的安全性和表达力。该仓库在 GitHub 上已获得约 3576 个星标和 282 个复刻，近期周增星标约 245，显示出较高的社区关注度。其技术路线有望降低 GPU 编程的门槛，并推动 Rust 在异构计算领域的应用。",
+  "tags": [
+    "Rust",
+    "CUDA",
+    "GPU编程",
+    "编译器",
+    "PTX",
+    "SIMT",
+    "NVIDIA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 3576,
+    "forks": 282,
+    "daily_stars": null,
+    "weekly_stars": 245,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

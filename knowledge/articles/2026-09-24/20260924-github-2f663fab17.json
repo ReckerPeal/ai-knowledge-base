@@ -1,0 +1,32 @@
+{
+  "id": "20260924-github-2f663fab17",
+  "title": "kubernetes-sigs/karpenter",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/karpenter",
+  "summary": "Karpenter 是 Kubernetes SIG 社区维护的节点自动扩缩容器，使用 Go 语言开发，主打灵活性、高性能与简洁性，目前获得约 2201 个 Star。",
+  "content": "Karpenter 是 Kubernetes 官方 SIG（kubernetes-sigs）组织下的节点自动扩缩容（Node Autoscaler）项目，使用 Go 语言编写。其设计目标是在保证灵活性的同时兼顾高性能与简洁性，用于根据工作负载需求动态调整集群节点规模。仓库当前拥有约 2201 个 Star 和 582 个 Fork，日增 Star 约 3 个，属于 GitHub 热点中的 Go 语言项目。作为 Kubernetes 生态中的基础设施组件，Karpenter 常被用于替代或补充传统 Cluster Autoscaler，帮助用户在云环境中更高效地调度与扩缩节点资源。",
+  "tags": [
+    "Kubernetes",
+    "自动扩缩容",
+    "Go",
+    "云原生",
+    "节点管理",
+    "kubernetes-sigs"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:26+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 2201,
+    "forks": 582,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

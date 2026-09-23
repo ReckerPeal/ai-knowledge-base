@@ -1,0 +1,33 @@
+{
+  "id": "20260924-github-74a04885c0",
+  "title": "docker/compose",
+  "source": "github_trending",
+  "source_url": "https://github.com/docker/compose",
+  "summary": "docker/compose 是 Docker 官方推出的多容器应用编排工具，使用 Go 语言开发，允许用户通过 YAML 文件定义并运行由多个容器组成的应用。该仓库在 GitHub 上拥有 38206 个 Star 和 5833 个 Fork，近期一周新增约 70 个 Star，是容器编排领域的基础设施级项目。",
+  "content": "## 项目概述\n\ndocker/compose 是 Docker 官方维护的开源工具，核心目标是让开发者能够以声明式的方式定义和运行多容器 Docker 应用。用户只需编写一个 `compose.yaml`（或 `docker-compose.yml`）文件，即可描述应用所需的服务、网络、卷等资源，并通过一条命令完成构建、启动、停止和销毁等生命周期管理。\n\n## 核心能力\n\n- **声明式编排**：通过 YAML 配置文件定义多容器应用的拓扑结构，包括服务依赖、环境变量、端口映射、数据卷挂载等。\n- **一键操作**：支持 `docker compose up`、`down`、`build`、`logs`、`exec` 等命令，简化本地开发与测试环境的搭建。\n- **与 Docker 生态深度集成**：作为 Docker CLI 的插件（Compose V2）运行，直接复用 Docker 引擎能力，兼容 Docker Swarm 及单机模式。\n- **跨平台支持**：可在 Linux、macOS 和 Windows 上运行，适用于开发、CI/CD 及轻量级生产场景。\n\n## 技术特点\n\n项目使用 Go 语言编写，具备良好的性能与跨平台编译能力。其架构围绕 Compose 规范（Compose Specification）构建，该规范已被 Docker 社区广泛采纳，成为多容器应用描述的事实标准之一。\n\n## 社区与影响力\n\n仓库拥有 38k+ Star 和 5.8k+ Fork，周增约 70 Star，长期位居 GitHub Go 语言热点榜单。作为容器编排的入门级工具，它与 Kubernetes 形成互补：Compose 更适合本地开发与中小规模部署，而 Kubernetes 面向大规模集群编排。\n\n## 适用场景\n\n- 本地开发环境快速搭建多服务应用（如 Web + 数据库 + 缓存）。\n- CI/CD 流水线中的集成测试环境。\n- 单机或小规模生产部署。\n- 教学与演示场景中展示微服务架构。",
+  "tags": [
+    "Docker",
+    "容器编排",
+    "Go",
+    "DevOps",
+    "Compose",
+    "微服务",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-24T02:02:38+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "docker",
+    "stars": 38206,
+    "forks": 5833,
+    "daily_stars": null,
+    "weekly_stars": 70,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
