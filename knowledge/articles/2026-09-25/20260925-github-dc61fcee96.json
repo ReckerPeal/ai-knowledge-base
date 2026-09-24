@@ -1,0 +1,32 @@
+{
+  "id": "20260925-github-dc61fcee96",
+  "title": "supermemoryai/supermemory",
+  "source": "github_trending",
+  "source_url": "https://github.com/supermemoryai/supermemory",
+  "summary": "supermemory 是一个面向 AI 时代的记忆与上下文引擎，提供高速、可扩展且可完全本地运行的 Memory API，项目以 TypeScript 编写，在 GitHub 上获得约 3 万星标，热度较高。",
+  "content": "supermemoryai/supermemory 定位为“AI 时代的 Memory API”，核心能力是为 AI 应用提供记忆与上下文管理引擎。根据仓库摘要，该项目强调三点：极快的性能、良好的可扩展性，以及支持完全本地化部署，这意味着开发者可以在自有环境中运行，避免数据外泄并降低对云端服务的依赖。项目使用 TypeScript 实现，适合与主流前端/Node.js 技术栈集成。从社区数据看，仓库已获得约 30874 个 star、2704 个 fork，近一周新增约 1023 个 star，说明其在 AI 基础设施与记忆层赛道中受到持续关注。适用场景可能包括：为 LLM 应用提供长期记忆、构建个性化 AI 助手、RAG 上下文增强、多轮对话状态管理等。",
+  "tags": [
+    "AI记忆引擎",
+    "上下文管理",
+    "TypeScript",
+    "本地部署",
+    "Memory API",
+    "LLM基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:17+08:00",
+  "language": "TypeScript",
+  "score": 8.6,
+  "metadata": {
+    "author": "supermemoryai",
+    "stars": 30874,
+    "forks": 2704,
+    "daily_stars": null,
+    "weekly_stars": 1023,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

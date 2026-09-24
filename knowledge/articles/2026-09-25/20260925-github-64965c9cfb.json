@@ -1,0 +1,34 @@
+{
+  "id": "20260925-github-64965c9cfb",
+  "title": "openai/tunnel-client",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/tunnel-client",
+  "summary": "OpenAI 官方开源的 Secure MCP Tunnel 客户端，用于将私有或本地 MCP 服务器安全接入 ChatGPT、Codex、Responses API 与 AgentKit，无需暴露到公网。",
+  "content": "该项目由 OpenAI 官方发布，采用 Go 语言编写，定位为「Secure MCP Tunnel」的客户侧运行组件。其核心价值在于解决 MCP（Model Context Protocol）服务器与云端 AI 服务之间的安全连接问题：用户可以在自己的私有网络或本机运行 MCP 服务器，通过该客户端建立隧道，使 ChatGPT、Codex、Responses API 以及 AgentKit 能够访问这些服务，同时避免将内部服务直接暴露在公网，从而降低攻击面与数据泄露风险。\n\n从生态角度看，这补齐了 MCP 在企业内网与本地开发场景下的连接短板，是 OpenAI 推动 MCP 生态落地的重要基础设施。仓库当前约 486 stars、94 forks，周增约 89 stars，热度处于早期上升阶段，主要受众为需要将私有工具/数据接入 OpenAI 平台的开发者与企业团队。\n\n技术要点：语言为 Go，便于跨平台编译与单二进制部署；客户端由用户自行运行，符合「customer-run」的信任模型，密钥与网络边界掌握在用户手中。潜在关注点包括隧道协议细节、鉴权机制、与 MCP 规范版本的兼容性，以及在生产环境下的稳定性与可观测性。",
+  "tags": [
+    "OpenAI",
+    "MCP",
+    "Go",
+    "安全隧道",
+    "ChatGPT",
+    "Codex",
+    "AgentKit",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:22+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "openai",
+    "stars": 486,
+    "forks": 94,
+    "daily_stars": null,
+    "weekly_stars": 89,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

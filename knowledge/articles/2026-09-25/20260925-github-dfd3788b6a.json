@@ -1,0 +1,32 @@
+{
+  "id": "20260925-github-dfd3788b6a",
+  "title": "Nasiko-Labs/nasiko",
+  "source": "github_trending",
+  "source_url": "https://github.com/Nasiko-Labs/nasiko",
+  "summary": "Nasiko-Labs/nasiko 是一个用 Rust 编写的 AI Agent 开发者控制平面，旨在为 AI 代理提供统一的开发、部署与管理平台。该项目在 GitHub 上热度极高，已获得 8862 颗星标，单日新增 1038 颗，属于 Rust 语言类别的热门项目。",
+  "content": "Nasiko-Labs/nasiko 定位为“AI Agent 的开发者控制平面”（Developer Control Plane for your AI Agents），其核心目标是为构建、运行和管理 AI 代理提供基础设施支持。项目采用 Rust 语言开发，Rust 以其内存安全、高性能和并发能力著称，适合构建需要高可靠性和低延迟的控制平面系统。\n\n从仓库数据来看，该项目在 GitHub Trending 中表现突出：总星标数 8862，Fork 数 1937，单日新增星标 1038，显示出社区的高度关注和快速采纳趋势。这种增长通常意味着项目解决了开发者在 AI Agent 编排、生命周期管理或可观测性方面的痛点。\n\n作为“控制平面”，Nasiko 可能提供的能力包括：Agent 的注册与发现、配置管理、任务调度、状态监控、权限控制以及与其他 AI 服务的集成。它可能面向需要将多个 AI Agent 协同工作的场景，例如自动化工作流、多智能体系统或企业级 AI 应用部署。\n\n由于项目摘要信息有限，具体功能细节需进一步查看仓库文档。但基于其定位和热度，Nasiko 有潜力成为 AI Agent 基础设施领域的重要开源项目，尤其吸引 Rust 生态和 AI 工程化方向的开发者。",
+  "tags": [
+    "AI Agent",
+    "控制平面",
+    "Rust",
+    "开发者工具",
+    "基础设施",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:10+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "Nasiko-Labs",
+    "stars": 8862,
+    "forks": 1937,
+    "daily_stars": 1038,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

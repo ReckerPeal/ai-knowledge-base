@@ -1,0 +1,33 @@
+{
+  "id": "20260925-github-c57da82c6b",
+  "title": "coder/coder",
+  "source": "github_trending",
+  "source_url": "https://github.com/coder/coder",
+  "summary": "coder/coder 是一个用 Go 编写的开源项目，旨在为开发者和其 AI 代理提供安全、隔离的开发环境。该项目在 GitHub 上拥有约 1.67 万星标，近期周增星标超过 2200，热度较高。",
+  "content": "coder/coder 是一个面向开发者和 AI 代理的安全环境平台，使用 Go 语言开发。其核心目标是通过远程开发环境（通常基于 Terraform 和容器技术）为开发者提供一致、安全且可扩展的工作空间，同时支持 AI 代理在其中运行。项目在 GitHub 上表现活跃，当前星标数约 16,674，fork 数约 1,586，最近一周新增星标约 2,249，显示出较强的社区关注度。该工具适用于需要远程开发、环境隔离、团队协作以及 AI 辅助编程的场景，能够帮助组织统一管理开发环境并提升安全性。",
+  "tags": [
+    "Go",
+    "开发环境",
+    "远程开发",
+    "安全",
+    "AI代理",
+    "Terraform",
+    "容器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "coder",
+    "stars": 16674,
+    "forks": 1586,
+    "daily_stars": null,
+    "weekly_stars": 2249,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

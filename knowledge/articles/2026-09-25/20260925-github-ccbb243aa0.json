@@ -1,0 +1,31 @@
+{
+  "id": "20260925-github-ccbb243aa0",
+  "title": "rui314/mold",
+  "source": "github_trending",
+  "source_url": "https://github.com/rui314/mold",
+  "summary": "mold 是由 rui314 开发的一款用 Rust 编写的现代链接器，旨在提供比传统链接器更快的链接速度。该项目在 GitHub 上拥有 17,243 个星标和 565 个 fork，近期周增 215 星，属于 Rust 语言的热门项目。",
+  "content": "mold 是一个高性能的现代链接器，使用 Rust 语言实现。链接器是编译工具链中的关键组件，负责将目标文件合并为可执行文件或库。传统链接器（如 GNU ld 或 gold）在处理大型项目时可能成为构建瓶颈，而 mold 通过并行化和优化算法显著提升链接速度，据称比 gold 快数倍，比 lld 也更快。该项目由知名开发者 rui314（曾开发 chibicc 等）发起，采用 Rust 编写，兼顾安全性与性能。mold 支持 ELF 格式，兼容 Linux 等系统，并致力于与现有构建系统集成。其 GitHub 仓库拥有 17k+ 星标，社区活跃，是 Rust 生态中系统编程工具的重要代表。",
+  "tags": [
+    "Rust",
+    "链接器",
+    "构建工具",
+    "系统编程",
+    "性能优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:20+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "rui314",
+    "stars": 17243,
+    "forks": 565,
+    "daily_stars": null,
+    "weekly_stars": 215,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

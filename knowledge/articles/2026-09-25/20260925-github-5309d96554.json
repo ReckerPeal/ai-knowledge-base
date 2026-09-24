@@ -1,0 +1,29 @@
+{
+  "id": "20260925-github-5309d96554",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "summary": "本文介绍如何使用 Sentence Transformers 训练和微调多向量嵌入模型，属于 Hugging Face 官方博客的技术教程。",
+  "content": "该内容来自 Hugging Face 博客，标题为《Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers》，主要讲解基于 Sentence Transformers 框架训练与微调多向量嵌入（Multi-Vector Embedding）模型的方法。多向量嵌入模型（如 ColBERT 风格）通过为每个 token 生成向量表示，在检索任务中通常能取得优于单向量模型的精度。文章预计涵盖数据准备、模型架构选择、训练目标（如对比学习、知识蒸馏）、微调流程以及评估方式等实践细节，适合对信息检索、语义搜索和嵌入模型感兴趣的开发者与研究者参考。",
+  "tags": [
+    "Sentence Transformers",
+    "多向量嵌入",
+    "模型微调",
+    "信息检索",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "collected_at": "2026-09-25T02:02:22+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

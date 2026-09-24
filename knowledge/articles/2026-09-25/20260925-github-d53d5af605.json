@@ -1,0 +1,36 @@
+{
+  "id": "20260925-github-d53d5af605",
+  "title": "NVIDIA/Model-Optimizer",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/Model-Optimizer",
+  "summary": "NVIDIA 推出的统一模型优化库，集成了量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 技术，可将深度学习模型压缩后部署到 TensorRT-LLM、TensorRT、vLLM 等下游框架，以提升推理速度。",
+  "content": "NVIDIA/Model-Optimizer 是 NVIDIA 官方开源的一个统一模型优化库，旨在为深度学习模型提供一站式的压缩与加速解决方案。该库整合了当前最先进的多种模型优化技术，包括量化（Quantization）、知识蒸馏（Distillation）、剪枝（Pruning）、神经架构搜索（Neural Architecture Search）以及投机解码（Speculative Decoding）等。其核心目标是将训练好的深度学习模型进行压缩和优化，使其能够无缝部署到 TensorRT-LLM、TensorRT、vLLM 等主流推理框架中，从而显著提升推理速度并降低资源消耗。该仓库使用 Python 语言开发，目前在 GitHub 上已获得约 3983 颗星和 626 次 fork，日增星约 22 颗，属于 GitHub 热点 Python 项目。作为 NVIDIA 官方项目，它具备较高的工程成熟度和生态整合能力，适合需要将大模型或深度学习模型落地部署的开发者、研究人员和工程师使用。",
+  "tags": [
+    "模型优化",
+    "量化",
+    "知识蒸馏",
+    "剪枝",
+    "神经架构搜索",
+    "投机解码",
+    "推理加速",
+    "TensorRT",
+    "vLLM",
+    "NVIDIA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:05+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 3983,
+    "forks": 626,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

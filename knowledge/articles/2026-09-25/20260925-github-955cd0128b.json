@@ -1,0 +1,34 @@
+{
+  "id": "20260925-github-955cd0128b",
+  "title": "strands-agents/harness-sdk",
+  "source": "github_trending",
+  "source_url": "https://github.com/strands-agents/harness-sdk",
+  "summary": "strands-agents/harness-sdk 是一个面向生产级 AI 智能体的开源 SDK，支持 Python 与 TypeScript，可构建并端到端控制智能体运行框架，兼容任意模型与任意云平台。该仓库当前获得约 8175 个 Star、1223 个 Fork，日增约 463 Star，热度较高。",
+  "content": "该仓库由 strands-agents 组织维护，定位为「构建智能体运行框架（agent harness）并对其进行端到端控制」的开源 SDK，目标场景是生产环境中的 AI 智能体开发。其核心卖点包括：同时提供 Python 与 TypeScript 两种语言支持，便于不同技术栈的团队接入；模型层面不绑定特定厂商，可对接任意大模型；基础设施层面不绑定特定云厂商，可部署于任意云环境。从社区数据看，项目已积累约 8175 个 Star 与 1223 个 Fork，日增约 463 Star、周增约 752 Star，说明近期关注度快速上升，属于 GitHub Python 分类下的热点项目。适用人群为需要构建可观测、可控制、可上生产的 AI 智能体系统的开发者与团队。",
+  "tags": [
+    "AI Agent",
+    "SDK",
+    "Python",
+    "TypeScript",
+    "开源",
+    "生产级",
+    "多模型",
+    "多云"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:05+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "strands-agents",
+    "stars": 8175,
+    "forks": 1223,
+    "daily_stars": 463,
+    "weekly_stars": 752,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

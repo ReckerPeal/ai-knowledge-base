@@ -1,0 +1,35 @@
+{
+  "id": "20260925-github-73b2640088",
+  "title": "router-for-me/CLIProxyAPI",
+  "source": "github_trending",
+  "source_url": "https://github.com/router-for-me/CLIProxyAPI",
+  "summary": "CLIProxyAPI 是一个用 Go 编写的代理服务，将 Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Davin 等 CLI 工具封装为兼容 OpenAI、Gemini、Claude、Codex 的 API 接口，让用户通过统一 API 免费使用 Gemini、GPT、Grok、Claude 等系列模型。项目在 GitHub 上热度极高，已获得 5.3 万余星标。",
+  "content": "## 项目定位\n\nCLIProxyAPI 的核心思路是「协议转换 + 能力复用」：它把多个厂商的 CLI 客户端（Antigravity、ChatGPT Codex、Claude Code、Grok Build、Muse Code、Davin）包装成标准化的 HTTP API 服务，对外暴露 OpenAI / Gemini / Claude / Codex 兼容的接口。\n\n## 解决的问题\n\n1. **接口碎片化**：不同厂商的模型能力分散在各自的 CLI 工具中，调用方式、鉴权、参数格式各不相同。CLIProxyAPI 提供统一入口，降低集成成本。\n2. **成本与可及性**：用户可通过已有的 CLI 授权或免费额度，以 API 形式调用 Gemini、GPT、Grok、Claude 等系列模型，避免重复购买 API 配额。\n3. **生态兼容**：输出兼容主流 API 协议，现有基于 OpenAI SDK、Gemini SDK、Claude SDK 的应用几乎无需改造即可切换后端。\n\n## 技术特征\n\n- **语言**：Go，利于高并发代理场景与单二进制部署。\n- **架构**：典型的反向代理 / 适配器模式，包含请求路由、协议转换、鉴权透传、流式响应转发等模块。\n- **兼容层**：同时支持 OpenAI、Gemini、Claude、Codex 四种 API 风格，说明其内部做了较完整的请求/响应模型映射。\n\n## 社区热度\n\n- Stars：53,123\n- Forks：8,016\n- 日增 Stars：124\n- 周增 Stars：930\n\n数据表明该项目处于高速增长期，属于 GitHub 热点中的高关注度项目，且 Fork 数较高，说明有较多二次开发和自部署需求。\n\n## 适用场景\n\n- 个人开发者希望以低成本统一调用多家大模型。\n- 团队需要将 CLI 工具能力接入现有 API 网关或应用。\n- 需要多模型对比、路由或降级策略的实验环境。\n\n## 注意事项\n\n此类项目通常依赖各 CLI 工具的授权机制与使用条款，实际可用性、稳定性与合规性会随上游策略变化而波动，生产环境使用前需评估账号风险与服务条款限制。",
+  "tags": [
+    "Go",
+    "API代理",
+    "LLM网关",
+    "OpenAI兼容",
+    "Claude",
+    "Gemini",
+    "CLI工具",
+    "协议转换",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:12+08:00",
+  "language": "Go",
+  "score": 8.6,
+  "metadata": {
+    "author": "router-for-me",
+    "stars": 53123,
+    "forks": 8016,
+    "daily_stars": 124,
+    "weekly_stars": 930,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

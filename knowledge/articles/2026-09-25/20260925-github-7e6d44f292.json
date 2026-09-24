@@ -1,0 +1,33 @@
+{
+  "id": "20260925-github-7e6d44f292",
+  "title": "odoo/odoo",
+  "source": "github_trending",
+  "source_url": "https://github.com/odoo/odoo",
+  "summary": "Odoo 是一套基于 Python 开发的开源企业级应用套件，涵盖 CRM、ERP、电商、财务、库存、人力资源等业务模块，旨在帮助各类企业快速搭建和扩展数字化运营系统。项目在 GitHub 上拥有超过 5.4 万星标，社区活跃、生态成熟，是开源企业管理软件领域的代表性项目。",
+  "content": "Odoo（原名 OpenERP）是一个模块化、可扩展的开源企业管理软件平台，采用 Python 作为主要开发语言，前端基于 JavaScript，数据库通常使用 PostgreSQL。其核心优势在于“一体化应用套件”的定位：用户可以在同一平台上按需启用 CRM、销售、采购、库存、生产制造、财务、项目管理、电子商务、网站建设、人力资源、市场营销等数十个业务模块，并通过统一的权限、报表和工作流引擎实现数据互通。\n\n从技术架构看，Odoo 采用 MVC 风格的 ORM 框架，开发者可以通过继承和扩展模型快速定制业务逻辑；模块化设计使得第三方应用和行业插件可以独立安装、升级和卸载。Odoo 同时提供社区版（开源免费）和企业版（付费增值功能），并支持本地部署、私有云和 SaaS 等多种交付方式。\n\n从社区与生态看，该项目在 GitHub 上拥有约 5.46 万星标和 3.38 万分支，周新增星标约 164，说明其仍保持稳定的关注度和贡献活跃度。Odoo 拥有庞大的官方应用商店、完善的开发者文档、多语言支持以及全球范围的实施合作伙伴网络，适合中小企业快速上线业务系统，也适合大型企业进行二次开发和集成。\n\n对于技术团队而言，Odoo 的价值在于：一是降低企业软件采购与集成成本，二是提供可深度定制的开源底座，三是拥有成熟的模块生态和活跃社区。其学习曲线相对平缓，但深入掌握 ORM、视图继承、工作流和性能调优仍需一定投入。总体而言，Odoo 是开源 ERP/CRM 领域最具影响力和实用价值的项目之一。",
+  "tags": [
+    "开源ERP",
+    "CRM",
+    "Python",
+    "企业管理软件",
+    "模块化",
+    "Odoo",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:15+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "odoo",
+    "stars": 54564,
+    "forks": 33820,
+    "daily_stars": null,
+    "weekly_stars": 164,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

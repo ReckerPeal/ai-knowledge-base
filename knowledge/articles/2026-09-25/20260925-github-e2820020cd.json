@@ -1,0 +1,34 @@
+{
+  "id": "20260925-github-e2820020cd",
+  "title": "BerriAI/litellm",
+  "source": "github_trending",
+  "source_url": "https://github.com/BerriAI/litellm",
+  "summary": "BerriAI/litellm 是一个高性能 AI 网关，采用 Rust 核心与 Python SDK 架构，支持以 OpenAI 或原生格式统一调用 100+ LLM API，并提供成本追踪、护栏、负载均衡和日志记录等功能。",
+  "content": "BerriAI/litellm 是一个面向大语言模型（LLM）应用的高性能 AI 网关项目，其核心使用 Rust 编写以追求极致速度与轻量，同时提供 Python SDK 方便集成。该项目的主要价值在于统一接入层：开发者可以通过 OpenAI 兼容格式或各模型原生格式，调用超过 100 种 LLM API，覆盖 Bedrock、Azure、OpenAI、Anthropic、VertexAI、vLLM、Nvidia NIM 等主流服务商。\n\n核心功能包括：\n1. **统一 API 调用**：屏蔽不同厂商 API 差异，降低多模型集成成本。\n2. **成本追踪**：实时监控各模型调用开销，便于预算管理。\n3. **护栏（Guardrails）**：提供安全与合规控制，过滤不当内容。\n4. **负载均衡**：在多个模型或服务端点间分配请求，提升可用性与性能。\n5. **日志记录**：完整记录请求与响应，便于审计和调试。\n\n该项目在 GitHub 上拥有约 59,558 个 Star 和 11,748 个 Fork，周新增 Star 约 602，属于 Python 类别下的热门项目。其定位是“最快、最轻的 AI 网关”，适合需要统一管理多种 LLM 服务的企业和开发者。",
+  "tags": [
+    "AI Gateway",
+    "LLM",
+    "Python",
+    "Rust",
+    "OpenAI",
+    "API 网关",
+    "负载均衡",
+    "成本追踪"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:15+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "BerriAI",
+    "stars": 59558,
+    "forks": 11748,
+    "daily_stars": null,
+    "weekly_stars": 602,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

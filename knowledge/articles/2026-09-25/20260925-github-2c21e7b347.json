@@ -1,0 +1,36 @@
+{
+  "id": "20260925-github-2c21e7b347",
+  "title": "skyhook-io/radar",
+  "source": "github_trending",
+  "source_url": "https://github.com/skyhook-io/radar",
+  "summary": "skyhook-io/radar 是一个用 Go 编写的开源 Kubernetes 可视化 UI，内置面向 AI 代理的 MCP 服务器，帮助用户快速定位集群故障、理解拓扑与变更历史，并集成 Helm、GitOps、实时服务流量和集群审计等功能，以单一 Go 二进制形式交付。",
+  "content": "该仓库定位为“缺失的开源 Kubernetes UI”，核心亮点是内置 MCP（Model Context Protocol）服务器，使 AI 代理能够直接查询和操作集群状态。功能覆盖问题诊断（Issues）、资源拓扑（Topology）、事件时间线（event timeline）、Helm 管理、GitOps 集成、实时服务流量（live service traffic）以及集群审计（cluster audits）。项目采用 Go 语言开发，以单一二进制分发，部署简单。当前获得约 3463 星标、222 次 fork，日增约 9 星，属于 GitHub Go 语言热点项目。适合需要轻量级、AI 友好型 Kubernetes 可观测性与管理界面的团队。",
+  "tags": [
+    "Kubernetes",
+    "Go",
+    "开源UI",
+    "MCP",
+    "AI代理",
+    "可观测性",
+    "GitOps",
+    "Helm",
+    "集群审计",
+    "拓扑可视化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:12+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "skyhook-io",
+    "stars": 3463,
+    "forks": 222,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

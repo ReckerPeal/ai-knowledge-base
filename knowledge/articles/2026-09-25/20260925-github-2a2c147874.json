@@ -1,0 +1,34 @@
+{
+  "id": "20260925-github-2a2c147874",
+  "title": "supabase/supabase",
+  "source": "github_trending",
+  "source_url": "https://github.com/supabase/supabase",
+  "summary": "Supabase 是一个基于 Postgres 的开源开发平台，为 Web、移动端和 AI 应用提供专属的 Postgres 数据库及配套后端服务，在 GitHub 上拥有超过 11 万星标，是当前最热门的开源后端即服务（BaaS）项目之一。",
+  "content": "Supabase 定位为「Postgres 开发平台」，核心思路是以 PostgreSQL 作为统一的数据底座，围绕它提供一整套开箱即用的后端能力，从而替代 Firebase 等传统 BaaS 方案。开发者可以获得一个专属的 Postgres 数据库实例，并在此基础上使用自动生成的 REST/GraphQL API、实时订阅、身份认证、对象存储、边缘函数等功能，快速构建 Web、移动端以及 AI 应用。\n\n从仓库信息来看，该项目使用 TypeScript 作为主要语言，作者为 supabase 组织，当前星标数约 110,732，Fork 数约 14,680，近一周新增星标约 1,474，说明社区活跃度和关注度持续处于高位。其技术优势主要体现在：完全开源、可自托管、基于成熟的关系型数据库 Postgres，避免了厂商锁定；同时提供云端托管服务，兼顾易用性与可控性。\n\n在 AI 应用开发场景中，Supabase 常被用作向量存储与数据后端，配合 pgvector 扩展支持嵌入向量检索，成为构建 RAG（检索增强生成）类应用的热门选择。总体而言，Supabase 适合需要快速搭建后端、重视数据主权与开源生态的开发者与团队。",
+  "tags": [
+    "Supabase",
+    "PostgreSQL",
+    "BaaS",
+    "开源",
+    "TypeScript",
+    "后端开发",
+    "AI 应用",
+    "向量数据库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-25T02:02:17+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "supabase",
+    "stars": 110732,
+    "forks": 14680,
+    "daily_stars": null,
+    "weekly_stars": 1474,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
