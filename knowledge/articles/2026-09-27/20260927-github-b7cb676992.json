@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-b7cb676992",
+  "title": "Tencent/BrowserSkill",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tencent/BrowserSkill",
+  "summary": "腾讯开源的 BrowserSkill 项目，通过 CLI 与浏览器扩展的组合，让 AI 智能体能够直接使用用户已登录的真实浏览器进行自动化操作，且不打断用户的正常工作流程。项目以 TypeScript 编写，在 GitHub 上已获得约 7300 颗星，周增星数超过 2100，热度较高。",
+  "content": "## 项目定位\n\nBrowserSkill 由腾讯开源，核心目标是解决 AI 智能体在浏览器自动化场景中的两个痛点：一是复用用户真实、已登录的浏览器环境，避免重复登录、验证码和会话隔离问题；二是让自动化操作与用户日常浏览互不干扰，实现「后台式」的浏览器控制。\n\n## 技术形态\n\n项目采用 CLI + 浏览器扩展的双组件架构：\n\n- **CLI 层**：提供命令行接口，任何具备 shell 调用能力的 AI 智能体都可以通过标准命令驱动浏览器操作，降低了与不同 Agent 框架的集成成本。\n- **扩展层**：以浏览器扩展形式注入，负责与真实浏览器实例通信，执行页面导航、元素交互、信息提取等动作。\n\n这种设计使 BrowserSkill 不绑定特定 AI 框架，理论上可接入 Claude Code、Cursor、各类自研 Agent 等。\n\n## 关键特性\n\n1. **真实登录态复用**：直接使用用户已登录的浏览器，适合需要账号权限的网页任务。\n2. **非打断式操作**：自动化过程不抢占用户当前工作窗口，提升可用性。\n3. **跨 Agent 兼容**：以 CLI 为统一入口，适配任何能执行 shell 命令的智能体。\n4. **TypeScript 实现**：便于前端/Node.js 生态开发者二次开发和集成。\n\n## 社区热度\n\n仓库当前约 7339 stars、526 forks，周新增 stars 约 2115，属于 GitHub Trending 中 TypeScript 类目的高热度项目，反映出「AI Agent + 浏览器自动化」方向的强烈关注度。\n\n## 适用场景\n\n- 需要登录态的网页数据采集与整理\n- 自动化表单填写、订单查询、后台操作\n- 让 AI Agent 代替用户完成重复性 Web 工作流\n- 与本地 Agent 工具链结合，构建个人自动化助手\n\n## 潜在关注点\n\n由于直接操作用户真实浏览器与登录态，安全边界、权限控制、操作审计以及扩展与 CLI 之间的通信安全，是实际落地时需要重点评估的方面。",
+  "tags": [
+    "AI Agent",
+    "浏览器自动化",
+    "TypeScript",
+    "腾讯开源",
+    "CLI",
+    "浏览器扩展",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:38+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Tencent",
+    "stars": 7339,
+    "forks": 526,
+    "daily_stars": null,
+    "weekly_stars": 2115,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

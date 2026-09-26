@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-60569c15ed",
+  "title": "lightningpixel/modly",
+  "source": "github_trending",
+  "source_url": "https://github.com/lightningpixel/modly",
+  "summary": "Modly 是一款基于本地 AI 的桌面应用，能够从图像或文本提示生成 3D 模型，完全在用户 GPU 上运行，无需云端依赖。项目使用 TypeScript 开发，在 GitHub 上已获得 7812 颗星，日增 116 星，热度较高。",
+  "content": "Modly 是一个开源桌面应用程序，旨在通过本地 AI 模型将图像或文本提示转化为 3D 模型。其核心优势在于完全在用户本地 GPU 上运行，无需上传数据到云端，既保护隐私又降低延迟。项目采用 TypeScript 编写，可能结合了 Electron 或类似框架构建跨平台桌面界面，并集成了本地推理引擎（如 Stable Diffusion 或专用 3D 生成模型）。当前在 GitHub 上拥有 7812 个 star 和 730 个 fork，日增 116 star，显示出社区的高度关注。该工具适合 3D 设计师、游戏开发者、AI 爱好者等快速原型设计，但生成质量与硬件性能相关。",
+  "tags": [
+    "3D 生成",
+    "本地 AI",
+    "桌面应用",
+    "TypeScript",
+    "GPU 加速",
+    "图像到 3D",
+    "文本到 3D"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "lightningpixel",
+    "stars": 7812,
+    "forks": 730,
+    "daily_stars": 116,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

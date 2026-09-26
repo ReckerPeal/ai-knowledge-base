@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-90b4fb2585",
+  "title": "longbridge/gpui-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/longbridge/gpui-kit",
+  "summary": "longbridge/gpui-kit 是一个基于 Rust 和 GPUI 框架的跨平台桌面应用 GUI 组件库，由长桥（Longbridge）团队开源，目前获得约 1.48 万 Star，周增约 288 Star，属于 GitHub Rust 热点项目。",
+  "content": "gpui-kit 是长桥（Longbridge）团队基于 GPUI 构建的 Rust GUI 组件库，目标是为开发者提供一套高质量的跨平台桌面应用 UI 组件，帮助快速搭建外观出色、体验一致的桌面客户端。GPUI 是 Zed 编辑器团队开源的 Rust 原生 GPU 加速 UI 框架，具备高性能渲染与声明式界面构建能力，gpui-kit 在其之上封装了常用组件与主题样式，降低了直接使用 GPUI 的开发门槛。项目使用 Rust 语言编写，天然具备内存安全、零成本抽象与跨平台编译优势，可运行于 macOS、Windows、Linux 等主流桌面系统。从数据看，仓库已积累约 14835 Star、929 Fork，周增约 288 Star，说明社区关注度较高且保持活跃增长，适合作为 Rust 桌面开发生态中的基础 UI 设施。对于希望用 Rust 构建跨平台桌面应用的团队，gpui-kit 提供了可复用的组件层，能显著减少重复造轮子的成本，并与 GPUI 生态形成互补。",
+  "tags": [
+    "Rust",
+    "GPUI",
+    "GUI 组件库",
+    "跨平台桌面应用",
+    "开源项目",
+    "长桥"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "longbridge",
+    "stars": 14835,
+    "forks": 929,
+    "daily_stars": null,
+    "weekly_stars": 288,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

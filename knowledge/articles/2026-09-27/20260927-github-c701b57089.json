@@ -1,0 +1,29 @@
+{
+  "id": "20260927-github-c701b57089",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "summary": "该博客文章探讨了将大语言模型（LLM）的块移除式剪枝问题建模为伊辛优化问题，借鉴物理学中的伊辛模型来优化剪枝决策，从而在减少模型规模的同时保持性能。",
+  "content": "文章提出了一种新颖的LLM剪枝方法，将块移除（block removal）视为一个伊辛优化问题。伊辛模型最初用于描述磁性材料的相变，这里被用来表示剪枝过程中不同块之间的相互作用和依赖关系。通过求解伊辛问题，可以找到最优的块移除组合，以最小化剪枝对模型性能的影响。这种方法借鉴了统计物理中的优化技术，为LLM压缩提供了新的视角。文章可能详细介绍了问题建模、求解算法（如模拟退火或量子退火）以及实验验证，展示了在多个LLM上的剪枝效果。",
+  "tags": [
+    "LLM剪枝",
+    "伊辛模型",
+    "模型压缩",
+    "优化",
+    "物理启发"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-21T13:44:34+00:00",
+  "collected_at": "2026-09-27T01:27:44+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

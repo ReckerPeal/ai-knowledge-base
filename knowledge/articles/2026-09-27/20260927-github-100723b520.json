@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-100723b520",
+  "title": "MakazhanAlpamys/Soup",
+  "source": "github_trending",
+  "source_url": "https://github.com/MakazhanAlpamys/Soup",
+  "summary": "Soup 是一个通过单个 YAML 配置文件即可微调大语言模型的 Python 工具，其核心创新在于层流式训练（Layer Streaming），使得在仅有 4GB 显存的笔记本 GPU 上也能训练 8B 参数模型。项目在 GitHub 上热度极高，已获得 7265 颗星标和 1158 次 fork，日增星标约 64 颗。",
+  "content": "Soup 项目由 MakazhanAlpamys 开发，旨在大幅降低大语言模型微调的硬件门槛。用户只需编写一个 YAML 配置文件，即可启动微调流程，无需复杂的代码编写。其关键技术是层流式训练（Layer Streaming），该技术通过逐层加载和计算模型参数，显著减少显存占用，从而让 8B 参数的大模型能够在仅有 4GB 显存的消费级笔记本 GPU 上运行。项目使用 Python 语言实现，在 GitHub 上迅速走红，目前拥有 7265 个星标和 1158 个 fork，日增星标约 64 个，显示出社区对其低资源微调方案的高度关注。该工具适合希望在有限硬件条件下进行大模型定制的研究者和开发者，有望推动大模型微调的普及化。",
+  "tags": [
+    "LLM微调",
+    "低资源训练",
+    "YAML配置",
+    "层流式训练",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:23+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "MakazhanAlpamys",
+    "stars": 7265,
+    "forks": 1158,
+    "daily_stars": 64,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

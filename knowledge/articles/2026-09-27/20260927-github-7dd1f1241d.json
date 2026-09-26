@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-7dd1f1241d",
+  "title": "vshulcz/deja-vu",
+  "source": "github_trending",
+  "source_url": "https://github.com/vshulcz/deja-vu",
+  "summary": "deja-vu 是一个用 Go 编写的本地工具，为 Claude Code、Codex、Cursor、Copilot CLI、OpenClaw 等 30 多个编码代理提供共享记忆。它直接读取磁盘上已有的会话历史，无需 LLM 或嵌入模型，让一个代理中发现的修复能在任意其他代理中复用，甚至能回溯安装前的历史会话。",
+  "content": "该项目解决的核心问题是：开发者同时使用多个 AI 编码代理时，每个代理的会话历史彼此隔离，导致同一个问题在不同代理中被反复解决。deja-vu 通过一个本地 Go 二进制文件，扫描并索引磁盘上已有的会话记录，构建跨代理的共享记忆层。其技术特点包括：不依赖 LLM 或向量嵌入，完全本地运行，隐私友好；支持 30 多个编码代理，覆盖面广；能够回溯安装之前的历史会话，无需重新积累数据。当前在 GitHub 上获得约 1042 星、102 次 fork，日增约 32 星，属于 Go 语言热点项目。",
+  "tags": [
+    "AI 编码代理",
+    "共享记忆",
+    "Go",
+    "本地优先",
+    "开发者工具",
+    "会话历史"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:32+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "vshulcz",
+    "stars": 1042,
+    "forks": 102,
+    "daily_stars": 32,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

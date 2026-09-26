@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-535c214b37",
+  "title": "atomicstrata/llm-wiki-compiler",
+  "source": "github_trending",
+  "source_url": "https://github.com/atomicstrata/llm-wiki-compiler",
+  "summary": "atomicstrata/llm-wiki-compiler 是一个受 Karpathy 的 LLM Wiki 模式启发的知识编译器，能够将原始资料自动编译成相互链接的 Wiki 页面，使用 TypeScript 编写，目前在 GitHub 上已获得 2130 颗星。",
+  "content": "该项目定位为「知识编译器」，核心思路是输入原始资料（如文档、笔记等），通过 LLM 能力自动生成结构化的、内部互相链接的 Wiki 内容。其灵感来自 Andrej Karpathy 提出的 LLM Wiki 模式，旨在解决知识碎片化、手动整理成本高的问题。项目使用 TypeScript 开发，适合集成到现代 Web 工具链中。当前在 GitHub 上拥有 2130 stars 和 224 forks，周新增约 95 stars，属于近期受关注的热点项目。",
+  "tags": [
+    "LLM",
+    "知识管理",
+    "Wiki",
+    "TypeScript",
+    "自动化",
+    "Karpathy"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:38+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "atomicstrata",
+    "stars": 2130,
+    "forks": 224,
+    "daily_stars": null,
+    "weekly_stars": 95,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

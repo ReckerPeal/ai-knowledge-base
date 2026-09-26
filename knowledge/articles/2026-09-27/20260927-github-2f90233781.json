@@ -1,0 +1,34 @@
+{
+  "id": "20260927-github-2f90233781",
+  "title": "trailofbits/coop",
+  "source": "github_trending",
+  "source_url": "https://github.com/trailofbits/coop",
+  "summary": "Trail of Bits 开源的 coop 是一个用 Rust 编写的隔离虚拟机环境，专门用于安全运行 Claude Code 和 Codex 等 AI 编码代理，通过沙箱机制防止代理对宿主机造成意外或恶意影响。",
+  "content": "coop 由知名安全公司 Trail of Bits 开发，核心目标是为 AI 编码代理（如 Anthropic 的 Claude Code 和 OpenAI 的 Codex）提供隔离的虚拟机运行环境。在 AI 代理日益自主执行代码、访问文件系统和网络的背景下，直接运行这些代理存在安全风险；coop 通过虚拟化隔离，将代理的操作限制在受控环境中，从而保护宿主机系统。项目使用 Rust 语言实现，兼顾性能与内存安全。该仓库在 GitHub 上已获得 667 颗星，近一周新增约 419 颗星，显示出社区对 AI 代理安全运行方案的强烈关注。其典型使用场景包括：安全测试 AI 代理行为、在隔离环境中执行不可信代码、以及为开发团队提供合规的 AI 辅助编程基础设施。",
+  "tags": [
+    "Rust",
+    "AI 代理",
+    "安全隔离",
+    "虚拟机",
+    "Claude Code",
+    "Codex",
+    "沙箱",
+    "Trail of Bits"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:41+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "trailofbits",
+    "stars": 667,
+    "forks": 30,
+    "daily_stars": null,
+    "weekly_stars": 419,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

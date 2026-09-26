@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-d659f89dd8",
+  "title": "argoproj/argo-cd",
+  "source": "github_trending",
+  "source_url": "https://github.com/argoproj/argo-cd",
+  "summary": "Argo CD 是 Argo 项目下的 Kubernetes 声明式持续部署工具，采用 GitOps 模式，将 Git 仓库作为应用状态的唯一真实来源，自动同步集群状态。项目使用 Go 语言开发，在 GitHub 上拥有约 2.4 万星标和 7.8 千分支，是云原生持续交付领域的主流方案。",
+  "content": "## 项目定位\n\nArgo CD 是 CNCF 毕业项目 Argo 的核心组件之一，专注于 Kubernetes 环境下的声明式持续部署（Declarative Continuous Deployment）。它把 Git 仓库视为期望状态的唯一来源，通过持续比对 Git 中声明的清单与集群实际状态，自动或手动地将集群收敛到目标状态。\n\n## 核心机制\n\n- **GitOps 工作流**：应用定义、配置与环境差异全部以代码形式存放在 Git 中，变更通过 Pull Request 评审后合并，再由 Argo CD 自动同步到集群。\n- **状态同步与漂移检测**：控制器持续监控已部署资源，一旦发现实际状态偏离 Git 声明，即标记为 OutOfSync 并支持自动修复。\n- **多集群与多环境管理**：支持将同一套应用定义部署到多个 Kubernetes 集群和命名空间，便于管理开发、测试、生产等环境。\n- **可视化与回滚**：提供 Web UI、CLI 和 API，可直观查看应用拓扑、资源健康状态与同步历史，并支持一键回滚到任意 Git 提交。\n\n## 技术生态\n\nArgo CD 与 Argo Rollouts、Argo Workflows、Argo Events 共同构成 Argo 生态，覆盖渐进式交付、工作流编排和事件驱动等场景。它可与 Helm、Kustomize、Jsonnet 等模板工具集成，并支持 SSO、RBAC、审计日志等企业级能力。\n\n## 项目热度\n\n该仓库当前约 24,246 个星标、7,887 个分支，日增约 6 星，属于长期活跃的成熟项目，在 GitHub Go 语言热点分类中持续受到关注。",
+  "tags": [
+    "Kubernetes",
+    "GitOps",
+    "持续部署",
+    "云原生",
+    "Go",
+    "Argo CD",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:32+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "argoproj",
+    "stars": 24246,
+    "forks": 7887,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

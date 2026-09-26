@@ -1,0 +1,37 @@
+{
+  "id": "20260927-github-b391bd4a86",
+  "title": "krillinai/OpenCreator",
+  "source": "github_trending",
+  "source_url": "https://github.com/krillinai/OpenCreator",
+  "summary": "OpenCreator（原 KrillinAI）是一个基于 Codex 的开源 AI 创作工作台，面向内容创作者，将视频、图像、语音、数字人、视频翻译与剪辑等能力整合到统一的 Agent 驱动环境中。项目使用 TypeScript 开发，在 GitHub 上已获得约 1.24 万 Star，周增约 961 Star，属于近期热度较高的 AI 创作工具类开源项目。",
+  "content": "## 项目定位\n\nOpenCreator（前身为 KrillinAI）定位为「面向创作者的 AI 工作台」，由 Codex 驱动。其核心思路是把内容创作过程中分散的多种 AI 能力收敛到一个统一的工作空间内，并通过 Agent 机制进行编排与调用，降低创作者在多个工具之间切换的成本。\n\n## 核心功能\n\n根据仓库摘要，项目覆盖的能力包括：\n\n- **视频生成与剪辑**：支持视频创作以及后期编辑操作；\n- **图像生成**：提供图像内容生成能力；\n- **语音合成**：生成配音或语音内容；\n- **数字人（Avatar）**：生成虚拟形象相关内容；\n- **视频翻译**：面向跨语言内容分发的视频翻译能力。\n\n上述功能均以 Agent 的形式在同一个工作台内协同，强调「一站式」而非单点工具。\n\n## 技术特征\n\n- **语言**：TypeScript，属于前端/全栈生态中较为主流的技术选型，便于构建交互式创作界面；\n- **驱动方式**：以 Codex 为核心驱动，意味着其能力编排可能依赖代码生成/智能体调度范式；\n- **Agent 架构**：多能力以 Agent 形式组织，适合扩展新的创作能力模块。\n\n## 社区热度\n\n- Star 数约 12,399，Fork 数约 1,274；\n- 周新增 Star 约 961，说明项目在采集时点仍处于较快的增长阶段；\n- 归类于 GitHub 热点中的 TypeScript 类别。\n\n## 适用人群与场景\n\n主要面向短视频创作者、自媒体运营者、跨境电商/多语言内容团队，以及需要批量生产视频、图像、语音素材的内容工作室。视频翻译与数字人能力的组合，尤其适合需要多语言分发的创作者。\n\n## 观察与提示\n\n项目由 KrillinAI 更名而来，说明其产品方向经历过一次聚焦或重塑。由于摘要未提供发布时间与详细技术文档，实际部署方式、模型依赖、是否支持本地推理、许可证条款等信息需进一步查看仓库 README 与代码确认。",
+  "tags": [
+    "AI 创作工具",
+    "开源工作台",
+    "TypeScript",
+    "Agent",
+    "视频生成",
+    "视频翻译",
+    "数字人",
+    "语音合成",
+    "图像生成",
+    "Codex",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:38+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "krillinai",
+    "stars": 12399,
+    "forks": 1274,
+    "daily_stars": null,
+    "weekly_stars": 961,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

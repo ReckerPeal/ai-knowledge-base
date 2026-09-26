@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-245e0d35ea",
+  "title": "distribution/distribution",
+  "source": "github_trending",
+  "source_url": "https://github.com/distribution/distribution",
+  "summary": "distribution/distribution 是 CNCF 旗下的容器镜像仓库工具包，用于打包、分发、存储和交付容器内容，是 Docker Registry 的开源实现基础，采用 Go 语言编写，拥有超过 1 万 Star。",
+  "content": "## 项目概述\n\ndistribution/distribution（原名 Docker Registry）是容器生态中用于打包、传输、存储和交付容器内容的工具包。它是 Docker Hub 及众多私有镜像仓库的底层实现基础，也是 CNCF 的孵化项目之一。\n\n## 核心功能\n\n- **镜像存储**：提供可插拔的存储驱动，支持本地文件系统、S3、Azure Blob、GCS 等多种后端。\n- **内容分发**：实现 OCI Distribution Spec 与 Docker Registry HTTP API V2，支持镜像的推送与拉取。\n- **安全与认证**：支持 token 认证、TLS、基于角色的访问控制等机制。\n- **可扩展性**：通过中间件与钩子机制支持通知、缓存、日志等扩展能力。\n\n## 技术特点\n\n- 使用 Go 语言编写，具备良好的并发性能与跨平台部署能力。\n- 遵循 OCI（Open Container Initiative）标准，与主流容器运行时和编排系统兼容。\n- 模块化架构，便于二次开发与定制化部署。\n\n## 社区与生态\n\n- GitHub Star 数约 10,623，Fork 数约 2,792，属于容器领域的高影响力项目。\n- 被广泛用于企业私有镜像仓库、CI/CD 流水线及云原生基础设施中。\n- 与 Kubernetes、containerd、Harbor 等项目形成紧密的生态协同。\n\n## 适用场景\n\n- 搭建私有容器镜像仓库。\n- 作为镜像分发系统的底层组件进行二次开发。\n- 研究容器镜像存储与分发协议的参考实现。",
+  "tags": [
+    "容器镜像",
+    "镜像仓库",
+    "Go",
+    "CNCF",
+    "OCI",
+    "云原生",
+    "Docker Registry"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:44+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "distribution",
+    "stars": 10623,
+    "forks": 2792,
+    "daily_stars": null,
+    "weekly_stars": 11,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

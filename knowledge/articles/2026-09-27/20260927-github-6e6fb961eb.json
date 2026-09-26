@@ -1,0 +1,34 @@
+{
+  "id": "20260927-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速、磁盘空间高效的包管理器，基于内容寻址存储和硬链接机制，显著减少重复依赖占用，提升安装速度。该仓库在 GitHub 上拥有约 3.67 万星标，热度持续，是前端与 Node.js 生态中重要的基础设施项目。",
+  "content": "pnpm（performant npm）是一个面向 Node.js 生态的包管理器，核心目标是解决传统 npm 在磁盘空间和安装速度上的痛点。其关键设计包括：1）内容寻址存储：所有依赖包按内容哈希存储于全局仓库，不同项目共享同一份文件，避免重复下载与复制；2）硬链接与符号链接：项目 node_modules 中的依赖通过硬链接指向全局存储，节省磁盘空间并加快安装；3）严格的依赖隔离：默认使用符号链接结构，防止访问未声明的依赖，提升项目可维护性；4）支持 monorepo：内置 workspace 功能，适合多包仓库管理。该仓库语言标注为 Rust，可能涉及核心性能模块或 CLI 的 Rust 实现，但 pnpm 主体仍以 TypeScript/JavaScript 为主。项目星标约 36,655，fork 约 1,878，日增星约 22，周增星约 104，表明社区活跃度稳定。pnpm 适用于前端工程、Node.js 服务端项目以及需要高效依赖管理的 CI/CD 场景，是 npm、Yarn 之外的主流替代方案。",
+  "tags": [
+    "pnpm",
+    "包管理器",
+    "Node.js",
+    "磁盘空间优化",
+    "monorepo",
+    "Rust",
+    "前端工程",
+    "依赖管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:29+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 36655,
+    "forks": 1878,
+    "daily_stars": 22,
+    "weekly_stars": 104,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

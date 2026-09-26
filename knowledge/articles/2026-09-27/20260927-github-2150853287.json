@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-2150853287",
+  "title": "pytorch/pytorch",
+  "source": "github_trending",
+  "source_url": "https://github.com/pytorch/pytorch",
+  "summary": "PyTorch 是 Meta（原 Facebook）开源的深度学习框架，以 Python 张量计算和动态神经网络为核心，提供强大的 GPU 加速能力，是当前学术界与工业界最主流的深度学习工具之一。",
+  "content": "PyTorch 是一个基于 Python 的开源机器学习库，主要用于深度学习应用。其核心特性包括：\n\n1. **张量计算（Tensor）**：提供类似 NumPy 的多维数组操作，但支持 GPU 加速，可大幅提升数值计算效率。\n2. **动态计算图（Dynamic Computation Graph）**：采用 define-by-run 模式，网络结构在运行时动态构建，调试直观、灵活，特别适合研究场景。\n3. **自动微分（Autograd）**：内置自动求导机制，简化反向传播与梯度计算。\n4. **丰富的生态**：包括 TorchVision（计算机视觉）、TorchText（自然语言处理）、TorchAudio（音频处理）等，以及生产部署工具 TorchScript、TorchServe。\n\n该仓库为 PyTorch 主仓库，主要使用 Python 编写，底层核心由 C++/CUDA 实现。截至采集时，仓库累计获得 103,361 个 Star、30,538 个 Fork，近一周新增 255 个 Star，长期位居 GitHub 热点与 Python 分类前列。PyTorch 被广泛应用于学术研究、工业级模型训练与部署，是深度学习领域事实上的标准框架之一。",
+  "tags": [
+    "PyTorch",
+    "深度学习",
+    "神经网络",
+    "GPU加速",
+    "Python",
+    "机器学习框架",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:35+08:00",
+  "language": "Python",
+  "score": 9.8,
+  "metadata": {
+    "author": "pytorch",
+    "stars": 103361,
+    "forks": 30538,
+    "daily_stars": null,
+    "weekly_stars": 255,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

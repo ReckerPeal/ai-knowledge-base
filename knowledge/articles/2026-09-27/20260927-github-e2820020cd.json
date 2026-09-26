@@ -1,0 +1,33 @@
+{
+  "id": "20260927-github-e2820020cd",
+  "title": "BerriAI/litellm",
+  "source": "github_trending",
+  "source_url": "https://github.com/BerriAI/litellm",
+  "summary": "BerriAI/litellm 是一个高性能 AI 网关，采用 Rust 核心与 Python SDK，支持以 OpenAI 或原生格式调用 100+ LLM API，并提供成本追踪、防护栏、负载均衡和日志记录等功能。",
+  "content": "BerriAI/litellm 定位为“最快、最轻量的 AI 网关”，其核心使用 Rust 编写以追求性能，同时提供 Python SDK 方便集成。它支持统一调用 100 多种大语言模型 API（包括 Bedrock、Azure、OpenAI、Anthropic、VertexAI、vLLM、Nvidia NIM 等），并允许使用 OpenAI 格式或各模型原生格式。关键特性包括：成本追踪（帮助监控 API 开销）、防护栏（安全与合规控制）、负载均衡（提高可用性与吞吐）、日志记录（便于审计与调试）。该仓库在 GitHub 上拥有约 59,665 颗星和 11,800 次 fork，近期周增星约 568，属于 Python 语言的热门项目。",
+  "tags": [
+    "AI Gateway",
+    "LLM",
+    "Python",
+    "Rust",
+    "API 管理",
+    "成本追踪",
+    "负载均衡"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:35+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "BerriAI",
+    "stars": 59665,
+    "forks": 11800,
+    "daily_stars": null,
+    "weekly_stars": 568,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

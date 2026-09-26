@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-421b730e17",
+  "title": "linebender/fearless_simd",
+  "source": "github_trending",
+  "source_url": "https://github.com/linebender/fearless_simd",
+  "summary": "linebender/fearless_simd 是一个 Rust 库，旨在提供安全、可移植的 SIMD（单指令多数据）抽象，让开发者无需编写平台特定代码即可利用硬件并行能力。项目由 linebender 组织维护，当前获得约 596 个 Star，日增 22 个 Star，属于 GitHub Rust 热点项目。",
+  "content": "fearless_simd 的核心目标是解决 Rust 中 SIMD 编程的痛点：传统 SIMD 实现往往需要依赖平台特定的内联汇编或 intrinsic，代码可移植性差且容易引入未定义行为。该库通过提供统一的抽象层，在编译期根据目标平台自动选择最优的 SIMD 指令集（如 SSE、AVX、NEON 等），同时保持内存安全和类型安全。其设计理念与 Rust 的“无畏并发”（fearless concurrency）类似，因此命名为“fearless_simd”。项目由 linebender 组织开发，该组织在 Rust 图形和 UI 领域有多个知名项目（如 Druid、Vello）。当前仓库拥有约 596 个 Star 和 35 个 Fork，日增 22 个 Star，表明社区关注度正在上升。该库适合需要高性能数值计算、图像处理、音频处理等场景的 Rust 开发者，有望成为 Rust 生态中 SIMD 编程的重要基础设施。",
+  "tags": [
+    "Rust",
+    "SIMD",
+    "高性能计算",
+    "并行计算",
+    "跨平台",
+    "linebender"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "linebender",
+    "stars": 596,
+    "forks": 35,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260927-github-4ee39abf60",
+  "title": "rust-lang/rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust",
+  "summary": "rust-lang/rust 是 Rust 编程语言的官方主仓库，致力于让每个人都能构建可靠且高效的软件。该仓库汇集了 Rust 编译器、标准库及核心工具链的源代码，是 Rust 生态系统的基石。目前拥有超过 11.9 万 Star 和 1.68 万 Fork，日增约 54 Star，周增约 308 Star，持续位居 GitHub 热点 Rust 分类。",
+  "content": "## 仓库概览\n\n- **仓库名称**：rust-lang/rust\n- **项目定位**：Rust 编程语言的官方实现仓库，包含编译器（rustc）、标准库（std）、核心库（core）以及相关工具链的源代码。\n- **官方口号**：Empowering everyone to build reliable and efficient software.（赋能每个人构建可靠且高效的软件。）\n- **主要语言**：Rust\n- **社区热度**：119,202 Stars / 16,824 Forks；日增约 54 Stars，周增约 308 Stars。\n\n## 项目价值\n\nRust 语言以内存安全、零成本抽象和高并发性能著称，连续多年被 Stack Overflow 评为最受开发者喜爱的编程语言。该仓库作为语言的核心实现，直接决定了 Rust 的语法特性、编译优化、跨平台支持与生态演进方向。\n\n## 技术特点\n\n1. **所有权与借用检查**：编译期保证内存安全，无需垃圾回收。\n2. **零成本抽象**：高级语言特性在编译后不引入额外运行时开销。\n3. **强大的类型系统**：支持泛型、Trait、模式匹配等，提升代码可靠性。\n4. **优秀的工具链**：内置 Cargo 包管理器、rustfmt 格式化工具、clippy 静态检查等。\n5. **活跃的社区治理**：采用 RFC 流程与多团队协作模式，保证语言演进的开放性与稳定性。\n\n## 适用场景\n\n- 系统编程与操作系统开发\n- 高性能网络服务与微服务\n- 嵌入式与物联网设备\n- WebAssembly 与区块链基础设施\n- 命令行工具与开发工具链\n\n## 总结\n\nrust-lang/rust 是当今最具影响力的系统级编程语言项目之一，其仓库不仅是语言实现的核心，也是开源协作与工程实践的典范。对于希望深入理解现代编程语言设计、编译器实现或系统编程的开发者而言，该仓库具有极高的学习与参考价值。",
+  "tags": [
+    "Rust",
+    "编程语言",
+    "编译器",
+    "系统编程",
+    "开源",
+    "GitHub热点",
+    "标准库",
+    "工具链"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:29+08:00",
+  "language": "Rust",
+  "score": 9.8,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 119202,
+    "forks": 16824,
+    "daily_stars": 54,
+    "weekly_stars": 308,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260927-github-cfaa10aec8",
+  "title": "bootandy/dust",
+  "source": "github_trending",
+  "source_url": "https://github.com/bootandy/dust",
+  "summary": "dust 是使用 Rust 编写的 du 命令替代工具，以更直观的方式展示磁盘使用情况，通过树形结构和颜色标识帮助用户快速定位占用空间较大的目录和文件。",
+  "content": "bootandy/dust 是一个用 Rust 重写的磁盘使用分析工具，定位为经典 Unix 命令 du 的更直观版本。它递归扫描目录并计算各子目录和文件的大小，然后以树形结构展示结果，同时使用颜色渐变和排序来突出显示占用空间最大的项。相比 du 的原始输出，dust 无需额外参数即可提供可读性更强的概览，支持限制显示深度、忽略隐藏文件、按大小排序等常用选项。该项目在 GitHub 上已获得超过 1.2 万颗星，日增约 34 星，表明其受到开发者社区的广泛关注。Rust 语言带来的性能优势和内存安全性使其在大型目录扫描场景下表现良好。dust 适合开发者和系统管理员快速排查磁盘空间占用问题，是命令行工具现代化的典型案例。",
+  "tags": [
+    "Rust",
+    "命令行工具",
+    "磁盘使用",
+    "du替代",
+    "系统管理",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-27T01:27:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "bootandy",
+    "stars": 12382,
+    "forks": 294,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
