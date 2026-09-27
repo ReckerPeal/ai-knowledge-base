@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-1fd26af167",
+  "title": "cockroachdb/cockroach",
+  "source": "github_trending",
+  "source_url": "https://github.com/cockroachdb/cockroach",
+  "summary": "CockroachDB 是一个云原生分布式 SQL 数据库，采用 Go 语言开发，主打高可用性、弹性扩展和数据放置控制，在 GitHub 上拥有约 3.25 万星标。",
+  "content": "CockroachDB 由 cockroachdb 组织开源，是一个面向云环境设计的分布式 SQL 数据库。其核心特性包括：高可用性（通过多副本与自动故障转移保障服务持续可用）、弹性扩展（支持水平扩容以应对业务增长）、以及数据放置控制（允许用户指定数据的地理位置以满足合规与延迟需求）。项目使用 Go 语言实现，当前在 GitHub 上获得 32517 个星标、4118 次 fork，日增星标约 7 个，属于 GitHub 热点中的 Go 语言类别。该数据库适用于需要强一致、可扩展且容灾能力强的在线事务处理场景。",
+  "tags": [
+    "分布式数据库",
+    "SQL",
+    "云原生",
+    "Go",
+    "高可用",
+    "水平扩展",
+    "CockroachDB"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "cockroachdb",
+    "stars": 32517,
+    "forks": 4118,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

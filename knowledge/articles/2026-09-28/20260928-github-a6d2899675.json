@@ -1,0 +1,32 @@
+{
+  "id": "20260928-github-a6d2899675",
+  "title": "vercel-labs/json-render",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/json-render",
+  "summary": "vercel-labs/json-render 是 Vercel 实验室推出的生成式 UI（Generative UI）框架，使用 TypeScript 编写，在 GitHub 上已获得超过 1.8 万颗星，周增星约 1500，热度较高。",
+  "content": "该仓库定位为「生成式 UI 框架」，核心思路是让界面由数据（如 JSON）驱动并动态渲染，而非完全依赖手写组件代码。它由 Vercel Labs 维护，语言为 TypeScript，当前 stars 约 18332、forks 约 971，周新增 stars 约 1561，说明社区关注度持续上升。生成式 UI 通常用于 AI 应用场景：模型输出结构化描述，框架将其渲染为真实界面，从而降低前端开发成本、提升交互灵活性。该项目的价值在于把「AI 生成内容」与「UI 渲染」打通，适合构建对话式应用、低代码平台、动态仪表盘等。由于来源摘要信息有限，具体 API、渲染协议与生态集成需进一步查看仓库文档确认。",
+  "tags": [
+    "生成式UI",
+    "TypeScript",
+    "Vercel",
+    "前端框架",
+    "AI应用",
+    "JSON渲染"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:29+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 18332,
+    "forks": 971,
+    "daily_stars": null,
+    "weekly_stars": 1561,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

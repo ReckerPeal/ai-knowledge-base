@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-338e09206a",
+  "title": "fyne-io/fyne",
+  "source": "github_trending",
+  "source_url": "https://github.com/fyne-io/fyne",
+  "summary": "Fyne 是一个用 Go 语言编写的跨平台 GUI 工具包，设计灵感来自 Material Design，支持桌面和移动端应用开发。",
+  "content": "Fyne 是 Go 生态中一个成熟的跨平台 GUI 工具包，其设计遵循 Material Design 规范，旨在让开发者用纯 Go 语言构建美观、原生的桌面和移动应用。该仓库由 fyne-io 组织维护，目前拥有约 2.87 万星标和 1554 个复刻，日增约 8 星，显示出稳定的社区关注度。Fyne 的核心优势包括：1）真正的跨平台支持，可运行于 Windows、macOS、Linux、Android 和 iOS；2）纯 Go 实现，无需 CGO 或平台特定绑定，简化了构建和分发；3）内置丰富的 UI 组件和主题系统，遵循 Material Design 风格；4）提供声明式 API 和 Canvas 对象模型，便于快速开发。此外，Fyne 还配套了 fyne CLI 工具和 FyneDesk 等项目，生态逐步完善。对于希望用 Go 开发图形界面应用的开发者而言，Fyne 是一个值得关注和使用的选择。",
+  "tags": [
+    "Go",
+    "GUI",
+    "跨平台",
+    "Material Design",
+    "桌面开发",
+    "移动开发",
+    "工具包"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "fyne-io",
+    "stars": 28722,
+    "forks": 1554,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

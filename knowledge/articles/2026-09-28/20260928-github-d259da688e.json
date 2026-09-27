@@ -1,0 +1,32 @@
+{
+  "id": "20260928-github-d259da688e",
+  "title": "daeuniverse/dae",
+  "source": "github_trending",
+  "source_url": "https://github.com/daeuniverse/dae",
+  "summary": "dae 是一个基于 eBPF 的 Linux 高性能透明代理解决方案，使用 Go 语言开发，在 GitHub 上获得 6243 颗星，属于热门网络代理项目。",
+  "content": "daeuniverse/dae 是一个利用 eBPF 技术实现的高性能透明代理工具，专为 Linux 系统设计。它通过 eBPF 在内核层面高效处理网络流量，提供透明代理功能，适用于需要高性能网络转发的场景。项目使用 Go 语言编写，当前在 GitHub 上拥有 6243 个 star 和 409 个 fork，日增约 3 个 star，属于 GitHub 热点中的 Go 语言项目。其核心优势在于结合 eBPF 的高效性和 Go 的易用性，为 Linux 用户提供低开销、高吞吐的代理方案。",
+  "tags": [
+    "eBPF",
+    "透明代理",
+    "Linux",
+    "Go",
+    "网络性能",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "daeuniverse",
+    "stars": 6243,
+    "forks": 409,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

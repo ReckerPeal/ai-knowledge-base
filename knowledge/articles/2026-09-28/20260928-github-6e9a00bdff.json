@@ -1,0 +1,32 @@
+{
+  "id": "20260928-github-6e9a00bdff",
+  "title": "anthropics/financial-services",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/financial-services",
+  "summary": "Anthropic 官方开源的金融服务业 AI 解决方案仓库，基于 Python 构建，提供面向金融场景的智能体与工具链参考实现，上线后迅速获得近 3.8 万 Star，是当前金融 AI 落地领域最受关注的开源项目之一。",
+  "content": "该仓库由 Anthropic 官方维护，定位为金融服务业（银行、保险、资管、支付等）的 AI 应用参考实现集合，语言为 Python。结合其高热度（约 37,822 Star、5,462 Fork，近一周新增约 2,633 Star）判断，项目很可能围绕 Claude 模型在金融场景中的落地展开，涵盖智能投研、合规审查、客户服务、文档处理、风险分析等典型用例，并提供可复用的 Agent 框架、工具调用示例与最佳实践。\n\n核心价值在于三点：一是官方背书，接口与提示工程实践与 Anthropic 模型能力保持同步；二是行业垂直，直接面向金融业务的高合规、高准确性要求，示例更贴近生产；三是生态效应，Python 语言便于与现有数据栈、量化框架和风控系统集成。\n\n适用人群包括金融科技团队、量化与投研工程师、企业 AI 平台建设者以及希望将大模型引入受监管行业的开发者。建议关注其目录结构中的示例数量、依赖的模型版本、是否包含评测基准与安全护栏实现，以评估可直接复用的比例。",
+  "tags": [
+    "Anthropic",
+    "金融科技",
+    "AI Agent",
+    "Python",
+    "大模型应用",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:27+08:00",
+  "language": "Python",
+  "score": 8.8,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 37822,
+    "forks": 5462,
+    "daily_stars": null,
+    "weekly_stars": 2633,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

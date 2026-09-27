@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-e2fd3d80ed",
+  "title": "TencentCloud/Octop",
+  "source": "github_trending",
+  "source_url": "https://github.com/TencentCloud/Octop",
+  "summary": "腾讯云开源的 Octop 是一个可自托管的智能 AI 助手，主打多用户与多智能体（multi-agent）协作能力，使用 Python 编写，在 GitHub 上已获得约 5240 颗星，周增星约 951，热度较高。",
+  "content": "Octop 由腾讯云（TencentCloud）开源，定位为「更聪明的、可自托管的 AI 助手」，核心特性包括多用户（multi-user）与多智能体（multi-agent）支持。\n\n关键信息：\n- 项目地址：https://github.com/TencentCloud/Octop\n- 开发语言：Python\n- 社区热度：Stars 约 5240，Forks 约 635，周新增 Stars 约 951，属于 GitHub 热点中的 Python 类项目。\n- 部署形态：self-hosted（自托管），意味着用户可在自有环境中部署，便于数据隐私与内网集成。\n- 能力方向：多用户体系适合团队/企业场景；多智能体架构适合复杂任务编排、角色分工与工具调用。\n\n适用场景推测：企业内部 AI 助手、团队协作型 Agent 平台、需要私有化部署的智能问答与自动化工作流。\n\n由于摘要信息有限，具体功能模块、支持的模型、插件生态与部署文档需进一步查阅仓库 README 与官方文档确认。",
+  "tags": [
+    "AI Assistant",
+    "Multi-Agent",
+    "Self-Hosted",
+    "Python",
+    "腾讯云",
+    "开源",
+    "多用户"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:27+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "TencentCloud",
+    "stars": 5240,
+    "forks": 635,
+    "daily_stars": null,
+    "weekly_stars": 951,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

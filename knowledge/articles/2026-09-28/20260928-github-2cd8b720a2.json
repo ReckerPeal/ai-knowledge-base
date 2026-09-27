@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-2cd8b720a2",
+  "title": "golang/go",
+  "source": "github_trending",
+  "source_url": "https://github.com/golang/go",
+  "summary": "Go 语言官方仓库，由 Google 主导开发的开源编程语言，以简洁语法、原生并发支持和高效编译著称，拥有超过 13.9 万 Star，是云原生与后端服务领域的主流语言之一。",
+  "content": "## 项目概览\n\ngolang/go 是 Go 编程语言的官方源代码仓库，由 Google 团队创建并维护。Go（又称 Golang）是一门静态类型、编译型的开源编程语言，设计目标是兼具开发效率与运行性能。\n\n## 核心特性\n\n- **简洁语法**：语言规范精简，学习曲线平缓，强调可读性与工程可维护性。\n- **原生并发**：内置 goroutine 与 channel，基于 CSP 模型，使并发编程更直观、更安全。\n- **快速编译**：编译速度快，适合大型项目与持续集成流程。\n- **垃圾回收**：自带低延迟 GC，兼顾内存安全与运行效率。\n- **跨平台**：支持多操作系统与多架构，交叉编译便捷。\n- **标准库丰富**：网络、加密、文件、HTTP 等常用能力开箱即用。\n\n## 生态与影响\n\nGo 是云原生计算基金会（CNCF）生态的核心语言，Docker、Kubernetes、Prometheus、etcd、Terraform 等重量级基础设施项目均以 Go 编写。其工具链（go build、go test、go mod 等）与模块化依赖管理已成为现代 Go 工程实践的标准。\n\n## 仓库数据\n\n- 作者：golang\n- Star 数：139,053\n- Fork 数：20,687\n- 日增 Star：29\n- 周增 Star：214\n- 主要语言：Go\n- 分类：GitHub 热点 · Go\n\n## 适用场景\n\n后端服务、微服务架构、云原生基础设施、CLI 工具、网络编程、DevOps 工具链等。\n\n## 综合评价\n\n作为一门成熟且被广泛采用的语言，Go 在性能、开发效率与生态成熟度之间取得了良好平衡。该仓库是语言本身的权威来源，长期保持高活跃度与高关注度，对后端与基础设施开发者具有极高的参考与使用价值。",
+  "tags": [
+    "Go",
+    "编程语言",
+    "官方仓库",
+    "云原生",
+    "并发编程",
+    "后端开发",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 9.8,
+  "metadata": {
+    "author": "golang",
+    "stars": 139053,
+    "forks": 20687,
+    "daily_stars": 29,
+    "weekly_stars": 214,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260928-github-19fc1912b6",
+  "title": "microsoft/TypeScript",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/TypeScript",
+  "summary": "微软开源的 TypeScript 是 JavaScript 的超集，可编译为纯净的 JavaScript 输出，当前在 GitHub 上拥有超过 11.1 万星标，属于高热度项目。",
+  "content": "TypeScript 由微软主导开发并开源，定位为 JavaScript 的超集，在保留 JavaScript 语法的同时引入静态类型系统，最终编译输出为干净、可读的 JavaScript 代码，可运行于任何支持 JavaScript 的环境。该仓库在 GitHub 上累计获得约 111,233 个星标、15,122 次 fork，近期日增星标约 23 个，长期位居 GitHub 热点榜单。项目主要使用 Go 语言实现（依据来源元数据标注），体现了其编译器工具链的工程实现语言选择。TypeScript 已成为现代前端与 Node.js 生态中广泛采用的主流语言，被 Angular、Vue、React 等框架及大量企业级项目作为首选开发语言，对提升大型项目的可维护性、类型安全性和开发体验具有重要价值。",
+  "tags": [
+    "TypeScript",
+    "JavaScript",
+    "静态类型",
+    "编译器",
+    "微软",
+    "开源",
+    "前端开发",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 111233,
+    "forks": 15122,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260928-github-934d44254f",
+  "title": "pacifio/atlas",
+  "source": "github_trending",
+  "source_url": "https://github.com/pacifio/atlas",
+  "summary": "pacifio/atlas 是一个用 Rust 编写的面向 AI 编码代理的源代码控制工具，支持同时使用多个编码代理，集中追踪它们的变更并进行查询。",
+  "content": "该仓库定位为“代理的源代码控制”，核心目标是解决多编码代理协作场景下的变更管理问题。用户可以在一个统一平台中运行多个编码代理，自动记录每个代理产生的代码修改，并提供查询能力以便审计、对比或回滚。项目使用 Rust 语言开发，当前在 GitHub 上已获得约 7969 个 Star 和 332 个 Fork，单日新增约 490 个 Star，热度较高，属于 GitHub 热点中的 Rust 类别项目。",
+  "tags": [
+    "Rust",
+    "AI代理",
+    "源代码控制",
+    "编码代理",
+    "版本管理",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:20+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "pacifio",
+    "stars": 7969,
+    "forks": 332,
+    "daily_stars": 490,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

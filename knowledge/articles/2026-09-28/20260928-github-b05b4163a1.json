@@ -1,0 +1,34 @@
+{
+  "id": "20260928-github-b05b4163a1",
+  "title": "kubernetes/kubernetes",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes/kubernetes",
+  "summary": "Kubernetes 是 Google 开源的生产级容器编排与管理系统，现由 CNCF 托管，是云原生生态的事实标准。项目使用 Go 语言开发，GitHub 星标超过 12.8 万，社区活跃度极高。",
+  "content": "## 项目概述\n\nKubernetes（常缩写为 K8s）是一个用于自动化部署、扩展和管理容器化应用的开源平台，官方定位为「生产级容器调度与管理」（Production-Grade Container Scheduling and Management）。它最初由 Google 基于内部 Borg 系统的经验设计，于 2014 年开源，后捐赠给云原生计算基金会（CNCF），目前是云原生领域最核心的基础设施项目。\n\n## 核心能力\n\n- **服务发现与负载均衡**：通过 DNS 名称或自有 IP 暴露容器，并自动分配流量。\n- **存储编排**：支持本地存储、公有云存储及网络存储系统的自动挂载。\n- **自动部署与回滚**：声明式地描述期望状态，控制器持续将实际状态收敛到期望状态。\n- **自动装箱**：根据资源需求与约束自动调度容器到合适节点，提升资源利用率。\n- **自我修复**：自动重启失败容器、替换异常 Pod、在节点不可用时重新调度。\n- **密钥与配置管理**：无需重建镜像即可更新应用配置和敏感信息。\n- **水平扩缩容**：支持基于指标的手动与自动扩缩。\n\n## 架构要点\n\nKubernetes 采用控制平面（Control Plane）与工作节点（Node）分离的架构。控制平面包含 kube-apiserver、etcd、kube-scheduler、kube-controller-manager 等组件；工作节点运行 kubelet、kube-proxy 和容器运行时（如 containerd、CRI-O）。其核心抽象包括 Pod、Service、Deployment、StatefulSet、DaemonSet、ConfigMap、Secret、Namespace 等。\n\n## 生态与影响\n\nKubernetes 已成为容器编排领域的事实标准，围绕它形成了庞大的云原生生态：Helm（包管理）、Prometheus（监控）、Istio（服务网格）、Operator 模式、CRD 扩展机制等。几乎所有主流云厂商都提供托管 Kubernetes 服务（EKS、GKE、AKS 等）。\n\n## 社区与数据\n\n- 开发语言：Go\n- GitHub 星标：约 128,049\n- Fork 数：约 45,431\n- 近期活跃度：日增约 36 星，周增约 234 星\n- 治理模式：CNCF 托管，采用 SIG（特别兴趣小组）驱动的开放治理\n\n## 适用场景\n\n适用于需要大规模容器编排、微服务治理、混合云/多云部署、CI/CD 流水线集成以及平台工程团队构建内部开发者平台（IDP）的场景。对于小型单体应用，其复杂度可能偏高，需权衡运维成本。",
+  "tags": [
+    "Kubernetes",
+    "容器编排",
+    "云原生",
+    "Go",
+    "CNCF",
+    "微服务",
+    "DevOps",
+    "基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 9.8,
+  "metadata": {
+    "author": "kubernetes",
+    "stars": 128049,
+    "forks": 45431,
+    "daily_stars": 36,
+    "weekly_stars": 234,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

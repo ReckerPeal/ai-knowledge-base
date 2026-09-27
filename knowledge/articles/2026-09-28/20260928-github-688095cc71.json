@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-688095cc71",
+  "title": "yynxxxxx/Codex-X",
+  "source": "github_trending",
+  "source_url": "https://github.com/yynxxxxx/Codex-X",
+  "summary": "Codex-X 是一个用 Rust 编写的跨平台桌面/CLI 工具，为 OpenAI Codex 提供可视化管理，支持 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理及 TOML 配置可视化，当前 GitHub 星标约 3959。",
+  "content": "Codex-X 是面向 OpenAI Codex 桌面端与命令行界面的可视化管理工具，使用 Rust 语言开发，具备跨平台能力。其核心功能包括：Provider 与 API 的快速切换，方便用户在不同模型服务间迁移；会话同步，用于统一管理 Codex 的对话历史；提示词注入，支持自定义或动态插入提示内容；Skills 与 MCP（Model Context Protocol）管理，扩展 Codex 的工具调用与上下文能力；以及 TOML 配置文件的可视化编辑，降低手动配置门槛。该仓库在 GitHub 上获得约 3959 星标和 485 次 fork，周新增星标约 623，属于 GitHub 热点中的 Rust 项目，适合需要高效管理 Codex 工作流的开发者与 AI 工具使用者。",
+  "tags": [
+    "OpenAI Codex",
+    "Rust",
+    "可视化管理",
+    "MCP",
+    "TOML",
+    "开发者工具",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:31+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "yynxxxxx",
+    "stars": 3959,
+    "forks": 485,
+    "daily_stars": null,
+    "weekly_stars": 623,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-8b70a1cd06",
+  "title": "spf13/cobra",
+  "source": "github_trending",
+  "source_url": "https://github.com/spf13/cobra",
+  "summary": "spf13/cobra 是 Go 语言生态中用于构建现代命令行界面（CLI）的旗舰级库，由知名开发者 spf13 创建，拥有超过 4.4 万颗星标，被 Kubernetes、Hugo、Docker 等众多主流项目广泛采用。",
+  "content": "## 项目概述\nspf13/cobra 是一个用于创建强大现代 CLI 应用程序的 Go 库。它提供简洁的 API，支持子命令、位置参数、标志（flags）、自动帮助生成、shell 自动补全等功能，是 Go 生态中最受欢迎的命令行框架之一。\n\n## 核心特性\n- **子命令支持**：轻松构建嵌套命令结构，如 `app serve`、`app config set`。\n- **灵活的标志系统**：兼容 POSIX/GNU 风格标志，支持本地与持久标志。\n- **自动帮助与文档**：自动生成帮助信息、用法说明及 man 手册页。\n- **Shell 自动补全**：为 bash、zsh、fish、PowerShell 生成补全脚本。\n- **高度可扩展**：可与 Viper 配置库无缝集成，支持自定义验证与钩子函数。\n\n## 生态与影响\nCobra 是 Kubernetes、Hugo、Docker、etcd、Istio 等众多知名项目的 CLI 基础。其设计哲学强调约定优于配置，极大降低了构建专业级命令行工具的门槛。\n\n## 数据表现\n截至采集时，仓库获得 44,665 星标、4,354 次 fork，日增约 10 星，持续保持活跃。语言为 Go，采用 Apache-2.0 许可证。",
+  "tags": [
+    "Go",
+    "CLI",
+    "命令行框架",
+    "开源库",
+    "spf13",
+    "cobra",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "spf13",
+    "stars": 44665,
+    "forks": 4354,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260928-github-8fc9916b01",
+  "title": "git-bug/git-bug",
+  "source": "github_trending",
+  "source_url": "https://github.com/git-bug/git-bug",
+  "summary": "git-bug 是一个用 Go 语言编写的分布式、离线优先的 bug 追踪器，直接集成在 Git 中，将问题数据作为 Git 对象存储，支持去中心化协作。",
+  "content": "git-bug 将 bug 追踪功能无缝融入 Git 工作流，所有问题数据以 Git 对象形式存储，因此天然具备分布式和离线优先的特性。用户可以在没有网络的情况下创建、评论和修改 bug，之后通过常规的 git push/pull 同步。它支持桥接 GitHub、GitLab 等平台，方便与现有服务交互。项目采用 Go 语言开发，性能高效，单二进制文件即可运行。当前在 GitHub 上获得约 10.6k 星标，日增约 59 星，属于 Go 语言热点项目。适合追求去中心化、注重数据主权或需要在离线环境下协作的团队。",
+  "tags": [
+    "Git",
+    "分布式",
+    "bug追踪",
+    "离线优先",
+    "Go",
+    "去中心化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-28T01:58:25+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "git-bug",
+    "stars": 10606,
+    "forks": 331,
+    "daily_stars": 59,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

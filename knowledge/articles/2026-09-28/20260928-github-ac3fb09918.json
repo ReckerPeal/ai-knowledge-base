@@ -1,0 +1,32 @@
+{
+  "id": "20260928-github-ac3fb09918",
+  "title": "US government backs OpenAI in New York Times copyright case",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "summary": "美国政府在《纽约时报》诉 OpenAI 版权案中表态支持 OpenAI，该案涉及 AI 训练数据使用与版权法的核心争议，可能对生成式 AI 行业的数据合规路径产生深远影响。",
+  "content": "## 事件概述\n\n据路透社报道，美国政府在《纽约时报》（The New York Times）起诉 OpenAI 的版权侵权案中，向法院提交了支持 OpenAI 立场的意见。该案是当前围绕生成式 AI 训练数据合法性最具代表性的诉讼之一。\n\n## 争议焦点\n\n《纽约时报》于 2023 年底起诉 OpenAI 与微软，指控其未经授权使用该报大量受版权保护的新闻报道来训练 GPT 系列模型，并主张模型输出能够复现其文章内容，构成侵权。OpenAI 的核心抗辩包括：\n\n- **合理使用（Fair Use）**：训练过程属于对作品的转换性使用，不构成对原作品市场的替代。\n- **技术必要性**：大规模文本训练是构建通用语言模型的基础，若严格限制将严重阻碍 AI 发展。\n\n## 政府立场的意义\n\n美国联邦政府在版权诉讼中直接表态支持被告方并不常见。此次表态可能意味着：\n\n1. **政策倾向**：行政层面倾向于为 AI 训练数据使用提供较宽松的法律空间，以维持美国在 AI 领域的竞争力。\n2. **司法参考**：虽然政府意见对法院无约束力，但在涉及新兴技术的疑难案件中常具有相当分量。\n3. **行业信号**：可能影响其他类似诉讼（如作家协会、Getty Images 等案件）的走向与和解策略。\n\n## 潜在影响\n\n- 若法院最终采纳合理使用抗辩，将大幅降低 AI 公司获取训练数据的法律风险。\n- 若判定侵权成立，可能迫使模型开发者建立数据授权与补偿机制，推高训练成本。\n- 该案结果还可能推动国会就 AI 训练数据与版权问题专门立法。\n\n## 观察要点\n\n后续需关注法院对合理使用四要素的具体分析、OpenAI 输出复现指控的证据认定，以及政府意见书的具体论证范围（是否仅限本案事实，还是提出更广泛的解释框架）。",
+  "tags": [
+    "AI版权",
+    "OpenAI",
+    "纽约时报",
+    "合理使用",
+    "生成式AI",
+    "法律诉讼",
+    "训练数据",
+    "美国政策"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-02T20:13:14-05:00",
+  "collected_at": "2026-09-28T01:58:34+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
