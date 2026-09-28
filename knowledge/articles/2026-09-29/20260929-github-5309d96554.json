@@ -1,0 +1,30 @@
+{
+  "id": "20260929-github-5309d96554",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "summary": "本文介绍如何使用 Sentence Transformers 训练和微调多向量嵌入模型（Multi-Vector Embedding Models），涵盖 ColBERT 风格的多向量检索架构、训练数据准备、损失函数选择及微调流程，帮助开发者构建更精细的语义检索系统。",
+  "content": "该内容来自 Hugging Face 官方博客，主题为「Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers」。多向量嵌入模型（如 ColBERT）与传统的单向量嵌入不同，它为文档中的每个 token 生成独立的向量表示，在检索时通过 late interaction（延迟交互）机制计算查询与文档之间的细粒度相似度，从而在保持较高检索精度的同时兼顾效率。\n\n文章主要围绕 Sentence Transformers 库展开，介绍了以下关键内容：\n1. 多向量嵌入模型的基本原理与适用场景，包括与单向量模型的对比；\n2. 使用 Sentence Transformers 训练多向量模型所需的训练数据格式，通常为 (query, positive, negative) 三元组；\n3. 常用损失函数（如 MultipleNegativesRankingLoss 等）在多向量场景下的配置方式；\n4. 模型微调的具体步骤，包括加载预训练模型、设置训练参数、评估检索效果；\n5. 训练完成后的模型保存、加载与推理部署方法。\n\n该博客面向希望提升检索系统语义匹配能力的开发者与研究者，提供了从理论到实践的完整指导，适合作为构建高质量多向量检索模型的入门与进阶参考。",
+  "tags": [
+    "多向量嵌入",
+    "Sentence Transformers",
+    "模型微调",
+    "语义检索",
+    "ColBERT",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-d954157c0d",
+  "title": "FxEmbed/FxEmbed",
+  "source": "github_trending",
+  "source_url": "https://github.com/FxEmbed/FxEmbed",
+  "summary": "FxEmbed 是一个用 TypeScript 编写的开源工具，旨在修复 X/Twitter 和 Bluesky 嵌入内容在 Discord、Telegram 等平台上的显示问题，支持多图、视频、投票、翻译等丰富功能。",
+  "content": "FxEmbed 项目致力于解决社交媒体嵌入的常见痛点：当用户分享 X/Twitter 或 Bluesky 的链接到 Discord、Telegram 等聊天平台时，原生嵌入往往无法完整展示内容，例如多张图片只显示第一张、视频无法播放、投票和翻译功能缺失。该项目通过提供替代的嵌入服务，让这些平台能够正确渲染完整的推文内容，包括多图轮播、视频播放、投票结果和翻译文本。项目使用 TypeScript 开发，在 GitHub 上已获得超过 5500 颗星，周增星约 432，显示出较高的社区关注度。其核心价值在于提升跨平台内容分享的体验，尤其适合经常在 Discord 或 Telegram 中分享社交媒体内容的用户。",
+  "tags": [
+    "TypeScript",
+    "社交媒体嵌入",
+    "Discord",
+    "Telegram",
+    "X/Twitter",
+    "Bluesky",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:40+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "FxEmbed",
+    "stars": 5545,
+    "forks": 264,
+    "daily_stars": null,
+    "weekly_stars": 432,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

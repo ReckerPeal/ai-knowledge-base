@@ -1,0 +1,35 @@
+{
+  "id": "20260929-github-168e7c8525",
+  "title": "HelpCode-ai/anythingmcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/HelpCode-ai/anythingmcp",
+  "summary": "anythingmcp 是一个自托管的开源工具，可将任意 REST、SOAP、GraphQL、OData 或 SQL API 转换为 MCP（Model Context Protocol）工具，供 Claude 和 ChatGPT 等 AI 助手直接调用。项目内置 265 个连接器，覆盖 SAP S/4HANA、Business One、ERP 及电商等系统，使用 TypeScript 开发，当前在 GitHub 上获得约 550 星标。",
+  "content": "anythingmcp 由 HelpCode-ai 团队开发，核心目标是打通传统企业 API 与 AI 助手之间的壁垒。它支持将 REST、SOAP、GraphQL、OData 和 SQL 等多种协议/数据源的接口自动封装为 MCP 工具，使 Claude、ChatGPT 等支持 MCP 的 AI 客户端能够以标准化方式调用这些接口。项目采用自托管部署模式，强调数据可控性，适合对安全与合规有要求的企业场景。其内置的 265 个连接器重点覆盖 SAP S/4HANA、SAP Business One、各类 ERP 系统以及电商平台，显著降低了企业系统接入 AI 的集成成本。技术栈为 TypeScript，当前 GitHub 星标约 550，fork 69，日增星标 84，属于近期上升较快的开发者工具项目。",
+  "tags": [
+    "MCP",
+    "API集成",
+    "AI工具",
+    "TypeScript",
+    "自托管",
+    "SAP",
+    "ERP",
+    "Claude",
+    "ChatGPT"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:31+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "HelpCode-ai",
+    "stars": 550,
+    "forks": 69,
+    "daily_stars": 84,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

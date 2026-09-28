@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-2df68072a7",
+  "title": "vercel-labs/scriptc",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/scriptc",
+  "summary": "vercel-labs/scriptc 是 Vercel Labs 推出的 TypeScript 到原生代码编译器，旨在将 TypeScript 直接编译为原生可执行文件，提升运行性能并拓展 TypeScript 的应用场景。项目在 GitHub 上热度极高，已获得 5599 颗星，日增 369 星，周增 688 星，显示出社区对 TypeScript 原生编译方向的强烈关注。",
+  "content": "## 项目概述\nvercel-labs/scriptc 是一个由 Vercel Labs 开发的 TypeScript-to-Native 编译器，核心目标是将 TypeScript 代码直接编译为原生机器码，而非传统的 JavaScript 运行时执行。这一方向有望显著提升 TypeScript 应用的启动速度、运行效率和部署灵活性。\n\n## 核心特性\n- **原生编译**：将 TypeScript 源码编译为原生可执行文件，摆脱对 Node.js 或浏览器运行时的依赖。\n- **性能优化**：通过 AOT（提前编译）减少运行时开销，适合对性能敏感的场景。\n- **TypeScript 生态兼容**：基于 TypeScript 语言，理论上可复用现有类型系统和部分工具链。\n\n## 技术背景\nTypeScript 目前主要通过 tsc 或 esbuild 等工具转译为 JavaScript，再交由 V8 等引擎执行。scriptc 尝试跳过 JavaScript 中间层，直接生成原生代码，这与 AssemblyScript、Static Hermes 等项目的思路类似，但由 Vercel 主导，可能更注重与前端/全栈开发生态的整合。\n\n## 社区热度\n项目在 GitHub Trending 中表现突出：\n- 总 Stars：5,599\n- 日增 Stars：369\n- 周增 Stars：688\n- Forks：145\n\n高日增和周增表明项目近期获得了大量关注，可能处于早期快速迭代或发布重要版本的阶段。\n\n## 潜在应用场景\n- 高性能 CLI 工具\n- 边缘计算与 Serverless 冷启动优化\n- 游戏或图形密集型应用\n- 需要原生性能的 TypeScript 后端服务\n\n## 风险与挑战\n- 原生编译的复杂度高，需处理内存管理、平台兼容性等问题。\n- 与现有 TypeScript/JavaScript 生态的兼容性尚待验证。\n- 项目可能仍处于实验阶段，生产可用性需谨慎评估。\n\n## 总结\nscriptc 代表了 TypeScript 向系统级编程语言演进的一次重要尝试，由 Vercel Labs 背书，社区热度极高。若成功，可能改变 TypeScript 的编译与执行范式，值得持续关注。",
+  "tags": [
+    "TypeScript",
+    "编译器",
+    "原生编译",
+    "Vercel",
+    "性能优化",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 5599,
+    "forks": 145,
+    "daily_stars": 369,
+    "weekly_stars": 688,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

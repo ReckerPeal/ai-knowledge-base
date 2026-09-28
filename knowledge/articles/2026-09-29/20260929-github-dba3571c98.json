@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-dba3571c98",
+  "title": "go-playground/validator",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-playground/validator",
+  "summary": "go-playground/validator 是 Go 语言生态中广泛使用的结构体与字段校验库，支持跨字段、跨结构体、Map、Slice 和数组的深度校验，拥有约 2 万 Star，是 Go 项目数据校验的事实标准之一。",
+  "content": "go-playground/validator 是一个面向 Go 语言的高性能数据校验库，核心能力围绕结构体（Struct）与字段（Field）校验展开。它通过为结构体字段添加 `validate` 标签来声明校验规则，例如必填、长度、范围、格式（邮箱、URL、UUID 等），并支持自定义校验函数与错误消息本地化。\n\n该库的突出特性包括：\n1. 跨字段校验：可基于同一结构体内其他字段的值进行条件校验（如密码确认、字段互斥）。\n2. 跨结构体校验：支持嵌套结构体与结构体之间的关联校验。\n3. 容器深度校验：能够对 Map、Slice 和 Array 中的元素递归执行校验规则。\n4. 丰富的内置规则：覆盖字符串、数字、时间、网络、编码等多种场景。\n5. 可扩展性：允许注册自定义校验器、自定义类型函数以及翻译器（如中文错误提示）。\n\n从仓库数据看，该项目拥有 20,181 个 Star 和 1,471 个 Fork，周新增 Star 约 11，说明其已进入成熟稳定期，社区认可度极高，是 Go 后端开发中处理请求参数校验、配置校验和领域模型约束的常用基础设施。\n\n适用场景包括 Web API 请求体校验、配置文件解析后的合法性检查、领域实体约束以及批量数据导入前的清洗验证。对于 Go 开发者而言，掌握该库能显著减少手写 if-else 校验逻辑，提升代码可维护性与一致性。",
+  "tags": [
+    "Go",
+    "数据校验",
+    "结构体校验",
+    "开源库",
+    "后端开发",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "go-playground",
+    "stars": 20181,
+    "forks": 1471,
+    "daily_stars": null,
+    "weekly_stars": 11,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

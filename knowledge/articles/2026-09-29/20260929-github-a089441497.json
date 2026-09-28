@@ -1,0 +1,34 @@
+{
+  "id": "20260929-github-a089441497",
+  "title": "ffuf/ffuf",
+  "source": "github_trending",
+  "source_url": "https://github.com/ffuf/ffuf",
+  "summary": "ffuf 是一个用 Go 语言编写的高性能 Web 模糊测试（fuzzing）工具，在 GitHub 上拥有约 1.68 万星标，日增约 27 星，是安全测试与渗透测试领域的热门开源项目。",
+  "content": "ffuf（Fast web fuzzer written in Go）是一款以速度和灵活性著称的 Web 目录/参数/子域名模糊测试工具。其核心优势在于基于 Go 的并发模型实现高吞吐量请求，支持多位置（FUZZ 关键字）替换、自定义字典、过滤器（按状态码、响应大小、字数、行数、正则等）以及多种输出格式（JSON、HTML、CSV 等）。常见用途包括：目录与文件爆破、虚拟主机发现、GET/POST 参数模糊测试、子域名枚举、以及配合其他工具进行漏洞挖掘。项目由 ffuf 组织维护，星标数约 16760，fork 数约 1607，日增星标约 27，表明其在安全社区中持续保持较高关注度。语言为 Go，便于跨平台编译与部署。",
+  "tags": [
+    "Go",
+    "Web Fuzzing",
+    "安全测试",
+    "渗透测试",
+    "模糊测试",
+    "目录爆破",
+    "子域名枚举",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:36+08:00",
+  "language": "Go",
+  "score": 8.8,
+  "metadata": {
+    "author": "ffuf",
+    "stars": 16760,
+    "forks": 1607,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260929-github-b32771b7cb",
+  "title": "mvschwarz/openrig",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvschwarz/openrig",
+  "summary": "openrig 是一个多智能体编排框架，将 Claude Code 与 Codex 组合为统一系统协同运行，使用 TypeScript 开发，在 GitHub 上获得 1609 星标，单日新增 781 星，热度极高。",
+  "content": "openrig 由 mvschwarz 开发，核心定位是「多智能体运行框架（Multi-agent harness）」，目标是把 Claude Code 和 Codex 这两个主流 AI 编程智能体整合进同一套系统，让它们以协作而非孤立的方式工作。\n\n从技术实现看，项目采用 TypeScript 编写，属于典型的开发者工具/基础设施类项目。其价值在于解决当前 AI 编程助手各自为战的痛点：不同模型各有擅长的任务类型与代码风格，openrig 通过统一的编排层让多个智能体共享上下文、分工协作，从而提升复杂工程任务的完成质量。\n\n热度方面，仓库累计 1609 星、132 次 fork，单日新增 781 星，说明其在发布后迅速获得开发者社区关注，属于 GitHub Trending 中的高爆发项目。这一增长曲线通常出现在解决了明确痛点、且与当下 AI 编程工具链热点高度契合的项目上。\n\n适用场景包括：多模型协同的代码生成与重构、需要交叉验证的复杂开发任务、以及希望在同一工作流中调度多个 AI 编程智能体的团队。潜在关注点在于多智能体协作的稳定性、成本控制以及不同模型 API 的兼容性维护。",
+  "tags": [
+    "多智能体",
+    "AI编程",
+    "Claude Code",
+    "Codex",
+    "TypeScript",
+    "开发者工具",
+    "GitHub热点",
+    "智能体编排"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:31+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "mvschwarz",
+    "stars": 1609,
+    "forks": 132,
+    "daily_stars": 781,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

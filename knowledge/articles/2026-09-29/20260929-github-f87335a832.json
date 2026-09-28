@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-f87335a832",
+  "title": "grafana/k6",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/k6",
+  "summary": "Grafana k6 是一个现代化的开源负载测试工具，使用 Go 语言开发，并允许用户使用 JavaScript 编写测试脚本。它旨在为开发者和测试人员提供高效、易用的性能测试解决方案，支持本地和云端运行，并集成了丰富的指标和可视化功能。",
+  "content": "Grafana k6 由 Grafana Labs 维护，是一个现代化的负载测试工具，采用 Go 语言编写，并使用 JavaScript 作为测试脚本语言。它允许开发者以代码形式定义测试场景，支持 HTTP、WebSocket、gRPC 等多种协议，并能够生成详细的性能指标。k6 的设计注重开发体验，可以轻松集成到 CI/CD 流程中，并支持分布式测试和云端执行。该仓库在 GitHub 上拥有超过 31,000 颗星，每日新增约 26 颗星，显示出其活跃的社区和广泛的应用。k6 的突出特点包括：1) 使用 JavaScript 编写测试脚本，降低学习成本；2) 高性能的 Go 引擎，能够模拟大量并发用户；3) 丰富的输出格式和与 Grafana 等监控工具的集成；4) 支持阈值和自定义指标，便于自动化断言。",
+  "tags": [
+    "负载测试",
+    "性能测试",
+    "Go",
+    "JavaScript",
+    "Grafana",
+    "开源工具",
+    "CI/CD"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:36+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "grafana",
+    "stars": 31692,
+    "forks": 1650,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

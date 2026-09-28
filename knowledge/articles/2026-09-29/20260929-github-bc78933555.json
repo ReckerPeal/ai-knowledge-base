@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-bc78933555",
+  "title": "huggingface/tokenizers",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/tokenizers",
+  "summary": "Hugging Face 推出的 tokenizers 库，使用 Rust 实现，为研究和生产环境提供快速、最先进的文本分词功能，在 GitHub 上获得超过 1.1 万星标。",
+  "content": "huggingface/tokenizers 是 Hugging Face 生态中的核心组件，专注于提供高性能的文本分词器。该项目采用 Rust 语言编写，兼顾了内存安全与运行效率，并提供了 Python 绑定，方便在机器学习工作流中集成。其设计目标同时面向研究实验与生产部署，支持多种主流分词算法（如 BPE、WordPiece、Unigram 等），并针对多线程和批处理进行了优化。该仓库在 GitHub 上拥有 11135 个星标和 1209 个复刻，周新增星标约 80，表明其持续受到社区关注。作为自然语言处理（NLP）预处理阶段的关键工具，tokenizers 被广泛用于 Transformer 模型（如 BERT、GPT）的输入处理，是连接原始文本与模型训练的重要桥梁。",
+  "tags": [
+    "NLP",
+    "tokenizer",
+    "Rust",
+    "Hugging Face",
+    "文本预处理",
+    "机器学习"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:43+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "huggingface",
+    "stars": 11135,
+    "forks": 1209,
+    "daily_stars": null,
+    "weekly_stars": 80,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-dd09a96a58",
+  "title": "google/ax",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/ax",
+  "summary": "Google 开源的智能体编排运行时 ax，使用 Go 语言开发，在 GitHub 上已获得 12414 颗星，周增星 8030，热度极高。",
+  "content": "## 项目概述\n\n`google/ax` 是 Google 推出的开源智能体（Agentic）编排运行时，旨在为 AI 智能体提供统一的调度与编排能力。项目采用 Go 语言编写，兼具高性能与并发优势，适合构建大规模、生产级的智能体系统。\n\n## 核心定位\n\n作为“编排运行时”，ax 关注的不是单个智能体的能力，而是多个智能体之间的协作、任务分发、状态管理与生命周期控制。它可能提供类似工作流引擎的抽象，让开发者以声明式或编程式的方式定义智能体拓扑，并由运行时负责调度执行。\n\n## 热度与社区信号\n\n- **Stars**：12,414，说明项目已获得广泛关注。\n- **Forks**：600，表明有一定数量的开发者参与二次开发或集成。\n- **周增星**：8,030，增长极为迅猛，属于 GitHub Trending 级别的爆发式关注。\n- **分类**：GitHub 热点 · Go，说明其在 Go 生态中热度突出。\n\n## 技术栈与适用场景\n\nGo 语言的选择意味着 ax 在并发处理、网络通信和部署便捷性上具有天然优势，适合云原生环境。典型应用场景可能包括：多智能体协作系统、AI 工作流编排、自动化任务调度、LLM 应用后端等。\n\n## 潜在价值\n\n背靠 Google 的开源项目通常具备较好的工程质量和长期维护预期。ax 若能与 Google 现有的 AI 生态（如 Gemini、Vertex AI 等）形成协同，将有望成为智能体基础设施层的重要组件。对于需要构建复杂多智能体应用的团队，ax 值得持续跟踪和评估。",
+  "tags": [
+    "Go",
+    "AI Agent",
+    "编排运行时",
+    "Google",
+    "开源",
+    "GitHub 热点",
+    "多智能体"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "Go",
+  "score": 8.8,
+  "metadata": {
+    "author": "google",
+    "stars": 12414,
+    "forks": 600,
+    "daily_stars": null,
+    "weekly_stars": 8030,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

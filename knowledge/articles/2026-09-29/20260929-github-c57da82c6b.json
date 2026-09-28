@@ -1,0 +1,34 @@
+{
+  "id": "20260929-github-c57da82c6b",
+  "title": "coder/coder",
+  "source": "github_trending",
+  "source_url": "https://github.com/coder/coder",
+  "summary": "coder/coder 是一个用 Go 语言开发的开源项目，旨在为开发者和其 AI 代理提供安全、隔离的云端开发环境。该项目在 GitHub 上拥有超过 1.6 万颗星，近期热度持续上升，是远程开发与基础设施即代码领域的重要工具。",
+  "content": "coder/coder 由 coder 组织维护，核心定位是「为开发者及其代理提供安全环境」。它通过将开发环境从本地机器迁移到云端或自托管服务器，实现环境的一致性、安全隔离和集中管理。\n\n主要特点：\n1. **安全隔离**：每个开发环境运行在独立的容器或虚拟机中，避免本地环境泄露或依赖冲突。\n2. **基础设施即代码**：使用 Terraform 定义和配置开发环境，支持 AWS、GCP、Azure、Kubernetes 等多种基础设施。\n3. **AI 代理支持**：摘要中特别提到「agents」，表明项目正在适配 AI 编码代理（如 Copilot、Cursor 等）的运行需求，为代理提供受控的执行环境。\n4. **远程开发体验**：开发者可通过浏览器或 IDE（VS Code、JetBrains 等）连接远程环境，获得与本地一致的开发体验。\n5. **企业级特性**：支持 SSO、审计日志、资源配额、模板管理等，适合团队和大型组织使用。\n\n技术栈：后端主要使用 Go 语言，前端涉及 TypeScript/React，基础设施编排依赖 Terraform。项目采用 AGPL-3.0 许可证，社区活跃，每周新增约 892 颗星。\n\n适用场景：远程/混合办公团队、需要统一开发环境的组织、AI 代理沙箱运行、安全敏感型项目开发。",
+  "tags": [
+    "远程开发",
+    "开发环境",
+    "Go",
+    "Terraform",
+    "AI代理",
+    "基础设施即代码",
+    "云原生",
+    "安全隔离"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "Go",
+  "score": 8.8,
+  "metadata": {
+    "author": "coder",
+    "stars": 16741,
+    "forks": 1595,
+    "daily_stars": null,
+    "weekly_stars": 892,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-eb9dbdcbe9",
+  "title": "denisidoro/navi",
+  "source": "github_trending",
+  "source_url": "https://github.com/denisidoro/navi",
+  "summary": "navi 是一个用 Rust 编写的命令行交互式速查表工具，帮助用户快速查找和执行常用命令，目前在 GitHub 上拥有约 1.77 万星标。",
+  "content": "navi（denisidoro/navi）是一款面向命令行的交互式速查表（cheatsheet）工具，使用 Rust 语言开发。它允许用户通过模糊搜索快速浏览、检索并执行预定义的命令片段，从而减少记忆复杂命令的负担。该项目在 GitHub 上已获得约 17,680 个星标和 571 次 fork，日增星标约 22，属于 GitHub 热点中的 Rust 类项目。navi 的典型使用场景包括：为常用命令创建可复用的速查表、通过交互式界面选择命令并动态填充参数、与 shell（如 bash、zsh、fish）集成实现快捷调用。其核心优势在于轻量、快速、可扩展，适合开发者、运维人员以及任何频繁使用命令行的用户。",
+  "tags": [
+    "Rust",
+    "命令行工具",
+    "速查表",
+    "交互式",
+    "CLI",
+    "开发效率"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "denisidoro",
+    "stars": 17680,
+    "forks": 571,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

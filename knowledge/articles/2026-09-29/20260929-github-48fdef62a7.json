@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-48fdef62a7",
+  "title": "NginxProxyManager/nginx-proxy-manager",
+  "source": "github_trending",
+  "source_url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+  "summary": "Nginx Proxy Manager 是一个基于 Docker 的 Nginx 代理主机管理工具，提供简洁强大的 Web 界面，让用户无需深入了解 Nginx 配置即可轻松管理反向代理、SSL 证书等。",
+  "content": "Nginx Proxy Manager 是一个开源项目，旨在简化 Nginx 反向代理和 SSL 证书的管理。它通过 Docker 容器部署，提供了一个直观的 Web 用户界面，使用户能够轻松创建和管理代理主机、重定向、流、访问列表以及申请和续期 Let's Encrypt SSL 证书。该项目使用 TypeScript 开发，目前在 GitHub 上拥有超过 34,000 颗星，深受社区欢迎。其核心优势在于降低了 Nginx 配置的复杂度，适合需要快速搭建和管理反向代理的开发者及运维人员。",
+  "tags": [
+    "Nginx",
+    "反向代理",
+    "Docker",
+    "TypeScript",
+    "SSL",
+    "Web 界面",
+    "运维工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:40+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "NginxProxyManager",
+    "stars": 34263,
+    "forks": 3918,
+    "daily_stars": null,
+    "weekly_stars": 91,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

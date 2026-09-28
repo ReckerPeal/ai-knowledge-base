@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-9b780e5528",
+  "title": "akitaonrails/ai-memory",
+  "source": "github_trending",
+  "source_url": "https://github.com/akitaonrails/ai-memory",
+  "summary": "akitaonrails/ai-memory 是一个用 Rust 编写的开源项目，旨在为 AI Agent 编码 CLI 提供长期记忆能力，并支持在不同 Agent 供应商之间进行任务交接。该项目在 GitHub 上获得 8548 颗星，周增 1224 星，热度较高。",
+  "content": "该项目解决的核心问题是：当前各类 AI 编码助手（如 Claude Code、Cursor、Aider 等）各自维护独立的会话上下文，缺乏跨会话、跨工具的长期记忆，导致用户切换工具或重启会话时丢失重要上下文。ai-memory 通过构建统一的长期记忆层，让 Agent 能够记住项目历史、用户偏好和关键决策，并支持将记忆从一个 Agent 供应商迁移到另一个，从而实现无缝交接。项目采用 Rust 语言开发，具备高性能和内存安全优势，适合作为本地或服务端的记忆中间件。从数据看，8548 星和 582 fork 表明社区关注度较高，周增 1224 星说明近期增长迅速，可能处于活跃开发或推广阶段。",
+  "tags": [
+    "AI Agent",
+    "长期记忆",
+    "Rust",
+    "开发者工具",
+    "CLI",
+    "上下文管理",
+    "Agent 交接"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:43+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "akitaonrails",
+    "stars": 8548,
+    "forks": 582,
+    "daily_stars": null,
+    "weekly_stars": 1224,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

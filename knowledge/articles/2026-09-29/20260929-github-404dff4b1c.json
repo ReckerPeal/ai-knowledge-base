@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-404dff4b1c",
+  "title": "dream-num/univer",
+  "source": "github_trending",
+  "source_url": "https://github.com/dream-num/univer",
+  "summary": "Univer 是一个面向 AI Agent 的办公套件运行时，将电子表格、文档、幻灯片、画布、关系表和 PDF 统一到同一运行环境中，由 dream-num 团队以 TypeScript 开发，在 GitHub 上已获得超过 2.1 万颗星，近期热度增长显著。",
+  "content": "Univer 定位为「AI Agent 的 Office Harness」，即面向 AI 智能体的办公能力底座。其核心思路是把电子表格、文档、幻灯片、画布、关系型表格和 PDF 等多种办公文档形态整合进同一个运行时（runtime），使 AI Agent 能够在统一环境中创建、编辑、解析和操作各类办公内容，而不必为每种文档类型分别对接不同的引擎。\n\n从项目数据看，Univer 由 dream-num 组织维护，主语言为 TypeScript，当前约 21,154 stars、1,795 forks，日增约 1,105 stars、周增约 5,414 stars，属于 GitHub Trending 中 TypeScript 类别的热点项目，社区关注度处于快速上升阶段。\n\n技术层面，Univer 的价值主要体现在三点：一是统一运行时架构，将多种文档模型与渲染、协作能力抽象到同一套框架中；二是对 AI Agent 友好，便于智能体以编程方式读写和操作办公文档，适合构建自动化办公、文档生成、数据分析等场景；三是 TypeScript 生态，便于前端与 Node.js 开发者集成和二次开发。\n\n适用场景包括：AI 驱动的表格计算与数据填报、自动化文档与报告生成、演示文稿批量处理、PDF 内容解析与结构化，以及需要多文档类型协同的智能办公应用。对于希望为 Agent 提供「办公操作能力」的开发者而言，Univer 是一个值得关注的基础设施型项目。",
+  "tags": [
+    "TypeScript",
+    "AI Agent",
+    "办公套件",
+    "电子表格",
+    "文档处理",
+    "开源项目",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "dream-num",
+    "stars": 21154,
+    "forks": 1795,
+    "daily_stars": 1105,
+    "weekly_stars": 5414,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

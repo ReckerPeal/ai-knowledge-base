@@ -1,0 +1,30 @@
+{
+  "id": "20260929-github-04b1816af1",
+  "title": "The problem is not AI code, but not knowing about system architecture or intent",
+  "source": "rss",
+  "source_url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+  "summary": "本文讨论 AI 生成代码带来的真正问题：并非代码本身质量，而是团队对系统架构和设计意图缺乏理解。作者指出，当开发者依赖 AI 生成代码却无人掌握整体架构与意图时，系统会逐渐失控，维护和演进变得困难。该观点在 Hacker News 上引发广泛讨论，获得 322 分和 210 条评论。",
+  "content": "文章核心论点：AI 代码不是问题，问题在于没人再理解系统架构和意图。\n\n1. 背景：随着 AI 编程助手（如 Copilot、ChatGPT 等）普及，开发者可以快速生成大量代码，但往往缺乏对系统整体设计的把握。\n\n2. 核心问题：\n   - 架构知识缺失：团队中无人能完整描述系统各组件如何交互、为何这样设计。\n   - 意图丢失：代码能运行，但原始业务需求、设计权衡和约束条件未被记录或理解。\n   - 维护困境：当需要修改或扩展时，开发者只能依赖 AI 再次生成补丁，导致技术债务累积。\n\n3. 作者主张：\n   - 重视系统架构文档和设计意图的传承，而非仅关注代码产出速度。\n   - 在使用 AI 生成代码时，人类必须承担架构师和审查者的角色，确保整体一致性。\n   - 团队应建立机制（如架构决策记录、代码评审）来保留和传播系统知识。\n\n4. 社区反响：Hacker News 上 322 分、210 条评论，说明该话题引起广泛共鸣，许多开发者分享了类似经历和担忧。\n\n5. 结论：AI 是强大的工具，但若忽视架构与意图的理解，团队将陷入“无人知晓系统如何工作”的困境，最终拖慢开发并增加风险。",
+  "tags": [
+    "AI 代码生成",
+    "系统架构",
+    "软件工程",
+    "技术债务",
+    "团队协作",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-28T16:11:42+00:00",
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

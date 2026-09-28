@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-e49b8615b8",
+  "title": "Rizzo-AI-Academy/rizzo-pii",
+  "source": "github_trending",
+  "source_url": "https://github.com/Rizzo-AI-Academy/rizzo-pii",
+  "summary": "Rizzo-PII 是一个本地优先的隐私保护工具，可在将文档发送给大语言模型（LLM）前自动匿名化处理敏感信息，防止个人身份信息（PII）泄露。项目使用 Python 编写，在 GitHub 上已获得 1097 颗星，日增 26 星，属于近期热点项目。",
+  "content": "Rizzo-PII 由 Rizzo-AI-Academy 开发，核心定位是“本地优先的隐私守卫”。它针对当前 LLM 应用中的隐私痛点：用户常需将文档、代码或数据发送给云端 LLM 进行处理，但其中可能包含姓名、邮箱、电话、身份证号等敏感信息。Rizzo-PII 在本地对文档进行匿名化（如替换、掩码或泛化），再将处理后的文本发送给 LLM，从而在保留语义可用性的同时避免原始 PII 外泄。项目采用 Python 实现，适合集成到数据预处理管道或 LLM 调用链中。当前仓库热度较高（1097 stars，日增 26），表明隐私保护与 LLM 结合的方向受到广泛关注。",
+  "tags": [
+    "隐私保护",
+    "PII 匿名化",
+    "LLM 安全",
+    "本地优先",
+    "Python",
+    "数据脱敏"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:29+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "Rizzo-AI-Academy",
+    "stars": 1097,
+    "forks": 80,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

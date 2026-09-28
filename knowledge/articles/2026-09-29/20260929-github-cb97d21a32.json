@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-cb97d21a32",
+  "title": "caddyserver/caddy",
+  "source": "github_trending",
+  "source_url": "https://github.com/caddyserver/caddy",
+  "summary": "Caddy 是一个用 Go 编写的高性能、可扩展的多平台 Web 服务器，支持 HTTP/1、HTTP/2 和 HTTP/3，并内置自动 HTTPS 功能，在 GitHub 上拥有超过 7.6 万星标。",
+  "content": "Caddy 是由 caddyserver 组织开发的开源 Web 服务器，主要使用 Go 语言实现。其核心特性包括：1）自动 HTTPS：自动为站点获取和续期 Let's Encrypt 等 CA 的 TLS 证书，无需手动配置；2）多协议支持：原生支持 HTTP/1.1、HTTP/2 和 HTTP/3（基于 QUIC）；3）跨平台：可在 Linux、macOS、Windows 等多种操作系统上运行；4）可扩展架构：通过模块化设计支持插件和自定义功能；5）配置简单：使用 Caddyfile 或 JSON 配置，易于上手。该项目在 GitHub 上拥有 76,141 个星标和 5,013 个 fork，近期每周新增约 260 个星标，属于 Go 语言生态中的热门项目。Caddy 适用于静态网站托管、反向代理、API 网关等场景，因其自动 HTTPS 和简洁配置而广受开发者欢迎。",
+  "tags": [
+    "Caddy",
+    "Web服务器",
+    "Go",
+    "自动HTTPS",
+    "HTTP/3",
+    "反向代理",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:45+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "caddyserver",
+    "stars": 76141,
+    "forks": 5013,
+    "daily_stars": null,
+    "weekly_stars": 260,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

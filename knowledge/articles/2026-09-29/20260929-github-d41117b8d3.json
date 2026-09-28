@@ -1,0 +1,40 @@
+{
+  "id": "20260929-github-d41117b8d3",
+  "title": "t8y2/dbx",
+  "source": "github_trending",
+  "source_url": "https://github.com/t8y2/dbx",
+  "summary": "t8y2/dbx 是一款基于 Rust 构建的轻量级跨平台数据库客户端，安装包仅约 25 MB，却支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库。项目提供桌面端、Docker、CLI 三种使用形态，并内置 AI 助手与 MCP Server，在 GitHub 上已获得 21452 颗星、2053 次 fork，单日新增 571 星，属于近期 Rust 生态中的高热度工具类项目。",
+  "content": "## 项目定位\n\nt8y2/dbx 是一款面向开发者和 DBA 的轻量级跨平台数据库管理工具，核心卖点是「小体积 + 广覆盖 + 多形态」。在仅约 25 MB 的体积下，它宣称支持 100 多种数据库，涵盖主流关系型数据库（MySQL、PostgreSQL、SQLite、SQL Server）、NoSQL（Redis、MongoDB）、分析型数据库（DuckDB）以及国产数据库（达梦）等。\n\n## 核心特性\n\n1. **多数据库支持**：统一客户端覆盖 100+ 数据库，减少开发者在不同工具之间切换的成本。\n2. **多端形态**：同时提供桌面端应用、Docker 镜像和 CLI 命令行工具，适配本地开发、服务器运维和容器化部署等不同场景。\n3. **内置 AI 助手**：将 AI 能力集成到数据库客户端中，可用于自然语言生成 SQL、解释查询、辅助排查问题等。\n4. **MCP Server**：内置 Model Context Protocol 服务端，意味着它可以作为 AI Agent / LLM 工具链中的数据库访问层，与 Claude、Cursor 等支持 MCP 的客户端协同工作。\n5. **Rust 技术栈**：使用 Rust 编写，天然具备跨平台、高性能、低资源占用的优势，这也是其能做到 25 MB 轻量体积的重要原因。\n\n## 热度与生态信号\n\n项目在 GitHub 上累计 21452 stars、2053 forks，单日新增 571 stars，说明其在短期内获得了显著的社区关注。结合其 Rust 语言属性和「AI + MCP」的定位，该项目踩中了当前两个热门趋势：一是 Rust 重写基础工具链，二是 AI Agent 对数据库访问能力的集成需求。\n\n## 适用场景\n\n- 需要同时管理多种异构数据库的开发者或运维人员；\n- 希望在本地或容器环境中快速启动一个轻量数据库客户端的团队；\n- 正在构建 AI Agent / MCP 工具链，需要标准化数据库访问能力的开发者；\n- 关注国产数据库（如达梦）支持的用户。\n\n## 潜在关注点\n\n摘要中未披露具体支持的数据库清单、AI 功能所依赖的模型或服务、MCP Server 的协议实现细节，以及桌面端与 CLI 的功能差异。实际选型时建议进一步核对其文档与开源许可。",
+  "tags": [
+    "Rust",
+    "数据库客户端",
+    "跨平台",
+    "AI",
+    "MCP",
+    "CLI",
+    "Docker",
+    "MySQL",
+    "PostgreSQL",
+    "SQLite",
+    "Redis",
+    "MongoDB",
+    "DuckDB",
+    "达梦"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:33+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "t8y2",
+    "stars": 21452,
+    "forks": 2053,
+    "daily_stars": 571,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

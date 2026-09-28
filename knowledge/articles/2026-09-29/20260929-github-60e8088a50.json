@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-60e8088a50",
+  "title": "pingcap/tidb",
+  "source": "github_trending",
+  "source_url": "https://github.com/pingcap/tidb",
+  "summary": "TiDB 是 PingCAP 开发的开源分布式 SQL 数据库，专为不可预测增长的智能体工作负载设计，提供 ACID 事务保证，并原生支持事务处理、实时分析和向量搜索，旨在消除数据孤岛、资源争抢和基础设施瓶颈。",
+  "content": "TiDB 是一个用 Go 语言编写的开源分布式关系型数据库，在 GitHub 上拥有约 4.06 万颗星标和 6250 个分支。其核心定位是面向智能体（agentic）工作负载，这类负载的增长难以预测，因此 TiDB 强调弹性扩展能力。它提供完整的 ACID 事务保证，同时原生支持三种关键能力：在线事务处理（OLTP）、在线分析处理（OLAP）以及向量搜索，从而在一个系统中统一多种数据工作负载，避免数据孤岛。TiDB 还注重多租户隔离，减少“吵闹邻居”问题，并声称没有基础设施上限，适合需要水平扩展的现代应用。该项目由 PingCAP 维护，是国产开源数据库的代表之一，社区活跃，生态成熟。",
+  "tags": [
+    "分布式数据库",
+    "Go",
+    "TiDB",
+    "HTAP",
+    "向量搜索",
+    "ACID",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:36+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "pingcap",
+    "stars": 40600,
+    "forks": 6250,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

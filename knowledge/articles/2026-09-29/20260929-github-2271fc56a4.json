@@ -1,0 +1,33 @@
+{
+  "id": "20260929-github-2271fc56a4",
+  "title": "gitleaks/gitleaks",
+  "source": "github_trending",
+  "source_url": "https://github.com/gitleaks/gitleaks",
+  "summary": "Gitleaks 是一个用 Go 编写的开源密钥扫描工具，用于在 Git 仓库中检测和防止敏感信息（如密码、API 密钥、令牌）的泄露。该项目在 GitHub 上拥有近 3 万星标，是 DevSecOps 领域的热门工具。",
+  "content": "Gitleaks 是一款专注于静态代码分析的密钥检测工具，主要功能包括：\n\n1. **核心能力**：扫描 Git 仓库的历史提交、当前工作区以及文件系统，通过正则表达式和熵检测识别硬编码的敏感信息，如 AWS 密钥、数据库密码、私钥等。\n\n2. **使用方式**：支持命令行直接运行，也可集成到 CI/CD 流水线（如 GitHub Actions、GitLab CI）中，实现提交前或合并前的自动检测。\n\n3. **技术特点**：采用 Go 语言开发，具备高性能和跨平台特性；支持自定义规则和配置文件，允许用户根据项目需求调整检测策略；提供多种输出格式（JSON、SARIF、CSV），便于与其他安全工具集成。\n\n4. **社区与生态**：项目由 gitleaks 组织维护，拥有活跃的贡献者社区，被广泛用于企业安全合规和开源项目审计。其高星标数（29,534）和每日新增星标（25）表明持续受到关注。\n\n5. **适用场景**：适用于开发团队、安全工程师和 DevSecOps 实践者，帮助在软件开发生命周期早期发现并修复密钥泄露风险，降低安全事件发生的概率。",
+  "tags": [
+    "安全",
+    "密钥扫描",
+    "DevSecOps",
+    "Go",
+    "Git",
+    "静态分析",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:36+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "gitleaks",
+    "stars": 29534,
+    "forks": 2254,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

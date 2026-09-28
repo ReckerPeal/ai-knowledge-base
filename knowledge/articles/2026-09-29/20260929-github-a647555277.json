@@ -1,0 +1,41 @@
+{
+  "id": "20260929-github-a647555277",
+  "title": "alsk1992/CloddsBot",
+  "source": "github_trending",
+  "source_url": "https://github.com/alsk1992/CloddsBot",
+  "summary": "CloddsBot 是一个基于 Claude 构建的开源自主 AI 交易代理，可在 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 及 5 条 EVM 链等 1000 多个市场上自动运行，具备实时扫描套利机会、即时执行交易和风险管理能力，并支持机器间支付的代理商务协议，采用自托管部署方式。",
+  "content": "CloddsBot 是一个用 TypeScript 编写的开源 AI 交易代理项目，由开发者 alsk1992 发布在 GitHub 上，当前获得约 2898 个 Star 和 353 个 Fork，日增约 13 个 Star，属于 GitHub 热点 TypeScript 分类。\n\n核心定位：该项目旨在构建一个能够自主运行于 1000 多个市场的 AI 交易代理，覆盖 Polymarket、Kalshi 等预测市场，Binance、Hyperliquid 等中心化/去中心化衍生品交易所，以及 Solana DEX 和 5 条 EVM 兼容链上的去中心化交易场景。\n\n主要功能：\n1. 自动扫描市场中的边缘机会（edge），寻找潜在的套利或定价偏差；\n2. 即时执行交易，减少人工干预和延迟；\n3. 内置风险管理机制，可在用户休息时持续监控和调整仓位；\n4. 提供代理商务协议（Agent Commerce Protocol），支持机器与机器之间的自动支付；\n5. 支持自托管部署，用户可完全掌控自己的资金和策略。\n\n技术基础：项目基于 Claude 大模型构建，使用 TypeScript 开发，适合需要跨市场自动化交易策略的开发者、量化交易者和 AI 代理研究者。\n\n适用场景：跨市场套利、自动化做市、预测市场交易、多链 DeFi 策略执行，以及探索 AI 代理在金融交易中的自主决策与支付能力。",
+  "tags": [
+    "AI交易代理",
+    "开源",
+    "TypeScript",
+    "Claude",
+    "多市场交易",
+    "DeFi",
+    "套利",
+    "自托管",
+    "机器支付",
+    "Polymarket",
+    "Kalshi",
+    "Binance",
+    "Hyperliquid",
+    "Solana",
+    "EVM"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:31+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "alsk1992",
+    "stars": 2898,
+    "forks": 353,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

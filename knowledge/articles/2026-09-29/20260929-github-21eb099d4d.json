@@ -1,0 +1,32 @@
+{
+  "id": "20260929-github-21eb099d4d",
+  "title": "ashhart/TensorFold",
+  "source": "github_trending",
+  "source_url": "https://github.com/ashhart/TensorFold",
+  "summary": "TensorFold 是一个在 Apple Silicon 上利用 MLX 框架实现快速、精确 LLM 解码的开源项目，提供 OpenAI 兼容的 API 端点，方便集成到现有工作流中。",
+  "content": "TensorFold 是一个基于 Python 的开源项目，专注于在 Apple Silicon 芯片上通过 MLX 框架实现快速且精确的大语言模型（LLM）解码。它提供了一个与 OpenAI API 兼容的端点，使得开发者可以无缝地将本地 LLM 推理集成到现有的 OpenAI 生态工具中。该项目在 GitHub 上获得了 548 个星标和 56 个 fork，单日新增 160 个星标，显示出较高的社区关注度。其核心优势在于利用 Apple Silicon 的硬件加速能力，实现高效推理，同时保持解码的精确性。对于需要在 Mac 设备上部署私有 LLM 服务的开发者来说，TensorFold 提供了一个轻量且高效的解决方案。",
+  "tags": [
+    "LLM",
+    "Apple Silicon",
+    "MLX",
+    "OpenAI API",
+    "Python",
+    "推理加速"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-29T04:18:29+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "ashhart",
+    "stars": 548,
+    "forks": 56,
+    "daily_stars": 160,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
