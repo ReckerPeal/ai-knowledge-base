@@ -1,0 +1,38 @@
+{
+  "id": "20260930-github-b3053d2dc3",
+  "title": "TNT-Likely/PanWatch",
+  "source": "github_trending",
+  "source_url": "https://github.com/TNT-Likely/PanWatch",
+  "summary": "PanWatch（盯盘侠）是一个基于 TradingAgents 的 AI 股票监控工具，覆盖 A 股、港股和美股市场，提供持仓分析、实时提醒与自动报告功能。项目使用 Python 开发，在 GitHub 上获得 1881 星标和 339 次 fork，周增星标 735，热度较高。",
+  "content": "PanWatch 是一个面向个人投资者的 AI 股票监控开源项目，由 TNT-Likely 开发并托管于 GitHub。其核心定位是“AI 盯盘”，通过集成 TradingAgents 框架，为 A 股、港股和美股三大市场提供智能化的行情监控服务。\n\n主要功能包括：\n1. 持仓分析：对用户投资组合进行 AI 驱动的深度分析，辅助决策。\n2. 实时提醒：监控市场动态，及时推送价格异动、新闻事件等关键信息。\n3. 自动报告：定期生成市场总结与持仓报告，降低人工盯盘成本。\n\n技术层面，项目采用 Python 语言开发，依赖 TradingAgents 实现多智能体协作的金融分析能力。仓库当前拥有 1881 个星标、339 个 fork，周增星标 735，表明社区关注度较高，属于 GitHub 热点 Python 项目。\n\n适用场景：适合需要跨市场监控的投资者、量化交易爱好者，以及希望借助 AI 自动化日常盯盘流程的用户。项目开源，可自行部署和二次开发。",
+  "tags": [
+    "AI",
+    "股票监控",
+    "TradingAgents",
+    "Python",
+    "A股",
+    "港股",
+    "美股",
+    "持仓分析",
+    "实时提醒",
+    "自动报告",
+    "开源",
+    "金融科技"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:12+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "TNT-Likely",
+    "stars": 1881,
+    "forks": 339,
+    "daily_stars": null,
+    "weekly_stars": 735,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

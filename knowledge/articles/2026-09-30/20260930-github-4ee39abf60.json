@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-4ee39abf60",
+  "title": "rust-lang/rust",
+  "source": "github_trending",
+  "source_url": "https://github.com/rust-lang/rust",
+  "summary": "Rust 编程语言的官方主仓库，致力于让每个人都能构建可靠且高效的软件。该仓库包含 Rust 编译器、标准库及核心工具链的完整源代码，是 Rust 生态系统的基石。",
+  "content": "## 项目概述\n\n`rust-lang/rust` 是 Rust 编程语言的官方主仓库，由 Rust 语言团队维护。其核心理念是「赋能每个人构建可靠且高效的软件」，通过所有权系统、零成本抽象和无垃圾回收的内存安全机制，在系统级编程领域提供了兼具安全性与性能的解决方案。\n\n## 核心组成\n\n该仓库包含以下关键组件：\n\n- **rustc 编译器**：Rust 语言的官方编译器，负责将 Rust 源代码编译为机器码。\n- **标准库（std）**：提供核心类型、集合、I/O、并发等基础功能。\n- **核心库（core）与分配库（alloc）**：面向 no_std 环境的底层库支持。\n- **Cargo 相关集成**：与 Rust 包管理器和构建系统协同工作。\n- **工具链组件**：包括 rustdoc、clippy、rustfmt 等开发工具的源码或集成点。\n\n## 社区与生态\n\n该仓库拥有超过 119,000 个 Star 和 17,000 余个 Fork，是 GitHub 上最活跃的开源项目之一。每周新增约 337 个 Star，显示出持续增长的社区关注度。Rust 已被广泛应用于操作系统、嵌入式系统、WebAssembly、区块链、云计算和命令行工具等领域，并被 Linux 内核、Windows 和 Android 等大型项目采纳。\n\n## 技术特点\n\n- **内存安全**：编译期所有权与借用检查，消除数据竞争和空指针等常见错误。\n- **零成本抽象**：高级语言特性不引入运行时开销。\n- **并发安全**：类型系统在编译期保证线程安全。\n- **跨平台**：支持从嵌入式设备到大型服务器的广泛目标平台。\n\n## 意义与影响\n\n作为现代系统编程语言的代表，Rust 连续多年被评为「最受开发者喜爱的编程语言」。该仓库不仅是语言实现的载体，更是开源协作的典范，其 RFC 流程、团队治理模式和贡献者指南对整个开源社区具有参考价值。",
+  "tags": [
+    "Rust",
+    "编程语言",
+    "编译器",
+    "系统编程",
+    "开源",
+    "内存安全",
+    "标准库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:17+08:00",
+  "language": "Rust",
+  "score": 9.8,
+  "metadata": {
+    "author": "rust-lang",
+    "stars": 119306,
+    "forks": 17227,
+    "daily_stars": null,
+    "weekly_stars": 337,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

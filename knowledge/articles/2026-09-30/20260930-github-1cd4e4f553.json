@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-1cd4e4f553",
+  "title": "livekit/livekit",
+  "source": "github_trending",
+  "source_url": "https://github.com/livekit/livekit",
+  "summary": "LiveKit 是一个用 Go 编写的端到端实时通信栈，旨在连接人类与 AI，提供低延迟的音视频和数据传输能力。项目在 GitHub 上拥有超过 2.1 万星标，热度持续，适合构建实时互动应用。",
+  "content": "LiveKit 是一个开源的端到端实时通信栈，主要使用 Go 语言开发，专注于为人类与 AI 之间的实时交互提供底层支持。其核心能力包括基于 WebRTC 的实时音视频传输、数据通道以及可扩展的 SFU（选择性转发单元）架构，能够支持大规模并发场景。项目在 GitHub 上已获得 21,183 个星标和 2,402 个 fork，日增星标约 18 个，显示出稳定的社区关注度。LiveKit 常用于构建视频会议、直播、AI 语音助手、远程协作等应用，并提供丰富的客户端 SDK（如 JavaScript、Python、Swift、Kotlin 等）和服务端 API。其设计强调低延迟、高可靠性和易集成，适合开发者快速搭建实时互动功能。",
+  "tags": [
+    "实时通信",
+    "WebRTC",
+    "Go",
+    "音视频",
+    "AI 交互",
+    "SFU",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "livekit",
+    "stars": 21183,
+    "forks": 2402,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

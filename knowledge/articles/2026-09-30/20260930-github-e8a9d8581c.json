@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-e8a9d8581c",
+  "title": "cloudflare/vinext",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/vinext",
+  "summary": "Cloudflare 推出的 vinext 是一个 Vite 插件，旨在重新实现 Next.js 的 API 表面，让开发者能够在任意平台部署 Next.js 风格的应用。该项目由 Cloudflare 官方维护，使用 TypeScript 编写，目前在 GitHub 上已获得约 8975 颗星，日增约 91 星，热度较高。",
+  "content": "## 项目概述\n\nvinext 是由 Cloudflare 开发并开源的一个 Vite 插件，其核心目标是重新实现 Next.js 的 API 表面（API surface），从而让基于 Next.js 风格编写的应用能够摆脱对 Next.js 官方运行时的强绑定，实现「一次编写，随处部署」。\n\n## 核心特性\n\n- **Vite 插件形态**：以 Vite 插件的方式集成，可无缝接入现有的 Vite 构建流程，享受 Vite 生态的快速冷启动与热更新能力。\n- **Next.js API 兼容**：重新实现 Next.js 的 API 表面，使开发者能够沿用熟悉的 Next.js 开发范式（如路由、数据获取等约定），降低迁移与学习成本。\n- **随处部署**：不绑定特定托管平台，理论上可部署到任何支持 Vite 构建产物的环境，包括 Cloudflare Workers 等边缘计算平台。\n\n## 技术背景与意义\n\nNext.js 作为 React 全栈框架，其 API 与运行时深度耦合于 Vercel 生态。vinext 通过「重实现 API 表面」的方式解耦这一绑定，为希望使用 Next.js 开发体验但需要部署到其他平台（尤其是边缘运行时）的团队提供了新选择。Cloudflare 的官方背景也暗示其与 Cloudflare Workers/Pages 等产品的协同潜力。\n\n## 社区热度\n\n项目当前约 8975 stars、420 forks，日增约 91 stars，属于 GitHub TypeScript 分类下的热点项目，反映出社区对「Next.js 去 Vercel 化 / 跨平台部署」这一方向的强烈关注。\n\n## 适用场景\n\n- 希望将 Next.js 风格应用部署到 Cloudflare Workers 等非 Vercel 平台的团队。\n- 已使用 Vite 技术栈、希望引入 Next.js 式开发约定的项目。\n- 关注边缘计算与前端框架解耦趋势的开发者。",
+  "tags": [
+    "Vite",
+    "Next.js",
+    "Cloudflare",
+    "TypeScript",
+    "边缘计算",
+    "前端框架",
+    "跨平台部署"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:05+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 8975,
+    "forks": 420,
+    "daily_stars": 91,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

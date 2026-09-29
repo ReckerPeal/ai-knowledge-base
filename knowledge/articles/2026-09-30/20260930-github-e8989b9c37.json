@@ -1,0 +1,34 @@
+{
+  "id": "20260930-github-e8989b9c37",
+  "title": "maximhq/bifrost",
+  "source": "github_trending",
+  "source_url": "https://github.com/maximhq/bifrost",
+  "summary": "maximhq/bifrost 是一个用 Go 编写的高性能企业级 AI 网关，号称比 LiteLLM 快 50 倍，支持 1000+ 模型、自适应负载均衡、集群模式与护栏机制，在 5k RPS 下开销低于 100 微秒，当前已获约 8448 星标。",
+  "content": "该仓库定位为企业级 AI 网关（AI Gateway），核心卖点在于极致的性能与规模化能力。官方摘要显示其速度比 LiteLLM 快 50 倍，在 5000 RPS 的负载下额外开销仍低于 100 微秒，这使其适合对延迟敏感的高并发生产环境。功能层面，它提供自适应负载均衡器（adaptive load balancer），可根据后端模型服务的实时状态动态分配请求；支持集群模式（cluster mode），便于横向扩展与高可用部署；内置护栏（guardrails）机制，用于内容安全、合规与策略控制；并宣称支持 1000 多个模型，覆盖主流商业与开源大模型接口。技术栈为 Go，天然具备高并发与低内存占用的优势，这也是其实现低延迟网关的关键。从社区数据看，项目已积累约 8448 个 star、1308 个 fork，周新增约 221 star，属于 GitHub Go 语言热点项目，说明其在 AI 基础设施领域受到较高关注。适用场景包括：企业统一接入多家模型供应商、做多模型路由与故障转移、在网关层实施限流与安全策略、以及替换性能不足的现有 LLM 代理方案。",
+  "tags": [
+    "AI Gateway",
+    "Go",
+    "LLM 基础设施",
+    "负载均衡",
+    "企业级",
+    "高性能",
+    "模型路由",
+    "护栏"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:19+08:00",
+  "language": "Go",
+  "score": 8.6,
+  "metadata": {
+    "author": "maximhq",
+    "stars": 8448,
+    "forks": 1308,
+    "daily_stars": null,
+    "weekly_stars": 221,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

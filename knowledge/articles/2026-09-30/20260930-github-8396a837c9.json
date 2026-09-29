@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-8396a837c9",
+  "title": "felinics/Memoh",
+  "source": "github_trending",
+  "source_url": "https://github.com/felinics/Memoh",
+  "summary": "Memoh 是一个开源的多智能体平台，为每个智能体提供独立的计算机、桌面、网络和长期记忆，支持自带密钥或托管 Claude Code、Codex 等编码智能体。",
+  "content": "Memoh 是一个用 Go 语言开发的开源多智能体平台，旨在为每个 AI 智能体提供完整的运行环境。其核心特性包括：为每个智能体分配独立的计算机、桌面、网络和长期记忆，使其能够像独立个体一样运行和积累经验。平台支持用户自带 API 密钥（BYOK），也支持托管 Claude Code、Codex 等主流编码智能体。该项目在 GitHub 上已获得约 2590 颗星和 251 次 fork，日增约 12 颗星，属于 GitHub 热点 Go 语言分类。Memoh 的定位是降低多智能体系统的部署门槛，让开发者能够快速构建和运行具备持久记忆与独立环境的智能体应用。",
+  "tags": [
+    "多智能体",
+    "开源平台",
+    "Go",
+    "长期记忆",
+    "AI Agent",
+    "Claude Code",
+    "Codex"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "felinics",
+    "stars": 2590,
+    "forks": 251,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20260930-github-1360ce313c",
+  "title": "cypress-io/cypress",
+  "source": "github_trending",
+  "source_url": "https://github.com/cypress-io/cypress",
+  "summary": "Cypress 是一个面向浏览器端应用的快速、易用且可靠的自动化测试框架，由 cypress-io 开源维护，使用 TypeScript 编写，在 GitHub 上拥有超过 5.1 万颗星标，是当前前端端到端测试领域最受关注的项目之一。",
+  "content": "## 项目概览\n\nCypress 是一个专为现代 Web 应用设计的自动化测试工具，其核心定位是「为任何在浏览器中运行的东西提供快速、简单且可靠的测试」。项目由 cypress-io 组织开源，主仓库地址为 https://github.com/cypress-io/cypress，主要开发语言为 TypeScript。\n\n## 关键数据\n\n- **Star 数**：51,045\n- **Fork 数**：3,648\n- **当日新增 Star**：19\n- **分类**：GitHub 热点 · TypeScript\n- **数据采集时间**：2026-09-30\n\n从 Star 体量来看，Cypress 已经稳居前端测试工具的第一梯队，与 Playwright、Selenium 等形成直接竞争关系；3,648 的 Fork 数说明社区参与度和二次开发活跃度较高。\n\n## 技术特点\n\nCypress 与传统基于 WebDriver 的测试框架（如 Selenium）在架构上有本质区别：它直接运行在浏览器内部，与被测应用共享同一个运行循环，因此能够原生访问 DOM、网络请求、定时器等运行时对象，从而避免了跨进程通信带来的不稳定与等待问题。这一设计使其在调试体验、执行速度和测试稳定性方面具备明显优势。\n\n项目采用 TypeScript 编写，提供了完整的类型定义，对使用 TypeScript 的前端团队较为友好。其典型能力包括：\n\n- 端到端（E2E）测试：模拟真实用户操作流程\n- 组件测试：对 React、Vue、Angular 等框架的组件进行隔离测试\n- 自动等待与重试机制：减少因异步渲染导致的 flaky 测试\n- 时间旅行调试：通过快照回放每一步操作\n- 网络请求拦截与桩（stub）能力\n\n## 生态与适用场景\n\nCypress 拥有独立的 Test Runner 应用、命令行工具以及云端 Dashboard 服务（Cypress Cloud），可用于测试录制、并行执行与结果分析。它适用于前端团队在 CI/CD 流程中构建回归测试体系，也常用于组件库、单页应用和跨浏览器兼容性验证。\n\n## 综合评价\n\nCypress 是前端测试领域成熟度与社区活跃度兼具的代表性项目，文档完善、上手门槛低，适合作为 Web 应用自动化测试的主力方案。其持续稳定的 Star 增长也反映出市场对其价值的认可。",
+  "tags": [
+    "Cypress",
+    "自动化测试",
+    "端到端测试",
+    "E2E",
+    "TypeScript",
+    "前端测试",
+    "测试框架",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:05+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "cypress-io",
+    "stars": 51045,
+    "forks": 3648,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

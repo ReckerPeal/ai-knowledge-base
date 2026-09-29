@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-238464cf36",
+  "title": "nats-io/nats-server",
+  "source": "github_trending",
+  "source_url": "https://github.com/nats-io/nats-server",
+  "summary": "nats-io/nats-server 是 NATS.io 的高性能消息服务器，面向云和边缘原生场景，使用 Go 语言开发，在 GitHub 上拥有约 2.08 万 Star。",
+  "content": "nats-io/nats-server 是 NATS.io 生态的核心组件，定位为云原生与边缘原生的高性能消息系统服务器。项目使用 Go 语言实现，具备轻量、低延迟和高吞吐的特点，适用于微服务通信、IoT 边缘消息传递、事件驱动架构等场景。仓库由 nats-io 组织维护，当前获得约 20,804 个 Star 和 1,978 个 Fork，日增约 19 个 Star，属于 GitHub Go 语言热点项目。其核心价值在于为分布式系统提供可靠、可扩展的发布/订阅与请求/响应消息能力。",
+  "tags": [
+    "NATS",
+    "消息队列",
+    "云原生",
+    "边缘计算",
+    "Go",
+    "高性能",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "nats-io",
+    "stars": 20804,
+    "forks": 1978,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

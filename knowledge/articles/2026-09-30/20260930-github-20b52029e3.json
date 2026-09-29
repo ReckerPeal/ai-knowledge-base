@@ -1,0 +1,32 @@
+{
+  "id": "20260930-github-20b52029e3",
+  "title": "magnitudedev/magnitude",
+  "source": "github_trending",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "summary": "Magnitude 是一个开源推理引擎，旨在让用户在自己已有的硬件上运行大语言模型。它能自动分析机器配置，推荐最适合的开源模型，并针对具体硬件进行调优，支持 Apple Silicon、NVIDIA、AMD 以及纯 CPU 环境。",
+  "content": "Magnitude 是一个用 Rust 编写的开源推理引擎，核心目标是降低本地运行大语言模型的门槛。它通过自动检测用户的硬件配置（包括 Apple Silicon、NVIDIA、AMD 显卡或纯 CPU），推荐在该硬件上性能最佳的开源模型，并自动进行推理参数调优，从而在无需高端设备的情况下实现高效的模型推理。该项目在 GitHub 上已获得 5468 颗星，日增 138 星，显示出较高的社区关注度。其跨平台兼容性和自动化调优特性，使其成为本地 AI 部署领域的一个实用工具。",
+  "tags": [
+    "推理引擎",
+    "本地部署",
+    "开源模型",
+    "硬件优化",
+    "Rust",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:07+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "magnitudedev",
+    "stars": 5468,
+    "forks": 389,
+    "daily_stars": 138,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

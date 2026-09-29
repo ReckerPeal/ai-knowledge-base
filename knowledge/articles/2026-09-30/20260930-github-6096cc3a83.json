@@ -1,0 +1,34 @@
+{
+  "id": "20260930-github-6096cc3a83",
+  "title": "HKUDS/CLI-Anything",
+  "source": "github_trending",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "summary": "HKUDS/CLI-Anything 是香港大学数据科学实验室（HKUDS）开源的项目，目标是让所有软件都具备 Agent 原生能力（Agent-Native），通过 CLI-Hub 提供统一入口。项目以 Python 实现，在 GitHub 上已获得约 5.1 万星标，周增星约 1200，属于高热度 AI 基础设施类项目。",
+  "content": "该项目标题为「CLI-Anything: Making ALL Software Agent-Native」，核心主张是将任意软件改造为 AI Agent 可直接调用的原生工具，从而打通大模型与现有软件生态之间的调用壁垒。配套的 CLI-Hub（https://clianything.cc/）作为集中式入口，推测用于发现、注册或分发各类 CLI 化的 Agent 工具。\n\n从仓库信息看，作者为 HKUDS（香港大学数据科学实验室），语言为 Python，星标数约 50,995，Fork 数约 4,654，周增星约 1,227，说明项目在近期获得了持续且可观的社区关注，属于 GitHub 热点中的 Python 类项目。\n\n在技术定位上，CLI-Anything 处于「AI Agent 工具层」这一关键位置：大模型能力日益增强，但真正落地时受限于软件接口不统一、调用方式碎片化。将软件统一抽象为 CLI 形式，是一种轻量、通用且易于被 Agent 编排的方案，与 MCP（Model Context Protocol）等 Agent 工具协议方向形成呼应或互补。\n\n适用场景包括：让 Agent 自动化操作本地或云端软件、构建可组合的 Agent 工具链、为传统软件快速添加 AI 可调用能力等。潜在受众为 AI Agent 开发者、自动化工程师、以及希望将现有软件接入大模型工作流的团队。\n\n需注意：当前摘要信息有限，项目的具体实现机制、支持软件范围、与 MCP 等标准的关系尚不明确，建议进一步查看仓库 README 与 CLI-Hub 文档以评估实际可用性。",
+  "tags": [
+    "AI Agent",
+    "CLI",
+    "工具调用",
+    "Python",
+    "开源项目",
+    "GitHub 热点",
+    "Agent-Native",
+    "HKUDS"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:12+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "HKUDS",
+    "stars": 50995,
+    "forks": 4654,
+    "daily_stars": null,
+    "weekly_stars": 1227,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

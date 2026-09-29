@@ -1,0 +1,31 @@
+{
+  "id": "20260930-github-df52448fbc",
+  "title": "hydra-db/hydradb",
+  "source": "github_trending",
+  "source_url": "https://github.com/hydra-db/hydradb",
+  "summary": "HydraDB 是一个基于对象存储构建的高性能图数据库，使用 Rust 语言开发，在 GitHub 上获得 12801 星标，近期日增 606 星、周增 8467 星，热度极高。",
+  "content": "HydraDB 定位为「运行在对象存储之上的快速图数据库」，其核心创新在于将图数据库的存储层与对象存储（如 S3 等）结合，从而在保持图查询性能的同时获得对象存储的弹性、低成本与持久性优势。项目采用 Rust 语言实现，兼顾内存安全与高性能，适合处理大规模图数据场景。从 GitHub 数据来看，该仓库已获得 12801 个星标和 5569 个 fork，日增星标 606、周增星标 8467，增长势头强劲，表明社区对其技术路线高度关注。该项目的出现可能为图数据库领域带来新的架构思路，尤其适用于云原生环境下需要弹性扩展的图计算与图分析应用。",
+  "tags": [
+    "图数据库",
+    "对象存储",
+    "Rust",
+    "云原生",
+    "数据库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:07+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "hydra-db",
+    "stars": 12801,
+    "forks": 5569,
+    "daily_stars": 606,
+    "weekly_stars": 8467,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

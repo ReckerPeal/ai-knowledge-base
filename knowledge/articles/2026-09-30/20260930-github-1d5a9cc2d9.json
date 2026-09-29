@@ -1,0 +1,30 @@
+{
+  "id": "20260930-github-1d5a9cc2d9",
+  "title": "Introducing MentalHealthBench",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-mentalhealthbench",
+  "summary": "OpenAI 发布 MentalHealthBench，一个由专家参与构建的基准，用于评估 AI 在真实心理健康对话中回复的有用性与安全性。",
+  "content": "OpenAI 在其官方博客发布了 MentalHealthBench，这是一个面向心理健康场景的 AI 评估基准。该基准由专家参与设计，旨在衡量 AI 模型在模拟真实心理健康对话时，能否给出既有帮助又安全可靠的回应。与通用对话评测不同，MentalHealthBench 关注高风险、敏感的心理健康语境，强调回复的实用性（helpfulness）与安全性（safety）之间的平衡。该基准的推出反映出业界对 AI 在心理健康等敏感领域负责任部署的重视，也为模型开发者提供了可量化的评估工具。目前该来源为 OpenAI 公司博客，未提供 GitHub 仓库的星标等指标数据。",
+  "tags": [
+    "心理健康",
+    "AI 基准",
+    "安全评估",
+    "OpenAI",
+    "对话系统",
+    "负责任 AI"
+  ],
+  "status": "draft",
+  "published_at": "2026-09-23T10:00:00+00:00",
+  "collected_at": "2026-09-30T02:58:19+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

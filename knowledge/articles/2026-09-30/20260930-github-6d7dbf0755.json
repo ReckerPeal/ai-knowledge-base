@@ -1,0 +1,32 @@
+{
+  "id": "20260930-github-6d7dbf0755",
+  "title": "Q00/ouroboros",
+  "source": "github_trending",
+  "source_url": "https://github.com/Q00/ouroboros",
+  "summary": "Q00/ouroboros 是一个用 Python 编写的 Agent OS 项目，旨在让 AI Agent 通过受控的演化循环自主变强。它提供 MCP 服务器并支持 14 种运行时（如 Claude Code、Codex CLI、Gemini CLI 等），强调面试门控、分阶段评估和预算化演化。",
+  "content": "该仓库定位为“Agent OS”，核心理念是让 Agent 在无需人工干预的情况下自我提升，同时通过“面试门控（Interview-gated）”、“分阶段评估（staged evaluation）”和“预算化演化循环（budgeted evolution loop）”来保持可控性。项目以 MCP 服务器形式提供能力，并兼容 14 种主流 AI 运行时，包括 Claude Code、Codex CLI、Gemini CLI、OpenCode、Copilot、Kiro 等。当前在 GitHub 上获得约 6138 颗星、618 个 fork，日增约 11 颗星，属于 Python 类热点项目。",
+  "tags": [
+    "Agent OS",
+    "MCP",
+    "AI Agent",
+    "自我演化",
+    "Python",
+    "多运行时"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:03+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "Q00",
+    "stars": 6138,
+    "forks": 618,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

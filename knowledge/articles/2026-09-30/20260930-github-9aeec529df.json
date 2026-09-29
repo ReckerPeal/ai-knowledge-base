@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-9aeec529df",
+  "title": "browserbase/stagehand",
+  "source": "github_trending",
+  "source_url": "https://github.com/browserbase/stagehand",
+  "summary": "Browserbase 开源的 Stagehand 是一个用于从任意网站提取数据并与之交互的 TypeScript SDK，支持与 Claude Code、Codex、Eve、Mastra 等 AI 工具集成，目前在 GitHub 上拥有约 2.5 万星标。",
+  "content": "Stagehand 是 Browserbase 推出的 Web 自动化与数据提取 SDK，核心目标是让开发者能够以编程方式与任意网站进行交互并抽取结构化数据。项目使用 TypeScript 编写，提供面向 AI 代理（Agent）的浏览器操作能力，可与 Claude Code、Codex、Eve、Mastra 等主流 AI 开发工具链配合使用。该仓库在 GitHub 上热度较高，累计星标约 25,462，Fork 数约 1,744，近一周新增星标约 511，属于 GitHub 热点中的 TypeScript 项目。其典型应用场景包括网页数据采集、自动化测试、AI 驱动的浏览器任务执行以及将网页操作能力接入 LLM 工作流。",
+  "tags": [
+    "TypeScript",
+    "Web自动化",
+    "数据提取",
+    "AI Agent",
+    "浏览器SDK",
+    "Browserbase",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:14+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "browserbase",
+    "stars": 25462,
+    "forks": 1744,
+    "daily_stars": null,
+    "weekly_stars": 511,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

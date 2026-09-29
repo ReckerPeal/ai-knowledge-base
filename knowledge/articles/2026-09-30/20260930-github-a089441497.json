@@ -1,0 +1,32 @@
+{
+  "id": "20260930-github-a089441497",
+  "title": "ffuf/ffuf",
+  "source": "github_trending",
+  "source_url": "https://github.com/ffuf/ffuf",
+  "summary": "ffuf 是一个用 Go 语言编写的高性能 Web 模糊测试工具，在 GitHub 上拥有约 1.68 万星标，属于安全测试与渗透测试领域的热门开源项目。",
+  "content": "ffuf（Fuzz Faster U Fool）是一款基于 Go 语言开发的快速 Web 模糊测试（fuzzing）工具，主要用于 Web 应用的安全评估与渗透测试。其核心能力是通过替换请求中的特定位置（如 URL 路径、参数、请求头、POST 数据等）为字典中的 payload，快速发送大量请求并依据响应状态码、长度、字数、行数等条件过滤出有效结果，从而发现隐藏目录、文件、参数、子域名以及潜在的注入点。\n\n该工具的主要特点包括：\n1. 高性能：基于 Go 的并发模型，支持多线程并发请求，速度极快。\n2. 灵活过滤：支持按状态码、响应大小、单词数、行数、正则表达式、响应时间等维度过滤结果。\n3. 多模式支持：支持目录/文件发现、参数模糊测试、POST 数据模糊测试、子域名枚举、虚拟主机发现等多种模式。\n4. 易于集成：支持从文件或标准输入读取请求，可配合 Burp Suite 等工具使用，输出格式支持 JSON、HTML、CSV 等。\n5. 跨平台：编译为单一二进制文件，可在 Linux、macOS、Windows 等平台运行。\n\n从仓库数据来看，ffuf 拥有 16,777 个星标和 1,611 个 fork，日增约 19 星，表明项目仍保持较高的社区关注度。其语言为 Go，属于 GitHub 热点中的 Go 类别。该项目适合安全研究人员、渗透测试人员以及 Web 开发者用于安全自查。",
+  "tags": [
+    "Web安全",
+    "模糊测试",
+    "渗透测试",
+    "Go",
+    "开源工具",
+    "安全测试"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ffuf",
+    "stars": 16777,
+    "forks": 1611,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

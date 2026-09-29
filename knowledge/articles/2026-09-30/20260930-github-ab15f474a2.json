@@ -1,0 +1,36 @@
+{
+  "id": "20260930-github-ab15f474a2",
+  "title": "bytedance/deer-flow",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "summary": "字节跳动开源的长时程 SuperAgent 框架 deer-flow，通过沙箱、记忆、工具、技能、子代理和消息网关等组件，能够自主完成研究、编码与创作等耗时数分钟至数小时的复杂任务。",
+  "content": "deer-flow 是字节跳动推出的开源长时程 SuperAgent 运行框架，定位为可自主研究、编码和创作的智能体系统。其核心能力包括：1）沙箱环境，为代码执行和任务操作提供隔离安全空间；2）记忆机制，支持跨步骤、跨会话的信息留存与调用；3）工具与技能体系，扩展智能体可执行的操作范围；4）子代理协作，将复杂任务拆解并分派给多个子代理并行或串行处理；5）消息网关，统一管理智能体与外部系统、用户之间的通信。该框架面向需要长时间跨度的任务场景，例如深度调研、多步骤代码开发、内容创作等，任务耗时可从几分钟到数小时不等。项目使用 Python 语言开发，在 GitHub 上已获得 83,221 个 Star 和 11,547 个 Fork，日增 Star 约 79，属于 GitHub 热点 Python 类别，显示出较高的社区关注度和工程实用价值。",
+  "tags": [
+    "SuperAgent",
+    "长时程任务",
+    "智能体框架",
+    "字节跳动",
+    "开源",
+    "Python",
+    "沙箱",
+    "子代理",
+    "记忆机制",
+    "工具调用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:03+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "bytedance",
+    "stars": 83221,
+    "forks": 11547,
+    "daily_stars": 79,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

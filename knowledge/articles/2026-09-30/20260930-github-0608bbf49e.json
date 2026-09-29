@@ -1,0 +1,32 @@
+{
+  "id": "20260930-github-0608bbf49e",
+  "title": "rakyll/hey",
+  "source": "github_trending",
+  "source_url": "https://github.com/rakyll/hey",
+  "summary": "rakyll/hey 是一个用 Go 语言编写的 HTTP 负载生成器，定位为 ApacheBench (ab) 的替代品，拥有超过 2 万颗星标，是 Go 生态中广受欢迎的性能测试工具。",
+  "content": "rakyll/hey 是由 Google 工程师 rakyll 开发的开源 HTTP 压测工具，旨在替代经典的 ApacheBench (ab)。它使用 Go 语言编写，具备跨平台、高并发和易安装的特点。hey 支持指定并发数、请求总数、超时时间、请求方法、请求头、请求体等参数，并能输出详细的延迟分布、QPS、状态码统计等性能指标。相比 ab，hey 在 HTTP/2 支持、并发模型和结果展示上更现代。该仓库目前获得约 20436 个 star 和 1310 个 fork，日增约 31 星，属于 GitHub 热点 Go 项目。适合开发者和运维人员用于 Web 服务性能基准测试。",
+  "tags": [
+    "HTTP压测",
+    "负载测试",
+    "Go",
+    "性能测试",
+    "ApacheBench替代",
+    "CLI工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "rakyll",
+    "stars": 20436,
+    "forks": 1310,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

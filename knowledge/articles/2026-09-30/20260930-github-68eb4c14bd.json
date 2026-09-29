@@ -1,0 +1,34 @@
+{
+  "id": "20260930-github-68eb4c14bd",
+  "title": "kserve/kserve",
+  "source": "github_trending",
+  "source_url": "https://github.com/kserve/kserve",
+  "summary": "KServe 是一个基于 Kubernetes 的标准化分布式生成式与预测式 AI 推理平台，支持多框架模型部署，旨在提供可扩展的推理服务。该仓库使用 Go 语言开发，当前获得约 6046 颗星标和 1708 次复刻，日增星标约 15 颗，属于 GitHub 热点 Go 项目。",
+  "content": "KServe（原 KFServing）是 Kubeflow 生态中的核心组件，专注于在 Kubernetes 上提供标准化的模型推理服务。它支持 TensorFlow、PyTorch、XGBoost、Scikit-learn、ONNX 等多种机器学习框架，并针对生成式 AI 和预测式 AI 场景进行了优化。\n\n核心特性包括：\n1. **多框架支持**：通过标准化接口封装不同推理运行时，用户无需修改代码即可部署多种框架的模型。\n2. **自动扩缩容**：基于请求量（包括零缩放）自动调整推理服务实例，提升资源利用率。\n3. **高级部署策略**：支持金丝雀发布、A/B 测试、模型版本管理等，便于生产环境迭代。\n4. **可解释性与监控**：集成请求日志、指标采集和可解释性工具，帮助运维和调试。\n5. **生成式 AI 支持**：提供对 LLM 等生成式模型的推理优化，包括流式响应和 GPU 加速。\n\n该项目采用 Go 语言编写，具备高性能和云原生特性，适合在 Kubernetes 集群中大规模部署 AI 推理服务。当前社区活跃，星标数持续增长，是云原生 AI 领域的重要基础设施项目。",
+  "tags": [
+    "Kubernetes",
+    "AI推理",
+    "模型部署",
+    "Go",
+    "云原生",
+    "KServe",
+    "生成式AI",
+    "预测式AI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:10+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kserve",
+    "stars": 6046,
+    "forks": 1708,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

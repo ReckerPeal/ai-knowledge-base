@@ -1,0 +1,33 @@
+{
+  "id": "20260930-github-7990d5817d",
+  "title": "mvt-project/mvt",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvt-project/mvt",
+  "summary": "MVT（Mobile Verification Toolkit）是一个用于移动设备取证的开源工具，旨在帮助安全研究人员和记者检测手机是否被入侵或监控，支持 iOS 和 Android 平台。",
+  "content": "MVT 由 Amnesty International 的安全实验室开发，主要用于对移动设备进行数字取证分析，以发现潜在的妥协迹象。它能够解析 iOS 备份和 Android 设备数据，并比对已知的恶意软件指标（IOCs），从而识别如 Pegasus 等间谍软件的痕迹。该工具在隐私保护和人权领域具有重要价值，尤其适用于高风险人群。项目使用 Python 编写，拥有活跃的社区支持，在 GitHub 上已获得超过 15,000 颗星标。",
+  "tags": [
+    "移动取证",
+    "安全",
+    "隐私",
+    "iOS",
+    "Android",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:12+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "mvt-project",
+    "stars": 15014,
+    "forks": 1412,
+    "daily_stars": null,
+    "weekly_stars": 1536,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260930-github-3823b38bdf",
+  "title": "Pumpkin-MC/Pumpkin",
+  "source": "github_trending",
+  "source_url": "https://github.com/Pumpkin-MC/Pumpkin",
+  "summary": "Pumpkin 是一个用 Rust 编写的 Minecraft 服务器实现，目标是让每个人都能轻松托管快速高效的 Minecraft 服务器。该项目在 GitHub 上已获得超过 1.1 万颗星，日增星数达 163，属于 Rust 语言类别的热门项目。",
+  "content": "Pumpkin-MC/Pumpkin 是一个基于 Rust 语言开发的开源 Minecraft 服务器项目，其核心理念是「赋能每个人托管快速且高效的 Minecraft 服务器」。该项目在 GitHub Trending 中作为 Rust 类别的热点项目被收录，当前累计获得 11,635 颗星标和 839 次 fork，单日新增星标 163 颗，显示出较高的社区关注度和活跃度。\n\n从技术定位来看，Pumpkin 选择 Rust 作为实现语言，这与其追求高性能和效率的目标高度契合。Rust 的内存安全性和零成本抽象特性，使其非常适合用于构建需要处理大量并发连接和实时数据交互的游戏服务器。相比传统的 Java 版 Minecraft 服务器（如 Spigot、Paper 等），Rust 实现有望在资源占用、响应延迟和并发处理能力上带来显著优势。\n\n该项目的主要价值主张在于降低 Minecraft 服务器托管的技术门槛和硬件成本。通过提供高效的服务端实现，Pumpkin 可以帮助个人玩家、小型社区乃至大型服务器运营者以更少的资源消耗运行更流畅的游戏体验。其「赋能每个人」的表述也暗示了项目可能注重易用性和可部署性，而非仅仅面向技术专家。\n\n从社区热度指标分析，日增 163 颗星标表明该项目正处于快速增长期，可能近期有重要版本发布或功能更新引发了关注。11,635 的总星标数在 Rust 游戏服务器类项目中属于较高水平，反映出市场对高性能 Minecraft 服务端方案的切实需求。\n\n需要注意的是，当前摘要信息较为精简，未提供项目的具体功能特性、架构设计、兼容性范围（如支持的 Minecraft 版本）、部署方式及文档完善程度等细节。建议进一步查阅仓库的 README、Release 说明和 Issue 讨论，以全面评估其成熟度和适用场景。",
+  "tags": [
+    "Rust",
+    "Minecraft",
+    "游戏服务器",
+    "开源项目",
+    "高性能",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-09-30T02:58:07+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "Pumpkin-MC",
+    "stars": 11635,
+    "forks": 839,
+    "daily_stars": 163,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
