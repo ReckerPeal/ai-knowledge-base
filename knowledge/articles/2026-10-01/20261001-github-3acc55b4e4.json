@@ -1,0 +1,33 @@
+{
+  "id": "20261001-github-3acc55b4e4",
+  "title": "derv82/wifit3",
+  "source": "github_trending",
+  "source_url": "https://github.com/derv82/wifit3",
+  "summary": "Wifit3 是经典无线网络审计工具 Wifite 的衍生版本，专注于仅通过 USB 无线网卡运行，并实现跨平台支持，使用 Python 编写，在 GitHub 上获得约 1585 颗星。",
+  "content": "Wifit3 是 derv82 开发的无线网络安全审计工具，定位为「Wifite 但仅限 USB 且跨平台」。它继承了 Wifite 自动化审计 Wi-Fi 网络的核心能力，但明确要求使用外接 USB 无线网卡，从而绕开内置网卡驱动限制，并可在 Linux、macOS、Windows 等多平台运行。项目使用 Python 实现，当前在 GitHub 上拥有约 1585 个 Star 和 131 个 Fork，近期一周新增约 1316 个 Star，热度较高。该工具主要面向无线安全研究人员、渗透测试人员及爱好者，用于评估无线网络安全性，需在合法授权下使用。",
+  "tags": [
+    "无线安全",
+    "Wi-Fi审计",
+    "Python",
+    "跨平台",
+    "USB网卡",
+    "渗透测试",
+    "Wifite"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:36+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "derv82",
+    "stars": 1585,
+    "forks": 131,
+    "daily_stars": null,
+    "weekly_stars": 1316,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20261001-github-721d80279f",
+  "title": "iced-rs/iced",
+  "source": "github_trending",
+  "source_url": "https://github.com/iced-rs/iced",
+  "summary": "iced 是一个受 Elm 架构启发的 Rust 跨平台 GUI 库，目前在 GitHub 上拥有超过 3.1 万颗星，日增约 22 星，社区活跃度较高。",
+  "content": "iced-rs/iced 是一个用 Rust 编写的跨平台 GUI 库，其设计灵感来源于 Elm 语言，强调简单、类型安全和响应式编程。该库采用 Elm 架构（Model-Update-View）来构建用户界面，使状态管理更加可预测和易于测试。它支持 Windows、macOS、Linux 和 Web（通过 WebAssembly）等多个平台，并提供丰富的内置控件和灵活的布局系统。iced 使用 Rust 的强类型系统来减少运行时错误，同时保持高性能渲染。该仓库目前获得 31624 个 star 和 1689 个 fork，日增约 22 个 star，表明其在 Rust 社区中持续受到关注。作为 GitHub 热点中的 Rust 项目，iced 适合需要构建原生跨平台桌面或 Web 应用的 Rust 开发者。",
+  "tags": [
+    "Rust",
+    "GUI",
+    "跨平台",
+    "Elm架构",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:31+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "iced-rs",
+    "stars": 31624,
+    "forks": 1689,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

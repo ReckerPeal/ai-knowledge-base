@@ -1,0 +1,31 @@
+{
+  "id": "20261001-github-5a9d819f88",
+  "title": "ahmedkhaleel2004/gitdiagram",
+  "source": "github_trending",
+  "source_url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "summary": "gitdiagram 是一个基于 TypeScript 的开源工具，能够将任意 GitHub 代码库可视化为交互式架构图，并生成一分钟讲解视频。用户只需将 GitHub URL 中的 'hub' 替换为 'diagram' 即可使用，目前获得超过 1.7 万星标。",
+  "content": "gitdiagram 由 ahmedkhaleel2004 开发，旨在帮助开发者快速理解复杂代码库的架构。其核心功能包括：1）为任意 GitHub 仓库生成免费的交互式架构图，直观展示模块、依赖和调用关系；2）自动生成一分钟左右的讲解视频，便于分享和教学。使用方式极为简单：在浏览器地址栏中，将 GitHub 仓库 URL 里的 'hub' 替换为 'diagram'（例如 github.com/user/repo 变为 gitdiagram.com/user/repo），即可访问可视化结果。该项目使用 TypeScript 编写，当前在 GitHub 上已获得 17,595 个星标和 1,345 次 fork，周新增星标 585，属于近期热门项目。",
+  "tags": [
+    "代码可视化",
+    "架构图",
+    "GitHub工具",
+    "TypeScript",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:39+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "ahmedkhaleel2004",
+    "stars": 17595,
+    "forks": 1345,
+    "daily_stars": null,
+    "weekly_stars": 585,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

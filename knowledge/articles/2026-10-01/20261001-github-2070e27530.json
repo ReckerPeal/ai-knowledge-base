@@ -1,0 +1,33 @@
+{
+  "id": "20261001-github-2070e27530",
+  "title": "Gaurav-Gosain/tuios",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gaurav-Gosain/tuios",
+  "summary": "tuios 是一个用 Go 编写的终端窗口管理器，专为 AI 编码代理设计，支持平铺窗格、工作区、会话持久化，并提供统一的 Inbox 来管理所有编码代理。",
+  "content": "tuios 是一个面向 AI 编码代理的终端窗口管理器，由 Gaurav-Gosain 开发，使用 Go 语言编写。其核心功能包括：平铺窗格（Tiling Panes），允许用户在终端中灵活排列多个窗格；工作区（Workspaces），帮助组织不同的项目或任务环境；会话持久化（Sessions that survive restarts），确保重启后会话不丢失；以及一个统一的 Inbox，用于集中管理所有编码代理。该项目在 GitHub 上已获得 4404 颗星，192 个 fork，日增星约 113，属于 GitHub 热点中的 Go 语言项目。",
+  "tags": [
+    "terminal",
+    "window-manager",
+    "ai-agents",
+    "go",
+    "tiling",
+    "workspaces",
+    "session-persistence"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:33+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Gaurav-Gosain",
+    "stars": 4404,
+    "forks": 192,
+    "daily_stars": 113,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

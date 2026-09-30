@@ -1,0 +1,36 @@
+{
+  "id": "20261001-github-6f6c75db08",
+  "title": "zeronsh/zeron",
+  "source": "github_trending",
+  "source_url": "https://github.com/zeronsh/zeron",
+  "summary": "Zeron 是一个用 Rust 编写的原生控制平面（control plane），旨在统一管理和编排 Claude Code、Codex、Cursor、Devin 等主流 AI 编码代理（coding agents）。该项目在 GitHub 上已获得约 2504 颗星，周增星 633，日增星 52，属于近期 Rust 生态中的热点项目。",
+  "content": "## 项目定位\nZeron 定位为「AI 编码代理的原生控制平面」，即面向多种 coding agent 的统一调度与管理层。当前 AI 编程工具生态高度碎片化——Claude Code、OpenAI Codex、Cursor、Devin 等各自拥有独立的交互界面、配置体系与运行环境，开发者往往需要在多个工具之间切换。Zeron 试图通过一个原生（native）控制平面来收敛这一复杂度。\n\n## 核心价值\n1. **多代理统一编排**：将不同厂商的编码代理纳入同一控制层，便于统一调用、切换与组合。\n2. **原生性能**：采用 Rust 实现，意味着低运行时开销、高并发处理能力以及良好的跨平台二进制分发特性，适合作为常驻后台的控制服务。\n3. **可扩展架构**：作为 control plane，其设计通常包含代理注册、任务分发、状态监控等抽象层，便于后续接入新的 agent 实现。\n\n## 技术特征\n- 语言：Rust，符合当前基础设施类工具向 Rust 迁移的趋势。\n- 生态热度：日增星 52、周增星 633，说明项目处于快速获得关注的上升期，社区讨论与贡献活跃度较高。\n- 分类归属：GitHub 热点 · Rust 类别，属于开发者工具 / AI 基础设施交叉领域。\n\n## 适用场景\n- 团队内部同时使用多种 AI 编码代理，需要统一入口与权限/配置管理。\n- 希望将 coding agent 能力嵌入自有 CI/CD、IDE 插件或内部平台的工程团队。\n- 对性能与资源占用敏感、偏好原生实现的开发者。\n\n## 潜在关注点\n作为控制平面类项目，其长期价值取决于对各 agent 接口变更的跟进速度、抽象层的稳定性，以及是否形成插件/适配器生态。建议关注其文档完善度、适配器数量与版本迭代节奏。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Coding Agent",
+    "Control Plane",
+    "开发者工具",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Devin",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:31+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "zeronsh",
+    "stars": 2504,
+    "forks": 239,
+    "daily_stars": 52,
+    "weekly_stars": 633,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261001-github-6b935226cd",
+  "title": "go-chi/chi",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-chi/chi",
+  "summary": "go-chi/chi 是一个轻量级、符合 Go 语言习惯且可组合的 HTTP 路由库，用于构建 Go HTTP 服务，在 GitHub 上拥有约 2.29 万星标，是 Go 生态中广受欢迎的路由中间件方案。",
+  "content": "go-chi/chi 是 Go 语言生态中一个专注于 HTTP 路由的轻量级库，其核心设计理念是「轻量、地道（idiomatic）、可组合」。它完全基于 Go 标准库的 net/http 接口实现，因此可以无缝兼容标准库的 http.Handler 与 http.HandlerFunc，不会引入额外的抽象层或框架锁定。chi 的路由器支持 URL 参数、通配符、正则约束、路由分组（Group）、子路由挂载（Mount）以及中间件链（Middleware），这些能力通过组合而非继承的方式构建，使得开发者可以按需拼装出结构清晰的服务端代码。相比 Gin、Echo 等全功能框架，chi 更接近「路由层」本身，把选择权交给开发者，因此常被用于构建微服务、API 网关或需要精细控制中间件顺序的项目。该仓库由 go-chi 组织维护，当前星标约 22,908，fork 约 2,430，日增星标约 5，属于稳定成熟、社区活跃度良好的项目。其 API 设计强调与标准库一致，学习成本低，同时性能表现优秀，适合对依赖体积和可维护性有要求的 Go 后端项目。",
+  "tags": [
+    "Go",
+    "HTTP 路由",
+    "Web 框架",
+    "中间件",
+    "微服务",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:33+08:00",
+  "language": "Go",
+  "score": 8.8,
+  "metadata": {
+    "author": "go-chi",
+    "stars": 22908,
+    "forks": 2430,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

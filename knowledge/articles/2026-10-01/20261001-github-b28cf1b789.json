@@ -1,0 +1,33 @@
+{
+  "id": "20261001-github-b28cf1b789",
+  "title": "temporalio/temporal",
+  "source": "github_trending",
+  "source_url": "https://github.com/temporalio/temporal",
+  "summary": "Temporal 是一个用 Go 编写的开源工作流编排引擎，用于构建可靠、可扩展的分布式应用，在 GitHub 上拥有约 2.3 万星标。",
+  "content": "Temporal 是由 temporalio 组织维护的开源项目，核心定位是「Temporal service」，即一个持久化执行（Durable Execution）平台与工作流编排引擎。它让开发者用普通代码编写长时间运行、涉及多步骤、多服务调用的业务流程，并由平台自动保证状态持久化、失败重试、超时处理和故障恢复，从而避免手写复杂的状态机与补偿逻辑。\n\n技术栈方面，项目主体使用 Go 语言实现，包含 Temporal Server（前端服务、历史服务、匹配服务、工作流工作节点等）以及持久化层适配（Cassandra、MySQL、PostgreSQL 等）。客户端 SDK 覆盖 Go、Java、Python、TypeScript、PHP、.NET 等多种语言，服务端与 SDK 之间通过 gRPC 通信。\n\n从社区数据看，该仓库当前约 23,390 星标、1,952 次 fork，日增约 34 星，属于 GitHub Go 语言热点项目，说明其在微服务编排、Saga 模式、事件驱动架构等场景中持续受到关注。\n\n典型使用场景包括：订单与支付流程编排、跨服务数据同步、AI/ML 流水线调度、基础设施自动化、需要长时间等待人工审批的业务流程等。相比直接使用消息队列或自研状态机，Temporal 的主要价值在于把「可靠执行」下沉为平台能力，使业务代码保持直观可读。\n\n需要注意的是，引入 Temporal 会带来额外的运维复杂度（需部署并维护 Temporal 集群及其数据库），因此更适合对流程可靠性、可观测性和可恢复性有较高要求的中大型系统。",
+  "tags": [
+    "Temporal",
+    "工作流编排",
+    "分布式系统",
+    "Go",
+    "微服务",
+    "持久化执行",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:33+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "temporalio",
+    "stars": 23390,
+    "forks": 1952,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

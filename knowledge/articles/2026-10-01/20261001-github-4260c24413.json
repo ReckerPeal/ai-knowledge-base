@@ -1,0 +1,31 @@
+{
+  "id": "20261001-github-4260c24413",
+  "title": "vectorize-io/hindsight",
+  "source": "github_trending",
+  "source_url": "https://github.com/vectorize-io/hindsight",
+  "summary": "Hindsight 是 Vectorize 推出的 Agent 记忆系统，主打“会学习的记忆”，用 Python 实现，在 GitHub 上获得 4.3 万+ Star，周增星超 1.7 万，属于高热度 AI Agent 基础设施项目。",
+  "content": "Hindsight 由 vectorize-io 开发，定位为“Agent Memory That Learns”，即面向 AI Agent 的可学习记忆层。项目使用 Python 编写，当前获得约 43,833 个 Star、5,830 个 Fork，周新增 Star 约 17,365，说明近期社区关注度极高。\n\n从定位看，Hindsight 试图解决 Agent 在长期交互中记忆管理的问题：不仅存储历史信息，还强调“学习”能力，可能涉及记忆的检索、更新、遗忘或优先级排序等机制，以提升 Agent 在复杂任务中的上下文保持和决策质量。\n\n该项目属于 AI Agent 基础设施方向，适合需要为 Agent 增加长期记忆、个性化记忆或经验复用能力的开发者。高 Star 增速表明它可能正在成为 Agent 记忆领域的热门方案，但具体架构、API 设计和学习机制需进一步查看仓库文档与代码。",
+  "tags": [
+    "AI Agent",
+    "记忆系统",
+    "Python",
+    "GitHub 热点",
+    "LLM 基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:36+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "vectorize-io",
+    "stars": 43833,
+    "forks": 5830,
+    "daily_stars": null,
+    "weekly_stars": 17365,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

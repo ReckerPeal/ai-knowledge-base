@@ -1,0 +1,34 @@
+{
+  "id": "20261001-github-92edae1ebf",
+  "title": "aipoch/open-science",
+  "source": "github_trending",
+  "source_url": "https://github.com/aipoch/open-science",
+  "summary": "aipoch/open-science 是一个面向科研与智能体工作流的开源 AI 研究工作台，采用本地优先、模型无关的桌面应用设计，支持可扩展技能、MCP 工具与连接器、Python/R 执行以及可追溯产物，助力可复现研究，覆盖 macOS、Windows 和 Linux。",
+  "content": "该仓库定位为开源 AI 科研工作台，核心特点包括：本地优先（Local-first）架构，数据与计算在本地完成，兼顾隐私与可控性；模型无关（Model-agnostic），可灵活接入不同大模型；桌面应用形态，支持 macOS、Windows、Linux 三大平台。功能层面提供可扩展技能（extensible skills）、MCP 工具与连接器（MCP tools and connectors），并支持 Python/R 代码执行，生成可追溯产物（traceable artifacts），从而提升科研流程的可复现性。项目使用 TypeScript 开发，当前获得约 5325 星标、489 次 fork，日增约 23 星，属于 GitHub TypeScript 热点项目。",
+  "tags": [
+    "AI 科研工作台",
+    "智能体工作流",
+    "本地优先",
+    "模型无关",
+    "MCP",
+    "可复现研究",
+    "TypeScript",
+    "桌面应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-01T02:39:28+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "aipoch",
+    "stars": 5325,
+    "forks": 489,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
