@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-1fb256ce62",
+  "title": "cursor/plugins",
+  "source": "github_trending",
+  "source_url": "https://github.com/cursor/plugins",
+  "summary": "Cursor 官方插件规范与官方插件仓库，使用 TypeScript 编写，在 GitHub 上获得约 9.3k stars，日增约 157 stars，是 AI 编程助手生态扩展的重要基础设施。",
+  "content": "该仓库由 Cursor 官方维护，主要包含 Cursor 编辑器的插件规范（plugin specification）以及官方提供的插件实现。作为 AI 编程助手领域的热门项目，它为开发者提供了扩展 Cursor 功能的标准化接口，使第三方能够基于统一规范开发插件，从而丰富 Cursor 的代码补全、代码生成、上下文理解等能力。仓库采用 TypeScript 作为主要语言，与 Cursor 基于 VS Code 的技术栈保持一致，便于前端和 Node.js 开发者参与贡献。当前 stars 数约 9290，fork 数约 879，日增 stars 约 157，表明社区关注度较高且增长迅速。该仓库的发布有助于推动 AI 编程工具从封闭功能走向开放生态，对于研究 AI 辅助开发工具集成、插件架构设计以及开发者工具生态建设具有参考价值。",
+  "tags": [
+    "Cursor",
+    "插件规范",
+    "TypeScript",
+    "AI 编程助手",
+    "开发者工具",
+    "开源生态"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:32+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cursor",
+    "stars": 9290,
+    "forks": 879,
+    "daily_stars": 157,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

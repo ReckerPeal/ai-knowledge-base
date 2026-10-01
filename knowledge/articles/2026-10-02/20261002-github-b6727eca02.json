@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-b6727eca02",
+  "title": "containerd/containerd",
+  "source": "github_trending",
+  "source_url": "https://github.com/containerd/containerd",
+  "summary": "containerd 是一个开源、可靠的容器运行时，由 CNCF 托管，是 Docker 及 Kubernetes 等主流容器生态的核心底层组件。",
+  "content": "containerd 是一个工业级标准的容器运行时，强调简单性、健壮性和可移植性。它负责管理容器的完整生命周期，包括镜像的传输与存储、容器执行与监督、底层存储和网络附件等。containerd 可作为 Linux 和 Windows 的守护进程运行，并提供了完整的 API 供上层系统调用。作为 CNCF 毕业项目，它被 Docker、Kubernetes（通过 CRI 插件）、Amazon ECS、Google Cloud Run 等广泛采用，是云原生基础设施的关键基石。项目使用 Go 语言编写，拥有活跃的社区和丰富的生态集成，当前在 GitHub 上已获得超过 2.1 万颗星标。",
+  "tags": [
+    "containerd",
+    "容器运行时",
+    "云原生",
+    "CNCF",
+    "Go",
+    "Kubernetes",
+    "Docker",
+    "CRI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:37+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "containerd",
+    "stars": 21369,
+    "forks": 4141,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

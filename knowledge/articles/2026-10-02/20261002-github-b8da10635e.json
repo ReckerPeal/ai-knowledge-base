@@ -1,0 +1,33 @@
+{
+  "id": "20261002-github-b8da10635e",
+  "title": "thedotmack/claude-mem",
+  "source": "github_trending",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "summary": "claude-mem 是一个为 AI Agent 提供跨会话持久化上下文记忆的开源项目，通过捕获 Agent 会话行为、AI 压缩并注入未来会话，实现长期记忆能力，兼容 Claude Code、Codex、Gemini、Copilot 等多种主流 Agent 工具。",
+  "content": "该项目由 thedotmack 开发，使用 TypeScript 编写，在 GitHub 上已获得约 9.5 万星标和 8400+ Fork，属于高热度项目。其核心思路是：在 Agent 每次会话过程中自动捕获操作与交互内容，利用 AI 对信息进行压缩提炼，形成可复用的记忆片段；当后续会话启动时，系统自动检索并注入相关上下文，从而让 Agent 具备跨会话的持续记忆能力，避免重复解释背景或丢失历史决策。\n\n从技术价值看，claude-mem 解决的是当前 LLM Agent 普遍存在的“无状态”痛点——每次会话都从零开始。它通过记忆压缩与检索注入的闭环，提升了 Agent 在长期任务、多轮协作和个性化场景下的表现。兼容 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等多种工具，说明其设计具有较好的通用性和适配层抽象。\n\n适用场景包括：长期项目开发助手、需要记住用户偏好的个人 Agent、跨天/跨周的复杂任务编排等。潜在挑战在于记忆压缩的质量控制、上下文注入的相关性筛选、隐私与数据安全，以及不同 Agent 平台接口差异带来的维护成本。总体而言，该项目切中了 Agent 基础设施的关键缺口，具备较高的关注度和实用潜力。",
+  "tags": [
+    "AI Agent",
+    "持久化记忆",
+    "上下文管理",
+    "TypeScript",
+    "Claude Code",
+    "开源项目",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:32+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "thedotmack",
+    "stars": 95103,
+    "forks": 8418,
+    "daily_stars": 93,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-3617e5fc9d",
+  "title": "juspay/hyperswitch",
+  "source": "github_trending",
+  "source_url": "https://github.com/juspay/hyperswitch",
+  "summary": "Hyperswitch 是 Juspay 开源的可组合支付平台，使用 Rust 编写，支持 SaaS 与自托管部署，符合 PCI 标准。它可连接多个支付、代付、反欺诈、保险库与令牌化服务商，并通过智能路由、收入恢复、成本可观测性和对账功能，提升授权成功率、降低支付处理成本并减少支付运营负担。",
+  "content": "Hyperswitch 是一个面向现代支付基础设施的开源项目，由 Juspay 团队维护，采用 Rust 语言开发，目前在 GitHub 上已获得超过 4.5 万颗星。其核心定位是“可组合的支付平台”，旨在解决企业在多支付服务商环境下的集成、路由、成本与运营难题。\n\n主要能力包括：\n1. 多服务商连接：统一接入支付、代付、反欺诈、保险库和令牌化等多种服务商，降低对接复杂度。\n2. 智能路由与收入恢复：通过智能路由提升授权成功率，并支持收入恢复策略，减少交易失败带来的损失。\n3. 成本可观测性：提供支付处理成本的可观测性，帮助企业优化路由和费率，降低整体支付成本。\n4. 对账与运营简化：内置对账能力，减少人工支付运营工作。\n5. 部署灵活：支持 SaaS 和自托管两种模式，并符合 PCI 合规要求。\n\n技术层面，Hyperswitch 使用 Rust 构建，强调性能、安全与可靠性，适合对支付系统有高要求的企业。项目社区活跃，周新增星标约 1500，表明其受到广泛关注。",
+  "tags": [
+    "支付平台",
+    "开源",
+    "Rust",
+    "PCI合规",
+    "智能路由",
+    "支付基础设施",
+    "对账",
+    "成本优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:44+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "juspay",
+    "stars": 45273,
+    "forks": 6425,
+    "daily_stars": null,
+    "weekly_stars": 1522,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

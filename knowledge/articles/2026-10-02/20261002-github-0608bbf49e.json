@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-0608bbf49e",
+  "title": "rakyll/hey",
+  "source": "github_trending",
+  "source_url": "https://github.com/rakyll/hey",
+  "summary": "rakyll/hey 是一个用 Go 语言编写的 HTTP 负载生成器，定位为 ApacheBench (ab) 的替代工具，在 GitHub 上拥有超过 2 万颗星标，属于高热度开源项目。",
+  "content": "rakyll/hey 是一款轻量级、高性能的 HTTP 压力测试工具，旨在替代经典的 ApacheBench (ab)。它使用 Go 语言开发，充分利用了 Go 的并发模型，能够方便地生成大量并发请求，用于评估 Web 服务的吞吐量、延迟和稳定性。\n\n主要特点：\n- 支持指定并发数（-c）和总请求数（-n），以及持续时间（-z）等参数。\n- 支持 HTTP/1.1 和 HTTP/2，可自定义请求头、请求体、方法等。\n- 输出详细的统计信息，包括每秒请求数（RPS）、延迟分布（百分位数）、状态码分布等。\n- 跨平台，安装简单（go install 或直接下载二进制文件）。\n\n该仓库由 rakyll（Jaana Dogan）创建，目前拥有约 20,613 个 star 和 1,317 个 fork，日增约 22 个 star，表明其持续受到关注。作为 ApacheBench 的现代替代品，hey 在开发者和运维人员中广泛用于 API 和 Web 服务的性能基准测试。",
+  "tags": [
+    "HTTP负载测试",
+    "压力测试",
+    "Go",
+    "性能测试",
+    "ApacheBench替代",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:37+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "rakyll",
+    "stars": 20613,
+    "forks": 1317,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

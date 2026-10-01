@@ -1,0 +1,31 @@
+{
+  "id": "20261002-github-16190b01d7",
+  "title": "dmtrKovalenko/fframes",
+  "source": "github_trending",
+  "source_url": "https://github.com/dmtrKovalenko/fframes",
+  "summary": "fframes 是一个用 Rust 编写的程序化视频渲染框架，主打高性能，在 GitHub 上获得 1790 星标，单日新增 313 星，热度较高。",
+  "content": "fframes 是由 dmtrKovalenko 开发的一个程序化视频渲染框架，核心卖点是“真正快”（actually fast）。该仓库使用 Rust 语言实现，当前在 GitHub 上已获得 1790 个星标和 36 个 fork，单日新增星标达到 313，显示出较强的社区关注度。项目定位为通过代码方式生成和渲染视频，适合需要高性能视频合成、自动化视频生成或程序化动画的场景。Rust 语言的选择使其在性能、内存安全和并发处理方面具备优势，可能采用了 GPU 加速或高效的渲染管线。由于摘要信息有限，具体 API 设计、渲染后端、支持的输出格式等细节尚不明确，但高日增星标表明其可能解决了视频渲染性能方面的痛点。",
+  "tags": [
+    "Rust",
+    "视频渲染",
+    "程序化生成",
+    "高性能",
+    "框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:34+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "dmtrKovalenko",
+    "stars": 1790,
+    "forks": 36,
+    "daily_stars": 313,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

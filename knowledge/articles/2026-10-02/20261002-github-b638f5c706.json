@@ -1,0 +1,35 @@
+{
+  "id": "20261002-github-b638f5c706",
+  "title": "github/gh-aw",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-aw",
+  "summary": "GitHub 官方推出的 Agentic Workflows 项目（gh-aw），使用 Go 语言开发，旨在将 AI 智能体能力引入 GitHub Actions 工作流，实现自动化与智能化的 CI/CD 及仓库运维。项目上线后热度较高，已获得 5320 星标，日增 53 星，周增 152 星，属于 GitHub 官方在 AI Agent 与 DevOps 结合方向的重要布局。",
+  "content": "## 项目概览\n\n`github/gh-aw` 是 GitHub 官方开源的一个 Go 语言项目，全称为 GitHub Agentic Workflows（智能体工作流）。从命名和来源来看，该项目致力于把 AI Agent（智能体）范式与 GitHub Actions 生态深度结合，让开发者能够以声明式或编程式的方式定义由大模型驱动的自动化工作流。\n\n## 核心定位\n\n传统 GitHub Actions 依赖固定的 YAML 步骤和脚本，逻辑是确定性的、预先编排好的。而 Agentic Workflows 的核心思路是引入具备推理、规划和工具调用能力的 AI 智能体，使其能够在工作流运行过程中动态决策：例如自动分析 issue、生成或审查代码、修复 CI 失败、响应仓库事件并执行多步任务。这代表了从「脚本自动化」向「智能体自动化」的演进。\n\n## 技术特征\n\n- **语言与生态**：采用 Go 编写，便于编译为单二进制、跨平台分发，也契合 GitHub 自身大量基础设施的技术栈。\n- **与 GitHub 平台集成**：作为 github 官方组织下的仓库，天然具备与 Actions、Issues、Pull Requests、仓库事件等 API 深度集成的优势。\n- **工作流抽象**：很可能提供一套定义智能体行为、工具权限、触发条件和执行边界的配置模型，帮助用户在可控、可审计的前提下运行 AI 自动化。\n\n## 热度与意义\n\n项目当前约 5320 星、571 fork，日增约 53 星、周增约 152 星，处于快速增长阶段，说明市场对「AI Agent + DevOps/CI-CD」方向有强烈兴趣。由 GitHub 官方主导，意味着它有可能成为智能体工作流的事实标准或参考实现，对 CI/CD、代码审查、仓库运维等场景产生实际影响。\n\n## 适用场景\n\n- 自动化 issue 分类、回复与任务分派；\n- AI 驱动的代码审查与 PR 辅助；\n- CI 失败自动诊断与修复建议；\n- 仓库日常运维的智能体化编排。\n\n## 关注建议\n\n建议关注其工作流定义规范、支持的模型与工具接口、权限与安全模型，以及是否与 GitHub Actions 现有生态无缝兼容。这些将决定它能否从「热门项目」走向「生产可用」。",
+  "tags": [
+    "GitHub",
+    "AI Agent",
+    "Agentic Workflow",
+    "Go",
+    "CI/CD",
+    "DevOps",
+    "GitHub Actions",
+    "自动化",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:37+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "github",
+    "stars": 5320,
+    "forks": 571,
+    "daily_stars": 53,
+    "weekly_stars": 152,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

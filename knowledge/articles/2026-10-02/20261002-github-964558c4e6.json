@@ -1,0 +1,33 @@
+{
+  "id": "20261002-github-964558c4e6",
+  "title": "Armur-Ai/Pentest-Swarm-AI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+  "summary": "Pentest-Swarm-AI 是一个基于 Go 语言构建的自主渗透测试框架，通过编排多个 AI 代理（侦察、分类、利用、报告专家）并采用 ReAct 推理模式，实现自动化渗透测试。它支持漏洞赏金、持续监控和 CTF 模式，并集成了 7 种以上原生安全工具。该仓库在 GitHub 上热度较高，已获得 2677 颗星标。",
+  "content": "Pentest-Swarm-AI 由 Armur-Ai 开发，旨在利用 AI 代理集群实现自主渗透测试。其核心设计是使用多个专门化的 AI 代理，分别负责侦察、分类、利用和报告等阶段，并通过 ReAct 推理框架进行协调。项目支持三种主要模式：漏洞赏金（bug bounty）、持续监控和 CTF 竞赛。技术栈方面，项目使用 Go 语言编写，并集成了 7 种以上原生安全工具，以增强其渗透测试能力。该仓库在 GitHub 上表现活跃，拥有 2677 颗星标和 493 次复刻，近期每周新增约 113 颗星标，显示出较高的社区关注度。",
+  "tags": [
+    "AI",
+    "渗透测试",
+    "Go",
+    "安全工具",
+    "自动化",
+    "ReAct",
+    "多代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:46+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Armur-Ai",
+    "stars": 2677,
+    "forks": 493,
+    "daily_stars": null,
+    "weekly_stars": 113,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

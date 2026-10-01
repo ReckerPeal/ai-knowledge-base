@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-2732fee73e",
+  "title": "VectifyAI/PageIndex",
+  "source": "github_trending",
+  "source_url": "https://github.com/VectifyAI/PageIndex",
+  "summary": "PageIndex 是 VectifyAI 推出的面向 RAG 场景的文档索引方案，主打“无向量、基于推理”的检索增强生成路线，旨在用更接近人类阅读与推理的方式组织文档结构，从而提升检索与问答的可解释性和准确性。",
+  "content": "PageIndex 由 VectifyAI 开发，是一个用 Python 实现的文档索引项目，核心定位是“Vectorless, Reasoning-based RAG”，即不依赖传统向量检索，而是通过推理机制来构建和使用文档索引。\n\n从项目摘要来看，PageIndex 试图解决传统 RAG 中向量检索的若干痛点：向量化过程可能丢失文档的层级结构与语义关系，检索结果缺乏可解释性，且对复杂推理型问题支持有限。PageIndex 通过构建文档索引（Document Index），让模型能够像人一样在文档结构中定位、跳转和推理，从而在问答、文档理解等任务中提供更可靠的上下文。\n\n该项目在 GitHub 上热度极高，当前星标约 3.84 万，Fork 约 3325，日增星约 543，周增星约 2254，属于 Python 类热点项目。其技术方向与当前 RAG 领域从“向量检索”向“结构化/推理式检索”演进的趋势一致，适合关注检索增强生成、文档智能、知识库问答的开发者与研究者。\n\n由于摘要信息有限，具体实现细节（如索引结构、推理流程、与 LLM 的集成方式）需进一步查看仓库文档与源码。",
+  "tags": [
+    "RAG",
+    "文档索引",
+    "无向量检索",
+    "推理式检索",
+    "Python",
+    "检索增强生成",
+    "文档智能",
+    "知识库问答"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "VectifyAI",
+    "stars": 38402,
+    "forks": 3325,
+    "daily_stars": 543,
+    "weekly_stars": 2254,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

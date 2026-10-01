@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-bfa9b4aac3",
+  "title": "zed-industries/zed",
+  "source": "github_trending",
+  "source_url": "https://github.com/zed-industries/zed",
+  "summary": "Zed 是由 Atom 和 Tree-sitter 创始人打造的高性能、多人协作代码编辑器，使用 Rust 编写，在 GitHub 上已获得超过 9.1 万星标，日增约 79 星，是当前 Rust 生态中备受关注的热点项目。",
+  "content": "Zed 是一款主打极致性能与实时多人协作的现代代码编辑器，由 Atom 和 Tree-sitter 的创造者团队开发。其核心优势包括：1）基于 Rust 语言构建，充分利用 Rust 的内存安全与高并发特性，实现极快的启动、输入响应和文件处理速度，官方口号为“以思维的速度编写代码”；2）原生支持多人实时协作编辑，允许多个开发者同时在同一工作区中编码、调试和沟通，适合远程结对编程与团队协同；3）集成 Tree-sitter 解析技术，提供精准的语法高亮、代码折叠和结构化编辑能力；4）采用 GPU 加速渲染，界面流畅，资源占用低。该项目在 GitHub 上已积累 91,170 个星标和 10,862 个 fork，日增约 79 星，显示出强劲的社区热度。Zed 目前主要面向追求高性能与协作效率的专业开发者，未来有望在编辑器市场与 VS Code 等产品形成竞争。",
+  "tags": [
+    "Rust",
+    "代码编辑器",
+    "多人协作",
+    "高性能",
+    "Tree-sitter",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:34+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "zed-industries",
+    "stars": 91170,
+    "forks": 10862,
+    "daily_stars": 79,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-c2d0c7d71d",
+  "title": "lxc/incus",
+  "source": "github_trending",
+  "source_url": "https://github.com/lxc/incus",
+  "summary": "Incus 是 LXC 社区推出的系统容器与虚拟机管理器，使用 Go 语言开发，在 GitHub 上已获得约 6300 颗星，是 LXD 项目分叉后的社区维护版本，提供统一的容器与虚拟机管理能力。",
+  "content": "Incus 源自 LXD 项目，由 LXC 社区在 2023 年因治理分歧从 Canonical 主导的 LXD 分叉而来，定位为强大的系统容器和虚拟机管理器。它使用 Go 语言编写，核心能力包括：同时管理系统容器（基于 LXC）和完整虚拟机（基于 QEMU/KVM），提供统一的 REST API、命令行工具和 Web UI；支持集群化部署、热迁移、快照与备份、存储池与网络管理、资源限制与配额、项目隔离等企业级特性。Incus 兼容 OCI 镜像，也可运行传统发行版镜像，适用于私有云、边缘计算、开发测试环境和轻量级虚拟化场景。相比 Docker 等应用容器方案，Incus 更偏向系统级虚拟化，提供接近虚拟机的隔离性和完整的操作系统环境。该项目由社区驱动，采用 Apache 2.0 许可证，拥有活跃的贡献者群体，目前在 GitHub 上约有 6306 颗星和 495 个 fork，周新增星标约 64，属于 Go 语言生态中受关注的基础设施类项目。",
+  "tags": [
+    "Incus",
+    "LXC",
+    "系统容器",
+    "虚拟机管理",
+    "Go",
+    "虚拟化",
+    "云原生",
+    "开源基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:46+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "lxc",
+    "stars": 6306,
+    "forks": 495,
+    "daily_stars": null,
+    "weekly_stars": 64,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

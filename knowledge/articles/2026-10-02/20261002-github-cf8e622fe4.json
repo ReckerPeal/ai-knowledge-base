@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-cf8e622fe4",
+  "title": "EasyTier/EasyTier",
+  "source": "github_trending",
+  "source_url": "https://github.com/EasyTier/EasyTier",
+  "summary": "EasyTier 是一个基于 Rust 开发的简单、去中心化 Mesh VPN，支持 WireGuard 协议，在 GitHub 上获得约 1.39 万星标。",
+  "content": "EasyTier 是一个用 Rust 编写的去中心化 Mesh VPN 项目，主打简单易用与 WireGuard 支持。其核心特点包括：1）去中心化架构，节点之间可直接组网，无需依赖中心服务器；2）Mesh 网络拓扑，支持多节点互联与自动路由；3）集成 WireGuard，提供现代、高效的加密隧道能力；4）使用 Rust 实现，兼顾性能与内存安全。该项目在 GitHub 上已获得 13898 个星标、1415 个复刻，日增约 13 星，属于 GitHub 热点中的 Rust 类别，适合需要轻量级、去中心化组网方案的开发者与运维人员。",
+  "tags": [
+    "VPN",
+    "Mesh网络",
+    "去中心化",
+    "WireGuard",
+    "Rust",
+    "网络工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:34+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "EasyTier",
+    "stars": 13898,
+    "forks": 1415,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

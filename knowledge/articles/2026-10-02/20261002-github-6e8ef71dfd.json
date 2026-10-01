@@ -1,0 +1,31 @@
+{
+  "id": "20261002-github-6e8ef71dfd",
+  "title": "urfave/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/urfave/cli",
+  "summary": "urfave/cli 是一个用于在 Go 语言中构建命令行工具的声明式、简单、快速且有趣的包，拥有 24k+ 星标，是 Go 生态中最受欢迎的命令行框架之一。",
+  "content": "urfave/cli 是 Go 语言生态中一个成熟且广泛使用的命令行工具构建库。其核心设计理念是声明式（declarative），开发者只需通过简洁的结构体或函数式配置即可定义命令、标志（flags）、子命令和参数，无需编写大量样板代码。该库强调简单（simple）、快速（fast）和有趣（fun）的开发体验，适合从简单的单命令工具到复杂的多级子命令 CLI 应用。\n\n主要特性包括：\n1. 声明式 API：通过 cli.Command、cli.Flag 等结构体直观定义命令结构。\n2. 丰富的标志类型：支持字符串、整数、布尔、切片、时间等内置标志类型，并支持自定义标志。\n3. 子命令支持：轻松构建嵌套子命令体系。\n4. 自动生成帮助文档：内置帮助系统，自动生成用法说明。\n5. Shell 自动补全：支持 Bash、Zsh 等 shell 的自动补全。\n6. 版本管理：内置版本标志和版本打印功能。\n\n该仓库由 urfave 组织维护，拥有 24,273 个星标和 1,830 个 fork，周新增星标约 32 个，表明其持续受到社区关注。作为 Go 语言 CLI 开发的事实标准之一，urfave/cli 被大量知名项目采用，是 Go 开发者构建命令行工具的首选库之一。",
+  "tags": [
+    "Go",
+    "CLI",
+    "命令行工具",
+    "开发框架",
+    "开源库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:46+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "urfave",
+    "stars": 24273,
+    "forks": 1830,
+    "daily_stars": null,
+    "weekly_stars": 32,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

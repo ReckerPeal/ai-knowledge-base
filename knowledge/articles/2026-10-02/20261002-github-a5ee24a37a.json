@@ -1,0 +1,35 @@
+{
+  "id": "20261002-github-a5ee24a37a",
+  "title": "aayushch/laya",
+  "source": "github_trending",
+  "source_url": "https://github.com/aayushch/laya",
+  "summary": "Laya 是一个开源、本地优先的 AI 通知指挥中心，通过 Ollama 和 LM Studio 在本地运行 LLM，聚合 Slack、Gmail、GitHub、Jira、Notion、Outlook、Calendar 等多平台通知，并支持 BYOK 方式接入云端模型。",
+  "content": "Laya 由开发者 aayushch 发布在 GitHub，使用 Python 编写，定位为本地优先的 AI 通知聚合与指挥中心。它能够将 Slack、Gmail、GitHub、Jira、Notion、Outlook、Calendar 等常见工作平台的通知统一汇聚，并借助本地 LLM（通过 Ollama 和 LM Studio）进行智能处理，同时支持用户自带密钥（BYOK）调用云端模型。该项目在 GitHub 上已获得 493 个 Star、81 个 Fork，近一周新增约 238 个 Star，属于 GitHub 热点中的 Python 类项目。其核心价值在于：以本地运行优先保护隐私，减少对云端服务的依赖，同时通过 AI 对多源通知进行统一管理和优先级处理，适合需要跨平台处理大量消息的开发者或团队。",
+  "tags": [
+    "AI 通知聚合",
+    "本地优先",
+    "LLM",
+    "Ollama",
+    "LM Studio",
+    "BYOK",
+    "Python",
+    "开源",
+    "生产力工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:39+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "aayushch",
+    "stars": 493,
+    "forks": 81,
+    "daily_stars": null,
+    "weekly_stars": 238,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

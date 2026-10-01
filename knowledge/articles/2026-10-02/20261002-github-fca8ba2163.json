@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-fca8ba2163",
+  "title": "modelcontextprotocol/servers",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/servers",
+  "summary": "Model Context Protocol (MCP) 官方服务器集合仓库，提供多种标准化服务器实现，用于连接 AI 模型与外部工具、数据源，是 MCP 生态的核心基础设施。",
+  "content": "该仓库由 modelcontextprotocol 组织维护，是 Model Context Protocol 的官方服务器集合。MCP 是一种开放协议，旨在标准化 AI 模型与外部工具、数据源之间的交互方式。仓库包含多个参考服务器实现，涵盖文件系统、数据库、API 等多种集成场景，帮助开发者快速构建可被 AI 模型调用的上下文服务。项目使用 TypeScript 编写，当前获得 90,931 个 Star 和 11,743 个 Fork，日增 Star 约 216，显示出极高的社区关注度和活跃度。作为 MCP 生态的基石，该仓库为 AI 应用提供了可扩展的工具接入标准，有望成为未来 AI 智能体与外部世界交互的重要桥梁。",
+  "tags": [
+    "Model Context Protocol",
+    "MCP",
+    "AI 工具集成",
+    "TypeScript",
+    "开源",
+    "服务器",
+    "AI 智能体",
+    "标准化协议"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:32+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "modelcontextprotocol",
+    "stars": 90931,
+    "forks": 11743,
+    "daily_stars": 216,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

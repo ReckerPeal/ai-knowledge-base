@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-4227e18ae7",
+  "title": "l0ng-ai/tty7",
+  "source": "github_trending",
+  "source_url": "https://github.com/l0ng-ai/tty7",
+  "summary": "l0ng-ai/tty7 是一款用纯 Rust 编写、GPU 渲染的终端模拟器，其核心特性是终端会话独立于窗口生命周期，即使关闭应用 Shell 仍可存活，并支持代理间互相驱动以及远程机器一致体验。",
+  "content": "该仓库为 GitHub 热点项目，作者 l0ng-ai，主要语言 Rust，当前约 1186 星、95 分支，周增约 112 星。项目定位为“超越窗口生命周期的终端”：传统终端在关闭窗口后会话终止，而 tty7 让 Shell 在退出应用后继续运行，并允许代理（agents）驱动其他代理，远程机器操作方式与本地一致。技术栈强调纯 Rust 与 GPU 渲染，可能带来高性能与跨平台一致性。适合关注终端工具、Rust 生态、AI 代理协作及远程开发场景的开发者。",
+  "tags": [
+    "Rust",
+    "终端模拟器",
+    "GPU渲染",
+    "AI代理",
+    "远程开发",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:44+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "l0ng-ai",
+    "stars": 1186,
+    "forks": 95,
+    "daily_stars": null,
+    "weekly_stars": 112,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

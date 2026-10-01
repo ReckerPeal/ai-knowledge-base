@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-d8ea9701e2",
+  "title": "ifixai-ai/iFixAi",
+  "source": "github_trending",
+  "source_url": "https://github.com/ifixai-ai/iFixAi",
+  "summary": "iFixAi 是一个用于 AI Agent 独立审计的开源工具，支持人工或 Agent 自身运行，旨在快速回答“Agent 是否在做它应该做的事”这一 AI Agent 经济中的核心问题，官方称可在 120 秒内给出答案。项目使用 Python 编写，在 GitHub 上已获得约 1.8 万 Star，近期日增约 1467 Star，热度较高。",
+  "content": "## 项目定位\n\niFixAi 聚焦于 AI Agent 的独立审计（Independent Auditing），面向 AI Agent 经济中的信任与合规需求。其核心问题是：**Agent 是否在做它应该做的事？** 该问题直接关系到 Agent 在自动化决策、任务执行和商业交互中的可靠性与可问责性。\n\n## 核心能力\n\n- **独立审计**：不依赖 Agent 自身的自述，而是通过独立机制对 Agent 行为进行验证。\n- **双运行模式**：既可以由人工触发运行，也可以由 Agent 自身运行，适应不同审计场景。\n- **快速反馈**：官方宣称可在 **120 秒内**给出审计答案，强调时效性。\n\n## 技术信息\n\n- **语言**：Python\n- **作者/组织**：ifixai-ai\n- **仓库**：ifixai-ai/iFixAi\n- **热度**：约 18,304 Star，1,367 Fork，日增约 1,467 Star，属于 GitHub 热点项目。\n\n## 适用场景\n\n- AI Agent 行为合规性检查\n- 多 Agent 系统中的信任验证\n- Agent 经济中的第三方审计与责任界定\n- 开发者对自建 Agent 进行上线前或运行中的行为核验\n\n## 价值与意义\n\n随着 AI Agent 从实验走向生产环境，其行为是否偏离预期成为关键风险点。iFixAi 试图以标准化、快速化的审计流程填补这一空白，为 Agent 的可信部署提供基础设施。",
+  "tags": [
+    "AI Agent",
+    "审计",
+    "Python",
+    "可信AI",
+    "Agent经济",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:30+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "ifixai-ai",
+    "stars": 18304,
+    "forks": 1367,
+    "daily_stars": 1467,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

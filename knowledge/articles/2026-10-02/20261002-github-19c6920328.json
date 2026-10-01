@@ -1,0 +1,33 @@
+{
+  "id": "20261002-github-19c6920328",
+  "title": "helix-editor/helix",
+  "source": "github_trending",
+  "source_url": "https://github.com/helix-editor/helix",
+  "summary": "Helix 是一款用 Rust 编写的后现代模态文本编辑器，在 GitHub 上拥有超过 4.6 万颗星，以高性能、内置多选和 LSP 支持著称，是 Vim/Neovim 的现代替代方案。",
+  "content": "Helix（helix-editor/helix）是一款使用 Rust 语言开发的「后现代模态文本编辑器」，定位为 Vim 与 Neovim 的现代化替代品。\n\n核心特点：\n1. 模态编辑：继承 Kakoune 的「选择优先」理念，先选中对象再执行操作，相比 Vim 的「操作符 + 动作」更直观。\n2. 内置多光标与多选：原生支持多选编辑，无需插件即可完成复杂批量修改。\n3. 开箱即用的 LSP 支持：内置语言服务器协议客户端，自动补全、跳转定义、诊断提示无需额外配置。\n4. 树形语法高亮：基于 tree-sitter 实现精准的语法解析与高亮，支持增量解析。\n5. 终端原生：纯终端运行，性能优异，启动迅速，适合远程开发场景。\n\n项目数据：截至采集时，仓库获得约 46,413 颗星、3,798 次 fork，日增约 18 星，属于 GitHub Rust 分类下的持续热点项目。\n\n适用人群：追求高效键盘操作、希望摆脱 Vim 配置地狱、同时需要现代 IDE 级功能的开发者。\n\n生态与扩展：配置采用 TOML 格式，主题与语言配置简洁；社区已提供大量插件与配置方案，但插件系统相对 Neovim 仍较年轻。\n\n总体评价：Helix 代表了模态编辑器的新一代设计思路，在保持终端轻量性的同时大幅降低了配置门槛，是 Rust 生态中极具代表性的开发者工具项目。",
+  "tags": [
+    "文本编辑器",
+    "模态编辑",
+    "Rust",
+    "LSP",
+    "tree-sitter",
+    "开发者工具",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:34+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "helix-editor",
+    "stars": 46413,
+    "forks": 3798,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20261002-github-2df68072a7",
+  "title": "vercel-labs/scriptc",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/scriptc",
+  "summary": "vercel-labs/scriptc 是 Vercel Labs 推出的 TypeScript 到原生代码编译器，旨在将 TypeScript 直接编译为原生机器码，提升运行性能。项目在 GitHub 上热度较高，已获得 5882 颗星，周增 956 星，属于 TypeScript 生态中的新兴编译工具。",
+  "content": "该仓库标题为 vercel-labs/scriptc，来源为 GitHub Trending，分类为 GitHub 热点 · TypeScript。项目核心定位是 TypeScript-to-Native Compiler，即把 TypeScript 代码编译为原生可执行代码，而非传统的 JavaScript 运行时解释或 JIT 执行。这种方案有望在保持 TypeScript 类型安全与开发体验的同时，获得接近原生语言的性能表现。仓库由 vercel-labs 维护，当前语言为 TypeScript，拥有 5882 个 star 和 163 个 fork，周新增 star 达 956，说明社区关注度较高。由于摘要信息有限，尚未提供具体编译目标、支持平台、性能基准等细节，但可以判断其属于前端/全栈工具链中偏底层编译方向的项目，可能对 Node.js、边缘计算、CLI 工具等场景产生影响。",
+  "tags": [
+    "TypeScript",
+    "编译器",
+    "原生编译",
+    "Vercel",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:42+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 5882,
+    "forks": 163,
+    "daily_stars": null,
+    "weekly_stars": 956,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261002-github-db0ebff9dc",
+  "title": "vectordotdev/vector",
+  "source": "github_trending",
+  "source_url": "https://github.com/vectordotdev/vector",
+  "summary": "Vector 是一个用 Rust 编写的高性能可观测性数据管道，用于收集、转换和路由日志、指标和事件。该项目由 vectordotdev 维护，在 GitHub 上拥有超过 2.2 万星标，是 Rust 生态中备受关注的基础设施工具。",
+  "content": "Vector 定位为高性能的可观测性数据管道，核心目标是帮助用户以低资源开销完成日志、指标和追踪数据的采集、转换与转发。它采用 Rust 语言实现，强调性能、可靠性和内存安全，适合在高吞吐、资源敏感的生产环境中部署。\n\n从功能上看，Vector 提供统一的配置模型，支持多种数据源（source）、转换器（transform）和输出目标（sink），用户可以通过声明式配置灵活构建数据流。它既可以作为轻量级代理部署在边缘节点，也可以作为聚合器集中处理大规模数据，从而替代或整合传统日志采集与指标转发组件。\n\n项目当前在 GitHub 上获得约 22,656 个星标和 2,304 次 fork，近期每周新增约 53 个星标，表明社区关注度持续稳定。其所属分类为 GitHub 热点中的 Rust 项目，反映出 Rust 在可观测性基础设施领域的应用趋势。\n\n总体而言，Vector 适合需要统一可观测性数据管道、追求高性能与低运维复杂度的团队，是云原生可观测性栈中值得关注的开源方案。",
+  "tags": [
+    "Rust",
+    "可观测性",
+    "数据管道",
+    "日志采集",
+    "指标转发",
+    "云原生",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:44+08:00",
+  "language": "Rust",
+  "score": 8.8,
+  "metadata": {
+    "author": "vectordotdev",
+    "stars": 22656,
+    "forks": 2304,
+    "daily_stars": null,
+    "weekly_stars": 53,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

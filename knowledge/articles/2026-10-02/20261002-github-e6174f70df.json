@@ -1,0 +1,34 @@
+{
+  "id": "20261002-github-e6174f70df",
+  "title": "hashicorp/hcl",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/hcl",
+  "summary": "HashiCorp 开源的 HCL（HashiCorp Configuration Language）配置语言仓库，使用 Go 语言实现，旨在提供人类可读、机器友好的结构化配置语法，是 Terraform、Vault、Nomad 等 HashiCorp 生态工具的核心配置基础。",
+  "content": "HCL 是 HashiCorp 公司设计并开源的一种配置语言，其核心目标是在 JSON 等纯数据格式与完整编程语言之间取得平衡：既保留声明式配置的可读性与简洁性，又支持表达式、变量、函数、条件判断和循环等动态能力。该仓库以 Go 语言实现，提供词法分析、语法解析、AST 构建与求值等完整工具链，开发者可将其作为库集成到自己的 Go 项目中，用于定义领域特定配置格式。HCL 最广为人知的应用是 Terraform 的基础设施即代码（IaC）配置，同时也被 Vault、Nomad、Packer、Consul 等 HashiCorp 产品广泛采用。仓库当前获得约 5808 个 Star 和 667 个 Fork，属于成熟稳定的基础设施级开源项目，日增 Star 约 1 个，热度平稳。其技术价值在于为云原生与 DevOps 工具链提供了统一的配置语言标准，降低了多工具配置语法的学习与维护成本。",
+  "tags": [
+    "HCL",
+    "HashiCorp",
+    "配置语言",
+    "Go",
+    "Terraform",
+    "基础设施即代码",
+    "DevOps",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:37+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 5808,
+    "forks": 667,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

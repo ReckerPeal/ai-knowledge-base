@@ -1,0 +1,32 @@
+{
+  "id": "20261002-github-20b52029e3",
+  "title": "magnitudedev/magnitude",
+  "source": "github_trending",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "summary": "Magnitude 是一个面向 AI Agent 的开源推理引擎，能够针对用户的具体硬件自动编译和调优内核，使开源模型在 Apple Silicon、NVIDIA、AMD 或纯 CPU 上运行速度最高可达 llama.cpp 的 2 倍。",
+  "content": "Magnitude 由 magnitudedev 开发，使用 Rust 编写，是一个专注于 AI Agent 场景的开源推理引擎。其核心特点是硬件自适应优化：引擎会在用户设备上即时编译并调优计算内核，从而充分释放本地硬件性能。官方数据显示，在相同开源模型下，其推理速度最高可达 llama.cpp 的 2 倍。该引擎兼容 Apple Silicon、NVIDIA GPU、AMD GPU 以及纯 CPU 环境，覆盖了从个人笔记本到服务器的广泛部署场景。项目在 GitHub 上已获得约 6060 颗星、406 次 fork，单日新增星标 427，显示出较高的社区关注度。对于需要在本地或边缘设备上高效运行开源大模型的开发者而言，Magnitude 提供了一种无需手动调优即可获得显著性能提升的解决方案。",
+  "tags": [
+    "推理引擎",
+    "AI Agent",
+    "Rust",
+    "硬件优化",
+    "开源模型",
+    "本地推理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:34+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "magnitudedev",
+    "stars": 6060,
+    "forks": 406,
+    "daily_stars": 427,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

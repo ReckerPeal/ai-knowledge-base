@@ -1,0 +1,31 @@
+{
+  "id": "20261002-github-6f6c75db08",
+  "title": "zeronsh/zeron",
+  "source": "github_trending",
+  "source_url": "https://github.com/zeronsh/zeron",
+  "summary": "zeronsh/zeron 是一个用 Rust 编写的原生控制平面，旨在统一管理 Claude Code、Codex、Cursor、Devin 等多种编码代理（coding agents）。该项目在 GitHub 上获得 2565 颗星，周增 395 星，属于 Rust 语言的热点项目。",
+  "content": "zeronsh/zeron 是一个面向编码代理（coding agents）的原生控制平面（native control plane），使用 Rust 语言开发。其核心目标是统一管理和协调多种主流 AI 编码工具，包括 Claude Code、Codex、Cursor、Devin 等。通过提供一个集中的控制层，开发者可以更高效地调度、监控和集成这些编码代理，从而简化多代理工作流。该项目在 GitHub 上表现活跃，当前拥有 2565 个 star 和 242 个 fork，周新增 star 数达到 395，显示出较高的社区关注度。作为 Rust 生态中的新兴工具，zeron 可能利用 Rust 的高性能和安全性优势，为编码代理的编排提供稳定、低延迟的基础设施。",
+  "tags": [
+    "Rust",
+    "编码代理",
+    "控制平面",
+    "AI 编程工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-02T03:06:44+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "zeronsh",
+    "stars": 2565,
+    "forks": 242,
+    "daily_stars": null,
+    "weekly_stars": 395,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
