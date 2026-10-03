@@ -1,0 +1,33 @@
+{
+  "id": "20261004-github-872e53e9b8",
+  "title": "timhartmann7/omnyssh",
+  "source": "github_trending",
+  "source_url": "https://github.com/timhartmann7/omnyssh",
+  "summary": "OmnySSH 是一款使用 Rust 构建的跨平台开源 SSH 客户端与服务器管理器，提供桌面 GUI 和终端 TUI 两种界面，集成了实时指标面板、标签式终端、SFTP 文件管理、端口转发、一键 SSH 密钥与代码片段等功能，目前在 GitHub 上已获得约 1123 颗星。",
+  "content": "OmnySSH 是一个面向 macOS、Windows 和 Linux 的快速开源 SSH 客户端与服务器管理工具，由 timhartmann7 开发，采用 Rust 语言编写。其核心特点包括：同时提供桌面图形界面（GUI）和终端文本界面（TUI），满足不同用户的使用习惯；内置实时指标仪表盘，可监控服务器状态；支持标签式终端，方便同时管理多个会话；集成 SFTP 文件管理器，实现文件传输与管理；支持端口转发；提供一键式 SSH 密钥管理和代码片段功能，简化重复操作。该项目在 GitHub 上热度较高，当前星标数约 1123，fork 数 64，周新增星标约 371，属于 GitHub 热点 Rust 分类。",
+  "tags": [
+    "SSH客户端",
+    "Rust",
+    "跨平台",
+    "开源工具",
+    "服务器管理",
+    "SFTP",
+    "终端工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:42+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "timhartmann7",
+    "stars": 1123,
+    "forks": 64,
+    "daily_stars": null,
+    "weekly_stars": 371,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

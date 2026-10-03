@@ -1,0 +1,34 @@
+{
+  "id": "20261004-github-c85903e42e",
+  "title": "kaifcodec/user-scanner",
+  "source": "github_trending",
+  "source_url": "https://github.com/kaifcodec/user-scanner",
+  "summary": "kaifcodec/user-scanner 是一个基于 Python 的二合一 OSINT 工具，支持通过单个邮箱或用户名进行深度数据提取，内置原生 MCP 支持，覆盖 2720+ 活跃维护的扫描向量（210+ 邮箱、2510+ 用户名），适用于安全研究、调查和数字足迹分析。",
+  "content": "该仓库由 kaifcodec 开发，当前获得约 5196 个 Star、526 个 Fork，日增约 70 Star，属于 GitHub 热点 Python 项目。其核心定位是邮箱与用户名的 OSINT（开源情报）扫描套件，强调“二合一”能力：只需一个邮箱地址或用户名，即可触发大规模数据提取流程。工具内置原生 MCP（Model Context Protocol）支持，便于与 AI/自动化工作流集成。扫描向量数量庞大且持续维护，其中邮箱相关向量 210+，用户名相关向量 2510+，总计 2720+，可用于安全研究、网络调查、数字足迹测绘等场景。项目语言为 Python，适合安全研究人员、渗透测试人员、调查记者及隐私合规从业者使用。",
+  "tags": [
+    "OSINT",
+    "邮箱扫描",
+    "用户名扫描",
+    "安全研究",
+    "数字足迹",
+    "Python",
+    "MCP",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:28+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "kaifcodec",
+    "stars": 5196,
+    "forks": 526,
+    "daily_stars": 70,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

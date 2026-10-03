@@ -1,0 +1,34 @@
+{
+  "id": "20261004-github-4543fe55cd",
+  "title": "Effect-TS/effect",
+  "source": "github_trending",
+  "source_url": "https://github.com/Effect-TS/effect",
+  "summary": "Effect-TS/effect 是一个用于构建生产级 TypeScript 应用的框架，提供类型安全的副作用管理、依赖注入、并发、错误处理等能力，目前在 GitHub 上拥有约 1.68 万星标，日增约 302 星，热度较高。",
+  "content": "Effect 是一个面向 TypeScript 的生产级应用开发框架，核心目标是让开发者以类型安全、可组合的方式处理副作用、异步流程、错误与依赖。它提供 Effect 类型来描述计算，内置结构化并发、资源管理、重试、调度、依赖注入（Layer/Context）、Schema 校验等能力，适合构建复杂后端服务、CLI 工具与全栈应用。仓库由 Effect-TS 组织维护，语言为 TypeScript，当前约 16,753 stars、811 forks，日增约 302 stars、周增约 466 stars，属于 GitHub Trending 中 TypeScript 分类的热门项目。其价值在于把函数式编程中的 Effect 系统引入主流 TypeScript 生态，减少隐式副作用和运行时错误，提升大型项目的可维护性与可测试性。",
+  "tags": [
+    "TypeScript",
+    "Effect System",
+    "函数式编程",
+    "依赖注入",
+    "并发",
+    "错误处理",
+    "生产级应用",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "Effect-TS",
+    "stars": 16753,
+    "forks": 811,
+    "daily_stars": 302,
+    "weekly_stars": 466,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

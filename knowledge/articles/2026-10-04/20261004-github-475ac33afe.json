@@ -1,0 +1,33 @@
+{
+  "id": "20261004-github-475ac33afe",
+  "title": "getsentry/sentry",
+  "source": "github_trending",
+  "source_url": "https://github.com/getsentry/sentry",
+  "summary": "Sentry 是 getsentry 团队开发的开源错误追踪与性能监控平台，以开发者体验为核心，支持实时捕获应用异常、追踪性能瓶颈，并提供丰富的上下文信息帮助快速定位问题。该项目在 GitHub 上拥有超过 4.5 万颗星，是 Python 生态中最受欢迎的可观测性工具之一。",
+  "content": "## 项目概述\n\nSentry 是一个面向开发者的错误追踪与性能监控平台，由 getsentry 团队维护，采用 Python 作为主要开发语言。其核心理念是「Developer-first」，即从开发者的实际工作流出发，提供开箱即用的异常捕获、堆栈追踪和性能分析能力。\n\n## 核心功能\n\n1. **错误追踪**：自动捕获应用程序中的异常和错误，记录完整的堆栈信息、请求上下文、用户环境等，帮助开发者快速复现和定位问题。\n2. **性能监控**：追踪事务（Transaction）和跨度（Span），识别慢查询、慢接口和性能瓶颈，支持分布式追踪。\n3. **多语言 SDK**：虽然主仓库以 Python 实现，但 Sentry 提供覆盖 JavaScript、Java、Go、Ruby、PHP、.NET 等数十种语言的客户端 SDK。\n4. **告警与通知**：支持自定义告警规则，可通过邮件、Slack、PagerDuty 等渠道实时通知团队。\n5. **自托管能力**：提供完整的自托管方案，企业可在自有基础设施上部署，满足数据合规需求。\n\n## 技术架构\n\nSentry 采用分布式架构，核心组件包括：\n- **Relay**：事件接收与转发层，负责数据清洗和限流。\n- **Snuba**：基于 ClickHouse 的查询引擎，支撑大规模事件数据的实时分析。\n- **Symbolicator**：负责堆栈符号化解析，将压缩后的代码映射回源码位置。\n- **Web 前端**：基于 React 的现代化管理界面。\n\n## 社区与生态\n\n项目在 GitHub 上累计获得 45,167 颗星、4,896 次 fork，近期日增星约 211 颗，显示出持续的社区活跃度。Sentry 同时提供商业 SaaS 服务与开源自托管版本，形成了成熟的商业化与开源协同模式。\n\n## 适用场景\n\n- 生产环境的异常监控与告警\n- 前后端全链路性能分析\n- 微服务架构下的分布式追踪\n- 需要数据自主可控的企业级部署",
+  "tags": [
+    "错误追踪",
+    "性能监控",
+    "可观测性",
+    "Python",
+    "开源",
+    "APM",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:28+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "getsentry",
+    "stars": 45167,
+    "forks": 4896,
+    "daily_stars": 211,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

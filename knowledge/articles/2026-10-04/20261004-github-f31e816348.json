@@ -1,0 +1,33 @@
+{
+  "id": "20261004-github-f31e816348",
+  "title": "datalab-to/chandra",
+  "source": "github_trending",
+  "source_url": "https://github.com/datalab-to/chandra",
+  "summary": "Chandra 是一个基于 Python 的 OCR 模型，专注于处理复杂表格、表单和手写内容，并保留完整布局信息。该仓库由 datalab-to 维护，在 GitHub 上拥有约 1.24 万星标，近期日增约 20 星，属于 GitHub 热点 Python 项目。",
+  "content": "Chandra 是 datalab-to 开发的一款 OCR（光学字符识别）模型，旨在解决传统 OCR 在复杂文档场景下的不足。其核心能力包括：1）复杂表格识别：能够准确提取表格结构和内容；2）表单处理：支持表单字段的识别与布局还原；3）手写文字识别：可处理手写体内容；4）完整布局保留：在识别文字的同时保留原始文档的版面布局信息。该项目使用 Python 语言实现，当前在 GitHub 上获得 12397 个星标和 1250 个复刻，日增星标约 20，显示出较高的社区关注度。作为 GitHub 热点 Python 项目，Chandra 适用于需要高精度文档解析和布局分析的场景，如金融、法律、医疗等行业的文档数字化。",
+  "tags": [
+    "OCR",
+    "文档识别",
+    "表格识别",
+    "手写识别",
+    "布局分析",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "datalab-to",
+    "stars": 12397,
+    "forks": 1250,
+    "daily_stars": 20,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

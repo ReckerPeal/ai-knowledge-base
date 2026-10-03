@@ -1,0 +1,32 @@
+{
+  "id": "20261004-github-7773ad4116",
+  "title": "anthropics/claude-code-action",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code-action",
+  "summary": "Anthropic 官方推出的 Claude Code GitHub Action，用于在 GitHub 工作流中集成 Claude 代码助手，实现自动化代码审查、问题解答与代码修改建议，当前已获 9407 星标。",
+  "content": "该仓库为 Anthropic 官方维护的 GitHub Action，旨在将 Claude Code 能力嵌入 GitHub CI/CD 流程。开发者可通过配置工作流，在 Issue、Pull Request 等场景中自动触发 Claude 进行代码分析、生成修复建议或回答技术问题。项目采用 TypeScript 编写，具备良好的可扩展性与类型安全，适合团队在代码审查、自动化维护等环节引入 AI 辅助。凭借官方背书与实用场景，仓库短期内获得较高关注，周增星标约 417，社区活跃度良好。",
+  "tags": [
+    "GitHub Action",
+    "Claude",
+    "AI 代码助手",
+    "自动化代码审查",
+    "TypeScript",
+    "Anthropic"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:40+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 9407,
+    "forks": 2185,
+    "daily_stars": null,
+    "weekly_stars": 417,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

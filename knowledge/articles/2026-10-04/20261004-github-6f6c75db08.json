@@ -1,0 +1,32 @@
+{
+  "id": "20261004-github-6f6c75db08",
+  "title": "zeronsh/zeron",
+  "source": "github_trending",
+  "source_url": "https://github.com/zeronsh/zeron",
+  "summary": "zeron 是一个用 Rust 编写的原生控制平面，旨在统一管理和协调 Claude Code、Codex、Cursor、Devin 等多种编码智能体（coding agents）。该项目在 GitHub 上热度较高，已获得约 2922 颗星标，日增 155 星，周增 563 星，显示出社区对多智能体统一控制方案的强烈关注。",
+  "content": "## 项目概述\nzeron 定位为编码智能体的原生控制平面（native control plane），目标是为 Claude Code、Codex、Cursor、Devin 等主流 AI 编码助手提供统一的调度、管理与协作层。\n\n## 核心价值\n- **统一控制**：不同编码智能体通常各自为政，zeron 试图通过一个控制平面来统一管理它们，降低多工具切换成本。\n- **原生实现**：采用 Rust 语言开发，强调性能与系统级集成能力，适合作为底层基础设施。\n- **生态兼容**：覆盖 Claude Code、Codex、Cursor、Devin 等热门编码智能体，具备较广的适配范围。\n\n## 社区热度\n- 星标总数：2922\n- Fork 数：274\n- 日增星标：155\n- 周增星标：563\n- 分类：GitHub 热点 · Rust\n\n## 适用场景\n适合需要同时使用多个 AI 编码助手的开发者、团队或平台，用于统一编排任务、管理上下文和协调智能体之间的协作。\n\n## 潜在关注点\n项目处于早期热度上升阶段，具体功能边界、架构设计和实际可用性需进一步查看仓库文档与代码。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "编码智能体",
+    "控制平面",
+    "开发者工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:33+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "zeronsh",
+    "stars": 2922,
+    "forks": 274,
+    "daily_stars": 155,
+    "weekly_stars": 563,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

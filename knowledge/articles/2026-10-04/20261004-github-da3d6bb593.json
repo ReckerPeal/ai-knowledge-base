@@ -1,0 +1,33 @@
+{
+  "id": "20261004-github-da3d6bb593",
+  "title": "tile-ai/tilelang",
+  "source": "github_trending",
+  "source_url": "https://github.com/tile-ai/tilelang",
+  "summary": "TileLang 是一个面向高性能 GPU/CPU/加速器内核开发的领域特定语言（DSL），旨在简化异构计算编程，降低编写高效并行代码的门槛。该仓库由 tile-ai 维护，使用 Python 实现，在 GitHub 上已获得 8281 颗星标，近期周增 732 星，热度较高。",
+  "content": "TileLang 是一个专注于简化高性能计算内核开发的领域特定语言（DSL），目标平台涵盖 GPU、CPU 及其他加速器。它通过提供更高层次的抽象，帮助开发者更高效地编写和优化并行计算内核，从而降低异构计算编程的复杂度。该项目使用 Python 作为主要实现语言，便于与现有 Python 生态集成。从社区数据来看，TileLang 已获得 8281 个 Star 和 834 个 Fork，近一周新增 732 个 Star，显示出较高的社区关注度和活跃度。其应用场景可能包括深度学习算子优化、科学计算加速以及自定义硬件内核开发等。",
+  "tags": [
+    "DSL",
+    "GPU编程",
+    "高性能计算",
+    "异构计算",
+    "Python",
+    "内核优化",
+    "加速器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:38+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "tile-ai",
+    "stars": 8281,
+    "forks": 834,
+    "daily_stars": null,
+    "weekly_stars": 732,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

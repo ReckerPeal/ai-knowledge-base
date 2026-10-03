@@ -1,0 +1,33 @@
+{
+  "id": "20261004-github-19fc1912b6",
+  "title": "microsoft/TypeScript",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/TypeScript",
+  "summary": "微软开源的 TypeScript 是 JavaScript 的超集，可编译为干净、可读的 JavaScript 代码，为大型前端项目提供静态类型检查与更好的开发体验。",
+  "content": "TypeScript 由微软主导开发并开源，是当前最主流的 JavaScript 超集语言。它在 JavaScript 的基础上增加了可选的静态类型系统、接口、泛型、枚举、装饰器等特性，并通过编译器将代码转换为标准 JavaScript，从而兼容所有浏览器、Node.js 及各类运行环境。TypeScript 的核心价值在于：在编译阶段发现类型错误，提升代码的可维护性与可读性，尤其适合中大型团队协作和长期演进的项目。它拥有完善的类型推断、强大的 IDE 支持（如 VS Code 的智能提示、重构、跳转定义），以及活跃的社区生态，被 Angular、Vue 3、React 生态中的大量项目广泛采用。该仓库 stars 数超过 11 万，fork 数超过 1.5 万，是 GitHub 上最受关注的语言类项目之一。",
+  "tags": [
+    "TypeScript",
+    "JavaScript",
+    "静态类型",
+    "编程语言",
+    "前端开发",
+    "微软",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:35+08:00",
+  "language": "TypeScript",
+  "score": 9.8,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 111326,
+    "forks": 15552,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

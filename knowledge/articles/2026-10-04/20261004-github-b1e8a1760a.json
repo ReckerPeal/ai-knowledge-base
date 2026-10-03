@@ -1,0 +1,32 @@
+{
+  "id": "20261004-github-b1e8a1760a",
+  "title": "sqlfluff/sqlfluff",
+  "source": "github_trending",
+  "source_url": "https://github.com/sqlfluff/sqlfluff",
+  "summary": "SQLFluff 是一个模块化的 SQL 代码检查与自动格式化工具，支持多种 SQL 方言和模板化代码，由 Python 编写，在 GitHub 上拥有近万星标。",
+  "content": "SQLFluff 是一个开源的 SQL linter 和自动格式化工具，旨在帮助开发者编写规范、一致的 SQL 代码。其核心特点是模块化设计，支持多种 SQL 方言（如 ANSI、MySQL、PostgreSQL、Snowflake 等），并能处理模板化代码（如 Jinja、dbt 等）。该工具可以自动检测 SQL 代码中的风格问题、潜在错误，并提供自动修复功能，从而提升代码质量和团队协作效率。项目使用 Python 开发，当前在 GitHub 上已获得 9919 个星标和 1187 个 fork，日均新增星标约 9 个，属于 GitHub 热点 Python 项目。",
+  "tags": [
+    "SQL",
+    "代码检查",
+    "自动格式化",
+    "Python",
+    "开发工具",
+    "数据库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:28+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "sqlfluff",
+    "stars": 9919,
+    "forks": 1187,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

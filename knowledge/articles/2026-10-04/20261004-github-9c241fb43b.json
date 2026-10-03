@@ -1,0 +1,34 @@
+{
+  "id": "20261004-github-9c241fb43b",
+  "title": "anthropics/claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "summary": "Anthropic 推出的 Claude Code 是一款运行在终端中的智能编码代理工具，能够理解代码库并通过自然语言命令执行日常任务、解释复杂代码和处理 Git 工作流，目前以 TypeScript 实现，在 GitHub 上已获得超过 14.9 万星标。",
+  "content": "Claude Code 是 Anthropic 官方发布的终端智能编码工具，定位为「agentic coding tool」，即具备自主行动能力的编码代理。其核心特点包括：1）直接驻留在开发者终端中，无需切换 IDE 或浏览器；2）能够理解整个代码库的上下文，而非仅处理单文件片段；3）通过自然语言命令驱动，可执行常规编码任务、解释复杂代码逻辑、处理 Git 工作流（如提交、分支、合并等）。该仓库使用 TypeScript 开发，当前星标数约 149,132，fork 数约 25,303，日增星标约 127，属于 GitHub 热点中的 TypeScript 类别。作为 Anthropic 官方项目，它代表了 AI 编程助手从「代码补全」向「终端内自主代理」演进的重要方向，适合关注 AI 辅助开发、DevOps 自动化及终端工具链的开发者。",
+  "tags": [
+    "Claude Code",
+    "Anthropic",
+    "AI 编程助手",
+    "终端工具",
+    "TypeScript",
+    "Git 工作流",
+    "代码理解",
+    "智能代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-04T01:40:31+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 149132,
+    "forks": 25303,
+    "daily_stars": 127,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
