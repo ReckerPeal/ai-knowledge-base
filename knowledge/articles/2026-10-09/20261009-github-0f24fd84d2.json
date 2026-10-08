@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-0f24fd84d2",
+  "title": "cloudflare/cloudflare-os",
+  "source": "github_trending",
+  "source_url": "https://github.com/cloudflare/cloudflare-os",
+  "summary": "Cloudflare 推出的基于 Cloudflare Workers 的 Agent 工作空间，支持创建文档、构建应用并运行结合企业上下文与系统的智能代理。",
+  "content": "cloudflare/cloudflare-os 是 Cloudflare 官方开源的一个 Agent 工作空间项目，构建于 Cloudflare Workers 之上。其核心目标是为企业提供一个统一的智能代理运行环境，让代理能够访问公司内部的上下文信息和业务系统，从而完成文档创建、应用构建以及自动化任务执行等操作。项目使用 TypeScript 编写，依托 Cloudflare 的边缘计算基础设施，具备低延迟、高可扩展性的特点。该仓库在 GitHub 上热度较高，已获得超过 1.1 万颗星标，近期周增星标约 1061，表明社区对其关注度持续上升。适合关注 AI Agent、边缘计算、企业级智能工作流以及 Cloudflare 生态的开发者参考和使用。",
+  "tags": [
+    "Cloudflare Workers",
+    "AI Agent",
+    "TypeScript",
+    "边缘计算",
+    "企业工作空间",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:34+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "cloudflare",
+    "stars": 11279,
+    "forks": 1344,
+    "daily_stars": null,
+    "weekly_stars": 1061,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

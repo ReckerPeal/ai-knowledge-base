@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-bf1feb0b99",
+  "title": "abrignoni/ALEAPP",
+  "source": "github_trending",
+  "source_url": "https://github.com/abrignoni/ALEAPP",
+  "summary": "ALEAPP（Android Logs Events And Protobuf Parser）是一个用 Python 编写的开源数字取证工具，专注于解析 Android 系统中的日志、事件和 Protobuf 数据，帮助调查人员从移动设备中提取和分析关键证据。",
+  "content": "ALEAPP 由 abrignoni 开发，是一个面向 Android 数字取证的解析工具。其全称为 Android Logs Events And Protobuf Parser，主要功能包括：解析 Android 设备中的各类日志文件（如 logcat、事件日志）、Protobuf 格式数据以及应用使用痕迹，并将解析结果以结构化格式（如 HTML、CSV、JSON）输出，便于取证分析。该工具支持多种 Android 版本和常见应用数据源，常与 iLEAPP（iOS 版）配合使用。项目在 GitHub 上拥有约 974 颗星和 255 次 fork，近期日增星约 18，表明其在取证社区中具有较高关注度。使用 Python 编写，便于扩展和自定义解析模块。",
+  "tags": [
+    "Android",
+    "数字取证",
+    "日志解析",
+    "Protobuf",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:22+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "abrignoni",
+    "stars": 974,
+    "forks": 255,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-bb07e4bb12",
+  "title": "pocket-id/pocket-id",
+  "source": "github_trending",
+  "source_url": "https://github.com/pocket-id/pocket-id",
+  "summary": "pocket-id 是一个基于 Go 语言开发的开源身份认证服务，提供 OpenID Connect 认证和 OAuth 2.0 授权，主打用户友好的无密码登录体验，支持 passkeys。",
+  "content": "pocket-id 是一个 OpenID Connect Certified™ 和 OAuth 2.0 提供商，旨在让用户通过 passkeys 登录应用程序。该项目使用 Go 语言编写，在 GitHub 上拥有约 9,466 个 star 和 319 个 fork，近期每周新增约 132 个 star，属于 GitHub 热点 Go 项目。其核心价值在于简化身份认证流程，提升安全性（无密码）和用户体验，适合需要集成现代认证方案的开发者。",
+  "tags": [
+    "OpenID Connect",
+    "OAuth 2.0",
+    "passkeys",
+    "身份认证",
+    "Go",
+    "无密码登录"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:39+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pocket-id",
+    "stars": 9466,
+    "forks": 319,
+    "daily_stars": null,
+    "weekly_stars": 132,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-2cf296e295",
+  "title": "tinyhumansai/openhuman",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "summary": "OpenHuman 是一个用 Rust 编写的开源 AI Agent 运行框架（agent harness），主打速度最快、成本最低、效率最高，在 GitHub 上已获得约 4.2 万星标，属于 Rust 语言方向的热门项目。",
+  "content": "## 项目概览\n\nOpenHuman（仓库名 tinyhumansai/openhuman）是一个开源的 agent harness，即用于承载、编排和运行 AI Agent 的底层框架。项目由 tinyhumansai 开发，采用 Rust 语言编写，核心卖点集中在三个维度：速度最快（fastest）、成本最低（cheapest）、效率最高（most efficient）。\n\n## 关键数据\n\n- 星标数：约 41,678\n- Fork 数：约 4,099\n- 周新增星标：约 1,439\n- 语言：Rust\n- 分类：GitHub 热点 · Rust\n\n从数据规模看，该项目已进入高关注度开源项目行列，周增星标保持在千级以上，说明社区活跃度和传播速度仍然较强。\n\n## 技术定位分析\n\n选择 Rust 作为实现语言，与项目宣称的“最快、最省、最高效”目标高度一致。Rust 具备零成本抽象、无 GC 运行时、内存安全和高并发性能等特性，适合构建对延迟和资源占用敏感的 Agent 调度与执行层。相比 Python 生态中常见的 Agent 框架，Rust 实现通常能在启动速度、并发吞吐和单机资源开销上取得优势，这也构成了 OpenHuman 的主要差异化卖点。\n\n## 生态与竞争环境\n\n当前 AI Agent 框架赛道竞争激烈，Python 侧有 LangChain、AutoGPT、CrewAI 等成熟方案，TypeScript 侧也有多款工具链。OpenHuman 以“harness”而非“应用层框架”自居，意味着它更偏向提供 Agent 运行所需的基础设施能力，例如工具调用、循环控制、上下文管理和模型接入等，而非直接面向终端用户的成品应用。这种定位使其更容易被其他项目作为底层依赖集成。\n\n## 潜在关注点\n\n- 摘要信息较为简短，未披露支持的模型供应商、协议标准（如 MCP）、部署形态等细节，实际能力边界需进一步查看仓库文档。\n- 高星标数可能部分来自 Rust 社区与 AI 热点的叠加效应，需结合代码质量、文档完善度和实际基准测试数据综合评估。\n- 作为较新的开源项目，长期维护节奏、版本稳定性和社区治理模式仍有待观察。\n\n## 结论\n\nOpenHuman 是一个以性能与成本效率为核心卖点的 Rust 版开源 Agent 运行框架，凭借语言特性和明确的价值主张在 GitHub 上获得了较高关注度，适合对 Agent 底层性能、资源占用和部署成本有较高要求的开发者关注与试用。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "开源框架",
+    "agent harness",
+    "GitHub 热点",
+    "高性能"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:36+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "tinyhumansai",
+    "stars": 41678,
+    "forks": 4099,
+    "daily_stars": null,
+    "weekly_stars": 1439,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

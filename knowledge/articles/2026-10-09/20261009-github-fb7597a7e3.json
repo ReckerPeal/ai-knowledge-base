@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-fb7597a7e3",
+  "title": "kai-scheduler/KAI-Scheduler",
+  "source": "github_trending",
+  "source_url": "https://github.com/kai-scheduler/KAI-Scheduler",
+  "summary": "KAI Scheduler 是一个面向大规模 AI 工作负载的开源 Kubernetes 原生调度器，使用 Go 语言开发，在 GitHub 上已获得约 1559 颗星标。",
+  "content": "KAI Scheduler 定位为 Kubernetes 原生调度器，专门针对大规模 AI 工作负载场景设计。它由 kai-scheduler 组织开源维护，主要使用 Go 语言实现，能够与 Kubernetes 生态原生集成。该项目在 GitHub 上拥有 1559 个 star 和 295 个 fork，日增约 3 个 star，属于 GitHub 热点中的 Go 语言项目。其核心价值在于解决 AI 训练、推理等任务在 Kubernetes 集群中的资源调度问题，适合需要在大规模 GPU/加速器集群上运行 AI 作业的团队使用。",
+  "tags": [
+    "Kubernetes",
+    "调度器",
+    "AI 工作负载",
+    "Go",
+    "开源",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:29+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "kai-scheduler",
+    "stars": 1559,
+    "forks": 295,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

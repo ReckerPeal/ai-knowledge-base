@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-8e206c4d9e",
+  "title": "A model guide for the GPT-6 family",
+  "source": "rss",
+  "source_url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "summary": "OpenAI 官方发布面向初创企业的 GPT-6 系列模型实用指南，涵盖模型选型、推理强度调优、提示词与技能优化、工具协同以及生产环境工作流准备等关键实践。",
+  "content": "该指南来自 OpenAI 官方博客，标题为《GPT-6 系列模型指南》，旨在帮助初创公司高效落地 GPT-6 系列模型。内容围绕五个核心维度展开：1）模型选型：指导企业根据自身业务场景与成本预算，在 GPT-6 家族中挑选最合适的模型版本；2）推理强度调优：讲解如何调整 reasoning effort 参数，在效果与延迟/成本之间取得平衡；3）提示词与技能提升：提供优化 prompt 设计和模型技能配置的方法，以增强输出质量；4）工具协同：说明如何协调多种工具与模型配合，构建更强大的智能体工作流；5）生产环境准备：帮助团队将原型转化为可上线的生产级工作流。该指南面向初创企业技术团队，强调实用性与可操作性，是 GPT-6 落地应用的重要参考。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "模型选型",
+    "提示工程",
+    "推理优化",
+    "工具协同",
+    "生产部署",
+    "初创企业"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-02T16:15:00+00:00",
+  "collected_at": "2026-10-09T03:33:39+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

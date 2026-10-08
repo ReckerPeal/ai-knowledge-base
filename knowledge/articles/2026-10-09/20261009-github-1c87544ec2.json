@@ -1,0 +1,33 @@
+{
+  "id": "20261009-github-1c87544ec2",
+  "title": "kyverno/kyverno",
+  "source": "github_trending",
+  "source_url": "https://github.com/kyverno/kyverno",
+  "summary": "Kyverno 是一个面向 Kubernetes 的云原生策略引擎，以“统一策略即代码”为核心理念，允许用户使用声明式 YAML 定义策略，实现资源校验、变更、生成和清理等自动化治理能力，无需学习新的编程语言。",
+  "content": "Kyverno（希腊语意为“治理”）是 CNCF 孵化项目，专为 Kubernetes 设计，提供策略即代码（Policy as Code）能力。它通过 Kubernetes 原生的声明式 YAML 定义策略，支持 validate（校验）、mutate（变更）、generate（生成）和 cleanup（清理）等规则类型，可用于强制执行安全合规、资源配额、标签规范、镜像签名验证等场景。Kyverno 以准入控制器（Admission Controller）方式运行，也可作为 CLI 工具在 CI/CD 中离线校验资源清单。其优势在于无需编写 Rego 等专用语言，降低了策略管理的门槛，并与 Kubernetes RBAC、审计日志等原生机制深度集成。项目使用 Go 语言开发，当前在 GitHub 上拥有约 8.2k 星标和 1.6k 分支，属于活跃的云原生安全治理工具。",
+  "tags": [
+    "Kubernetes",
+    "Policy as Code",
+    "云原生安全",
+    "策略引擎",
+    "Go",
+    "CNCF",
+    "准入控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "kyverno",
+    "stars": 8230,
+    "forks": 1642,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

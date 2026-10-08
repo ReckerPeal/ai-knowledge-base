@@ -1,0 +1,34 @@
+{
+  "id": "20261009-github-3382c310c5",
+  "title": "ys-ll/uniterm",
+  "source": "github_trending",
+  "source_url": "https://github.com/ys-ll/uniterm",
+  "summary": "ys-ll/uniterm 是一个用 Go 语言开发的一体化终端工具，支持 SSH、RDP、SFTP、数据库、Kubernetes 等 30 多种协议，并内置 AI Agent 可自主执行多轮 shell 命令。",
+  "content": "该仓库名为 uniterm，定位为“All-in-one terminal”，旨在将多种远程连接与运维协议整合到单一终端界面中。其核心亮点包括：1）协议覆盖广泛，支持 SSH、RDP、SFTP、数据库、Kubernetes 等 30 余种协议，减少在不同工具间切换的成本；2）内置 AI Agent，能够自主运行多轮 shell 命令，实现自动化运维或任务执行；3）使用 Go 语言开发，具备跨平台和高效部署的潜力。当前仓库获得 787 个 Star、120 个 Fork，周增 Star 约 177，属于 GitHub 热点 Go 项目。",
+  "tags": [
+    "终端工具",
+    "AI Agent",
+    "SSH",
+    "RDP",
+    "SFTP",
+    "Kubernetes",
+    "Go",
+    "运维自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:39+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "ys-ll",
+    "stars": 787,
+    "forks": 120,
+    "daily_stars": null,
+    "weekly_stars": 177,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

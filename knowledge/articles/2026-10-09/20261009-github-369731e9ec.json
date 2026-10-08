@@ -1,0 +1,36 @@
+{
+  "id": "20261009-github-369731e9ec",
+  "title": "aquasecurity/trivy",
+  "source": "github_trending",
+  "source_url": "https://github.com/aquasecurity/trivy",
+  "summary": "Trivy 是 Aqua Security 开源的一款用 Go 编写的综合性安全扫描工具，能够检测容器镜像、Kubernetes 集群、代码仓库、云环境中的漏洞、错误配置、敏感信息，并生成 SBOM（软件物料清单）。该项目在 GitHub 上拥有约 3.8 万颗星，是云原生安全领域最受欢迎的扫描器之一。",
+  "content": "## 项目定位\n\nTrivy（aquasecurity/trivy）是一款面向云原生场景的一体化安全扫描器，目标是让安全检测变得简单、快速、可集成。它由 Aqua Security 维护，采用 Go 语言开发，以单一二进制文件的形式分发，无需复杂依赖即可运行。\n\n## 核心能力\n\n1. **漏洞扫描**：覆盖操作系统软件包（Alpine、Debian、Ubuntu、RHEL 等）以及多种语言生态的依赖（如 Go modules、npm、pip、Maven、Cargo、Composer 等），基于多源漏洞数据库（NVD、GHSA、各发行版安全公告等）进行匹配。\n2. **错误配置检测**：通过内置的 IaC 策略（基于 Rego/OPA 与专用检查器）扫描 Terraform、CloudFormation、Kubernetes YAML、Dockerfile、Helm 等配置，识别安全风险与合规问题。\n3. **敏感信息泄露检测**：在代码仓库、镜像层和配置文件中发现硬编码的密钥、令牌、密码等机密信息。\n4. **SBOM 生成与消费**：支持生成 CycloneDX、SPDX 等标准格式的软件物料清单，也可基于已有 SBOM 进行漏洞扫描，满足供应链安全与合规需求。\n5. **多目标支持**：容器镜像、文件系统、Git 仓库、Kubernetes 集群、虚拟机镜像、云账户（AWS 等）均可作为扫描对象。\n\n## 工程与生态\n\n- **语言与分发**：Go 编写，编译为静态二进制，跨平台支持良好；同时提供官方容器镜像、GitHub Actions、Helm Chart 等集成方式。\n- **CI/CD 友好**：可作为流水线中的质量门禁，支持按严重级别设置退出码、忽略文件（.trivyignore）、策略过滤等。\n- **扩展性**：支持插件机制、自定义策略、私有漏洞数据库与镜像仓库认证，便于企业内网与私有环境落地。\n- **社区活跃度**：GitHub 星标约 38,296，Fork 约 746，周新增星标约 156，属于长期活跃的头部开源安全项目。\n\n## 适用场景\n\n- DevSecOps 流水线中的镜像与依赖安全扫描；\n- Kubernetes 集群运行时与配置合规检查；\n- 软件供应链安全与 SBOM 管理；\n- 云环境与 IaC 的安全基线审计；\n- 代码仓库中的敏感信息排查。\n\n## 总结\n\nTrivy 以“一个工具覆盖多类安全检测”为设计理念，凭借易用性、扫描速度与生态集成能力，已成为云原生安全领域的事实标准工具之一。对于需要构建安全左移体系的团队，Trivy 是值得优先评估的基础组件。",
+  "tags": [
+    "安全扫描",
+    "云原生",
+    "容器安全",
+    "SBOM",
+    "漏洞检测",
+    "Kubernetes",
+    "DevSecOps",
+    "Go",
+    "IaC",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:39+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "aquasecurity",
+    "stars": 38296,
+    "forks": 746,
+    "daily_stars": null,
+    "weekly_stars": 156,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

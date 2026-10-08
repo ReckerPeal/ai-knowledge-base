@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-4be9fd565c",
+  "title": "eolix/photosuite",
+  "source": "github_trending",
+  "source_url": "https://github.com/eolix/photosuite",
+  "summary": "eolix/photosuite 是一个用 Rust 编写的桌面图像编辑器，忠实还原经典 Adobe Photoshop 的操作体验，并原生支持 PSD/PSB 文件格式。项目在 GitHub 上获得 948 星标，周增约 606 星，属于近期 Rust 生态中的热点项目。",
+  "content": "该项目定位为经典 Photoshop 的桌面替代品，核心亮点在于原生兼容 Adobe 的 PSD/PSB 格式，这意味着用户可以直接打开和编辑 Photoshop 工程文件，而无需格式转换。技术栈采用 Rust，兼顾性能与内存安全，适合处理大型图像文件。从社区数据看，项目周增星标约 606，总星标 948，fork 43，说明其正处于快速增长期，受到开发者关注。目标用户包括需要轻量级、开源图像编辑方案的设计师、开发者，以及对 PSD 格式互操作性有需求的用户。当前项目可能仍处于早期阶段，但凭借 Rust 的性能优势和 PSD 兼容性，具备成为开源 Photoshop 替代方案的潜力。",
+  "tags": [
+    "Rust",
+    "图像编辑器",
+    "Photoshop",
+    "PSD",
+    "桌面应用",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:36+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "eolix",
+    "stars": 948,
+    "forks": 43,
+    "daily_stars": null,
+    "weekly_stars": 606,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

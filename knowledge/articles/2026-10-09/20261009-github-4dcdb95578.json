@@ -1,0 +1,33 @@
+{
+  "id": "20261009-github-4dcdb95578",
+  "title": "NVIDIA/OpenShell",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "summary": "NVIDIA 开源的 OpenShell 是一个用 Rust 编写的安全、私密的自主 AI 代理运行时环境，旨在为自主 AI 代理提供隔离且安全的执行沙箱。该项目在 GitHub 上热度极高，已获得超过 1.5 万星标，周增星约 3690，反映出业界对 AI 代理安全运行基础设施的强烈关注。",
+  "content": "## 项目概述\nOpenShell 由 NVIDIA 开源，定位为「自主 AI 代理的安全、私密运行时」。随着 AI 代理（Agent）从实验走向生产，其执行代码、访问工具和操作系统的能力带来了显著的安全与隐私风险。OpenShell 试图提供一个受控的运行时环境，让代理在隔离边界内运行，从而降低恶意行为、数据泄露和越权操作的可能性。\n\n## 核心特性\n- **安全隔离**：为代理提供沙箱化执行环境，限制其对宿主系统的直接访问。\n- **隐私保护**：强调私有运行时，适合处理敏感数据或企业内网场景。\n- **Rust 实现**：利用 Rust 的内存安全与高性能特性，适合构建底层系统级运行时。\n- **面向自主代理**：区别于传统容器或虚拟机，专门针对 AI 代理的自主决策与工具调用模式设计。\n\n## 社区热度\n仓库当前约 15,455 星标、1,742 次 fork，周增星约 3,690，属于 GitHub Rust 分类下的高热度项目。NVIDIA 的品牌背书与 AI 代理安全这一热门议题共同推动了其快速传播。\n\n## 适用场景\n- 企业部署自主 AI 代理时的安全执行底座；\n- 需要隔离代理对文件系统、网络和外部工具访问的研究与生产环境；\n- 构建多代理系统时的运行时权限控制层。\n\n## 潜在关注点\n摘要信息较为简短，具体架构、隔离机制（如是否基于 WASM、gVisor 或自研沙箱）、支持的代理框架及 API 细节尚不明确，需进一步查阅仓库文档与源码。",
+  "tags": [
+    "AI Agent",
+    "安全运行时",
+    "Rust",
+    "NVIDIA",
+    "沙箱隔离",
+    "隐私保护",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:36+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 15455,
+    "forks": 1742,
+    "daily_stars": null,
+    "weekly_stars": 3690,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

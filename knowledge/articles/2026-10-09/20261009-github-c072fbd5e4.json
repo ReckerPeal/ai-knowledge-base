@@ -1,0 +1,32 @@
+{
+  "id": "20261009-github-c072fbd5e4",
+  "title": "go-acme/lego",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-acme/lego",
+  "summary": "go-acme/lego 是一个用 Go 语言编写的 Let's Encrypt/ACME 客户端与库，用于自动化申请和续期 TLS/SSL 证书，在 GitHub 上拥有约 9914 个 Star 和 1175 个 Fork，属于 Go 生态中较受欢迎的开源项目。",
+  "content": "go-acme/lego 是 Go 语言实现的 ACME 协议客户端和库，主要面向 Let's Encrypt 等支持 ACME 的证书颁发机构，帮助用户自动化完成证书的申请、验证、签发与续期流程。项目以库的形式提供，便于集成到各类 Go 应用或服务中，同时也提供命令行工具，适合在服务器、容器或 CI/CD 流程中使用。其核心价值在于简化 HTTPS 证书管理，减少手动操作和证书过期风险。仓库当前获得约 9914 个 Star、1175 个 Fork，日增约 4 个 Star，说明项目已较为成熟且仍保持一定关注度。语言为 Go，适合 Go 开发者、运维人员以及需要自动化证书管理的团队使用。",
+  "tags": [
+    "Go",
+    "ACME",
+    "Let's Encrypt",
+    "TLS/SSL",
+    "证书自动化",
+    "开源库"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "go-acme",
+    "stars": 9914,
+    "forks": 1175,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

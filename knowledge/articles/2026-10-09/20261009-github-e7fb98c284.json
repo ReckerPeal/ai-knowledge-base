@@ -1,0 +1,33 @@
+{
+  "id": "20261009-github-e7fb98c284",
+  "title": "JayWebtech/autoshorts",
+  "source": "github_trending",
+  "source_url": "https://github.com/JayWebtech/autoshorts",
+  "summary": "AutoShorts 是一个本地优先的桌面应用，可将长视频或音频录制内容自动转化为 9:16 竖屏短视频候选片段，并利用 AI 对病毒式传播潜力进行排序。",
+  "content": "AutoShorts 由 JayWebtech 开发，使用 Rust 语言编写，是一个面向短视频创作的本地优先桌面工具。其核心功能是接收长视频或音频输入，自动识别并切分出适合竖屏（9:16）传播的短视频候选片段，并通过 AI 模型对每个片段的病毒传播潜力进行评分和排序，帮助创作者快速定位高价值内容。项目在 GitHub 上已获得约 1207 颗星标和 228 次 fork，近期一周新增约 191 颗星标，显示出较高的社区关注度。本地优先的设计意味着视频处理主要在用户设备上完成，有利于隐私保护和降低云端依赖。",
+  "tags": [
+    "Rust",
+    "短视频",
+    "AI",
+    "视频处理",
+    "桌面应用",
+    "本地优先",
+    "内容创作"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:36+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "JayWebtech",
+    "stars": 1207,
+    "forks": 228,
+    "daily_stars": null,
+    "weekly_stars": 191,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

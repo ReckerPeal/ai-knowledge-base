@@ -1,0 +1,34 @@
+{
+  "id": "20261009-github-5bc6b38882",
+  "title": "external-secrets/external-secrets",
+  "source": "github_trending",
+  "source_url": "https://github.com/external-secrets/external-secrets",
+  "summary": "External Secrets Operator 是一个 Go 语言编写的 Kubernetes Operator，可从 AWS Secrets Manager 等第三方密钥管理服务读取信息，并自动注入为 Kubernetes Secrets，实现密钥的集中管理与同步。",
+  "content": "External Secrets Operator（ESO）是 external-secrets 组织下的开源项目，采用 Go 语言开发，目前在 GitHub 上获得约 6896 颗星和 1452 次 fork。其核心功能是作为 Kubernetes Operator 运行，通过定义 ExternalSecret 等自定义资源，从第三方密钥管理服务（如 AWS Secrets Manager、HashiCorp Vault、GCP Secret Manager、Azure Key Vault 等）读取敏感信息，并自动将其同步为原生的 Kubernetes Secrets。这样，应用可以继续以标准方式消费 Secrets，而密钥的真实来源和生命周期则由外部服务统一管理，避免了在集群内硬编码或手动维护密钥。该项目适合需要集中管理密钥、实现多环境密钥同步或遵循安全合规要求的 Kubernetes 用户。",
+  "tags": [
+    "Kubernetes",
+    "Secrets管理",
+    "Operator",
+    "Go",
+    "AWS Secrets Manager",
+    "密钥同步",
+    "云原生",
+    "安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-09T03:33:29+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "external-secrets",
+    "stars": 6896,
+    "forks": 1452,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
