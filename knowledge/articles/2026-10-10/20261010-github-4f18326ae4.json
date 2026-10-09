@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-4f18326ae4",
+  "title": "grafana/mcp-grafana",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "summary": "grafana/mcp-grafana 是 Grafana 官方推出的 MCP（Model Context Protocol）服务器，使用 Go 语言开发，旨在让 AI 助手能够通过标准化协议访问 Grafana 的监控数据与仪表盘能力。项目在 GitHub 上已获得 3539 颗星，属于 GitHub 热点 Go 类项目。",
+  "content": "## 项目概述\n\n`grafana/mcp-grafana` 是 Grafana 官方团队开源的一个 MCP（Model Context Protocol）服务器实现。MCP 是由 Anthropic 提出的开放协议，用于让大语言模型（LLM）与外部工具、数据源进行标准化交互。该项目的作用是充当 AI 助手与 Grafana 之间的桥梁，使 AI 能够查询 Grafana 中的指标、日志、仪表盘等可观测性数据。\n\n## 核心特性\n\n- **官方出品**：由 Grafana 官方维护，与 Grafana 生态的兼容性和安全性有保障。\n- **Go 语言实现**：采用 Go 编写，具备高性能、易部署、单二进制分发等优势，适合在服务器或容器环境中运行。\n- **MCP 协议支持**：遵循 Model Context Protocol 标准，可被支持 MCP 的 AI 客户端（如 Claude Desktop 等）直接调用。\n- **Grafana 数据访问**：通过 MCP 工具接口，AI 助手可以检索 Grafana 中的监控数据、仪表盘信息，辅助进行可观测性分析与故障排查。\n\n## 社区热度\n\n- Stars：3539\n- Forks：461\n- 日增 Stars：6\n- 分类：GitHub 热点 · Go\n\n## 应用场景\n\n1. **AI 辅助运维**：让 AI 助手直接查询 Grafana 面板，快速定位系统异常。\n2. **可观测性问答**：用户以自然语言询问指标趋势，AI 通过 MCP 调用 Grafana 获取数据并回答。\n3. **自动化报告**：结合 AI 工作流，自动生成基于 Grafana 数据的监控报告。\n\n## 技术意义\n\n该项目体现了可观测性平台与 AI 生态融合的趋势。通过 MCP 标准化接口，Grafana 的数据能力可以被更广泛的 AI 应用复用，降低了 AI 集成监控数据的门槛。",
+  "tags": [
+    "Grafana",
+    "MCP",
+    "Go",
+    "可观测性",
+    "AI 集成",
+    "监控",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:54+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "grafana",
+    "stars": 3539,
+    "forks": 461,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

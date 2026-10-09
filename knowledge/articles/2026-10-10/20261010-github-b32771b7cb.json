@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-b32771b7cb",
+  "title": "mvschwarz/openrig",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvschwarz/openrig",
+  "summary": "openrig 是一个基于 TypeScript 的开源项目，旨在让开发者利用 Claude Code、Codex 和 Pi 等 AI 代理构建持久化的多代理协作网络，支持角色分配、共享上下文和任务所有权管理。",
+  "content": "openrig 由 mvschwarz 开发，托管于 GitHub，当前获得约 6369 颗星和 464 次 fork，周增星约 2693，属于近期热门的 TypeScript 项目。其核心目标是帮助用户搭建自己的代理网络：可以组合来自 Claude Code、Codex 和 Pi 等不同来源的 AI 代理，形成具有持久性的团队。每个代理拥有明确的角色，团队内共享上下文信息，并且任务或工作项有明确的所有权归属。这种设计适合需要多代理协同、长期运行和职责划分的复杂自动化场景，例如软件开发流水线、研究助手团队或运维自动化。项目使用 TypeScript 编写，便于在 Node.js 生态中集成和扩展。",
+  "tags": [
+    "AI代理",
+    "多代理系统",
+    "TypeScript",
+    "Claude Code",
+    "Codex",
+    "协作网络",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:59+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mvschwarz",
+    "stars": 6369,
+    "forks": 464,
+    "daily_stars": null,
+    "weekly_stars": 2693,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-19fc1912b6",
+  "title": "microsoft/TypeScript",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/TypeScript",
+  "summary": "微软开源的 TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 代码，由微软维护，拥有超过 11 万星标，是前端与全栈开发领域最主流的静态类型语言之一。",
+  "content": "TypeScript 由微软开发并开源，定位为 JavaScript 的超集，在 JavaScript 基础上增加了可选的静态类型系统、接口、泛型、枚举等特性，最终编译输出为干净、可读的 JavaScript 代码，可运行在任何支持 JavaScript 的环境中（浏览器、Node.js、Deno 等）。\n\n核心价值：\n1. 类型安全：在编译期捕获类型错误，减少运行时 bug，提升大型项目的可维护性。\n2. 优秀的工具支持：为编辑器（尤其是 VS Code）提供智能补全、跳转定义、重构等能力，显著提升开发效率。\n3. 渐进式采用：可与现有 JavaScript 项目共存，逐步迁移，降低引入成本。\n4. 生态成熟：拥有庞大的类型定义库 DefinitelyTyped，主流框架（React、Vue、Angular、Node 生态）均提供一流支持。\n\n社区与影响力：仓库星标超过 11.1 万，Fork 超过 1.6 万，周新增星标约 140，长期位居 GitHub 热门项目前列，是现代前端工程化与大型应用开发的事实标准之一。\n\n适用场景：大型前端应用、Node.js 后端服务、跨端框架、SDK 与库开发，以及任何需要长期维护和团队协作的 JavaScript 项目。",
+  "tags": [
+    "TypeScript",
+    "JavaScript",
+    "静态类型",
+    "编程语言",
+    "微软",
+    "前端开发",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:08:03+08:00",
+  "language": "TypeScript",
+  "score": 9.8,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 111366,
+    "forks": 16140,
+    "daily_stars": null,
+    "weekly_stars": 140,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

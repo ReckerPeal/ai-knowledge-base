@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-475ac33afe",
+  "title": "getsentry/sentry",
+  "source": "github_trending",
+  "source_url": "https://github.com/getsentry/sentry",
+  "summary": "Sentry 是面向开发者的开源错误追踪与性能监控平台，由 getsentry 维护，以 Python 为主要语言，GitHub 星标超过 4.5 万，周增星约 638，属于长期活跃的高热度基础设施类项目。",
+  "content": "Sentry 定位为「Developer-first error tracking and performance monitoring」，即优先服务开发者的错误追踪与性能监控系统。其核心能力包括：实时捕获前后端及移动端应用的异常与崩溃，聚合去重后附带堆栈、上下文与版本信息；通过性能监控（Tracing）定位慢请求、慢事务与瓶颈；结合告警、Issue 工作流与发布追踪，帮助团队在问题影响用户前完成发现、分派与修复。项目以 Python 编写，采用自托管与 SaaS 双模式，支持几乎所有主流语言与框架的 SDK 接入，是应用可观测性（Observability）领域被广泛采用的基础设施之一。\n\n从仓库数据看，45,519 星标与 4,916 次 fork 表明其社区规模与二次开发活跃度均处于头部水平；周增 638 星说明项目仍在持续吸引新用户，而非仅靠历史积累。作为 GitHub 热点中的 Python 类目项目，它兼具工程实用性与生态影响力，适合作为错误监控与性能分析方向的重点参考对象。",
+  "tags": [
+    "错误追踪",
+    "性能监控",
+    "可观测性",
+    "Python",
+    "开源基础设施",
+    "APM",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:56+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "getsentry",
+    "stars": 45519,
+    "forks": 4916,
+    "daily_stars": null,
+    "weekly_stars": 638,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

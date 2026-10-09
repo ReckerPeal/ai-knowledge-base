@@ -1,0 +1,32 @@
+{
+  "id": "20261010-github-2cf296e295",
+  "title": "tinyhumansai/openhuman",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "summary": "openhuman 是一个用 Rust 编写的开源 AI Agent 运行框架（agent harness），主打极致性能与低成本，宣称可在 10 美元的 VPS 上运行超过 500 个 agent，目前在 GitHub 上已获得约 4.17 万 star。",
+  "content": "## 项目概览\nopenhuman（仓库名 tinyhumansai/openhuman）是一个开源 AI Agent 运行框架（agent harness），由 tinyhumansai 开发，使用 Rust 语言实现。其核心卖点是「最快、最便宜、最高效」：官方宣称可以在仅 10 美元/月的 VPS 上同时运行 500 个以上的 agent。\n\n## 关键数据\n- Star 数：约 41,743\n- Fork 数：约 4,106\n- 周新增 Star：约 1,359\n- 语言：Rust\n- 分类：GitHub 热点 · Rust\n\n## 技术定位\n「agent harness」指的是承载、调度与执行 AI agent 的运行时框架，通常负责 agent 生命周期管理、工具调用、并发调度与资源隔离。openhuman 选择 Rust 作为实现语言，意味着它在内存占用、并发吞吐和启动开销上具备天然优势，这也是其能够以极低硬件成本支撑大量 agent 并发的技术基础。\n\n## 价值与适用场景\n- 成本敏感型部署：适合个人开发者、小团队在低配服务器上批量运行 agent。\n- 高并发 agent 编排：需要同时调度数百个 agent 的自动化流水线、爬取/监控/批处理类任务。\n- 自托管与开源可控：相比托管式 agent 平台，更强调自主部署与成本可控。\n\n## 观察与风险\n- 项目热度极高（4 万+ star），但需关注其实际性能宣称是否有可复现的基准测试支撑。\n- 作为较新的开源项目，生态成熟度、文档完整性与长期维护情况仍需持续观察。\n- Rust 技术栈对使用者的工程能力有一定门槛。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "开源框架",
+    "高并发",
+    "低成本部署",
+    "agent harness"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:08:01+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tinyhumansai",
+    "stars": 41743,
+    "forks": 4106,
+    "daily_stars": null,
+    "weekly_stars": 1359,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

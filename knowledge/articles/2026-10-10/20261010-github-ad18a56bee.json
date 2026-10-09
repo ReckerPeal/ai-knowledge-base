@@ -1,0 +1,35 @@
+{
+  "id": "20261010-github-ad18a56bee",
+  "title": "tirth8205/code-review-graph",
+  "source": "github_trending",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "summary": "code-review-graph 是一个本地优先的代码智能图谱工具，面向 MCP 与 CLI，通过为代码库构建持久化映射，让 AI 编码工具只读取真正相关的上下文，并在代码审查与大型仓库工作流中实现可量化的上下文缩减。",
+  "content": "该仓库由 tirth8205 开发，使用 Python 编写，定位为「本地优先（local-first）的代码智能图谱」，同时提供 MCP（Model Context Protocol）与 CLI 两种接入方式。其核心思路是为代码库建立一份持久化的结构映射（graph），使 AI 编码工具在代码审查、大型仓库分析等场景中不再盲目读取整个仓库，而是按需检索与当前任务相关的代码片段，从而显著降低送入模型的上下文规模。项目强调「benchmarked context reductions」，即上下文缩减效果有基准测试数据支撑，说明其在 token 成本与推理效率方面有可验证的收益。从社区数据看，仓库已获得约 3.2 万 stars、2931 forks，日增约 28 stars，属于 GitHub 热点 Python 项目，热度较高。适用人群包括：使用 AI 编码助手（如 Cursor、Claude Code 等支持 MCP 的工具）的开发者、需要处理大型代码库的工程团队，以及关注 AI 上下文工程与代码检索增强的研究者。潜在价值在于降低 AI 编码工具的上下文开销、提升代码审查的针对性与准确性，并可作为本地代码知识图谱的基础设施。",
+  "tags": [
+    "代码智能图谱",
+    "MCP",
+    "CLI",
+    "AI 编码工具",
+    "上下文缩减",
+    "代码审查",
+    "大型仓库",
+    "Python",
+    "本地优先"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:48+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "tirth8205",
+    "stars": 32003,
+    "forks": 2931,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

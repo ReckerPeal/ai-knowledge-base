@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-1f785e46a4",
+  "title": "microsoft/mxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/mxc",
+  "summary": "微软开源的 mxc 项目，基于 Rust 实现策略驱动的分层隔离与遏制机制，旨在提供细粒度的安全边界控制。项目在 GitHub 上热度较高，单日新增 673 星，总星数 2315，属于 Rust 生态中的安全隔离类工具。",
+  "content": "mxc（Microsoft eXecution Container 或类似缩写）是微软在 GitHub 上发布的一个开源项目，核心定位为“策略驱动的分层隔离与遏制”。该项目使用 Rust 语言编写，利用 Rust 的内存安全与高性能特性，构建可配置的隔离层，以限制代码或进程的访问权限与资源范围。其设计强调策略驱动，意味着隔离规则可以通过声明式策略进行定义，而非硬编码，从而适应多场景下的安全需求。分层隔离则可能指从内核、容器、进程等多个层级实施防护，形成纵深防御。项目当前获得 2315 颗星、117 次 fork，单日新增 673 星，表明社区关注度快速上升，可能被用于云原生安全、沙箱环境、多租户隔离等场景。由于摘要信息有限，具体实现细节（如是否基于 WebAssembly、eBPF 或 Linux 命名空间）尚不明确，但整体方向符合微软近年来在系统安全与 Rust 生态的投入趋势。",
+  "tags": [
+    "Rust",
+    "安全隔离",
+    "策略驱动",
+    "微软",
+    "容器",
+    "沙箱",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:52+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 2315,
+    "forks": 117,
+    "daily_stars": 673,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

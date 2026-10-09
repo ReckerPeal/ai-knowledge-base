@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-7e86c4b1b2",
+  "title": "hashicorp/vault",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/vault",
+  "summary": "HashiCorp Vault 是一个用于密钥管理、加密即服务和特权访问管理的开源工具，由 HashiCorp 开发，采用 Go 语言编写，在 GitHub 上拥有超过 3.6 万星标。",
+  "content": "HashiCorp Vault 是一个业界领先的开源工具，专注于安全地存储和访问敏感信息，如 API 密钥、密码、证书等。它提供了密钥管理、加密即服务（Encryption as a Service）以及特权访问管理（Privileged Access Management）等核心功能。Vault 通过统一的接口管理密钥，支持动态密钥生成、数据加密、租约和续期机制，并集成了多种身份验证方法和审计日志。该项目使用 Go 语言开发，具有高可扩展性和跨平台特性。截至收集时，仓库拥有 36,368 个星标和 4,782 个复刻，日增星标约 8 个，显示出持续的关注度。Vault 广泛应用于云原生环境、微服务架构和企业安全领域，是 DevSecOps 实践中的重要组件。",
+  "tags": [
+    "密钥管理",
+    "加密即服务",
+    "特权访问管理",
+    "安全",
+    "Go",
+    "HashiCorp",
+    "DevSecOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:54+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 36368,
+    "forks": 4782,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

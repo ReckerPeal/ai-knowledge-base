@@ -1,0 +1,35 @@
+{
+  "id": "20261010-github-b01295803d",
+  "title": "unslothai/unsloth",
+  "source": "github_trending",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "summary": "Unsloth 是一个提供本地 UI 来运行和训练大语言模型及扩散模型的开源项目，支持 GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等多种模型格式与架构，在 GitHub 上拥有超过 7.7 万星标，是当前热门的 Python AI 工具。",
+  "content": "## 项目概览\n\nUnsloth（unslothai/unsloth）是一个面向本地部署的 AI 模型运行与训练平台，提供图形化界面（UI），让用户无需复杂命令行操作即可运行和微调大语言模型（LLM）以及扩散模型（Diffusion Models）。项目使用 Python 编写，在 GitHub 上已获得 77,626 个星标和 7,160 次 fork，日增星标约 140，属于 GitHub 热点中的 Python 类别。\n\n## 核心功能\n\n1. **本地运行与训练**：通过本地 UI 同时支持模型的推理运行和训练/微调，降低使用门槛。\n2. **多格式支持**：兼容 GGUF 和 MLX 等主流模型格式，适配不同硬件与推理后端。\n3. **广泛模型覆盖**：支持 Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4 等前沿大语言模型，以及 FLUX 等扩散模型。\n4. **高效微调**：项目以优化训练速度和显存占用著称，适合在消费级硬件上进行模型定制。\n\n## 技术亮点\n\n- 提供开箱即用的本地 UI，兼顾易用性与灵活性。\n- 同时覆盖 LLM 与扩散模型两大方向，适用场景广泛。\n- 紧跟模型生态更新，快速适配最新发布的模型版本。\n\n## 适用场景\n\n- 个人开发者或研究者在本地环境中实验和微调大模型。\n- 需要快速对比不同模型（如 Qwen、DeepSeek、Gemma）效果的场景。\n- 希望在有限硬件资源下进行高效训练的用户。\n\n## 社区热度\n\n项目星标数超过 7.7 万，日增约 140 星，表明其在开源 AI 社区中持续受到高度关注，是本地 LLM 工具链中的重要项目之一。",
+  "tags": [
+    "LLM",
+    "本地部署",
+    "模型训练",
+    "微调",
+    "扩散模型",
+    "GGUF",
+    "MLX",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:48+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "unslothai",
+    "stars": 77626,
+    "forks": 7160,
+    "daily_stars": 140,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

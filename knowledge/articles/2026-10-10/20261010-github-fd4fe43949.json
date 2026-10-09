@@ -1,0 +1,32 @@
+{
+  "id": "20261010-github-fd4fe43949",
+  "title": "lharries/whatsapp-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/lharries/whatsapp-mcp",
+  "summary": "lharries/whatsapp-mcp 是一个基于 Go 语言实现的 WhatsApp MCP（Model Context Protocol）服务器，旨在为 AI 模型提供与 WhatsApp 交互的标准化接口。该项目在 GitHub 上拥有 6429 颗星和 1370 次 fork，近期周增 73 星，属于 GitHub 热点 Go 项目。",
+  "content": "该仓库实现了一个 WhatsApp MCP 服务器，通过 Model Context Protocol 将 WhatsApp 的功能暴露给 AI 应用。MCP 是一种开放协议，允许 AI 模型安全地调用外部工具和数据源。此项目使用 Go 语言编写，具备高性能和并发优势。当前星标数 6429，fork 数 1370，周增星 73，表明社区关注度较高。项目可能包含消息发送、接收、联系人管理等功能，适合集成到 AI 助手或自动化工作流中。由于缺少详细文档，具体功能需进一步查看仓库代码。",
+  "tags": [
+    "Go",
+    "WhatsApp",
+    "MCP",
+    "AI",
+    "服务器",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:08:03+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "lharries",
+    "stars": 6429,
+    "forks": 1370,
+    "daily_stars": null,
+    "weekly_stars": 73,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

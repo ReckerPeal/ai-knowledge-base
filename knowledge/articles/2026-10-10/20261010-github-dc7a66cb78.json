@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "该项目聚合了 34 家免费 LLM 提供商的 635 个免费模型端点，通过统一的 /v1 接口对外提供服务，支持智能路由、自动故障转移和密钥加密，月处理量达 74 亿 tokens，仅限个人实验使用。",
+  "content": "freellmapi 是一个 TypeScript 编写的开源项目，旨在将分散的免费大语言模型（LLM）服务统一到一个 OpenAI 兼容的 /v1 端点之后。其核心能力包括：\n\n1. **统一接入**：整合 34 个免费 LLM 提供商，覆盖 635 个免费模型端点，用户只需调用一个 /v1 接口即可访问所有模型，同时支持接入任意自定义的 OpenAI 兼容端点。\n2. **智能路由与容错**：内置智能路由策略，可根据可用性、性能等因素自动选择最优提供商；当某个端点失败时自动故障转移，保障服务连续性。\n3. **安全与配额**：对 API 密钥进行加密存储，并宣称每月可处理 74 亿 tokens 的请求量。\n4. **使用限制**：项目明确标注仅供个人实验使用，不适合生产环境或商业用途。\n\n该项目在 GitHub 上热度极高，已获得 32,471 颗星和 4,505 次 fork，周新增星标 2,208，属于 TypeScript 类别的热点项目。其价值在于降低了开发者试用多种免费 LLM 的门槛，但需注意免费服务的稳定性、隐私及合规风险。",
+  "tags": [
+    "LLM",
+    "API 聚合",
+    "智能路由",
+    "故障转移",
+    "TypeScript",
+    "免费模型",
+    "OpenAI 兼容"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:59+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 32471,
+    "forks": 4505,
+    "daily_stars": null,
+    "weekly_stars": 2208,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

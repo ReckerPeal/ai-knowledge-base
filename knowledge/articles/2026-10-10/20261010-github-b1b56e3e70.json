@@ -1,0 +1,34 @@
+{
+  "id": "20261010-github-b1b56e3e70",
+  "title": "farion1231/cc-switch",
+  "source": "github_trending",
+  "source_url": "https://github.com/farion1231/cc-switch",
+  "summary": "cc-switch 是一个基于 Rust 构建的跨平台桌面一体化助手，旨在统一管理 Claude Code、Codex、OpenCode、OpenClaw、Grok Build 和 Hermes Agent 等多种 AI 编程代理工具。该项目在 GitHub 上热度极高，拥有超过 14 万星标，日增星标约 640，是当前 AI 开发工具集成领域的代表性项目。",
+  "content": "## 项目定位\n\ncc-switch 定位为「跨平台桌面 All-in-One 助手」，核心价值在于将多个主流 AI 编程代理（Claude Code、Codex、OpenCode、OpenClaw、Grok Build、Hermes Agent）整合到统一的桌面客户端中，降低开发者在多工具之间切换的成本。\n\n## 技术特征\n\n- **语言与架构**：项目使用 Rust 编写，具备跨平台桌面应用所需的性能与内存安全优势，适合处理多进程、多会话的代理调度场景。\n- **跨平台能力**：作为桌面应用，支持主流操作系统，强调「一次配置、多端可用」的体验。\n- **多代理集成**：同时对接 6 种 AI 编程代理，覆盖 Anthropic、OpenAI、开源社区及 xAI 等不同生态，属于典型的「聚合型工具层」。\n\n## 社区热度\n\n- 星标数：141,893\n- Fork 数：9,476\n- 日增星标：640\n- 分类：GitHub 热点 · Rust\n\n如此高的星标量级（14 万+）在 Rust 桌面工具中极为罕见，说明其切中了开发者「AI 编程工具碎片化」的真实痛点。\n\n## 生态意义\n\n随着 AI 编程代理数量快速膨胀，开发者面临配置分散、上下文割裂、切换成本高等问题。cc-switch 这类「代理聚合器」有望成为 AI 开发工作流中的入口级工具，其官方站点为 ccswitch.io。\n\n## 潜在关注点\n\n- 多代理统一调度下的会话隔离与上下文管理策略\n- 各代理 API 变更带来的维护成本\n- 桌面端安全与密钥管理机制\n- 与官方 CLI 工具的功能重叠与差异化定位",
+  "tags": [
+    "Rust",
+    "跨平台桌面应用",
+    "AI编程代理",
+    "开发者工具",
+    "Claude Code",
+    "Codex",
+    "All-in-One",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:52+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "farion1231",
+    "stars": 141893,
+    "forks": 9476,
+    "daily_stars": 640,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

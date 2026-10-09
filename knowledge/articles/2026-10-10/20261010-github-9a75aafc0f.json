@@ -1,0 +1,33 @@
+{
+  "id": "20261010-github-9a75aafc0f",
+  "title": "headroomlabs-ai/headroom",
+  "source": "github_trending",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "summary": "Headroom 是一个用于在工具输出、日志、文件和 RAG 分块到达 LLM 之前进行压缩的开源项目，旨在减少 token 消耗，同时保持答案质量。它提供库、代理和 MCP 服务器三种使用方式，在编码代理场景下可减少约 20% 的 token，在 JSON 场景下可减少 60-95% 的 token。",
+  "content": "Headroom 由 headroomlabs-ai 开发，主要解决 LLM 应用中输入上下文过长导致的 token 成本高和上下文窗口受限问题。其核心思路是在数据进入 LLM 之前进行智能压缩，覆盖工具输出、日志、文件内容以及 RAG 检索分块等常见输入类型。项目提供三种集成方式：作为 Python 库直接调用、作为代理（proxy）拦截请求、以及作为 MCP 服务器与支持 MCP 的客户端配合使用。根据摘要描述，在编码代理场景下可减少约 20% 的 token 用量，而在 JSON 数据场景下压缩率可达 60-95%，且声称答案质量不变。该仓库在 GitHub 上热度极高，拥有约 74.8k stars 和 5.8k forks，日增约 120 stars，属于 Python 语言的热门项目。",
+  "tags": [
+    "LLM",
+    "token压缩",
+    "RAG",
+    "MCP",
+    "Python",
+    "代理",
+    "上下文优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-10T03:07:48+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "headroomlabs-ai",
+    "stars": 74823,
+    "forks": 5801,
+    "daily_stars": 120,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
