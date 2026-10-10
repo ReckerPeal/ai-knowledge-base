@@ -1,0 +1,32 @@
+{
+  "id": "20261011-github-4e0cc916ee",
+  "title": "cjpais/Handy",
+  "source": "github_trending",
+  "source_url": "https://github.com/cjpais/Handy",
+  "summary": "Handy 是一个免费、开源且可扩展的语音转文本应用，完全离线运行，使用 Rust 语言开发，在 GitHub 上拥有超过 3.3 万星标。",
+  "content": "Handy 是一个基于 Rust 构建的语音转文本（speech-to-text）应用程序，主打免费、开源和可扩展性，并且完全在离线环境下运行，无需依赖云端服务。该项目在 GitHub 上获得了 33434 个星标和 3111 个 fork，近期一周新增 739 个星标，显示出较高的社区关注度。其离线特性意味着用户可以在没有网络连接的情况下进行语音识别，有利于隐私保护和低延迟场景。Rust 语言的使用保证了性能与内存安全。可扩展的架构允许开发者集成自定义模型或功能。该项目适合需要本地语音转文字能力的个人用户和开发者，可应用于笔记记录、字幕生成、语音助手等场景。",
+  "tags": [
+    "语音转文本",
+    "离线",
+    "开源",
+    "Rust",
+    "可扩展",
+    "语音识别"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:23+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "cjpais",
+    "stars": 33434,
+    "forks": 3111,
+    "daily_stars": null,
+    "weekly_stars": 739,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

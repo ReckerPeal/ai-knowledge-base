@@ -1,0 +1,32 @@
+{
+  "id": "20261011-github-74ca18c70d",
+  "title": "spacedriveapp/spacedrive",
+  "source": "github_trending",
+  "source_url": "https://github.com/spacedriveapp/spacedrive",
+  "summary": "Spacedrive 是一个用 Rust 编写的开源跨平台文件浏览器，基于虚拟分布式文件系统，旨在统一管理本地和云端存储。",
+  "content": "Spacedrive 是一个开源、跨平台的文件浏览器，其核心创新在于使用 Rust 语言构建的虚拟分布式文件系统（VDFS）。它能够将用户分散在不同设备、云服务和存储介质上的文件统一到一个虚拟视图中进行管理，提供类似操作系统的文件管理体验。项目在 GitHub 上拥有近 4 万星标，社区关注度极高。其技术栈以 Rust 为主，强调性能、安全性和跨平台能力，支持 Windows、macOS、Linux 等主流操作系统。Spacedrive 的目标是重新定义文件管理，让用户像使用本地文件一样访问远程和云端的文件，同时保持数据隐私和所有权。",
+  "tags": [
+    "Rust",
+    "文件管理",
+    "分布式文件系统",
+    "跨平台",
+    "开源",
+    "虚拟文件系统"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:23+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "spacedriveapp",
+    "stars": 39090,
+    "forks": 1355,
+    "daily_stars": null,
+    "weekly_stars": 95,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

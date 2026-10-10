@@ -1,0 +1,31 @@
+{
+  "id": "20261011-github-43c0d9fdb9",
+  "title": "touchHLE/touchHLE",
+  "source": "github_trending",
+  "source_url": "https://github.com/touchHLE/touchHLE",
+  "summary": "touchHLE 是一个用 Rust 编写的高层模拟器，旨在运行早期 iOS 应用，目前 GitHub 星标约 3986，社区关注度较高。",
+  "content": "touchHLE 是一个面向早期 iOS 应用的高层模拟器（High-level emulator），使用 Rust 语言开发。该项目仓库主要用于问题跟踪、版本发布和持续集成，代码补丁则通过 Gerrit 评审平台提交。其核心目标是让用户能够在现代设备上运行早期的 iOS 应用，通过高层模拟的方式还原系统 API 行为，而非底层硬件模拟。项目在 GitHub 上已获得约 3986 个星标和 360 次 fork，近期周增星标约 37，显示出持续的关注度。作为 Rust 生态中的模拟器项目，touchHLE 结合了系统兼容性研究与现代编程语言的优势，适合对 iOS 历史应用、模拟器技术或 Rust 系统编程感兴趣的开发者关注。",
+  "tags": [
+    "Rust",
+    "模拟器",
+    "iOS",
+    "高层模拟",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:23+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "touchHLE",
+    "stars": 3986,
+    "forks": 360,
+    "daily_stars": null,
+    "weekly_stars": 37,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

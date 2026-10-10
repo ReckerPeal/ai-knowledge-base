@@ -1,0 +1,34 @@
+{
+  "id": "20261011-github-1c1a19b7e8",
+  "title": "microsoft/vscode",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/vscode",
+  "summary": "微软开源的 Visual Studio Code 是一款基于 TypeScript 构建的跨平台代码编辑器，凭借丰富的扩展生态和活跃的社区，在 GitHub 上获得超过 19 万星标，是当前最受欢迎的开发工具之一。",
+  "content": "## 项目概述\n\nVisual Studio Code（简称 VS Code）是由微软主导开发并开源的轻量级代码编辑器，采用 TypeScript 作为主要开发语言。项目在 GitHub 上拥有约 193,519 个星标和 44,959 个复刻，日均新增星标约 43 个，长期位居 GitHub 热点榜单，是开源社区中关注度最高的开发工具项目之一。\n\n## 核心特性\n\n- **跨平台支持**：可在 Windows、macOS 和 Linux 上运行，提供一致的使用体验。\n- **扩展生态**：拥有庞大的插件市场，开发者可通过扩展机制添加语言支持、调试器、主题和各类工具集成。\n- **智能编辑能力**：内置 IntelliSense 代码补全、语法高亮、代码重构和调试功能，并支持通过语言服务器协议（LSP）扩展对多种编程语言的支持。\n- **集成终端与 Git**：内置终端和版本控制功能，方便开发者在一个界面内完成编码、调试和提交操作。\n- **开源与可定制**：基于 MIT 许可证开源，代码结构清晰，便于社区贡献和二次开发。\n\n## 技术架构\n\nVS Code 采用 Electron 框架构建，将 Web 技术与原生桌面能力结合。其核心编辑器组件基于 Monaco Editor，语言服务通过 LSP 和调试适配器协议（DAP）实现解耦，使得不同语言和工具可以以扩展形式接入。项目使用 TypeScript 编写，代码库组织为多个模块，包括核心编辑器、工作台、平台服务和扩展宿主等。\n\n## 社区与影响\n\n作为 GitHub 上星标数最高的项目之一，VS Code 拥有活跃的贡献者社区和快速的迭代节奏。其开源模式不仅推动了编辑器技术的发展，也催生了大量衍生项目和工具链，如 GitHub Codespaces、VS Code Remote 等。对于开发者而言，参与该项目是了解大型 TypeScript 工程实践和编辑器架构的绝佳途径。\n\n## 适用场景\n\nVS Code 适用于从个人开发者到大型企业的各类软件开发场景，尤其适合前端、后端、脚本语言和云原生开发。其轻量、可扩展和跨平台的特性，使其成为现代软件开发工作流中的核心工具。",
+  "tags": [
+    "Visual Studio Code",
+    "TypeScript",
+    "代码编辑器",
+    "开源",
+    "微软",
+    "开发工具",
+    "跨平台",
+    "扩展生态"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:10+08:00",
+  "language": "TypeScript",
+  "score": 9.8,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 193519,
+    "forks": 44959,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

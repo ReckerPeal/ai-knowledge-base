@@ -1,0 +1,31 @@
+{
+  "id": "20261011-github-564f66a294",
+  "title": "sharkdp/hyperfine",
+  "source": "github_trending",
+  "source_url": "https://github.com/sharkdp/hyperfine",
+  "summary": "hyperfine 是一个用 Rust 编写的命令行基准测试工具，能够对任意命令进行精确的性能测量与统计分析。",
+  "content": "hyperfine 由知名开源开发者 sharkdp 打造，是一款功能强大的命令行基准测试工具。它允许用户对任意 shell 命令进行多次运行并自动统计执行时间，提供均值、标准差、最小值、最大值等详细指标，并支持预热运行、参数化基准测试、导出结果（JSON/CSV/Markdown）以及进度显示等特性。该工具跨平台支持 Linux、macOS 和 Windows，安装简便，已成为开发者优化命令行工具性能的常用利器。项目在 GitHub 上拥有约 2.9 万星标，社区活跃，采用 MIT 许可证。",
+  "tags": [
+    "Rust",
+    "基准测试",
+    "命令行工具",
+    "性能分析",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:23+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "sharkdp",
+    "stars": 29049,
+    "forks": 522,
+    "daily_stars": null,
+    "weekly_stars": 106,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

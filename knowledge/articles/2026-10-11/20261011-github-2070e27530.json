@@ -1,0 +1,32 @@
+{
+  "id": "20261011-github-2070e27530",
+  "title": "Gaurav-Gosain/tuios",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gaurav-Gosain/tuios",
+  "summary": "tuios 是一个用 Go 编写的终端窗口管理器，专为同时运行多个编码 AI 代理的场景设计，提供平铺窗格、工作区、可跨重启恢复的会话，以及统一的代理收件箱。",
+  "content": "tuios 由 Gaurav-Gosain 开发，定位为“知道你的代理在做什么”的终端窗口管理器。它面向需要同时管理多个编码代理（coding agent）的开发者，核心能力包括：平铺式窗格布局（tiling panes），便于在同一终端内并行查看多个代理的输出；工作区（workspaces）用于按任务或项目组织窗格；会话（sessions）可在终端或程序重启后继续存活，避免代理任务中断；以及一个统一的 Inbox，集中汇总所有编码代理的通知或待处理事项。项目使用 Go 语言实现，在 GitHub 上已获得约 5105 颗星和 233 次 fork，近一周新增约 541 颗星，属于 GitHub 热点中的 Go 项目。该工具适合重度使用 AI 编码代理、需要多任务并行与状态持久化的终端用户。",
+  "tags": [
+    "终端窗口管理器",
+    "AI 编码代理",
+    "Go",
+    "平铺窗格",
+    "会话持久化",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:27+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Gaurav-Gosain",
+    "stars": 5105,
+    "forks": 233,
+    "daily_stars": null,
+    "weekly_stars": 541,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261011-github-48e2323d90",
+  "title": "BitterSecurity/Decepticon",
+  "source": "github_trending",
+  "source_url": "https://github.com/BitterSecurity/Decepticon",
+  "summary": "Decepticon 是一个基于 Python 开发的自主红队攻击代理，旨在自动化渗透测试与红队行动，当前在 GitHub 上获得约 5800 星标，日增约 80 星，热度较高。",
+  "content": "Decepticon 是由 BitterSecurity 组织开源的一个自主黑客代理（Autonomous Hacking Agent），专门面向红队（Red Team）场景。该项目使用 Python 编写，核心目标是通过 AI 代理自动执行渗透测试、漏洞利用、横向移动等攻击性安全任务，从而降低红队操作的人力成本并提升效率。\n\n从仓库数据来看，Decepticon 已获得 5812 个 Star 和 1099 个 Fork，日增约 80 Star，表明其在安全社区中受到广泛关注。项目归类于 GitHub 热点 Python 类别，发布时间未知，但近期活跃度较高。\n\n该工具可能集成了大语言模型（LLM）或自动化决策引擎，使其能够自主规划攻击路径、执行命令并适应目标环境。其应用场景包括授权渗透测试、红蓝对抗演练、安全研究等。需要注意的是，此类工具存在被滥用的风险，使用者应严格遵守法律法规和道德准则。\n\n总体而言，Decepticon 代表了 AI 与网络安全攻防结合的前沿方向，具有较高的技术价值和社区影响力。",
+  "tags": [
+    "红队",
+    "自主代理",
+    "渗透测试",
+    "网络安全",
+    "Python",
+    "AI Agent",
+    "自动化攻击"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:08+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "BitterSecurity",
+    "stars": 5812,
+    "forks": 1099,
+    "daily_stars": 80,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

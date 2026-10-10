@@ -1,0 +1,32 @@
+{
+  "id": "20261011-github-56020628fd",
+  "title": "dortania/OpenCore-Legacy-Patcher",
+  "source": "github_trending",
+  "source_url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+  "summary": "OpenCore-Legacy-Patcher 是一个基于 Python 的开源工具，旨在让老旧 Mac 设备能够运行新版 macOS，恢复类似原生的使用体验。项目由 dortania 维护，在 GitHub 上拥有 18546 颗星和 2029 次 fork，近期周增星约 172，属于 GitHub 热点 Python 项目。",
+  "content": "OpenCore-Legacy-Patcher（简称 OCLP）是 dortania 团队开发的一款开源工具，主要面向希望在新版 macOS 上继续使用老旧 Mac 硬件的用户。它通过 OpenCore 引导加载器对系统进行补丁和配置，使官方已停止支持的老款 Mac 能够安装并运行较新的 macOS 版本，同时尽可能保留原有功能与体验。项目使用 Python 编写，在 GitHub 上已获得 18546 颗星和 2029 次 fork，近期一周新增约 172 颗星，显示出持续的关注度。该工具适合具备一定技术基础、愿意尝试非官方系统升级的 Mac 用户，但使用时需注意兼容性风险与数据备份。",
+  "tags": [
+    "macOS",
+    "OpenCore",
+    "老旧Mac",
+    "系统补丁",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:18+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "dortania",
+    "stars": 18546,
+    "forks": 2029,
+    "daily_stars": null,
+    "weekly_stars": 172,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

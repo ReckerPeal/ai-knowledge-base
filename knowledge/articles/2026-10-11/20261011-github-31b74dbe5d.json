@@ -1,0 +1,32 @@
+{
+  "id": "20261011-github-31b74dbe5d",
+  "title": "MHSanaei/3x-ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/MHSanaei/3x-ui",
+  "summary": "MHSanaei/3x-ui 是一个基于 Go 语言开发的多协议多用户代理面板，支持 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun、MTProto、AmneziaWG 等众多协议，在 GitHub 上拥有 47,760 颗星和 12,245 次 fork，周增星约 440，是当前热门的网络代理管理工具。",
+  "content": "该仓库由 MHSanaei 维护，主要提供 Xray 面板的增强版本（3x-ui），用于管理多协议、多用户的代理服务。其核心特点包括：\n\n1. **多协议支持**：涵盖 Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun、MTProto、AmneziaWG 等，满足不同场景下的代理需求。\n2. **多用户管理**：支持为不同用户分配独立的配置和流量限制，适合团队或服务提供商使用。\n3. **Go 语言实现**：后端采用 Go 编写，具备高性能和跨平台特性，便于部署在各类服务器上。\n4. **社区热度**：截至 2026 年 10 月，已获得 47,760 星标和 12,245 次 fork，周增星约 440，表明项目活跃且受关注。\n5. **应用场景**：常用于科学上网、内网穿透、隐私保护等，用户可通过 Web 界面轻松配置和管理代理节点。\n\n该项目在 GitHub Trending 中归类为 Go 语言热点，适合需要搭建和管理多协议代理服务的开发者或运维人员。",
+  "tags": [
+    "Go",
+    "代理面板",
+    "多协议",
+    "Xray",
+    "网络工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:27+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "MHSanaei",
+    "stars": 47760,
+    "forks": 12245,
+    "daily_stars": null,
+    "weekly_stars": 440,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

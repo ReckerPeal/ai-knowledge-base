@@ -1,0 +1,34 @@
+{
+  "id": "20261011-github-275dd84943",
+  "title": "GLinnik21/plx-native",
+  "source": "github_trending",
+  "source_url": "https://github.com/GLinnik21/plx-native",
+  "summary": "GLinnik21/plx-native 是一个用 Rust 编写的非官方 Plex 客户端，专为 LG webOS 电视打造，提供原生 60fps UI 和 4K HEVC/Dolby Vision 支持，不依赖 Chromium 或 WebView，在 GitHub 上获得 526 星标，日增 167 星。",
+  "content": "该项目是一个高性能的 Plex 客户端，针对 LG webOS 电视平台进行了原生优化。其核心亮点包括：1) 原生 60fps 用户界面，确保流畅的操作体验；2) 支持 4K HEVC 和 Dolby Vision 高动态范围视频播放；3) 完全摒弃 Chromium 和 WebView，采用 Rust 语言直接调用底层图形和媒体接口，从而减少资源占用并提升性能。项目由 GLinnik21 开发，目前获得 526 个星标和 44 个复刻，日增星标 167，显示出较高的社区关注度。作为非官方客户端，它可能提供比官方应用更轻量、更高效的替代方案，尤其适合追求画质和流畅度的 LG 电视用户。",
+  "tags": [
+    "Rust",
+    "Plex",
+    "LG webOS",
+    "4K",
+    "HEVC",
+    "Dolby Vision",
+    "原生应用",
+    "流媒体客户端"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:12+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "GLinnik21",
+    "stars": 526,
+    "forks": 44,
+    "daily_stars": 167,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

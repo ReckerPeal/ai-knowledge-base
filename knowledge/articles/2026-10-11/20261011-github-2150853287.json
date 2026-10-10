@@ -1,0 +1,34 @@
+{
+  "id": "20261011-github-2150853287",
+  "title": "pytorch/pytorch",
+  "source": "github_trending",
+  "source_url": "https://github.com/pytorch/pytorch",
+  "summary": "PyTorch 是 Meta 开源的主流深度学习框架，以 Python 张量计算和动态计算图为核心，提供强大的 GPU 加速能力，是当前 AI 研究与工业落地中最活跃的基础设施之一。",
+  "content": "PyTorch 由 Meta（原 Facebook）AI 研究团队主导开发，现由 PyTorch 基金会维护，是当前学术界与工业界使用最广泛的深度学习框架之一。其核心特性包括：\n\n1. **张量计算（Tensors）**：提供类似 NumPy 的多维数组运算接口，但支持 GPU/NPU 等硬件加速，并内置自动微分机制（autograd），可自动计算梯度。\n\n2. **动态计算图（Dynamic Computation Graph）**：采用 define-by-run 模式，计算图在每次前向传播时动态构建，使调试更直观、控制流更灵活，特别适合研究场景和复杂模型结构。\n\n3. **GPU 加速**：通过 CUDA、ROCm、MPS 等后端实现强 GPU 加速，并支持分布式训练（DDP、FSDP）、混合精度训练（AMP）等大规模训练能力。\n\n4. **生态体系**：围绕 PyTorch 形成了丰富的生态，包括 TorchVision、TorchText、TorchAudio、TorchServe、PyTorch Lightning、Hugging Face Transformers 等，覆盖计算机视觉、自然语言处理、语音、推荐系统等领域。\n\n5. **编译与部署**：TorchScript、torch.compile（PyTorch 2.x 引入）提升了训练与推理性能；ONNX、ExecuTorch 等支持跨平台部署，覆盖服务器、移动端和边缘设备。\n\n6. **社区与影响力**：GitHub 星标超过 10.4 万，Fork 超过 3.1 万，日增星标约 81，长期位居 GitHub 热门项目前列，是 AI 领域事实上的标准框架之一。\n\n该仓库是 PyTorch 的主仓库，包含核心 C++/CUDA 实现、Python 前端、测试与文档，是学习深度学习框架底层实现和参与开源贡献的重要入口。",
+  "tags": [
+    "PyTorch",
+    "深度学习",
+    "神经网络",
+    "GPU加速",
+    "Python",
+    "开源框架",
+    "自动微分",
+    "动态计算图"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-11T02:06:08+08:00",
+  "language": "Python",
+  "score": 9.8,
+  "metadata": {
+    "author": "pytorch",
+    "stars": 104088,
+    "forks": 31911,
+    "daily_stars": 81,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
