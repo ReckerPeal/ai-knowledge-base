@@ -1,0 +1,36 @@
+{
+  "id": "20261012-github-3382c310c5",
+  "title": "ys-ll/uniterm",
+  "source": "github_trending",
+  "source_url": "https://github.com/ys-ll/uniterm",
+  "summary": "ys-ll/uniterm 是一个用 Go 语言开发的一体化终端工具，支持 SSH、RDP、SFTP、数据库、Kubernetes 等 30 多种协议，并内置 AI Agent 可自主执行多轮 Shell 命令。该仓库在 GitHub 上获得 819 颗星，近期周增 158 星，属于热门 Go 项目。",
+  "content": "## 项目概述\n\nys-ll/uniterm 是一个基于 Go 语言构建的「全能终端」项目，旨在将多种远程连接与运维协议整合到单一终端界面中。其核心卖点是覆盖 30 余种协议，包括 SSH、RDP、SFTP、数据库连接以及 Kubernetes 集群管理等，同时内置 AI Agent，能够自主执行多轮 Shell 命令，实现自动化运维与智能交互。\n\n## 核心特性\n\n1. **多协议一体化**：无需在多个客户端之间切换，一个终端即可处理 SSH、RDP、SFTP、数据库、Kubernetes 等 30+ 协议。\n2. **内置 AI Agent**：AI 代理可理解上下文并自主运行多轮 Shell 命令，适合自动化任务、故障排查和批量操作。\n3. **Go 语言实现**：利用 Go 的高并发和跨平台特性，保证终端工具的响应速度与可移植性。\n\n## 社区热度\n\n- 当前 Stars：819\n- 当前 Forks：122\n- 周新增 Stars：158\n- 分类：GitHub 热点 · Go\n\n## 适用场景\n\n- 运维工程师需要同时管理多种远程资源（服务器、数据库、K8s 集群）。\n- 开发人员希望通过 AI 辅助执行复杂的命令行操作。\n- 团队希望统一终端工具链，减少工具切换成本。\n\n## 潜在关注点\n\n- 多协议支持意味着较高的复杂度，需关注各协议实现的稳定性和安全性。\n- AI Agent 自主执行 Shell 命令涉及权限与安全边界，需评估其沙箱机制和审计能力。\n- 项目处于早期增长阶段，文档和生态完善度可能仍在建设中。",
+  "tags": [
+    "Go",
+    "终端工具",
+    "AI Agent",
+    "SSH",
+    "RDP",
+    "SFTP",
+    "Kubernetes",
+    "数据库",
+    "运维",
+    "多协议"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:49+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "ys-ll",
+    "stars": 819,
+    "forks": 122,
+    "daily_stars": null,
+    "weekly_stars": 158,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261012-github-56020628fd",
+  "title": "dortania/OpenCore-Legacy-Patcher",
+  "source": "github_trending",
+  "source_url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+  "summary": "OpenCore-Legacy-Patcher 是一个基于 Python 的开源工具，旨在让旧款 Mac 设备能够安装和运行新版 macOS，恢复类似原生的使用体验。项目由 dortania 维护，在 GitHub 上拥有超过 1.8 万星标，是 macOS 社区中广受关注的黑苹果/旧设备兼容方案。",
+  "content": "OpenCore-Legacy-Patcher 通过 OpenCore 引导加载器和一系列系统补丁，使不被官方支持的旧款 Mac 能够运行较新的 macOS 版本。其核心功能包括：生成定制化的 OpenCore 配置、应用根目录补丁以恢复显卡、音频、网络等驱动支持，以及提供图形化安装向导。项目使用 Python 编写，支持从 macOS Big Sur 到最新版本的系统，并持续跟进苹果的系统更新。该工具降低了旧设备升级 macOS 的技术门槛，延长了硬件生命周期，在 GitHub 上获得了 18568 个星标和 2034 个复刻，近期每周新增约 187 个星标，显示出活跃的社区关注度。",
+  "tags": [
+    "macOS",
+    "OpenCore",
+    "旧设备兼容",
+    "Python",
+    "系统补丁",
+    "黑苹果"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:42+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "dortania",
+    "stars": 18568,
+    "forks": 2034,
+    "daily_stars": null,
+    "weekly_stars": 187,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

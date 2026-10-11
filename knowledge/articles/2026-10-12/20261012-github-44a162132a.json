@@ -1,0 +1,32 @@
+{
+  "id": "20261012-github-44a162132a",
+  "title": "BishopFox/sliver",
+  "source": "github_trending",
+  "source_url": "https://github.com/BishopFox/sliver",
+  "summary": "Sliver 是 BishopFox 开发的开源对手模拟框架，使用 Go 语言编写，在 GitHub 上拥有超过 1.2 万星标，是红队和渗透测试领域的热门工具。",
+  "content": "Sliver 是一个由 BishopFox 维护的开源对手模拟（Adversary Emulation）框架，主要使用 Go 语言开发。该框架旨在为红队、渗透测试人员和安全研究人员提供跨平台的命令与控制（C2）能力，支持多种植入体（implant）生成、会话管理、后渗透模块以及多人协作。相比 Cobalt Strike 等商业工具，Sliver 完全开源且活跃更新，社区生态逐步完善。截至采集时，仓库获得约 12,081 个星标和 1,620 次 fork，日增星标约 60，显示出持续的关注度。其技术栈以 Go 为主，便于编译为多平台二进制，并支持 mTLS、WireGuard、HTTP(S)、DNS 等多种通信协议。该工具常用于授权安全测试、红蓝对抗演练以及安全防御能力验证，但需注意合法合规使用。",
+  "tags": [
+    "Adversary Emulation",
+    "C2 Framework",
+    "Red Team",
+    "Go",
+    "Penetration Testing",
+    "Security"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:40+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "BishopFox",
+    "stars": 12081,
+    "forks": 1620,
+    "daily_stars": 60,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

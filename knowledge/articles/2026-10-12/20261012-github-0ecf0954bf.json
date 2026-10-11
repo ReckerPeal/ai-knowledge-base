@@ -1,0 +1,33 @@
+{
+  "id": "20261012-github-0ecf0954bf",
+  "title": "AtomicBot-ai/atomic-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/AtomicBot-ai/atomic-agent",
+  "summary": "Atomic Agent 是一个本地优先的 AI 智能体，通过 llama.cpp 在用户自己的机器上运行开放权重模型，主打隐私与离线可用性，使用 TypeScript 开发，已获 3246 星标。",
+  "content": "AtomicBot-ai/atomic-agent 是一个本地优先（local-first）的 AI Agent 项目，核心特点是将开放权重模型通过 llama.cpp 直接运行在用户本地机器上，无需依赖云端 API，从而保障数据隐私并支持离线使用。项目使用 TypeScript 编写，当前在 GitHub 上已获得约 3246 个星标和 267 次 fork，近一周新增约 606 星，属于 GitHub 热点中的 TypeScript 类项目。该仓库适合关注本地化 AI 部署、隐私敏感场景以及开源模型推理的开发者参考。",
+  "tags": [
+    "AI Agent",
+    "本地优先",
+    "llama.cpp",
+    "开放权重模型",
+    "TypeScript",
+    "隐私保护",
+    "离线推理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:44+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "AtomicBot-ai",
+    "stars": 3246,
+    "forks": 267,
+    "daily_stars": null,
+    "weekly_stars": 606,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

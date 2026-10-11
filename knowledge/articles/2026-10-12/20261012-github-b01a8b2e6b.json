@@ -1,0 +1,33 @@
+{
+  "id": "20261012-github-b01a8b2e6b",
+  "title": "denoland/celld",
+  "source": "github_trending",
+  "source_url": "https://github.com/denoland/celld",
+  "summary": "denoland/celld 是 Deno 官方推出的自托管分布式 Durable Objects 实现，使用 Rust 编写，旨在为开发者提供可自行部署的分布式状态管理能力，目前已在 GitHub 上获得 5422 颗星，日增 110 星，热度较高。",
+  "content": "denoland/celld 是 Deno 团队开源的一个自托管、分布式的 Durable Objects 项目，采用 Rust 语言开发。Durable Objects 原本是 Cloudflare Workers 中用于提供强一致性、有状态计算的核心原语，而 celld 的目标是将这一能力从 Cloudflare 平台解耦，让开发者可以在自己的基础设施上部署和运行分布式有状态对象。该项目与 Deno 生态紧密相关，可能为 Deno Deploy 或自托管 Deno 运行时提供分布式状态支持。从仓库数据来看，celld 已获得 5422 个 Star、292 个 Fork，单日新增 110 个 Star，表明社区对其关注度较高，属于 GitHub Rust 热点项目。其技术栈涉及 Rust 异步编程、分布式共识、状态持久化与复制等，适合对边缘计算、无服务器架构和分布式系统感兴趣的开发者深入研究。",
+  "tags": [
+    "Rust",
+    "Durable Objects",
+    "分布式系统",
+    "自托管",
+    "Deno",
+    "边缘计算",
+    "无服务器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:38+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "denoland",
+    "stars": 5422,
+    "forks": 292,
+    "daily_stars": 110,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

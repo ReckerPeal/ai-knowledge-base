@@ -1,0 +1,32 @@
+{
+  "id": "20261012-github-3570a75b1e",
+  "title": "zerx-lab/FluxDown",
+  "source": "github_trending",
+  "source_url": "https://github.com/zerx-lab/FluxDown",
+  "summary": "FluxDown 是一款基于 Rust 开发的多协议下载管理器，支持 HTTP、FTP、BitTorrent、磁力链接以及 HLS/DASH 流媒体，具备智能多线程加速和浏览器无缝集成能力，界面精美、性能极致，且永久免费无广告。",
+  "content": "FluxDown 是由 zerx-lab 开发并开源在 GitHub 上的下载管理器，采用 Rust 语言编写，当前获得约 4297 个 Star 和 250 个 Fork，周新增 Star 约 716，属于 GitHub 热点 Rust 分类项目。其核心特性包括：\n\n1. **多协议支持**：覆盖 HTTP、FTP、BitTorrent、磁力链接等传统下载协议，同时支持 HLS 和 DASH 流媒体下载，满足从普通文件到流媒体内容的多样化需求。\n2. **智能多线程加速**：通过智能分片与多线程并发技术提升下载速度，优化带宽利用率。\n3. **浏览器无缝集成**：可与浏览器深度协作，自动接管下载任务，提升使用便捷性。\n4. **精美界面与极致性能**：借助 Rust 的高性能与内存安全特性，在保证界面美观的同时实现低资源占用与高响应速度。\n5. **永久免费、零广告**：项目承诺无任何广告与付费墙，适合追求纯净体验的用户。\n\n该项目适合需要高效下载工具的开发者和普通用户，尤其对 Rust 生态、下载加速、流媒体捕获等方向感兴趣的群体具有较高参考价值。",
+  "tags": [
+    "Rust",
+    "下载管理器",
+    "多协议",
+    "BitTorrent",
+    "流媒体",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "zerx-lab",
+    "stars": 4297,
+    "forks": 250,
+    "daily_stars": null,
+    "weekly_stars": 716,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

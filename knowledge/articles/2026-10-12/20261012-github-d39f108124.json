@@ -1,0 +1,31 @@
+{
+  "id": "20261012-github-d39f108124",
+  "title": "martin-olivier/airgorah",
+  "source": "github_trending",
+  "source_url": "https://github.com/martin-olivier/airgorah",
+  "summary": "Airgorah 是一款基于 Rust 开发的 WiFi 安全审计软件，在 GitHub 上获得约 4096 颗星，日增约 75 星，属于近期 Rust 语言方向的热门项目。",
+  "content": "Airgorah 是一个用 Rust 编写的 WiFi 安全审计工具，主要面向无线网络的安全评估与测试场景。项目由 martin-olivier 维护，当前在 GitHub 上拥有约 4096 个 star 和 719 个 fork，日新增 star 约 75，说明其在安全工具社区中具有较高的关注度和活跃度。\n\n从技术栈来看，Airgorah 选择 Rust 作为实现语言，能够兼顾内存安全与运行性能，适合处理底层网络数据包与并发任务。作为安全审计软件，其典型用途可能包括无线网络扫描、接入点信息收集、安全配置检查等，帮助安全研究人员和渗透测试人员评估 WiFi 环境的安全状况。\n\n该项目的热度反映了当前开发者对 Rust 生态中安全工具的关注，也体现了无线安全审计领域持续存在的需求。需要注意的是，此类工具应仅用于合法授权的安全测试与学习研究，使用者需遵守当地法律法规。",
+  "tags": [
+    "Rust",
+    "WiFi安全",
+    "安全审计",
+    "网络安全",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:38+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "martin-olivier",
+    "stars": 4096,
+    "forks": 719,
+    "daily_stars": 75,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261012-github-444fc485b7",
+  "title": "oauth2-proxy/oauth2-proxy",
+  "source": "github_trending",
+  "source_url": "https://github.com/oauth2-proxy/oauth2-proxy",
+  "summary": "oauth2-proxy 是一个用 Go 编写的反向代理，为后端服务提供基于 Google、Azure、OpenID Connect 等多种身份提供商的认证能力，在 GitHub 上拥有 15146 颗星，是云原生场景下常用的认证网关方案。",
+  "content": "oauth2-proxy 是一个开源的反向代理认证网关，主要使用 Go 语言开发，目前在 GitHub 上已获得约 15146 颗星标和 2219 次 fork，近期周新增星标约 97 颗，属于 GitHub 热点 Go 类项目。\n\n核心功能：它作为反向代理部署在应用前端，负责处理 OAuth2 / OpenID Connect 认证流程，支持 Google、Azure、OpenID Connect 以及众多其他身份提供商（IdP）。用户请求先经过 oauth2-proxy 完成登录与令牌校验，认证通过后再转发到后端服务，从而让后端应用无需自行实现认证逻辑。\n\n典型使用场景：\n1. 为没有内置认证能力的内部服务、仪表盘或管理后台统一添加登录保护；\n2. 在 Kubernetes 环境中与 Ingress/Nginx 配合，作为统一认证入口；\n3. 对接企业 IdP（如 Azure AD、Keycloak、Okta 等）实现单点登录（SSO）；\n4. 保护 Prometheus、Grafana、Kibana 等运维组件的访问入口。\n\n技术特点：基于 Go 编写，部署为单一二进制文件，资源占用低、启动快；支持会话存储（Cookie、Redis 等）、多种认证模式（如 OIDC、OAuth2、Bearer Token 校验）以及细粒度的访问控制策略。\n\n项目价值：oauth2-proxy 填补了“应用无认证能力”与“企业统一身份认证”之间的空白，是云原生生态中广泛采用的认证中间件，社区活跃、文档完善，适合需要快速为存量服务增加认证能力的团队。",
+  "tags": [
+    "oauth2",
+    "openid-connect",
+    "反向代理",
+    "身份认证",
+    "Go",
+    "云原生",
+    "单点登录",
+    "SSO"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "oauth2-proxy",
+    "stars": 15146,
+    "forks": 2219,
+    "daily_stars": null,
+    "weekly_stars": 97,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

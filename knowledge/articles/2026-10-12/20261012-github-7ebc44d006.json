@@ -1,0 +1,32 @@
+{
+  "id": "20261012-github-7ebc44d006",
+  "title": "charmbracelet/bubbletea",
+  "source": "github_trending",
+  "source_url": "https://github.com/charmbracelet/bubbletea",
+  "summary": "Bubble Tea 是一个基于 Go 语言的轻量级且功能强大的 TUI（终端用户界面）框架，采用 Elm 架构模式，帮助开发者以简洁的代码构建交互式终端应用。",
+  "content": "Bubble Tea 由 charmbracelet 团队开发，是 Go 生态中广受欢迎的 TUI 框架。它借鉴了 Elm 架构（Model-Update-View），通过消息驱动和状态管理简化终端应用的开发。该框架支持键盘、鼠标事件处理，内置对 ANSI 颜色、样式和布局的支持，并可与同团队的 Lip Gloss、Bubbles 等库配合使用。项目在 GitHub 上拥有超过 45,000 颗星，周新增约 183 颗星，社区活跃，适合开发 CLI 工具、仪表盘、游戏等终端交互程序。",
+  "tags": [
+    "Go",
+    "TUI",
+    "终端界面",
+    "框架",
+    "Elm架构",
+    "CLI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:49+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "charmbracelet",
+    "stars": 45435,
+    "forks": 3762,
+    "daily_stars": null,
+    "weekly_stars": 183,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

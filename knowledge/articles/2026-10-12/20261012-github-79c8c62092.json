@@ -1,0 +1,35 @@
+{
+  "id": "20261012-github-79c8c62092",
+  "title": "traefik/traefik",
+  "source": "github_trending",
+  "source_url": "https://github.com/traefik/traefik",
+  "summary": "Traefik 是一个用 Go 编写的云原生应用代理，作为现代微服务架构中的反向代理和负载均衡器，支持自动服务发现和动态配置，是 CNCF 毕业项目，在 GitHub 上拥有超过 6.5 万星标。",
+  "content": "Traefik（发音为 \"traffic\"）是一个开源的云原生应用代理（Cloud Native Application Proxy），专为现代微服务和容器化环境设计。它能够自动发现服务并动态配置路由规则，无需手动重启或修改配置文件。\n\n核心特性：\n1. **自动服务发现**：原生集成 Kubernetes、Docker、Consul、Etcd、Rancher 等主流编排和注册中心，实时感知服务变化。\n2. **动态配置**：路由、中间件、负载均衡策略可在运行时热更新，零停机。\n3. **入口控制器**：作为 Kubernetes Ingress Controller，提供 HTTP/HTTPS 路由、TLS 终止、灰度发布等能力。\n4. **中间件生态**：内置认证、限流、熔断、重试、压缩、Header 操作等丰富中间件。\n5. **可观测性**：支持 Prometheus、Datadog、Jaeger 等监控与追踪系统，提供访问日志和指标。\n6. **多协议支持**：HTTP、HTTPS、TCP、UDP、gRPC、WebSocket 等。\n\n技术栈与生态：\n- 语言：Go\n- 项目状态：CNCF 毕业项目（Graduated）\n- 社区指标：GitHub 星标 65,166，Fork 6,235，周新增星标 131\n- 主要竞品：Nginx、HAProxy、Envoy、Traefik Mesh\n\n适用场景：\n- Kubernetes 集群入口流量管理\n- Docker Swarm 或 Nomad 环境下的服务暴露\n- 微服务架构中的 API 网关\n- 边缘路由与负载均衡\n\nTraefik 以其简洁的配置、强大的自动化能力和活跃的社区，成为云原生时代反向代理和入口控制器的热门选择。",
+  "tags": [
+    "Traefik",
+    "云原生",
+    "反向代理",
+    "负载均衡",
+    "Kubernetes",
+    "Go",
+    "CNCF",
+    "API网关",
+    "微服务"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:49+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "traefik",
+    "stars": 65166,
+    "forks": 6235,
+    "daily_stars": null,
+    "weekly_stars": 131,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

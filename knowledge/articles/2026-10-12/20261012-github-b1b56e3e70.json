@@ -1,0 +1,35 @@
+{
+  "id": "20261012-github-b1b56e3e70",
+  "title": "farion1231/cc-switch",
+  "source": "github_trending",
+  "source_url": "https://github.com/farion1231/cc-switch",
+  "summary": "cc-switch 是一个基于 Rust 开发的跨平台桌面一体化助手，旨在统一管理 Claude Code、Codex、OpenCode、OpenClaw、Grok Build 和 Hermes Agent 等多种 AI 编程代理工具。该项目在 GitHub 上热度极高，已获得超过 14 万星标，日增星标约 410，是当前 AI 开发者工具领域备受关注的开源项目。",
+  "content": "## 项目概述\n\ncc-switch 是由开发者 farion1231 打造的一款跨平台桌面应用，定位为「All-in-One assistant」，即一体化助手。其核心目标是将多个主流 AI 编程代理（AI Coding Agent）整合到同一个桌面客户端中，降低开发者在不同工具之间切换的成本。\n\n## 支持的工具矩阵\n\n项目目前明确支持以下六种 AI 代理工具：\n\n1. **Claude Code** — Anthropic 推出的终端 AI 编程助手\n2. **Codex** — OpenAI 的代码生成模型/工具链\n3. **OpenCode** — 开源 AI 编程代理\n4. **OpenClaw** — 开源 AI 代理框架\n5. **Grok Build** — xAI 相关的构建工具\n6. **Hermes Agent** — 另一款 AI 代理工具\n\n这种多工具聚合的定位，使其成为 AI 编程工具生态中的「统一入口」，尤其适合需要同时使用多个 AI 代理进行开发、对比或协作的开发者。\n\n## 技术栈与平台\n\n- **开发语言**：Rust，意味着高性能、内存安全以及良好的跨平台编译能力\n- **平台形态**：跨平台桌面应用（Cross-platform desktop），预计支持 Windows、macOS 和 Linux\n- **官方网站**：ccswitch.io（项目摘要中特别强调「Only official website」，提示用户注意辨别官方渠道，防范仿冒网站）\n\n## 社区热度与数据表现\n\n- **星标数**：142,768（截至采集时间）\n- **复刻数**：9,511\n- **日增星标**：约 410\n- **分类**：GitHub 热点 · Rust\n\n超过 14 万的星标量在 GitHub 上属于顶级热门项目，日增 410 星标说明项目仍处于高速增长期，社区关注度持续攀升。\n\n## 项目价值与意义\n\n1. **工具碎片化问题的解决方案**：当前 AI 编程代理工具层出不穷，开发者往往需要在多个 CLI 或客户端之间切换。cc-switch 通过统一桌面界面整合这些工具，显著提升工作流效率。\n2. **Rust 生态的桌面应用实践**：项目以 Rust 构建跨平台桌面应用，为 Rust 在 GUI/桌面领域的应用提供了高关注度的案例。\n3. **AI 开发者工具聚合趋势**：反映了 AI 编程工具从「单点工具」向「聚合平台」演进的行业趋势。\n\n## 潜在关注点\n\n- 项目摘要中特别标注「Only official website: ccswitch.io」，暗示可能存在仿冒网站或钓鱼风险，用户需通过官方渠道下载。\n- 作为聚合型工具，其对各上游 AI 代理的兼容性、更新同步速度以及 API 密钥管理安全性是长期使用的关键考量。\n- 项目星标数极高但需关注其实际代码质量、维护活跃度与 issue 处理情况。",
+  "tags": [
+    "Rust",
+    "跨平台桌面应用",
+    "AI编程助手",
+    "开发者工具",
+    "Claude Code",
+    "Codex",
+    "OpenCode",
+    "一体化助手",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:38+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "farion1231",
+    "stars": 142768,
+    "forks": 9511,
+    "daily_stars": 410,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

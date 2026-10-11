@@ -1,0 +1,35 @@
+{
+  "id": "20261012-github-e89ebe40a4",
+  "title": "Autumn-27/ScopeSentry",
+  "source": "github_trending",
+  "source_url": "https://github.com/Autumn-27/ScopeSentry",
+  "summary": "ScopeSentry 是一个基于 Go 语言开发的开源网络空间测绘与攻击面管理平台，集成了子域名枚举、端口扫描、敏感信息发现、漏洞扫描及分布式节点调度等能力，目前在 GitHub 上获得约 1789 颗星标，属于近期 Go 语言方向的热门安全工具。",
+  "content": "ScopeSentry 由开发者 Autumn-27 开源，定位为一站式的网络空间资产测绘与安全评估工具。其核心功能覆盖资产发现与风险识别的完整链路：\n\n1. 网络空间测绘（Cyberspace Mapping）：对目标 IP 段或域名空间进行系统性探测，识别存活主机与服务。\n2. 子域名枚举（Subdomain Enumeration）：通过多种数据源与字典爆破方式发现目标域名的子域资产，扩大攻击面视野。\n3. 端口扫描（Port Scanning）：对目标主机进行端口探测与服务指纹识别，判断开放服务类型与版本。\n4. 敏感信息发现（Sensitive Information Discovery）：从响应内容、目录、配置等维度挖掘可能泄露的敏感数据。\n5. 漏洞扫描（Vulnerability Scanning）：结合指纹与 PoC 对识别出的服务进行漏洞检测。\n6. 分布式节点（Distributed Nodes）：支持多节点协同调度，提升大规模扫描任务的效率与并发能力。\n\n技术栈方面，项目使用 Go 语言编写，具备良好的并发性能与跨平台部署能力，适合在红队评估、企业攻击面管理（ASM）及安全运营场景中使用。仓库当前拥有 1789 个 Star、342 个 Fork，日增约 27 个 Star，说明社区关注度处于上升阶段。该项目适合安全研究人员、渗透测试工程师及企业安全团队作为资产测绘与风险排查的基础设施工具。",
+  "tags": [
+    "网络安全",
+    "网络空间测绘",
+    "子域名枚举",
+    "端口扫描",
+    "漏洞扫描",
+    "分布式扫描",
+    "Go",
+    "攻击面管理",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:40+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Autumn-27",
+    "stars": 1789,
+    "forks": 342,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261012-github-1935579528",
+  "title": "docker/docker-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/docker/docker-agent",
+  "summary": "Docker Engineering 推出的 AI Agent 构建与运行时工具，基于 Go 语言开发，旨在简化 AI Agent 的创建和部署流程，目前获得 4423 个 Star 和 509 个 Fork，周增 1003 星，热度较高。",
+  "content": "该仓库由 Docker 官方工程团队维护，定位为 AI Agent 的构建器与运行时环境。它允许开发者以标准化方式定义、构建和运行 AI Agent，并可能深度集成 Docker 容器生态，提供隔离、可移植的执行环境。项目使用 Go 语言编写，具备高性能和跨平台特性。当前 Star 数达 4423，Fork 数 509，周新增 Star 1003，表明社区关注度快速上升。由于来自 Docker 官方，其在工程化、安全性和可扩展性方面可能具有优势，适合需要将 AI Agent 部署到生产环境的团队。",
+  "tags": [
+    "AI Agent",
+    "Docker",
+    "Go",
+    "运行时",
+    "容器化",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "docker",
+    "stars": 4423,
+    "forks": 509,
+    "daily_stars": null,
+    "weekly_stars": 1003,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261012-github-c252c5fc2b",
+  "title": "repowise-dev/repowise",
+  "source": "github_trending",
+  "source_url": "https://github.com/repowise-dev/repowise",
+  "summary": "repowise 是一个面向 AI 与人类开发者的代码库智能分析工具，提供代码健康评分、自动文档生成、Git 分析、死代码检测及通过 MCP 实现的架构决策支持，使用 Python 编写，在 GitHub 上获得 7515 星标。",
+  "content": "repowise-dev/repowise 是一个专注于代码库智能化的开源项目，旨在同时服务于 AI 代理和人类开发者。其核心功能包括：1）代码健康评分，帮助团队量化代码质量；2）自动生成文档，减少手动维护成本；3）Git 分析，提供提交历史、贡献者行为等洞察；4）死代码检测，识别并清理无用代码；5）通过 MCP（模型上下文协议）提供架构决策支持，使 AI 能理解并参与架构讨论。项目使用 Python 实现，当前在 GitHub 上拥有 7515 个星标和 841 个复刻，日增星标约 68，显示出较高的社区关注度。该工具适合希望提升代码可维护性、自动化文档流程以及增强 AI 辅助开发能力的团队。",
+  "tags": [
+    "代码分析",
+    "AI 辅助开发",
+    "代码健康",
+    "自动文档",
+    "Git 分析",
+    "死代码检测",
+    "MCP",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-12T02:30:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "repowise-dev",
+    "stars": 7515,
+    "forks": 841,
+    "daily_stars": 68,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
