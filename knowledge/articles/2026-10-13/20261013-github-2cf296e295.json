@@ -1,0 +1,33 @@
+{
+  "id": "20261013-github-2cf296e295",
+  "title": "tinyhumansai/openhuman",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "summary": "openhuman 是一个用 Rust 编写的开源 AI Agent 运行框架（agent harness），主打极致轻量与高效，宣称可在 10 美元的 VPS 上运行超过 500 个 agent，GitHub 星标已超 4.1 万，是当前 Rust 生态中热度极高的 Agent 基础设施项目。",
+  "content": "## 项目定位\nopenhuman（tinyhumansai/openhuman）是一个开源 AI Agent 运行框架（agent harness），核心卖点是「最快、最便宜、最高效」。它并非模型本身，而是承载和调度 agent 的运行时基础设施，目标是在极低成本的硬件上实现大规模 agent 并发。\n\n## 核心亮点\n- **极致成本效率**：官方宣称可在 10 美元/月的 VPS 上运行 500+ 个 agent，意味着单 agent 的资源开销被压到极低，适合个人开发者与小团队做大规模 agent 实验或部署。\n- **Rust 实现**：选择 Rust 作为语言，天然具备内存安全、零成本抽象和高并发性能优势，契合「轻量高并发」的产品定位。\n- **开源生态热度**：GitHub 星标约 41,910，fork 约 4,122，近一周新增约 1,293 星，属于 GitHub Trending 中的高热度项目，社区关注度与增长动能都很强。\n\n## 技术价值\n在 agent 框架普遍依赖 Python、运行时开销较大的背景下，openhuman 用 Rust 重写底层 harness，试图解决「agent 数量一多就烧钱」的痛点。其价值主要体现在：\n1. 降低 agent 部署的边际成本，让「多 agent 并行」从概念验证走向可负担的规模化；\n2. 为 Rust 生态补齐 agent 基础设施层，吸引偏好高性能后端的开发者；\n3. 高星标与高周增速说明市场对「低成本 agent 运行时」存在真实需求。\n\n## 适用场景与注意事项\n适合需要批量运行 agent、对成本敏感、或希望自托管 agent 基础设施的开发者。但需注意：摘要未披露具体架构、支持的模型接口、并发模型与稳定性数据，实际性能是否达到「500 agents on $10 VPS」的宣传口径，仍需结合仓库文档与实测验证。\n\n## 综合判断\n这是一个定位清晰、增长迅猛的 Rust agent 基础设施项目，在成本效率这一维度上具备差异化竞争力，值得关注和进一步评估。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "开源框架",
+    "agent harness",
+    "高并发",
+    "低成本部署",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:39+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "tinyhumansai",
+    "stars": 41910,
+    "forks": 4122,
+    "daily_stars": null,
+    "weekly_stars": 1293,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

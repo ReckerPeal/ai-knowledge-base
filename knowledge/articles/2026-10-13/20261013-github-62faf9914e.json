@@ -1,0 +1,32 @@
+{
+  "id": "20261013-github-62faf9914e",
+  "title": "danyuchn/asd-ste100-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/danyuchn/asd-ste100-skill",
+  "summary": "该项目将 ASD-STE100 简化技术英语规则改造为 Claude Code 技能，用于重写面向智能体的模糊英文指令，提升人机交互的清晰度。",
+  "content": "danyuchn/asd-ste100-skill 是一个基于 Python 的 GitHub 热门项目，其核心思路是将航空领域广泛使用的 ASD-STE100（简化技术英语）标准规则，重新包装为 Claude Code 可调用的技能（skill）。ASD-STE100 原本用于规范航空技术文档，强调用词受控、句式简短、语义无歧义。该项目把这一规则集引入 AI 智能体场景，专门用于改写面向 agent 的英文提示或指令，减少模糊表达，让模型更容易准确理解任务意图。仓库当前获得约 4691 颗星、270 次 fork，周增星约 936，热度较高，反映出社区对提示工程规范化和智能体指令可靠性的关注。",
+  "tags": [
+    "ASD-STE100",
+    "Claude Code",
+    "提示工程",
+    "智能体指令",
+    "简化技术英语",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:34+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "danyuchn",
+    "stars": 4691,
+    "forks": 270,
+    "daily_stars": null,
+    "weekly_stars": 936,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261013-github-fd4fe43949",
+  "title": "lharries/whatsapp-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/lharries/whatsapp-mcp",
+  "summary": "lharries/whatsapp-mcp 是一个基于 Go 语言实现的 WhatsApp MCP 服务器，旨在通过 Model Context Protocol 将 WhatsApp 消息能力接入 AI 模型与智能体生态。项目在 GitHub 上获得约 6.5k stars，热度较高，属于 AI 工具链与消息平台集成方向的热门开源项目。",
+  "content": "该仓库标题为 lharries/whatsapp-mcp，来源为 GitHub Trending，主要语言为 Go。根据摘要信息，其核心定位是“WhatsApp MCP server”，即面向 WhatsApp 的 Model Context Protocol 服务端实现。MCP（Model Context Protocol）是当前 AI 应用生态中用于连接大模型与外部工具/数据源的重要协议，因此该项目的主要价值在于：让 AI 助手或智能体能够以标准化方式读取、发送或管理 WhatsApp 消息，从而扩展 AI 在即时通讯场景中的自动化与交互能力。\n\n从仓库数据看，项目已获得 6556 stars、1393 forks，日增约 24 stars，说明其在开发者社区中具有较高关注度和一定的实际使用基础。Go 语言的选择通常意味着较好的并发性能、部署便利性和较低的资源占用，适合作为长期运行的服务端组件。\n\n适用场景可能包括：个人 AI 助手接入 WhatsApp、客服自动化、消息通知与工作流集成、基于聊天记录的个人知识库构建等。需要注意的是，由于摘要未提供详细功能列表、许可证、安装方式与安全说明，实际使用前应进一步查看仓库 README、依赖项以及 WhatsApp 官方接口合规性要求。",
+  "tags": [
+    "WhatsApp",
+    "MCP",
+    "Go",
+    "AI Agent",
+    "消息集成",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:31+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "lharries",
+    "stars": 6556,
+    "forks": 1393,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

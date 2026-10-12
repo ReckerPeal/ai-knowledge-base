@@ -1,0 +1,32 @@
+{
+  "id": "20261013-github-f33d1256ee",
+  "title": "1jehuang/jcode",
+  "source": "github_trending",
+  "source_url": "https://github.com/1jehuang/jcode",
+  "summary": "jcode 是一个用 Rust 编写的高性能编码智能体（coding agent）运行框架，在 GitHub 上获得超过 2 万星标，日增约 160 星，属于当前热门的 AI 编码工具基础设施项目。",
+  "content": "该仓库由作者 1jehuang 发布，定位为「高性能编码智能体运行框架」（High performance coding agent harness），使用 Rust 语言实现。其核心价值在于为 AI 编码代理提供高效、低开销的执行与编排环境，适合需要高吞吐、低延迟的代码生成与自动化任务场景。\n\n从数据看，项目已积累 20592 个星标和 2398 个 fork，日增星标约 160，说明社区关注度较高且增长势头良好，属于 GitHub 热点中的 Rust 类项目。Rust 的选用使其在性能、内存安全和并发处理方面具备天然优势，契合「高性能」的定位。\n\n当前摘要信息较为精简，未提供具体功能模块、架构设计或使用文档细节。建议后续关注其 README、示例代码与 issue 讨论，以评估其与现有编码智能体框架（如基于 Python/TypeScript 的方案）的差异化能力及生产可用性。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "编码智能体",
+    "高性能",
+    "GitHub 热点",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:29+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "1jehuang",
+    "stars": 20592,
+    "forks": 2398,
+    "daily_stars": 160,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

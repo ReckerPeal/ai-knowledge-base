@@ -1,0 +1,33 @@
+{
+  "id": "20261013-github-5bdd694c62",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "summary": "NVIDIA 在 Hugging Face 博客发布文章，介绍通过对 Nemotron 模型家族进行微调，在 IOI（国际信息学奥林匹克竞赛）和 IMO（国际数学奥林匹克竞赛）两项赛事中均取得金牌级成绩，展示了单一模型家族在编程与数学推理两大高难度领域的通用能力。",
+  "content": "该文章来自 NVIDIA 官方博客，核心内容围绕 Nemotron 模型家族的微调实践展开。作者指出，通过针对性的微调策略，同一模型家族在 IOI 和 IMO 两个截然不同的高难度推理任务上均达到了金牌水平。文章可能涉及以下方面：1）Nemotron 模型家族的基础架构与预训练背景；2）面向竞赛级编程（IOI）和数学证明（IMO）的微调数据构建、训练方法及奖励设计；3）两项任务在推理模式上的差异与模型如何统一处理；4）评测结果与金牌级表现的详细对比；5）对通用推理模型发展的启示。该成果表明，经过精心微调的大模型可以在需要深度逻辑推理的领域达到人类顶尖选手水平，对 AI 推理能力研究具有重要参考价值。",
+  "tags": [
+    "NVIDIA",
+    "Nemotron",
+    "模型微调",
+    "IOI",
+    "IMO",
+    "竞赛级推理",
+    "大语言模型",
+    "数学推理",
+    "代码生成"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-07T12:45:31+00:00",
+  "collected_at": "2026-10-13T05:54:42+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

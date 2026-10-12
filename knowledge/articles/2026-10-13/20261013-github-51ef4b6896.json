@@ -1,0 +1,34 @@
+{
+  "id": "20261013-github-51ef4b6896",
+  "title": "microsoft/litebox",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/litebox",
+  "summary": "微软开源的 LiteBox 是一个以安全为核心的库操作系统，支持内核态和用户态执行，使用 Rust 语言开发，目前在 GitHub 上获得 3123 颗星。",
+  "content": "LiteBox 是微软推出的安全导向型库操作系统（Library OS），其核心设计目标是在提供操作系统功能的同时，通过最小化攻击面和强化隔离机制来提升安全性。它支持两种执行模式：内核态（kernel-mode）和用户态（user-mode），使其能够灵活适应不同的部署场景，例如在虚拟机监控程序之上、作为独立内核组件或嵌入到现有用户进程中运行。项目采用 Rust 语言编写，利用 Rust 的内存安全特性来减少常见漏洞（如缓冲区溢出、释放后使用等）。作为库操作系统，LiteBox 将传统操作系统的服务以库的形式链接到应用程序中，从而减少系统调用开销并增强隔离性。该仓库由微软维护，当前拥有 3123 个 star 和 164 个 fork，日增约 54 个 star，显示出社区较高的关注度。LiteBox 可能适用于安全敏感的环境，如云基础设施、机密计算、嵌入式系统以及需要强隔离的多租户场景。其开源性质有助于推动库操作系统和 Rust 系统编程的生态发展。",
+  "tags": [
+    "库操作系统",
+    "Rust",
+    "安全",
+    "微软",
+    "内核态",
+    "用户态",
+    "系统编程",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 3123,
+    "forks": 164,
+    "daily_stars": 54,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

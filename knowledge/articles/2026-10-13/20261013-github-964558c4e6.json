@@ -1,0 +1,35 @@
+{
+  "id": "20261013-github-964558c4e6",
+  "title": "Armur-Ai/Pentest-Swarm-AI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+  "summary": "Pentest-Swarm-AI 是一个基于 Go 语言构建的自主渗透测试框架，利用 AI 智能体集群（swarm）协同完成侦察、分类、利用和报告等任务，采用 ReAct 推理模式，支持漏洞赏金、持续监控和 CTF 模式，并集成了 7 种以上原生安全工具。",
+  "content": "该项目由 Armur-Ai 开发，在 GitHub 上获得 2858 颗星和 528 次 fork，日增星约 49，属于 GitHub 热点 Go 语言项目。其核心创新在于将多智能体系统（Multi-Agent System）与渗透测试流程结合：通过编排多个专职 AI 智能体（分别负责信息收集、漏洞分类、漏洞利用、报告生成等），并借助 ReAct（Reasoning + Acting）推理框架实现自主决策与任务执行。项目使用 Go 语言编写，强调高性能与并发能力，并原生集成了 7 种以上安全工具（如扫描器、利用框架等），以增强实战能力。应用场景覆盖漏洞赏金（bug bounty）、持续安全监控以及 CTF 竞赛模式，旨在降低渗透测试中的人工干预，提升自动化与智能化水平。",
+  "tags": [
+    "AI Agent",
+    "渗透测试",
+    "Go",
+    "网络安全",
+    "多智能体",
+    "ReAct",
+    "自动化",
+    "漏洞赏金",
+    "CTF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:31+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "Armur-Ai",
+    "stars": 2858,
+    "forks": 528,
+    "daily_stars": 49,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

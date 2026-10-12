@@ -1,0 +1,34 @@
+{
+  "id": "20261013-github-b32771b7cb",
+  "title": "mvschwarz/openrig",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvschwarz/openrig",
+  "summary": "openrig 是一个用 TypeScript 构建的开源项目，旨在让开发者基于 Claude Code、Codex 和 Pi 等 AI 代理搭建持久化的多代理协作网络，支持角色分工、共享上下文和任务归属。项目在 GitHub 上热度较高，已获得约 7224 颗星标，周增星约 2028，属于近期 TypeScript 热点项目。",
+  "content": "## 项目概览\n\nmvschwarz/openrig 是一个面向多代理（multi-agent）协作的开源框架，核心目标是让开发者能够像组建团队一样，把来自 Claude Code、Codex、Pi 等不同来源的 AI 代理组织成一个持久化的代理网络。\n\n## 核心特性\n\n1. **持久化团队**：代理不是一次性会话，而是可以长期存在的团队成员，具备稳定的身份和职责。\n2. **角色分工**：每个代理可以分配特定角色，模拟真实团队中的职能划分，便于任务分派与协作。\n3. **共享上下文**：代理之间可以共享对话历史、任务状态和知识，减少重复沟通与信息孤岛。\n4. **任务归属**：每项工作都有明确的负责代理，便于追踪进度、划分责任和协调冲突。\n5. **多源代理接入**：支持 Claude Code、Codex、Pi 等不同代理后端，具备一定的异构集成能力。\n\n## 技术栈与生态\n\n项目使用 TypeScript 开发，适合在 Node.js/前端生态中集成。其设计思路与当前 AI Agent 编排（orchestration）趋势一致，强调多代理协作而非单代理对话。\n\n## 社区热度\n\n- GitHub 星标：约 7,224\n- Fork 数：约 547\n- 周增星标：约 2,028\n\n从周增星标来看，项目处于快速增长阶段，属于 GitHub Trending 中的 TypeScript 热点项目，受到较多开发者关注。\n\n## 适用场景\n\n- 需要多个 AI 代理协同完成复杂任务的开发团队\n- 希望构建自定义代理团队编排系统的研究者或工程师\n- 对 Claude Code、Codex 等代理进行统一管理和调度的场景\n\n## 潜在关注点\n\n项目摘要未提供许可证、文档完整度、生产可用性等细节，实际采用前建议进一步查看仓库 README、Issue 和发布记录，评估其成熟度与维护活跃度。",
+  "tags": [
+    "AI Agent",
+    "多代理协作",
+    "TypeScript",
+    "Claude Code",
+    "Codex",
+    "代理编排",
+    "开源项目",
+    "GitHub Trending"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-13T05:54:37+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "mvschwarz",
+    "stars": 7224,
+    "forks": 547,
+    "daily_stars": null,
+    "weekly_stars": 2028,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
