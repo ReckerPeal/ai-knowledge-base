@@ -1,0 +1,33 @@
+{
+  "id": "20261015-github-4f6edf009b",
+  "title": "tauri-apps/tauri",
+  "source": "github_trending",
+  "source_url": "https://github.com/tauri-apps/tauri",
+  "summary": "Tauri 是一个使用 Rust 构建的框架，允许开发者利用 Web 前端技术（HTML、CSS、JavaScript）创建体积更小、速度更快、更安全的桌面和移动应用程序。该仓库在 GitHub 上拥有超过 11 万星标，是 Rust 生态中备受关注的热点项目。",
+  "content": "Tauri 由 tauri-apps 组织维护，核心使用 Rust 编写，旨在为 Web 开发者提供一种构建跨平台桌面与移动应用的轻量级替代方案。与 Electron 等传统方案相比，Tauri 通过复用系统自带的 WebView 而非打包完整的浏览器内核，显著减小了应用体积并降低了内存占用。同时，其 Rust 后端提供了更强的安全性和性能表现。该仓库当前星标数约 111,893，Fork 数约 4,080，日增星标约 64，属于 GitHub 热点中的 Rust 类别。Tauri 支持 Windows、macOS、Linux 等桌面平台，并已扩展至 iOS 和 Android 移动端，适合希望以 Web 技术栈开发高性能原生应用的团队和个人。",
+  "tags": [
+    "Tauri",
+    "Rust",
+    "桌面应用",
+    "移动应用",
+    "Web前端",
+    "跨平台",
+    "框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:02+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "tauri-apps",
+    "stars": 111893,
+    "forks": 4080,
+    "daily_stars": 64,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

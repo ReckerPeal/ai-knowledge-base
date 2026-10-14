@@ -1,0 +1,32 @@
+{
+  "id": "20261015-github-1f785e46a4",
+  "title": "microsoft/mxc",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/mxc",
+  "summary": "微软开源的 mxc 项目，采用 Rust 语言开发，专注于策略驱动的分层隔离与遏制技术，在 GitHub 上获得 2795 星标，周增 1368 星，热度较高。",
+  "content": "mxc 是微软推出的一个安全隔离与遏制项目，其核心理念是“策略驱动的分层隔离与遏制”。该项目使用 Rust 语言编写，旨在通过策略定义实现多层次的隔离机制，从而有效限制潜在威胁的扩散。仓库当前获得 2795 个星标和 148 个复刻，周新增星标 1368 个，显示出社区的高度关注。作为微软在安全领域的新探索，mxc 可能涉及沙箱、容器安全或系统级隔离技术，适合对安全隔离、策略引擎和 Rust 系统编程感兴趣的开发者关注。",
+  "tags": [
+    "安全隔离",
+    "策略驱动",
+    "Rust",
+    "微软",
+    "系统安全",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:12+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 2795,
+    "forks": 148,
+    "daily_stars": null,
+    "weekly_stars": 1368,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

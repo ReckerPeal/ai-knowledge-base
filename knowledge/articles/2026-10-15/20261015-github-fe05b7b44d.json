@@ -1,0 +1,33 @@
+{
+  "id": "20261015-github-fe05b7b44d",
+  "title": "sgl-project/sglang",
+  "source": "github_trending",
+  "source_url": "https://github.com/sgl-project/sglang",
+  "summary": "SGLang 是一个面向大语言模型和多模态模型的高性能服务框架，由 sgl-project 维护，使用 Python 编写，在 GitHub 上拥有约 3.7 万星标，属于热门 AI 基础设施项目。",
+  "content": "SGLang 是一个专注于大语言模型（LLM）与多模态模型的高性能服务（serving）框架。其核心目标是在推理服务阶段提供高吞吐、低延迟的模型部署能力，适用于需要大规模并发推理的生产环境。\n\n从项目定位来看，SGLang 属于 AI 推理基础设施层，与 vLLM、TensorRT-LLM 等推理引擎处于同一赛道，主要解决模型服务化过程中的性能瓶颈问题。该仓库使用 Python 作为主要开发语言，便于与主流深度学习生态（如 PyTorch、Hugging Face Transformers）集成。\n\n在社区热度方面，该项目当前获得约 37,136 个 Star 和 9,555 个 Fork，日增 Star 约 52 个，表明其在开发者社区中保持持续关注度，属于 GitHub Python 分类下的热点项目。较高的 Fork 数量也反映出社区参与和二次开发活跃。\n\n适用场景包括：大模型 API 服务部署、多模态模型推理服务、高并发在线推理系统，以及需要优化推理吞吐与显存效率的研究与工程场景。对于从事 LLM 应用开发、推理优化或 MLOps 的团队，SGLang 是一个值得关注和评估的候选框架。",
+  "tags": [
+    "LLM",
+    "推理框架",
+    "模型服务",
+    "多模态",
+    "Python",
+    "高性能计算",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:12:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "sgl-project",
+    "stars": 37136,
+    "forks": 9555,
+    "daily_stars": 52,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

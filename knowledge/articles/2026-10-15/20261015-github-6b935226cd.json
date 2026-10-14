@@ -1,0 +1,32 @@
+{
+  "id": "20261015-github-6b935226cd",
+  "title": "go-chi/chi",
+  "source": "github_trending",
+  "source_url": "https://github.com/go-chi/chi",
+  "summary": "go-chi/chi 是一个轻量级、符合 Go 语言习惯且可组合的 HTTP 路由库，用于构建 Go HTTP 服务。它拥有 22,950 个 Star 和 3,731 个 Fork，是 Go 生态中广受欢迎的路由解决方案。",
+  "content": "go-chi/chi 是一个专为 Go 语言设计的轻量级 HTTP 路由库，强调符合 Go 语言习惯（idiomatic）和可组合性（composable）。它基于标准库 net/http 构建，提供简洁的 API 和强大的路由功能，包括 URL 参数、路由分组、中间件支持等。该项目在 GitHub 上拥有 22,950 个 Star 和 3,731 个 Fork，每日新增约 5 个 Star，显示出稳定的社区关注度。chi 的设计哲学是保持核心精简，同时通过中间件和子路由实现灵活扩展，适合构建从简单 API 到复杂微服务的各类 HTTP 应用。其语言为 Go，分类属于 GitHub 热点中的 Go 语言项目。",
+  "tags": [
+    "Go",
+    "HTTP路由",
+    "Web框架",
+    "轻量级",
+    "中间件",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:05+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "go-chi",
+    "stars": 22950,
+    "forks": 3731,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

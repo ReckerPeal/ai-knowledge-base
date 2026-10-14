@@ -1,0 +1,32 @@
+{
+  "id": "20261015-github-3115c6f7bb",
+  "title": "vllm-project/semantic-router",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/semantic-router",
+  "summary": "vllm-project/semantic-router 是 vLLM 项目推出的开源可编程决策层，用于在模型与算力之间进行智能路由，使用 Go 语言实现，当前获得约 6160 颗星标，属于 GitHub Go 语言热点项目。",
+  "content": "该仓库定位为「面向模型与算力的开放、可编程决策层」，核心目标是在推理服务场景中，根据语义或策略动态决定请求应路由到哪个模型、哪类算力资源，从而提升资源利用率与响应质量。项目由 vllm-project 组织维护，与 vLLM 生态紧密相关，采用 Go 语言开发，具备较好的并发与部署性能。当前星标数约 6160，fork 数约 1046，日增星标约 24，说明项目处于持续受关注状态。作为决策层组件，它可能涉及路由策略配置、模型选择、负载均衡、成本与延迟权衡等能力，适合需要多模型、多后端统一调度的 AI 基础设施团队关注。",
+  "tags": [
+    "vLLM",
+    "语义路由",
+    "模型调度",
+    "推理基础设施",
+    "Go",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:05+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 6160,
+    "forks": 1046,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

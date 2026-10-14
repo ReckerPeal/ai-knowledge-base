@@ -1,0 +1,34 @@
+{
+  "id": "20261015-github-0da2743b16",
+  "title": "evanw/esbuild",
+  "source": "github_trending",
+  "source_url": "https://github.com/evanw/esbuild",
+  "summary": "esbuild 是一个用 Go 编写的极速 Web 打包工具，以远超传统 JavaScript 打包器的性能著称，在 GitHub 上拥有超过 4 万星标，是前端构建领域的重要基础设施。",
+  "content": "esbuild 由 evanw 开发，核心定位是「极快的 Web 打包器」。它使用 Go 语言实现，充分利用 Go 的并发模型和原生编译性能，在打包速度上相比 Webpack、Rollup 等基于 JavaScript 的工具提升数十倍。esbuild 支持 JavaScript、TypeScript、JSX、CSS 等格式，提供打包、压缩、代码分割、Tree Shaking 等能力，并可作为 CLI 或 API 集成到其他工具链中。其设计强调零依赖、单二进制分发和增量构建效率，已被 Vite、Snowpack 等现代前端工具采用为底层依赖。该仓库当前约 40,081 星标、1,357 分支，日增约 6 星，属于 GitHub Go 语言热点项目，适合关注前端工程化、构建性能优化和 Go 语言应用的开发者。",
+  "tags": [
+    "esbuild",
+    "打包工具",
+    "Go",
+    "前端构建",
+    "性能优化",
+    "JavaScript",
+    "TypeScript",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:05+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "evanw",
+    "stars": 40081,
+    "forks": 1357,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

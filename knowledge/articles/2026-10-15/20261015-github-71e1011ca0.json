@@ -1,0 +1,33 @@
+{
+  "id": "20261015-github-71e1011ca0",
+  "title": "ranxianglei/billion-context",
+  "source": "github_trending",
+  "source_url": "https://github.com/ranxianglei/billion-context",
+  "summary": "billion-context 是一个面向小上下文窗口的上下文压缩插件，旨在用 100K 上下文实现 5 倍 token 节省，并支持数月级别、数十亿 token 的超长单会话。",
+  "content": "该项目由 ranxianglei 开发，使用 TypeScript 编写，在 GitHub 上已获得约 1253 个 star 和 108 个 fork，周增约 572 star，属于近期 TypeScript 热点项目。其核心定位是上下文压缩插件，主要解决大模型应用中上下文窗口有限和 token 消耗高的问题：一方面让 100K 上下文窗口足够使用，另一方面通过压缩实现约 5 倍的 token 节省，并支持持续数月、累计数十亿 token 的单次会话。项目口号为“billion-context is all you need”，强调在长会话场景下的实用价值。适合需要长记忆、低 token 成本的 AI 应用开发者关注。",
+  "tags": [
+    "上下文压缩",
+    "Token节省",
+    "长会话",
+    "TypeScript",
+    "LLM",
+    "插件",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:10+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "ranxianglei",
+    "stars": 1253,
+    "forks": 108,
+    "daily_stars": null,
+    "weekly_stars": 572,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

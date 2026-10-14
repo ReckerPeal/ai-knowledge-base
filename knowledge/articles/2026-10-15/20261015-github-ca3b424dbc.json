@@ -1,0 +1,33 @@
+{
+  "id": "20261015-github-ca3b424dbc",
+  "title": "vuejs/core",
+  "source": "github_trending",
+  "source_url": "https://github.com/vuejs/core",
+  "summary": "Vue.js 核心仓库，一个渐进式、可增量采用的 JavaScript 框架，用于构建 Web 用户界面，使用 TypeScript 编写，拥有超过 5.4 万星标。",
+  "content": "Vue.js 是由尤雨溪（Evan You）创建的开源前端框架，其核心仓库 vuejs/core 托管在 GitHub 上。该框架以“渐进式”为核心理念，允许开发者根据项目需求逐步引入其功能，既可以作为轻量级视图层库使用，也可以配合官方路由、状态管理等工具构建大型单页应用。Vue 3 采用 TypeScript 重写，引入了组合式 API、更好的性能、更小的包体积以及更完善的类型支持。该仓库当前拥有约 54,617 个星标和 9,253 个复刻，日增约 76 星，显示出持续活跃的社区关注度。作为现代前端三大框架之一，Vue 在企业级应用、中小型项目以及快速原型开发中均有广泛应用。",
+  "tags": [
+    "Vue.js",
+    "前端框架",
+    "TypeScript",
+    "JavaScript",
+    "渐进式框架",
+    "UI 开发",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:00+08:00",
+  "language": "TypeScript",
+  "score": 9.5,
+  "metadata": {
+    "author": "vuejs",
+    "stars": 54617,
+    "forks": 9253,
+    "daily_stars": 76,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

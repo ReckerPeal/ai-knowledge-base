@@ -1,0 +1,35 @@
+{
+  "id": "20261015-github-e8989b9c37",
+  "title": "maximhq/bifrost",
+  "source": "github_trending",
+  "source_url": "https://github.com/maximhq/bifrost",
+  "summary": "maximhq/bifrost 是一个开源高性能 AI 网关，统一提供 LLM 网关、MCP 网关和 Agent 网关能力，通过单一 OpenAI 兼容 API 接入 10000+ 模型，并支持故障转移、负载均衡、语义缓存、虚拟密钥、预算控制与 MCP Code Mode，在 5k RPS 下额外开销低于 200µs。",
+  "content": "## 项目定位\n\nbifrost 是面向 AI 应用的基础设施层网关，目标是用一个统一入口解决多模型接入、流量治理与成本控制问题。它同时承担三种角色：LLM 网关、MCP 网关和 Agent 网关，适合需要对接多家模型供应商、又不想在业务代码中反复适配不同 SDK 的团队。\n\n## 核心能力\n\n- **统一 API**：提供 OpenAI 兼容接口，可访问 10000+ 模型，现有基于 OpenAI SDK 的应用基本可以零改造迁移。\n- **高可用与流量治理**：内置故障转移（failover）和负载均衡，可在某个供应商或模型不可用时自动切换。\n- **性能表现**：官方摘要称在 5k RPS 下额外开销低于 200µs，说明其设计重点在于低延迟代理，而非重量级编排。\n- **成本与权限控制**：支持虚拟密钥（virtual keys）和预算（budgets），便于多租户、多团队场景下的配额与费用管理。\n- **语义缓存**：通过语义缓存减少重复请求对上游模型的调用，降低延迟与成本。\n- **MCP Code Mode**：面向 MCP（Model Context Protocol）生态提供网关能力，并支持 Code Mode，便于 Agent 调用工具与上下文。\n\n## 技术特征\n\n项目使用 Go 语言实现，符合高性能网关对并发与低延迟的要求。仓库当前约 8798 stars、1394 forks，日增约 41 stars，属于 GitHub Go 分类下的热点项目，社区关注度较高。\n\n## 适用场景\n\n- 多模型供应商统一接入与切换\n- 企业内部 LLM 网关与配额管理\n- Agent 与 MCP 工具调用的统一出口\n- 需要语义缓存和预算控制的生产级 AI 应用\n\n## 注意事项\n\n摘要未提供发布时间与详细基准测试方法，实际性能与功能覆盖需结合仓库文档和自测验证。",
+  "tags": [
+    "AI网关",
+    "LLM网关",
+    "MCP",
+    "Agent",
+    "Go",
+    "负载均衡",
+    "语义缓存",
+    "OpenAI兼容",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:13:05+08:00",
+  "language": "Go",
+  "score": 8.6,
+  "metadata": {
+    "author": "maximhq",
+    "stars": 8798,
+    "forks": 1394,
+    "daily_stars": 41,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

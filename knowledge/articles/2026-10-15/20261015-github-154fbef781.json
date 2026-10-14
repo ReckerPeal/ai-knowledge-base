@@ -1,0 +1,32 @@
+{
+  "id": "20261015-github-154fbef781",
+  "title": "p-e-w/heretic",
+  "source": "github_trending",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "summary": "p-e-w/heretic 是一个用 Python 编写的工具，旨在全自动移除语言模型中的审查机制，让模型能够自由生成内容。该项目在 GitHub 上热度极高，已获得超过 3.5 万星标，日增星标约 208，周增约 1494，显示出社区对模型去审查技术的强烈关注。",
+  "content": "该仓库名为 heretic，由作者 p-e-w 开发，主要功能是“全自动移除语言模型中的审查”。它可能通过修改模型权重、推理时干预或提示工程等方式，绕过模型内置的安全过滤和内容限制，使模型能够响应原本被禁止的请求。项目使用 Python 语言，便于集成到常见的深度学习框架中。当前星标数达 35245，fork 数 3987，日增星标 208，周增星标 1494，表明其近期在 GitHub 趋势中表现突出，可能引发了关于 AI 伦理、模型安全与开源自由的讨论。由于摘要未提供更多技术细节，其具体实现方法（如是否针对特定模型、是否支持主流 LLM）尚不明确，但高热度暗示了实用性和社区需求。",
+  "tags": [
+    "语言模型",
+    "去审查",
+    "Python",
+    "AI安全",
+    "开源工具",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-15T02:12:57+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "p-e-w",
+    "stars": 35245,
+    "forks": 3987,
+    "daily_stars": 208,
+    "weekly_stars": 1494,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
