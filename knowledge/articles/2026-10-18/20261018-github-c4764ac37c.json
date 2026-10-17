@@ -1,0 +1,33 @@
+{
+  "id": "20261018-github-c4764ac37c",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "mksglu/context-mode 是一个面向 AI 编程代理的上下文窗口优化项目，通过沙箱化工具输出（减少 98%）、持久化会话记忆，并借助 MCP 与 hooks 在 17 个平台上实施路由，以提升代理的上下文利用效率。",
+  "content": "该项目聚焦于解决 AI 编程代理在长会话中上下文窗口被工具输出挤占的核心痛点。其核心能力包括：1）沙箱化工具输出，将原始工具结果压缩约 98%，显著降低上下文占用；2）持久化会话记忆，使代理在跨轮次交互中保留关键信息；3）通过 MCP（Model Context Protocol）与 hooks 机制，在 17 个平台上统一实施路由策略。项目使用 TypeScript 实现，在 GitHub 上获得约 3 万星标，周增约 4200 星，属于近期 TypeScript 热点项目，适合需要构建或优化 AI 编程代理的开发者参考。",
+  "tags": [
+    "AI 编程代理",
+    "上下文窗口优化",
+    "MCP",
+    "TypeScript",
+    "会话记忆",
+    "工具输出沙箱",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:54+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "mksglu",
+    "stars": 30461,
+    "forks": 2184,
+    "daily_stars": null,
+    "weekly_stars": 4207,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

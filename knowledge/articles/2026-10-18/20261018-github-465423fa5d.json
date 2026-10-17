@@ -1,0 +1,32 @@
+{
+  "id": "20261018-github-465423fa5d",
+  "title": "remotion-dev/remotion",
+  "source": "github_trending",
+  "source_url": "https://github.com/remotion-dev/remotion",
+  "summary": "Remotion 是一个用 React 以编程方式制作视频的开源框架，使用 TypeScript 编写，在 GitHub 上拥有约 6.5 万星标，近期周增星约 1869，属于热门 TypeScript 项目。",
+  "content": "Remotion 的核心思路是把视频当作 React 组件来编写：开发者可以用熟悉的 JSX、CSS、状态管理和组件复用能力来定义动画与画面，再通过渲染器输出为视频文件。它适合需要批量生成、数据驱动或高度定制化视频的场景，例如营销素材自动化、社交媒体内容生成、动态图表视频等。项目采用 TypeScript 开发，类型支持完善，生态中包含预览、渲染和参数化模板等能力。从仓库数据看，64,724 星标与 5,126 次 fork 表明其社区关注度较高，近一周新增约 1,869 星，说明项目仍处于活跃增长阶段。对于前端团队而言，Remotion 降低了视频制作的门槛，把视频生产纳入前端工程化流程；但视频渲染对计算资源有一定要求，复杂项目需要关注渲染性能与成本。",
+  "tags": [
+    "React",
+    "TypeScript",
+    "视频生成",
+    "程序化视频",
+    "前端工程化",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:54+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "remotion-dev",
+    "stars": 64724,
+    "forks": 5126,
+    "daily_stars": null,
+    "weekly_stars": 1869,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

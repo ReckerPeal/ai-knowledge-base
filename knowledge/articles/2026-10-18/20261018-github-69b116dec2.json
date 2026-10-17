@@ -1,0 +1,33 @@
+{
+  "id": "20261018-github-69b116dec2",
+  "title": "ygelfand/echolocal",
+  "source": "github_trending",
+  "source_url": "https://github.com/ygelfand/echolocal",
+  "summary": "该项目可将 Amazon Echo Dot 或 Echo Show 改造为完全本地化的 Home Assistant 语音卫星、媒体播放器、显示屏和蓝牙代理，无需依赖 Amazon 云服务。",
+  "content": "ygelfand/echolocal 是一个用 Go 语言开发的开源项目，旨在让 Amazon Echo 设备摆脱对 Amazon 云服务的依赖，转而作为 Home Assistant 的本地语音卫星使用。其核心功能包括：将 Echo Dot/Echo Show 变为本地语音助手终端、媒体播放器、信息显示屏以及蓝牙代理，所有数据处理均在本地完成，保障隐私与响应速度。项目当前获得 437 颗星、23 个 fork，日增约 25 星，属于 GitHub Go 语言热点项目。适合智能家居爱好者、Home Assistant 用户以及关注本地化语音方案的开发者。",
+  "tags": [
+    "Home Assistant",
+    "Amazon Echo",
+    "本地语音助手",
+    "Go",
+    "智能家居",
+    "蓝牙代理",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "ygelfand",
+    "stars": 437,
+    "forks": 23,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

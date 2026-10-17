@@ -1,0 +1,33 @@
+{
+  "id": "20261018-github-dd0608c594",
+  "title": "breferrari/obsidian-mind",
+  "source": "github_trending",
+  "source_url": "https://github.com/breferrari/obsidian-mind",
+  "summary": "obsidian-mind 是一个基于 TypeScript 开发的自组织 Obsidian 知识库方案，旨在为 AI 编程代理提供持久化记忆。项目利用 Obsidian 的本地笔记体系，让 AI 代理能够跨会话存储和检索上下文信息，从而提升编程辅助的连续性和准确性。该仓库在 GitHub 上获得 5363 颗星和 618 次 fork，周增星约 372，属于近期 TypeScript 热点项目。",
+  "content": "该项目核心思路是将 Obsidian 作为 AI 编程代理的外部记忆层。Obsidian 本身是本地优先的 Markdown 知识管理工具，obsidian-mind 在此基础上构建自组织机制，使 AI 代理能够自动写入、整理和读取笔记，形成可持久化的上下文记忆。这解决了当前 AI 编程助手在会话结束后丢失上下文、难以积累项目知识的问题。技术栈为 TypeScript，适合与主流 AI 编程工具链集成。从社区热度看，项目短期内获得较高关注，说明“AI 代理持久记忆”是开发者社区的热门需求方向。潜在应用场景包括：为 Copilot/Claude 等代理提供项目级记忆、构建个人编程知识库、实现跨会话的代码理解与任务追踪。",
+  "tags": [
+    "Obsidian",
+    "AI Agent",
+    "持久记忆",
+    "TypeScript",
+    "知识管理",
+    "编程辅助",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:54+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "breferrari",
+    "stars": 5363,
+    "forks": 618,
+    "daily_stars": null,
+    "weekly_stars": 372,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

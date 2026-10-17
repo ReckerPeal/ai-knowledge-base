@@ -1,0 +1,32 @@
+{
+  "id": "20261018-github-e83d6f01af",
+  "title": "pion/webrtc",
+  "source": "github_trending",
+  "source_url": "https://github.com/pion/webrtc",
+  "summary": "pion/webrtc 是 WebRTC API 的纯 Go 语言实现，在 GitHub 上拥有约 1.68 万星标，是 Go 生态中实现实时音视频通信的核心开源项目。",
+  "content": "该项目由 pion 组织维护，采用纯 Go 实现 WebRTC 标准 API，使 Go 开发者无需依赖 C/C++ 绑定即可构建实时音视频通信应用。仓库当前获得 16845 星标、1908 次 fork，日增星约 1 颗，属于成熟稳定的长期维护项目。其核心价值在于提供完整的 WebRTC 协议栈（包括 ICE、DTLS、SRTP、SCTP 等），支持 P2P 音视频通话、数据通道等场景，并可与浏览器及移动端互通。项目语言为 Go，适合用于服务端媒体转发、SFU/MCU 架构、物联网实时通信等方向，是 Go 技术栈中实时通信领域的重要基础设施。",
+  "tags": [
+    "Go",
+    "WebRTC",
+    "实时通信",
+    "音视频",
+    "P2P",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "pion",
+    "stars": 16845,
+    "forks": 1908,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

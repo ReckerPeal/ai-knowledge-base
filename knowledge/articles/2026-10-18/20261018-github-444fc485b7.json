@@ -1,0 +1,34 @@
+{
+  "id": "20261018-github-444fc485b7",
+  "title": "oauth2-proxy/oauth2-proxy",
+  "source": "github_trending",
+  "source_url": "https://github.com/oauth2-proxy/oauth2-proxy",
+  "summary": "oauth2-proxy 是一个用 Go 编写的反向代理，为 Web 应用提供基于 Google、Azure、OpenID Connect 等多种身份提供商的认证能力，在 GitHub 上拥有约 1.5 万星标，属于活跃的 Go 语言开源项目。",
+  "content": "oauth2-proxy 是一个反向代理认证网关，核心作用是在业务应用之前统一处理身份认证。它支持 Google、Azure AD、OpenID Connect 以及众多其他身份提供商，通过代理层完成 OAuth2/OIDC 登录流程，并将认证结果以请求头等形式传递给后端应用，从而让后端服务无需自行实现认证逻辑。项目使用 Go 语言开发，当前在 GitHub 上获得约 15207 个星标和 2238 个 fork，近一周新增约 117 个星标，表明项目仍保持一定的社区关注度。该工具适用于为内部管理后台、Kubernetes 入口、遗留 Web 应用等场景快速添加统一登录与访问控制，是云原生环境中常见的认证前置组件。",
+  "tags": [
+    "oauth2-proxy",
+    "反向代理",
+    "身份认证",
+    "OAuth2",
+    "OpenID Connect",
+    "Go",
+    "云原生",
+    "访问控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:58+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "oauth2-proxy",
+    "stars": 15207,
+    "forks": 2238,
+    "daily_stars": null,
+    "weekly_stars": 117,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

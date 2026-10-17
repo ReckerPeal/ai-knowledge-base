@@ -1,0 +1,38 @@
+{
+  "id": "20261018-github-1230527240",
+  "title": "ScrapeCreators/social-media-research-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/ScrapeCreators/social-media-research-skills",
+  "summary": "ScrapeCreators/social-media-research-skills 是一个面向社交媒体研究的 AI Agent 技能集合，支持对 TikTok、Instagram、YouTube、Reddit、X、LinkedIn 等平台进行异常爆款帖文识别、评论挖掘、竞品拆解、广告库与趋势分析，底层由 ScrapeCreators 提供数据能力，并兼容 Claude Code、Cursor、Codex、Gemini CLI 等 AI 编程工具。",
+  "content": "该仓库以 Python 实现，定位为“AI Agent 的社交媒体研究技能包”。核心能力包括：1）Outlier posts——识别表现异常突出的帖文；2）Comment mining——从评论中挖掘用户观点与需求；3）Competitor teardowns——对竞品内容与策略进行拆解；4）Ad libraries——检索与分析广告素材库；5）Trends——跨平台趋势追踪。覆盖平台包括 TikTok、Instagram、YouTube、Reddit、X、LinkedIn 等。项目通过 ScrapeCreators 获取数据，并以技能（skills）形式接入 Claude Code、Cursor、Codex、Gemini CLI 等 AI 编程/Agent 工具，使开发者可在现有 AI 工作流中直接调用社交媒体研究能力。仓库当前约 4002 stars、77 forks，日增约 140 stars，属于近期 GitHub 热点 Python 项目，适合市场研究、内容运营、竞品分析和增长团队使用。",
+  "tags": [
+    "社交媒体研究",
+    "AI Agent",
+    "数据抓取",
+    "竞品分析",
+    "趋势分析",
+    "Python",
+    "Claude Code",
+    "Cursor",
+    "TikTok",
+    "Instagram",
+    "YouTube",
+    "Reddit"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:41+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "ScrapeCreators",
+    "stars": 4002,
+    "forks": 77,
+    "daily_stars": 140,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

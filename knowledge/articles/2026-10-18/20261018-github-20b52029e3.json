@@ -1,0 +1,36 @@
+{
+  "id": "20261018-github-20b52029e3",
+  "title": "magnitudedev/magnitude",
+  "source": "github_trending",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "summary": "magnitudedev/magnitude 是一个用 Rust 编写的开源推理引擎，能够针对用户硬件自动调优内核，为每个模型寻找最快运行方式，性能比 Ollama 快 2 倍，支持 Apple Silicon、NVIDIA、AMD 及纯 CPU 环境。",
+  "content": "该仓库是一个面向本地大模型推理的开源引擎，核心卖点在于“硬件自适应内核调优”：它会根据运行设备（Apple Silicon、NVIDIA GPU、AMD GPU 或普通 CPU）自动搜索并选择最优的算子实现，从而为每个模型找到最快的执行路径。官方宣称其速度可达 Ollama 的 2 倍，同时保持跨平台兼容性。项目使用 Rust 编写，兼顾性能与内存安全，当前在 GitHub 上已获得约 7048 星、483 个 fork，日增星约 93，属于近期 Rust 生态中的热点项目。适合关注本地推理性能、跨硬件部署以及 Rust 高性能计算方向的开发者。",
+  "tags": [
+    "Rust",
+    "推理引擎",
+    "本地大模型",
+    "内核调优",
+    "硬件加速",
+    "Apple Silicon",
+    "NVIDIA",
+    "AMD",
+    "CPU",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-18T00:43:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "magnitudedev",
+    "stars": 7048,
+    "forks": 483,
+    "daily_stars": 93,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
