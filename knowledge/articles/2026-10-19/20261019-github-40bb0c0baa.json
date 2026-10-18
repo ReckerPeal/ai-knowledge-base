@@ -1,0 +1,33 @@
+{
+  "id": "20261019-github-40bb0c0baa",
+  "title": "dolthub/dolt",
+  "source": "github_trending",
+  "source_url": "https://github.com/dolthub/dolt",
+  "summary": "Dolt 是一个用 Go 语言实现的开源数据库，将 Git 的版本控制能力引入数据管理，支持数据的分支、合并、克隆和差异比较，被誉为“数据界的 Git”。",
+  "content": "Dolt 由 dolthub 开发，在 GitHub 上拥有约 2.47 万星标和 898 个 fork，近期日增约 12 星，属于 GitHub 热点 Go 项目。其核心创新是将 Git 的版本控制模型应用于结构化数据：用户可以对数据库执行 commit、branch、merge、diff、clone 等操作，像管理代码一样管理数据变更。Dolt 兼容 MySQL 协议，可作为 MySQL 的替代品使用，同时提供命令行工具和 SQL 接口。该仓库使用 Go 语言编写，适合需要数据审计、协作编辑、多版本数据实验或数据回滚场景的团队。项目定位为“Git for Data”，在数据版本控制领域具有较高关注度和实用价值。",
+  "tags": [
+    "Dolt",
+    "数据版本控制",
+    "Git for Data",
+    "Go",
+    "MySQL兼容",
+    "数据库",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T01:00:05+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "dolthub",
+    "stars": 24670,
+    "forks": 898,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

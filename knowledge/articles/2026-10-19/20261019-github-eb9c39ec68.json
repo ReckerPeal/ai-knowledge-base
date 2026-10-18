@@ -1,0 +1,32 @@
+{
+  "id": "20261019-github-eb9c39ec68",
+  "title": "starship/starship",
+  "source": "github_trending",
+  "source_url": "https://github.com/starship/starship",
+  "summary": "Starship 是一个用 Rust 编写的极简、极速且可无限定制的跨 shell 命令行提示符，支持任意 shell，在 GitHub 上拥有超过 6 万星标。",
+  "content": "Starship 是一个跨 shell 的命令行提示符工具，以 Rust 语言实现，主打极简、极速和高度可定制。它不依赖特定 shell，可运行于 Bash、Zsh、Fish、PowerShell 等多种环境，通过统一的配置文件实现提示符的个性化设置。项目在 GitHub 上获得 60326 个星标和 2710 个 fork，日增约 25 星，属于 Rust 生态中的热门项目。其核心优势在于性能优异、配置灵活，适合追求高效终端体验的开发者。",
+  "tags": [
+    "Rust",
+    "命令行提示符",
+    "Shell",
+    "开发工具",
+    "终端",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T01:00:02+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "starship",
+    "stars": 60326,
+    "forks": 2710,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

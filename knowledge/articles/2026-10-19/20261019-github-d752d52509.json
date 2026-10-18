@@ -1,0 +1,33 @@
+{
+  "id": "20261019-github-d752d52509",
+  "title": "googleworkspace/cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/googleworkspace/cli",
+  "summary": "Google Workspace 官方推出的统一命令行工具，基于 Google Discovery Service 动态构建，覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等全部 Workspace 服务，并内置 AI Agent 技能，使用 Rust 编写，在 GitHub 上获得约 3.16 万星标。",
+  "content": "该仓库是 googleworkspace/cli，定位为 Google Workspace 的一站式 CLI。其核心设计是从 Google Discovery Service 动态生成命令，因此能随官方 API 更新自动覆盖 Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等众多服务，避免手工维护各服务子命令。项目还包含 AI agent skills，使 AI 代理可直接调用该 CLI 完成 Workspace 操作，适合自动化办公、脚本化工作流和智能体集成场景。技术栈为 Rust，具备单二进制、高性能和跨平台分发的潜力。仓库热度较高：约 31,644 星标、1,990 分支，日增约 51 星，属于 GitHub 热点中的 Rust 项目。",
+  "tags": [
+    "Google Workspace",
+    "CLI",
+    "Rust",
+    "AI Agent",
+    "自动化办公",
+    "Google Discovery Service",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T01:00:02+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "googleworkspace",
+    "stars": 31644,
+    "forks": 1990,
+    "daily_stars": 51,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

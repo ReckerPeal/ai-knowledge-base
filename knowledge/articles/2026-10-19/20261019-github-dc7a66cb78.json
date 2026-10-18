@@ -1,0 +1,33 @@
+{
+  "id": "20261019-github-dc7a66cb78",
+  "title": "tashfeenahmed/freellmapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "summary": "该项目是一个 TypeScript 编写的开源 LLM API 聚合网关，将 34 家免费 LLM 提供商的 635 个模型端点统一到单个 /v1 接口下，支持自定义 OpenAI 兼容端点、智能路由、自动故障转移和密钥加密，月处理约 74 亿 token，定位为个人实验用途。",
+  "content": "freellmapi 是一个面向个人实验的 LLM API 聚合层。其核心价值在于把 34 个免费 LLM 提供商的 635 个免费模型端点收敛到同一个 /v1 端点之后，同时允许接入任意自定义的 OpenAI 兼容端点，从而让调用方只需维护一套接口即可访问大量免费模型资源。项目提供智能路由与自动故障转移，当某个提供商不可用或限流时可自动切换，并支持密钥加密存储。摘要显示其月处理量约 74 亿 token，GitHub 星标约 3.7 万、周增约 3751 星，热度较高。技术栈为 TypeScript，适合作为个人开发与实验场景下的统一模型接入层，但官方明确限定为个人实验用途，生产环境使用需自行评估各提供商的服务条款与稳定性。",
+  "tags": [
+    "LLM API 网关",
+    "TypeScript",
+    "免费模型聚合",
+    "智能路由",
+    "故障转移",
+    "OpenAI 兼容",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T01:00:10+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "tashfeenahmed",
+    "stars": 36945,
+    "forks": 4998,
+    "daily_stars": null,
+    "weekly_stars": 3751,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

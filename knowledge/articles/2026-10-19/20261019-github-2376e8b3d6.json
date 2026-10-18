@@ -1,0 +1,35 @@
+{
+  "id": "20261019-github-2376e8b3d6",
+  "title": "mozilla-ai/otari",
+  "source": "github_trending",
+  "source_url": "https://github.com/mozilla-ai/otari",
+  "summary": "mozilla-ai 推出的开源、自托管、兼容 OpenAI 接口的 LLM 网关，提供统一端点接入 40+ 模型提供商，并支持虚拟密钥、预算控制与用量追踪。",
+  "content": "该仓库为 Python 项目，定位是自托管的 OpenAI 兼容 LLM 网关。核心能力包括：通过单一端点统一接入 40 多家模型提供商，降低多模型集成的复杂度；提供虚拟密钥管理，便于为不同用户或应用分配独立凭证；支持预算控制，可限制各密钥或项目的调用开销；内置用量追踪，帮助监控与分析模型调用情况。项目由 mozilla-ai 维护，当前约 650 星、83 分支，日增约 46 星，属于 GitHub Python 热点项目。适合需要统一管理多模型访问、控制成本并追踪用量的团队与开发者。",
+  "tags": [
+    "LLM 网关",
+    "OpenAI 兼容",
+    "自托管",
+    "多模型接入",
+    "虚拟密钥",
+    "预算控制",
+    "用量追踪",
+    "Python",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T00:59:57+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "mozilla-ai",
+    "stars": 650,
+    "forks": 83,
+    "daily_stars": 46,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

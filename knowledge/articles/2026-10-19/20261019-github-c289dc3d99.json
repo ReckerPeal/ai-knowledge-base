@@ -1,0 +1,36 @@
+{
+  "id": "20261019-github-c289dc3d99",
+  "title": "ruvnet/ruflo",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "summary": "ruvnet/ruflo 是一个用 TypeScript 编写的多智能体编排框架（agent harness），支持部署多玩家智能体集群、协调自主工作流并构建对话式 AI 系统，具备自适应记忆、自学习智能、联邦协作、向量 RAG 集成，并原生兼容 Claude Code、Codex、Hermes 等多种 AI 编码代理。项目在 GitHub 上热度极高，拥有约 7.6 万星标，日增约 500 星。",
+  "content": "ruflo 定位为“原始智能体编排框架”（the original agent harness），核心目标是为多智能体系统提供统一的运行与协调层。其主要能力包括：1）多玩家集群部署：支持多个智能体以集群方式协同工作，处理复杂任务；2）自主工作流协调：可编排长链路、多步骤的自动化流程；3）对话式 AI 系统构建：提供构建交互式 AI 应用的基础设施；4）自适应记忆：智能体可根据上下文动态调整记忆内容；5）自学习智能：系统具备从交互中持续改进的能力；6）联邦机制：支持跨实例或跨组织的智能体联邦协作；7）向量 RAG 集成：内置检索增强生成能力，结合向量数据库提升知识问答效果；8）多代理原生集成：与 Claude Code、Codex、Hermes 等主流 AI 编码代理深度兼容。技术栈为 TypeScript，适合在 Node.js 生态中部署。项目由 ruvnet 维护，星标数约 76,384，复刻数约 9,027，日增星标约 502，周增约 2,063，属于 GitHub TypeScript 分类下的高热度项目。",
+  "tags": [
+    "多智能体",
+    "智能体编排",
+    "TypeScript",
+    "RAG",
+    "对话式AI",
+    "自主工作流",
+    "Claude Code",
+    "向量检索",
+    "联邦学习",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T01:00:00+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "ruvnet",
+    "stars": 76384,
+    "forks": 9027,
+    "daily_stars": 502,
+    "weekly_stars": 2063,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

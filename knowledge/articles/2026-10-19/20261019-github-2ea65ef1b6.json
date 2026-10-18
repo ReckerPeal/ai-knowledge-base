@@ -1,0 +1,33 @@
+{
+  "id": "20261019-github-2ea65ef1b6",
+  "title": "NVlabs/ASPIRE",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVlabs/ASPIRE",
+  "summary": "NVIDIA 研究团队（NVlabs）开源的 ASPIRE 项目，聚焦机器人领域的智能体技能发现（Agentic /Skills Discovery），使用 Python 实现，当前获得约 532 星标、40 次 fork，日增约 99 星，属于 GitHub Python 热点项目。",
+  "content": "ASPIRE 由 NVIDIA 官方研究组织 NVlabs 发布，标题为 'ASPIRE: Agentic /Skills Discovery for Robotics'，核心方向是面向机器人应用的智能体化技能发现。从命名与描述看，项目旨在让智能体在机器人任务中自动发现、组合与复用可执行技能，可能涉及技能库构建、任务分解、策略学习与智能体框架等能力。仓库以 Python 为主要语言，当前星标约 532、fork 约 40，单日新增约 99 星，说明近期社区关注度较高，处于快速升温阶段。由于摘要信息有限，具体实现细节（如是否基于仿真环境、是否依赖大模型进行技能规划、是否提供预训练模型或数据集）尚不明确，建议进一步查看 README、示例代码与论文链接以评估可用性。总体而言，该项目背靠 NVIDIA 研究品牌，方向契合具身智能与机器人智能体热点，具备较高的技术跟踪价值。",
+  "tags": [
+    "机器人",
+    "智能体",
+    "技能发现",
+    "具身智能",
+    "Python",
+    "NVIDIA",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-19T00:59:57+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "NVlabs",
+    "stars": 532,
+    "forks": 40,
+    "daily_stars": 99,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
