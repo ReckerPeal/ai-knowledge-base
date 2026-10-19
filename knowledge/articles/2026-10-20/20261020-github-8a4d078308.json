@@ -1,0 +1,35 @@
+{
+  "id": "20261020-github-8a4d078308",
+  "title": "smg-project/smg",
+  "source": "github_trending",
+  "source_url": "https://github.com/smg-project/smg",
+  "summary": "smg-project/smg 是一个用 Rust 编写的引擎无关 LLM 网关，兼容 OpenAI 与 Anthropic API，可对接 vLLM、TRT-LLM、TokenSpeed、SGLang、OpenAI、Gemini 等多种推理后端，并提供 gRPC 流水线、KV 缓存感知路由、对话历史、分词缓存、Responses API、嵌入、WASM 插件、MCP 及多租户鉴权等能力。",
+  "content": "该项目定位为跨引擎的 LLM 统一网关，核心价值在于用单一入口屏蔽不同推理引擎与模型服务商的 API 差异。它同时兼容 OpenAI 和 Anthropic 的接口规范，后端覆盖 vLLM、TRT-LLM、TokenSpeed、SGLang、OpenAI、Gemini 等，便于在多引擎环境中统一接入与切换。技术亮点包括：业界首创的 gRPC 流水线、基于 KV 缓存的感知路由（提升缓存命中与推理效率）、对话历史管理、分词缓存、Responses API、嵌入接口、WASM 插件扩展、MCP 支持以及多租户鉴权。项目以 Rust 实现，强调性能与并发能力，当前约 635 stars、195 forks，日增约 8 stars，属于 GitHub Rust 热点项目，适合需要统一 LLM 接入层、多后端调度与多租户管理的团队评估使用。",
+  "tags": [
+    "Rust",
+    "LLM 网关",
+    "API 兼容",
+    "gRPC",
+    "KV 缓存路由",
+    "WASM 插件",
+    "MCP",
+    "多租户",
+    "推理引擎"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:55+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "smg-project",
+    "stars": 635,
+    "forks": 195,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

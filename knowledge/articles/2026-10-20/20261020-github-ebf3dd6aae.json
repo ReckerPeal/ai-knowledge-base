@@ -1,0 +1,32 @@
+{
+  "id": "20261020-github-ebf3dd6aae",
+  "title": "vercel-labs/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/skills",
+  "summary": "vercel-labs/skills 是一个开源的智能体技能工具，通过 npx skills 命令即可快速使用，旨在为 AI 智能体提供可复用的技能模块。该项目使用 TypeScript 开发，在 GitHub 上拥有超过 3.5 万星标，近期周增星标约 1700，热度较高。",
+  "content": "该仓库由 Vercel Labs 推出，定位为“开放的智能体技能工具”，核心使用方式是通过 npx skills 命令行调用。从摘要信息看，项目以 TypeScript 实现，当前星标数约 35,661，复刻数约 3,044，周新增星标约 1,734，表明其在开发者社区中关注度较高。虽然摘要未提供具体功能细节，但“agent skills”暗示其可能提供一套标准化、可插拔的技能接口或工具集，供 AI 智能体（agent）集成使用。npx 的调用方式降低了使用门槛，便于快速体验和集成。整体来看，该项目属于 AI 智能体工具链方向，适合关注 AI Agent 开发、TypeScript 生态及开源工具趋势的开发者参考。",
+  "tags": [
+    "AI Agent",
+    "TypeScript",
+    "开源工具",
+    "npx",
+    "Vercel Labs",
+    "技能框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:33:02+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 35661,
+    "forks": 3044,
+    "daily_stars": null,
+    "weekly_stars": 1734,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

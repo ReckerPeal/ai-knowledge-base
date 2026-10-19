@@ -1,0 +1,36 @@
+{
+  "id": "20261020-github-586d93ecfa",
+  "title": "diegosouzapw/OmniRoute",
+  "source": "github_trending",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "summary": "OmniRoute 是一个采用 MIT 许可证的免费 AI 网关，提供统一端点接入 375 家服务商（其中 150+ 家免费）和 1400+ 模型（Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax 等），兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot 等主流编码工具，并具备配额感知自动回退、RTK+Caveman 压缩（节省 15%-95% token）、MCP/A2A 支持及桌面/PWA 形态。项目以 TypeScript 编写，GitHub 星标约 7.8 万、分叉约 1.1 万，日增星约 427，社区贡献者超 900 人。",
+  "content": "OmniRoute 定位为“永不中断编码”的 AI 网关，核心价值在于用一个端点聚合海量模型与服务商，降低多模型接入与切换成本。其关键特性包括：1）统一接入层，覆盖 375 家服务商、1400+ 模型，其中 150+ 家可免费使用；2）与 Claude Code、Codex、Cursor、OpenCode、Cline、Copilot 等编码代理/IDE 工具直接兼容；3）配额感知的自动回退机制，在某服务商额度耗尽或不可用时自动切换，保障编码连续性；4）RTK+Caveman 压缩技术可节省 15%-95% 的 token 消耗，直接降低调用成本；5）支持 MCP/A2A 协议，便于与 Agent 生态集成；6）提供桌面应用与 PWA 两种使用形态。项目采用 MIT 开源协议，TypeScript 实现，社区规模大（900+ 贡献者，7.8 万+ stars，日增约 427 stars），属于 GitHub 热点 TypeScript 项目。适用场景包括多模型编码助手、成本敏感型 AI 应用、需要高可用回退的 Agent 工作流，以及希望统一管理多家 API 密钥与配额的开发者。潜在关注点：聚合网关涉及多服务商密钥管理与合规使用，免费额度策略可能随上游变化；大规模模型路由的延迟与稳定性需结合具体部署评估。",
+  "tags": [
+    "AI网关",
+    "多模型路由",
+    "TypeScript",
+    "开源MIT",
+    "编码助手",
+    "MCP",
+    "A2A",
+    "token压缩",
+    "自动回退",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:53+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "diegosouzapw",
+    "stars": 78464,
+    "forks": 11403,
+    "daily_stars": 427,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261020-github-0b6937fb15",
+  "title": "xerj-org/xerj",
+  "source": "github_trending",
+  "source_url": "https://github.com/xerj-org/xerj",
+  "summary": "XERJ 是一个用 Rust 编写的 AI 数据搜索工具，通过 autoindex 能力让智能体无需消耗大量 token 即可理解数据。一条命令即可索引代码、文档、日志和 PDF，支持搜索、RAG、安全审计和智能体记忆，token 消耗比 grep 少 40 倍，且可替代 ElasticSearch，节省约 10 倍基础设施成本。",
+  "content": "XERJ 定位为面向 AI 的新型数据搜索方案，核心卖点是 autoindex 自动索引能力：智能体无需依赖 grep 这类逐行扫描工具，就能直接感知和检索用户数据，从而避免大量 token 浪费。它支持一条命令完成对代码、文档、日志和 PDF 的索引，可服务于搜索、RAG、安全审计和智能体记忆等场景。官方称其 token 消耗比 grep 低 40 倍，具备持久化能力，并可替代 ElasticSearch，帮助用户节省约 10 倍基础设施成本。项目使用 Rust 实现，在 GitHub 上已获得 10232 星、531 次 fork，日增 675 星、周增 4925 星，属于近期热度较高的 Rust 类项目。",
+  "tags": [
+    "Rust",
+    "AI 搜索",
+    "数据索引",
+    "RAG",
+    "智能体记忆",
+    "安全审计",
+    "ElasticSearch 替代",
+    "token 优化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:55+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "xerj-org",
+    "stars": 10232,
+    "forks": 531,
+    "daily_stars": 675,
+    "weekly_stars": 4925,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261020-github-c87c661524",
+  "title": "Friedrich-M/UniMate",
+  "source": "github_trending",
+  "source_url": "https://github.com/Friedrich-M/UniMate",
+  "summary": "UniMate 是 SIGGRAPH Asia 2026 收录的研究项目，提出一个统一模型，可为多种不同骨架结构生成动画，代码以 Python 实现，在 GitHub 上获得约 2010 星标，日增约 142 星，热度较高。",
+  "content": "该仓库对应论文《UniMate: One Unified Model to Animate Diverse Skeletons》，核心目标是解决骨骼动画中的跨骨架泛化问题：传统方法通常针对特定骨架拓扑训练，而 UniMate 用一个统一模型适配多种骨架，从而为不同角色（如人形、动物或非标准骨骼）生成动画。仓库语言为 Python，属于 SIGGRAPH Asia 2026 研究成果，作者为 Friedrich-M。当前元数据表明项目约有 2010 个星标、217 个 fork，日增约 142 星，说明发布后关注度快速上升。由于摘要信息有限，具体网络结构、训练数据与推理接口需进一步查看仓库文档与论文。",
+  "tags": [
+    "骨骼动画",
+    "统一模型",
+    "SIGGRAPH Asia",
+    "Python",
+    "计算机图形学",
+    "角色动画",
+    "研究项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:50+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "Friedrich-M",
+    "stars": 2010,
+    "forks": 217,
+    "daily_stars": 142,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

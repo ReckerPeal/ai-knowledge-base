@@ -1,0 +1,33 @@
+{
+  "id": "20261020-github-6ee7fa0e93",
+  "title": "lionsoul2014/ip2region",
+  "source": "github_trending",
+  "source_url": "https://github.com/lionsoul2014/ip2region",
+  "summary": "ip2region 是一个离线 IP 地址定位库与 IP 数据管理框架，支持 IPv4 和 IPv6，查询效率达 10 微秒级，并提供多种编程语言的 xdb 查询客户端。",
+  "content": "ip2region 由 lionsoul2014 开发，是一个高性能的离线 IP 地址到区域定位库，同时也是一个 IP 数据管理框架。该项目同时支持 IPv4 和 IPv6 地址，查询效率达到 10 微秒级别，适合对性能要求较高的场景。它提供了 xdb 搜索客户端，覆盖多种编程语言，方便不同技术栈的开发者集成使用。仓库使用 Go 语言编写，在 GitHub 上拥有约 1.97 万星标和 3077 个分支，近期周增星标约 87，属于 GitHub 热点中的 Go 语言项目。",
+  "tags": [
+    "IP定位",
+    "离线查询",
+    "IPv4",
+    "IPv6",
+    "Go",
+    "xdb",
+    "数据管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:33:07+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "lionsoul2014",
+    "stars": 19698,
+    "forks": 3077,
+    "daily_stars": null,
+    "weekly_stars": 87,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261020-github-ecfcda1139",
+  "title": "gofiber/fiber",
+  "source": "github_trending",
+  "source_url": "https://github.com/gofiber/fiber",
+  "summary": "gofiber/fiber 是一个受 Express 启发的 Go 语言 Web 框架，以高性能和简洁 API 为特色，在 GitHub 上拥有超过 4 万星标，是 Go 生态中流行的 Web 开发选择。",
+  "content": "gofiber/fiber 是一个用 Go 编写的 Web 框架，设计灵感来自 Node.js 的 Express 框架。它旨在提供极简的 API 和出色的性能，基于 Fasthttp 构建，适合快速开发 REST API 和 Web 应用。该仓库由 gofiber 组织维护，当前星标数约 40,223，分支数 2,055，日增星标约 4，表明项目成熟且持续受到关注。Fiber 提供了路由、中间件、静态文件服务、模板渲染等常见 Web 框架功能，并强调低内存占用和高吞吐量。其 API 风格对熟悉 Express 的开发者非常友好，降低了从 Node.js 迁移到 Go 的学习成本。作为 GitHub 热点项目，Fiber 在 Go 社区中具有较高的影响力和活跃度，适合需要高性能 HTTP 服务的场景。",
+  "tags": [
+    "Go",
+    "Web框架",
+    "Express风格",
+    "高性能",
+    "GitHub热点",
+    "后端开发"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:58+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gofiber",
+    "stars": 40223,
+    "forks": 2055,
+    "daily_stars": 4,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

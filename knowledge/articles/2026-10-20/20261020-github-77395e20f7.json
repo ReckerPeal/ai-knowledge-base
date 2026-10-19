@@ -1,0 +1,33 @@
+{
+  "id": "20261020-github-77395e20f7",
+  "title": "simulot/immich-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/simulot/immich-go",
+  "summary": "immich-go 是一个用 Go 语言编写的 immich-CLI 替代工具，无需安装 Node.js，专注于将 Google Photos Takeout 归档导入 Immich 自托管照片管理平台。该仓库在 GitHub 上获得约 7070 颗星，属于 Go 语言热点项目。",
+  "content": "immich-go 是面向 Immich 自托管照片管理系统的命令行导入工具，定位为官方 immich-CLI 的替代方案。其核心优势在于使用 Go 语言实现，不依赖 Node.js 运行环境，降低了部署门槛。项目重点解决 Google Photos Takeout 归档的导入问题，尽可能保留相册结构、时间戳等元数据。仓库当前约 7070 stars、273 forks，日增约 9 stars，表明项目仍保持一定关注度。适合希望从 Google Photos 迁移到 Immich 的用户，以及偏好轻量级 CLI 工具的自托管爱好者。",
+  "tags": [
+    "Go",
+    "Immich",
+    "Google Photos",
+    "照片管理",
+    "CLI",
+    "数据迁移",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:58+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "simulot",
+    "stars": 7070,
+    "forks": 273,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

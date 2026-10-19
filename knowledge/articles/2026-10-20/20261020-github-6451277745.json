@@ -1,0 +1,34 @@
+{
+  "id": "20261020-github-6451277745",
+  "title": "rclone/rclone",
+  "source": "github_trending",
+  "source_url": "https://github.com/rclone/rclone",
+  "summary": "rclone 是一个用 Go 语言编写的开源命令行工具，被誉为“云存储的 rsync”，支持 Google Drive、S3、Dropbox、Backblaze B2、OneDrive、Swift、Hubic、Wasabi、Google Cloud Storage、Azure Blob、Azure Files、Yandex Files 等数十种云存储服务，提供同步、复制、迁移、加密、挂载等能力。该项目在 GitHub 上拥有超过 6 万星标，是云存储管理领域最受欢迎的工具之一。",
+  "content": "rclone 的核心价值在于为异构云存储提供统一的命令行接口，使用户能够像操作本地文件系统一样管理多个云存储后端。其主要功能包括：\n\n1. **多后端支持**：覆盖主流对象存储（S3、Azure Blob、Google Cloud Storage）、个人网盘（Google Drive、OneDrive、Dropbox）、自建存储（Swift、WebDAV）以及备份服务（Backblaze B2、Wasabi）等。\n2. **同步与复制**：支持单向同步、双向同步、复制、移动、删除等操作，并可通过校验和确保数据一致性，适合备份、迁移和镜像场景。\n3. **加密与压缩**：内置 crypt 后端，可在上传前对文件进行透明加密；支持压缩传输以节省带宽。\n4. **挂载为文件系统**：通过 mount 命令将云存储挂载为本地目录（基于 FUSE），方便直接访问。\n5. **高性能传输**：支持多线程分块上传/下载、断点续传、带宽限制、传输校验等，适合大规模数据迁移。\n6. **跨平台**：可在 Linux、Windows、macOS 等平台运行，单二进制文件部署，无依赖。\n\n该项目采用 Go 语言开发，代码结构清晰，社区活跃，文档完善，是学习云存储协议和 CLI 工具设计的优秀参考。其 6 万+ 星标和 5500+ fork 表明其在开发者和运维社区中具有极高的认可度。",
+  "tags": [
+    "云存储",
+    "命令行工具",
+    "Go",
+    "数据同步",
+    "备份",
+    "开源",
+    "rsync",
+    "多云管理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-20T03:32:58+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "rclone",
+    "stars": 60408,
+    "forks": 5546,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
