@@ -1,0 +1,32 @@
+{
+  "id": "20261021-github-90001a3908",
+  "title": "ModernRelay/omnigraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/ModernRelay/omnigraph",
+  "summary": "ModernRelay/omnigraph 是一个用 Rust 编写的对象存储原生图数据库，支持分支（branching）和类型化本体（typed ontology）。该项目在 GitHub 上获得 1534 星标和 267 次 fork，日增 173 星，周增 241 星，属于 GitHub 热点 Rust 项目。",
+  "content": "该仓库标题为 ModernRelay/omnigraph，来源为 GitHub Trending，语言为 Rust。其核心定位是“对象存储原生图数据库”，意味着数据直接构建在对象存储之上，而非传统本地磁盘或块存储，这通常带来更好的可扩展性和云原生适配性。项目还提供“分支”能力，类似 Git 的分支模型，便于图数据的版本管理与实验性修改；同时支持“类型化本体”，即对图结构中的节点和边进行强类型约束与语义建模。仓库作者为 ModernRelay，当前星标数 1534，fork 数 267，日增星 173，周增星 241，显示出较高的社区关注度。由于摘要未提供详细文档或代码结构，以上分析基于标题与描述推断。",
+  "tags": [
+    "图数据库",
+    "对象存储",
+    "Rust",
+    "类型化本体",
+    "分支管理",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-21T02:10:43+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "ModernRelay",
+    "stars": 1534,
+    "forks": 267,
+    "daily_stars": 173,
+    "weekly_stars": 241,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

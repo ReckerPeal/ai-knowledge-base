@@ -1,0 +1,34 @@
+{
+  "id": "20261021-github-63f20f4d83",
+  "title": "istio/istio",
+  "source": "github_trending",
+  "source_url": "https://github.com/istio/istio",
+  "summary": "Istio 是开源服务网格平台，提供连接、安全、控制和观测微服务的能力，使用 Go 语言开发，在 GitHub 上拥有约 3.8 万星标。",
+  "content": "Istio 是一个开源服务网格（Service Mesh）项目，核心功能包括服务连接、安全通信、流量控制和可观测性。它通过 sidecar 代理拦截服务间通信，实现细粒度的流量管理（如路由、重试、超时、熔断）、mTLS 加密与身份认证、访问策略控制，以及指标、日志和分布式追踪的采集。该项目采用 Go 语言编写，在 GitHub 上获得 38458 个星标和 8402 个 fork，日增约 5 星，属于云原生领域的基础设施项目，常与 Kubernetes 配合使用。",
+  "tags": [
+    "服务网格",
+    "微服务",
+    "云原生",
+    "Go",
+    "Kubernetes",
+    "Istio",
+    "流量管理",
+    "可观测性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-21T02:10:45+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "istio",
+    "stars": 38458,
+    "forks": 8402,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

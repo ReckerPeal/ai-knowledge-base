@@ -1,0 +1,31 @@
+{
+  "id": "20261021-github-ba4e7337ab",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "summary": "该博客介绍了针对印度语言（Indic）的大规模预训练工作，构建了包含2.8万亿token的数据集，并开源了数据生成流水线，旨在推动低资源语言的大模型预训练研究。",
+  "content": "该内容来自 Hugging Face 博客，标题为《Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline》。文章聚焦于印度语言（Indic）的大规模预训练数据构建，核心贡献包括：1）构建了规模达 2.8 万亿 token 的 Indic 预训练语料；2）提出并开源了一套数据生成流水线，涵盖数据采集、清洗、去重、质量过滤等环节，以支持可复现的低资源语言预训练研究。该工作对于多语言大模型、低资源语言 NLP 以及数据工程领域具有较高参考价值，体现了社区对开放数据和可复现研究的推动。",
+  "tags": [
+    "Indic NLP",
+    "预训练数据",
+    "大规模语料",
+    "开源数据流水线",
+    "多语言模型",
+    "低资源语言",
+    "数据工程"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-16T01:44:47+00:00",
+  "collected_at": "2026-10-21T02:10:55+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

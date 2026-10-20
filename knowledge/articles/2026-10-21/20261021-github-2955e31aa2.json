@@ -1,0 +1,33 @@
+{
+  "id": "20261021-github-2955e31aa2",
+  "title": "earthtojake/text-to-cad",
+  "source": "github_trending",
+  "source_url": "https://github.com/earthtojake/text-to-cad",
+  "summary": "earthtojake/text-to-cad 是一个为 AI Agent 提供 CAD（计算机辅助设计）能力的 Python 开源项目，允许智能体通过文本指令生成或操作 CAD 模型。项目在 GitHub 上热度极高，累计获得约 2.2 万星标，近一周新增约 2100 星，属于 Python 类热点项目。",
+  "content": "该项目定位为“给 Agent 赋予 CAD 超能力”，核心思路是将文本到 CAD 的生成能力封装为 Agent 可调用的工具或接口，使大模型驱动的智能体能够理解自然语言描述并产出 CAD 相关结果。仓库语言为 Python，作者 earthtojake，当前星标 21935、复刻 2158，周新增星标 2147，增长势头强劲。由于摘要信息有限，具体实现方式（如是否基于参数化建模、调用外部 CAD 内核、或生成脚本/文件格式）尚不明确，但结合“text-to-cad”命名与 Agent 定位，可推测其面向 AI 辅助设计、自动化建模、设计流程智能化等场景。该项目适合关注 AI Agent 工具生态、生成式设计、CAD 自动化方向的开发者与研究者。",
+  "tags": [
+    "text-to-cad",
+    "AI Agent",
+    "CAD",
+    "Python",
+    "生成式设计",
+    "自动化建模",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-21T02:10:48+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "earthtojake",
+    "stars": 21935,
+    "forks": 2158,
+    "daily_stars": null,
+    "weekly_stars": 2147,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

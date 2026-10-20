@@ -1,0 +1,31 @@
+{
+  "id": "20261021-github-a5bb323208",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.18861",
+  "summary": "该仓库/论文提出 Hybrid Reasoning Agents（混合推理智能体），一种让 LLM 智能体在潜在空间中进行推理、通过文本执行动作的混合架构。项目由 togethercomputer 发布，包含 GitHub 代码库 HybridAgent、Hugging Face 模型集合以及 arXiv 论文与评测结果，在 Hacker News 上获得 512 分与 238 条评论，关注度较高。",
+  "content": "该来源围绕 Hybrid Reasoning Agents 展开，核心思想是让 LLM 智能体在潜在空间（latent space）中完成推理，而将动作输出保留在文本空间中，从而兼顾推理效率与可解释性、可执行性。资源包括：1) arXiv 论文（编号 2610.18861），含 HTML 版评测章节；2) GitHub 仓库 togethercomputer/HybridAgent，提供实现代码；3) Hugging Face 上的 hybridagent 模型/数据集集合；4) 作者 Jiaru Zou 的推文介绍；5) Hacker News 讨论帖（512 分、238 条评论），表明社区对该方向有较高兴趣。摘要本身未给出具体方法细节与指标数值，需进一步查阅论文与仓库获取实验设置、基线对比和性能数据。",
+  "tags": [
+    "LLM Agent",
+    "潜在空间推理",
+    "混合推理",
+    "智能体架构",
+    "arXiv",
+    "Hugging Face",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-18T20:48:14+00:00",
+  "collected_at": "2026-10-21T02:10:55+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
