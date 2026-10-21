@@ -1,0 +1,33 @@
+{
+  "id": "20261022-github-f81933d7eb",
+  "title": "ahujasid/mcp-for-blender",
+  "source": "github_trending",
+  "source_url": "https://github.com/ahujasid/mcp-for-blender",
+  "summary": "ahujasid/mcp-for-blender 是一个社区开发的 Blender 插件，通过 MCP（Model Context Protocol）让用户使用任意 LLM 控制 Blender 3D 软件，实现自然语言驱动的 3D 建模与操作。该项目非 Blender 官方出品，但已获得超过 3.1 万星标，周增约 1172 星，热度很高。",
+  "content": "该仓库是一个基于 Python 的社区插件，核心功能是将 Blender 3D 与任意 LLM 连接，通过 MCP 协议把自然语言指令转化为 Blender 操作。用户可以用自己选择的 LLM 来控制 Blender，降低 3D 创作门槛。项目明确声明与 Blender Foundation 无官方关联。从数据看，仓库拥有 31885 星标和 2891 分支，周增星约 1172，说明近期关注度持续上升，属于 GitHub Python 热点项目。其价值在于打通 LLM 与专业 3D 工具，适合 AI 辅助设计、自动化建模和自然语言交互场景。",
+  "tags": [
+    "Blender",
+    "LLM",
+    "MCP",
+    "3D建模",
+    "Python",
+    "AI工具",
+    "社区插件"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-22T02:17:55+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "ahujasid",
+    "stars": 31885,
+    "forks": 2891,
+    "daily_stars": null,
+    "weekly_stars": 1172,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

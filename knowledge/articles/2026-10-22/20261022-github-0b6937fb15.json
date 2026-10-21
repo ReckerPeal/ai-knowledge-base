@@ -1,0 +1,38 @@
+{
+  "id": "20261022-github-0b6937fb15",
+  "title": "xerj-org/xerj",
+  "source": "github_trending",
+  "source_url": "https://github.com/xerj-org/xerj",
+  "summary": "xerj 是一个面向 AI 智能体的本地优先搜索引擎与 MCP 服务器，以单个 Rust 二进制文件形式提供，可索引代码、文档、日志、JSONL/CSV 及 PDF，支持 BM25 全文检索、向量检索与混合检索，并提供无需 grep 的代码搜索、智能体记忆与 RAG 能力。它兼容 Elasticsearch API，并通过 Corpus Hub 提供数百个参考记忆语料库。",
+  "content": "xerj 的核心定位是为 AI 智能体提供本地优先的检索基础设施。其部署形态极简：一个 Rust 编译的二进制文件即可完成索引与查询，无需依赖外部服务。在数据覆盖面上，它支持代码、文档、日志、JSONL/CSV 结构化数据以及 PDF 等常见语料类型。检索能力包括 BM25 全文检索、向量检索和混合检索三种模式，并针对代码场景提供不依赖 grep 的语义化代码搜索。此外，项目内置智能体记忆与 RAG 支持，并通过 Corpus Hub 分发数百个参考记忆语料库。接口层面兼容 Elasticsearch API，便于已有生态工具迁移接入。从社区热度看，该仓库获得 12,710 星标、793 次 fork，日增 1,257 星、周增 8,074 星，属于近期 GitHub Rust 分类下的高热度项目。",
+  "tags": [
+    "Rust",
+    "本地优先",
+    "搜索引擎",
+    "MCP",
+    "AI 智能体",
+    "RAG",
+    "向量检索",
+    "混合检索",
+    "BM25",
+    "代码搜索",
+    "Elasticsearch 兼容",
+    "智能体记忆"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-22T02:17:50+08:00",
+  "language": "Rust",
+  "score": 8.8,
+  "metadata": {
+    "author": "xerj-org",
+    "stars": 12710,
+    "forks": 793,
+    "daily_stars": 1257,
+    "weekly_stars": 8074,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

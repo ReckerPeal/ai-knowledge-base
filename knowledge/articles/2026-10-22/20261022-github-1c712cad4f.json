@@ -1,0 +1,33 @@
+{
+  "id": "20261022-github-1c712cad4f",
+  "title": "trycua/cua",
+  "source": "github_trending",
+  "source_url": "https://github.com/trycua/cua",
+  "summary": "trycua/cua 是一个用 Rust 编写的开源项目，提供跨操作系统沙箱、开源驱动和基准测试，用于扩展计算机使用（computer-use）2.0 场景，支持训练、评估和数据生成。项目在 GitHub 上热度较高，拥有约 3 万星标和 2000+ 分支。",
+  "content": "该仓库聚焦于计算机使用智能体（computer-use agents）的基础设施建设。核心能力包括：1）开源驱动，用于连接和控制计算机环境；2）跨操作系统沙箱，提供隔离、可复现的执行环境；3）基准测试套件，服务于模型训练、评估与数据生成。项目采用 Rust 语言实现，强调性能与可靠性，适合需要大规模运行计算机操作任务的 AI 研究与工程场景。当前星标数约 30559，日增约 208 星，社区关注度较高。",
+  "tags": [
+    "Rust",
+    "computer-use",
+    "开源驱动",
+    "跨平台沙箱",
+    "基准测试",
+    "AI 智能体",
+    "数据生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-22T02:17:50+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "trycua",
+    "stars": 30559,
+    "forks": 2214,
+    "daily_stars": 208,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

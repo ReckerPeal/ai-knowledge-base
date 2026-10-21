@@ -1,0 +1,34 @@
+{
+  "id": "20261022-github-14804c8c77",
+  "title": "aldinokemal/go-whatsapp-web-multidevice",
+  "source": "github_trending",
+  "source_url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+  "summary": "GOWA 是一个基于 Golang 构建的 WhatsApp REST API 项目，支持多设备、多账号、Webhook、MCP 协议以及 Chatwoot 客服系统集成，并提供 UI 界面，主打高效内存占用。",
+  "content": "该项目以 Go 语言实现 WhatsApp Web 多设备协议封装，对外暴露 REST API，便于开发者将 WhatsApp 消息能力集成到自有系统中。核心特性包括：多账号管理、Webhook 事件推送、MCP（Model Context Protocol）支持、Chatwoot 客服平台对接，以及内置 UI 便于操作与调试。项目在 GitHub 上获得约 4936 星、1199 次 fork，社区关注度较高，适合需要低成本、高并发 WhatsApp 自动化与客服集成的场景。",
+  "tags": [
+    "Go",
+    "WhatsApp",
+    "REST API",
+    "多设备",
+    "Webhook",
+    "MCP",
+    "Chatwoot",
+    "即时通讯"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-22T02:17:52+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "aldinokemal",
+    "stars": 4936,
+    "forks": 1199,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20261022-github-ca293d8533",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/fairstress",
+  "summary": "FairStress 是 AllenAI 在 Hugging Face 博客上发布的一项研究，旨在对大型语言模型（LLM）决策过程中的公平性进行更深入的评估。该工作提出了新的评估方法或基准，用于揭示模型在不同情境下的公平性表现。",
+  "content": "该博客文章介绍了 FairStress，一个用于深入评估 LLM 决策公平性的框架。传统公平性评估往往局限于静态数据集和单一维度，而 FairStress 可能通过压力测试、多维度扰动或对抗性场景来更全面地检验模型是否存在偏见。文章可能涵盖了评估方法的设计、实验设置、主要发现以及对未来 LLM 公平性研究的启示。由于摘要信息有限，具体技术细节需参考原文。",
+  "tags": [
+    "LLM公平性",
+    "模型评估",
+    "AI伦理",
+    "偏见检测",
+    "压力测试"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-20T16:09:19+00:00",
+  "collected_at": "2026-10-22T02:18:02+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
