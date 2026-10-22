@@ -1,0 +1,32 @@
+{
+  "id": "20261023-github-9b780e5528",
+  "title": "akitaonrails/ai-memory",
+  "source": "github_trending",
+  "source_url": "https://github.com/akitaonrails/ai-memory",
+  "summary": "该项目是一个用 Rust 编写的长期记忆解决方案，旨在为 Agent 编码 CLI 提供持久化记忆能力，并支持在不同 Agent 供应商之间进行任务交接。",
+  "content": "akitaonrails/ai-memory 是一个面向 AI Agent 编码命令行工具的长期记忆系统。其核心目标是解决 Agent 在多次会话之间缺乏记忆的问题，并为不同厂商的 Agent 之间提供上下文交接能力。项目使用 Rust 语言开发，当前在 GitHub 上拥有约 1.27 万星标和 893 个复刻，周新增星标约 2833，显示出较高的社区关注度。该工具可能通过存储和检索历史交互、代码上下文等信息，帮助 Agent 在跨会话、跨供应商场景下保持连续性，从而提升编码辅助的效率和一致性。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "长期记忆",
+    "编码CLI",
+    "上下文交接",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "akitaonrails",
+    "stars": 12702,
+    "forks": 893,
+    "daily_stars": null,
+    "weekly_stars": 2833,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

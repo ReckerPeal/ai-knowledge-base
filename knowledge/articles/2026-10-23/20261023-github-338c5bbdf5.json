@@ -1,0 +1,32 @@
+{
+  "id": "20261023-github-338c5bbdf5",
+  "title": "helm/helm",
+  "source": "github_trending",
+  "source_url": "https://github.com/helm/helm",
+  "summary": "Helm 是 Kubernetes 的官方包管理器，使用 Go 语言开发，在 GitHub 上拥有超过 3 万星标，是云原生生态中部署和管理应用的核心工具。",
+  "content": "Helm 作为 Kubernetes 的包管理器，通过 Chart 机制将复杂的 K8s 资源清单打包、版本化并参数化，极大简化了应用的安装、升级和回滚流程。其核心价值在于：1) 提供可复用的应用模板，降低部署复杂度；2) 支持版本管理和依赖管理，实现可重复的发布；3) 拥有庞大的社区 Chart 仓库（如 Artifact Hub），覆盖主流中间件和数据库。该项目采用 Go 语言编写，性能优异且与 K8s 生态无缝集成。当前星标数约 3.0 万，日增 4 星、周增 34 星，增长平稳，表明其已进入成熟稳定期，是云原生从业者的必备工具。",
+  "tags": [
+    "Kubernetes",
+    "包管理器",
+    "云原生",
+    "Go",
+    "DevOps",
+    "Helm"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:10+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "helm",
+    "stars": 30358,
+    "forks": 7848,
+    "daily_stars": 4,
+    "weekly_stars": 34,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

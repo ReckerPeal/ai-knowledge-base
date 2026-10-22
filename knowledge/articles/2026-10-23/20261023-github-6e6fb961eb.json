@@ -1,0 +1,32 @@
+{
+  "id": "20261023-github-6e6fb961eb",
+  "title": "pnpm/pnpm",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnpm/pnpm",
+  "summary": "pnpm 是一个快速、节省磁盘空间的包管理器，在 GitHub 上拥有约 3.7 万星标，近期以 Rust 语言实现，属于 GitHub 热点项目。",
+  "content": "pnpm 是一个高性能的 JavaScript 包管理器，以快速和磁盘空间高效著称。其核心机制是通过硬链接和内容寻址存储来避免重复安装依赖，从而显著减少磁盘占用并提升安装速度。该项目在 GitHub 上获得 36,896 个星标和 1,955 个复刻，日增约 17 星，属于 GitHub 热点中的 Rust 类别。虽然 pnpm 传统上以 JavaScript/TypeScript 编写，但此摘要标注其语言为 Rust，可能反映了项目正在向 Rust 迁移或包含 Rust 组件。pnpm 适用于前端工程化、Monorepo 管理以及需要高效依赖管理的场景，是 npm 和 yarn 的有力替代方案。",
+  "tags": [
+    "pnpm",
+    "包管理器",
+    "Rust",
+    "前端工具",
+    "磁盘优化",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:07+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "pnpm",
+    "stars": 36896,
+    "forks": 1955,
+    "daily_stars": 17,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

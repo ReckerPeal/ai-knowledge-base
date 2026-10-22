@@ -1,0 +1,31 @@
+{
+  "id": "20261023-github-a0d758f560",
+  "title": "agentgateway/agentgateway",
+  "source": "github_trending",
+  "source_url": "https://github.com/agentgateway/agentgateway",
+  "summary": "agentgateway 是一个用 Rust 编写的下一代代理，专为 AI Agent 和 MCP 服务器设计，旨在提供高效、安全的代理层。项目在 GitHub 上获得 5490 星标和 977 次 fork，日增 34 星，显示出较高的社区关注度。",
+  "content": "agentgateway 定位为面向 AI Agent 和 MCP（Model Context Protocol）服务器的下一代代理（Agentic Proxy）。其核心目标是为 AI 代理与 MCP 服务器之间的通信提供高性能、可扩展的代理层，可能涉及请求路由、协议转换、安全控制等功能。项目采用 Rust 语言开发，利用 Rust 的内存安全和高并发特性，适合构建低延迟、高吞吐的代理服务。当前仓库拥有 5490 个星标和 977 个 fork，日增星标 34 个，表明项目处于活跃增长阶段，受到开发者社区的关注。由于摘要信息有限，具体功能细节（如支持的协议、部署方式、配置选项等）需进一步查阅仓库文档。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "MCP",
+    "代理",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:07+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "agentgateway",
+    "stars": 5490,
+    "forks": 977,
+    "daily_stars": 34,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

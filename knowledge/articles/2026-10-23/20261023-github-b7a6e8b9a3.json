@@ -1,0 +1,32 @@
+{
+  "id": "20261023-github-b7a6e8b9a3",
+  "title": "astral-sh/uv",
+  "source": "github_trending",
+  "source_url": "https://github.com/astral-sh/uv",
+  "summary": "astral-sh/uv 是一个用 Rust 编写的极速 Python 包与项目管理器，旨在替代 pip、pip-tools、virtualenv 等传统工具，提供更快的依赖解析和安装体验。",
+  "content": "astral-sh/uv 是 Astral 公司（Ruff 的开发者）推出的高性能 Python 包与项目管理工具，使用 Rust 语言实现。其核心目标是解决 Python 生态中包管理速度慢、工具链分散的问题。uv 兼容 pip 的接口，支持依赖解析、虚拟环境管理、项目初始化、锁文件生成等功能，并宣称比 pip 快 10-100 倍。该项目在 GitHub 上已获得超过 9.1 万星标，日增约 61 星，属于 Rust 语言的热点项目。uv 的出现有望统一 Python 包管理工具链，提升开发者的工作效率。",
+  "tags": [
+    "Python",
+    "包管理",
+    "Rust",
+    "开发工具",
+    "依赖管理",
+    "uv"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:07+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "astral-sh",
+    "stars": 91026,
+    "forks": 3686,
+    "daily_stars": 61,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261023-github-4945206218",
+  "title": "genspark-ai/genoffice",
+  "source": "github_trending",
+  "source_url": "https://github.com/genspark-ai/genoffice",
+  "summary": "genspark-ai/genoffice 是一个免费开源的 AI 办公套件，集成文档、表格、幻灯片、PDF、Markdown 与 HTML 编辑器，内置 AI 智能体，并提供 genoffice CLI 与 agent skill，使 Claude Code、Codex、Cursor 等工具能在本地创建和编辑真实的 .docx/.xlsx/.pptx 文件，支持自带 API Key，跨 macOS、Windows 与 Linux。",
+  "content": "该仓库由 genspark-ai 开发，采用 TypeScript 编写，当前获得约 1.05 万星标、1392 次 fork，日增星约 191，属于 GitHub 热点中的 TypeScript 项目。核心定位是开源 AI 办公套件：一方面提供 Docs、Sheets、Slides、PDF、Markdown 和 HTML 编辑器，并内置 AI agent 辅助办公；另一方面通过 genoffice CLI 和 agent skill 打通 Claude Code、Codex、Cursor 等 AI 编程工具，使其能够在本地直接生成和修改 Office 格式文件（.docx/.xlsx/.pptx）。产品强调免费开源、用户自带密钥（Bring your own key）以及 macOS/Windows/Linux 全平台支持。从技术角度看，其价值在于将 AI 编码代理与真实办公文档格式的读写能力结合，降低自动化文档处理的门槛；从生态角度看，高星标和日增星表明社区关注度较高，适合需要本地化、可定制 AI 办公能力的个人与团队评估使用。",
+  "tags": [
+    "AI 办公套件",
+    "开源",
+    "TypeScript",
+    "文档编辑",
+    "CLI",
+    "AI Agent",
+    "Office 文件",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:05+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "genspark-ai",
+    "stars": 10499,
+    "forks": 1392,
+    "daily_stars": 191,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

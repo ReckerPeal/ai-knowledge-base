@@ -1,0 +1,32 @@
+{
+  "id": "20261023-github-dd6a9d14a0",
+  "title": "Graphify-Labs/graphify",
+  "source": "github_trending",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "summary": "Graphify-Labs/graphify 是一个将任意代码库及其文档、SQL 模式、配置文件和 PDF 转换为可查询知识图谱的工具，提供面向 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能，采用本地确定性 AST 解析，每条边均可解释，且无需向量存储。",
+  "content": "该仓库核心功能是将代码库与配套文档、SQL schema、配置、PDF 等多源信息统一构建为可查询的知识图谱。它作为 Claude Code、Cursor、Codex、Gemini CLI 的 /graphify 技能集成，强调本地确定性 AST 解析，保证解析结果可复现；图谱中每条边都有解释，便于追溯；不依赖向量数据库，降低部署复杂度。项目使用 Python 实现，在 GitHub 上热度极高，当前约 13.3 万星标、1.27 万分支，日增星约 1400，属于 GitHub 热点 Python 类别。",
+  "tags": [
+    "知识图谱",
+    "代码分析",
+    "AST解析",
+    "AI编程助手",
+    "Python",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:02+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "Graphify-Labs",
+    "stars": 132687,
+    "forks": 12706,
+    "daily_stars": 1407,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

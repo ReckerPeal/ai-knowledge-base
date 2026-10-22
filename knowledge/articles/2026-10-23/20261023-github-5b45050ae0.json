@@ -1,0 +1,33 @@
+{
+  "id": "20261023-github-5b45050ae0",
+  "title": "cilium/cilium",
+  "source": "github_trending",
+  "source_url": "https://github.com/cilium/cilium",
+  "summary": "Cilium 是一个基于 eBPF 技术的开源项目，提供网络、安全和可观测性能力，主要面向云原生环境（如 Kubernetes），使用 Go 语言开发，在 GitHub 上拥有约 2.57 万星标。",
+  "content": "Cilium 利用 eBPF（扩展伯克利包过滤器）在内核层面实现高性能的网络连接、安全策略执行和可观测性。它常被用作 Kubernetes 的 CNI（容器网络接口）插件，支持 L3/L4/L7 层的网络策略、负载均衡、透明加密以及基于身份的安全模型。项目由 Go 语言编写，社区活跃，星标数超过 2.5 万，是云原生计算基金会（CNCF）的毕业项目之一。其核心优势包括：无需修改应用代码即可实现细粒度安全策略；通过 eBPF 提供低开销的监控和故障排查；与 Kubernetes 生态深度集成。",
+  "tags": [
+    "eBPF",
+    "网络",
+    "安全",
+    "可观测性",
+    "云原生",
+    "Kubernetes",
+    "Go"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:22+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "cilium",
+    "stars": 25707,
+    "forks": 4179,
+    "daily_stars": null,
+    "weekly_stars": 49,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

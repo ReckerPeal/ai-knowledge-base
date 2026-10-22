@@ -1,0 +1,33 @@
+{
+  "id": "20261023-github-4dcdb95578",
+  "title": "NVIDIA/OpenShell",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "summary": "NVIDIA 开源的 OpenShell 是一个面向自主 AI 代理的安全、私有运行时环境，使用 Rust 语言开发。该项目在 GitHub 上热度较高，已获得超过 1.7 万星标，日增约 221 星，显示出社区对 AI 代理安全运行基础设施的强烈关注。",
+  "content": "OpenShell 由 NVIDIA 推出，定位为自主 AI 代理（autonomous AI agents）的安全、私有运行时。其核心价值在于为 AI 代理提供隔离、可控的执行环境，降低代理在真实系统中运行时的安全与隐私风险。项目采用 Rust 编写，兼顾性能与内存安全，适合对可靠性和安全性要求较高的基础设施场景。从社区数据看，仓库已积累 17169 个星标和 1820 个 fork，日增星标约 221，说明项目处于快速增长期，受到开发者广泛关注。该仓库属于 GitHub 热点中的 Rust 类别，结合 NVIDIA 在 AI 与 GPU 生态的影响力，OpenShell 有望成为 AI 代理运行时领域的重要基础设施项目。",
+  "tags": [
+    "AI 代理",
+    "安全运行时",
+    "Rust",
+    "NVIDIA",
+    "开源",
+    "隐私保护",
+    "基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-23T02:12:07+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 17169,
+    "forks": 1820,
+    "daily_stars": 221,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
