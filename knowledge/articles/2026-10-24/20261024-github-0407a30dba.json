@@ -1,0 +1,32 @@
+{
+  "id": "20261024-github-0407a30dba",
+  "title": "github/gh-stack",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/gh-stack",
+  "summary": "GitHub 官方推出的 Stacked PRs（堆叠式拉取请求）工具，使用 Go 语言开发，旨在简化多分支依赖的代码评审流程。",
+  "content": "该仓库为 github/gh-stack，是 GitHub 官方团队开发的 Go 语言项目，核心功能是支持 Stacked PRs（堆叠式拉取请求）。堆叠式 PR 允许开发者将大型变更拆分为多个相互依赖的小型 PR，按顺序逐层评审与合并，从而降低评审复杂度、提升代码审查效率。项目当前获得约 1717 个 Star、86 个 Fork，日增约 3 个 Star，属于 GitHub 热点 Go 分类。由于是官方出品，其在工作流集成、稳定性和生态兼容性方面具有较高可信度，适合需要精细化管理多分支开发的团队使用。",
+  "tags": [
+    "GitHub",
+    "Stacked PRs",
+    "Go",
+    "代码评审",
+    "开发工具",
+    "GitHub 官方"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:43+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "github",
+    "stars": 1717,
+    "forks": 86,
+    "daily_stars": 3,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

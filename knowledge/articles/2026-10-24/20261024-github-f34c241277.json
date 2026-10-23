@@ -1,0 +1,33 @@
+{
+  "id": "20261024-github-f34c241277",
+  "title": "Comfy-Org/ComfyUI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "summary": "ComfyUI 是 Comfy-Org 维护的开源项目，提供基于图/节点界面的模块化扩散模型 GUI、API 与后端，号称全球最快的本地推理引擎，以 Python 实现，GitHub 星标约 14.2 万，周增约 4375 星，社区活跃度极高。",
+  "content": "ComfyUI 是一个面向扩散模型（Diffusion Model）的开源图形化工作流工具，核心特点如下：\n\n1. 图/节点式界面：用户通过拖拽节点、连接数据流的方式搭建图像生成流程，相比传统表单式界面更灵活、可复用、可精细控制每一步（如模型加载、采样、VAE 解码、条件控制等）。\n2. 模块化架构：各功能以节点形式解耦，便于扩展与自定义，社区可开发插件节点，形成丰富的生态。\n3. 同时提供 GUI、API 与后端：既可作为本地桌面式工具使用，也可通过 API 集成到其他应用或服务中，适合二次开发与自动化流水线。\n4. 本地推理性能：项目定位为“全球最快的本地推理引擎”，强调在本地硬件上高效运行扩散模型，降低对云端算力的依赖。\n5. 语言与社区：使用 Python 实现，GitHub 星标约 142,292，Fork 约 16,777，周增星约 4,375，属于 GitHub 热点 Python 类别，社区规模大、迭代活跃。\n\n适用场景包括 AI 绘画与图像生成工作流搭建、扩散模型研究与实验、生成式 AI 应用后端集成等。",
+  "tags": [
+    "扩散模型",
+    "节点式界面",
+    "本地推理",
+    "Python",
+    "生成式AI",
+    "开源工具",
+    "API"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:46+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "Comfy-Org",
+    "stars": 142292,
+    "forks": 16777,
+    "daily_stars": null,
+    "weekly_stars": 4375,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

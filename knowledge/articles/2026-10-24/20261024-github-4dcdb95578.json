@@ -1,0 +1,33 @@
+{
+  "id": "20261024-github-4dcdb95578",
+  "title": "NVIDIA/OpenShell",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "summary": "NVIDIA 开源的 OpenShell 是一个面向自主 AI 智能体的安全、私密运行时，使用 Rust 编写，在 GitHub 上获得约 1.86 万星标，单日新增约 1240 星，热度较高。",
+  "content": "OpenShell 由 NVIDIA 推出，定位为自主 AI 智能体的安全、私密运行时环境，核心目标是为 AI Agent 提供隔离、可控且隐私友好的执行沙箱。项目采用 Rust 语言实现，具备内存安全和高性能的底层优势，适合承载对安全性与稳定性要求较高的智能体运行场景。从仓库数据看，项目已获得 18568 个星标和 1868 次 fork，单日新增星标约 1240，说明其在 AI 基础设施领域受到较高关注，并进入 Hacker News 相关 AI 热榜。当前摘要信息较为精简，尚未披露具体的沙箱机制、权限模型、支持的模型或工具生态等细节，但结合 NVIDIA 在 GPU 与 AI 基础设施领域的背景，OpenShell 有望成为智能体安全运行层的重要开源组件。",
+  "tags": [
+    "AI Agent",
+    "安全运行时",
+    "Rust",
+    "NVIDIA",
+    "开源",
+    "沙箱",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:40+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 18568,
+    "forks": 1868,
+    "daily_stars": 1240,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "GitHub 热点 · Rust"
+  }
+}

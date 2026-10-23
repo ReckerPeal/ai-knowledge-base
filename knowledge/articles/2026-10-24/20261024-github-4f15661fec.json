@@ -1,0 +1,33 @@
+{
+  "id": "20261024-github-4f15661fec",
+  "title": "fleetdm/fleet",
+  "source": "github_trending",
+  "source_url": "https://github.com/fleetdm/fleet",
+  "summary": "Fleet 是一个基于 Go 语言开发的开源设备管理平台，提供跨操作系统设备的统一管理与安全监控能力，在 GitHub 上拥有约 7000 颗星标，属于活跃的 Go 语言热点项目。",
+  "content": "Fleet 定位为开放设备管理（Open device management）工具，主要面向企业 IT 团队，用于集中管理 macOS、Windows、Linux 等终端设备。其核心能力包括设备资产清点、安全策略合规检查、漏洞与威胁检测、以及基于 osquery 的实时查询与遥测采集。项目采用 Go 语言编写，具备良好的性能与可部署性，支持自托管部署，适合对数据主权有要求的企业。从仓库数据看，项目累计获得 7037 颗星标、1079 次 fork，日增约 10 颗星，社区关注度稳定，属于 GitHub Go 语言分类下的热点项目。Fleet 可作为商业设备管理方案（如 Jamf、Intune）的开源替代，适用于需要灵活定制与自动化运维的安全团队。",
+  "tags": [
+    "设备管理",
+    "开源",
+    "Go",
+    "安全合规",
+    "osquery",
+    "终端安全",
+    "IT运维"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:43+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "fleetdm",
+    "stars": 7037,
+    "forks": 1079,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

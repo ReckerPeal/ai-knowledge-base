@@ -1,0 +1,32 @@
+{
+  "id": "20261024-github-3beb40c91d",
+  "title": "php/frankenphp",
+  "source": "github_trending",
+  "source_url": "https://github.com/php/frankenphp",
+  "summary": "FrankenPHP 是由 PHP 官方组织维护的现代 PHP 应用服务器，使用 Go 语言编写，旨在为 PHP 应用提供高性能、易部署的运行环境。该仓库在 GitHub 上已获得超过 1.1 万星标，近期日增约 8 星，属于 Go 语言生态下的热点项目。",
+  "content": "FrankenPHP 定位为“现代 PHP 应用服务器”，其核心价值在于将 PHP 运行时与 Go 语言的高并发网络能力相结合，为 PHP 应用提供更高效的 HTTP 服务、内置的自动 HTTPS、HTTP/2 与 HTTP/3 支持，以及基于 Caddy 的配置体系。项目由 PHP 官方组织（php）维护，语言为 Go，当前星标数约 11458，fork 数约 501，日增星标约 8，说明项目仍保持一定的社区关注度。从技术角度看，FrankenPHP 试图解决传统 PHP-FPM + Nginx 架构部署复杂、性能调优门槛高的问题，通过单一二进制或容器化方式简化部署，并利用 Go 的协程模型提升并发处理能力。对于 PHP 开发者而言，它提供了一种更现代、更集成的应用服务器选择；对于运维和平台团队，则可能降低基础设施复杂度。该项目适合关注 PHP 运行时演进、Go 与 PHP 混合架构、以及现代 Web 服务器部署方案的开发者深入研究。",
+  "tags": [
+    "PHP",
+    "Go",
+    "应用服务器",
+    "Web 服务器",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:43+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "php",
+    "stars": 11458,
+    "forks": 501,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261024-github-c0008c1140",
+  "title": "Mailu/Mailu",
+  "source": "github_trending",
+  "source_url": "https://github.com/Mailu/Mailu",
+  "summary": "Mailu 是一个基于 Docker 镜像的独立邮件服务器发行版，使用 Python 开发，在 GitHub 上拥有约 7.6k 星标和 1k 分支，近期日增约 5 星，属于稳定维护的热门项目。",
+  "content": "Mailu（Insular email distribution）是一个将完整邮件服务器打包为 Docker 镜像的开源项目，旨在让用户以容器化方式快速部署独立、自托管的邮件系统。项目使用 Python 语言开发，在 GitHub 上获得 7583 个星标和 1022 个分支，日增星标约 5 个，表明其具备一定的社区关注度和持续维护状态。作为 GitHub 热点中的 Python 项目，Mailu 适合需要自主掌控邮件服务、注重隐私与数据主权的个人或组织，通过 Docker 镜像降低了邮件服务器（如 SMTP、IMAP、Webmail 等组件）的部署与运维复杂度。",
+  "tags": [
+    "邮件服务器",
+    "Docker",
+    "Python",
+    "自托管",
+    "开源",
+    "容器化",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-24T02:00:35+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "Mailu",
+    "stars": 7583,
+    "forks": 1022,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
