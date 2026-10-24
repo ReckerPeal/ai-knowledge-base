@@ -1,0 +1,32 @@
+{
+  "id": "20261025-github-96bb6a372b",
+  "title": "aws/agent-toolkit-for-aws",
+  "source": "github_trending",
+  "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "summary": "AWS 官方推出的 Agent Toolkit，提供 MCP 服务器、技能与插件，帮助 AI 智能体在 AWS 上构建应用。",
+  "content": "该仓库由 AWS 官方维护，旨在为 AI 智能体提供在 AWS 平台上构建应用所需的工具集。核心内容包括：1）MCP（Model Context Protocol）服务器，使 AI 智能体能够安全、标准化地访问 AWS 服务；2）技能（skills）与插件（plugins），扩展智能体的能力边界。项目使用 Python 编写，当前获得约 3035 个 Star 和 394 个 Fork，日增约 11 个 Star，属于 GitHub 热点 Python 分类。官方支持意味着较高的可靠性与持续维护预期，适合需要将 AI 智能体与 AWS 云服务集成的开发者。",
+  "tags": [
+    "AWS",
+    "AI Agent",
+    "MCP",
+    "Python",
+    "官方工具",
+    "云服务集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "aws",
+    "stars": 3035,
+    "forks": 394,
+    "daily_stars": 11,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

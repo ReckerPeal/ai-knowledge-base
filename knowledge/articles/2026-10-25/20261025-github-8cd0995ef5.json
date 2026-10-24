@@ -1,0 +1,34 @@
+{
+  "id": "20261025-github-8cd0995ef5",
+  "title": "anthropics/sandbox-runtime",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/sandbox-runtime",
+  "summary": "Anthropic 开源的轻量级沙箱运行时，可在操作系统层面为任意进程强制实施文件系统与网络访问限制，无需依赖容器技术。",
+  "content": "该项目由 Anthropic 发布，使用 TypeScript 编写，定位为轻量级沙箱工具。其核心能力是在操作系统层面直接对任意进程施加文件系统与网络访问限制，而不需要启动容器，从而降低隔离开销与部署复杂度。仓库当前获得约 6398 个 Star、558 个 Fork，单日新增约 592 个 Star，热度较高。适用场景包括 AI Agent 工具调用的安全隔离、不可信代码执行、CI 环境中的权限收敛等。",
+  "tags": [
+    "沙箱",
+    "安全隔离",
+    "TypeScript",
+    "Anthropic",
+    "进程隔离",
+    "文件系统限制",
+    "网络限制",
+    "AI Agent 安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 6398,
+    "forks": 558,
+    "daily_stars": 592,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

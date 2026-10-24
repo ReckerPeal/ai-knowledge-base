@@ -1,0 +1,32 @@
+{
+  "id": "20261025-github-09a3e479d0",
+  "title": "backnotprop/plannotator",
+  "source": "github_trending",
+  "source_url": "https://github.com/backnotprop/plannotator",
+  "summary": "plannotator 是一个 TypeScript 开发的协作工具，用于可视化标注和审查编码智能体生成的计划与代码差异，支持团队共享并一键向智能体发送反馈。",
+  "content": "该仓库由 backnotprop 创建，当前获得约 9608 颗星和 721 次复刻，日增星约 24，属于 GitHub 热点 TypeScript 项目。核心功能围绕 AI 编码智能体的工作流：用户可以在可视化界面中对智能体产出的计划（plans）和代码差异（diffs）进行标注与审查，将结果分享给团队成员，并通过一键操作把反馈直接回传给智能体，从而形成“智能体生成—人工审查—反馈迭代”的闭环。项目使用 TypeScript 实现，适合需要多人协作审核 AI 生成代码的研发团队。",
+  "tags": [
+    "TypeScript",
+    "AI 编码智能体",
+    "代码审查",
+    "可视化标注",
+    "团队协作",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:36+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "backnotprop",
+    "stars": 9608,
+    "forks": 721,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

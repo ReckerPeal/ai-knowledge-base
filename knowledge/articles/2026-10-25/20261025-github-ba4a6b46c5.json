@@ -1,0 +1,33 @@
+{
+  "id": "20261025-github-ba4a6b46c5",
+  "title": "jasonxu114514/opencode2api",
+  "source": "github_trending",
+  "source_url": "https://github.com/jasonxu114514/opencode2api",
+  "summary": "该项目是一个基于 Go 语言开发的 OpenCode Zen / Zen Go API 代理服务，提供与 OpenAI 和 Anthropic API 的兼容接口，并支持密钥/代理池、自动路由以及 WebUI 管理界面。",
+  "content": "该仓库实现了一个 Go 语言编写的 API 代理网关，核心功能包括：1) 兼容 OpenAI 与 Anthropic 的 API 协议，便于现有客户端直接接入；2) 支持 API Key 与代理服务器的池化管理，提升可用性与负载均衡；3) 内置自动路由机制，可根据策略分发请求；4) 提供 WebUI 进行可视化配置与监控。项目在 GitHub 上获得 1262 星、222 分支，周增星约 386，属于近期 Go 语言热点项目，适合需要统一接入多模型 API 或构建代理池的开发者使用。",
+  "tags": [
+    "Go",
+    "API代理",
+    "OpenAI兼容",
+    "Anthropic兼容",
+    "密钥池",
+    "自动路由",
+    "WebUI"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:51+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "jasonxu114514",
+    "stars": 1262,
+    "forks": 222,
+    "daily_stars": null,
+    "weekly_stars": 386,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261025-github-d747ecb589",
+  "title": "max-sixty/worktrunk",
+  "source": "github_trending",
+  "source_url": "https://github.com/max-sixty/worktrunk",
+  "summary": "Worktrunk 是一个用 Rust 编写的 Git worktree 管理命令行工具，专为并行 AI 代理工作流设计，帮助开发者高效管理多个工作树，以支持 AI 代理并行执行任务。",
+  "content": "Worktrunk 是 max-sixty 开发的一款基于 Rust 的 CLI 工具，聚焦于 Git worktree 管理，核心场景是并行 AI 代理工作流。它通过命令行界面简化多工作树的创建、切换与清理，使多个 AI 代理能在独立工作树中并行工作，避免分支冲突和文件锁竞争。项目在 GitHub 上获得约 9447 星标和 336 个 fork，日增星标约 31，属于 GitHub 热点 Rust 分类，显示出较高社区关注度。其设计契合 AI 代理协作开发趋势，适合需要并行任务隔离的开发者与团队。",
+  "tags": [
+    "Git worktree",
+    "CLI",
+    "Rust",
+    "AI 代理",
+    "并行工作流",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:38+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "max-sixty",
+    "stars": 9447,
+    "forks": 336,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

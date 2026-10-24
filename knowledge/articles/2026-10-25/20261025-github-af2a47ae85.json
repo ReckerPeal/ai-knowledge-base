@@ -1,0 +1,35 @@
+{
+  "id": "20261025-github-af2a47ae85",
+  "title": "Gentleman-Programming/gentle-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "summary": "Gentle-AI 是一个用 Go 编写的开源项目，旨在为 Claude Code、Cursor、OpenCode、Codex、Pi 等主流 AI 编程代理提供统一配置层，支持持久记忆、有机驱动开发（Organic-Driven Development）、精选技能、MCP 服务器、角色人设及可选的有界审查，且不锁定任何单一代理。",
+  "content": "Gentle-AI 定位为 AI 编程代理的“配置中枢”，核心价值在于跨代理兼容与可复用配置。用户无需更换现有工具，即可为 Claude Code、Cursor、OpenCode、Codex、Pi 等多个代理统一注入能力：持久记忆让代理跨会话保留上下文；Organic-Driven Development 提供一种更贴近自然协作的开发范式；精选技能（curated skills）与 MCP 服务器扩展代理的工具边界；角色人设（personas）可定制交互风格；可选的有界审查（bounded review）在可控范围内对代理输出进行质量把关。项目采用 Go 语言实现，开源且明确反对代理锁定，适合希望在多代理环境中保持配置一致性的开发者与团队。当前约 7985 星、861 分支，日增约 31 星，属于 GitHub Go 分类下的热点项目。",
+  "tags": [
+    "AI 编程代理",
+    "开发工具",
+    "MCP",
+    "持久记忆",
+    "Go",
+    "开源",
+    "代理配置",
+    "Cursor",
+    "Claude Code"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:40+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Gentleman-Programming",
+    "stars": 7985,
+    "forks": 861,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

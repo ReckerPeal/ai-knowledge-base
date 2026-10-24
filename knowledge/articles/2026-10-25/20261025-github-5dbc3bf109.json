@@ -1,0 +1,33 @@
+{
+  "id": "20261025-github-5dbc3bf109",
+  "title": "kenn-io/agentsview",
+  "source": "github_trending",
+  "source_url": "https://github.com/kenn-io/agentsview",
+  "summary": "kenn-io/agentsview 是一个用 Go 编写的本地优先工具，为编码智能体（如 Claude Code、Codex 等 50 多种）提供会话搜索、分析、洞察和 token 使用统计。项目在 GitHub 上获得 6256 颗星，周增 139 星，热度较高。",
+  "content": "该仓库聚焦于 AI 编码智能体的使用数据管理，核心特性包括：1）本地优先架构，数据存储在本地，注重隐私；2）支持对智能体会话进行全文搜索；3）提供分析仪表盘与使用洞察；4）统计 token 消耗情况；5）兼容 Claude Code、Codex 及超过 50 种其他智能体。项目采用 Go 语言开发，适合需要监控和优化 AI 编码助手使用效率的开发者与团队。当前星标数 6256，fork 数 661，周新增星标 139，表明社区关注度持续增长。",
+  "tags": [
+    "Go",
+    "AI 编码智能体",
+    "会话搜索",
+    "token 统计",
+    "本地优先",
+    "开发者工具",
+    "分析洞察"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:51+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "kenn-io",
+    "stars": 6256,
+    "forks": 661,
+    "daily_stars": null,
+    "weekly_stars": 139,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

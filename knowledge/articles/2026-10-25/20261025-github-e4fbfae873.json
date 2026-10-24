@@ -1,0 +1,32 @@
+{
+  "id": "20261025-github-e4fbfae873",
+  "title": "aaif-goose/goose",
+  "source": "github_trending",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "summary": "aaif-goose/goose 是一个用 Rust 编写的开源可扩展 AI 智能体，突破传统代码建议的局限，支持安装、执行、编辑和测试，并可对接任意 LLM。该项目在 GitHub 上拥有约 5.56 万星标和 6400 余次复刻，日增约 57 星，属于 GitHub 热点 Rust 项目。",
+  "content": "该仓库定位为开源、可扩展的 AI 智能体（AI agent），核心特点是“不止于代码建议”，能够实际执行安装、运行、编辑与测试等操作，并且兼容任意 LLM 提供商，具备较强的通用性与可扩展性。技术栈为 Rust，兼顾性能与安全性。从社区数据看，项目已获得 55,633 星标、6,439 次复刻，日增约 57 星，说明关注度较高且仍在持续增长。适用场景包括自动化开发工作流、代码修改与验证、多模型接入的智能体实验等。",
+  "tags": [
+    "AI Agent",
+    "Rust",
+    "开源",
+    "LLM",
+    "自动化开发",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:38+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "aaif-goose",
+    "stars": 55633,
+    "forks": 6439,
+    "daily_stars": 57,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261025-github-2de6c41643",
+  "title": "mixelpixx/Konnect",
+  "source": "github_trending",
+  "source_url": "https://github.com/mixelpixx/Konnect",
+  "summary": "Konnect 是一个面向 KiCAD 10 的 AI 辅助 PCB 设计原生插件，以单个 Rust 二进制形式向 Claude 或其他 LLM 暴露 217 个原理图、布局、布线、器件放置、设计评审与制造相关工具，让大模型可直接参与硬件设计流程。",
+  "content": "该仓库由 mixelpixx 开发，语言为 Rust，当前约 1390 星、167 分支，周增约 265 星，属于 GitHub 热点中的 Rust 项目。核心思路是将 KiCAD 的 PCB 设计能力封装为统一的工具接口：单个 Rust 二进制作为原生插件运行，向 Claude 或用户自选的 LLM 提供 217 个工具，覆盖原理图编辑、布局、布线、器件放置、设计评审和制造输出等环节。其价值在于把 LLM 的推理与自动化能力引入 EDA 工作流，降低重复性硬件设计操作成本，并为 AI 驱动的电子设计自动化提供可扩展的插件式集成范式。适合关注 AI+EDA、KiCAD 插件开发、Rust 工具链与 LLM 工具调用（function calling）的开发者参考。",
+  "tags": [
+    "AI辅助设计",
+    "PCB设计",
+    "KiCAD",
+    "Rust",
+    "LLM工具调用",
+    "EDA",
+    "插件",
+    "开源硬件"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:47+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "mixelpixx",
+    "stars": 1390,
+    "forks": 167,
+    "daily_stars": null,
+    "weekly_stars": 265,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

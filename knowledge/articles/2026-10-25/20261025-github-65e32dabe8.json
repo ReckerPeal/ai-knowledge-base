@@ -1,0 +1,33 @@
+{
+  "id": "20261025-github-65e32dabe8",
+  "title": "vllm-project/vllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "summary": "vLLM 是一个面向大语言模型的高吞吐、内存高效的推理与服务引擎，由 vllm-project 维护，使用 Python 编写，在 GitHub 上拥有约 9.5 万星标，近期周增星约 1363，属于热门 Python 项目。",
+  "content": "vLLM 的核心定位是为大语言模型（LLM）提供高性能推理与服务能力。其摘要强调“高吞吐”和“内存高效”，这通常意味着它通过优化显存管理（如 PagedAttention 等机制）来提升并发请求处理能力并降低内存浪费。项目语言为 Python，作者为 vllm-project，当前星标数约 95315，复刻数约 23892，周增星约 1363，表明社区关注度持续较高。该仓库属于 GitHub 热点中的 Python 类别，适合需要部署 LLM 推理服务的开发者、研究团队和工程团队参考使用。由于摘要未提供具体版本、许可证、基准测试数据或详细架构说明，实际选型时还需进一步查阅仓库文档与发布说明。",
+  "tags": [
+    "LLM推理",
+    "推理引擎",
+    "模型服务",
+    "高吞吐",
+    "内存高效",
+    "Python",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:43+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 95315,
+    "forks": 23892,
+    "daily_stars": null,
+    "weekly_stars": 1363,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

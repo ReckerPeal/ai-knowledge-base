@@ -1,0 +1,33 @@
+{
+  "id": "20261025-github-c3c07aa64d",
+  "title": "medusajs/medusa",
+  "source": "github_trending",
+  "source_url": "https://github.com/medusajs/medusa",
+  "summary": "Medusa 是一个基于 TypeScript 构建的灵活开源电商平台，面向开发者与 AI 代理，提供模块化架构和丰富的 API，支持高度定制化的电商业务场景。",
+  "content": "Medusa 定位为“全球最灵活的电商平台”，主要面向开发者和 AI 代理。项目采用 TypeScript 编写，在 GitHub 上拥有约 3.7 万星标和 5400 余次 fork，日增星约 44，热度稳定。其核心优势在于模块化设计：将商品、订单、支付、物流等电商能力拆分为可独立替换的模块，开发者可按需组合或扩展，避免传统电商平台的重度耦合。平台提供 Headless API 与事件驱动架构，便于与前端框架、第三方服务及 AI 代理集成。Medusa 适合需要深度定制、多租户或快速搭建电商后端的团队，也可作为 AI 代理执行电商操作的基础设施。整体而言，该项目生态活跃、文档完善，是 TypeScript 技术栈下值得关注的电商开源方案。",
+  "tags": [
+    "TypeScript",
+    "电商平台",
+    "开源",
+    "Headless Commerce",
+    "模块化架构",
+    "API",
+    "AI 代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "medusajs",
+    "stars": 36918,
+    "forks": 5462,
+    "daily_stars": 44,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

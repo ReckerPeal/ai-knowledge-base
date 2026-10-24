@@ -1,0 +1,32 @@
+{
+  "id": "20261025-github-9270533127",
+  "title": "morluto/rea",
+  "source": "github_trending",
+  "source_url": "https://github.com/morluto/rea",
+  "summary": "morluto/rea 是一个基于 TypeScript 的开源项目，旨在利用智能体（agents）对任意目标进行逆向工程，覆盖从应用行为分析到原生二进制文件解析的广泛场景。该项目在 GitHub 上热度极高，累计获得约 37.7 万星标和 9.4 万次 fork，周新增星标超过 8.8 万，显示出极强的社区关注度。",
+  "content": "该仓库的核心定位是“用智能体逆向工程任何东西”，即通过 AI agent 自动化完成传统上需要人工深度参与的逆向分析任务。其能力范围从上层应用行为（如 API 调用、界面交互逻辑）一直延伸到原生二进制层面（如反汇编、协议解析等），暗示项目可能集成了多种分析工具与 agent 编排框架。语言为 TypeScript，意味着它可能提供跨平台的 CLI 或 Web 界面，并易于与现有 JS/TS 生态集成。从元数据看，项目星标数异常之高（377k），周增 88k，属于现象级热门项目，但需注意此类数据可能存在营销或刷量成分，实际代码质量与可用性需进一步验证。适用人群包括安全研究员、逆向工程师、AI agent 开发者以及希望自动化分析闭源软件行为的技术团队。",
+  "tags": [
+    "逆向工程",
+    "AI Agent",
+    "TypeScript",
+    "二进制分析",
+    "自动化",
+    "安全工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-25T01:04:45+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "morluto",
+    "stars": 377093,
+    "forks": 94253,
+    "daily_stars": null,
+    "weekly_stars": 88243,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
