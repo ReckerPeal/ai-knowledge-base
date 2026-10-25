@@ -1,0 +1,35 @@
+{
+  "id": "20261026-github-1c9d47a979",
+  "title": "debpalash/VoiceStudio",
+  "source": "github_trending",
+  "source_url": "https://github.com/debpalash/VoiceStudio",
+  "summary": "VoiceStudio 是一个开源、完全本地运行的 ElevenLabs 替代方案，提供语音克隆、语音设计、视频配音、听写、转录和有声书制作功能，支持 646 种语言。该项目使用 Python 开发，在 GitHub 上获得约 8.6 万星标，日增约 1588 星，周增约 1.2 万星，热度极高。",
+  "content": "VoiceStudio 定位为 ElevenLabs 的开源本地化替代品，核心卖点在于“完全本地运行”，即用户无需依赖云端 API 即可完成语音相关任务，有利于隐私保护和离线使用。功能覆盖语音克隆、语音设计、视频配音、听写、转录以及有声书制作，并宣称支持 646 种语言，语言覆盖面非常广。技术栈为 Python，便于与现有 AI/音频生态集成。从社区数据看，仓库拥有 86251 星标和 9563 分支，日增 1588 星、周增 12237 星，表明项目近期关注度爆发式增长，可能处于快速迭代或社区推广阶段。适用场景包括内容创作者制作多语言配音与有声书、开发者构建本地语音交互应用、以及需要隐私合规的转录与听写工作流。潜在关注点包括：本地运行对硬件（尤其是 GPU）的要求、646 种语言的实际质量与覆盖深度、以及开源项目在模型许可和商用合规方面的说明。",
+  "tags": [
+    "语音克隆",
+    "本地化部署",
+    "开源替代",
+    "多语言",
+    "语音合成",
+    "视频配音",
+    "转录",
+    "Python",
+    "ElevenLabs"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:29+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "debpalash",
+    "stars": 86251,
+    "forks": 9563,
+    "daily_stars": 1588,
+    "weekly_stars": 12237,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

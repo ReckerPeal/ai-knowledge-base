@@ -1,0 +1,36 @@
+{
+  "id": "20261026-github-4341922ec9",
+  "title": "nightly-labs/openbot",
+  "source": "github_trending",
+  "source_url": "https://github.com/nightly-labs/openbot",
+  "summary": "nightly-labs/openbot 是一个本地优先的桌面工作空间，用于运行持久化的 AI 队友。它支持 Codex、Claude 和 Grok 等模型，为每个代理提供独立工作区、任务队列、文件共享、浏览器控制和代理间协作能力。项目使用 TypeScript 开发，在 GitHub 上获得 934 星标和 149 次分叉，日增约 81 星，属于近期 TypeScript 热点项目。",
+  "content": "该仓库定位为“本地优先的桌面工作空间”，核心目标是让多个 AI 代理（Codex、Claude、Grok）作为持久化队友长期运行，而非一次性对话。主要特性包括：1）为每个代理分配独立工作区，隔离运行环境与上下文；2）任务队列管理，支持异步调度与持续执行；3）文件共享机制，便于代理间交换数据与产物；4）浏览器控制能力，使代理可操作网页完成自动化任务；5）代理间协作，支持多代理分工与消息传递。技术栈为 TypeScript，适合桌面端与本地服务集成。项目热度较高（934 stars，149 forks，日增 81 stars），表明多代理协作与本地化 AI 工作流是当前开发者关注方向。潜在应用场景包括自动化研发助手、多代理任务编排、本地隐私敏感型 AI 工作台等。",
+  "tags": [
+    "AI 代理",
+    "多代理协作",
+    "本地优先",
+    "桌面工作空间",
+    "TypeScript",
+    "任务队列",
+    "浏览器控制",
+    "Codex",
+    "Claude",
+    "Grok"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:32+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "nightly-labs",
+    "stars": 934,
+    "forks": 149,
+    "daily_stars": 81,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

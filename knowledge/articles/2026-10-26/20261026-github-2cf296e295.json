@@ -1,0 +1,33 @@
+{
+  "id": "20261026-github-2cf296e295",
+  "title": "tinyhumansai/openhuman",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "summary": "tinyhumansai/openhuman 是一个用 Rust 编写的开源 AI Agent 运行框架（agent harness），主打极致的性能与成本效率，宣称可在仅 10 美元的 VPS 上同时运行 500 个以上 Agent。项目在 GitHub 上已获得约 4.2 万星标，属于高热度 Rust 类开源项目。",
+  "content": "该项目定位为“最快、最便宜、最高效的开源 Agent harness”，核心卖点是在极低硬件成本下实现大规模 Agent 并发运行。技术栈采用 Rust，有利于获得低内存占用、高并发与低运行时开销，从而支撑单台廉价 VPS 承载 500+ Agent 的宣称。仓库当前约 42,331 stars、4,182 forks，日增约 43 stars，说明社区关注度较高但近期增速趋于平稳。适用场景包括多 Agent 编排、自动化任务流水线、低成本 Agent 部署与实验。需要注意的是，摘要未披露具体架构、调度机制、支持的模型接口与许可证信息，实际性能与“500 agents on $10 VPS”的结论需结合基准测试与部署文档进一步验证。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "开源框架",
+    "Agent 编排",
+    "低成本部署",
+    "高并发",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:34+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "tinyhumansai",
+    "stars": 42331,
+    "forks": 4182,
+    "daily_stars": 43,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261026-github-974d536836",
+  "title": "microsoft/skill-recorder",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/skill-recorder",
+  "summary": "微软开源的桌面应用 skill-recorder，可录制屏幕上的工作会话，并借助 GitHub Copilot SDK 将录制内容重建为意图与有序步骤，进而生成可复用的 Skill 或 Automation，供 Scout、Microsoft Copilot Cowork、Copilot Studio 等 Microsoft Autopilots 使用。",
+  "content": "该仓库由微软发布，使用 TypeScript 开发，当前获得约 5012 个 Star 和 551 个 Fork，周增约 650 Star，属于 GitHub 热点 TypeScript 项目。核心功能是桌面端录制用户屏幕操作，通过 GitHub Copilot SDK 对录制内容进行语义重建，提取操作意图并整理为有序步骤，最终自动生成可复用的技能（Skill）或自动化流程（Automation），并可直接对接 Microsoft Autopilots 生态，包括 Scout、Microsoft Copilot Cowork 和 Copilot Studio。该工具降低了将人工操作转化为自动化流程的门槛，适合希望快速沉淀可复用工作流、构建企业级 Copilot 自动化能力的开发者与团队。",
+  "tags": [
+    "TypeScript",
+    "桌面应用",
+    "GitHub Copilot SDK",
+    "自动化",
+    "Skill 生成",
+    "Microsoft Autopilots",
+    "Copilot Studio",
+    "工作流录制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:41+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 5012,
+    "forks": 551,
+    "daily_stars": null,
+    "weekly_stars": 650,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

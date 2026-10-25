@@ -1,0 +1,34 @@
+{
+  "id": "20261026-github-117d2cb5f3",
+  "title": "AgriciDaniel/claude-seo",
+  "source": "github_trending",
+  "source_url": "https://github.com/AgriciDaniel/claude-seo",
+  "summary": "claude-seo 是一个面向 Claude Code 的通用 SEO 技能包，包含 26 个子技能与 19 个子代理，覆盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO、代理就绪（Lighthouse Agentic Browsing、WebMCP、llms.txt）、外链、本地 SEO、电商、国际化 SEO、Google API 以及 PDF/Excel 报告，并提供 9 个可选扩展以接入实时 SEO 数据。项目以 Python 实现，在 GitHub 上获得约 2 万星标，日增约 179 星，属于近期热点项目。",
+  "content": "该仓库将 SEO 工作流拆解为可被 Claude Code 调用的技能与代理体系：26 个子技能对应具体 SEO 任务，19 个子代理负责多步骤分析与执行，覆盖从技术审计、内容质量（E-E-A-T）、Schema 标记到生成式引擎优化（GEO/AEO）和 AI 代理可读性（llms.txt、WebMCP、Lighthouse Agentic Browsing）等新兴方向。同时支持外链分析、本地 SEO、电商 SEO、国际化 SEO 与 Google API 集成，并输出 PDF/Excel 报告；9 个可选扩展用于接入实时 SEO 数据源。项目语言为 Python，星标约 20.5k、复刻约 2.9k，日增星约 179，显示较高社区关注度，适合作为 AI 辅助 SEO 的工程化参考与二次开发基础。",
+  "tags": [
+    "SEO",
+    "Claude Code",
+    "AI Agent",
+    "Python",
+    "GEO/AEO",
+    "结构化数据",
+    "技术SEO",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "AgriciDaniel",
+    "stars": 20494,
+    "forks": 2929,
+    "daily_stars": 179,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

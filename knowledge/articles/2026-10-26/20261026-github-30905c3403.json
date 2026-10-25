@@ -1,0 +1,34 @@
+{
+  "id": "20261026-github-30905c3403",
+  "title": "wshobson/agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/wshobson/agents",
+  "summary": "wshobson/agents 是一个面向多种 AI 编程助手（Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Google Antigravity、Pi）的智能体插件市场，采用 Python 实现，在 GitHub 上拥有约 4.17 万星标，周新增约 700 星，属于高热度项目。",
+  "content": "该仓库定位为“多 harness 智能体插件市场”，核心价值在于为不同 AI 编程工具提供统一的插件/智能体分发与集成入口。从摘要看，它覆盖 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Google Antigravity 和 Pi 等多个主流或新兴的 AI 编码环境，说明其目标是解决跨工具生态碎片化问题，让智能体插件可以一次构建、多端使用。仓库语言为 Python，作者 wshobson，当前星标约 41687，fork 约 4421，周新增星标约 703，表明项目近期保持较高关注度。由于摘要信息有限，具体插件类型、安装方式、协议标准及实际功能边界尚不明确，但“插件市场”与“多 harness”的组合暗示其可能包含插件注册、发现、安装和适配层等机制。对于使用多种 AI 编程助手的开发者，该项目可能提供统一的智能体扩展方案；对于插件开发者，则可能降低跨平台适配成本。综合热度与生态覆盖广度，该项目具有较高关注价值，但需进一步查看仓库文档以确认成熟度与可用性。",
+  "tags": [
+    "AI 智能体",
+    "插件市场",
+    "多平台适配",
+    "Claude Code",
+    "GitHub Copilot",
+    "Cursor",
+    "Python",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-10-26T01:18:39+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "wshobson",
+    "stars": 41687,
+    "forks": 4421,
+    "daily_stars": null,
+    "weekly_stars": 703,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
