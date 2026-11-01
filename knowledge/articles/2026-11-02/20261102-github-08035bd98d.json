@@ -1,0 +1,32 @@
+{
+  "id": "20261102-github-08035bd98d",
+  "title": "herdrdev/herdr",
+  "source": "github_trending",
+  "source_url": "https://github.com/herdrdev/herdr",
+  "summary": "herdrdev/herdr 是一个用 Rust 编写的运行时环境，定位为“编码智能体（coding agents）所依赖的运行层”，旨在为 AI 编码代理提供底层执行与托管能力。该项目在 GitHub 上热度极高，已获约 4.7 万星标，日增约 213 星、周增约 1524 星，属于 Rust 语言类热点项目。",
+  "content": "该仓库标题为 herdrdev/herdr，来源为 GitHub Trending，官方摘要为“the runtime your coding agents live on”，即“你的编码智能体所栖身的运行时”。从定位看，herdr 并非单一编码工具，而是面向 AI 编码代理的底层运行时/基础设施，可能涉及代理进程管理、工具调用执行、环境隔离与资源调度等能力，使编码智能体能够稳定、持续地运行。技术栈为 Rust，意味着项目强调性能、内存安全与并发可靠性，适合承载长时间运行、多代理并发的场景。社区数据方面，仓库累计星标 47,278、复刻 3,781，日增星 213、周增星 1,524，增长势头强劲，表明其处于开发者关注前沿。由于摘要信息有限，具体架构、API 设计与使用方式需进一步查阅仓库文档与源码。",
+  "tags": [
+    "Rust",
+    "AI 编码代理",
+    "运行时",
+    "开发者工具",
+    "GitHub 热点",
+    "智能体基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:35+08:00",
+  "language": "Rust",
+  "score": 8.8,
+  "metadata": {
+    "author": "herdrdev",
+    "stars": 47278,
+    "forks": 3781,
+    "daily_stars": 213,
+    "weekly_stars": 1524,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

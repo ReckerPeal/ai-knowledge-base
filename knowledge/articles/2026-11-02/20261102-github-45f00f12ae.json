@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-45f00f12ae",
+  "title": "google/brotli",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/brotli",
+  "summary": "Google 开源的 Brotli 压缩格式官方实现仓库，提供通用无损压缩算法，在 Web 场景中广泛用于文本资源压缩。该仓库以 TypeScript 生态形式呈现，拥有约 1.5 万 Star，属于长期活跃的基础设施类项目。",
+  "content": "该仓库是 Google 主导的 Brotli 压缩格式参考实现，核心价值在于提供高压缩比的无损数据压缩能力，尤其适用于 HTML、CSS、JavaScript 等 Web 文本资源的传输优化。Brotli 已被主流浏览器和 CDN 广泛支持，是 HTTP 压缩标准的重要组成部分。仓库当前标注语言为 TypeScript，结合其 15072 个 Star、1395 个 Fork 以及近一周 85 个新增 Star 的数据，可以看出项目具备较高的社区认可度和持续关注度，但周增星相对总量较小，说明其已进入成熟稳定期而非爆发增长阶段。作为 Google 维护的底层基础设施项目，其代码质量、规范性和长期维护性通常较有保障，适合作为压缩算法学习、Web 性能优化实践或相关工具链集成的参考。",
+  "tags": [
+    "Brotli",
+    "压缩算法",
+    "Google",
+    "TypeScript",
+    "Web 性能优化",
+    "无损压缩",
+    "开源基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:43+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 15072,
+    "forks": 1395,
+    "daily_stars": null,
+    "weekly_stars": 85,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-0876c9c2b3",
+  "title": "CopilotKit/OpenBot",
+  "source": "github_trending",
+  "source_url": "https://github.com/CopilotKit/OpenBot",
+  "summary": "CopilotKit/OpenBot 是一个开源 AI 同事项目，每个 AI 同事拥有独立的计算机环境（浏览器、文件与工具），所有操作在执行前经过决策、执行后留有记录，并支持接入任意 AG-UI 智能体。",
+  "content": "OpenBot 由 CopilotKit 推出，定位为“开源 AI 同事”。其核心设计是让每个 AI 智能体获得专属的计算机环境，包括浏览器、文件系统和工具集，从而能够像人类同事一样独立完成工作任务。项目强调可审计与可控性：每个动作在执行前都会经过决策流程，执行后则被完整记录，便于追溯与监督。同时，OpenBot 兼容 AG-UI 协议，用户可以接入任意符合 AG-UI 的智能体，具备良好的开放性与扩展性。项目使用 TypeScript 开发，在 GitHub 上已获得约 9.4k 星标和 1.2k 分支，日增星约 178，周增星约 2086，属于近期 TypeScript 领域的热点项目。",
+  "tags": [
+    "AI 智能体",
+    "开源",
+    "TypeScript",
+    "AG-UI",
+    "AI 同事",
+    "浏览器自动化",
+    "可审计性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:32+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "CopilotKit",
+    "stars": 9397,
+    "forks": 1177,
+    "daily_stars": 178,
+    "weekly_stars": 2086,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

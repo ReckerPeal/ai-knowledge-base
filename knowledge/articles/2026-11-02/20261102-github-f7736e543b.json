@@ -1,0 +1,34 @@
+{
+  "id": "20261102-github-f7736e543b",
+  "title": "LibreChat-AI/LibreChat",
+  "source": "github_trending",
+  "source_url": "https://github.com/LibreChat-AI/LibreChat",
+  "summary": "LibreChat 是一个增强版 ChatGPT 克隆开源项目，基于 TypeScript 开发，支持多模型切换（OpenAI、Anthropic、Gemini、DeepSeek、Mistral、Groq、Azure、AWS、Vertex AI、OpenRouter 等），集成 Agents、MCP、Skills、Artifacts、代码解释器、DALL-E-3、OpenAPI Actions 与 Functions 等能力，并提供安全的多用户认证、预设配置和消息搜索功能，适合自托管部署。项目当前约 4.66 万星标、9582 次复刻，日增约 61 星，活跃度高。",
+  "content": "LibreChat 定位为功能增强的 ChatGPT 开源替代方案，核心价值在于将多家主流大模型服务统一到一个自托管界面中，用户可在同一会话体系内自由切换模型与提供商。功能层面覆盖 Agents、MCP、Skills、Artifacts、Code Interpreter、DALL-E-3 图像生成、OpenAPI Actions 与 Functions 调用，并支持 Responses API、o1、GPT-5 等新接口与模型。工程层面采用 TypeScript 技术栈，内置安全的多用户认证、预设配置管理与消息搜索，便于团队或多人环境部署。项目在 GitHub 上拥有约 4.66 万星标和 9582 次复刻，日增约 61 星，社区活跃、迭代频繁，适合需要私有化部署、多模型聚合与丰富插件能力的个人或组织使用。",
+  "tags": [
+    "TypeScript",
+    "ChatGPT 克隆",
+    "多模型聚合",
+    "自托管",
+    "AI 聊天界面",
+    "Agents",
+    "MCP",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:32+08:00",
+  "language": "TypeScript",
+  "score": 9.0,
+  "metadata": {
+    "author": "LibreChat-AI",
+    "stars": 46611,
+    "forks": 9582,
+    "daily_stars": 61,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

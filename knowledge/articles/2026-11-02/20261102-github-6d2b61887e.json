@@ -1,0 +1,32 @@
+{
+  "id": "20261102-github-6d2b61887e",
+  "title": "VictoriaMetrics/VictoriaMetrics",
+  "source": "github_trending",
+  "source_url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "summary": "VictoriaMetrics 是一个用 Go 语言编写的高性能、低成本监控解决方案和时序数据库，在 GitHub 上拥有近 1.8 万星标，近期周增约 78 星，属于 Go 语言热点项目。",
+  "content": "VictoriaMetrics 是一个开源的时间序列数据库与监控解决方案，主打快速写入、高效存储和低成本运维。项目采用 Go 语言开发，在 GitHub 上获得 17992 个星标和 1793 次 fork，周新增星标约 78，说明社区关注度持续稳定。其核心优势在于高压缩比和查询性能，常被用于替代 Prometheus 长期存储或作为大规模监控后端。该项目适合需要处理海量指标数据的运维、SRE 和可观测性场景，具备较强的生产可用性和生态兼容性。",
+  "tags": [
+    "时序数据库",
+    "监控",
+    "Go",
+    "可观测性",
+    "开源",
+    "VictoriaMetrics"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "VictoriaMetrics",
+    "stars": 17992,
+    "forks": 1793,
+    "daily_stars": null,
+    "weekly_stars": 78,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20261102-github-d374e5dcfa",
+  "title": "beenuar/AiSOC",
+  "source": "github_trending",
+  "source_url": "https://github.com/beenuar/AiSOC",
+  "summary": "AiSOC 是一个开源 AI 安全运营中心项目，提供告警融合、LLM 智能体分诊、MITRE ATT&CK 调查，以及可回放的智能体决策账本。项目支持自托管、无需 API 密钥即可运行，采用 MIT 许可证，并附带面向 Claude、Cursor 和 Continue 的 MCP 服务器。",
+  "content": "AiSOC（beenuar/AiSOC）是一个用 Python 编写的开源 AI 安全运营中心（AI Security Operations Center）项目，当前在 GitHub 上拥有约 6055 颗星和 630 个 fork，近期热度较高（日增约 436 星，周增约 2364 星）。其核心能力包括：告警融合（alert fusion），将多源安全告警进行聚合与关联；基于 LLM 智能体的分诊（LLM-agent triage），利用大语言模型自动完成安全事件初筛与优先级判定；MITRE ATT&CK 调查，将事件映射到 ATT&CK 战术与技术框架以辅助分析；以及可回放的决策账本（replayable decision ledger），记录智能体每一步决策过程，便于审计与复现。项目强调自托管部署，且无需 API 密钥即可运行，降低了使用门槛；采用 MIT 许可证，便于二次开发与商业集成。此外，项目附带一个 MCP 服务器，可接入 Claude、Cursor 和 Continue 等 AI 工具生态，扩展了其在智能体工作流中的适用场景。整体来看，AiSOC 面向安全运营自动化与 AI 智能体可解释性，适合安全团队、AI 工程团队及对 LLM 在安全领域落地感兴趣的开发者。",
+  "tags": [
+    "AI安全",
+    "安全运营中心",
+    "LLM智能体",
+    "MITRE ATT&CK",
+    "告警融合",
+    "MCP服务器",
+    "Python",
+    "开源",
+    "自托管",
+    "可解释性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "beenuar",
+    "stars": 6055,
+    "forks": 630,
+    "daily_stars": 436,
+    "weekly_stars": 2364,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

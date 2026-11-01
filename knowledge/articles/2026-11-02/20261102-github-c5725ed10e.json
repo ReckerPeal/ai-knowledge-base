@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-c5725ed10e",
+  "title": "xai-org/x-algorithm",
+  "source": "github_trending",
+  "source_url": "https://github.com/xai-org/x-algorithm",
+  "summary": "xai-org/x-algorithm 是 X 平台（原 Twitter）'For You' 推荐信息流背后的核心算法实现，使用 Rust 语言编写，在 GitHub 上获得约 3.4 万星标，属于高关注度的推荐系统开源项目。",
+  "content": "该仓库由 xai-org 组织维护，标题为 x-algorithm，摘要说明其为驱动 X 平台 For You 信息流的算法。项目采用 Rust 语言开发，当前星标数约 34,002，复刻数约 5,502，日增星标约 31，周增星标约 243，显示出持续稳定的社区关注度。作为大型社交平台推荐系统的核心组件，其技术价值在于展示工业级信息流排序与推荐算法的工程实现，涉及候选生成、排序打分、多样性控制等典型推荐链路环节。Rust 语言的选择体现了对高性能、低延迟与内存安全的诉求，适合处理海量用户请求下的实时推荐场景。该项目对推荐系统研究者、Rust 工程实践者以及社交平台算法设计人员具有较高参考价值，但需注意其摘要信息较为简略，具体算法细节需进一步查阅仓库文档与源码。",
+  "tags": [
+    "推荐系统",
+    "信息流算法",
+    "Rust",
+    "X 平台",
+    "开源项目",
+    "社交网络",
+    "机器学习工程"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "xai-org",
+    "stars": 34002,
+    "forks": 5502,
+    "daily_stars": 31,
+    "weekly_stars": 243,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20261102-github-c9bd3a6e92",
+  "title": "jub0t/Concat",
+  "source": "github_trending",
+  "source_url": "https://github.com/jub0t/Concat",
+  "summary": "Concat 是一个用 Rust 编写的开源、免费、本地优先、跨平台的视频剪辑工具，定位为 CapCut（剪映）的替代品，并支持通过 JSON-RPC API 与 MCP 进行脚本化控制。",
+  "content": "Concat 是 GitHub 上近期热度较高的 Rust 项目（约 1.35 万星标，日增约 429 星），主打“真正免费、开源、本地优先、跨平台”的视频编辑体验，目标是对标 CapCut。其核心差异点在于可编程性：提供 JSON-RPC API 与 MCP（Model Context Protocol）接口，使开发者或 AI 代理能够以脚本方式驱动剪辑流程，便于自动化与集成。项目采用 Rust 实现，具备跨平台与本地处理的特性，适合关注开源视频工具、自动化剪辑与 AI 工具链集成的开发者。",
+  "tags": [
+    "Rust",
+    "开源",
+    "视频编辑",
+    "CapCut替代",
+    "跨平台",
+    "本地优先",
+    "JSON-RPC",
+    "MCP",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:35+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "jub0t",
+    "stars": 13509,
+    "forks": 1670,
+    "daily_stars": 429,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

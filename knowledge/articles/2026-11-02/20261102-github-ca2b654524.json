@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-ca2b654524",
+  "title": "upscayl/upscayl",
+  "source": "github_trending",
+  "source_url": "https://github.com/upscayl/upscayl",
+  "summary": "Upscayl 是一款免费开源的 AI 图像放大工具，支持 Linux、macOS 和 Windows 三大桌面平台，基于 TypeScript 开发，在 GitHub 上拥有超过 5.1 万星标，是当前最受欢迎的开源 AI 图像超分辨率项目之一。",
+  "content": "Upscayl 定位为跨平台免费开源 AI 图像放大（超分辨率）桌面应用，覆盖 Linux、macOS 与 Windows。项目以 TypeScript 为主要开发语言，GitHub 星标约 51,568、Fork 约 2,680，日增星约 134，热度持续较高。其核心价值在于将 AI 图像放大能力封装为易用的桌面工具，降低普通用户使用门槛，同时以开源方式提供可审计、可定制的实现。从技术生态看，TypeScript 表明其桌面端可能基于 Electron 等 Web 技术栈构建，AI 推理部分通常依赖本地模型与 GPU 加速。该项目适合需要批量提升图片分辨率的设计师、摄影爱好者及开发者，也适合作为开源 AI 桌面应用架构的参考案例。",
+  "tags": [
+    "AI 图像放大",
+    "超分辨率",
+    "开源软件",
+    "TypeScript",
+    "跨平台桌面应用",
+    "Electron",
+    "图像处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:32+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "upscayl",
+    "stars": 51568,
+    "forks": 2680,
+    "daily_stars": 134,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

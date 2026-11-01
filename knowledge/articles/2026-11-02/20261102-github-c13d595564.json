@@ -1,0 +1,36 @@
+{
+  "id": "20261102-github-c13d595564",
+  "title": "melgarafael/DeskcommCRM",
+  "source": "github_trending",
+  "source_url": "https://github.com/melgarafael/DeskcommCRM",
+  "summary": "DeskcommCRM 是一个开源 AI 销售操作系统，提供自托管 CRM，内置原生 AI 代理并集成 WhatsApp（通过 WAHA），定位为 Kommo、Octadesk 和 Intercom 的开源替代方案，适合任何通过聊天销售业务的企业。项目支持 MCP 协议、多租户架构，并符合 LGPD（巴西数据保护法），使用 TypeScript 开发，在 GitHub 上已获得约 5029 星标和 1425 次 fork，日增约 29 星。",
+  "content": "DeskcommCRM 是一个面向聊天销售场景的开源 AI 销售操作系统（AI Sales OS），核心特点包括：\n\n1. **自托管 CRM**：企业可完全掌控数据与部署环境，避免依赖第三方 SaaS。\n2. **原生 AI 代理**：内置 AI 代理能力，可自动化销售流程、客户互动与跟进。\n3. **WhatsApp 集成**：通过 WAHA（WhatsApp HTTP API）实现与 WhatsApp 的原生连接，覆盖主流聊天销售渠道。\n4. **开源替代方案**：定位为 Kommo、Octadesk 和 Intercom 的开源替代品，降低企业使用成本。\n5. **MCP-ready**：支持 Model Context Protocol，便于与 AI 工具链和外部系统集成。\n6. **多租户架构**：适合 SaaS 服务商或集团型企业为多个客户/团队提供独立空间。\n7. **LGPD 合规**：遵循巴西《通用数据保护法》，关注用户隐私与数据安全。\n\n技术栈为 TypeScript，项目在 GitHub 上热度较高（约 5029 stars、1425 forks，日增约 29 stars），属于 GitHub 热点 TypeScript 类别。适合需要自托管、AI 驱动、以聊天为核心的销售 CRM 的中小企业、开发团队及 SaaS 服务商。",
+  "tags": [
+    "开源CRM",
+    "AI销售",
+    "WhatsApp集成",
+    "自托管",
+    "TypeScript",
+    "多租户",
+    "MCP",
+    "LGPD",
+    "聊天销售",
+    "AI代理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:32+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "melgarafael",
+    "stars": 5029,
+    "forks": 1425,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

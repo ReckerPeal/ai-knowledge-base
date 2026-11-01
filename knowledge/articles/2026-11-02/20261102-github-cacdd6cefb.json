@@ -1,0 +1,32 @@
+{
+  "id": "20261102-github-cacdd6cefb",
+  "title": "FlashML-org/FreeToken",
+  "source": "github_trending",
+  "source_url": "https://github.com/FlashML-org/FreeToken",
+  "summary": "FreeToken 是 FlashML-org 推出的开源项目，旨在将数据中心级的大模型推理服务能力带到桌面环境，让用户能在本地快速高效地运行大规模模型。项目以 Python 实现，在 GitHub 上热度很高，已获得超过 1.5 万星标，日增约 232 星。",
+  "content": "FreeToken 的核心定位是「把数据中心规模的模型服务带到你的桌面」。根据仓库摘要，它支持在本地运行大规模模型，并强调速度与效率。该项目由 FlashML-org 维护，使用 Python 语言开发，属于 GitHub 热点中的 Python 类别。截至采集时，仓库拥有 15263 个星标和 1543 个 fork，日增星标约 232，显示出较强的社区关注度。其潜在价值在于降低大模型本地部署的门槛，使个人开发者或小团队无需依赖云端 GPU 集群即可获得接近生产级的推理体验。不过，摘要未披露具体支持的模型格式、硬件要求、推理加速技术（如量化、KV Cache 优化、并行策略）等细节，实际性能与易用性需进一步查看文档和代码验证。",
+  "tags": [
+    "大模型推理",
+    "本地部署",
+    "模型服务",
+    "Python",
+    "开源项目",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:30+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "FlashML-org",
+    "stars": 15263,
+    "forks": 1543,
+    "daily_stars": 232,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

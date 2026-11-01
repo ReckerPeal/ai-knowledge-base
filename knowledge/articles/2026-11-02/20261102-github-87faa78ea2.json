@@ -1,0 +1,34 @@
+{
+  "id": "20261102-github-87faa78ea2",
+  "title": "oraios/serena",
+  "source": "github_trending",
+  "source_url": "https://github.com/oraios/serena",
+  "summary": "oraios/serena 是一个面向编码场景的 MCP 工具包，为 AI Agent 提供语义检索与代码编辑能力，定位为“Agent 的 IDE”。项目使用 Python 编写，在 GitHub 上已获得约 3.1 万星标，属于 Python 类热点项目。",
+  "content": "该仓库的核心价值在于把 IDE 级别的代码理解与编辑能力封装为 MCP（Model Context Protocol）工具，使 AI Agent 能够以语义方式检索代码库并执行精确修改，而不再依赖纯文本匹配。其定位“the IDE for your agent”表明它试图充当 Agent 与代码库之间的智能中间层。从社区数据看，项目累计星标约 30982、复刻约 2119，日增星标约 57，热度较高且仍在持续增长，说明 MCP 生态与 Agent 编码工具方向受到广泛关注。技术栈为 Python，便于与主流 LLM/Agent 框架集成。适用场景包括：为编码 Agent 提供代码语义搜索、跨文件重构与编辑、在大型代码库中辅助定位与修改。潜在关注点：MCP 协议与工具生态仍在快速演进，接口稳定性与兼容性需持续跟踪；语义检索效果依赖索引与语言支持范围。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "代码检索",
+    "语义搜索",
+    "代码编辑",
+    "Python",
+    "开发者工具",
+    "IDE"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:30+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "oraios",
+    "stars": 30982,
+    "forks": 2119,
+    "daily_stars": 57,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

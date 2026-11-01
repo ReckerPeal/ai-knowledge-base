@@ -1,0 +1,31 @@
+{
+  "id": "20261102-github-4b143c8890",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "summary": "该论文挑战了语言模型必须依赖显式分词器才能高效运行的假设，证明标准扁平 Transformer 可直接处理原始字节序列，且随参数规模扩大，其表现优于传统子词模型。作者通过 token-superposition 训练和哈希嵌入，在相同参数预算下使字节模型达到更低的最优损失；字节 Transformer 还能隐式发展出局部抽象结构，并在复制任务中表现出集中的注意力模式。逐字节损失分布差异巨大，大量字节位置损失接近零，为推测解码带来机会，字节级草稿模型每次目标前向可接受约 3.4 倍于子词模型的 token 数。实验显示字节 Transformer 在 CUTE 词操作任务上相对提升约 40%，在 OCRBench 上提升 20%。论文认为未来架构中序列长度、学习到的抽象与计算分配将紧密关联，扁平 Transformer 结合稀疏混合专家可动态分配计算，字节级表示也更利于多模态模型对齐细粒度视觉特征。",
+  "content": "论文《Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation》探讨了无需显式分词器的字节级语言模型。核心发现包括：1）标准扁平 Transformer 处理原始字节序列时，随着参数规模扩大，性能可超越传统子词模型；序列变长带来的额外计算在相同参数预算下反而成为优势。2）通过 token-superposition 训练和哈希嵌入，字节模型在匹配参数数量下持续获得更低的最优损失。3）字节 Transformer 无需专门分层架构即可隐式形成局部抽象；在复制任务中注意力集中于少量特定分割位置，冻结最多四分之一中间层并仅处理局部聚合表示后，下游性能仍保持不变。4）逐字节损失分布方差大，大量位置损失接近零，信息密度集中在学习到的局部结构边界，这为推测解码提供巨大空间；字节级草稿模型每次目标前向接受 token 数约为子词模型的 3.4 倍，可抵消逐字节处理的顺序开销。5）在需要细粒度感知的任务上提升显著：CUTE 词操作分数相对提升约 40%，OCRBench 提升 20%。6）对未来设计的启示是刚性子词词表可能走向终结，序列长度、学习抽象与计算分配成为紧密关联的维度；可用扁平 Transformer 加稀疏混合专家减少激活计算并动态分配算力，字节级表示也更适合与细粒度视觉特征对齐的多模态模型。",
+  "tags": [
+    "字节级语言模型",
+    "Transformer",
+    "分词器",
+    "推测解码",
+    "稀疏混合专家",
+    "多模态",
+    "语言模型架构"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-10T17:25:14-05:00",
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

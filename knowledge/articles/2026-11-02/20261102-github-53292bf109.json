@@ -1,0 +1,34 @@
+{
+  "id": "20261102-github-53292bf109",
+  "title": "infiniflow/ragflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/infiniflow/ragflow",
+  "summary": "RAGFlow 是 infiniflow 开源的领先 RAG（检索增强生成）引擎，将前沿 RAG 技术与 Agent 能力融合，为 LLM 构建更优的上下文层。项目在 GitHub 上获得约 9.3 万星标，周增约 499 星，热度极高，主要使用 Go 语言开发。",
+  "content": "RAGFlow 定位为领先的开源检索增强生成（RAG）引擎，核心价值在于把前沿的 RAG 能力与 Agent 能力相结合，为大型语言模型提供更高质量的上下文层，从而提升生成结果的准确性与相关性。\n\n从社区数据看，该仓库累计星标约 93,296，Fork 约 11,200，近一周新增星标约 499，说明项目仍处于高速增长阶段，受到开发者广泛关注。项目主要语言为 Go，适合对性能与并发有要求的后端服务场景。\n\n适用场景包括：企业知识库问答、文档检索增强、智能 Agent 构建、LLM 应用上下文管理等。对于需要自建 RAG 流水线、追求开源可控与社区活跃度的团队，RAGFlow 是值得重点评估的候选方案。建议关注其文档解析、检索召回与 Agent 编排能力，并结合自身数据规模进行 PoC 验证。",
+  "tags": [
+    "RAG",
+    "检索增强生成",
+    "Agent",
+    "LLM",
+    "开源",
+    "Go",
+    "知识库问答",
+    "上下文层"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "infiniflow",
+    "stars": 93296,
+    "forks": 11200,
+    "daily_stars": null,
+    "weekly_stars": 499,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

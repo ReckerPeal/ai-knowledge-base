@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-ebafbcbe23",
+  "title": "XTLS/Xray-core",
+  "source": "github_trending",
+  "source_url": "https://github.com/XTLS/Xray-core",
+  "summary": "XTLS/Xray-core 是一个用 Go 语言编写的开源网络代理平台，被誉为 v2ray-core 的增强替代品，支持多种协议与传输方式，主打穿透性与灵活性，在 GitHub 上拥有超过 4.2 万星标，是网络代理与隐私传输领域的热门项目。",
+  "content": "Xray-core 是 XTLS 组织维护的开源网络代理核心，定位为“穿透一切”的通用平台，并自称是“最好的 v2ray-core”。项目采用 Go 语言实现，具备高性能、跨平台和模块化设计特点，支持 VMess、VLESS、Trojan、Shadowsocks 等多种代理协议，以及 TCP、mKCP、WebSocket、HTTP/2、QUIC 等传输层方案。其核心创新包括 XTLS 流控技术，可减少 TLS 握手与加解密开销，提升传输效率。该仓库在 GitHub 上累计获得约 42,542 星标和 6,082 次 fork，日增星标约 31，属于 GitHub 热点 Go 分类下的活跃项目。Xray-core 常被用于构建科学上网、内网穿透、隐私保护等场景，社区生态丰富，配套有图形化客户端与配置工具。由于涉及网络代理与审查规避，项目在部分网络环境中具有较高关注度，同时也需注意合规使用。",
+  "tags": [
+    "网络代理",
+    "Go",
+    "开源",
+    "v2ray",
+    "XTLS",
+    "隐私安全",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:38+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "XTLS",
+    "stars": 42542,
+    "forks": 6082,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

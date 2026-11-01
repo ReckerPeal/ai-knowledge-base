@@ -1,0 +1,35 @@
+{
+  "id": "20261102-github-41aca834c0",
+  "title": "QuantumNous/new-api",
+  "source": "github_trending",
+  "source_url": "https://github.com/QuantumNous/new-api",
+  "summary": "QuantumNous/new-api 是一个开源的自托管 AI 网关，提供与 OpenAI、Claude 和 Gemini 兼容的 API 接口，支持模型路由、访问控制、用量追踪与成本核算，使用 Go 语言开发，在 GitHub 上拥有超过 5.1 万星标。",
+  "content": "该项目定位为自托管的 LLM 网关，核心价值在于统一接入多家主流大模型服务。它对外暴露 OpenAI、Claude 和 Gemini 兼容的 API，使现有客户端无需改造即可切换后端模型；内置模型路由能力，可按策略将请求分发到不同模型或供应商；提供访问控制机制，便于团队或企业进行权限管理；同时支持用量追踪与成本核算，帮助运营方掌握调用量与费用分布。项目采用 Go 语言实现，具备较好的并发性能与部署便利性，适合需要私有化部署、多模型统一管理和成本可控的 AI 应用场景。",
+  "tags": [
+    "AI 网关",
+    "LLM 网关",
+    "自托管",
+    "Go",
+    "模型路由",
+    "API 兼容",
+    "访问控制",
+    "成本核算",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "QuantumNous",
+    "stars": 51140,
+    "forks": 12402,
+    "daily_stars": null,
+    "weekly_stars": 540,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

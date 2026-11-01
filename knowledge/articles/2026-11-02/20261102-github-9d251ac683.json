@@ -1,0 +1,32 @@
+{
+  "id": "20261102-github-9d251ac683",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "summary": "Meta 在 Hugging Face 博客发布 Muse Spark Open，这是一个开放权重的前沿多模态混合专家（MoE）模型，标志着 Meta 继续推进开放权重多模态大模型生态。",
+  "content": "该条目来自 Hugging Face Blog（公司博客分类），标题为《Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta》，发布时间为 2026-10-15。核心信息是 Meta 推出名为 Muse Spark Open 的开放权重模型，定位为“前沿（frontier）”级别，并采用多模态 + 混合专家（MoE）架构。开放权重意味着模型参数可下载与本地部署，便于研究社区与企业在私有环境中微调、评测和集成；多模态能力通常覆盖文本与图像等输入形式；MoE 架构则通过稀疏激活在控制推理成本的同时扩展模型容量。该发布对开源/开放权重模型生态具有较强信号意义，可能影响多模态基座的选型与二次开发路径。摘要未提供参数量、上下文长度、基准成绩、许可证条款与硬件需求等细节，实际采用前需查阅原始博客与模型卡。",
+  "tags": [
+    "Meta",
+    "开放权重",
+    "多模态",
+    "混合专家",
+    "MoE",
+    "大模型",
+    "Hugging Face",
+    "模型发布"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-15T00:00:00+00:00",
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

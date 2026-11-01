@@ -1,0 +1,33 @@
+{
+  "id": "20261102-github-0f5e0d0f60",
+  "title": "ethanplusai/harvey",
+  "source": "github_trending",
+  "source_url": "https://github.com/ethanplusai/harvey",
+  "summary": "Harvey 是一个基于 Claude Code 或 Codex 的自主 AI 销售代理，能够自动寻找潜在客户、撰写冷邮件、发送营销活动、处理回复并预约会议。其最大特点是无需 API 密钥，直接运行在用户的 Claude 或 Codex 订阅上，降低了使用门槛。项目采用 Python 开发，在 GitHub 上已获得约 3872 颗星和 800 次 fork，日增星约 237，属于近期热点项目。",
+  "content": "该仓库由 ethanplusai 发布，定位为端到端的自主 AI 销售代理。核心功能覆盖销售外联全流程：潜在客户发现、冷邮件撰写、营销活动发送、回复处理以及会议预约。技术实现上依赖 Claude Code 或 Codex 作为推理与执行引擎，并强调无需额外 API 密钥，直接复用用户已有的订阅额度，这在一定程度上简化了部署和成本管理。项目语言为 Python，当前星标数 3872、fork 数 800，日增星 237，表明社区关注度较高。适用场景包括中小团队或个人销售自动化、外联流程提效，但需注意自动化外联的合规性与邮件送达率等实际落地问题。",
+  "tags": [
+    "AI销售代理",
+    "Claude Code",
+    "Codex",
+    "Python",
+    "自动化外联",
+    "冷邮件",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:30+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "ethanplusai",
+    "stars": 3872,
+    "forks": 800,
+    "daily_stars": 237,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

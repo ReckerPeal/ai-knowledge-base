@@ -1,0 +1,35 @@
+{
+  "id": "20261102-github-e11d079985",
+  "title": "tinygo-org/tinygo",
+  "source": "github_trending",
+  "source_url": "https://github.com/tinygo-org/tinygo",
+  "summary": "TinyGo 是一个基于 LLVM 的 Go 编译器，专为微控制器、WebAssembly（WASM/WASI）和命令行工具等资源受限环境设计，旨在将 Go 语言引入嵌入式与边缘计算场景。",
+  "content": "TinyGo 是 Go 语言生态中的重要创新项目，通过 LLVM 后端实现了对小型设备的 Go 编译支持。其核心价值在于扩展了 Go 的应用边界：一方面让开发者能用 Go 编写微控制器程序（如 Arduino、ESP32 等），另一方面支持编译为 WebAssembly（WASM/WASI），适用于浏览器和边缘计算场景。项目在 GitHub 上拥有约 1.8 万星标，周增约 31 星，社区活跃度稳定。TinyGo 降低了嵌入式开发的入门门槛，同时为 Go 开发者提供了跨平台部署能力，适合物联网、边缘计算和 WASM 应用开发。",
+  "tags": [
+    "TinyGo",
+    "Go编译器",
+    "LLVM",
+    "微控制器",
+    "WebAssembly",
+    "WASI",
+    "嵌入式开发",
+    "物联网",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-02T02:39:49+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "tinygo-org",
+    "stars": 17875,
+    "forks": 1101,
+    "daily_stars": null,
+    "weekly_stars": 31,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
