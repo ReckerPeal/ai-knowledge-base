@@ -1,0 +1,31 @@
+{
+  "id": "20261106-github-de4cf53f9d",
+  "title": "Scaling Git at OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/scaling-git-at-openai",
+  "summary": "OpenAI 工程团队为应对 Codex 带来的大规模开发需求，构建了 Git 兼容后端 Pando，以支撑超大规模代码协作与版本控制。",
+  "content": "该文章介绍了 OpenAI 如何设计并实现 Pando——一个与 Git 协议兼容的后端系统，旨在解决 Codex 等 AI 编程工具普及后带来的代码仓库规模与协作频率激增问题。Pando 在保持 Git 兼容性的同时，针对大规模开发场景进行了架构优化，体现了 OpenAI 在基础设施层面的工程实践。",
+  "tags": [
+    "Git",
+    "OpenAI",
+    "Pando",
+    "Codex",
+    "版本控制",
+    "基础设施",
+    "大规模开发"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-02T15:30:00+00:00",
+  "collected_at": "2026-11-06T04:52:41+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

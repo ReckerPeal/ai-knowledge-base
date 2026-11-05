@@ -1,0 +1,33 @@
+{
+  "id": "20261106-github-df43f2fe1a",
+  "title": "macro-inc/macro",
+  "source": "github_trending",
+  "source_url": "https://github.com/macro-inc/macro",
+  "summary": "Macro 是面向团队的统一工作空间，将邮件、聊天、文档、任务、AI 代理、通话和 CRM 整合在一起，并通过共享 AI 记忆实现 @ 关联。项目使用 Rust 开发，在 GitHub 上获得约 6168 星标，周增约 934 星，属于 Rust 热点项目。",
+  "content": "Macro（macro-inc/macro）是一个面向团队的统一协作工作空间，核心定位是把日常工作中分散的多种工具整合到同一平台。根据仓库摘要，其功能覆盖邮件、即时聊天、文档、任务管理、AI 代理（agents）、通话以及 CRM，并通过共享 AI 记忆（shared AI memory）将这些模块以 @ 关联的方式打通，使信息与上下文能够在不同功能之间流转。\n\n从技术栈看，项目主要使用 Rust 语言开发，这通常意味着对性能、内存安全和并发能力有较高要求。仓库热度方面，当前星标数约 6168，fork 数约 572，近一周新增星标约 934，说明项目在 GitHub 上具有较高的关注度和传播速度，被归类为 Rust 热点项目。\n\n综合来看，Macro 的差异化在于“统一工作空间 + 共享 AI 记忆”的组合：不是简单地把多个工具并列放置，而是试图让 AI 在邮件、聊天、文档、任务和 CRM 之间共享上下文，从而减少团队在多个 SaaS 工具之间切换的成本。该方向适合关注团队协作平台、AI 原生办公工具以及 Rust 工程实践的人群进一步跟踪。",
+  "tags": [
+    "Rust",
+    "团队协作",
+    "统一工作空间",
+    "AI 代理",
+    "共享 AI 记忆",
+    "CRM",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:38+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "macro-inc",
+    "stars": 6168,
+    "forks": 572,
+    "daily_stars": null,
+    "weekly_stars": 934,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

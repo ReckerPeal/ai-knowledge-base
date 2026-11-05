@@ -1,0 +1,32 @@
+{
+  "id": "20261106-github-96bb6a372b",
+  "title": "aws/agent-toolkit-for-aws",
+  "source": "github_trending",
+  "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "summary": "AWS 官方推出的 agent-toolkit-for-aws 仓库，提供 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建应用。该仓库使用 Python 编写，已获得 3410 个 Star 和 432 个 Fork，日增约 13 星，属于 GitHub 热点 Python 项目。",
+  "content": "该仓库由 AWS 官方维护，核心目标是降低 AI 代理与 AWS 服务集成的门槛。它包含三类组件：MCP（Model Context Protocol）服务器，用于标准化 AI 代理与外部工具/数据的交互；技能（skills），封装特定 AWS 操作能力；插件（plugins），扩展代理功能。这些组件共同帮助开发者快速构建基于 AWS 的 AI 代理应用。项目语言为 Python，当前星标数 3410，Fork 数 432，日增星约 13，表明社区关注度较高但增长平稳。作为官方支持项目，其代码质量、文档和维护性通常有保障，适合需要将 AI 代理与 AWS 生态结合的企业和开发者参考使用。",
+  "tags": [
+    "AWS",
+    "AI 代理",
+    "MCP",
+    "Python",
+    "官方工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:22+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "aws",
+    "stars": 3410,
+    "forks": 432,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

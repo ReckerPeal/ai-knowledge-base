@@ -1,0 +1,32 @@
+{
+  "id": "20261106-github-1e362b7cca",
+  "title": "kubernetes-sigs/controller-runtime",
+  "source": "github_trending",
+  "source_url": "https://github.com/kubernetes-sigs/controller-runtime",
+  "summary": "kubernetes-sigs/controller-runtime 是 kubebuilder 项目的核心子项目，为 Kubernetes 控制器开发提供基础库，使用 Go 语言编写，在 GitHub 上拥有约 2986 个星标和 1333 个复刻。",
+  "content": "controller-runtime 是 Kubernetes SIG API Machinery 维护的 kubebuilder 子项目，旨在简化 Kubernetes 控制器的构建过程。它封装了 client-go 和 apimachinery 等底层库，提供 Manager、Controller、Reconciler、Client、Cache 等核心抽象，帮助开发者以更少的样板代码实现自定义资源（CRD）的协调循环。该仓库是 Kubernetes 生态中 Operator 和控制器开发的事实标准基础库，被大量云原生项目依赖。其语言为 Go，社区活跃，星标数接近 3000，复刻数超过 1300，体现了其在云原生开发领域的重要地位。",
+  "tags": [
+    "Kubernetes",
+    "Go",
+    "控制器",
+    "Operator",
+    "云原生",
+    "kubebuilder"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:30+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "kubernetes-sigs",
+    "stars": 2986,
+    "forks": 1333,
+    "daily_stars": 0,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

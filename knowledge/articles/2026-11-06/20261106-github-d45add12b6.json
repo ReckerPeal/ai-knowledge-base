@@ -1,0 +1,32 @@
+{
+  "id": "20261106-github-d45add12b6",
+  "title": "fatedier/frp",
+  "source": "github_trending",
+  "source_url": "https://github.com/fatedier/frp",
+  "summary": "fatedier/frp 是一个用 Go 编写的高性能反向代理工具，用于将位于 NAT 或防火墙后的本地服务器暴露到互联网，GitHub 星标超过 11 万，周增约 239 星，是内网穿透领域的代表性开源项目。",
+  "content": "frp（Fast Reverse Proxy）由 fatedier 开发，核心目标是解决内网服务无法被公网直接访问的问题。它采用客户端-服务端架构：frps 部署在具有公网 IP 的服务器上，frpc 运行在内网机器上，二者通过自定义协议建立持久连接，将外部请求转发至内网服务。项目支持 TCP、UDP、HTTP、HTTPS 等多种协议代理，并提供基于域名的虚拟主机路由、P2P 穿透、插件机制、连接加密与压缩、身份认证、限流与监控等能力。凭借 Go 语言的并发模型与静态编译优势，frp 具备部署简单、跨平台、性能稳定等特点，广泛用于远程办公、开发调试、IoT 设备接入和家庭 NAS 访问等场景。仓库当前获得约 110,457 星标和 15,304 次 fork，周增约 239 星，社区活跃、文档完善，是内网穿透与反向代理领域事实上的标准工具之一。",
+  "tags": [
+    "反向代理",
+    "内网穿透",
+    "Go",
+    "NAT 穿透",
+    "网络工具",
+    "开源基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:41+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "fatedier",
+    "stars": 110457,
+    "forks": 15304,
+    "daily_stars": null,
+    "weekly_stars": 239,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

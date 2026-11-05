@@ -1,0 +1,33 @@
+{
+  "id": "20261106-github-a0e05977f2",
+  "title": "hashicorp/terraform-provider-azurerm",
+  "source": "github_trending",
+  "source_url": "https://github.com/hashicorp/terraform-provider-azurerm",
+  "summary": "HashiCorp 官方维护的 Terraform Azure Resource Manager 提供商，使用 Go 语言开发，用于通过 Terraform 声明式管理 Azure 云资源，是 Azure 基础设施即代码（IaC）生态的核心组件。",
+  "content": "该仓库为 Terraform 官方 AzureRM Provider，主要功能是将 Azure Resource Manager API 封装为 Terraform 资源与数据源，使用户能够以 HCL 配置声明式地创建、更新和删除 Azure 资源。项目采用 Go 语言编写，遵循 Terraform Plugin SDK/框架规范，覆盖虚拟机、网络、存储、数据库、Kubernetes 服务等大量 Azure 服务。仓库拥有约 4982 个 Star 和 5076 个 Fork，Fork 数高于 Star 数，反映出社区参与贡献和二次开发活跃；日增 Star 约 2 个，属于成熟稳定型项目而非短期热点。作为 HashiCorp 官方项目，其代码质量、文档和发布流程较为规范，是 Azure 上实施 IaC 与 GitOps 工作流的重要基础设施。",
+  "tags": [
+    "Terraform",
+    "Azure",
+    "基础设施即代码",
+    "Go",
+    "云资源管理",
+    "HashiCorp",
+    "Provider"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "hashicorp",
+    "stars": 4982,
+    "forks": 5076,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

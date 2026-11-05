@@ -1,0 +1,33 @@
+{
+  "id": "20261106-github-b22ad9f6b5",
+  "title": "garrytan/gstack",
+  "source": "github_trending",
+  "source_url": "https://github.com/garrytan/gstack",
+  "summary": "garrytan/gstack 是一个基于 TypeScript 的开源项目，提供 Garry Tan 使用的 Claude Code 配置方案，包含 23 个有明确设计取向的工具，分别承担 CEO、设计师、工程经理、发布经理、文档工程师和 QA 等角色，旨在将 AI 编码助手扩展为覆盖多职能的协作系统。",
+  "content": "该项目将 Claude Code 的配置封装为一组角色化工具集，每个工具对应软件研发流程中的一个职能角色：CEO 负责方向与优先级，设计师负责界面与体验，工程经理负责技术方案与任务拆解，发布经理负责版本与交付，文档工程师负责文档产出，QA 负责质量验证。其核心价值在于把单一 AI 编码助手扩展为多角色协作的工作流，适合希望借鉴成熟 AI 辅助研发实践、快速搭建团队级 Claude Code 使用规范的开发者与工程团队。项目使用 TypeScript 实现，在 GitHub 上获得极高关注度（约 14 万星标），日增星约 608、周增星约 1587，表明其具有较强的社区传播力和实践参考价值。",
+  "tags": [
+    "Claude Code",
+    "AI 编程助手",
+    "开发工作流",
+    "TypeScript",
+    "多角色协作",
+    "工程效率",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-06T04:52:25+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "garrytan",
+    "stars": 139868,
+    "forks": 20687,
+    "daily_stars": 608,
+    "weekly_stars": 1587,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20261106-github-843f0669e2",
+  "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+  "source": "rss",
+  "source_url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+  "summary": "该内容来自 Google Project Zero 博客，比较了传统模糊测试工具 Fuzzilli 与 AI 驱动的 BigSleep 在 JavaScript 引擎漏洞发现上的表现，属于安全测试与 AI 交叉领域的技术分析。",
+  "content": "文章标题为《Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines》，由 Google Project Zero 发布。内容围绕两种漏洞挖掘方法展开：Fuzzilli 是基于覆盖引导的传统模糊测试器，专门针对 JavaScript 引擎；BigSleep 则是利用大语言模型进行漏洞发现的 AI 方法。文章通过对比实验，分析两者在发现 JavaScript 引擎漏洞方面的效率、覆盖范围和局限性，探讨 AI 在安全测试中的实际能力与前景。来源为 Lobsters AI 聚合，原文语言为英文，发布时间为 2026 年 10 月 27 日。",
+  "tags": [
+    "模糊测试",
+    "AI安全",
+    "JavaScript引擎",
+    "漏洞挖掘",
+    "Fuzzilli",
+    "BigSleep",
+    "Project Zero"
+  ],
+  "status": "draft",
+  "published_at": "2026-10-27T14:08:23-05:00",
+  "collected_at": "2026-11-06T04:52:41+08:00",
+  "language": "en",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Lobsters AI",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
