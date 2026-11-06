@@ -1,0 +1,32 @@
+{
+  "id": "20261107-github-32800af6ef",
+  "title": "vitejs/vite",
+  "source": "github_trending",
+  "source_url": "https://github.com/vitejs/vite",
+  "summary": "Vite 是由 vitejs 组织维护的下一代前端构建工具，以极快的冷启动和热更新速度著称，当前在 GitHub 上拥有约 8.4 万星标，属于 TypeScript 生态中的高热度项目。",
+  "content": "Vite 定位为“下一代前端工具”，核心优势是速度快。它利用浏览器原生 ES 模块在开发阶段按需编译，避免传统打包工具的长时间启动；生产构建则基于 Rollup 进行优化。仓库语言为 TypeScript，作者为 vitejs，当前星标约 83,806，复刻约 9,231，日增星标约 120，表明项目仍保持较高社区活跃度。该摘要信息较简短，未提供具体版本、功能细节或发布时间，但结合其星标规模和日增趋势，可判断 Vite 是现代前端工程化领域的主流基础设施之一，适合关注前端构建性能、开发体验和 TypeScript 工具链的开发者。",
+  "tags": [
+    "Vite",
+    "前端工具链",
+    "构建工具",
+    "TypeScript",
+    "开发服务器",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:17+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "vitejs",
+    "stars": 83806,
+    "forks": 9231,
+    "daily_stars": 120,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

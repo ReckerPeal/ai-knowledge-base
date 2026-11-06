@@ -1,0 +1,32 @@
+{
+  "id": "20261107-github-720700fcb6",
+  "title": "psf/black",
+  "source": "github_trending",
+  "source_url": "https://github.com/psf/black",
+  "summary": "psf/black 是 Python 官方软件基金会维护的“不妥协的 Python 代码格式化工具”，以强制统一代码风格为核心目标，拥有超过 4.2 万星标，是 Python 生态中最主流的格式化工具之一。",
+  "content": "Black 是一个 Python 代码格式化工具，其设计哲学是“不妥协”——几乎不提供风格配置选项，从而消除团队中关于代码风格的争论。它自动将 Python 代码格式化为符合 PEP 8 的统一样式，支持命令行和编辑器集成，可检查并重写文件。Black 由 Python 软件基金会（PSF）维护，社区活跃，星标数超过 42,000，被大量开源项目和企业采用。其核心价值在于提升代码可读性、减少代码审查中的风格噪音，并与 CI/CD 流程无缝集成。",
+  "tags": [
+    "Python",
+    "代码格式化",
+    "开发工具",
+    "PSF",
+    "代码风格",
+    "自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:14+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "psf",
+    "stars": 42121,
+    "forks": 2967,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

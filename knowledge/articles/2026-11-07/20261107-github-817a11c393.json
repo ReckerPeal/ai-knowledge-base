@@ -1,0 +1,33 @@
+{
+  "id": "20261107-github-817a11c393",
+  "title": "prometheus/prometheus",
+  "source": "github_trending",
+  "source_url": "https://github.com/prometheus/prometheus",
+  "summary": "Prometheus 是开源监控系统与时序数据库，使用 Go 语言开发，在 GitHub 上拥有约 6.7 万星标，近期日增约 140 星，热度持续。",
+  "content": "Prometheus 是由 prometheus 组织维护的开源监控与告警系统，核心包含时序数据库和强大的查询语言 PromQL。它采用拉取模式采集指标，支持多维数据模型、灵活的告警规则和丰富的可视化集成，是云原生监控的事实标准，广泛应用于 Kubernetes 等动态环境。仓库使用 Go 语言编写，当前星标数约 67098，复刻数约 10981，日增星约 140、周增星约 266，表明项目仍保持较高社区活跃度。该仓库属于 GitHub 热点中的 Go 语言类别，适合关注可观测性、基础设施监控和云原生技术栈的开发者深入研究与使用。",
+  "tags": [
+    "Prometheus",
+    "监控系统",
+    "时序数据库",
+    "Go",
+    "云原生",
+    "可观测性",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:22+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "prometheus",
+    "stars": 67098,
+    "forks": 10981,
+    "daily_stars": 140,
+    "weekly_stars": 266,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261107-github-999a3038e9",
+  "title": "numpy/numpy",
+  "source": "github_trending",
+  "source_url": "https://github.com/numpy/numpy",
+  "summary": "NumPy 是 Python 科学计算的基础包，提供高性能多维数组对象及丰富的数学函数库，是数据科学、机器学习和数值计算生态的核心依赖。",
+  "content": "NumPy（Numerical Python）是 Python 生态中用于科学计算的核心库，GitHub 仓库 numpy/numpy 当前获得约 3.3 万星标和 1.3 万分支，日增星约 142，持续保持高活跃度。其核心是 ndarray 多维数组对象，支持向量化运算、广播机制和高效内存布局，并内置线性代数、傅里叶变换、随机数生成等模块。NumPy 是 pandas、SciPy、scikit-learn、PyTorch、TensorFlow 等众多科学计算与机器学习框架的底层依赖，被誉为 Python 数据科学生态的基石。该项目采用 Python 与 C/C++ 混合实现以兼顾易用性与性能，拥有成熟的社区治理、完善的文档和持续的版本迭代，适合数据科学、数值分析、机器学习及科研计算等场景使用。",
+  "tags": [
+    "Python",
+    "科学计算",
+    "数值计算",
+    "多维数组",
+    "开源库",
+    "数据科学",
+    "机器学习基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:14+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "numpy",
+    "stars": 33327,
+    "forks": 13088,
+    "daily_stars": 142,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

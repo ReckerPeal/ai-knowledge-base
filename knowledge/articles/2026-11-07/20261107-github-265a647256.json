@@ -1,0 +1,33 @@
+{
+  "id": "20261107-github-265a647256",
+  "title": "orhun/git-cliff",
+  "source": "github_trending",
+  "source_url": "https://github.com/orhun/git-cliff",
+  "summary": "git-cliff 是一个用 Rust 编写的高度可定制的变更日志生成器，遵循 Conventional Commit 规范，能够从 Git 提交历史自动生成结构化的 CHANGELOG。",
+  "content": "git-cliff 由 orhun 开发，是一个基于 Rust 的高性能命令行工具，用于从 Git 仓库的提交记录自动生成变更日志（Changelog）。它严格遵循 Conventional Commits 规范，支持通过 TOML 配置文件进行高度定制，包括提交分组、模板渲染、版本标记、过滤规则等。该项目在 GitHub 上拥有约 1.24 万星标和 361 个 fork，日增星标约 111，显示出较高的社区关注度。其核心优势在于灵活性和性能：利用 Rust 的编译时优化和并发能力，能够快速处理大型仓库的提交历史；同时提供丰富的模板变量和内置的提交解析器，方便集成到 CI/CD 流程中。git-cliff 适用于需要自动化维护变更日志的开源项目或企业团队，可显著减少手动编写发布说明的工作量。",
+  "tags": [
+    "Rust",
+    "Changelog",
+    "Git",
+    "Conventional Commits",
+    "CLI",
+    "自动化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "orhun",
+    "stars": 12430,
+    "forks": 361,
+    "daily_stars": 111,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

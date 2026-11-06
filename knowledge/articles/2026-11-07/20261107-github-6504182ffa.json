@@ -1,0 +1,36 @@
+{
+  "id": "20261107-github-6504182ffa",
+  "title": "windmill-labs/windmill",
+  "source": "github_trending",
+  "source_url": "https://github.com/windmill-labs/windmill",
+  "summary": "Windmill 是一个以代码优先为理念的开源平台，用于构建工作流、应用和 AI 智能体，基于 Rust 实现的高性能自托管编排器，官方基准测试显示其速度优于 Airflow、Prefect 和 Temporal。它定位为 Lovable、Retool 和 n8n 的开源替代品，让业务团队借助 AI 快速搭建，同时由工程师掌控最终交付内容。项目在 GitHub 上已获得约 1.84 万星标，日增约 31 星，属于 Rust 领域的热门项目。",
+  "content": "该仓库的核心价值在于将工作流编排、内部应用搭建与 AI 智能体开发统一到一个代码优先的平台中。技术层面，Windmill 使用 Rust 编写编排器，强调自托管场景下的极致性能，并直接对标 Airflow、Prefect、Temporal 等主流编排工具，通过基准测试证明其速度优势。产品层面，它面向两类用户：业务团队可以通过 AI 辅助快速构建应用与自动化流程，工程师则保留对发布内容的控制权，从而在低代码效率与工程可控性之间取得平衡。市场定位上，Windmill 明确将自己视为 Lovable、Retool 和 n8n 的开源替代方案，覆盖内部工具、工作流自动化和 AI Agent 编排等场景。从社区数据看，项目已积累 18441 个星标和 1139 个 fork，日增星标约 31，说明其关注度持续上升。对于需要自托管、重视性能与代码可控性的团队，Windmill 是一个值得评估的基础设施选项。",
+  "tags": [
+    "工作流编排",
+    "开源平台",
+    "AI 智能体",
+    "Rust",
+    "自托管",
+    "低代码",
+    "内部工具",
+    "n8n 替代",
+    "Retool 替代",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:19+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "windmill-labs",
+    "stars": 18441,
+    "forks": 1139,
+    "daily_stars": 31,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

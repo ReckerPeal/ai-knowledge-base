@@ -1,0 +1,33 @@
+{
+  "id": "20261107-github-e0f12c7b2f",
+  "title": "open-policy-agent/opa",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-policy-agent/opa",
+  "summary": "Open Policy Agent (OPA) 是一个开源的通用策略引擎，使用 Go 语言开发，在 GitHub 上拥有约 1.24 万星标，近期日增约 10 星，属于 GitHub Go 语言热点项目。",
+  "content": "OPA 由 open-policy-agent 组织维护，定位为通用策略引擎，可用于在微服务、Kubernetes、API 网关、CI/CD 等场景中统一表达和执行策略。其核心思路是将策略决策从应用代码中解耦，通过声明式策略语言（Rego）描述规则，并由 OPA 作为独立服务或库进行求值。项目采用 Go 语言实现，具备较好的性能和部署便利性。当前仓库星标数约 12442，fork 数约 1710，日增星标约 10，说明项目仍保持一定社区关注度，但增长节奏相对平稳。该摘要信息较为简短，未提供具体版本、功能模块或使用案例细节，因此分析主要基于项目定位与仓库元数据。",
+  "tags": [
+    "OPA",
+    "策略引擎",
+    "Go",
+    "开源",
+    "云原生",
+    "访问控制",
+    "Rego"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "open-policy-agent",
+    "stars": 12442,
+    "forks": 1710,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

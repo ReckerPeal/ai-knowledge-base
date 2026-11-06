@@ -1,0 +1,32 @@
+{
+  "id": "20261107-github-680586d3c0",
+  "title": "python-poetry/poetry",
+  "source": "github_trending",
+  "source_url": "https://github.com/python-poetry/poetry",
+  "summary": "python-poetry/poetry 是一个广受欢迎的 Python 打包与依赖管理工具，旨在简化项目依赖声明、锁定和发布流程，当前在 GitHub 上拥有约 3.4 万星标。",
+  "content": "该仓库是 Python 生态中主流的依赖管理与打包工具 Poetry。它通过 pyproject.toml 统一管理项目元数据、依赖声明和构建配置，提供依赖解析、锁定文件生成、虚拟环境管理以及包发布等一体化能力，显著降低了 Python 项目在依赖版本冲突和环境一致性方面的维护成本。仓库语言为 Python，作者为 python-poetry，累计星标约 34,382，Fork 约 2,580，近期日增星标约 129、周增约 137，显示出持续稳定的社区关注度。其核心价值在于替代或整合 pip、virtualenv、setuptools 等分散工具链，为开发者提供更可复现、更易协作的工程化体验，适合作为 Python 项目依赖管理的首选方案之一。",
+  "tags": [
+    "Python",
+    "依赖管理",
+    "打包工具",
+    "Poetry",
+    "开源项目",
+    "工程化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:14+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "python-poetry",
+    "stars": 34382,
+    "forks": 2580,
+    "daily_stars": 129,
+    "weekly_stars": 137,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

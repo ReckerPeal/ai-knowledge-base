@@ -1,0 +1,33 @@
+{
+  "id": "20261107-github-db36110839",
+  "title": "elder-plinius/T3MP3ST",
+  "source": "github_trending",
+  "source_url": "https://github.com/elder-plinius/T3MP3ST",
+  "summary": "T3MP3ST 是一个基于 TypeScript 开发的开源自主红队测试平台，采用多智能体架构构建进攻性安全元框架（meta-harness），旨在自动化执行安全评估与对抗性测试。该项目由 elder-plinius 发布，在 GitHub 上获得约 6937 星标和 1442 次分叉，日增星标约 238，显示出较高的社区关注度。",
+  "content": "T3MP3ST 的核心定位是“自主红队测试平台”与“多智能体进攻性安全元框架”。从摘要信息看，它并非单一工具，而是一个可编排多个智能体协同工作的元框架（meta-harness），用于自动化执行红队任务，例如漏洞探测、对抗性攻击模拟与安全评估。项目使用 TypeScript 编写，适合在 Node.js 生态中集成与扩展。仓库当前星标数约 6937，分叉数 1442，日增星标约 238，表明其在发布后短期内获得了显著关注，可能与其在进攻性安全自动化领域的创新定位有关。由于摘要未提供详细文档、许可证或具体功能模块说明，其实际能力边界、部署方式与合规使用场景需进一步查阅仓库源码与文档确认。总体而言，该项目代表了多智能体系统在安全测试自动化方向上的一个活跃开源实践，适合安全研究人员、红队工程师及对 AI 驱动安全工具感兴趣的开发者关注。",
+  "tags": [
+    "红队测试",
+    "多智能体",
+    "进攻性安全",
+    "TypeScript",
+    "自动化安全评估",
+    "开源安全工具",
+    "AI 安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:17+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "elder-plinius",
+    "stars": 6937,
+    "forks": 1442,
+    "daily_stars": 238,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

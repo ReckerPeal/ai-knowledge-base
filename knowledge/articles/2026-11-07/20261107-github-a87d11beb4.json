@@ -1,0 +1,35 @@
+{
+  "id": "20261107-github-a87d11beb4",
+  "title": "grafana/mimir",
+  "source": "github_trending",
+  "source_url": "https://github.com/grafana/mimir",
+  "summary": "Grafana Mimir 是 Grafana 开源的一款用 Go 语言编写的 Prometheus 长期存储方案，具备水平可扩展、高可用和多租户特性，在 GitHub 上获得约 5276 颗星。",
+  "content": "Grafana Mimir 是 Grafana 实验室推出的开源项目，定位为 Prometheus 的长期存储后端。它解决了原生 Prometheus 在存储容量、高可用性和多租户隔离方面的不足，支持水平扩展以应对大规模指标数据，并通过副本机制保证高可用性。Mimir 采用多租户架构，适合 SaaS 或企业内部多团队共享监控平台。项目使用 Go 语言开发，当前在 GitHub 上拥有 5276 个 star 和 866 个 fork，日增约 2 个 star，属于 GitHub 热点中的 Go 语言项目。其核心价值在于为云原生监控提供可扩展、易运维的长期存储方案，常与 Grafana、Prometheus 等生态工具配合使用。",
+  "tags": [
+    "Grafana Mimir",
+    "Prometheus",
+    "长期存储",
+    "Go",
+    "监控",
+    "水平扩展",
+    "高可用",
+    "多租户",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "grafana",
+    "stars": 5276,
+    "forks": 866,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

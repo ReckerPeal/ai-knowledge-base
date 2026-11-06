@@ -1,0 +1,32 @@
+{
+  "id": "20261107-github-8d3f1a7de3",
+  "title": "ParadevAI/Paradev",
+  "source": "github_trending",
+  "source_url": "https://github.com/ParadevAI/Paradev",
+  "summary": "Paradev 是一个开源的多智能体并行编排工具，定位为 Codex App 与 Conductor 的替代方案，允许用户使用自己的订阅并行调度大量编码智能体。项目以 TypeScript 实现，在 GitHub 上已获得约 1.6 万星标，日增约 62 星，热度较高。",
+  "content": "ParadevAI/Paradev 是一个面向 AI 编码场景的开源编排平台，核心卖点是“并行编排编码智能体集群”。它将自己定位为 Codex App 和 Conductor 的开源替代品，强调用户可以直接复用自己已有的订阅（如各类大模型/编码助手订阅），无需额外购买服务即可同时驱动多个编码智能体协同工作。\n\n从技术栈看，项目使用 TypeScript 开发，适合构建跨平台的开发者工具与 Web 界面。仓库当前约有 16022 个星标、1433 个 fork，日增约 62 星，说明社区关注度持续上升，属于 GitHub 热点项目。\n\n适用场景包括：多任务并行代码生成与重构、批量仓库维护、自动化开发流水线中的智能体调度，以及希望自托管、避免厂商锁定的团队。潜在关注点在于：并行智能体的资源消耗与成本控制、任务冲突与合并策略、以及开源替代方案在稳定性和生态成熟度上能否匹配商业产品。",
+  "tags": [
+    "多智能体编排",
+    "AI 编码助手",
+    "TypeScript",
+    "开源替代方案",
+    "并行任务调度",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-07T04:08:17+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "ParadevAI",
+    "stars": 16022,
+    "forks": 1433,
+    "daily_stars": 62,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
