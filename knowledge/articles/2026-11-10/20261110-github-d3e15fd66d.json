@@ -1,0 +1,33 @@
+{
+  "id": "20261110-github-d3e15fd66d",
+  "title": "multica-ai/multica",
+  "source": "github_trending",
+  "source_url": "https://github.com/multica-ai/multica",
+  "summary": "multica-ai/multica 是一个开源、可自托管的协作平台，旨在让人类与 AI 智能体作为同一团队协同工作。项目使用 Go 语言开发，在 GitHub 上获得约 5.5 万星标，周增约 841 星，属于高热度开源项目。",
+  "content": "该仓库的核心定位是“人机协作团队平台”，强调人类成员与 AI 智能体在同一工作流中协同，而非将 AI 作为独立工具使用。其关键特性包括开源和可自托管，意味着团队可以在自有基础设施上部署，便于数据可控与定制集成。技术栈为 Go，通常适合构建高并发、低延迟的后端服务，这与多智能体协作场景的实时通信和任务调度需求相匹配。从社区指标看，55,424 星标和 7,311 分支表明项目已具备较大关注度和一定生态基础，周增 841 星显示近期热度仍在上升。由于摘要信息有限，具体功能模块、智能体编排机制、权限模型和部署方式需进一步查看仓库文档确认。总体而言，该项目面向希望将 AI 智能体纳入团队协作流程的开发者和组织，适合关注人机协同、多智能体系统和自托管协作平台的用户评估。",
+  "tags": [
+    "人机协作",
+    "AI 智能体",
+    "开源",
+    "自托管",
+    "Go",
+    "团队协作",
+    "多智能体"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:39+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "multica-ai",
+    "stars": 55424,
+    "forks": 7311,
+    "daily_stars": null,
+    "weekly_stars": 841,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

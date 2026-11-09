@@ -1,0 +1,33 @@
+{
+  "id": "20261110-github-513ac6687d",
+  "title": "TwiN/gatus",
+  "source": "github_trending",
+  "source_url": "https://github.com/TwiN/gatus",
+  "summary": "TwiN/gatus 是一个面向开发者的自动化状态页面工具，支持告警和事件管理，使用 Go 语言开发，在 GitHub 上拥有约 1.27 万星标，近期日增约 55 星，热度较高。",
+  "content": "Gatus 是一个用 Go 编写的自动化开发者状态页面，核心功能包括服务健康检查、状态展示、告警通知以及事件（incident）支持。它允许开发者通过配置文件定义监控端点与条件，自动生成状态页面，并在服务异常时触发告警。该项目在 GitHub 上获得 12,675 星标和 895 次 fork，日增约 55 星，表明其社区关注度持续上升。语言为 Go，适合需要轻量级、可自托管监控与状态页的团队使用。",
+  "tags": [
+    "Go",
+    "状态页面",
+    "监控",
+    "告警",
+    "事件管理",
+    "开发者工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "TwiN",
+    "stars": 12675,
+    "forks": 895,
+    "daily_stars": 55,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

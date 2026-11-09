@@ -1,0 +1,38 @@
+{
+  "id": "20261110-github-1f03c87007",
+  "title": "scenario-labs/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/scenario-labs/skills",
+  "summary": "scenario-labs/skills 是一个 Python 开源项目，提供面向 AI 智能体的技能集合，可生成生产级图像、视频、音频和 3D 内容。它通过 Scenario MCP 自动选择合适模型、在消费前预估价格，并保持角色与品牌一致性，同时包含驱动 Blender、Maya、ZBrush、Unreal 和 Unity 的专家团队技能。",
+  "content": "该仓库定位为 AI 智能体的“技能库”，核心目标是让智能体能够直接产出可用于生产的图像、视频、音频与 3D 资产。主要能力包括：1）模型选择：根据任务自动挑选合适的生成模型；2）成本控制：在调用前进行价格预估，避免盲目消费；3）一致性保障：通过 Scenario MCP 维持角色和品牌在不同生成内容中的一致性；4）专业工具集成：提供专家团队技能，可驱动 Blender、Maya、ZBrush、Unreal Engine 和 Unity 等主流 3D/游戏引擎工具。项目使用 Python 实现，在 GitHub 上获得约 3610 星标和 314 次 fork，近一周新增约 2118 星标，属于近期热度较高的 AI 工具类项目。适合需要将多模态内容生成与 3D 制作流程自动化的开发者、技术美术和 AI 智能体构建者。",
+  "tags": [
+    "AI 智能体",
+    "多模态生成",
+    "3D 内容生成",
+    "MCP",
+    "Blender",
+    "Maya",
+    "ZBrush",
+    "Unreal Engine",
+    "Unity",
+    "Python",
+    "成本控制",
+    "品牌一致性"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:32+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "scenario-labs",
+    "stars": 3610,
+    "forks": 314,
+    "daily_stars": null,
+    "weekly_stars": 2118,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

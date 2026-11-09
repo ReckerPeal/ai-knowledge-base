@@ -1,0 +1,31 @@
+{
+  "id": "20261110-github-6b9b4c109e",
+  "title": "clap-rs/clap",
+  "source": "github_trending",
+  "source_url": "https://github.com/clap-rs/clap",
+  "summary": "clap-rs/clap 是 Rust 生态中功能全面、高性能的命令行参数解析库，拥有约 1.7 万星标，是 Rust CLI 开发的事实标准。",
+  "content": "clap 是 Rust 语言最主流的命令行参数解析器，以功能完整和运行速度快著称。它支持声明式与构建器两种 API，可自动生成帮助信息、版本信息和 shell 补全，并支持子命令、参数校验、环境变量读取等高级特性。该仓库由 clap-rs 组织维护，当前星标数约 16949，fork 数约 1310，近一周新增约 245 星，社区活跃度高。作为 Rust CLI 应用的基础设施级依赖，clap 被大量知名工具采用，是学习 Rust 命令行开发的首选库。",
+  "tags": [
+    "Rust",
+    "命令行解析",
+    "CLI",
+    "开源库",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:37+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "clap-rs",
+    "stars": 16949,
+    "forks": 1310,
+    "daily_stars": null,
+    "weekly_stars": 245,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

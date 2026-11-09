@@ -1,0 +1,32 @@
+{
+  "id": "20261110-github-d24581da69",
+  "title": "snarktank/ralph",
+  "source": "github_trending",
+  "source_url": "https://github.com/snarktank/ralph",
+  "summary": "Ralph 是一个自主 AI 代理循环系统，能够反复运行直至完成所有 PRD（产品需求文档）条目。该项目使用 TypeScript 开发，在 GitHub 上获得高度关注（22k+ stars），体现了 AI 代理自动化执行任务的发展趋势。",
+  "content": "Ralph 的核心设计理念是构建一个自主 AI 代理循环（autonomous AI agent loop），通过持续迭代执行任务，直到产品需求文档（PRD）中的所有条目全部完成。这种模式将 AI 代理从单次交互扩展为持续自主工作流，适用于需要多步骤、长周期完成的任务场景。项目采用 TypeScript 语言实现，具备良好的类型安全性和工程可维护性。从社区数据看，仓库已积累 22192 个 stars 和 2112 个 forks，日增约 28 stars，表明其在开发者社区中具有较高热度和持续关注度。该工具代表了 AI 代理自动化领域的一个实用方向：以 PRD 为驱动目标，让代理自主循环推进直至交付完成。",
+  "tags": [
+    "AI Agent",
+    "自主循环",
+    "PRD驱动",
+    "TypeScript",
+    "自动化",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:26+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "snarktank",
+    "stars": 22192,
+    "forks": 2112,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

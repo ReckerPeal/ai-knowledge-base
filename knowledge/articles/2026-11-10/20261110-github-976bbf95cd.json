@@ -1,0 +1,32 @@
+{
+  "id": "20261110-github-976bbf95cd",
+  "title": "chaitin/SafeLine",
+  "source": "github_trending",
+  "source_url": "https://github.com/chaitin/SafeLine",
+  "summary": "SafeLine 是长亭科技开源的自托管 Web 应用防火墙（WAF）与反向代理，用于保护 Web 应用免受攻击与漏洞利用，使用 Go 语言开发，在 GitHub 上获得约 2.3 万星标。",
+  "content": "SafeLine（chaitin/SafeLine）是一款自托管的 Web 应用防火墙（WAF）兼反向代理工具，核心目标是为 Web 应用提供攻击防护与漏洞利用拦截。项目采用 Go 语言实现，适合部署在自有服务器环境中，作为流量入口对请求进行检测与过滤。从社区热度看，该仓库累计获得约 23234 个星标和 1605 个 fork，近期日增约 23 星，属于 GitHub Go 语言热点项目，具备较高的关注度与活跃度。其自托管属性意味着用户可完全掌控数据与配置，适合对隐私和部署自主性有要求的企业或开发者。整体而言，该项目定位清晰、社区基础较好，是开源 WAF 领域值得关注的选择。",
+  "tags": [
+    "WAF",
+    "反向代理",
+    "Web安全",
+    "Go",
+    "自托管",
+    "开源安全工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:30+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "chaitin",
+    "stars": 23234,
+    "forks": 1605,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

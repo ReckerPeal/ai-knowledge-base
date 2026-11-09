@@ -1,0 +1,32 @@
+{
+  "id": "20261110-github-f7f5ce3987",
+  "title": "gosom/google-maps-scraper",
+  "source": "github_trending",
+  "source_url": "https://github.com/gosom/google-maps-scraper",
+  "summary": "gosom/google-maps-scraper 是一个用 Go 语言编写的开源工具，用于从 Google Maps 抓取地点数据，包括名称、地址、电话、网站、评分、评论数、经纬度、评论、邮箱等信息。该项目在 GitHub 上拥有 7761 颗星和 1213 个 fork，日增星约 222，热度较高。",
+  "content": "该仓库提供从 Google Maps 批量提取结构化地点数据的能力，适用于潜在客户挖掘、市场调研、地理数据分析等场景。核心功能包括：抓取地点基础信息（名称、地址、电话、网站 URL、评分、评论数量、经纬度）、评论内容以及邮箱等联系方式。项目使用 Go 语言开发，具备较好的性能和并发处理能力。当前星标数 7761，fork 数 1213，日增星 222，表明社区关注度较高。需要注意的是，抓取 Google Maps 数据可能涉及服务条款和法律法规限制，使用者应自行评估合规风险。",
+  "tags": [
+    "Go",
+    "Google Maps",
+    "数据抓取",
+    "爬虫",
+    "地理位置数据",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:30+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "gosom",
+    "stars": 7761,
+    "forks": 1213,
+    "daily_stars": 222,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

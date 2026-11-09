@@ -1,0 +1,33 @@
+{
+  "id": "20261110-github-74ec2d3118",
+  "title": "woodpecker-ci/woodpecker",
+  "source": "github_trending",
+  "source_url": "https://github.com/woodpecker-ci/woodpecker",
+  "summary": "Woodpecker 是一个用 Go 语言编写的简单而强大的 CI/CD 引擎，强调出色的可扩展性，目前在 GitHub 上拥有约 8145 颗星标，属于 Go 语言领域的热门项目。",
+  "content": "Woodpecker 是一个开源的持续集成与持续交付（CI/CD）引擎，以简洁和可扩展为核心设计理念。项目采用 Go 语言开发，具备轻量级部署和高效执行的特点，适合需要自托管 CI/CD 流水线的团队。其可扩展性体现在支持插件机制和灵活配置，能够适应不同规模的项目需求。当前仓库获得 8145 个星标和 737 次复刻，日增约 14 星，显示出稳定的社区关注度。作为 GitHub 热点中的 Go 项目，Woodpecker 在 CI/CD 工具生态中具有一定的竞争力，适合关注自动化构建与部署的开发者评估使用。",
+  "tags": [
+    "CI/CD",
+    "Go",
+    "开源",
+    "持续集成",
+    "持续交付",
+    "自动化",
+    "可扩展"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:30+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "woodpecker-ci",
+    "stars": 8145,
+    "forks": 737,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

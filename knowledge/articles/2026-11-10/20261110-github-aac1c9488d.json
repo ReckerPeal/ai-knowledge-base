@@ -1,0 +1,33 @@
+{
+  "id": "20261110-github-aac1c9488d",
+  "title": "bradautomates/claude-video",
+  "source": "github_trending",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "summary": "bradautomates/claude-video 是一个 Python 工具，旨在赋予 Claude 观看任意视频的能力。其核心命令 /watch 可自动下载视频、提取关键帧、生成转录文本，并将这些多模态信息一并交给 Claude 处理，从而让大模型能够理解和分析视频内容。",
+  "content": "该仓库通过 /watch 命令实现视频到 Claude 可理解输入的转换流程：首先下载目标视频，然后提取视频帧（视觉信息），同时进行语音转录（文本信息），最后将帧图像与转录文本组合后提交给 Claude。这种设计绕过了 Claude 原生不支持视频输入的限制，使其能够基于视觉和文本线索回答关于视频的问题。项目使用 Python 编写，在 GitHub 上获得约 2 万星标，周增星约 550，属于近期热门的 AI 工具类项目。",
+  "tags": [
+    "Claude",
+    "视频理解",
+    "多模态",
+    "Python",
+    "AI工具",
+    "视频转录",
+    "帧提取"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-10T07:12:32+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bradautomates",
+    "stars": 20353,
+    "forks": 2161,
+    "daily_stars": null,
+    "weekly_stars": 551,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
