@@ -1,0 +1,32 @@
+{
+  "id": "20261111-github-7e031103b0",
+  "title": "googleapis/google-cloud-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/googleapis/google-cloud-go",
+  "summary": "googleapis/google-cloud-go 是 Google 官方维护的 Go 语言云客户端库集合，为开发者提供访问 Google Cloud 各项服务的统一接口。该仓库拥有约 4553 个 Star 和 1605 个 Fork，是 Go 生态中接入 Google Cloud 的核心基础设施项目。",
+  "content": "该仓库是 Google Cloud 官方 Go 客户端库的单一代码仓库（monorepo），涵盖 Compute、Storage、BigQuery、Pub/Sub、Spanner 等众多 Google Cloud 服务的 Go SDK。项目由 googleapis 组织维护，具备官方支持、版本稳定、与 Google Cloud API 同步更新等特点。对于使用 Go 构建云原生应用的团队而言，它是接入 Google Cloud 的标准入口。仓库 Star 数约 4553，Fork 数约 1605，周新增 Star 为 2，表明项目已进入成熟稳定期，社区关注度平稳。语言为 Go，适合后端服务、云基础设施工具、数据处理管道等场景。",
+  "tags": [
+    "Go",
+    "Google Cloud",
+    "SDK",
+    "云客户端库",
+    "官方维护",
+    "云原生"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-11T04:39:03+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "googleapis",
+    "stars": 4553,
+    "forks": 1605,
+    "daily_stars": null,
+    "weekly_stars": 2,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261111-github-e24fa4f8da",
+  "title": "k0sproject/k0s",
+  "source": "github_trending",
+  "source_url": "https://github.com/k0sproject/k0s",
+  "summary": "k0s 是一个用 Go 语言开发的开源项目，定位为“零摩擦 Kubernetes”，旨在提供轻量、易部署的单二进制 Kubernetes 发行版，降低集群搭建与运维复杂度。",
+  "content": "k0s 由 k0sproject 维护，GitHub 星标约 6583、复刻 541，日增星约 7，属于 GitHub 热点 Go 类项目。其核心理念是“零摩擦”，通过单一二进制文件集成 Kubernetes 控制平面与工作节点组件，支持快速安装、离线部署和多种环境运行，适合边缘计算、开发测试及轻量生产场景。项目采用 Go 语言编写，便于跨平台编译与分发，社区活跃度中等，具备一定的生产可用性。",
+  "tags": [
+    "Kubernetes",
+    "Go",
+    "容器编排",
+    "云原生",
+    "轻量级发行版",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-11T04:38:53+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "k0sproject",
+    "stars": 6583,
+    "forks": 541,
+    "daily_stars": 7,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

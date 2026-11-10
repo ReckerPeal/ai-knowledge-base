@@ -1,0 +1,32 @@
+{
+  "id": "20261111-github-0f4537518a",
+  "title": "anomalyco/hex",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/hex",
+  "summary": "anomalyco/hex 是一个用 Rust 编写的跨平台本地语音听写工具，支持 macOS、Windows 和 Linux。项目在 GitHub 上获得 6159 颗星，周增约 2031 星，热度较高，定位为注重隐私与离线可用的桌面语音输入方案。",
+  "content": "该仓库名为 hex，由 anomalyco 开发，核心功能是提供本地化的语音听写（voice dictation），覆盖 mac、Windows 和 Linux 三大桌面平台。从技术栈看，项目使用 Rust 实现，有利于获得高性能、低资源占用和跨平台编译能力。当前星标数约 6159，fork 数 376，周新增星标约 2031，说明近期关注度快速上升，属于 GitHub 热点中的 Rust 类项目。由于摘要未提供具体实现细节，可推断其重点在于本地语音识别与系统级输入集成，避免依赖云端服务，适合对隐私敏感或需要离线使用的用户。整体来看，该项目在跨平台桌面语音输入领域具有一定实用价值和社区热度。",
+  "tags": [
+    "Rust",
+    "语音听写",
+    "跨平台",
+    "本地化",
+    "桌面工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-11T04:39:01+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "anomalyco",
+    "stars": 6159,
+    "forks": 376,
+    "daily_stars": null,
+    "weekly_stars": 2031,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

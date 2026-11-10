@@ -1,0 +1,33 @@
+{
+  "id": "20261111-github-b8da10635e",
+  "title": "thedotmack/claude-mem",
+  "source": "github_trending",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "summary": "claude-mem 是一个为 AI 编码代理提供跨会话持久上下文记忆的开源工具。它在代理运行期间捕获全部操作记录，利用 AI 进行压缩提炼，并在后续会话中自动注入相关上下文，从而解决代理「失忆」问题。项目以 TypeScript 实现，兼容 Claude Code、Codex、Gemini、Copilot、OpenCode 等多种代理平台，GitHub 星标已超 11.5 万，周增约 5100 星，热度极高。",
+  "content": "该仓库核心价值在于为各类 AI Agent 构建「长期记忆层」。工作流程分为三步：捕获（记录代理在会话中的所有动作与产出）、压缩（用 AI 对原始记录做摘要与结构化提炼）、注入（在未来的会话中按相关性把历史上下文回填给代理）。这种设计让代理在多次交互之间保持连续性，避免重复解释背景或丢失关键决策。\n\n兼容性是其突出优势，官方声明支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等主流代理环境，意味着用户不必绑定单一生态。技术栈为 TypeScript，便于在 Node.js 生态中集成与二次开发。\n\n从社区数据看，项目累计星标约 11.6 万、复刻约 1 万，周新增星标约 5130，属于 GitHub 热点中的头部项目，反映出「代理持久记忆」是当前 AI 工程领域的高需求方向。潜在关注点包括：记忆压缩的准确性与隐私边界、跨平台注入的兼容维护成本，以及大规模记忆存储的检索效率。",
+  "tags": [
+    "AI Agent",
+    "持久记忆",
+    "上下文管理",
+    "TypeScript",
+    "开发者工具",
+    "Claude Code",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-11T04:38:58+08:00",
+  "language": "TypeScript",
+  "score": 8.8,
+  "metadata": {
+    "author": "thedotmack",
+    "stars": 115763,
+    "forks": 10047,
+    "daily_stars": null,
+    "weekly_stars": 5130,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

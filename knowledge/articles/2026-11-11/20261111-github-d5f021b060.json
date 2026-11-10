@@ -1,0 +1,33 @@
+{
+  "id": "20261111-github-d5f021b060",
+  "title": "ooolabdev/ooosplat",
+  "source": "github_trending",
+  "source_url": "https://github.com/ooolabdev/ooosplat",
+  "summary": "ooosplat 是一个基于 Rust 开发的本地桌面应用，支持一键将视频和图像转换为 3D 高斯泼溅（3D Gaussian Splats）模型，降低 3D 重建的使用门槛。",
+  "content": "该仓库 ooolabdev/ooosplat 是一个本地桌面应用，核心功能是将视频和图像一键转换为 3D Gaussian Splats（3D 高斯泼溅）。项目使用 Rust 语言开发，当前获得约 2437 个 Star 和 288 个 Fork，日增约 38 个 Star，属于 GitHub 热点中的 Rust 类别。其价值在于简化了 3D 高斯泼溅的生成流程，用户无需复杂配置即可在本地完成从 2D 媒体到 3D 场景的转换，适合 3D 重建、数字内容创作和计算机视觉相关场景。",
+  "tags": [
+    "Rust",
+    "3D Gaussian Splatting",
+    "桌面应用",
+    "3D重建",
+    "视频转3D",
+    "图像转3D",
+    "计算机视觉"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-11T04:38:51+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "ooolabdev",
+    "stars": 2437,
+    "forks": 288,
+    "daily_stars": 38,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
