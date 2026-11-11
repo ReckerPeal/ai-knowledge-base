@@ -1,0 +1,32 @@
+{
+  "id": "20261112-github-fa43618461",
+  "title": "pbakaus/impeccable",
+  "source": "github_trending",
+  "source_url": "https://github.com/pbakaus/impeccable",
+  "summary": "pbakaus/impeccable 是一个用 Rust 编写的设计词汇工具，旨在为编码智能体（coding agent）提供设计语言与评审能力，通过 polish、bolder、critique、audit 等指令引导 AI 生成更高质量的设计，并在交付前识别和拦截低质 AI 生成内容（AI slop）。该仓库在 GitHub 上热度极高，拥有约 10.8 万星标，周增星约 6288。",
+  "content": "该项目定位为“编码智能体的设计词汇表”，核心思路是将设计评审与打磨流程转化为智能体可理解、可执行的指令集。用户可通过 polish（打磨）和 bolder（更大胆）等词汇引导智能体调整设计方向，通过 critique（批评）和 audit（审计）对产出进行审查，从而在代码或设计交付前发现并修正 AI 生成的低质量内容。仓库使用 Rust 语言实现，作者为 pbakaus，当前星标数约 108239，fork 数约 6435，周新增星标约 6288，属于 GitHub 热点中的 Rust 类项目。",
+  "tags": [
+    "Rust",
+    "AI 编码智能体",
+    "设计工具",
+    "代码评审",
+    "AI 生成内容检测",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-12T04:58:31+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "pbakaus",
+    "stars": 108239,
+    "forks": 6435,
+    "daily_stars": null,
+    "weekly_stars": 6288,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

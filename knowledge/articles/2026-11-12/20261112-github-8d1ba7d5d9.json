@@ -1,0 +1,33 @@
+{
+  "id": "20261112-github-8d1ba7d5d9",
+  "title": "liguobao/ds-harness-remote",
+  "source": "github_trending",
+  "source_url": "https://github.com/liguobao/ds-harness-remote",
+  "summary": "该项目基于 DeepSeek Harness 插件机制，提供低延迟、端到端加密的 P2P 远程访问方案，让用户通过 PC、移动端和 Web 客户端随时访问本地设备上的 DSH、CodeX、Cursor、Claude Code 等工作区。",
+  "content": "liguobao/ds-harness-remote 是一个用 TypeScript 开发的 GitHub 热点项目，当前约 2.6k stars、196 forks，周增约 968 stars，热度较高。其核心思路是借助 DeepSeek Harness 的插件机制，把本地 AI 编程工作区（DSH、CodeX、Cursor、Claude Code 等）通过 P2P 网络暴露给远程客户端，强调低延迟与端到端加密，并覆盖 PC、移动端和 Web 三种访问形态。该方案适合需要在多设备间无缝切换、远程调用本地开发环境的开发者，也体现了 AI 编程工具生态中“远程工作区访问”这一细分方向。",
+  "tags": [
+    "TypeScript",
+    "P2P",
+    "端到端加密",
+    "远程访问",
+    "DeepSeek Harness",
+    "AI 编程工具",
+    "开发环境"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-12T04:58:29+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "liguobao",
+    "stars": 2631,
+    "forks": 196,
+    "daily_stars": null,
+    "weekly_stars": 968,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

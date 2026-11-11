@@ -1,0 +1,37 @@
+{
+  "id": "20261112-github-1f03c87007",
+  "title": "scenario-labs/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/scenario-labs/skills",
+  "summary": "scenario-labs/skills 是一个面向 AI Agent 的生产级多媒体生成技能库，通过 Scenario MCP 让任意 AI Agent 生成图片、视频、音频和 3D 内容，具备模型自动选择、生成前成本预估、角色与品牌一致性保持等能力，并提供可驱动 Blender、Maya、ZBrush、Unreal 和 Unity 的专家团队技能。",
+  "content": "该仓库以 Python 实现，定位为 AI Agent 的多媒体生产技能集合。核心能力包括：1）统一接入图片、视频、音频与 3D 生成，降低 Agent 调用多模态模型的门槛；2）自动挑选合适模型，并在实际生成前给出价格预估，控制成本；3）通过 Scenario MCP 维持角色形象与品牌风格的一致性，适合系列化内容生产；4）内置专家团队技能，可操作 Blender、Maya、ZBrush、Unreal Engine 和 Unity 等专业 DCC/游戏引擎工具，将生成能力延伸到 3D 资产与实时内容管线。仓库热度较高，累计约 3689 stars、326 forks，近一周新增约 1763 stars，属于 GitHub 热点 Python 项目，适合关注 AI Agent 工具链、AIGC 内容生产与 3D 工作流自动化的开发者。",
+  "tags": [
+    "AI Agent",
+    "多模态生成",
+    "MCP",
+    "3D 内容生成",
+    "Blender",
+    "Maya",
+    "ZBrush",
+    "Unreal Engine",
+    "Unity",
+    "AIGC",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-12T04:58:27+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "scenario-labs",
+    "stars": 3689,
+    "forks": 326,
+    "daily_stars": null,
+    "weekly_stars": 1763,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

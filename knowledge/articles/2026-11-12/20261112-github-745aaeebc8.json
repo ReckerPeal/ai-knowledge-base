@@ -1,0 +1,34 @@
+{
+  "id": "20261112-github-745aaeebc8",
+  "title": "devaccuracy/ledgerforge",
+  "source": "github_trending",
+  "source_url": "https://github.com/devaccuracy/ledgerforge",
+  "summary": "LedgerForge 是一个面向 AI 原生资金流动的开源复式记账账本，支持钱包、支付、市场平台和计费场景，采用精确整数金额、可验证审计链、服务端强制执行的 AI 代理消费限额与审批机制，并提供 MCP 服务器，使用 Go 语言开发，Apache 2.0 许可。",
+  "content": "该仓库 devaccuracy/ledgerforge 定位为“AI 原生资金流动的账本”，核心是一个开源复式记账系统。主要特性包括：1）精确整数金额处理，避免浮点误差；2）可验证的审计链，保证账务记录不可篡改且可追溯；3）针对 AI 代理的服务端强制消费限额与审批流程，将权限控制放在服务端而非客户端；4）内置 MCP 服务器，便于与 AI 工具链集成。适用场景覆盖钱包、支付、市场平台和计费系统。技术栈为 Go，采用 Apache 2.0 开源协议。当前 GitHub 星标 218，复刻 29，日增星约 69，属于 GitHub 热点 Go 分类项目。",
+  "tags": [
+    "Go",
+    "复式记账",
+    "AI 代理",
+    "MCP",
+    "支付",
+    "审计链",
+    "开源",
+    "Apache 2.0"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-12T04:58:24+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "devaccuracy",
+    "stars": 218,
+    "forks": 29,
+    "daily_stars": 69,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

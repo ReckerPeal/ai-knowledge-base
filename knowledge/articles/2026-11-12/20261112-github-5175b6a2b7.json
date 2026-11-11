@@ -1,0 +1,32 @@
+{
+  "id": "20261112-github-5175b6a2b7",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "source": "rss",
+  "source_url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "summary": "Google Chrome 团队联合 Firefox、MDN 和 Edge 推出开源项目 modern-web-guidance 1.0，旨在为编码智能体补充现代 Web 平台原生 API 知识，纠正其默认使用 2019 年前后 JS 模式（如大量依赖 JS 实现文本高亮、模态框、自动增长文本域）的倾向。项目包含 200+ 篇约 1.7MB 的精选最佳实践指南，以 Agent Skill 和 Agentic RAG CLI 形式分发，并附带基于 3 万 GitHub 仓库训练的 legacy-scan 旧模式检测器。评测显示智能体任务通过率从无引导的 55% 提升至有引导的 92%。",
+  "content": "该项目由 Chrome 发起，核心洞察是：浏览器已原生支持许多过去需要 50 行 JS 或额外依赖才能实现的能力，例如用 CSS.highlights 做文本范围高亮、用 dialog 元素与 showModal() 获得背景遮罩和焦点管理、用 field-sizing 让 textarea 随输入自动增长。模型虽然知道这些 API 的名字，却不会默认采用平台原生方案，而是倾向沿用旧有的 JS 模式。为此团队整理了 200 多篇由 Web 专家手工编写的实现最佳实践指南，并随 Web 演进持续更新。\n\n在工程实现上，项目以 Agent Skill 加 Agentic RAG CLI 的形式交付，刻意避免占用过多上下文窗口，也不把激活机制交给 MCP 动态工具搜索。其 RAG 方案从最初约 500MB 的原生技术栈压缩到约 7MB 的纯 JS 包，在 CPU 上搜索耗时约 10ms。此外还引入确定性的 legacy-scan，基于 3 万 GitHub 仓库训练，用于识别过时模式，在留出仓库上平均精确率 92%。\n\n评测方面，团队构建了较重的评测基础设施，用 codex、claude、agy 等智能体在 200 个任务上分别在有、无该技能的条件下运行，共约 1700 条基于 Playwright/AST 的断言，结果显示通过率从 55% 提升到 92%。项目开源，提供 npx 安装、搜索和 legacy-scan 命令，并发布在 developer.chrome.com 博客上。",
+  "tags": [
+    "编码智能体",
+    "现代Web API",
+    "Agent Skill",
+    "RAG",
+    "Chrome",
+    "前端开发",
+    "开源工具",
+    "评测基准"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-10T18:01:15+00:00",
+  "collected_at": "2026-11-12T04:58:34+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hacker News Best (AI related)",
+    "category": "综合技术",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
