@@ -1,0 +1,34 @@
+{
+  "id": "20261113-github-18e86fcbf2",
+  "title": "prometheus/alertmanager",
+  "source": "github_trending",
+  "source_url": "https://github.com/prometheus/alertmanager",
+  "summary": "Prometheus Alertmanager 是 Prometheus 监控生态中的告警管理组件，负责对告警进行去重、分组、路由和静默处理，并将通知发送到邮件、Slack、PagerDuty 等渠道。该仓库使用 Go 语言开发，在 GitHub 上拥有约 8700 颗星和 2500 次 fork，是云原生监控领域的基础设施级项目。",
+  "content": "Alertmanager 是 Prometheus 官方生态的核心组件之一，主要解决告警产生后的处理与分发问题。其核心能力包括：告警去重（相同告警只保留一份）、告警分组（将相关告警聚合为一条通知，减少噪音）、路由（基于标签匹配将告警分发到不同接收端）、静默与抑制（在维护窗口或已知故障期间屏蔽告警）、高可用集群（多实例间状态同步，避免重复通知）。它支持丰富的通知集成，如 Email、Slack、PagerDuty、Webhook、VictorOps、OpsGenie 等，并提供 HTTP API 与 Web UI 用于管理告警和静默规则。项目采用 Go 语言编写，部署形式为单一二进制文件，配置通过 YAML 文件管理，适合与 Prometheus 服务器配合构建完整的监控告警链路。从社区数据看，该项目星标数约 8698、fork 数约 2505，周新增星标 19，属于成熟稳定、被广泛采用的开源基础设施项目，在云原生监控体系中具有不可替代的地位。",
+  "tags": [
+    "Prometheus",
+    "Alertmanager",
+    "告警管理",
+    "监控",
+    "Go",
+    "云原生",
+    "开源基础设施",
+    "DevOps"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:31+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "prometheus",
+    "stars": 8698,
+    "forks": 2505,
+    "daily_stars": null,
+    "weekly_stars": 19,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

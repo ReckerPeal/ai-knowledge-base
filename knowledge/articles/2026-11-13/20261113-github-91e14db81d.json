@@ -1,0 +1,35 @@
+{
+  "id": "20261113-github-91e14db81d",
+  "title": "smtg-ai/claude-squad",
+  "source": "github_trending",
+  "source_url": "https://github.com/smtg-ai/claude-squad",
+  "summary": "smtg-ai/claude-squad 是一个用 Go 语言开发的开源工具，用于统一管理多个 AI 终端代理（如 Claude Code、Codex、OpenCode 和 Amp），帮助开发者在终端环境中高效切换和协调不同 AI 编程助手。该项目在 GitHub 上获得约 8791 颗星和 632 次 fork，属于 GitHub 热点 Go 分类。",
+  "content": "该仓库的核心价值在于解决多 AI 终端代理并存时的管理碎片化问题。随着 Claude Code、Codex、OpenCode、Amp 等 AI 编程助手在终端中的普及，开发者往往需要同时使用多个代理来完成不同任务，但缺乏统一的调度与切换机制。claude-squad 以 Go 语言实现，提供集中管理能力，可能包含会话管理、代理切换、任务分发等功能。项目获得较高关注度（8791 stars），表明多代理协同管理是当前 AI 开发工具链中的真实需求。其技术栈选择 Go 有利于跨平台分发和终端性能。适合关注 AI 编程助手集成、终端工具开发和多代理编排的开发者参考。",
+  "tags": [
+    "AI 终端代理",
+    "多代理管理",
+    "Claude Code",
+    "Codex",
+    "OpenCode",
+    "Amp",
+    "Go",
+    "开发者工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:21+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "smtg-ai",
+    "stars": 8791,
+    "forks": 632,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

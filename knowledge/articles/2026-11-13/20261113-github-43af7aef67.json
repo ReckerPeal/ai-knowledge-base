@@ -1,0 +1,35 @@
+{
+  "id": "20261113-github-43af7aef67",
+  "title": "etcd-io/etcd",
+  "source": "github_trending",
+  "source_url": "https://github.com/etcd-io/etcd",
+  "summary": "etcd 是 etcd-io 组织维护的用 Go 语言编写的分布式可靠键值存储系统，专为分布式系统中最关键的数据提供高可用、强一致的存储服务。该仓库在 GitHub 上拥有约 5.26 万星标和 1.06 万分支，周新增星标约 368，是云原生生态中 Kubernetes 等系统的核心基础组件。",
+  "content": "etcd 是一个开源的分布式键值存储系统，采用 Go 语言实现，定位于为分布式系统保存最关键的数据。其核心特性包括：基于 Raft 共识算法实现强一致性与高可用，支持分布式环境下的可靠数据存储；提供简洁的键值 API，并支持 watch 机制用于配置变更通知与服务发现；具备多版本并发控制（MVCC）、租约（lease）与事务等能力。etcd 是 Kubernetes 集群状态存储的默认后端，也被广泛应用于服务注册与发现、分布式锁、配置管理等场景。仓库由 etcd-io 组织维护，星标数约 52,603，分支数约 10,597，周新增星标约 368，社区活跃度高，是云原生计算基金会（CNCF）的毕业项目之一，在分布式基础设施领域具有重要地位。",
+  "tags": [
+    "etcd",
+    "分布式键值存储",
+    "Go",
+    "Raft",
+    "云原生",
+    "Kubernetes",
+    "服务发现",
+    "配置管理",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:31+08:00",
+  "language": "Go",
+  "score": 9.5,
+  "metadata": {
+    "author": "etcd-io",
+    "stars": 52603,
+    "forks": 10597,
+    "daily_stars": null,
+    "weekly_stars": 368,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

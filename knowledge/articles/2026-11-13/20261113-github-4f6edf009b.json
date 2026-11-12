@@ -1,0 +1,33 @@
+{
+  "id": "20261113-github-4f6edf009b",
+  "title": "tauri-apps/tauri",
+  "source": "github_trending",
+  "source_url": "https://github.com/tauri-apps/tauri",
+  "summary": "Tauri 是一个基于 Rust 的框架，允许开发者使用 Web 前端技术构建体积更小、速度更快且更安全的桌面和移动应用程序。该仓库在 GitHub 上拥有超过 11 万星标，是 Rust 生态中备受关注的热门项目。",
+  "content": "Tauri 由 tauri-apps 组织维护，核心优势在于利用系统自带的 WebView 渲染前端界面，从而显著减小应用体积并提升性能。其 Rust 后端负责处理系统级操作，提供更强的安全性和更低的资源占用。项目支持桌面（Windows、macOS、Linux）和移动（iOS、Android）多平台，适合希望用 Web 技术栈开发原生应用的团队。当前仓库星标数达 112,846，日增 89 星，周增 368 星，社区活跃度高，是 GitHub Rust 分类下的热点项目。",
+  "tags": [
+    "Tauri",
+    "Rust",
+    "桌面应用",
+    "移动应用",
+    "Web前端",
+    "跨平台",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:18+08:00",
+  "language": "Rust",
+  "score": 9.5,
+  "metadata": {
+    "author": "tauri-apps",
+    "stars": 112846,
+    "forks": 4216,
+    "daily_stars": 89,
+    "weekly_stars": 368,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

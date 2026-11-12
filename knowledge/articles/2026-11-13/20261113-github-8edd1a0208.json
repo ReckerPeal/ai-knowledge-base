@@ -1,0 +1,34 @@
+{
+  "id": "20261113-github-8edd1a0208",
+  "title": "dsx-ai-factory/run-ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/dsx-ai-factory/run-ai",
+  "summary": "Run:ai 是面向 Kubernetes 的 AI 工作负载编排平台，该 monorepo 包含控制平面服务、集群内 Kubernetes Operator/控制器、共享库与客户端、安装器以及本地开发环境，使用 Go 语言开发。",
+  "content": "该仓库为 Run:ai 的 AI 工作负载编排平台代码库，采用 monorepo 结构组织。核心内容包括：控制平面服务（control plane services）、运行在集群内的 Kubernetes Operator 与控制器（operator/controllers）、共享库与客户端（shared libraries and clients）、安装器（installer）以及本地开发环境（local dev environment）。项目基于 Go 语言实现，当前获得约 756 个 Star、123 个 Fork，日增约 8 个 Star，属于 GitHub 热点中的 Go 语言项目。其定位是为 Kubernetes 提供 AI 工作负载的调度与编排能力，适合关注云原生 AI 基础设施、Kubernetes Operator 开发及平台工程的技术人员参考。",
+  "tags": [
+    "Kubernetes",
+    "AI 工作负载编排",
+    "Go",
+    "Operator",
+    "云原生",
+    "monorepo",
+    "控制平面",
+    "安装器"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:21+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "dsx-ai-factory",
+    "stars": 756,
+    "forks": 123,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

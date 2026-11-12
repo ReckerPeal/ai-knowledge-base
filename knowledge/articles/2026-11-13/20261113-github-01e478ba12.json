@@ -1,0 +1,34 @@
+{
+  "id": "20261113-github-01e478ba12",
+  "title": "mvanhorn/last30days-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "summary": "mvanhorn/last30days-skill 是一个用 Python 编写的 AI Agent 技能，能够跨 Reddit、X、YouTube、Hacker News、Polymarket 及网页等多个来源研究任意话题，并综合生成有依据的摘要。该仓库在 GitHub 上热度极高，拥有约 6.7 万星标，日增约 119 星。",
+  "content": "该仓库定位为 AI Agent 的“技能”模块，核心能力是多源信息检索与综合摘要生成。用户给定任意话题后，技能会并行或依次从 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 预测市场以及通用网页抓取相关内容，再对收集到的信息进行整合，输出有事实依据、可追溯的摘要。其价值在于把分散在多个社交与信息平台上的观点、讨论和信号汇聚成一份连贯的研究报告，适合趋势调研、舆情分析、投资/预测参考等场景。仓库语言为 Python，作者为 mvanhorn，当前星标约 67,434，复刻约 5,926，日增星标约 119，属于 GitHub 热点中的高关注项目。",
+  "tags": [
+    "AI Agent",
+    "多源检索",
+    "信息综合",
+    "摘要生成",
+    "Python",
+    "GitHub 热点",
+    "研究工具",
+    "社交媒体分析"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:14+08:00",
+  "language": "Python",
+  "score": 8.8,
+  "metadata": {
+    "author": "mvanhorn",
+    "stars": 67434,
+    "forks": 5926,
+    "daily_stars": 119,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

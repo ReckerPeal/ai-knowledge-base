@@ -1,0 +1,32 @@
+{
+  "id": "20261113-github-9b8780536d",
+  "title": "figma/mcp-server-guide",
+  "source": "github_trending",
+  "source_url": "https://github.com/figma/mcp-server-guide",
+  "summary": "Figma 官方发布的 MCP 服务器使用指南，帮助开发者将 Figma 设计文件与 AI 工具（如 Claude、Cursor 等）连接，实现设计到代码的自动化工作流。",
+  "content": "该仓库是 Figma 官方提供的 MCP（Model Context Protocol）服务器使用指南，主要面向希望将 Figma 设计资源接入 AI 编程助手的开发者。内容涵盖 MCP 服务器的配置方法、与主流 AI 客户端（如 Claude Desktop、Cursor 等）的集成步骤，以及如何通过 MCP 协议让 AI 读取 Figma 设计文件中的图层、样式和组件信息，从而辅助生成代码或进行设计分析。仓库以 Python 为主要语言，当前获得约 2180 颗星标和 215 次 fork，日增星约 5 颗，属于 GitHub Python 热点项目。该指南降低了设计-开发协作中 AI 工具的使用门槛，适合前端开发者、UI/UX 设计师及 AI 辅助开发实践者参考。",
+  "tags": [
+    "Figma",
+    "MCP",
+    "AI 编程",
+    "设计到代码",
+    "Python",
+    "开发工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:14+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "figma",
+    "stars": 2180,
+    "forks": 215,
+    "daily_stars": 5,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

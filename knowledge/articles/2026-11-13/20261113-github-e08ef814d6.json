@@ -1,0 +1,32 @@
+{
+  "id": "20261113-github-e08ef814d6",
+  "title": "fastapi/fastapi",
+  "source": "github_trending",
+  "source_url": "https://github.com/fastapi/fastapi",
+  "summary": "FastAPI 是一个高性能、易学习、编码快速且可用于生产环境的 Python Web 框架，在 GitHub 上拥有超过 10 万星标，是当前最热门的 Python 后端框架之一。",
+  "content": "FastAPI 基于 Python 类型提示构建，自动生成交互式 API 文档（Swagger UI 和 ReDoc），并内置数据验证与序列化能力。其核心优势包括：极高的运行性能（接近 Node.js 和 Go）、开发效率高、减少人为错误、支持异步编程、依赖注入系统完善，且与 Pydantic 和 Starlette 深度集成。该仓库当前获得 104,669 星标、10,237 次 fork，日增约 86 星，表明社区活跃度和关注度持续高涨。FastAPI 适用于构建 RESTful API、微服务、机器学习模型部署等场景，已被 Netflix、Uber 等大型企业采用。对于 Python 开发者而言，它是现代 Web 开发的首选框架之一，学习曲线平缓且生态成熟。",
+  "tags": [
+    "Python",
+    "Web框架",
+    "API开发",
+    "高性能",
+    "异步编程",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-13T05:12:14+08:00",
+  "language": "Python",
+  "score": 9.5,
+  "metadata": {
+    "author": "fastapi",
+    "stars": 104669,
+    "forks": 10237,
+    "daily_stars": 86,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
