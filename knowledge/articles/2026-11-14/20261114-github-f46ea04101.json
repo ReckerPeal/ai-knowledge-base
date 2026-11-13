@@ -1,0 +1,33 @@
+{
+  "id": "20261114-github-f46ea04101",
+  "title": "langchain-ai/langgraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "summary": "LangGraph 是 LangChain 团队推出的用于构建有状态、可恢复的智能体（Agent）应用的 Python 框架，支持循环、分支和持久化执行，当前在 GitHub 上拥有约 4.5 万星标，日增约 56 星，属于高热度 AI 基础设施项目。",
+  "content": "LangGraph 由 langchain-ai 组织维护，定位为“构建弹性智能体”（Build resilient agents）。其核心价值在于将智能体工作流建模为图结构，节点表示计算步骤，边表示控制流，从而原生支持循环、条件分支、人工介入和状态持久化，弥补了传统链式编排在复杂 Agent 场景下的不足。项目使用 Python 编写，与 LangChain 生态无缝集成，适合构建多智能体协作、工具调用、长流程任务等生产级应用。从社区数据看，仓库已获得 44913 个星标和 7744 个 fork，日增星约 56，表明其处于持续活跃增长阶段，是当前 AI Agent 编排领域的重要开源项目。",
+  "tags": [
+    "LangGraph",
+    "AI Agent",
+    "LangChain",
+    "Python",
+    "工作流编排",
+    "状态管理",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:24+08:00",
+  "language": "Python",
+  "score": 9.0,
+  "metadata": {
+    "author": "langchain-ai",
+    "stars": 44913,
+    "forks": 7744,
+    "daily_stars": 56,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

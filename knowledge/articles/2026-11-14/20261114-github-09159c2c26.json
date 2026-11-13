@@ -1,0 +1,33 @@
+{
+  "id": "20261114-github-09159c2c26",
+  "title": "realiti4/claude-swap",
+  "source": "github_trending",
+  "source_url": "https://github.com/realiti4/claude-swap",
+  "summary": "claude-swap 是一个用 Python 编写的工具，支持在多个 Claude Code 账户之间切换，提供自动限流轮换、用量仪表盘和并行会话功能，当前获得约 4693 星标。",
+  "content": "该仓库 realiti4/claude-swap 面向使用 Claude Code 的开发者，核心解决多账户管理与配额利用问题。主要功能包括：1）多账户切换，便于在不同 Claude Code 账户间快速切换；2）自动限流轮换，在触发速率限制时自动切换到其他账户以保持工作连续性；3）用量仪表盘，可视化展示各账户的使用情况；4）并行会话，支持同时运行多个会话。项目采用 Python 实现，在 GitHub 上获得 4693 星标和 505 次 fork，日增约 29 星，属于 GitHub 热点 Python 类别，适合需要高频使用 Claude Code 且拥有多个账户的开发者。",
+  "tags": [
+    "Claude Code",
+    "多账户管理",
+    "限流轮换",
+    "用量仪表盘",
+    "并行会话",
+    "Python",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:24+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "realiti4",
+    "stars": 4693,
+    "forks": 505,
+    "daily_stars": 29,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

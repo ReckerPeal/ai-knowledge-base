@@ -1,0 +1,36 @@
+{
+  "id": "20261114-github-addc172903",
+  "title": "crowdsecurity/crowdsec",
+  "source": "github_trending",
+  "source_url": "https://github.com/crowdsecurity/crowdsec",
+  "summary": "CrowdSec 是一个开源入侵检测与防御系统（IDS/IPS）、Web 应用防火墙（WAF）及机器人检测工具，支持 Linux、Windows、Docker 和 Kubernetes 环境，并借助众包恶意 IP 黑名单实现协同防护。",
+  "content": "CrowdSec 由 crowdsecurity 开发，采用 Go 语言编写，在 GitHub 上已获得约 15,596 颗星和 763 次 fork，日增星约 24，属于 GitHub 热点 Go 项目。其核心能力包括：\n1. 入侵检测与防御（IDS/IPS）：实时监控日志与行为，识别攻击并自动执行封禁。\n2. Web 应用防火墙（WAF）：拦截常见 Web 攻击。\n3. 机器人检测：识别并阻断恶意爬虫与自动化攻击。\n4. 跨平台支持：覆盖 Linux、Windows、Docker 和 Kubernetes，便于在多种基础设施中部署。\n5. 众包黑名单：社区共享恶意 IP 情报，形成协同防御网络，提升整体安全响应速度。\n该项目适合需要轻量级、可扩展安全防护的运维与安全团队，尤其适用于云原生和容器化环境。",
+  "tags": [
+    "开源安全",
+    "IDS/IPS",
+    "WAF",
+    "机器人检测",
+    "众包黑名单",
+    "Go",
+    "Kubernetes",
+    "Docker",
+    "Linux",
+    "Windows"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:33+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "crowdsecurity",
+    "stars": 15596,
+    "forks": 763,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

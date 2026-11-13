@@ -1,0 +1,35 @@
+{
+  "id": "20261114-github-8ac1989720",
+  "title": "NVIDIA/auto-ontology",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/auto-ontology",
+  "summary": "NVIDIA 开源的 Auto Ontology 是一个 Python 框架，用于在数据之上构建语义化、基于图的推理层，支持确定性查询生成、更优的上下文检索，并为 LLM 与智能体工作流提供更可解释的 AI 能力。",
+  "content": "Auto Ontology 由 NVIDIA 推出，定位为面向数据语义化的图推理框架。其核心思路是在原始数据之上建立本体（ontology）与知识图谱层，使查询生成具备确定性，避免 LLM 自由生成带来的不确定性；同时提升上下文检索的准确度，并增强 AI 决策过程的可解释性。该框架主要服务于 LLM 与 agent 工作流场景，适合需要结构化知识、可靠检索与可审计推理链的应用。仓库使用 Python 编写，当前获得约 1.25 万星标、1026 次 fork，周新增星标约 5800，属于近期 GitHub 热点项目，社区关注度较高。",
+  "tags": [
+    "Python",
+    "知识图谱",
+    "本体论",
+    "LLM",
+    "Agent",
+    "语义推理",
+    "上下文检索",
+    "可解释AI",
+    "NVIDIA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:36+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 12516,
+    "forks": 1026,
+    "daily_stars": null,
+    "weekly_stars": 5802,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

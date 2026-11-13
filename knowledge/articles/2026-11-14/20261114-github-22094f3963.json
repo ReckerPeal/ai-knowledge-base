@@ -1,0 +1,34 @@
+{
+  "id": "20261114-github-22094f3963",
+  "title": "volcengine/OpenViking",
+  "source": "github_trending",
+  "source_url": "https://github.com/volcengine/OpenViking",
+  "summary": "火山引擎开源的 OpenViking 是一个面向 AI Agent 的自进化上下文数据库，旨在统一 Agent 记忆、知识 RAG 与技能管理。项目以 Python 实现，在 GitHub 上已获得超过 4.2 万星标，热度较高。",
+  "content": "OpenViking 由火山引擎（volcengine）开源，定位为 AI Agent 的“自进化上下文数据库”。其核心目标是将 Agent 的长期记忆（Memory）、基于知识库的检索增强生成（Knowledge RAG）以及可复用的技能（Skills）统一到一个数据库层中管理，从而减少多套系统拼接带来的复杂度。\n\n从仓库摘要看，该项目强调“自进化”能力，意味着上下文数据可能随 Agent 使用过程动态更新与优化。技术栈为 Python，便于与主流 AI 框架集成。社区数据方面，当前星标约 42,198，复刻约 3,479，日增星标约 111，表明项目处于活跃增长阶段，受到开发者关注。\n\n适用场景包括：构建具备长期记忆的对话 Agent、需要统一知识检索与技能调用的智能体系统、以及希望降低 Agent 上下文管理复杂度的工程团队。由于摘要信息有限，具体架构、存储后端与 API 设计需进一步查阅仓库文档。",
+  "tags": [
+    "AI Agent",
+    "上下文数据库",
+    "Agent Memory",
+    "RAG",
+    "知识库",
+    "Python",
+    "火山引擎",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:24+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "volcengine",
+    "stars": 42198,
+    "forks": 3479,
+    "daily_stars": 111,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

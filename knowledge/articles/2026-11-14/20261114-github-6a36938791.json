@@ -1,0 +1,35 @@
+{
+  "id": "20261114-github-6a36938791",
+  "title": "Tencent/LoopForge",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tencent/LoopForge",
+  "summary": "腾讯开源的 LoopForge 是一个自托管的编码智能体交付工作流编排工具，支持 CodeBuddy、Codex 和 Claude Code，通过脚本与人工审批门控实现自动化流程，并提供面向编码助手的本地工作流。项目使用 Go 语言开发，当前获得 666 星标，日增 174 星，热度较高。",
+  "content": "LoopForge 聚焦于“编码智能体交付”这一场景，核心能力是将多个 AI 编码工具（CodeBuddy、Codex、Claude Code）纳入统一的自托管工作流中。其设计强调脚本化编排与人工审批门控（human approval gates），意味着在自动化执行的关键节点可插入人工确认，兼顾效率与可控性。项目还包含面向编码助手的本地工作流，适合在本地环境中运行和调试。从技术栈看，Go 语言保证了部署的轻量与性能；从社区反馈看，日增 174 星表明其切中了开发者对多智能体协作与流程治理的需求。整体定位偏向工程化与可审计的 AI 编码流水线，适合团队在内部搭建可控的智能体交付体系。",
+  "tags": [
+    "Go",
+    "AI 编码智能体",
+    "工作流编排",
+    "自托管",
+    "人工审批",
+    "腾讯开源",
+    "CodeBuddy",
+    "Codex",
+    "Claude Code"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:33+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Tencent",
+    "stars": 666,
+    "forks": 110,
+    "daily_stars": 174,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

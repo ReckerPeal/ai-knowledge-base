@@ -1,0 +1,33 @@
+{
+  "id": "20261114-github-f7cfdfd7bc",
+  "title": "alibaba/open-code-review",
+  "source": "github_trending",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "summary": "阿里巴巴开源的混合架构代码审查工具，结合确定性流水线与 LLM Agent，提供精确到行级的评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic，已在阿里大规模场景中验证。",
+  "content": "该仓库由阿里巴巴开源，采用 Go 语言实现，定位为安全、快速、高效且经过阿里大规模生产环境验证的代码审查工具。其核心创新在于混合架构：将确定性的静态分析流水线与 LLM Agent 相结合，既能保证规则检查的稳定性和可重复性，又能借助大模型进行语义级审查。工具支持精确到代码行级别的评论输出，便于开发者定位问题。内置多语言规则集覆盖空指针异常（NPE）、线程安全、XSS、SQL 注入等常见缺陷类型，并兼容 OpenAI 与 Anthropic 的模型接口，方便接入不同 LLM 服务。项目在 GitHub 上已获得约 5.05 万星标、3748 个 fork，日增星约 206，热度较高，适合需要自动化代码审查与安全扫描的研发团队参考或集成。",
+  "tags": [
+    "代码审查",
+    "静态分析",
+    "LLM Agent",
+    "Go",
+    "阿里巴巴",
+    "安全扫描",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:33+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "alibaba",
+    "stars": 50500,
+    "forks": 3748,
+    "daily_stars": 206,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

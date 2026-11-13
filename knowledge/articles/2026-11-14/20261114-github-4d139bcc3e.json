@@ -1,0 +1,32 @@
+{
+  "id": "20261114-github-4d139bcc3e",
+  "title": "tw93/Pake",
+  "source": "github_trending",
+  "source_url": "https://github.com/tw93/Pake",
+  "summary": "Pake 是一个基于 Rust 的开源工具，只需一条命令即可将任意网站转换为轻量级桌面应用，支持 macOS、Windows 和 Linux 三大平台。该项目在 GitHub 上拥有超过 6.3 万星标，日增约 105 星，热度极高。",
+  "content": "Pake 由开发者 tw93 创建，核心定位是「一条命令把任何网站变成轻量级桌面应用」，跨 macOS、Windows、Linux 平台。其技术栈以 Rust 为主，相比 Electron 方案能显著降低打包体积与内存占用，适合将常用 Web 服务（如文档、IM、笔记等）封装为独立桌面客户端。仓库当前约 63,546 stars、12,999 forks，日增 105 stars、周增 674 stars，属于 GitHub 热点中的高关注项目。该项目降低了桌面应用开发门槛，对个人效率工具定制和轻量客户端替代方案具有较高实用价值。",
+  "tags": [
+    "Rust",
+    "桌面应用",
+    "跨平台",
+    "Web 转 App",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:30+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "tw93",
+    "stars": 63546,
+    "forks": 12999,
+    "daily_stars": 105,
+    "weekly_stars": 674,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

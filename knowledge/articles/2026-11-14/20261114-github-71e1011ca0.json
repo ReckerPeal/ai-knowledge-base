@@ -1,0 +1,32 @@
+{
+  "id": "20261114-github-71e1011ca0",
+  "title": "ranxianglei/billion-context",
+  "source": "github_trending",
+  "source_url": "https://github.com/ranxianglei/billion-context",
+  "summary": "billion-context 是一个用 TypeScript 编写的上下文压缩插件，旨在让单次会话能够持续数月并处理数十亿 token，同时仅需约 100K 的上下文窗口即可运行，显著降低长会话场景下的上下文成本。",
+  "content": "该仓库由 ranxianglei 开发，定位为上下文压缩插件，核心卖点是支持超长单会话（billions of tokens）与极小上下文窗口（100K 即可）。它通过压缩机制在有限窗口内维持长期对话的连续性，适合需要持久记忆的 AI 应用场景。项目在 GitHub 上热度较高，累计约 7237 stars、595 forks，近一周新增约 2986 stars，属于 TypeScript 类热点项目。",
+  "tags": [
+    "上下文压缩",
+    "长会话",
+    "TypeScript",
+    "AI 插件",
+    "token 优化",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:39+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "ranxianglei",
+    "stars": 7237,
+    "forks": 595,
+    "daily_stars": null,
+    "weekly_stars": 2986,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

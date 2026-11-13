@@ -1,0 +1,34 @@
+{
+  "id": "20261114-github-9a87efc058",
+  "title": "callstack/agent-device",
+  "source": "github_trending",
+  "source_url": "https://github.com/callstack/agent-device",
+  "summary": "callstack/agent-device 是一个面向 AI 编程代理的开源设备层，提供 CLI、MCP 服务器和类型化 Node.js API，用于在本地或云端控制移动端、Web、电视和桌面应用及模拟器。",
+  "content": "该仓库由 callstack 开发，使用 TypeScript 编写，旨在为 AI 编程代理提供统一的设备控制能力。其核心组件包括：命令行工具（CLI）、MCP（Model Context Protocol）服务器以及类型化的 Node.js API。通过这些组件，开发者可以让 AI 代理在真实设备或模拟器上操作移动应用、Web 应用、电视应用和桌面应用，并支持本地与云端两种运行模式。项目在 GitHub 上获得约 5373 颗星和 401 次 fork，日增星约 26，属于 TypeScript 类别的热点项目。其价值在于填补 AI 编码代理与设备端应用交互之间的空白，使自动化测试、设备操控和跨平台代理任务更加便捷。",
+  "tags": [
+    "AI 编程代理",
+    "设备控制",
+    "MCP",
+    "TypeScript",
+    "CLI",
+    "Node.js API",
+    "移动端自动化",
+    "跨平台"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-14T04:41:27+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "callstack",
+    "stars": 5373,
+    "forks": 401,
+    "daily_stars": 26,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
