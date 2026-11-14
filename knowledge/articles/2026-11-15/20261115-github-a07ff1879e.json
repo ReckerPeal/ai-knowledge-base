@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-a07ff1879e",
+  "title": "SigmaHQ/sigma",
+  "source": "github_trending",
+  "source_url": "https://github.com/SigmaHQ/sigma",
+  "summary": "SigmaHQ/sigma 是 Sigma 规则的主仓库，提供与厂商无关的通用检测规则，用于 SIEM 系统中的日志事件威胁检测，以 Python 为主要语言，拥有约 1.15 万星标。",
+  "content": "SigmaHQ/sigma 是 Sigma 规则的主仓库，Sigma 是一种与厂商无关的通用检测规则格式，旨在让安全团队编写一次检测逻辑即可在多种 SIEM 平台间复用。该仓库汇集了社区维护的大量规则，覆盖 Windows 事件日志、云服务、Linux 等多种日志源，是威胁检测与安全运营（SecOps）领域的重要基础设施。仓库以 Python 为主要语言，提供规则转换工具链支持，当前约 11,508 星标、2,943 分支，日增约 12 星，属于 GitHub 热点中的 Python 安全类项目。",
+  "tags": [
+    "Sigma",
+    "威胁检测",
+    "SIEM",
+    "安全运营",
+    "检测规则",
+    "Python",
+    "开源安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:12+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "SigmaHQ",
+    "stars": 11508,
+    "forks": 2943,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

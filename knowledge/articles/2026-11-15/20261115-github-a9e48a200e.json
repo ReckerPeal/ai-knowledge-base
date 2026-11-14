@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-a9e48a200e",
+  "title": "guohuiyuan/go-music-dl",
+  "source": "github_trending",
+  "source_url": "https://github.com/guohuiyuan/go-music-dl",
+  "summary": "go-music-dl 是一个基于 Go 语言开发的全网音乐搜索与下载工具，支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 主流平台，具备多源并发搜索与无损音质解析能力，GitHub 星标约 6296。",
+  "content": "该项目以 Go 语言实现，核心定位是跨平台音乐聚合搜索与下载。功能层面提供两种使用形态：CLI 命令行适合脚本化与自动化场景，Web 服务模式便于浏览器交互使用。数据源覆盖网易云、QQ、酷狗、Bilibili、汽水音乐等 10 余个主流音乐平台，通过多源并发搜索提升检索效率与结果覆盖率，并支持无损音质解析下载。仓库当前约 6296 stars、603 forks，周新增约 242 stars，属于 GitHub Go 分类下的热点项目，社区活跃度较高，并设有交流群（755087923）。适合需要批量获取音乐资源或研究多源聚合搜索架构的开发者参考。",
+  "tags": [
+    "Go",
+    "音乐下载",
+    "多源聚合搜索",
+    "CLI",
+    "Web 服务",
+    "无损音质",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:29+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "guohuiyuan",
+    "stars": 6296,
+    "forks": 603,
+    "daily_stars": null,
+    "weekly_stars": 242,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

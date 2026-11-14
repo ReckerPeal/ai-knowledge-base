@@ -1,0 +1,36 @@
+{
+  "id": "20261115-github-c8bb6e8612",
+  "title": "NVIDIA/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/skills",
+  "summary": "NVIDIA 官方推出的 Agent Skills 仓库，为 Claude Code、Codex 等编程智能体提供可安装的技能集，覆盖物理 AI、机器人、仿真、CUDA 与 RAG 等端到端工作流，使用 Python 实现，当前约 3.9k stars。",
+  "content": "该仓库由 NVIDIA 官方维护，定位是面向其产品生态的 Agent Skills 集合。开发者可将这些技能安装到 Claude Code、Codex 及其他编码智能体中，使其能够端到端地执行物理 AI、机器人、仿真、CUDA 编程与 RAG 等任务。仓库以 Python 为主要语言，目前获得约 3988 stars、524 forks，周新增约 92 stars，属于 GitHub 热点中的 Python 类项目。其价值在于将 NVIDIA 的硬件与软件能力封装为智能体可调用的标准化技能，降低 AI 编码助手接入物理 AI 与 GPU 工作流的门槛。",
+  "tags": [
+    "NVIDIA",
+    "Agent Skills",
+    "Claude Code",
+    "Codex",
+    "物理AI",
+    "机器人",
+    "仿真",
+    "CUDA",
+    "RAG",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:21+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 3988,
+    "forks": 524,
+    "daily_stars": null,
+    "weekly_stars": 92,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

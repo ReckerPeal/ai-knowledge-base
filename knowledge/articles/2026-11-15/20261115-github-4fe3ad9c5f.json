@@ -1,0 +1,34 @@
+{
+  "id": "20261115-github-4fe3ad9c5f",
+  "title": "lance-format/lance",
+  "source": "github_trending",
+  "source_url": "https://github.com/lance-format/lance",
+  "summary": "Lance 是一个面向多模态 AI 的开源 Lakehouse 数据格式，支持从 Parquet 两行代码迁移，提供百倍随机访问速度、向量索引与数据版本管理，并兼容 Pandas、DuckDB、Polars、PyArrow、PyTorch 等生态。",
+  "content": "Lance 定位为多模态 AI 场景下的开放 Lakehouse 格式，核心目标是解决传统列式格式在随机访问、向量检索和数据版本管理上的不足。其关键特性包括：1）迁移成本低，仅需两行代码即可从 Parquet 转换；2）随机访问性能提升约 100 倍，适合 AI 训练与推理中的高频采样；3）内置向量索引能力，可直接支撑向量相似性检索；4）提供数据版本管理，便于实验复现与数据回溯；5）与 Pandas、DuckDB、Polars、PyArrow、PyTorch 等主流数据与 AI 工具链兼容，并持续扩展集成。项目以 Rust 实现，兼顾性能与安全，当前在 GitHub 获得约 7300 星标、938 次 fork，属于 GitHub 热点 Rust 类别，适合数据工程与 AI 基础设施团队评估采用。",
+  "tags": [
+    "Lakehouse",
+    "多模态AI",
+    "向量索引",
+    "数据版本管理",
+    "Rust",
+    "Parquet",
+    "数据格式",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:16+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "lance-format",
+    "stars": 7300,
+    "forks": 938,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

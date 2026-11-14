@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-20e5d5ca37",
+  "title": "totec448-spec/chat-on-steroids",
+  "source": "github_trending",
+  "source_url": "https://github.com/totec448-spec/chat-on-steroids",
+  "summary": "该项目为 ChatGPT 提供跨平台的本地 MCP（Model Context Protocol）能力，集成 Chrome 浏览器，并支持目标管理、上下文压缩与恢复以及持久化的多智能体工作流，使用 TypeScript 开发，在 GitHub 上获得约 5.2k 星标。",
+  "content": "该仓库名为 chat-on-steroids，旨在扩展 ChatGPT 的本地化与自动化能力。核心特性包括：1）跨平台本地 MCP 能力，使 ChatGPT 能够通过模型上下文协议与本地环境交互；2）Chrome 浏览器集成，支持网页操作与信息获取；3）Goal（目标）、Compact（压缩）与 Resume（恢复）机制，用于管理长对话与任务状态；4）持久化的多智能体工作流，支持复杂任务的分解与协作。项目采用 TypeScript 编写，当前星标数约 5184，fork 数约 675，日增星约 12，属于 GitHub 热点 TypeScript 类别。",
+  "tags": [
+    "ChatGPT",
+    "MCP",
+    "Chrome 集成",
+    "多智能体",
+    "TypeScript",
+    "工作流",
+    "浏览器自动化"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:15+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "totec448-spec",
+    "stars": 5184,
+    "forks": 675,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

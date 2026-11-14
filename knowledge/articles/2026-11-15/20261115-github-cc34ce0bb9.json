@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-cc34ce0bb9",
+  "title": "runkids/skillshare",
+  "source": "github_trending",
+  "source_url": "https://github.com/runkids/skillshare",
+  "summary": "runkids/skillshare 是一个用 Go 编写的开源工具，旨在通过一条命令将技能、智能体、MCP 和插件同步到所有 AI CLI 工具，简化团队共享流程。该项目在 GitHub 上获得 3124 颗星和 208 次复刻，周新增 176 颗星，属于 GitHub 热点 Go 项目。",
+  "content": "该仓库的核心价值在于解决多 AI CLI 工具生态下的配置同步与团队协作问题。它提供统一的命令行接口，能够将技能（skills）、智能体（agents）、MCP（模型上下文协议）以及插件（plugins）等资源一键同步到不同的 AI 命令行工具中，避免手动重复配置。项目使用 Go 语言开发，具备跨平台和高效分发的优势。从社区数据看，项目热度较高（3124 stars，周增 176 stars），表明其切中了开发者对 AI 工具链标准化和团队共享效率的迫切需求。适用场景包括：团队统一 AI 工具配置、多工具环境下的资源管理、以及快速在成员间共享最佳实践。",
+  "tags": [
+    "Go",
+    "AI CLI",
+    "工具同步",
+    "团队协作",
+    "MCP",
+    "插件管理",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:29+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "runkids",
+    "stars": 3124,
+    "forks": 208,
+    "daily_stars": null,
+    "weekly_stars": 176,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

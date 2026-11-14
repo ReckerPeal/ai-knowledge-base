@@ -1,0 +1,38 @@
+{
+  "id": "20261115-github-ed99da9467",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "summary": "该仓库提供 817 个面向 AI 智能体的结构化网络安全技能，覆盖 29 个安全领域，并映射到 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3 六大框架，遵循 agentskills.io 标准，可兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 等 20 多个平台，采用 Apache 2.0 许可，以 Python 实现。",
+  "content": "该仓库的核心价值在于将网络安全知识工程化为 AI 智能体可直接调用的技能单元。817 个技能按 29 个安全领域组织，每个技能均与六大权威框架对齐：MITRE ATT&CK（攻击行为）、NIST CSF 2.0（网络安全框架）、MITRE ATLAS（AI 系统攻击）、D3FEND（防御技术）、NIST AI RMF（AI 风险管理）和 MITRE F3（反欺诈）。这种多框架映射使技能具备标准化语义，便于在不同安全场景中检索、组合与审计。仓库遵循 agentskills.io 标准，因此可跨 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 等 20 多个 AI 编程与智能体平台使用，降低了安全能力集成的平台锁定风险。项目以 Python 实现，采用 Apache 2.0 开源许可，当前获得约 3.6 万星标和 4400 余次复刻，日增约 66 星，显示出较高的社区关注度。适用场景包括：为安全运营智能体提供标准化技能库、构建自动化威胁检测与响应流程、开展 AI 安全风险评估，以及作为安全培训与知识管理的结构化底座。",
+  "tags": [
+    "网络安全",
+    "AI 智能体",
+    "技能库",
+    "MITRE ATT&CK",
+    "NIST CSF",
+    "MITRE ATLAS",
+    "D3FEND",
+    "NIST AI RMF",
+    "agentskills.io",
+    "Python",
+    "开源",
+    "Apache 2.0"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:12+08:00",
+  "language": "Python",
+  "score": 8.8,
+  "metadata": {
+    "author": "mukul975",
+    "stars": 36137,
+    "forks": 4422,
+    "daily_stars": 66,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

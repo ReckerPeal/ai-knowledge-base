@@ -1,0 +1,32 @@
+{
+  "id": "20261115-github-a53af4b5fc",
+  "title": "openai/codex",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/codex",
+  "summary": "OpenAI 开源的轻量级终端编码智能体 Codex，使用 Rust 编写，在 GitHub 上获得超过 13.5 万星标，周增约 1900 星，是当前最受关注的终端 AI 编程工具之一。",
+  "content": "该仓库为 OpenAI 推出的 Codex 项目，定位为运行在终端中的轻量级编码智能体（coding agent）。其核心特点包括：1）以终端为交互界面，适合开发者直接在命令行环境中调用 AI 完成编码任务；2）采用 Rust 语言实现，强调性能与轻量性；3）由 OpenAI 官方维护，具备较强的技术背书。从社区数据看，项目累计星标约 135,286，Fork 约 21,458，近一周新增星标约 1,929，热度持续但增速趋于平稳，属于高关注度的成熟热点项目。该项目代表了 AI 编程助手从 IDE 插件向终端原生智能体演进的趋势，适合关注 AI 辅助开发、CLI 工具链及 Rust 生态的开发者深入研究。",
+  "tags": [
+    "AI 编程助手",
+    "终端工具",
+    "Rust",
+    "OpenAI",
+    "编码智能体",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:27+08:00",
+  "language": "Rust",
+  "score": 9.0,
+  "metadata": {
+    "author": "openai",
+    "stars": 135286,
+    "forks": 21458,
+    "daily_stars": null,
+    "weekly_stars": 1929,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

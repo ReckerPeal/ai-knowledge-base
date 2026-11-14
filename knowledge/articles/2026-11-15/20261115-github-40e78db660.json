@@ -1,0 +1,30 @@
+{
+  "id": "20261115-github-40e78db660",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "summary": "llama.cpp 发布 v1.0.0 版本，被定位为本地 AI 生态更坚实的基础，标志着这一广受欢迎的开源本地推理框架进入正式版本阶段。",
+  "content": "该内容来自 Hugging Face 官方博客，标题为《llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem》。llama.cpp 是 GGML 组织维护的开源项目，以纯 C/C++ 实现大语言模型的高效推理，支持在 CPU、GPU 及多种边缘设备上本地运行模型，是本地 AI 部署领域的关键基础设施。v1.0.0 作为首个正式大版本，意味着项目在 API 稳定性、功能完整性和生态成熟度上达到新的里程碑，官方将其定位为本地 AI 生态的更强基础。该版本预计对依赖 llama.cpp 的推理工具、量化格式（GGUF）及下游应用产生广泛影响。由于摘要信息有限，具体更新内容（如性能优化、新硬件后端支持、接口变更等）需参考原文。",
+  "tags": [
+    "llama.cpp",
+    "本地推理",
+    "开源框架",
+    "GGUF",
+    "大语言模型",
+    "版本发布"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-13T14:05:22+00:00",
+  "collected_at": "2026-11-15T02:53:29+08:00",
+  "language": "zh",
+  "score": 8.5,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

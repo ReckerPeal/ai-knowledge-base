@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-c7151b3a95",
+  "title": "pnnbao97/VieNeu-TTS",
+  "source": "github_trending",
+  "source_url": "https://github.com/pnnbao97/VieNeu-TTS",
+  "summary": "VieNeu-TTS 是一个面向越南语的开源文本转语音项目，支持即时声音克隆、端侧运行、实时 CPU 推理和 48kHz 音频质量，使用 Python 实现，在 GitHub 上获得约 3329 星标和 1022 次复刻，近期日增约 37 星。",
+  "content": "该仓库由 pnnbao97 开发，核心定位是越南语 TTS（Text-to-Speech）解决方案。主要特性包括：即时声音克隆（instant voice cloning），可在少量参考音频下模仿目标音色；端侧（on-device）部署，无需依赖云端服务；面向 CPU 的实时推理优化，降低硬件门槛；输出 48kHz 高采样率音频，提升听感质量。项目使用 Python 语言，适合开发者集成到本地应用、语音助手、无障碍工具或越南语内容生产流程中。从社区数据看，仓库已有 3329 星标、1022 次复刻，日增约 37 星，说明在越南语语音合成细分领域具有较高关注度和一定的工程可用性。",
+  "tags": [
+    "越南语TTS",
+    "语音克隆",
+    "端侧推理",
+    "CPU实时推理",
+    "Python",
+    "开源语音合成",
+    "48kHz音频"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:12+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "pnnbao97",
+    "stars": 3329,
+    "forks": 1022,
+    "daily_stars": 37,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

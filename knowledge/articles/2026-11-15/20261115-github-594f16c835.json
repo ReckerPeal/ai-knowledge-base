@@ -1,0 +1,33 @@
+{
+  "id": "20261115-github-594f16c835",
+  "title": "netbirdio/netbird",
+  "source": "github_trending",
+  "source_url": "https://github.com/netbirdio/netbird",
+  "summary": "NetBird 是一个基于身份认证的零信任网络平台，利用点对点 WireGuard 技术安全连接人员、机器和 AI 代理，支持跨任意网络通信。项目使用 Go 语言开发，在 GitHub 上获得约 3.1 万星标，日增约 23 星，属于 Go 语言热点项目。",
+  "content": "NetBird 由 netbirdio 组织开源，核心定位是零信任安全网络平台。它通过单一身份认证体系，将人员、设备以及 AI 代理安全地接入任意网络环境，底层采用点对点 WireGuard 协议实现加密通信，兼顾安全性与连接效率。项目语言为 Go，当前 GitHub 星标数约 30,993，复刻数约 1,858，日增星标约 23，在 GitHub 热点 Go 分类中受到关注。该仓库适合关注零信任架构、WireGuard 组网、远程安全接入及 AI 代理网络连接等方向的开发者与运维团队参考。",
+  "tags": [
+    "零信任",
+    "WireGuard",
+    "网络安全",
+    "Go",
+    "点对点网络",
+    "身份认证",
+    "AI代理连接"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-15T02:53:19+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "netbirdio",
+    "stars": 30993,
+    "forks": 1858,
+    "daily_stars": 23,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
