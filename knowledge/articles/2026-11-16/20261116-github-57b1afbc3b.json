@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-57b1afbc3b",
+  "title": "bojieli/ai-infra-book",
+  "source": "github_trending",
+  "source_url": "https://github.com/bojieli/ai-infra-book",
+  "summary": "《深入理解 AI Infra：量化分析与系统设计》开源书稿，从硬件约束与模型架构出发，量化推导 LLM 推理与训练系统设计，包含全书正文、PDF、配套计算工具与实验代码。",
+  "content": "该仓库是李博杰所著《深入理解 AI Infra：量化分析与系统设计》的开源书稿项目，以 Python 为主要语言。内容围绕 AI 基础设施的系统设计展开，核心方法是从硬件约束（如算力、显存带宽、互联带宽）和模型架构（如 Transformer 结构、参数规模）出发，对 LLM 推理与训练系统进行量化推导与分析。仓库提供全书正文、PDF 版本、配套计算工具以及实验代码，便于读者动手验证理论。项目在 GitHub 上获得约 7815 星、629 叉，日增约 151 星，属于 GitHub 热点中的 Python 类别，适合 AI 系统、推理优化、训练框架方向的学习者与工程师参考。",
+  "tags": [
+    "AI Infra",
+    "LLM推理",
+    "LLM训练",
+    "系统设计",
+    "量化分析",
+    "开源书籍",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bojieli",
+    "stars": 7815,
+    "forks": 629,
+    "daily_stars": 151,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

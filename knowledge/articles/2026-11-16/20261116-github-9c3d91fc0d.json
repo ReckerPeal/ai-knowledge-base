@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-9c3d91fc0d",
+  "title": "gohugoio/hugo",
+  "source": "github_trending",
+  "source_url": "https://github.com/gohugoio/hugo",
+  "summary": "Hugo 是一个用 Go 语言编写的静态网站生成框架，以构建速度极快著称，在 GitHub 上拥有超过 9 万星标，是当前最流行的静态站点生成器之一。",
+  "content": "Hugo 由 gohugoio 组织维护，定位为“全球最快的网站构建框架”。它基于 Go 语言实现，核心优势在于极快的编译速度（通常毫秒级完成数千页面构建）、单二进制无依赖部署、丰富的主题生态以及灵活的内容管理能力。仓库当前获得约 90,476 星标和 8,467 次 fork，日增星约 9 颗，属于长期活跃且成熟的开源项目。Hugo 适用于博客、文档站点、企业官网、作品集等静态内容场景，支持 Markdown 写作、多语言、短代码、资源管道和模块化扩展。其技术架构强调性能与简洁性，常被用于 Jamstack 架构和 CI/CD 自动化发布流程。",
+  "tags": [
+    "静态网站生成器",
+    "Go",
+    "Hugo",
+    "开源框架",
+    "Jamstack",
+    "网站构建",
+    "Markdown"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:39+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "gohugoio",
+    "stars": 90476,
+    "forks": 8467,
+    "daily_stars": 9,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

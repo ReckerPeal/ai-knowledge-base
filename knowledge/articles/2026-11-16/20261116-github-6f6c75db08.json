@@ -1,0 +1,32 @@
+{
+  "id": "20261116-github-6f6c75db08",
+  "title": "zeronsh/zeron",
+  "source": "github_trending",
+  "source_url": "https://github.com/zeronsh/zeron",
+  "summary": "zeronsh/zeron 是一个用 Rust 编写的原生控制平面，旨在统一管理 Claude Code、Codex、Cursor、Devin 等多种编码智能体，提供集中化的调度与协调能力。",
+  "content": "该项目定位为多编码智能体的原生控制平面，核心价值在于为不同 AI 编码工具（如 Claude Code、Codex、Cursor、Devin 等）提供统一的控制与编排层。采用 Rust 语言实现，具备高性能和原生执行优势。仓库当前获得约 3680 个 Star 和 375 个 Fork，日增约 25 星，属于 GitHub Rust 类别热点项目，表明社区对多智能体统一管理方案有较高关注度。适合需要同时使用多种编码智能体并希望集中管控的开发者或团队。",
+  "tags": [
+    "Rust",
+    "编码智能体",
+    "控制平面",
+    "AI 编程工具",
+    "多智能体编排",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:37+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "zeronsh",
+    "stars": 3680,
+    "forks": 375,
+    "daily_stars": 25,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

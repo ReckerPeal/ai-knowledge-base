@@ -1,0 +1,32 @@
+{
+  "id": "20261116-github-5f987f0636",
+  "title": "tokio-rs/topcoat",
+  "source": "github_trending",
+  "source_url": "https://github.com/tokio-rs/topcoat",
+  "summary": "tokio-rs/topcoat 是 tokio-rs 组织推出的 Rust Web 应用开发框架，主打“开箱即用”（batteries-included），旨在为开发者提供一套完整、集成的 Web 开发解决方案。该仓库当前获得约 7230 颗星标，周新增约 887 颗，显示出较高的社区关注度。",
+  "content": "该仓库由 Rust 异步运行时生态的核心团队 tokio-rs 维护，定位为构建 Web 应用的“电池全包”框架。所谓“电池全包”，通常意味着框架内置了路由、中间件、模板渲染、数据库集成、配置管理、日志等常见 Web 开发所需的基础设施，减少开发者自行拼装组件的成本。结合 tokio-rs 在异步网络编程领域的积累，topcoat 很可能深度整合 Tokio 异步运行时，提供高性能的 HTTP 服务能力。当前星标数 7230、复刻数 326，周新增星标 887，说明项目处于活跃增长阶段，可能刚发布重要版本或受到社区推荐。由于摘要未提供详细功能列表，具体特性需进一步查阅仓库文档，但可以预期其目标用户是希望用 Rust 快速构建生产级 Web 应用的开发者。",
+  "tags": [
+    "Rust",
+    "Web框架",
+    "tokio-rs",
+    "开箱即用",
+    "异步编程",
+    "GitHub热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:46+08:00",
+  "language": "Rust",
+  "score": 8.0,
+  "metadata": {
+    "author": "tokio-rs",
+    "stars": 7230,
+    "forks": 326,
+    "daily_stars": null,
+    "weekly_stars": 887,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

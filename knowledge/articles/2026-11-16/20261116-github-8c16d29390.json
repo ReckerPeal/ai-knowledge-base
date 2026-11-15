@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-8c16d29390",
+  "title": "antithesishq/bombadil",
+  "source": "github_trending",
+  "source_url": "https://github.com/antithesishq/bombadil",
+  "summary": "Bombadil 是 Antithesis 团队开源的基于属性的测试工具，面向 Web 和终端 UI，使用 Rust 编写。该项目在 GitHub 上获得约 1951 星标，日增 189 星，热度较高，旨在通过属性测试自动发现 UI 交互中的异常行为。",
+  "content": "Bombadil 由 antithesishq 开发，核心定位是为 Web 与终端用户界面提供基于属性的测试（property-based testing）。与传统的示例测试不同，它通过生成大量随机输入和交互序列来验证 UI 是否满足预设属性，从而更高效地暴露边界条件和状态机缺陷。项目采用 Rust 语言实现，具备高性能和内存安全优势，适合集成到持续测试流程中。当前仓库约有 1951 个星标和 78 个 fork，单日新增 189 星，表明社区关注度快速上升。该工具尤其适合需要高可靠性保障的前端与终端应用测试场景，可与 Antithesis 的确定性仿真平台形成互补。",
+  "tags": [
+    "Rust",
+    "属性测试",
+    "UI测试",
+    "Web测试",
+    "终端UI",
+    "测试工具",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:37+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "antithesishq",
+    "stars": 1951,
+    "forks": 78,
+    "daily_stars": 189,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

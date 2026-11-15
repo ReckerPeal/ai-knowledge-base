@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-aac1c9488d",
+  "title": "bradautomates/claude-video",
+  "source": "github_trending",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "summary": "该项目为 Claude 提供视频理解能力：通过 /watch 命令下载视频、抽取关键帧、转写音频，并将多模态信息交给 Claude 分析。",
+  "content": "bradautomates/claude-video 是一个 Python 开源项目，旨在扩展 Claude 的多模态能力，使其能够“观看”任意视频。核心工作流由 /watch 命令驱动：首先下载目标视频，然后按策略抽取视频帧，同时对音轨进行语音转写，最终将帧图像与转写文本一并提交给 Claude 进行理解与问答。该仓库在 GitHub 上热度较高，累计获得约 2.09 万星标和 2220 次 fork，近一周新增约 689 星，属于 Python 类热点项目。其价值在于将视频内容转化为 Claude 可处理的图文上下文，适用于视频摘要、内容检索、字幕生成辅助等场景。",
+  "tags": [
+    "Claude",
+    "视频理解",
+    "多模态",
+    "Python",
+    "语音转写",
+    "帧抽取",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:41+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "bradautomates",
+    "stars": 20886,
+    "forks": 2220,
+    "daily_stars": null,
+    "weekly_stars": 689,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

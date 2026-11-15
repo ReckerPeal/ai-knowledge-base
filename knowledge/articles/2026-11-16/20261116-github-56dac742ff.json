@@ -1,0 +1,30 @@
+{
+  "id": "20261116-github-56dac742ff",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "summary": "该内容为 Hugging Face 博客发布的《3D 生成模型微调权威指南》，系统介绍了针对 3D 生成模型的微调方法，重点涉及 LoRA 等参数高效微调技术，旨在帮助开发者以较低成本定制 3D 生成模型。",
+  "content": "该指南来自 Hugging Face 官方博客，标题为《The Definitive Fine-Tuning Guide for 3D Generation Models》，发布时间为 2026 年 11 月 12 日。文章聚焦 3D 生成模型的微调实践，从 URL 路径（3d-lora-finetuning）可推断其核心内容围绕 LoRA（Low-Rank Adaptation）在 3D 生成任务中的应用展开，可能涵盖数据准备、训练配置、超参数选择、效果评估及常见问题等环节。作为 Hugging Face 官方出品的教程类文章，其权威性和实用性较高，适合对 3D 内容生成、扩散模型微调及参数高效微调技术感兴趣的 AI 开发者与研究人员参考。",
+  "tags": [
+    "3D生成",
+    "模型微调",
+    "LoRA",
+    "Hugging Face",
+    "参数高效微调",
+    "教程"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-12T00:00:00+00:00",
+  "collected_at": "2026-11-16T03:29:48+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

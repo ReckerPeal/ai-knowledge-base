@@ -1,0 +1,32 @@
+{
+  "id": "20261116-github-1ceb56a3b3",
+  "title": "vercel-labs/agent-browser",
+  "source": "github_trending",
+  "source_url": "https://github.com/vercel-labs/agent-browser",
+  "summary": "vercel-labs/agent-browser 是一个用 Rust 编写的浏览器自动化命令行工具，专为 AI 智能体设计，提供简洁的 CLI 接口来驱动浏览器操作。该项目在 GitHub 上热度极高，已获得超过 5.1 万星标，周增约 4600 星，显示出 AI 智能体与浏览器自动化结合领域的强劲需求。",
+  "content": "该仓库由 Vercel Labs 出品，定位为面向 AI 智能体的浏览器自动化 CLI。核心价值在于为 AI Agent 提供标准化、可脚本化的浏览器控制能力，降低智能体与网页交互的集成门槛。技术栈选用 Rust，意味着在性能、内存安全和跨平台分发方面具备优势，适合作为底层工具链。从社区数据看，项目累计星标 51542、复刻 3601，周新增星标约 4601，增长势头显著，属于 GitHub 热点中的高关注项目。适用场景包括：AI 智能体网页任务执行、自动化测试、数据采集流程编排、以及需要浏览器交互的 Agent 工作流。潜在关注点：作为 vercel-labs 实验性项目，需关注其 API 稳定性与长期维护承诺；同时浏览器自动化领域已有 Playwright、Puppeteer 等成熟方案，该项目需在 AI 原生接口设计上形成差异化。",
+  "tags": [
+    "浏览器自动化",
+    "AI Agent",
+    "Rust",
+    "CLI 工具",
+    "Vercel Labs",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:46+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "vercel-labs",
+    "stars": 51542,
+    "forks": 3601,
+    "daily_stars": null,
+    "weekly_stars": 4601,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

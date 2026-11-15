@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-a1ba6f0896",
+  "title": "jaegertracing/jaeger",
+  "source": "github_trending",
+  "source_url": "https://github.com/jaegertracing/jaeger",
+  "summary": "Jaeger 是 CNCF 旗下的开源分布式追踪平台，使用 Go 语言开发，在 GitHub 上拥有约 2.34 万星标和 3247 个复刻，是云原生可观测性领域的重要基础设施项目。",
+  "content": "Jaeger 由 Uber 开源并捐赠给 CNCF，提供端到端的分布式追踪能力，用于监控和排查微服务架构中的请求链路。其核心功能包括：兼容 OpenTracing/OpenTelemetry 的追踪数据采集、可扩展的后端存储（如 Cassandra、Elasticsearch）、基于 Web 的 UI 查询与可视化、以及采样策略与自适应采样。项目采用 Go 语言实现，具备高并发与低开销特性，常与 Kubernetes、Istio 等云原生组件集成。当前星标数约 23410，复刻数 3247，日增星标约 1，属于成熟稳定、社区活跃度较高的基础设施类项目，适合需要构建可观测性体系的团队评估采用。",
+  "tags": [
+    "分布式追踪",
+    "可观测性",
+    "CNCF",
+    "Go",
+    "微服务",
+    "云原生",
+    "OpenTelemetry"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:39+08:00",
+  "language": "Go",
+  "score": 9.0,
+  "metadata": {
+    "author": "jaegertracing",
+    "stars": 23410,
+    "forks": 3247,
+    "daily_stars": 1,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

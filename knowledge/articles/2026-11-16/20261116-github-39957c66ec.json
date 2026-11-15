@@ -1,0 +1,35 @@
+{
+  "id": "20261116-github-39957c66ec",
+  "title": "HuskerMinion/techo5",
+  "source": "github_trending",
+  "source_url": "https://github.com/HuskerMinion/techo5",
+  "summary": "HuskerMinion/techo5 是一个为第一代和第二代 Echo Show 5 智能音箱开发的开源固件项目，用 Alpine Linux 替换 Android 系统并移除 Alexa，将其改造为本地 Home Assistant 语音卫星设备，支持触摸屏、设备端唤醒词、SSH 以及 A/B 分区 OTA 更新。",
+  "content": "该项目面向希望摆脱云端语音助手、构建本地化智能家居控制的用户。核心思路是：在 Echo Show 5 硬件上刷入 Alpine Linux，替代原有 Android 系统，从而完全移除 Alexa 依赖。改造后的设备可作为 Home Assistant 的本地语音卫星，具备自带触摸屏交互、设备端唤醒词识别、SSH 远程管理以及 A/B 双分区空中升级能力。项目使用 Go 语言开发，在 GitHub 上获得约 692 星标和 117 次 fork，日增约 22 星，属于近期 Go 语言类热点项目。其价值在于将商用智能音箱转化为可完全掌控的本地语音终端，兼顾隐私与可定制性。",
+  "tags": [
+    "开源固件",
+    "Echo Show 5",
+    "Alpine Linux",
+    "Home Assistant",
+    "本地语音助手",
+    "Go",
+    "智能家居",
+    "OTA 更新",
+    "唤醒词"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:39+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "HuskerMinion",
+    "stars": 692,
+    "forks": 117,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

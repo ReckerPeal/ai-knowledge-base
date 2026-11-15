@@ -1,0 +1,34 @@
+{
+  "id": "20261116-github-0d415288aa",
+  "title": "meta/astryx",
+  "source": "github_trending",
+  "source_url": "https://github.com/meta/astryx",
+  "summary": "Meta 开源的 Astryx 是一个完全可定制且面向智能体（agent）就绪的设计系统，使用 TypeScript 编写，在 GitHub 上获得极高关注度，周增星约 1.37 万，总星数超 2.8 万。",
+  "content": "Astryx 是 Meta 推出的开源设计系统，核心定位为「完全可定制」与「agent ready」。其技术栈为 TypeScript，适合现代前端工程。从热度看，仓库总星数 28,731、fork 2,244，周新增星标 13,660，表明发布后迅速获得社区关注，属于 GitHub 热点 TypeScript 类别。设计系统通常包含组件库、设计令牌、主题定制与文档规范；「agent ready」暗示其可能提供面向 AI 智能体的接口、元数据或自动化适配能力，便于智能体理解与操作 UI。由于摘要信息有限，具体组件数量、框架支持（如 React）与许可证等细节未明确。综合判断：项目背靠 Meta、增长迅猛、方向契合 AI 与前端融合趋势，具备较高参考与采用价值，但需进一步查看仓库文档以评估成熟度与生态兼容性。",
+  "tags": [
+    "设计系统",
+    "TypeScript",
+    "Meta",
+    "开源",
+    "前端",
+    "AI Agent",
+    "组件库",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:44+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "meta",
+    "stars": 28731,
+    "forks": 2244,
+    "daily_stars": null,
+    "weekly_stars": 13660,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-eb69d2f199",
+  "title": "davila7/claude-code-templates",
+  "source": "github_trending",
+  "source_url": "https://github.com/davila7/claude-code-templates",
+  "summary": "davila7/claude-code-templates 是一个开源注册表与 CLI 工具，用于集中管理 Claude Code 的各类组件，包括 agents、commands、skills、hooks、MCPs、settings 和 mods。项目以 Python 实现，在 GitHub 上获得约 3.37 万星标，日增约 179 星，热度较高。",
+  "content": "该仓库定位为 Claude Code 生态的组件注册中心与命令行工具，帮助开发者发现、安装和管理 Claude Code 的扩展组件。核心功能覆盖 agents（智能体）、commands（命令）、skills（技能）、hooks（钩子）、MCPs（模型上下文协议服务）、settings（配置）和 mods（修改项）等类别，通过统一注册表降低组件分发与复用成本。技术栈为 Python，适合与 Claude Code 工作流集成。社区指标方面，星标约 33,748，fork 约 3,981，日增星约 179、周增星约 401，表明项目处于快速增长阶段，具备较强的社区关注度和实用价值。",
+  "tags": [
+    "Claude Code",
+    "CLI",
+    "组件注册表",
+    "AI 开发工具",
+    "Python",
+    "MCP",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "davila7",
+    "stars": 33748,
+    "forks": 3981,
+    "daily_stars": 179,
+    "weekly_stars": 401,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

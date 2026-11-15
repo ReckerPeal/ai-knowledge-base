@@ -1,0 +1,34 @@
+{
+  "id": "20261116-github-81f33d0f3f",
+  "title": "homeassistant-ai/ha-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/homeassistant-ai/ha-mcp",
+  "summary": "homeassistant-ai/ha-mcp 是一个基于 Python 的开源项目，旨在通过 MCP（Model Context Protocol）让 Claude、ChatGPT 等 AI 助手配置和自动化 Home Assistant 智能家居系统。该项目在 GitHub 上热度较高，拥有约 7868 颗星和 479 个复刻，周新增星标约 2348，显示出较强的社区关注度。",
+  "content": "该项目核心价值在于打通 AI 助手与 Home Assistant 之间的交互通道，利用 MCP 协议使大语言模型能够直接读取和控制智能家居设备、编写自动化规则，从而降低 Home Assistant 的使用门槛。从仓库数据看，项目采用 Python 语言开发，作者为 homeassistant-ai，当前星标数 7868，复刻数 479，周新增星标 2348，属于 GitHub 热点中的 Python 类别。其应用场景包括：通过自然语言指令配置 Home Assistant 自动化、让 AI 助手协助排查设备状态、以及基于对话生成智能家居场景脚本。目标用户主要是智能家居爱好者、Home Assistant 用户以及希望将 LLM 能力引入物联网控制的开发者。由于项目处于热点趋势中，且切中 AI 与智能家居结合的方向，具备较好的生态扩展潜力。",
+  "tags": [
+    "Home Assistant",
+    "MCP",
+    "AI 助手",
+    "智能家居",
+    "Python",
+    "自动化",
+    "Claude",
+    "ChatGPT"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:41+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "homeassistant-ai",
+    "stars": 7868,
+    "forks": 479,
+    "daily_stars": null,
+    "weekly_stars": 2348,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

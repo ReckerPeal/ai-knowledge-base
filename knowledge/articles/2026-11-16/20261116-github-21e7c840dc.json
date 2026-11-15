@@ -1,0 +1,33 @@
+{
+  "id": "20261116-github-21e7c840dc",
+  "title": "trustwallet/assets",
+  "source": "github_trending",
+  "source_url": "https://github.com/trustwallet/assets",
+  "summary": "Trust Wallet 官方维护的加密代币信息库，收录数千种代币的元数据，以 Go 语言实现，是加密钱包生态的重要基础设施。",
+  "content": "该仓库是 Trust Wallet 发起的综合性加密代币信息集合，覆盖数千种代币的元数据（如名称、符号、精度、Logo 等），为钱包、交易所和区块链应用提供标准化的代币数据源。项目使用 Go 语言开发，提供数据校验与自动化处理工具，确保信息的准确性和一致性。仓库拥有 5415 个 Star 和 27644 个 Fork，社区参与度极高，每日新增约 2 个 Star，属于 GitHub Go 语言热点项目。其核心价值在于作为去中心化金融（DeFi）和加密资产领域的基础数据层，降低开发者集成代币信息的成本，并推动行业数据标准化。",
+  "tags": [
+    "加密货币",
+    "代币元数据",
+    "Trust Wallet",
+    "Go",
+    "区块链",
+    "开源数据",
+    "DeFi 基础设施"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-16T03:29:39+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "trustwallet",
+    "stars": 5415,
+    "forks": 27644,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
