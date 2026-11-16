@@ -1,0 +1,33 @@
+{
+  "id": "20261117-github-d9a650738e",
+  "title": "ag-ui-protocol/ag-ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/ag-ui-protocol/ag-ui",
+  "summary": "AG-UI 是一个面向 Agent 与用户交互的协议项目，目标是把 AI Agent 接入前端应用，让智能体能力以标准化方式融入 Web 界面。项目以 TypeScript 实现，在 GitHub 上热度很高，累计约 1.89 万星标、1961 次 fork，近期日增约 790 星、周增约 1277 星，属于 AI 前端集成方向的高关注度开源项目。",
+  "content": "AG-UI（Agent-User Interaction Protocol）定位为 Agent 与用户之间的交互协议，核心价值在于为前端应用提供统一的 Agent 接入方式。随着大模型 Agent 从后端走向产品界面，如何让前端稳定地接收 Agent 的流式输出、状态变化与交互事件成为关键问题，AG-UI 试图以协议层标准化这一过程，降低前端集成 Agent 的复杂度。项目采用 TypeScript 编写，天然适配 Web 前端生态，便于在 React、Vue 等框架中落地。从社区数据看，该项目星标约 18912、fork 约 1961，日增星约 790、周增约 1277，增长势头强劲，说明 Agent 前端交互协议正成为开发者关注的热点方向。适合关注 AI 应用前端架构、Agent 产品化与协议标准化的团队跟踪评估。",
+  "tags": [
+    "AG-UI",
+    "Agent 交互协议",
+    "前端集成",
+    "TypeScript",
+    "AI Agent",
+    "开源项目",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-17T07:05:34+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "ag-ui-protocol",
+    "stars": 18912,
+    "forks": 1961,
+    "daily_stars": 790,
+    "weekly_stars": 1277,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

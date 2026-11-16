@@ -1,0 +1,32 @@
+{
+  "id": "20261117-github-3fa1090af0",
+  "title": "JuliusBrussee/caveman",
+  "source": "github_trending",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "summary": "JuliusBrussee/caveman 是一个用 Go 编写的编码智能体代理与技能，通过让 AI 以“原始人”风格说话来压缩提示词，从而减少约 65% 的 token 消耗。该项目在 GitHub 上热度极高，已获得超过 12 万星标，周增星约 2215，属于病毒式传播的开发者工具。",
+  "content": "该项目核心思路是“少 token 办大事”：在编码智能体（coding agents）的调用链路上加入代理层，将自然语言指令改写为极简的“原始人语”风格，以降低 token 用量和成本。仓库语言为 Go，作者 JuliusBrussee，当前星标 120749、复刻 7052，周增星 2215，属于 GitHub 热点中的高热度项目。其价值在于以轻量、可插拔的方式优化 LLM 调用成本，适合对 token 费用敏感的编码辅助场景；但需注意过度压缩可能影响指令可读性与模型理解准确度，建议在真实任务中做效果与成本的权衡测试。",
+  "tags": [
+    "Go",
+    "编码智能体",
+    "token 优化",
+    "代理",
+    "开发者工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-17T07:05:50+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "JuliusBrussee",
+    "stars": 120749,
+    "forks": 7052,
+    "daily_stars": null,
+    "weekly_stars": 2215,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

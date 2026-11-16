@@ -1,0 +1,36 @@
+{
+  "id": "20261117-github-f4600fef6f",
+  "title": "esengine/estella",
+  "source": "github_trending",
+  "source_url": "https://github.com/esengine/estella",
+  "summary": "esengine/estella 是一个高性能 2D/3D 游戏引擎，采用 TypeScript SDK 与 C++/WebAssembly 核心，并提供可视化编辑器，支持将同一项目发布到 Web、桌面、微信小游戏、可玩广告以及原生 Android/iOS 平台。",
+  "content": "该仓库由 esengine 开发，使用 TypeScript 作为主要语言，当前获得约 939 个 Star 和 195 个 Fork，日增约 37 个 Star，属于 GitHub TypeScript 热点项目。其核心特点包括：1）高性能：通过 C++ 编写并编译为 WebAssembly 的核心，兼顾运行效率与跨平台能力；2）TypeScript SDK：为开发者提供类型友好的脚本接口，便于快速开发游戏逻辑；3）可视化编辑器：降低开发门槛，支持场景搭建与资源管理；4）多端发布：一次开发即可部署到 Web、桌面、微信小游戏、可玩广告和原生 Android/iOS，覆盖广泛的游戏分发场景。该项目适合独立开发者、小团队以及需要快速构建跨平台 2D/3D 游戏或互动广告的团队。",
+  "tags": [
+    "游戏引擎",
+    "TypeScript",
+    "WebAssembly",
+    "C++",
+    "跨平台",
+    "2D/3D",
+    "可视化编辑器",
+    "微信小游戏",
+    "可玩广告",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-17T07:05:34+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "esengine",
+    "stars": 939,
+    "forks": 195,
+    "daily_stars": 37,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

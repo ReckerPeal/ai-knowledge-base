@@ -1,0 +1,32 @@
+{
+  "id": "20261117-github-3bb5b3b2d9",
+  "title": "opensandbox-group/OpenSandbox",
+  "source": "github_trending",
+  "source_url": "https://github.com/opensandbox-group/OpenSandbox",
+  "summary": "OpenSandbox 是一个面向 AI 智能体的安全、快速且可扩展的沙箱运行时，使用 Go 语言开发，在 GitHub 上获得高度关注（约 1.7 万星标），旨在为 AI 代理提供隔离的执行环境。",
+  "content": "该项目由 opensandbox-group 维护，核心定位是为 AI 智能体提供安全、高效且易于扩展的沙箱运行时。其关键特性包括：安全性（隔离 AI 代理的执行环境，防止恶意或意外操作影响宿主系统）、高性能（快速启动与低开销，适合频繁调用的智能体场景）、可扩展性（支持自定义插件或模块以适配不同需求）。技术栈为 Go 语言，具备良好的并发与跨平台能力。社区热度方面，仓库累计获得 17364 个星标和 1660 个复刻，近一周新增 698 个星标，表明项目处于活跃增长阶段。该工具适用于需要运行不可信代码或自动化任务的 AI 代理系统，例如代码执行、工具调用、多智能体协作等场景。",
+  "tags": [
+    "AI 智能体",
+    "沙箱运行时",
+    "Go",
+    "安全隔离",
+    "可扩展",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-17T07:05:50+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "opensandbox-group",
+    "stars": 17364,
+    "forks": 1660,
+    "daily_stars": null,
+    "weekly_stars": 698,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

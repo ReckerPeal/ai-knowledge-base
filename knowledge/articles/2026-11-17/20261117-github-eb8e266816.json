@@ -1,0 +1,33 @@
+{
+  "id": "20261117-github-eb8e266816",
+  "title": "sherlock-project/sherlock",
+  "source": "github_trending",
+  "source_url": "https://github.com/sherlock-project/sherlock",
+  "summary": "Sherlock 是一个用 Python 编写的开源工具，可通过用户名在多个社交网络中快速查找对应的社交媒体账号，适用于 OSINT 和账号关联分析场景。",
+  "content": "Sherlock 是 GitHub 上广受欢迎的开源情报（OSINT）工具，核心功能是根据一个用户名在数百个社交平台上批量检测是否存在对应账号。项目采用 Python 实现，提供命令行接口，支持指定目标平台、输出结果文件、超时控制等参数，便于自动化与脚本集成。其高星标数（约 11.3 万）和活跃的社区贡献表明工具成熟度高、平台覆盖广。典型用途包括数字足迹调查、安全研究与账号关联分析；使用时需注意遵守各平台服务条款与隐私法规。",
+  "tags": [
+    "Python",
+    "OSINT",
+    "社交媒体",
+    "账号查找",
+    "开源情报",
+    "命令行工具",
+    "安全研究"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-17T07:05:42+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "sherlock-project",
+    "stars": 113145,
+    "forks": 13034,
+    "daily_stars": null,
+    "weekly_stars": 10412,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
