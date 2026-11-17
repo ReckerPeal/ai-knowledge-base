@@ -1,0 +1,36 @@
+{
+  "id": "20261118-github-c35dbcc419",
+  "title": "jlcodes99/cockpit-tools",
+  "source": "github_trending",
+  "source_url": "https://github.com/jlcodes99/cockpit-tools",
+  "summary": "cockpit-tools 是一个用 Rust 编写的通用 AI IDE 账号管理工具，支持 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Gemini-cli、CodeBuddy 等多个 AI 编程工具，提供多账号切换、配额监控、自动唤醒和多开实例管理功能。",
+  "content": "该仓库由 jlcodes99 开发，采用 Rust 语言实现，在 GitHub 上已获得约 2 万星标和 1800 余次 fork，日增星约 28，属于 GitHub 热点中的 Rust 项目。其核心定位是解决开发者同时使用多个 AI IDE 或编程助手时的账号管理痛点：用户往往需要在不同工具和不同账号之间频繁切换，并关注各服务的配额消耗情况。cockpit-tools 通过统一界面集中管理这些账号，支持一键切换、实时配额监控、自动唤醒（可能用于保持会话活跃或定时任务）以及多开实例管理，从而提升多 AI 工具协同工作的效率。项目覆盖的 AI IDE 生态较广，包括 GitHub Copilot、Cursor、Windsurf 等主流产品，以及 Codex、Gemini-cli 等命令行工具，适合重度依赖 AI 编程助手的开发者、需要管理团队账号的工程团队，以及希望统一监控多平台配额的用户。从技术角度看，Rust 带来的性能与跨平台能力有助于实现轻量、稳定的桌面工具。",
+  "tags": [
+    "Rust",
+    "AI IDE",
+    "账号管理",
+    "多账号切换",
+    "配额监控",
+    "开发者工具",
+    "GitHub Copilot",
+    "Cursor",
+    "Windsurf",
+    "Codex"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:43+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "jlcodes99",
+    "stars": 20079,
+    "forks": 1823,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

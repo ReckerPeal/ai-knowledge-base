@@ -1,0 +1,32 @@
+{
+  "id": "20261118-github-dd09a96a58",
+  "title": "google/ax",
+  "source": "github_trending",
+  "source_url": "https://github.com/google/ax",
+  "summary": "Google 开源的 Agent Executor (AX) 是一个用 Go 语言编写的智能体编排运行时，旨在为 AI 智能体提供统一的执行与调度框架。该项目在 GitHub 上获得约 1.48 万星标，日增约 22 星，显示出较高的社区关注度。",
+  "content": "AX（Agent Executor）是 Google 推出的开放智能体编排运行时，采用 Go 语言实现。其核心定位是为 AI Agent 提供执行引擎与编排能力，可能涉及任务调度、工具调用、多智能体协作等运行时基础设施。从仓库数据看，项目已积累 14764 个星标和 796 个 fork，日增星标约 22，说明项目处于活跃增长阶段，且背靠 Google 品牌与 Go 生态，具备较强的工程可信度。作为“编排运行时”，AX 有望填补智能体从原型到生产部署之间的基础设施空白，适合关注 AI Agent 工程化、Go 语言后端及云原生编排的开发者深入研究。",
+  "tags": [
+    "AI Agent",
+    "编排运行时",
+    "Go",
+    "Google",
+    "开源",
+    "智能体框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "google",
+    "stars": 14764,
+    "forks": 796,
+    "daily_stars": 22,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

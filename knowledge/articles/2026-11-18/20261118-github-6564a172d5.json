@@ -1,0 +1,36 @@
+{
+  "id": "20261118-github-6564a172d5",
+  "title": "dograh-hq/dograh",
+  "source": "github_trending",
+  "source_url": "https://github.com/dograh-hq/dograh",
+  "summary": "Dograh 是一个开源语音 AI 平台，定位为 Vapi 和 Retell 的自托管替代方案，支持本地部署与 BYOK（自带密钥），提供语音到语音或 LLM/STT/TTS 组合模式，并内置可视化工作流构建器、原生 MCP 支持与电话通信能力。",
+  "content": "Dograh 是一个基于 Python 的开源语音 AI 平台，旨在作为 Vapi 和 Retell 的自托管替代品。其核心特性包括：支持 On-Prem 本地部署，满足数据隐私与合规需求；采用 BYOK（自带密钥）模式，可灵活接入自有模型服务；同时支持端到端的语音到语音（Speech to Speech）以及 LLM + STT + TTS 的模块化组合方案；提供可视化工作流构建器，降低语音 AI 应用编排门槛；原生支持 MCP（Model Context Protocol），便于与外部工具和数据源集成；并具备电话通信（telephony）支持，可直接对接电话网络场景。该仓库在 GitHub 上获得约 6183 星标和 1595 次 fork，日增约 13 星，属于 GitHub 热点 Python 分类项目，适合需要私有化部署、可定制语音交互流程的团队与开发者。",
+  "tags": [
+    "语音AI",
+    "开源平台",
+    "自托管",
+    "Vapi替代",
+    "Retell替代",
+    "可视化工作流",
+    "MCP",
+    "电话通信",
+    "Python",
+    "BYOK"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:41+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "dograh-hq",
+    "stars": 6183,
+    "forks": 1595,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "20261118-github-a98972768a",
+  "title": "crossplane/crossplane",
+  "source": "github_trending",
+  "source_url": "https://github.com/crossplane/crossplane",
+  "summary": "Crossplane 是一个云原生控制平面项目，使用 Go 语言开发，在 GitHub 上拥有约 1.2 万星标，旨在通过 Kubernetes 风格 API 统一管理多云基础设施。",
+  "content": "Crossplane 是 CNCF 旗下的云原生控制平面项目，核心思想是将 Kubernetes 的声明式 API 与控制器模式扩展到基础设施管理领域。它允许用户以自定义资源（CRD）的方式定义数据库、存储、网络、集群等云资源，并通过控制器持续调谐实际状态与期望状态，实现跨云厂商（AWS、GCP、Azure、阿里云等）的统一编排。项目使用 Go 语言编写，当前在 GitHub 上获得约 12249 星标和 1296 次 fork，日增星标约 2 个，属于稳定增长的热点 Go 项目。Crossplane 的典型应用场景包括平台工程、内部开发者平台（IDP）构建、多云资源抽象与 GitOps 驱动的 инфраструктура 管理。其生态包含 Provider、Composition、Function 等扩展机制，支持将底层云资源组合为更高层的抽象 API，降低应用团队的云资源使用门槛。",
+  "tags": [
+    "云原生",
+    "控制平面",
+    "Kubernetes",
+    "Go",
+    "基础设施即代码",
+    "多云管理",
+    "平台工程",
+    "CNCF"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:44+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "crossplane",
+    "stars": 12249,
+    "forks": 1296,
+    "daily_stars": 2,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261118-github-2271fc56a4",
+  "title": "gitleaks/gitleaks",
+  "source": "github_trending",
+  "source_url": "https://github.com/gitleaks/gitleaks",
+  "summary": "Gitleaks 是一个用 Go 编写的开源工具，用于在 Git 仓库中检测和防止硬编码的敏感信息（如密码、API 密钥、令牌等）。它通过静态分析扫描提交历史，帮助开发者在代码泄露前发现并修复安全问题。该项目在 GitHub 上拥有超过 3.1 万星标，是 DevSecOps 领域广泛使用的秘密扫描工具。",
+  "content": "Gitleaks 的核心功能是扫描 Git 仓库中的敏感信息泄露。它支持扫描整个提交历史、特定分支或暂存区，并内置了丰富的规则集来识别常见的秘密模式（如 AWS 密钥、私钥、数据库连接字符串等）。用户可以通过配置文件自定义规则，或使用正则表达式扩展检测能力。Gitleaks 可以集成到 CI/CD 流水线中，作为预提交钩子或持续集成步骤，实现自动化的安全防护。其输出格式支持 JSON、SARIF 等，便于与安全工具链对接。该项目采用 Go 语言开发，具有高性能和跨平台特性，社区活跃，每周新增约 271 个星标，显示出持续的关注度。",
+  "tags": [
+    "秘密扫描",
+    "安全",
+    "DevSecOps",
+    "Git",
+    "Go",
+    "静态分析",
+    "CI/CD"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:54+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "gitleaks",
+    "stars": 31141,
+    "forks": 2385,
+    "daily_stars": null,
+    "weekly_stars": 271,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

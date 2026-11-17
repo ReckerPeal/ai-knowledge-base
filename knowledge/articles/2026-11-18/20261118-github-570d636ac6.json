@@ -1,0 +1,33 @@
+{
+  "id": "20261118-github-570d636ac6",
+  "title": "leepokai/Codync",
+  "source": "github_trending",
+  "source_url": "https://github.com/leepokai/Codync",
+  "summary": "Codync 是一个用 Rust 编写的开源 Grok Bot 替代方案，支持用户通过 iPhone、Mac、Windows、Linux 或终端，在自己的电脑上以机器人形式与 Claude Code、Codex、Gemini CLI、Cursor、Copilot 等 40 多种 AI 代理进行消息交互。该项目代理无关且免费，同时也可作为 Muse 和 Dots 的替代品。",
+  "content": "Codync 的核心定位是“自带代理与订阅”的 AI 代理消息网关。它不绑定特定 AI 服务商，而是让用户将已有的 AI 代理（如 Claude Code、Codex、Gemini CLI、Cursor、Copilot 等 40 余种）接入为可远程对话的机器人。用户可以在自己的计算机上运行 Codync，并通过 iPhone、Mac、Windows、Linux 或终端等任意客户端与这些代理交互。项目采用 Rust 构建，强调性能与跨平台能力，并作为 Grok Bot、Muse、Dots 的开源替代方案。当前 GitHub 星标约 2217，日增约 47 星，属于 Rust 热点项目。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "开源",
+    "跨平台",
+    "消息机器人",
+    "Grok Bot 替代",
+    "代理无关"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-18T05:56:43+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "leepokai",
+    "stars": 2217,
+    "forks": 226,
+    "daily_stars": 47,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
