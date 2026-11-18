@@ -1,0 +1,36 @@
+{
+  "id": "20261119-github-1abd30c3be",
+  "title": "stalwartlabs/stalwart",
+  "source": "github_trending",
+  "source_url": "https://github.com/stalwartlabs/stalwart",
+  "summary": "Stalwart 是一个用 Rust 编写的一体化邮件与协作服务器，支持 IMAP、JMAP、SMTP、CalDAV、CardDAV、WebDAV 等主流协议，强调安全性与可扩展性，在 GitHub 上获得约 1.6 万星标。",
+  "content": "Stalwart 由 stalwartlabs 开发，定位为 All-in-one Mail & Collaboration server，即集邮件与协作功能于一体的服务端软件。其核心特点是安全、可扩展，并且原生支持多种协议，包括用于邮件访问的 IMAP、现代邮件协议 JMAP、邮件传输的 SMTP，以及日历、联系人和文件协作相关的 CalDAV、CardDAV、WebDAV。项目使用 Rust 语言实现，兼顾性能与内存安全。截至采集时，仓库获得 16036 个星标、1058 个 fork，日增约 28 星，属于 GitHub Rust 热点项目，适合关注自托管邮件系统、协作平台或 Rust 服务端开发的用户进一步研究。",
+  "tags": [
+    "Rust",
+    "邮件服务器",
+    "协作平台",
+    "IMAP",
+    "JMAP",
+    "SMTP",
+    "CalDAV",
+    "CardDAV",
+    "WebDAV",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:07+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "stalwartlabs",
+    "stars": 16036,
+    "forks": 1058,
+    "daily_stars": 28,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

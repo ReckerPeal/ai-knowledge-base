@@ -1,0 +1,32 @@
+{
+  "id": "20261119-github-6604790571",
+  "title": "gogs/gogs",
+  "source": "github_trending",
+  "source_url": "https://github.com/gogs/gogs",
+  "summary": "Gogs 是一个用 Go 语言编写的轻量级自托管 Git 服务，以部署简单、资源占用低著称，旨在让用户轻松搭建私有 Git 平台。该项目在 GitHub 上拥有约 4.8 万星标，社区活跃度较高。",
+  "content": "Gogs（Go Git Service）是一个开源的自托管 Git 服务，使用 Go 语言开发，主打“无痛”部署体验。其核心优势包括：极简的安装流程（支持二进制、Docker、源码等多种方式）、极低的系统资源需求（可在树莓派等低配设备上运行）、跨平台支持（Windows、Linux、macOS 等），以及提供 Web 界面、SSH/HTTP 协议支持、仓库管理、用户与组织管理、Webhook、工单、Wiki 等常用功能。该项目在 GitHub 上获得约 47,943 星标和 5,080 次 fork，周新增星标约 29，表明其仍保持一定的社区关注度。Gogs 适合个人开发者、小团队或教育场景快速搭建私有 Git 服务，与 Gitea（其分支项目）相比更注重轻量与简洁。",
+  "tags": [
+    "Go",
+    "Git 服务",
+    "自托管",
+    "开源",
+    "轻量级",
+    "版本控制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:22+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "gogs",
+    "stars": 47943,
+    "forks": 5080,
+    "daily_stars": null,
+    "weekly_stars": 29,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

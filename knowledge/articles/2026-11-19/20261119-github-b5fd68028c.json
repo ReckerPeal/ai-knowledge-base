@@ -1,0 +1,33 @@
+{
+  "id": "20261119-github-b5fd68028c",
+  "title": "elie222/rakazo",
+  "source": "github_trending",
+  "source_url": "https://github.com/elie222/rakazo",
+  "summary": "rakazo 是一个开源的 Grok Bot 替代方案，允许用户自选模型和沙箱环境，使用 TypeScript 开发，在 GitHub 上获得约 9130 星标和 1644 次 fork，周新增星标约 1228，属于近期 TypeScript 热点项目。",
+  "content": "该项目定位为 Grok Bot 的开源替代品，核心卖点是模型可插拔与沙箱可自选，用户可根据需求灵活配置底层大模型和运行环境，降低对单一商业服务的依赖。技术栈为 TypeScript，适合前端/全栈开发者快速集成与二次开发。从社区数据看，项目热度较高（总星标 9130，周增 1228），说明其开源替代思路受到关注。潜在应用场景包括自托管聊天机器人、多模型实验平台以及需要隔离执行环境的 AI 代理系统。建议关注其模型适配层、沙箱安全机制和部署文档的完善程度。",
+  "tags": [
+    "开源替代",
+    "Grok Bot",
+    "TypeScript",
+    "多模型",
+    "沙箱",
+    "AI 代理",
+    "自托管"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:16+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "elie222",
+    "stars": 9130,
+    "forks": 1644,
+    "daily_stars": null,
+    "weekly_stars": 1228,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

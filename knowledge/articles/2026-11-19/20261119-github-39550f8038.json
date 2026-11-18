@@ -1,0 +1,33 @@
+{
+  "id": "20261119-github-39550f8038",
+  "title": "screenpipe/screenpipe",
+  "source": "github_trending",
+  "source_url": "https://github.com/screenpipe/screenpipe",
+  "summary": "Screenpipe 是一个基于 Rust 开发的开源项目，通过本地持续录制计算机工作过程，自动发现重复性工作流，并将结果交给用户已有的 AI Agent 进行自动化处理，已获 YC S26 支持，GitHub 星标超过 2.2 万。",
+  "content": "Screenpipe 定位为“发现值得自动化的工作”的工具，核心能力包括：1）在本地持续录制用户的计算机操作，保障数据隐私；2）从录制数据中识别和发现重复出现的工作流程；3）将识别出的工作流结果无缝对接给用户已有的任意 AI Agent，实现自动化执行。项目采用 Rust 语言开发，兼具性能与安全性，当前在 GitHub 上拥有 22,441 个星标和 2,307 个 fork，日增星约 16，属于 GitHub 热点 Rust 分类项目，并获得 Y Combinator S26 批次支持。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "工作流自动化",
+    "本地录制",
+    "隐私保护",
+    "YC S26",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:07+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "screenpipe",
+    "stars": 22441,
+    "forks": 2307,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261119-github-341b0d6fbc",
+  "title": "vllm-project/vllm-ascend",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm-ascend",
+  "summary": "vllm-ascend 是 vLLM 社区维护的华为昇腾硬件插件，旨在让 vLLM 推理框架在昇腾 NPU 上运行，当前获得约 3100 星标，属于活跃的 Python 开源项目。",
+  "content": "该仓库为 vLLM 提供华为昇腾（Ascend）硬件后端支持，属于社区维护的硬件插件。vLLM 是主流的高吞吐大模型推理框架，而 vllm-ascend 通过适配昇腾 NPU 的算子与运行时，使 vLLM 能够在国产 AI 加速卡上部署。项目使用 Python 语言，拥有约 3109 个星标和 2763 个 fork，日增星约 13，表明社区关注度较高且参与度活跃。其核心价值在于打通 vLLM 生态与昇腾硬件，降低国产算力平台上的大模型推理部署门槛，适合关注国产 AI 基础设施、推理优化及异构计算适配的开发者。",
+  "tags": [
+    "vLLM",
+    "华为昇腾",
+    "硬件插件",
+    "大模型推理",
+    "Python",
+    "异构计算",
+    "国产AI算力"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:01+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "vllm-project",
+    "stars": 3109,
+    "forks": 2763,
+    "daily_stars": 13,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

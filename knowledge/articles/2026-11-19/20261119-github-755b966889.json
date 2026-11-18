@@ -1,0 +1,33 @@
+{
+  "id": "20261119-github-755b966889",
+  "title": "anthropics/claude-code-security-review",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code-security-review",
+  "summary": "Anthropic 官方推出的基于 Claude 的 AI 安全审查 GitHub Action，可自动分析代码变更中的安全漏洞，当前获得约 7000 星标，属于高关注度的 AI 安全工具。",
+  "content": "该仓库为 anthropics/claude-code-security-review，是一个由 Anthropic 开发的 GitHub Action，利用 Claude 模型对代码变更进行安全审查，识别潜在的安全漏洞。项目使用 Python 编写，在 GitHub 上获得约 7004 个星标和 800 个 fork，日增星约 24，显示出较高的社区关注度。其核心价值在于将大模型能力集成到 CI/CD 流程中，实现自动化的安全代码审查，适合开发团队在 Pull Request 阶段快速发现安全问题。作为 Anthropic 官方项目，其可信度和技术路线值得关注，但具体审查效果需结合实际使用评估。",
+  "tags": [
+    "AI安全",
+    "代码审查",
+    "GitHub Action",
+    "Claude",
+    "Python",
+    "安全漏洞检测",
+    "CI/CD"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:01+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 7004,
+    "forks": 800,
+    "daily_stars": 24,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

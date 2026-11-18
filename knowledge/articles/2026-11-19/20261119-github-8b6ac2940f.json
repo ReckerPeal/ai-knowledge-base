@@ -1,0 +1,32 @@
+{
+  "id": "20261119-github-8b6ac2940f",
+  "title": "Managing frontier AI risk: From training to deployment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+  "summary": "OpenAI 官方博客文章，系统阐述其从前沿 AI 模型训练到部署全流程的风险管理框架，涵盖模型对齐、沙箱隔离、阻断式安全防护与持续监控等关键措施。",
+  "content": "该文来自 OpenAI Blog，主题为「管理前沿 AI 风险：从训练到部署」。文章介绍了 OpenAI 在模型生命周期各阶段的风险控制思路：训练阶段通过模型对齐（alignment）使模型行为符合安全目标；部署阶段采用沙箱（sandboxing）限制模型运行环境与权限；同时设置阻断式安全防护（blocking safeguards）拦截高风险输出，并配合上线后的持续监控（monitoring）及时发现和处置异常行为。整体呈现了「训练—部署—监控」的纵深防御体系，属于 AI 安全治理与前沿模型风险管理方向的权威一手资料，适合关注大模型安全、对齐与合规部署的读者参考。",
+  "tags": [
+    "AI 安全",
+    "前沿模型",
+    "风险管理",
+    "模型对齐",
+    "沙箱隔离",
+    "安全防护",
+    "部署监控",
+    "OpenAI"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-18T06:00:00+00:00",
+  "collected_at": "2026-11-19T05:39:22+08:00",
+  "language": "zh",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "OpenAI Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}

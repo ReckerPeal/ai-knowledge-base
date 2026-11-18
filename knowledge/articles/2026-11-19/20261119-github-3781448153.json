@@ -1,0 +1,36 @@
+{
+  "id": "20261119-github-3781448153",
+  "title": "NVIDIA/SkillEvaluator",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/SkillEvaluator",
+  "summary": "NVIDIA 开源的 SkillEvaluator 是一个多层级框架，用于评估 AI Agent 的技能与插件质量，涵盖质量门禁、语义重叠检测、合成评估数据集生成以及实时 Agent 评估，可量化技能对 Agent 行为的影响。",
+  "content": "SkillEvaluator 由 NVIDIA 推出，采用 Python 实现，当前在 GitHub 上已获得约 3667 颗星、510 次 fork，日增星约 323，属于近期热度较高的 AI 工程化项目。该框架的核心定位是为 AI Agent 的技能（skills）与插件（plugins）提供系统化、多层级的评估能力。其主要功能包括：1）质量门禁（quality gates），在技能上线前进行自动化质量校验；2）语义重叠检测（semantic overlap detection），识别技能之间在语义层面的重复或冲突，帮助维护技能库的清晰度；3）合成评估数据集生成（synthetic evaluation dataset generation），自动构造测试数据以降低人工标注成本；4）实时 Agent 评估（live agent evaluation），在实际运行中衡量技能对 Agent 行为的具体影响。整体来看，该项目填补了 AI Agent 技能生态中“评估与治理”环节的工具空白，适合构建 Agent 平台、插件市场或技能库的团队用于质量保障与迭代优化。",
+  "tags": [
+    "AI Agent",
+    "技能评估",
+    "插件评估",
+    "NVIDIA",
+    "Python",
+    "质量门禁",
+    "语义重叠检测",
+    "合成数据集",
+    "Agent 行为评估",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:01+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "NVIDIA",
+    "stars": 3667,
+    "forks": 510,
+    "daily_stars": 323,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

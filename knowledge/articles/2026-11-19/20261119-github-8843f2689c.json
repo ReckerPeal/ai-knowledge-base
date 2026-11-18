@@ -1,0 +1,33 @@
+{
+  "id": "20261119-github-8843f2689c",
+  "title": "Automattic/harper",
+  "source": "github_trending",
+  "source_url": "https://github.com/Automattic/harper",
+  "summary": "Automattic 开源的离线语法检查器 Harper，基于 Rust 构建，主打隐私优先、快速且完全离线运行，当前在 GitHub 上已获得约 1.78 万星标，日增约 50 星，属于 Rust 语言的热门项目。",
+  "content": "Harper 是由 Automattic 推出的开源语法检查工具，核心特点是离线运行与隐私优先：所有语法检查均在本地完成，无需将文本上传至云端，适合对数据隐私敏感的用户和场景。项目使用 Rust 编写，强调高性能与低资源占用，能够快速完成语法检测。仓库当前拥有 17842 个星标、845 个 fork，日增约 50 星，显示出较高的社区关注度。作为开源项目，Harper 可被集成到编辑器、写作工具或 CI 流程中，为开发者与写作者提供轻量、可定制的语法检查能力。其 Rust 技术栈也使其具备跨平台部署和嵌入其他应用的潜力。",
+  "tags": [
+    "Rust",
+    "语法检查",
+    "隐私优先",
+    "离线工具",
+    "开源",
+    "Automattic",
+    "文本处理"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-19T05:39:07+08:00",
+  "language": "Rust",
+  "score": 8.2,
+  "metadata": {
+    "author": "Automattic",
+    "stars": 17842,
+    "forks": 845,
+    "daily_stars": 50,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

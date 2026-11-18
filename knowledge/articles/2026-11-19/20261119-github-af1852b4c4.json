@@ -1,0 +1,30 @@
+{
+  "id": "20261119-github-af1852b4c4",
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/moe-expert-streaming",
+  "summary": "该博客文章介绍如何利用 Transformers 库在仅 32GB 内存的条件下运行 180B 参数量的 MoE（混合专家）模型推理，探讨了专家流式加载等极限优化技术。",
+  "content": "文章来自 Hugging Face 官方博客，主题为「180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers」。内容聚焦于大模型推理优化：MoE 架构虽然总参数量巨大，但每次前向计算仅激活部分专家，因此可通过专家流式（expert streaming）方式按需从磁盘加载专家权重，从而在 32GB 内存的普通硬件上完成 180B 参数模型的推理。文章可能涉及 Transformers 库中的相关实现、内存管理策略、I/O 与计算重叠、性能权衡等工程细节，属于面向开发者的实践性技术分享，对低成本部署超大 MoE 模型具有参考价值。",
+  "tags": [
+    "MoE",
+    "Transformers",
+    "大模型推理",
+    "内存优化",
+    "专家流式",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "published_at": "2026-11-18T00:00:00+00:00",
+  "collected_at": "2026-11-19T05:39:22+08:00",
+  "language": "en",
+  "score": 8.0,
+  "metadata": {
+    "feed_name": "Hugging Face Blog",
+    "category": "公司博客",
+    "stars": null,
+    "daily_stars": null,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null
+  }
+}
