@@ -1,0 +1,33 @@
+{
+  "id": "20261120-github-d339c484e3",
+  "title": "tobi/qmd",
+  "source": "github_trending",
+  "source_url": "https://github.com/tobi/qmd",
+  "summary": "tobi/qmd 是一个用 TypeScript 编写的迷你 CLI 搜索引擎，可对文档、知识库、会议笔记等本地内容进行搜索，在保持完全本地化运行的同时跟踪当前最先进（SOTA）的检索方法。",
+  "content": "该仓库由 tobi 开发，定位为轻量级命令行搜索工具，面向个人文档与知识管理场景。其核心特点包括：1）完全本地运行，无需依赖云端服务，注重隐私与离线可用性；2）持续跟进 SOTA 检索技术，可能涵盖向量检索、混合搜索等现代方案；3）以 CLI 形式提供，适合开发者与效率工具用户快速集成到工作流。项目在 GitHub 上热度较高，累计约 3.1 万星标、近 2000 次 fork，周新增约 175 星，表明社区关注度持续。语言为 TypeScript，便于跨平台分发与扩展。",
+  "tags": [
+    "CLI",
+    "搜索引擎",
+    "本地优先",
+    "知识库",
+    "文档检索",
+    "TypeScript",
+    "SOTA"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-20T05:54:22+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "tobi",
+    "stars": 31255,
+    "forks": 1971,
+    "daily_stars": null,
+    "weekly_stars": 175,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

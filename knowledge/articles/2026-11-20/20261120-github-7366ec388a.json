@@ -1,0 +1,33 @@
+{
+  "id": "20261120-github-7366ec388a",
+  "title": "rtk-ai/rtk",
+  "source": "github_trending",
+  "source_url": "https://github.com/rtk-ai/rtk",
+  "summary": "rtk-ai/rtk 是一个用 Rust 编写的 CLI 代理工具，旨在通过拦截并优化常见开发命令的输出，将 LLM 的 token 消耗降低 60% 至 90%。该项目以单一二进制文件形式分发，零依赖，便于部署。仓库在 GitHub 上热度极高，已获得超过 8.7 万星标，日增约 155 星，属于 Rust 生态中的热点项目。",
+  "content": "该仓库的核心价值在于解决 LLM 应用（如 AI 编程助手、终端代理）在处理开发命令输出时 token 开销过大的问题。它作为命令行代理，对 git、ls、grep 等常见开发命令的输出进行压缩或摘要，从而显著减少传递给 LLM 的上下文长度，降低使用成本并提升响应速度。技术实现上采用 Rust 编写，编译为单一静态二进制，无外部运行时依赖，跨平台部署简单。项目星标数达 87191，fork 数 5605，日增星标 155，表明社区关注度极高，可能已成为 AI 开发工具链中的热门基础设施。适合 AI 编程助手开发者、终端自动化工具作者以及关注 LLM 成本优化的团队参考或集成。",
+  "tags": [
+    "Rust",
+    "CLI",
+    "LLM",
+    "Token优化",
+    "开发工具",
+    "代理",
+    "AI编程助手"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-20T05:54:14+08:00",
+  "language": "Rust",
+  "score": 9.2,
+  "metadata": {
+    "author": "rtk-ai",
+    "stars": 87191,
+    "forks": 5605,
+    "daily_stars": 155,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

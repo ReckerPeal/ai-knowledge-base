@@ -1,0 +1,32 @@
+{
+  "id": "20261120-github-acf9751f39",
+  "title": "perspective-dev/perspective",
+  "source": "github_trending",
+  "source_url": "https://github.com/perspective-dev/perspective",
+  "summary": "Perspective 是一个高性能数据可视化与分析组件，专为大规模及流式数据集设计，以 Rust 为核心实现，在 GitHub 上获得约 1.16 万星标。",
+  "content": "Perspective 由 perspective-dev 维护，定位为数据可视化与分析组件，尤其适合处理大型或流式数据集。项目主要使用 Rust 语言开发，兼顾性能与跨平台能力，通常提供 WebAssembly 与 Python 等绑定以便在前端和数据分析场景中使用。仓库当前约有 11601 个星标、1370 个复刻，日增约 33 星，属于 GitHub Rust 热点项目，社区关注度较高。其核心价值在于以列式内存模型和增量计算支撑高吞吐的实时可视化与交互式分析，适用于金融行情、日志监控、大规模表格数据探索等场景。",
+  "tags": [
+    "Rust",
+    "数据可视化",
+    "数据分析",
+    "流式数据",
+    "高性能",
+    "WebAssembly"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-20T05:54:14+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "perspective-dev",
+    "stars": 11601,
+    "forks": 1370,
+    "daily_stars": 33,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}
