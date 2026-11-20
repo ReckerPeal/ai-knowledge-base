@@ -1,0 +1,32 @@
+{
+  "id": "20261121-github-154fbef781",
+  "title": "p-e-w/heretic",
+  "source": "github_trending",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "summary": "p-e-w/heretic 是一个基于 Python 的无训练语言模型修改工具，旨在移除审查、抑制低质输出、减少谄媚行为等，在 GitHub 上获得超过 4.2 万星标，日增约 181 星，热度极高。",
+  "content": "该仓库提供无需重新训练即可对语言模型进行行为调整的能力，主要功能包括去除内容审查、抑制“slop”（低质量生成内容）、降低模型的谄媚倾向等。项目以 Python 实现，当前星标数达 42353，fork 数 5250，日增星标约 181，属于 GitHub 热点 Python 类别。其无训练修改的思路对模型可控性与安全对齐研究具有参考价值，但涉及审查移除等敏感方向，需关注合规与伦理风险。",
+  "tags": [
+    "语言模型",
+    "无训练修改",
+    "模型对齐",
+    "内容审查",
+    "Python",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-21T05:36:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "p-e-w",
+    "stars": 42353,
+    "forks": 5250,
+    "daily_stars": 181,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

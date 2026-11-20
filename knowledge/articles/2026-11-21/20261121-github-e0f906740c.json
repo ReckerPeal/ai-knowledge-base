@@ -1,0 +1,33 @@
+{
+  "id": "20261121-github-e0f906740c",
+  "title": "soxoj/maigret",
+  "source": "github_trending",
+  "source_url": "https://github.com/soxoj/maigret",
+  "summary": "Maigret 是一个用 Python 编写的开源情报（OSINT）工具，能够根据用户名在超过 6000 个网站上搜索并收集个人档案信息，用于数字足迹调查。该项目在 GitHub 上拥有超过 4.1 万星标，近期周增星标约 548，热度较高。",
+  "content": "Maigret 由 soxoj 开发，核心功能是通过一个用户名在 6000 多个网站上进行账号存在性检测，并汇总生成目标人物的数字档案（dossier）。它适用于网络安全研究、渗透测试、社交媒体调查和隐私保护等场景。项目采用 Python 实现，支持命令行操作，具有较高的自动化程度和可扩展性。当前仓库星标数达 41094，fork 数 3327，周增星标 548，表明社区活跃度和关注度持续较高。作为 OSINT 领域的实用工具，Maigret 降低了多平台账号关联分析的门槛，但使用时需注意遵守相关法律法规和平台政策。",
+  "tags": [
+    "OSINT",
+    "Python",
+    "用户名搜索",
+    "数字足迹",
+    "网络安全",
+    "开源情报",
+    "社交媒体调查"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-21T05:36:29+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "soxoj",
+    "stars": 41094,
+    "forks": 3327,
+    "daily_stars": null,
+    "weekly_stars": 548,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

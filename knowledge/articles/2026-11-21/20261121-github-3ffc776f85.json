@@ -1,0 +1,33 @@
+{
+  "id": "20261121-github-3ffc776f85",
+  "title": "Imbad0202/academic-research-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/Imbad0202/academic-research-skills",
+  "summary": "该项目为 Claude Code 提供一套完整的学术研究技能流程，覆盖从研究、写作、审阅、修订到定稿的全链路，以 Python 实现，在 GitHub 上获得约 5.8 万星标，日增约 144 星，属于高热度 AI 辅助科研工具。",
+  "content": "该仓库 Imbad0202/academic-research-skills 定位为 Claude Code 的学术研究技能扩展，核心价值在于把学术论文生产拆解为可复用的阶段化工作流：research（文献调研与问题界定）→ write（结构化写作）→ review（模拟同行评审）→ revise（按意见修订）→ finalize（格式与定稿）。这种设计契合 Claude Code 的 agent 化使用方式，用户可通过技能指令驱动模型按学术规范逐步推进，而非一次性生成全文，从而提升可控性与可追溯性。技术栈为 Python，便于与现有脚本、文献管理工具和格式化流程集成。从社区数据看，5.7 万以上星标与 4400 余次 fork 表明其在 AI 辅助科研方向具备较强关注度，日增 144 星说明仍处于活跃传播期。适用人群包括研究生、科研人员、需要规范化写作流程的工程与研究团队。潜在关注点在于：技能效果高度依赖底层模型能力与提示设计，学术诚信与引用真实性需人工把关，且仓库摘要未披露具体实现细节与测试覆盖，实际落地前建议核验文档、示例与许可证。",
+  "tags": [
+    "Claude Code",
+    "学术研究",
+    "AI 辅助写作",
+    "科研工作流",
+    "Python",
+    "开源工具",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-21T05:36:19+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "Imbad0202",
+    "stars": 57880,
+    "forks": 4413,
+    "daily_stars": 144,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

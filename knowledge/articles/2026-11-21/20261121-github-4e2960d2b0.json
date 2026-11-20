@@ -1,0 +1,35 @@
+{
+  "id": "20261121-github-4e2960d2b0",
+  "title": "a2ui-project/a2ui",
+  "source": "github_trending",
+  "source_url": "https://github.com/a2ui-project/a2ui",
+  "summary": "a2ui 是一个开源的生成式 UI 框架，允许智能体以流式方式输出布局数据，并由应用使用 React、Angular、Lit、Flutter、SwiftUI 和 Jetpack Compose 等原生组件进行渲染。",
+  "content": "a2ui 项目定位为生成式 UI（Generative UI）框架，核心机制是让 AI 智能体（agents）以流式方式输出布局数据，客户端应用再将这些数据映射为原生 UI 组件进行渲染。其最大特点是跨框架与跨平台支持，覆盖 Web 端的 React、Angular、Lit，以及移动端的 Flutter、SwiftUI 和 Jetpack Compose，使同一套智能体生成的 UI 描述能够在多种技术栈中落地。项目使用 TypeScript 实现，在 GitHub 上已获得约 1.77 万星标和 1400 余次 fork，周新增星标约 480，属于近期热度较高的开源项目。该框架适合需要让 AI 动态生成界面、同时保持原生渲染体验的场景，例如智能助手界面、低代码/无代码平台、自适应应用等。",
+  "tags": [
+    "生成式UI",
+    "AI智能体",
+    "跨平台",
+    "TypeScript",
+    "React",
+    "Flutter",
+    "SwiftUI",
+    "Jetpack Compose",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-21T05:36:31+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "a2ui-project",
+    "stars": 17694,
+    "forks": 1432,
+    "daily_stars": null,
+    "weekly_stars": 480,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}
