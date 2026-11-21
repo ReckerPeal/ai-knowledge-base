@@ -1,0 +1,32 @@
+{
+  "id": "20261122-github-a9bca652f0",
+  "title": "Tracer-Cloud/opensre",
+  "source": "github_trending",
+  "source_url": "https://github.com/Tracer-Cloud/opensre",
+  "summary": "Tracer-Cloud/opensre 是一个用 Python 编写的开源 CI/CD 可靠性智能体，旨在通过自动化手段提升持续集成与持续交付流程的稳定性。该项目在 GitHub 上热度较高，已获得约 1.39 万星标和 1942 次复刻，单日新增星标约 450 个。",
+  "content": "该仓库定位为“开源 CI/CD 可靠性智能体”，核心目标是通过智能体（agent）技术自动检测、诊断并修复 CI/CD 流水线中的不稳定问题，从而减少构建失败和部署中断。项目使用 Python 语言开发，当前在 GitHub 趋势榜（Python 分类）中表现突出，累计星标 13923，复刻 1942，日增星标约 450，显示出较强的社区关注度。由于摘要信息有限，具体实现机制、支持的 CI/CD 平台（如 GitHub Actions、Jenkins 等）以及智能体的决策逻辑尚未明确，但可推断其面向 DevOps 与平台工程场景，强调自动化与可靠性保障。",
+  "tags": [
+    "CI/CD",
+    "可靠性",
+    "智能体",
+    "Python",
+    "DevOps",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:33+08:00",
+  "language": "Python",
+  "score": 8.0,
+  "metadata": {
+    "author": "Tracer-Cloud",
+    "stars": 13923,
+    "forks": 1942,
+    "daily_stars": 450,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

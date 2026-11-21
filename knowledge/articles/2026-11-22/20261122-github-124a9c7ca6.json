@@ -1,0 +1,32 @@
+{
+  "id": "20261122-github-124a9c7ca6",
+  "title": "FlashML-org/FreeVideo",
+  "source": "github_trending",
+  "source_url": "https://github.com/FlashML-org/FreeVideo",
+  "summary": "FreeVideo 是 FlashML-org 开源的视频生成工具，可在普通个人电脑上运行 MiniMax H3 模型，最低仅需 8GB 显存和 16GB 内存，并能根据硬件自动适配加速路径。",
+  "content": "FreeVideo 旨在降低视频生成模型的硬件门槛，让用户无需高端 GPU 即可在自有电脑上生成视频。其核心特性包括：支持 MiniMax H3 模型，最低配置要求为 8GB VRAM 和 16GB RAM；自动检测并适配硬件加速路径（如 CUDA、ROCm 等），以优化推理性能。项目使用 Python 实现，在 GitHub 上已获得 4118 颗星和 582 次 fork，日增星约 410，属于近期热点项目。适合个人开发者、研究者及视频创作爱好者进行本地化视频生成实验与应用。",
+  "tags": [
+    "视频生成",
+    "MiniMax H3",
+    "低显存",
+    "硬件适配",
+    "Python",
+    "开源工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "FlashML-org",
+    "stars": 4118,
+    "forks": 582,
+    "daily_stars": 410,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

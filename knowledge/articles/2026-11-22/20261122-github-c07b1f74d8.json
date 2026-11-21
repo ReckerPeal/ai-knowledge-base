@@ -1,0 +1,32 @@
+{
+  "id": "20261122-github-c07b1f74d8",
+  "title": "pytorch/torchtitan",
+  "source": "github_trending",
+  "source_url": "https://github.com/pytorch/torchtitan",
+  "summary": "torchtitan 是 PyTorch 官方推出的原生平台，专注于生成式 AI 模型（尤其是大语言模型）的训练，提供分布式训练、并行策略等核心能力，当前在 GitHub 上获得近 6000 星标，属于 PyTorch 生态中的重要基础设施项目。",
+  "content": "该仓库由 PyTorch 团队维护，定位为“PyTorch 原生生成式 AI 模型训练平台”。其核心价值在于将大模型训练中的分布式并行（如数据并行、张量并行、流水线并行）、混合精度、检查点管理等复杂能力封装为可复用的组件，降低研究者和工程师构建与训练生成式 AI 模型的门槛。项目采用 Python 语言，与 PyTorch 生态深度集成，适合作为大模型训练的实验与生产基座。当前星标数约 5938，fork 数约 1095，日增星约 8，表明社区关注度稳定但非爆发式增长。由于背靠 PyTorch 官方，其在技术路线和长期维护上具备较高可信度，适合关注大模型训练基础设施的开发者跟踪与试用。",
+  "tags": [
+    "PyTorch",
+    "生成式AI",
+    "大模型训练",
+    "分布式训练",
+    "深度学习框架",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:33+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "pytorch",
+    "stars": 5938,
+    "forks": 1095,
+    "daily_stars": 8,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

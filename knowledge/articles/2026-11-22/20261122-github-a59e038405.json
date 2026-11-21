@@ -1,0 +1,35 @@
+{
+  "id": "20261122-github-a59e038405",
+  "title": "putyy/res-downloader",
+  "source": "github_trending",
+  "source_url": "https://github.com/putyy/res-downloader",
+  "summary": "putyy/res-downloader 是一个用 Go 语言开发的开源网络资源下载工具，支持视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见平台的资源下载。该项目在 GitHub 上拥有约 2.1 万星标和 2600 余次 fork，属于热门 Go 语言项目。",
+  "content": "该仓库定位为多平台网络资源下载器，覆盖短视频、直播流、音乐等多种内容形态，技术栈为 Go。从元数据看，项目热度较高（stars 21416，forks 2622），日增星标约 16，说明仍有一定社区关注度。其核心价值在于统一处理不同平台的资源抓取与下载需求，尤其对 m3u8 流媒体和直播流有专门支持。适合需要批量下载或备份网络媒体资源的用户，也可作为学习 Go 语言网络编程与流媒体处理的参考项目。",
+  "tags": [
+    "Go",
+    "下载工具",
+    "视频下载",
+    "流媒体",
+    "m3u8",
+    "抖音",
+    "快手",
+    "小红书",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:41+08:00",
+  "language": "Go",
+  "score": 8.5,
+  "metadata": {
+    "author": "putyy",
+    "stars": 21416,
+    "forks": 2622,
+    "daily_stars": 16,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

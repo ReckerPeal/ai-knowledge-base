@@ -1,0 +1,32 @@
+{
+  "id": "20261122-github-9be3ede6da",
+  "title": "visgl/deck.gl",
+  "source": "github_trending",
+  "source_url": "https://github.com/visgl/deck.gl",
+  "summary": "deck.gl 是由 visgl 团队开发的开源 WebGL2 可视化框架，使用 TypeScript 编写，在 GitHub 上拥有约 1.48 万星标和 2300 余次复刻，主要用于大规模地理空间与数据可视化场景。",
+  "content": "deck.gl 是一个基于 WebGL2 的高性能可视化框架，专注于处理大规模数据集的地理空间与抽象数据可视化。项目采用 TypeScript 实现，提供声明式 API 和可组合的图层体系，支持散点图、路径图、多边形、3D 网格等多种可视化类型，并可与 Mapbox GL、Google Maps 等底图库集成。该仓库当前获得约 14,794 个星标和 2,308 次复刻，日增星标约 6 个，属于 GitHub TypeScript 热点项目。其技术价值在于利用 GPU 加速渲染，能够流畅展示百万级数据点，广泛应用于地理信息系统、数据仪表盘和交互式分析场景。",
+  "tags": [
+    "WebGL2",
+    "数据可视化",
+    "TypeScript",
+    "地理空间",
+    "GPU渲染",
+    "开源框架"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "visgl",
+    "stars": 14794,
+    "forks": 2308,
+    "daily_stars": 6,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261122-github-b4ab4cbec9",
+  "title": "louis-e/arnis",
+  "source": "github_trending",
+  "source_url": "https://github.com/louis-e/arnis",
+  "summary": "louis-e/arnis 是一个使用 Rust 编写的开源项目，能够将现实世界中的任意地点以高细节程度生成到 Minecraft 中，实现真实地理数据到游戏世界的转换。该项目在 GitHub 上拥有约 1.9 万星标，属于 Rust 语言的热门项目。",
+  "content": "该项目核心功能是将现实世界的地理位置高精度地还原到 Minecraft 游戏中，用户可以选择任意真实地点并生成对应的游戏地形与建筑。项目采用 Rust 语言开发，具备高性能和内存安全优势，适合处理大规模地理数据转换。仓库当前获得 18771 个星标和 1591 个复刻，日增约 15 星，显示出持续的关注度。该工具可能涉及地理信息系统（GIS）数据处理、地图投影转换、体素化建模等技术，为 Minecraft 玩家和地图创作者提供了将现实世界导入游戏的便捷途径，也可用于教育演示、城市规划可视化等场景。",
+  "tags": [
+    "Rust",
+    "Minecraft",
+    "地理数据转换",
+    "开源工具",
+    "体素建模",
+    "地图生成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:38+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "louis-e",
+    "stars": 18771,
+    "forks": 1591,
+    "daily_stars": 15,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

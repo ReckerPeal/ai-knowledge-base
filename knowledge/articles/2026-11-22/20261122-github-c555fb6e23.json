@@ -1,0 +1,35 @@
+{
+  "id": "20261122-github-c555fb6e23",
+  "title": "datazip-inc/olake-go",
+  "source": "github_trending",
+  "source_url": "https://github.com/datazip-inc/olake-go",
+  "summary": "OLake Go 是一个开源数据复制工具，支持从 Postgres、MySQL、MongoDB、Oracle、MSSQL、DB2、Kafka 和 S3 等多种数据源将数据复制到 Apache Iceberg 和 Parquet 格式，项目使用 Go 语言开发，原名 datazip-inc/olake，表维护功能位于 datazip-inc/olake-fusion 仓库。",
+  "content": "OLake Go 由 datazip-inc 开源，定位为面向数据湖仓的数据复制与摄取工具。其核心能力是打通多种异构数据源到 Apache Iceberg 和 Parquet 的复制链路，支持的数据源包括关系型数据库 Postgres、MySQL、Oracle、MSSQL、DB2，以及文档数据库 MongoDB、消息系统 Kafka 和对象存储 S3。目标端聚焦 Apache Iceberg 与 Parquet，便于将数据以开放表格式落入数据湖。项目原名为 datazip-inc/olake，当前仓库为 olake-go，表维护相关功能拆分至 datazip-inc/olake-fusion。该仓库在 GitHub 趋势中受到关注，当前约 2182 星、323 分支，日增约 93 星，语言为 Go，适合关注数据集成、CDC 复制、Iceberg 数据湖建设的团队评估使用。",
+  "tags": [
+    "Go",
+    "数据复制",
+    "Apache Iceberg",
+    "Parquet",
+    "数据湖",
+    "数据集成",
+    "Kafka",
+    "S3",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-22T04:17:41+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "datazip-inc",
+    "stars": 2182,
+    "forks": 323,
+    "daily_stars": 93,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
