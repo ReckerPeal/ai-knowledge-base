@@ -1,0 +1,33 @@
+{
+  "id": "20261123-github-2c7b311170",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "summary": "Firecrawl 是一个面向 AI Agent 的知识基础设施项目，提供统一的 API 来搜索、抓取并访问 550+ 数据源，帮助智能体获取更准确、更丰富的上下文信息。项目以 TypeScript 实现，在 GitHub 上拥有约 20.7 万星标，日增约 910 星，热度极高。",
+  "content": "Firecrawl 定位为“让 Agent 更聪明的知识基础设施”，核心能力包括：1）统一 API 接入 550+ 数据提供方，降低多源数据集成成本；2）网页搜索与抓取（scrape），将非结构化网页内容转化为可供 LLM/Agent 使用的结构化数据；3）为 AI Agent 提供实时、可扩展的外部知识检索层。项目采用 TypeScript 开发，适合与 Node.js/前端及 AI 应用栈集成。从社区指标看，仓库星标约 206,895、Fork 约 10,811，日增星约 910，属于 GitHub 热点项目，生态关注度和采用潜力较高。适用场景包括 RAG 数据采集、Agent 工具调用、竞品/舆情监控、网页内容结构化等。",
+  "tags": [
+    "AI Agent",
+    "知识基础设施",
+    "网页抓取",
+    "搜索 API",
+    "RAG",
+    "TypeScript",
+    "数据接入"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-23T04:30:15+08:00",
+  "language": "TypeScript",
+  "score": 9.2,
+  "metadata": {
+    "author": "firecrawl",
+    "stars": 206895,
+    "forks": 10811,
+    "daily_stars": 910,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

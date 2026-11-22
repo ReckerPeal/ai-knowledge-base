@@ -1,0 +1,33 @@
+{
+  "id": "20261123-github-c6524b3bb6",
+  "title": "elementalsouls/Claude-BugHunter",
+  "source": "github_trending",
+  "source_url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "summary": "Claude-BugHunter 是一个面向 Claude Code 的漏洞挖掘与外部红队技能包，包含 82 个技能、15 个斜杠命令、覆盖 24 类核心漏洞的 681 条已披露报告模式，以及企业身份与基础设施攻击矩阵。",
+  "content": "该仓库以 Python 实现，为 Claude Code 提供结构化的安全测试能力扩展。其核心资产包括：82 个可复用技能模块、15 个斜杠命令用于快速调用工作流、681 条从公开披露报告中提炼的漏洞模式（横跨 24 个核心漏洞类别），以及针对企业身份系统和基础设施的攻击矩阵。项目在 GitHub 上热度极高，累计约 1.75 万星标、1949 次复刻，日增约 1721 星、周增约 9758 星，属于近期快速升温的安全工具类项目。适合安全研究人员、红队成员和漏洞赏金猎人在授权测试场景中借助 Claude Code 提升漏洞发现与报告分析效率。",
+  "tags": [
+    "漏洞挖掘",
+    "红队工具",
+    "Claude Code",
+    "安全技能包",
+    "漏洞赏金",
+    "Python",
+    "攻击矩阵"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-23T04:30:13+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "elementalsouls",
+    "stars": 17506,
+    "forks": 1949,
+    "daily_stars": 1721,
+    "weekly_stars": 9758,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

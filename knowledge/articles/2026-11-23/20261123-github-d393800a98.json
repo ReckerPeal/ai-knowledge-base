@@ -1,0 +1,36 @@
+{
+  "id": "20261123-github-d393800a98",
+  "title": "appwrite/appwrite",
+  "source": "github_trending",
+  "source_url": "https://github.com/appwrite/appwrite",
+  "summary": "Appwrite 是一个面向开发者与 AI 代理的开源云平台，提供认证、数据库、存储、函数、消息、托管、实时通信、WAF 等一体化后端服务，使用 TypeScript 开发，在 GitHub 上拥有约 5.86 万星标，日增约 121 星，热度较高。",
+  "content": "Appwrite 定位为“面向代理与开发者的开源云”，将应用开发常用的后端能力打包为统一平台，涵盖用户认证（Auth）、数据库（Databases）、文件存储（Storage）、无服务器函数（Functions）、消息推送（Messaging）、静态托管（Hosting）、实时订阅（Realtime）以及 Web 应用防火墙（WAF）等模块。其核心价值在于让开发者无需自行搭建和维护分散的后端基础设施，即可快速构建 Web、移动端及 AI 代理类应用，同时保持开源与自托管能力，避免厂商锁定。仓库主语言为 TypeScript，当前星标约 58,587，Fork 约 5,917，日增星约 121，表明社区关注度持续上升。从技术生态看，Appwrite 适合作为 Firebase 等闭源 BaaS 的开源替代方案，尤其适合需要数据主权、私有化部署或与 AI 代理集成的团队。建议关注其版本迭代、自托管部署复杂度、各模块的 SDK 覆盖度以及与主流前端框架的集成体验。",
+  "tags": [
+    "开源云平台",
+    "BaaS",
+    "TypeScript",
+    "后端服务",
+    "开发者工具",
+    "AI 代理",
+    "自托管",
+    "认证",
+    "数据库",
+    "Serverless"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-23T04:30:15+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "appwrite",
+    "stars": 58587,
+    "forks": 5917,
+    "daily_stars": 121,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

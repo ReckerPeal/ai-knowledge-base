@@ -1,0 +1,33 @@
+{
+  "id": "20261123-github-1876b9abaa",
+  "title": "SWE-agent/mini-swe-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/SWE-agent/mini-swe-agent",
+  "summary": "SWE-agent/mini-swe-agent 是一个仅约 100 行代码的极简 AI 智能体，能够解决 GitHub 问题或在命令行中提供帮助，在 SWE-bench verified 基准上得分超过 74%，以极简设计和高性能引发关注。",
+  "content": "该项目由 SWE-agent 团队开发，核心卖点是用约 100 行 Python 代码实现一个可解决 GitHub issue 或辅助命令行的 AI 智能体。它强调“彻底简单”：无需庞大配置文件，也无需巨型 monorepo，却能在 SWE-bench verified 上取得 >74% 的分数，说明极简架构也能达到接近前沿的软件工程任务解决能力。仓库当前约 9,968 stars、1,363 forks，日增约 35 stars，属于 GitHub 热点 Python 项目。适合希望理解 AI 智能体最小实现、快速本地部署或研究 SWE-bench 类任务的开发者。",
+  "tags": [
+    "AI Agent",
+    "Python",
+    "SWE-bench",
+    "GitHub Issue 解决",
+    "命令行工具",
+    "极简实现",
+    "开源项目"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-23T04:30:13+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "SWE-agent",
+    "stars": 9968,
+    "forks": 1363,
+    "daily_stars": 35,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
