@@ -1,0 +1,34 @@
+{
+  "id": "20261124-github-0876c9c2b3",
+  "title": "CopilotKit/OpenBot",
+  "source": "github_trending",
+  "source_url": "https://github.com/CopilotKit/OpenBot",
+  "summary": "CopilotKit/OpenBot 是一个开源、可自托管的 AI 机器人替代方案，定位为闭源 AI 机器人的开放替代品，强调生产可用、高度可定制，并能接入任意技术栈（任意智能体、任意模型、任意工具）。项目使用 TypeScript 开发，在 GitHub 上已获得约 1.33 万星标和 1661 次复刻，近期一周新增约 748 星，热度较高。",
+  "content": "该项目由 CopilotKit 团队维护，核心卖点是“开放 + 自托管 + 生产就绪”。与闭源 AI 机器人相比，OpenBot 允许用户将机器人部署在自己的基础设施上，从而掌控数据与模型调用；同时提供充分的定制能力，可适配不同业务场景。其“插拔式”设计支持任意智能体框架、任意大模型以及任意工具集成，降低了在现有技术栈中引入 AI 机器人的门槛。从社区指标看，项目已积累 13313 个星标和 1661 个复刻，周新增星标约 748，说明近期关注度持续上升，具备一定的社区活跃度和生态基础。技术栈为 TypeScript，适合前端与全栈开发者快速集成。总体而言，OpenBot 适合需要私有化部署、深度定制 AI 助手能力且希望避免供应商锁定的团队评估采用。",
+  "tags": [
+    "开源",
+    "自托管",
+    "AI 机器人",
+    "TypeScript",
+    "CopilotKit",
+    "可定制",
+    "智能体",
+    "生产就绪"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-24T09:19:06+08:00",
+  "language": "TypeScript",
+  "score": 8.2,
+  "metadata": {
+    "author": "CopilotKit",
+    "stars": 13313,
+    "forks": 1661,
+    "daily_stars": null,
+    "weekly_stars": 748,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261124-github-5e3363298a",
+  "title": "apache/airflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/apache/airflow",
+  "summary": "Apache Airflow 是一个用 Python 编写的开源平台，用于以编程方式编写、调度和监控工作流，在 GitHub 上拥有约 4.7 万星标，是数据工程领域的主流编排工具。",
+  "content": "Apache Airflow 由 Apache 软件基金会维护，核心定位是“以代码定义工作流”（Workflow as Code）。用户通过 Python 脚本定义 DAG（有向无环图），描述任务依赖关系与执行逻辑，平台负责调度、重试、监控和可视化。其优势包括：丰富的 Operator 生态可对接各类数据源与计算引擎；Web UI 提供 DAG 浏览、任务状态追踪与日志查看；支持分布式执行器以横向扩展。该仓库星标约 47,633、复刻约 18,386，日增星约 27，社区活跃、生态成熟，广泛应用于 ETL、数据管道、机器学习流水线等场景。适合数据工程师、平台工程师及需要可靠任务编排的团队采用。",
+  "tags": [
+    "Apache Airflow",
+    "工作流编排",
+    "Python",
+    "数据工程",
+    "调度平台",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-24T09:18:54+08:00",
+  "language": "Python",
+  "score": 9.2,
+  "metadata": {
+    "author": "apache",
+    "stars": 47633,
+    "forks": 18386,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

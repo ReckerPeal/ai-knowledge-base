@@ -1,0 +1,41 @@
+{
+  "id": "20261124-github-d41117b8d3",
+  "title": "t8y2/dbx",
+  "source": "github_trending",
+  "source_url": "https://github.com/t8y2/dbx",
+  "summary": "t8y2/dbx 是一款基于 Rust 开发的 25 MB 轻量级跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100+ 数据库，提供桌面端、Docker、CLI 三种形态，并内置 AI 助手与 MCP Server。项目在 GitHub 上已获约 3.1 万星标，日增约 90 星，属于 Rust 生态中的高热度数据库工具。",
+  "content": "该仓库定位为“轻量级 + 全数据库覆盖”的统一数据库管理入口。核心特点包括：1）体积仅约 25 MB，却兼容 100 多种数据库，覆盖关系型（MySQL、PostgreSQL、SQL Server、SQLite、达梦）、NoSQL（Redis、MongoDB）与分析型（DuckDB）等场景；2）交付形态多样，同时提供桌面客户端、Docker 镜像和 CLI，便于本地开发、容器化部署与自动化脚本集成；3）内置 AI 助手与 MCP Server，可借助大模型能力辅助 SQL 编写、数据查询与运维操作，并支持通过 MCP 协议与外部 AI 工具链对接；4）采用 Rust 实现，在性能、内存占用和跨平台分发上具备优势。从社区数据看，项目星标约 31,229、Fork 约 2,842，日增星约 90，说明近期关注度较高，适合需要轻量、多数据库统一管理且希望引入 AI 辅助的开发者与运维团队评估使用。",
+  "tags": [
+    "数据库客户端",
+    "跨平台",
+    "Rust",
+    "AI 助手",
+    "MCP",
+    "CLI",
+    "Docker",
+    "MySQL",
+    "PostgreSQL",
+    "SQLite",
+    "Redis",
+    "MongoDB",
+    "DuckDB",
+    "达梦",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-24T09:18:59+08:00",
+  "language": "Rust",
+  "score": 8.6,
+  "metadata": {
+    "author": "t8y2",
+    "stars": 31229,
+    "forks": 2842,
+    "daily_stars": 90,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

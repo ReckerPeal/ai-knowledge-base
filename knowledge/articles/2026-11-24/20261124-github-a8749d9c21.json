@@ -1,0 +1,35 @@
+{
+  "id": "20261124-github-a8749d9c21",
+  "title": "tianma-if/edgeever",
+  "source": "github_trending",
+  "source_url": "https://github.com/tianma-if/edgeever",
+  "summary": "EdgeEver 是一款 AI 原生笔记应用，定位为 Evernote/Obsidian 的开源替代品，支持全平台即时同步、富文本笔记（表格、思维导图、图表、海报）、网页剪藏与 MCP 协议，可免费部署在 Cloudflare 或 Docker 上，当前在 GitHub 上获得约 3500 星标。",
+  "content": "该项目由 tianma-if 开发，使用 TypeScript 编写，核心卖点包括：1）AI 原生设计，深度集成 AI 能力辅助笔记创作与管理；2）全平台即时同步，强调低延迟的数据一致性；3）富内容支持，覆盖表格、思维导图、图表、海报等多种笔记形态；4）网页剪藏与 MCP（Model Context Protocol）集成，便于与 AI 工具链打通；5）部署灵活且免费，支持 Cloudflare 与 Docker 两种方式，降低自托管门槛。从社区数据看，仓库已积累 3524 星标、1836 次 fork，日增约 27 星，说明项目具备一定关注度与活跃的二次开发潜力。作为 Evernote/Obsidian 的替代方案，其差异化在于 AI 原生与免费自托管，适合注重数据主权、希望将笔记与 AI 工作流结合的个人与团队。",
+  "tags": [
+    "AI 笔记",
+    "知识管理",
+    "TypeScript",
+    "开源替代",
+    "自托管",
+    "MCP",
+    "全平台同步",
+    "Cloudflare",
+    "Docker"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-24T09:18:57+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "tianma-if",
+    "stars": 3524,
+    "forks": 1836,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

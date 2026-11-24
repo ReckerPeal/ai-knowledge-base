@@ -1,0 +1,32 @@
+{
+  "id": "20261124-github-74a04885c0",
+  "title": "docker/compose",
+  "source": "github_trending",
+  "source_url": "https://github.com/docker/compose",
+  "summary": "Docker Compose 是 Docker 官方推出的开源工具，用于定义和运行多容器 Docker 应用。用户通过 YAML 文件声明服务、网络和卷，即可用一条命令启动完整应用栈。该项目以 Go 语言实现，在 GitHub 上拥有约 3.9 万星标，是容器编排与本地开发领域的基础设施级项目。",
+  "content": "Docker Compose 的核心价值在于简化多容器应用的编排流程。开发者只需编写 docker-compose.yml 文件，描述各服务镜像、端口映射、环境变量、依赖关系与数据卷，随后通过 docker compose up 等命令即可完成构建、启动和停止。它支持服务依赖顺序、网络隔离、配置复用与扩展，适用于本地开发、CI 测试以及轻量级生产部署。项目采用 Go 语言开发，具备跨平台能力，与 Docker 生态深度集成。从社区数据看，仓库累计约 39010 星标、6050 分支，近一周新增约 739 星标，表明项目仍保持较高关注度与活跃度。作为 Docker 官方维护的组件，其文档完善、版本迭代稳定，是容器化工作流中不可或缺的工具。",
+  "tags": [
+    "Docker",
+    "容器编排",
+    "Go",
+    "DevOps",
+    "开源工具",
+    "多容器应用"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-24T09:19:10+08:00",
+  "language": "Go",
+  "score": 9.2,
+  "metadata": {
+    "author": "docker",
+    "stars": 39010,
+    "forks": 6050,
+    "daily_stars": null,
+    "weekly_stars": 739,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
