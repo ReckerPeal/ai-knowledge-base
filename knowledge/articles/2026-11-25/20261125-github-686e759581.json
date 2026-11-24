@@ -1,0 +1,32 @@
+{
+  "id": "20261125-github-686e759581",
+  "title": "ruffle-rs/ruffle",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruffle-rs/ruffle",
+  "summary": "Ruffle 是一个用 Rust 编写的开源 Flash Player 模拟器，旨在安全地运行历史遗留的 SWF 内容，项目在 GitHub 上获得近 1.9 万星标。",
+  "content": "Ruffle 由 ruffle-rs 组织维护，核心目标是为已停止支持的 Adobe Flash Player 提供替代方案，使旧版 Flash 动画、游戏和交互内容能够在现代浏览器和桌面环境中继续运行。项目采用 Rust 语言开发，利用 Rust 的内存安全与高性能特性，同时编译为 WebAssembly 以支持 Web 端播放。仓库当前约 18,941 星标、1,202 分支，日增约 12 星，属于 GitHub Rust 热点项目。其技术价值在于对 SWF 格式的兼容性实现、ActionScript 虚拟机以及跨平台渲染管线的构建，对数字内容保存与复古计算社区具有较高意义。",
+  "tags": [
+    "Rust",
+    "Flash 模拟器",
+    "WebAssembly",
+    "开源",
+    "数字保存",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-25T07:18:29+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "ruffle-rs",
+    "stars": 18941,
+    "forks": 1202,
+    "daily_stars": 12,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20261125-github-0f97b56128",
+  "title": "google-labs-code/design.md",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-labs-code/design.md",
+  "summary": "Google Labs 推出的 DESIGN.md 是一种面向编码智能体的视觉标识描述格式规范，旨在为 AI 编码代理提供对设计系统的持久化、结构化理解，使智能体在生成代码时能够遵循统一的设计语言。",
+  "content": "该仓库由 google-labs-code 发布，采用 TypeScript 实现，核心是一套名为 DESIGN.md 的格式规范。DESIGN.md 通过结构化的 Markdown 文档向编码智能体描述视觉标识（visual identity），包括颜色、字体、间距、组件样式等设计系统要素，从而让 AI 代理在多次交互中保持对设计系统的一致理解，避免每次重新推断设计意图。该规范填补了设计系统与 AI 代码生成之间的衔接空白，适用于前端开发、UI 自动化生成、设计一致性校验等场景。仓库热度较高，累计获得约 2.9 万星标、2352 次 fork，近一周新增 187 星，属于 GitHub TypeScript 热点项目。",
+  "tags": [
+    "设计系统",
+    "AI 编码智能体",
+    "格式规范",
+    "TypeScript",
+    "前端开发",
+    "Google Labs"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-25T07:18:36+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "google-labs-code",
+    "stars": 29090,
+    "forks": 2352,
+    "daily_stars": null,
+    "weekly_stars": 187,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

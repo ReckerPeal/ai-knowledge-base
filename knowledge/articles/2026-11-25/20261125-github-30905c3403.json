@@ -1,0 +1,34 @@
+{
+  "id": "20261125-github-30905c3403",
+  "title": "wshobson/agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/wshobson/agents",
+  "summary": "wshobson/agents 是一个面向 Claude Code、Codex CLI、Cursor、OpenCode、Antigravity CLI、GitHub Copilot 和 Pi 等多个 AI 编程工具的插件、智能体、技能与命令集合。其核心思路是用 Markdown 编写一次，再通过带校验和评估的生成器适配到各个工具，实现跨工具复用。项目以 Python 实现，已获得约 4.3 万星标。",
+  "content": "该项目解决的是 AI 编程助手生态碎片化的问题：不同工具（Claude Code、Cursor、Copilot 等）各有自己的插件/智能体/命令格式，开发者需要为每个工具重复编写配置。wshobson/agents 采用“一次编写、多端生成”的架构——所有插件、智能体、技能和命令均以 Markdown 为单一事实来源，再由生成器转换为各目标工具所需的格式，并内置校验与评估机制以保证生成结果正确。仓库语言为 Python，当前约 42,866 星标、4,538 分支，日增约 35 星，属于 GitHub 热点 Python 类项目。适合希望统一管理多 AI 编程工具配置、减少重复维护成本的开发者与团队。",
+  "tags": [
+    "AI 编程助手",
+    "Claude Code",
+    "Cursor",
+    "GitHub Copilot",
+    "插件生态",
+    "Markdown",
+    "代码生成",
+    "Python"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-25T07:18:24+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "wshobson",
+    "stars": 42866,
+    "forks": 4538,
+    "daily_stars": 35,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
