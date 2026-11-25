@@ -1,0 +1,32 @@
+{
+  "id": "20261126-github-0fa0232fce",
+  "title": "awslabs/cli-agent-orchestrator",
+  "source": "github_trending",
+  "source_url": "https://github.com/awslabs/cli-agent-orchestrator",
+  "summary": "awslabs/cli-agent-orchestrator 是 AWS Labs 推出的多智能体编排工具，用于协调 Claude Code、Kiro、Codex 等 AI 编程 CLI，在隔离的 tmux 会话中并行运行多个智能体，提升复杂开发任务的自动化协作效率。",
+  "content": "该项目由 AWS Labs 开源，使用 Python 编写，核心目标是为多种 AI 编程命令行工具（如 Claude Code、Kiro、Codex 等）提供统一的多智能体编排能力。它通过 tmux 会话隔离每个智能体的运行环境，避免相互干扰，同时支持任务分发与协调。仓库当前获得约 1681 个 Star 和 352 个 Fork，日增约 10 Star，属于 GitHub Python 热点项目。适合需要并行调用多个 AI 编码代理完成复杂工程任务的开发者，尤其对自动化工作流和智能体协作场景有较高参考价值。",
+  "tags": [
+    "多智能体编排",
+    "AI 编程 CLI",
+    "tmux",
+    "Python",
+    "AWS Labs",
+    "自动化工作流"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:09+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "awslabs",
+    "stars": 1681,
+    "forks": 352,
+    "daily_stars": 10,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

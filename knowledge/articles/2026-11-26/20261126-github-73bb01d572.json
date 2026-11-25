@@ -1,0 +1,33 @@
+{
+  "id": "20261126-github-73bb01d572",
+  "title": "samuelgursky/davinci-resolve-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+  "summary": "该项目是一个基于 Python 的 MCP（Model Context Protocol）服务器集成，用于连接 DaVinci Resolve Studio 视频编辑软件，使 AI 助手能够通过标准化协议操控 Resolve 的各项功能。",
+  "content": "samuelgursky/davinci-resolve-mcp 在 GitHub 上获得约 4374 星标和 497 次 fork，日增约 27 星，属于 Python 类热点项目。其核心价值在于将 MCP 协议引入专业视频后期领域：通过实现 MCP server，把 DaVinci Resolve Studio 的剪辑、调色、特效、音频等操作封装为可供大模型调用的工具接口，从而让 AI 代理以自然语言或程序化方式驱动 Resolve 完成自动化工作流。项目使用 Python 编写，便于与现有 AI 生态（如 Claude Desktop、各类 MCP 客户端）集成。适合视频自动化、AI 辅助剪辑、批量处理等场景，也体现了 MCP 生态向垂直专业软件扩展的趋势。",
+  "tags": [
+    "MCP",
+    "DaVinci Resolve",
+    "Python",
+    "AI Agent",
+    "视频编辑",
+    "自动化",
+    "工具集成"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:09+08:00",
+  "language": "Python",
+  "score": 8.2,
+  "metadata": {
+    "author": "samuelgursky",
+    "stars": 4374,
+    "forks": 497,
+    "daily_stars": 27,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

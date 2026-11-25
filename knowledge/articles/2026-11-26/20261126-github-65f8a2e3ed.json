@@ -1,0 +1,34 @@
+{
+  "id": "20261126-github-65f8a2e3ed",
+  "title": "openai/codex-security",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/codex-security",
+  "summary": "OpenAI 推出的 Codex Security 项目，提供 CLI 工具与 TypeScript SDK，用于发现、验证并修复安全漏洞，以 npm 包 @openai/codex-security 形式发布，当前在 GitHub 上获得约 1.4 万星标。",
+  "content": "该项目由 OpenAI 官方维护，核心能力围绕安全漏洞的发现、验证与修复三个环节展开。它同时提供命令行工具（CLI）和 TypeScript SDK，方便开发者在终端工作流或代码中集成安全检测能力。项目以 TypeScript 编写，并通过 npm 包 @openai/codex-security 分发，便于前端与 Node.js 生态直接引入。仓库热度较高，累计星标约 14369，复刻约 1139，近一周新增星标约 445，属于 GitHub TypeScript 分类下的热点项目。适合关注 AI 辅助安全审计、代码安全自动化以及 OpenAI 生态工具链的开发者参考使用。",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "安全漏洞",
+    "TypeScript",
+    "CLI",
+    "SDK",
+    "npm",
+    "代码安全"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:21+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "openai",
+    "stars": 14369,
+    "forks": 1139,
+    "daily_stars": null,
+    "weekly_stars": 445,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

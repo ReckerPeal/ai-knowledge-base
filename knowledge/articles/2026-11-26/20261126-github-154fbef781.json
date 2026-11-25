@@ -1,0 +1,33 @@
+{
+  "id": "20261126-github-154fbef781",
+  "title": "p-e-w/heretic",
+  "source": "github_trending",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "summary": "p-e-w/heretic 是一个基于 Python 的无训练语言模型修改工具，旨在移除模型审查、抑制低质输出（slop）、减少谄媚倾向等，通过无需重新训练的方式对语言模型行为进行干预。该项目在 GitHub 上热度极高，已获得超过 4.3 万星标，日增星约 213。",
+  "content": "该仓库名为 heretic，核心定位是“免训练的语言模型修改”，即在不重新训练模型的前提下，通过某种推理时或参数层面的干预手段，改变模型的行为倾向。根据摘要，其功能包括：移除审查（remove censorship）、抑制低质/套路化输出（suppress slop）、减少谄媚（reduce sycophancy）等。项目使用 Python 实现，作者为 p-e-w。从元数据看，仓库已积累 43190 个星标和 5419 个 fork，日增星约 213，属于 GitHub 热点中的高关注项目。其技术思路可能涉及激活引导、方向向量编辑或解码策略调整等免训练方法，但摘要未提供具体实现细节。该工具适合希望定制模型行为、去除安全对齐限制或改善输出质量的研究者与开发者，同时也可能引发关于模型安全与伦理的讨论。",
+  "tags": [
+    "语言模型",
+    "免训练修改",
+    "模型行为干预",
+    "Python",
+    "GitHub 热点",
+    "去审查",
+    "谄媚抑制"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:09+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "p-e-w",
+    "stars": 43190,
+    "forks": 5419,
+    "daily_stars": 213,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

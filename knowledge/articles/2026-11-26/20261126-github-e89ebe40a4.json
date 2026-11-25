@@ -1,0 +1,35 @@
+{
+  "id": "20261126-github-e89ebe40a4",
+  "title": "Autumn-27/ScopeSentry",
+  "source": "github_trending",
+  "source_url": "https://github.com/Autumn-27/ScopeSentry",
+  "summary": "ScopeSentry 是一个用 Go 语言开发的网络空间测绘与资产安全扫描平台，集子域名枚举、端口扫描、敏感信息发现、漏洞扫描和分布式节点调度于一体，当前在 GitHub 上获得约 2695 星标，属于热门的 Go 安全工具项目。",
+  "content": "ScopeSentry 由 Autumn-27 开发，定位为网络空间测绘与攻击面管理工具。核心能力包括：子域名枚举、端口扫描、敏感信息发现、漏洞扫描，并支持分布式节点部署以提升大规模扫描效率。项目使用 Go 语言实现，具备较好的并发与跨平台部署能力。仓库当前约 2695 stars、724 forks，日增约 14 stars，属于 GitHub Go 分类下的热点项目。适用场景包括渗透测试前期信息收集、企业外部资产梳理、攻击面管理与安全评估。由于涉及主动扫描能力，使用者应确保在合法授权范围内使用。",
+  "tags": [
+    "网络安全",
+    "网络空间测绘",
+    "子域名枚举",
+    "端口扫描",
+    "漏洞扫描",
+    "分布式扫描",
+    "Go",
+    "攻击面管理",
+    "信息收集"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:16+08:00",
+  "language": "Go",
+  "score": 8.2,
+  "metadata": {
+    "author": "Autumn-27",
+    "stars": 2695,
+    "forks": 724,
+    "daily_stars": 14,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20261126-github-0edb74315f",
+  "title": "solidjs/solid",
+  "source": "github_trending",
+  "source_url": "https://github.com/solidjs/solid",
+  "summary": "SolidJS 是一个用于构建用户界面的声明式、高效且灵活的 JavaScript/TypeScript 前端库，以细粒度响应式更新和接近原生 DOM 的性能著称，在 GitHub 上拥有约 3.7 万星标。",
+  "content": "SolidJS（solidjs/solid）是一个基于 TypeScript 开发的现代前端 UI 库，定位为声明式、高效、灵活的 JavaScript 库，用于构建用户界面。其核心特点是采用细粒度响应式系统，通过编译时优化将 JSX 转换为直接操作 DOM 的代码，避免虚拟 DOM 开销，从而实现接近原生 JavaScript 的运行时性能。该库语法风格接近 React（JSX），但响应式模型更接近 Vue/Svelte 的细粒度更新，学习成本较低且生态逐步完善。仓库当前约 36,963 星标、1,210 次 fork，日增约 19 星，属于 GitHub TypeScript 热点项目，社区活跃度稳定。适合追求高性能、小体积前端框架的开发者，以及需要构建交互密集型 Web 应用的团队评估采用。",
+  "tags": [
+    "SolidJS",
+    "TypeScript",
+    "前端框架",
+    "响应式编程",
+    "UI 库",
+    "JavaScript",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:12+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "solidjs",
+    "stars": 36963,
+    "forks": 1210,
+    "daily_stars": 19,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

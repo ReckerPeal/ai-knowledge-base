@@ -1,0 +1,32 @@
+{
+  "id": "20261126-github-52b03674c3",
+  "title": "colbymchenry/codegraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "summary": "codegraph 是一个预索引代码知识图谱工具，能在代码变更时自动同步，面向 Claude Code、Codex、Gemini、Cursor 等多种 AI 编程代理，旨在减少 token 消耗和工具调用次数，且完全本地运行。",
+  "content": "该项目由 colbymchenry 开发，使用 TypeScript 编写，在 GitHub 上获得约 7.9 万星标和 5 千余次 fork，日增约 88 星，属于 GitHub 热点 TypeScript 类别。其核心能力是预先构建代码知识图谱，并在代码修改后自动增量同步，从而为 AI 编程助手提供结构化的代码上下文。它兼容 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot 和 Hermes Agent 等主流代理工具。主要优势包括：降低 token 消耗、减少工具调用轮次、100% 本地运行以保障代码隐私。适合需要提升 AI 辅助编程效率、控制上下文成本并关注数据本地化的开发团队和个人使用。",
+  "tags": [
+    "代码知识图谱",
+    "AI 编程助手",
+    "TypeScript",
+    "本地运行",
+    "上下文优化",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:12+08:00",
+  "language": "TypeScript",
+  "score": 8.5,
+  "metadata": {
+    "author": "colbymchenry",
+    "stars": 78697,
+    "forks": 5247,
+    "daily_stars": 88,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

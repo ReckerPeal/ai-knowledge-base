@@ -1,0 +1,35 @@
+{
+  "id": "20261126-github-45b453e349",
+  "title": "kajisho5/ffmpeg-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/kajisho5/ffmpeg-skill",
+  "summary": "kajisho5/ffmpeg-skill 是一个面向编码智能体（Claude Code、Cursor、Codex）的本地视频编辑工具集，提供 42 个 FFmpeg 工具、机器可读契约与 MCP 服务器，支持剪辑、字幕、重构图、响度调整和平台导出，无需云端与 API 密钥。",
+  "content": "该仓库将 FFmpeg 能力封装为编码智能体可直接调用的工具集，核心亮点包括：1）42 个 FFmpeg 工具覆盖剪辑、字幕、画面重构图、响度标准化与多平台导出等常见视频编辑场景；2）提供机器可读契约（machine-readable contract），使智能体能够可靠地发现、理解并调用工具；3）内置 MCP 服务器，兼容 Claude Code、Cursor 和 Codex 等主流编码智能体；4）完全本地运行，不依赖云服务，也无需 API 密钥，兼顾隐私与易用性。项目使用 Python 实现，在 GitHub 上获得约 1.1 万星标、936 次 fork，近一周新增约 2993 星，热度较高，适合需要为 AI 编码助手赋予视频处理能力的开发者与团队。",
+  "tags": [
+    "FFmpeg",
+    "视频编辑",
+    "MCP",
+    "编码智能体",
+    "Python",
+    "本地工具",
+    "Claude Code",
+    "Cursor",
+    "Codex"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "kajisho5",
+    "stars": 11075,
+    "forks": 936,
+    "daily_stars": null,
+    "weekly_stars": 2993,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

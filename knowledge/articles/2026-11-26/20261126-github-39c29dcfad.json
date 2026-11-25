@@ -1,0 +1,32 @@
+{
+  "id": "20261126-github-39c29dcfad",
+  "title": "microsoft/PyRIT",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/PyRIT",
+  "summary": "微软开源的 AI 红队测试工具包 PyRIT，用于对生成式 AI 系统进行自动化扫描、自适应多轮攻击测试，并提供 Web UI 界面。",
+  "content": "PyRIT（Python Risk Identification Toolkit）是微软发布的开源 AI 红队测试框架，旨在帮助安全团队和开发者系统性地评估生成式 AI 系统的安全风险。该工具支持自动化扫描、自适应多轮攻击（adaptive multi-turn attacks）以及 Web UI 操作界面，可对 LLM 等生成式 AI 应用进行对抗性测试。仓库使用 Python 编写，当前获得约 5084 个 Star 和 1127 个 Fork，近一周新增 141 个 Star，属于 GitHub 热点 Python 项目。其核心价值在于将 AI 安全测试流程工程化、可复现化，适用于企业 AI 安全评估、模型上线前风险检测及红队演练等场景。",
+  "tags": [
+    "AI 安全",
+    "红队测试",
+    "生成式 AI",
+    "Python",
+    "微软开源",
+    "LLM 安全评估"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-26T06:51:19+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "microsoft",
+    "stars": 5084,
+    "forks": 1127,
+    "daily_stars": null,
+    "weekly_stars": 141,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}
