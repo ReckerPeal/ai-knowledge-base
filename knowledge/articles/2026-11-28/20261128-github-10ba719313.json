@@ -1,0 +1,33 @@
+{
+  "id": "20261128-github-10ba719313",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "summary": "Anthropic 官方开源的 Agent Skills 公共仓库，提供面向 AI Agent 的技能定义与实现，采用 Python 语言开发，在 GitHub 上获得约 20 万星标，是当前 AI Agent 生态中关注度极高的官方项目。",
+  "content": "该仓库为 Anthropic 官方维护的 Agent Skills 公共代码库，核心定位是为 AI Agent 提供可复用、可组合的技能（Skills）定义与实现方案。仓库使用 Python 编写，当前累计星标约 201,470，Fork 数约 23,586，近一周新增星标约 3,454，属于 GitHub 热点中的 Python 类项目。从项目属性看，其价值主要体现在三方面：一是官方背书，由 Anthropic 直接维护，与 Claude 等模型生态紧密相关，具备较高的权威性和参考价值；二是标准化意义，Agent Skills 有望成为智能体能力封装与调用的通用范式，帮助开发者以模块化方式扩展 Agent 能力边界；三是社区热度极高，短时间内积累大量关注，说明市场对 Agent 技能标准化需求强烈。适用场景包括构建基于大模型的智能体应用、设计技能注册与调度机制、研究 Agent 能力组合与复用模式等。建议关注其技能接口规范、目录结构及示例实现，以便快速接入或借鉴到自有 Agent 系统中。",
+  "tags": [
+    "Agent Skills",
+    "AI Agent",
+    "Anthropic",
+    "Python",
+    "开源项目",
+    "大模型应用",
+    "GitHub 热点"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-28T06:24:31+08:00",
+  "language": "zh",
+  "score": 9.2,
+  "metadata": {
+    "author": "anthropics",
+    "stars": 201470,
+    "forks": 23586,
+    "daily_stars": null,
+    "weekly_stars": 3454,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

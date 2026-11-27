@@ -1,0 +1,34 @@
+{
+  "id": "20261128-github-6096cc3a83",
+  "title": "HKUDS/CLI-Anything",
+  "source": "github_trending",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "summary": "HKUDS/CLI-Anything 是香港大学数据科学实验室（HKUDS）推出的开源项目，旨在让所有软件都具备 Agent 原生能力，通过 CLI-Hub 将命令行工具与 AI Agent 生态连接。项目以 Python 实现，在 GitHub 上获得约 6.7 万星标，日增约 668 星，热度极高。",
+  "content": "该项目标题为“CLI-Anything: Making ALL Software Agent-Native”，核心愿景是让任意软件都能被 AI Agent 直接调用。项目提供 CLI-Hub（https://clianything.cc/）作为命令行工具的聚合与分发入口，可能通过标准化 CLI 接口、工具注册与发现机制，降低 Agent 集成各类软件的门槛。仓库由 HKUDS 维护，语言为 Python，当前星标数约 66,954，fork 数约 6,152，日增星标约 668，属于 GitHub 热点中的高关注项目。由于摘要信息有限，具体实现细节（如 Agent 协议适配、工具封装方式、CLI-Hub 的架构）需进一步查看仓库文档与代码确认。",
+  "tags": [
+    "AI Agent",
+    "CLI",
+    "工具集成",
+    "Python",
+    "开源项目",
+    "HKUDS",
+    "Agent-Native",
+    "CLI-Hub"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-28T06:24:23+08:00",
+  "language": "Python",
+  "score": 8.5,
+  "metadata": {
+    "author": "HKUDS",
+    "stars": 66954,
+    "forks": 6152,
+    "daily_stars": 668,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Python"
+  }
+}

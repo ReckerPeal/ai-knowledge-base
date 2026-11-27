@@ -1,0 +1,32 @@
+{
+  "id": "20261128-github-b8c7fd931d",
+  "title": "malisper/pgrust",
+  "source": "github_trending",
+  "source_url": "https://github.com/malisper/pgrust",
+  "summary": "malisper/pgrust 是一个用 Rust 重写 PostgreSQL 的开源项目，宣称在性能上已超越 PostgreSQL 和 ClickHouse，获得 6106 星标和 249 次 fork，属于 GitHub 热点 Rust 分类。",
+  "content": "该项目将 PostgreSQL 数据库用 Rust 语言重写，核心亮点是性能超越原生 PostgreSQL 以及分析型数据库 ClickHouse。仓库当前获得约 6100 星标，日增约 18 星，热度较高。Rust 语言的内存安全与高性能特性可能是其实现性能突破的关键。该项目适合关注数据库内核、Rust 系统编程和高性能数据处理的开发者研究。",
+  "tags": [
+    "Rust",
+    "PostgreSQL",
+    "数据库",
+    "ClickHouse",
+    "高性能",
+    "开源"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-28T06:24:27+08:00",
+  "language": "Rust",
+  "score": 8.5,
+  "metadata": {
+    "author": "malisper",
+    "stars": 6106,
+    "forks": 249,
+    "daily_stars": 18,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Rust"
+  }
+}

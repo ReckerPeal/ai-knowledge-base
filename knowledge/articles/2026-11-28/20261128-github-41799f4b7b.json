@@ -1,0 +1,32 @@
+{
+  "id": "20261128-github-41799f4b7b",
+  "title": "bendlang/bend",
+  "source": "github_trending",
+  "source_url": "https://github.com/bendlang/bend",
+  "summary": "Bend 2 是一门主打「通过证明机制阻断 AI 错误」的快速编程语言，以 TypeScript 实现，在 GitHub 上获得约 2.6 万星标，日增约 65 星，热度较高。",
+  "content": "该仓库为 bendlang/bend，标题为「Bend 2: a fast language that blocks AI mistakes via proof」，核心定位是一门快速语言，借助证明（proof）机制来阻止 AI 产生的错误，属于面向 AI 辅助编程场景的语言设计与验证方向。安装方式为通过 curl 管道执行官方安装脚本（curl -fsSL https://bend-lang.com/install.sh | sh）。仓库语言标注为 TypeScript，作者 bendlang，当前星标 25987、复刻 828、日增星标约 65，归类于 GitHub 热点 TypeScript 分类。从摘要看，项目强调性能与正确性保障的结合，但具体语法、证明系统实现细节及运行时特性在摘要中未展开，需进一步查阅仓库文档与源码。",
+  "tags": [
+    "编程语言",
+    "AI 安全",
+    "形式化证明",
+    "TypeScript",
+    "GitHub 热点",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-28T06:24:25+08:00",
+  "language": "TypeScript",
+  "score": 8.0,
+  "metadata": {
+    "author": "bendlang",
+    "stars": 25987,
+    "forks": 828,
+    "daily_stars": 65,
+    "weekly_stars": null,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · TypeScript"
+  }
+}

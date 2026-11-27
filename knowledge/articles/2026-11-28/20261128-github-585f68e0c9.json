@@ -1,0 +1,33 @@
+{
+  "id": "20261128-github-585f68e0c9",
+  "title": "misakano7545/workbuddy2api-panel",
+  "source": "github_trending",
+  "source_url": "https://github.com/misakano7545/workbuddy2api-panel",
+  "summary": "该项目是一个基于 Go 语言开发的多账号网关，可将腾讯 WorkBuddy 账号转换为 OpenAI 兼容 API，并自动完成平台任务中心的全部任务，同时提供 Web 管理面板用于账号池可视化、积分任务管理和配置热更新。",
+  "content": "该项目是 Sliverkiss/workbuddy2api 的增强分支，核心功能包括：1）将腾讯 WorkBuddy 账号池封装为 OpenAI 兼容 API 接口，便于下游应用直接调用；2）自动执行 WorkBuddy 任务中心的所有任务，实现积分自动化获取；3）提供 Web 管理面板，支持账号池状态可视化、积分任务配置与监控、配置热更新等运维能力。项目采用 Go 语言实现，当前在 GitHub 上获得约 1538 星标和 378 次 fork，周新增星标约 168，属于近期热度较高的 Go 语言开源项目。",
+  "tags": [
+    "Go",
+    "OpenAI兼容API",
+    "多账号网关",
+    "腾讯WorkBuddy",
+    "自动化任务",
+    "Web管理面板",
+    "API网关"
+  ],
+  "status": "draft",
+  "published_at": null,
+  "collected_at": "2026-11-28T06:24:38+08:00",
+  "language": "Go",
+  "score": 8.0,
+  "metadata": {
+    "author": "misakano7545",
+    "stars": 1538,
+    "forks": 378,
+    "daily_stars": null,
+    "weekly_stars": 168,
+    "monthly_stars": null,
+    "stars_baseline_date": null,
+    "feed_name": null,
+    "category": "GitHub 热点 · Go"
+  }
+}
